@@ -1,0 +1,30 @@
+{
+  "lastUpdated": "2026-03-05 14:46:22",
+  "totalCount": 3,
+  "news": [
+    {
+      "id": "1",
+      "title": "特斯拉 FSD 即将在中国落地",
+      "summary": "特斯拉表示其完全自动驾驶能力（FSD）将很快在中国市场推出，目前正在等待监管部门批准...",
+      "source": "36氪",
+      "date": "2026-03-05",
+      "url": "https://36kr.com/"
+    },
+    {
+      "id": "2",
+      "title": "百度 Apollo 发布新一代自动驾驶平台",
+      "summary": "百度 Apollo 在年度技术大会上发布了全新的自动驾驶平台，支持 L4 级别自动驾驶...",
+      "source": "雷锋网",
+      "date": "2026-03-05",
+      "url": "https://www.leiphone.com/"
+    },
+    {
+      "id": "3",
+      "title": "小鹏汽车宣布城市 NGP 开放更多城市",
+      "summary": "小鹏汽车宣布其城市 NGP 功能将开放至 50 个城市，覆盖更多用户的日常通勤场景...",
+      "source": "虎嗅",
+      "date": "2026-03-05",
+      "url": "https://www.huxiu.com/"
+    }
+  ]
+}
