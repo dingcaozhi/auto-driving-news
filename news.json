@@ -1,46 +1,149 @@
 {
-  "lastUpdated": "2026-03-05 16:12:26",
-  "totalCount": 32,
+  "lastUpdated": "2026-03-05 16:40:03",
+  "totalCount": 34,
+  "sources": {
+    "Gmw": 2,
+    "News_Baidu": 8,
+    "Fx168News": 2,
+    "Eeo": 1,
+    "Truth_Tv": 1,
+    "Imobile": 1,
+    "The Guardian": 1,
+    "CNBC": 2,
+    "The Manila Times": 1,
+    "BOL News": 1,
+    "Reuters": 1,
+    "Caixin": 2,
+    "Markets Insider": 1,
+    "PR Newswire UK": 2,
+    "Interesting Engineering": 1,
+    "Investor's Business Daily": 1,
+    "NextBigFuture.com": 1,
+    "Benzinga": 2,
+    "MarketScreener": 1,
+    "Business Today": 1,
+    "Barchart": 1
+  },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1p8AZzfEZT",
-      "title": "【B站】FSD来了！北京深度使用分享！99%的人都不知道的很多智能驾驶的细节！全网最深入的智能驾驶视频讲解！",
-      "summary": "FSD来了！北京深度使用分享！\n99%的人都不知道的：\n很多智能驾驶的细节！\n全网最深入的智能驾驶视频讲解！...",
-      "source": "Bilibili",
-      "date": "2026-03-05",
-      "url": "https://www.bilibili.com/video/BV1p8AZzfEZT"
+      "id": "https://news.gmw.cn/2026-03/05/content_38628320.htm",
+      "title": "“创新是引领世界发展的重要动力”——中国携手世界共赴创新发展新征程_光明网",
+      "summary": "“抓创新就是抓发展,谋创新就是谋未来。”“创新是引领世界发展的重要动力。”新时代以来,习近平总书记深刻把握新一轮科技革命和产业变革大势,引领中国坚定不移实施创新驱动发展战略,以中国实践凝聚国际共识。...",
+      "source": "Gmw",
+      "date": "2026-03-04",
+      "url": "https://news.gmw.cn/2026-03/05/content_38628320.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-03-05",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "id": "https://news.gmw.cn/2026-03/05/content_38628425.htm",
+      "title": "微光汇成星河 雷锋精神永续——记第十一批全国岗位学雷锋标兵_光明网",
+      "summary": "日前,中宣部命名第十一批全国岗位学雷锋标兵,他们以英雄的壮举、平凡的感动、执着的坚守,将“为人民服务”的初心和誓言化作奋进新时代的生动实践,让雷锋精神在中华大地上绽放出更加璀璨的光芒。...",
+      "source": "Gmw",
+      "date": "2026-03-04",
+      "url": "https://news.gmw.cn/2026-03/05/content_38628425.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1PmP6z7Egr",
-      "title": "【B站】小鹏VLA2.0，绕行，防御驾驶，违停汇会车，一镜到底",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-03-05",
-      "url": "https://www.bilibili.com/video/BV1PmP6z7Egr"
+      "id": "http://baijiahao.baidu.com/s?id=1858748724321658691",
+      "title": "小马智行创始人、CEO彭军:以自动驾驶产业带动就业..",
+      "summary": "建议持续推进高级别自动驾驶示范区扩区扩容、提质增效,支持自动驾驶企业开展更大范围、更大规模的示范应用与商业化落地,让智能出行更好惠及广大市民,切实增强民生福祉。同时建议以自动驾驶产业规模化发展为纽带,...",
+      "source": "News_Baidu",
+      "date": "2026-03-04",
+      "url": "http://baijiahao.baidu.com/s?id=1858748724321658691"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1ZVAazyEF5",
-      "title": "【B站】L3自动驾驶快来了，车企却在纷纷跳过L3？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-03-05",
-      "url": "https://www.bilibili.com/video/BV1ZVAazyEF5"
+      "id": "https://www.fx168news.com/article/1000100",
+      "title": "特斯拉股票3月4日盘中上涨3.58%:原因全解读-FX168",
+      "summary": "特斯拉 (TSLA) 盘中上涨3.58%, 所属行业汽车与零部件上涨0.75% ,公司涨幅跑赢行业涨幅,行业涨幅前三股票 NIU Technologies (NIU) 上涨 7.68%;NIO Inc (NIO) 上涨 6.54%;Westport Fuel Systems Inc (WPRT) 上涨 6.50%。 特斯拉股价今日大幅上涨,主要受到分析师上调评级以及市场对该公司长期增长计划重燃乐观...",
+      "source": "Fx168News",
+      "date": "2026-03-04",
+      "url": "https://www.fx168news.com/article/1000100"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1EpPkzGEgv",
-      "title": "【B站】小鹏VLA2.0：川西高原，智驾无网漫游，各种U形弯，一镜到底看看风景吧",
-      "summary": "平平淡淡才是最顶级的能力...",
-      "source": "Bilibili",
-      "date": "2026-03-05",
-      "url": "https://www.bilibili.com/video/BV1EpPkzGEgv"
+      "id": "http://baijiahao.baidu.com/s?id=1858702762182019636",
+      "title": "何小鹏两会建议:加快推动自动驾驶技术从L2跨越到L..",
+      "summary": "2026年全国两会即将启幕,第十四届全国人大代表、小鹏汽车董事长兼CE0何小鹏,围绕科技创新、产业创新发展的关键领域,提交了《关于加快推动自动驾驶技术从L2跨越到L4,完善法规与管理政策的建议》、《关...",
+      "source": "News_Baidu",
+      "date": "2026-03-04",
+      "url": "http://baijiahao.baidu.com/s?id=1858702762182019636"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0304/805425.shtml",
+      "title": "何小鹏两会提案聚焦三项未来技术,呼吁制度突破适配技术迭代",
+      "summary": "全国人大代表、小鹏汽车董事长何小鹏围绕智能汽车、具身智能、低空经济等新质生产力关键方向,提交三份提案,核心指向技术迭代与制度供给不匹配的行业痛点,...",
+      "source": "Eeo",
+      "date": "2026-03-04",
+      "url": "http://www.eeo.com.cn/2026/0304/805425.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858736162221716199",
+      "title": "小米新手机海外定价1.6万元对标苹果",
+      "summary": "3月的巴塞罗那依然有些凉意,但2026年世界移动通信大会(MWC)展馆内却热闹异常。相比往年,今年最明显的变化是,AI不再只是一个展板上的口号,而是几乎嵌入到每一家厂商的产品演示里。...",
+      "source": "News_Baidu",
+      "date": "2026-03-04",
+      "url": "http://baijiahao.baidu.com/s?id=1858736162221716199"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858710092534430836",
+      "title": "雷军建议:部署通用人形机器人的工厂,给予产业补贴和..",
+      "summary": "3月4日,澎湃新闻记者获悉,全国人大代表,小米集团创始人、董事长兼CEO雷军围绕“人工智能+”与“新质生产力”两大主线,向大会提交了5份建议,包含《关于加快推动通用人形机器人在智能制造中应用的建议》、...",
+      "source": "News_Baidu",
+      "date": "2026-03-04",
+      "url": "http://baijiahao.baidu.com/s?id=1858710092534430836"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858718461351265482",
+      "title": "两会声音|全国人大代表何小鹏:建议在部分城市开展L..",
+      "summary": "新京报贝壳财经讯(记者张冰)3月4日,围绕科技创新、产业创新发展的关键领域,全国人大代表、小鹏汽车董事长兼首席执行官何小鹏提交了3份建议。在《关于加快推动自动驾驶技术从L2跨越到L4,完善法规与管理政...",
+      "source": "News_Baidu",
+      "date": "2026-03-04",
+      "url": "http://baijiahao.baidu.com/s?id=1858718461351265482"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858741547877186738",
+      "title": "雷军代表:人形机器人带动北京智能制造跑出“加速度”",
+      "summary": "“我相信,未来五年,通用人形机器人会迎来增长的爆发时刻,机器人会成为一个巨大的产业,其影响力不亚于此前的PC电脑、智能手机。”正是基于这一判断,此次参加十四届全国人大四次会议,全国人大代表,小米集团创...",
+      "source": "News_Baidu",
+      "date": "2026-03-04",
+      "url": "http://baijiahao.baidu.com/s?id=1858741547877186738"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858741705935519059",
+      "title": "两会特稿丨“创新是引领世界发展的重要动力”——中国..",
+      "summary": "开年以来,中国创新热潮一次次牵动全球目光:人形机器人行云流水的武术表演视频在海外社交媒体广泛传播;国际奥委会基于阿里千问大模型打造奥运官方大模型,中国人工智能(AI)成为米兰冬奥会的“智慧大脑”;全球...",
+      "source": "News_Baidu",
+      "date": "2026-03-04",
+      "url": "http://baijiahao.baidu.com/s?id=1858741705935519059"
+    },
+    {
+      "id": "https://xn--s0y3c.tv/2026%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%B8%86%E8%88%B9%E8%B5%9B%E6%AD%A3%E5%BC%8F%E5%B1%95%E5%BC%80/",
+      "title": "“2026劳力士中国海帆船赛”正式展开",
+      "summary": "香港2026年3月4日 /美通社/ — 亚洲顶级离岸帆船赛事—2026 劳力士中国海帆船赛(Rolex China Sea Race 2026)- 今日于上午11时20分假维多利亚港隆重起航,顺利展开这段全长 565 海里、由香港驶往菲律宾苏碧湾的经典航程。 本届赛事的参赛队伍来自世界各地,包括..澳洲的“Team Alive–Rampage号”、中国内地的“海狼号”,以及两支来自菲律宾的队伍─“...",
+      "source": "Truth_Tv",
+      "date": "2026-03-04",
+      "url": "https://xn--s0y3c.tv/2026%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%B8%86%E8%88%B9%E8%B5%9B%E6%AD%A3%E5%BC%8F%E5%B1%95%E5%BC%80/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858735812759936609",
+      "title": "上海男子滞留沙特3天,亲历导弹轰炸,好不容易回国,..",
+      "summary": "3月3日,上海的董先生在社交平台分享了一段堪称“现实版惊险大片”的回国经历:先是出国旅游返程转机时因中东局势突变滞留沙特3天,亲历了一百公里外的导弹轰炸、领空关闭;好不容易经菲律宾转机回到中国,又在香港飞往上海的CX38...",
+      "source": "News_Baidu",
+      "date": "2026-03-04",
+      "url": "http://baijiahao.baidu.com/s?id=1858735812759936609"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0304/233646.shtml",
+      "title": "小鹏第二代VLA本月开启推送,2026款小鹏X9纯电版同步首发",
+      "summary": "2026年3月2日,广州,以「THE FUTURE」为主题的小鹏第二代VLA媒体体验日成功举办,小鹏汽车董事长 CEO何小鹏宣布,第二代VLA将于本月正式迎来推送。作为开启L4时代的物理世界大模型,第二代VLA将以妈妈都爱开的「国民智驾」为目标,推动自动驾驶从“极客尝鲜”走向“大众常用” 。 与此同时,2026款小鹏X9纯电版重磅上市,产品力全面对齐超级增程版,以“两种动力,同一个旗舰标准”的硬核...",
+      "source": "Imobile",
+      "date": "2026-03-04",
+      "url": "http://news.imobile.com.cn/articles/2026/0304/233646.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1000082",
+      "title": "Arm Holdings PLC股票3月4日开盘上涨4.05%:背后推手曝光-FX168",
+      "summary": "Arm Holdings PLC (ARM) 开盘上涨4.05%, 所属行业科技设备下跌2.28% ,公司涨幅跑赢行业涨幅,行业涨幅前三股票 SmartRent Inc (SMRT) 上涨 12.34%;nLIGHT Inc (LASR) 上涨 9.40%;MOBIX LABS, INC. (MOBX) 上涨 7.70%。 ARM Holdings股价今日显著上涨,这主要受到重大机构投资活动以及对...",
+      "source": "Fx168News",
+      "date": "2026-03-04",
+      "url": "https://www.fx168news.com/article/1000082"
     },
     {
       "id": "https://www.theguardian.com/technology/2026/mar/04/nvidia-uk-wealth-fund-invest-british-autonomous-driving-startup-oxa",
@@ -123,44 +226,44 @@
       "url": "https://www.prnewswire.co.uk/news-releases/huawei-unveils-industrys-first-campus-l4-adn-solution-marking-a-breakthrough-in-autonomous-network-om-302702338.html"
     },
     {
-      "id": "https://www.denverpost.com/2026/03/03/waymo-denver-autonomous-self-driving-taxis/",
-      "title": "Denver's low snow won't delay Waymo robotaxi launch",
-      "summary": "Denver’s low-snow winter won’t delay Waymo's opening of robotaxi service to riders because their AI machine-learning system draws data from other cities that had heavier snowfall....",
-      "source": "The Denver Post",
-      "date": "2026-03-03",
-      "url": "https://www.denverpost.com/2026/03/03/waymo-denver-autonomous-self-driving-taxis/"
+      "id": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone",
+      "title": "Tesla’s Full Self Driving clocks over 8 billion miles cumulatively",
+      "summary": "Tesla's Full Self-Driving (FSD) fleet has cumulatively clocked over 8 billion miles which will be used as training data for its advanced driver assistance system (ADAS)....",
+      "source": "Interesting Engineering",
+      "date": "2026-03-02",
+      "url": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone"
     },
     {
-      "id": "https://timesofindia.indiatimes.com/technology/tech-news/google-waymo-blamed-for-blocking-ambulance-at-austins-mass-shooting-sight/articleshow/128976984.cms",
-      "title": "Google's Waymo blamed for blocking ambulance at Austin's mass shooting sight",
-      "summary": "Tech News News: Google’s Waymo robotaxi allegedly blocked an ambulance from reaching the scene of a mass shooting in Austin, US, last week. A report cited a bystander....",
-      "source": "Times of India",
-      "date": "2026-03-03",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-waymo-blamed-for-blocking-ambulance-at-austins-mass-shooting-sight/articleshow/128976984.cms"
+      "id": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/",
+      "title": "Musk Says Tesla FSD, Cybercab, Optimus Coming To Europe",
+      "summary": "Tesla's FSD platform could approved as soon as next month in Holland. Elon Musk said Optimus and Cybercab to be built at German factory....",
+      "source": "Investor's Business Daily",
+      "date": "2026-02-27",
+      "url": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/"
     },
     {
-      "id": "https://www.reuters.com/world/middle-east/chinas-weride-suspends-robotaxi-fleet-dubai-iran-conflict-widens-2026-03-03/",
-      "title": "China's WeRide suspends robotaxi fleet in Dubai as Iran conflict widens",
-      "summary": "Chinese autonomous driving firm WeRide has suspended its robotaxi fleet in Dubai as the ​escalating U.S.-Israel conflict with Iran roiled key Middle Eastern ‌hubs that have emerged as the robotaxi ind...",
-      "source": "Reuters",
-      "date": "2026-03-03",
-      "url": "https://www.reuters.com/world/middle-east/chinas-weride-suspends-robotaxi-fleet-dubai-iran-conflict-widens-2026-03-03/"
+      "id": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html",
+      "title": "Elon Interviewed At GigaBerlin- With News on FSD March 20 Netherlands, Cybercab, Optimus",
+      "summary": "Elon drops the big things on FSD, cybercab and optimus, battery and cybercab factory in Europe. If authorities cooperate, Tesla would make Gigaberlin the...",
+      "source": "NextBigFuture.com",
+      "date": "2026-02-27",
+      "url": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html"
     },
     {
-      "id": "https://www.devdiscourse.com/article/business/3824522-robotaxi-rollbacks-middle-east-tensions-disrupt-chinese-autonomy-advances",
-      "title": "Robotaxi Rollbacks: Middle East Tensions Disrupt Chinese Autonomy Advances",
-      "summary": "Chinese autonomous driving companies have paused robotaxi services in Dubai due to escalating Middle Eastern conflicts. WeRide halted its operations, while Baidu's Apollo Go and Pony.ai monitor the si...",
-      "source": "Devdiscourse",
-      "date": "2026-03-03",
-      "url": "https://www.devdiscourse.com/article/business/3824522-robotaxi-rollbacks-middle-east-tensions-disrupt-chinese-autonomy-advances"
+      "id": "https://www.benzinga.com/markets/tech/26/02/50859270/ross-gerber-warns-teslas-mad-max-fsd-mode-is-basically-unsafe-following-240-million-autopilot-liability-verdict",
+      "title": "Ross Gerber Warns Tesla's 'Mad Max' FSD Mode Is 'Basically Unsafe' Following $240 Million Autopilot Liability Verdict",
+      "summary": "Ross Gerber, co-founder of investment firm Gerber Kawasaki, issued a stern warning on Wednesday regarding the safety of Tesla Inc.'s (TSLA) autonomous driving software....",
+      "source": "Benzinga",
+      "date": "2026-02-25",
+      "url": "https://www.benzinga.com/markets/tech/26/02/50859270/ross-gerber-warns-teslas-mad-max-fsd-mode-is-basically-unsafe-following-240-million-autopilot-liability-verdict"
     },
     {
-      "id": "https://www.caixinglobal.com/2026-03-03/business-brief-march-3-china-opposes-uk-sanctions-on-local-firms-102419019.html",
-      "title": "Business Brief (March 3): China Opposes U.K. Sanctions on Local Firms",
-      "summary": "Business Brief (March 3): China Opposes U.K. Sanctions on Local Firms - Chinese autonomous driving startup WeRide temporarily suspends robotaxi operations in Dubai amid Middle East security concerns...",
-      "source": "Caixin",
-      "date": "2026-03-03",
-      "url": "https://www.caixinglobal.com/2026-03-03/business-brief-march-3-china-opposes-uk-sanctions-on-local-firms-102419019.html"
+      "id": "https://www.marketscreener.com/news/tesla-reportedly-sues-california-dmv-to-reverse-fsd-advertising-related-ruling-ce7e5cdad980f72c",
+      "title": "Tesla Reportedly Sues California DMV to Reverse FSD Advertising-Related Ruling",
+      "summary": "Tesla has filed a lawsuit against California's Department of Motor Vehicles in a bid to reverse a ruling that found the electric vehicle maker breached the law by falsely promoting its cars'......",
+      "source": "MarketScreener",
+      "date": "2026-02-24",
+      "url": "https://www.marketscreener.com/news/tesla-reportedly-sues-california-dmv-to-reverse-fsd-advertising-related-ruling-ce7e5cdad980f72c"
     }
   ]
 }

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-自动驾驶新闻抓取脚本 - GNews API + 多源聚合版
+自动驾驶新闻抓取脚本 - GNews + NewsData.io + 多源聚合版
 """
 
 import json
@@ -20,12 +20,47 @@ except ImportError:
 # 禁用 SSL 验证
 ssl._create_default_https_context = ssl._create_unverified_context
 
-# GNews API Key
+# API Keys
 GNEWS_API_KEY = "1d9f97280cb39eb9d8436c143b79c185"
+NEWSDATA_API_KEY = "pub_aa9eeb72d801433a93ad17d890599f75"
 
-# 关键词配置
-KEYWORDS_ZH = ["自动驾驶", "无人驾驶", "智能驾驶", "ADAS", "FSD", "特斯拉", "百度 Apollo", "小鹏", "蔚来", "理想", "华为 ADS"]
-KEYWORDS_EN = ["autonomous driving", "self-driving", "Tesla FSD", "Waymo", "robotaxi", "autonomous vehicle"]
+def fetch_from_newsdata(keyword, lang="zh"):
+    """从 NewsData.io 抓取新闻"""
+    news_list = []
+    if not HAS_REQUESTS or not NEWSDATA_API_KEY:
+        return news_list
+    
+    try:
+        url = "https://newsdata.io/api/1/news"
+        
+        params = {
+            "apikey": NEWSDATA_API_KEY,
+            "q": keyword,
+            "language": lang,
+            "size": 10,  # 每次最多10条
+            # "timeframe": "24"  # 免费版不支持  # 最近24小时
+        }
+        
+        response = requests.get(url, params=params, timeout=15)
+        data = response.json()
+        
+        if data.get("status") == "success":
+            for article in data.get("results", []):
+                news_list.append({
+                    "id": article.get("link", ""),
+                    "title": article.get("title", ""),
+                    "summary": article.get("description", "")[:200] + "..." if article.get("description") else "NewsData报道",
+                    "source": article.get("source_id", "NewsData").replace("-", " ").title(),
+                    "date": article.get("pubDate", "")[:10] if article.get("pubDate") else datetime.now().strftime('%Y-%m-%d'),
+                    "url": article.get("link", "")
+                })
+        else:
+            print(f"NewsData API 错误: {data}")
+            
+    except Exception as e:
+        print(f"NewsData 抓取失败: {e}")
+    
+    return news_list
 
 def fetch_from_gnews(keyword, lang="en"):
     """从 GNews API 抓取新闻"""
@@ -36,7 +71,6 @@ def fetch_from_gnews(keyword, lang="en"):
     try:
         url = "https://gnews.io/api/v4/search"
         
-        # 获取最近7天的新闻
         from_date = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
         
         params = {
@@ -154,14 +188,6 @@ def generate_fallback_news():
             "source": "行业聚合",
             "date": datetime.now().strftime('%Y-%m-%d'),
             "url": "https://www.google.com/search?q=自动驾驶+测试+政策"
-        },
-        {
-            "id": "6",
-            "title": "【国际市场】全球自动驾驶产业投融资活跃",
-            "summary": "近期全球自动驾驶领域融资活跃，Waymo、Cruise等头部企业持续获得资本支持...",
-            "source": "行业聚合",
-            "date": datetime.now().strftime('%Y-%m-%d'),
-            "url": "https://www.google.com/search?q=autonomous+driving+funding"
         }
     ]
 
@@ -170,10 +196,21 @@ def main():
     
     all_news = []
     
-    # 1. GNews 英文新闻
+    # 1. NewsData.io 中文新闻（优先）
+    if HAS_REQUESTS:
+        print("尝试 NewsData.io (中文)...")
+        for keyword in ["自动驾驶", "无人驾驶", "智能驾驶"]:
+            try:
+                news = fetch_from_newsdata(keyword, lang="zh")
+                all_news.extend(news)
+                print(f"  {keyword}: {len(news)} 条")
+            except Exception as e:
+                print(f"  {keyword} 失败: {e}")
+    
+    # 2. GNews 英文新闻
     if HAS_REQUESTS:
         print("尝试 GNews (英文)...")
-        for keyword in ["autonomous driving", "Tesla FSD", "robotaxi"]:
+        for keyword in ["autonomous driving", "Tesla FSD"]:
             try:
                 news = fetch_from_gnews(keyword, lang="en")
                 all_news.extend(news)
@@ -181,7 +218,7 @@ def main():
             except Exception as e:
                 print(f"  {keyword} 失败: {e}")
     
-    # 2. B站视频
+    # 3. B站视频
     if HAS_REQUESTS:
         print("尝试 Bilibili...")
         try:
@@ -201,7 +238,7 @@ def main():
     
     print(f"网络抓取共 {len(unique_news)} 条")
     
-    # 如果抓取太少，补充备用数据
+    # 如果太少，补充备用数据
     if len(unique_news) < 5:
         print("补充备用数据...")
         unique_news.extend(generate_fallback_news())
@@ -217,17 +254,25 @@ def main():
     # 按日期排序
     final_news.sort(key=lambda x: x.get("date", ""), reverse=True)
     
+    # 统计来源
+    sources = {}
+    for n in final_news:
+        s = n.get("source", "未知")
+        sources[s] = sources.get(s, 0) + 1
+    
     # 保存
     output = {
         "lastUpdated": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
         "totalCount": len(final_news),
-        "news": final_news[:20]  # 最多20条
+        "sources": sources,
+        "news": final_news[:30]
     }
     
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
     print(f"[{datetime.now()}] 完成，共 {len(final_news)} 条新闻")
+    print(f"来源分布: {sources}")
 
 if __name__ == '__main__':
     main()
