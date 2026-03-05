@@ -1,30 +1,46 @@
 {
-  "lastUpdated": "2026-03-05 14:46:22",
-  "totalCount": 3,
+  "lastUpdated": "2026-03-05 15:55:27",
+  "totalCount": 5,
   "news": [
     {
-      "id": "1",
-      "title": "特斯拉 FSD 即将在中国落地",
-      "summary": "特斯拉表示其完全自动驾驶能力（FSD）将很快在中国市场推出，目前正在等待监管部门批准...",
-      "source": "36氪",
+      "id": "https://www.bilibili.com/video/BV1p8AZzfEZT",
+      "title": "【B站】FSD来了！北京深度使用分享！99%的人都不知道的很多智能驾驶的细节！全网最深入的智能驾驶视频讲解！",
+      "summary": "FSD来了！北京深度使用分享！\n99%的人都不知道的：\n很多智能驾驶的细节！\n全网最深入的智能驾驶视频讲解！...",
+      "source": "Bilibili",
       "date": "2026-03-05",
-      "url": "https://36kr.com/"
+      "url": "https://www.bilibili.com/video/BV1p8AZzfEZT"
     },
     {
-      "id": "2",
-      "title": "百度 Apollo 发布新一代自动驾驶平台",
-      "summary": "百度 Apollo 在年度技术大会上发布了全新的自动驾驶平台，支持 L4 级别自动驾驶...",
-      "source": "雷锋网",
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
       "date": "2026-03-05",
-      "url": "https://www.leiphone.com/"
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "3",
-      "title": "小鹏汽车宣布城市 NGP 开放更多城市",
-      "summary": "小鹏汽车宣布其城市 NGP 功能将开放至 50 个城市，覆盖更多用户的日常通勤场景...",
-      "source": "虎嗅",
+      "id": "https://www.bilibili.com/video/BV1PmP6z7Egr",
+      "title": "【B站】小鹏VLA2.0，绕行，防御驾驶，违停汇会车，一镜到底",
+      "summary": "-...",
+      "source": "Bilibili",
       "date": "2026-03-05",
-      "url": "https://www.huxiu.com/"
+      "url": "https://www.bilibili.com/video/BV1PmP6z7Egr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1ZVAazyEF5",
+      "title": "【B站】L3自动驾驶快来了，车企却在纷纷跳过L3？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-03-05",
+      "url": "https://www.bilibili.com/video/BV1ZVAazyEF5"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1xe411k7h7",
+      "title": "【B站】简单清晰，10分钟讲懂自动驾驶的核心零部件，激光雷达、毫米波、摄像头原理一网打尽！捋清市场空间和行业发展趋势！机器人专题研究之机器视觉【深度报告】",
+      "summary": "参考资料：\nHow Your Eyes Make Sense of the World | Decoder你的眼睛如何感知世界？https://www.youtube.com/watch?v=hsh2kPdgazo \n3D scanner. How it works? 结构光原理 https://w...",
+      "source": "Bilibili",
+      "date": "2026-03-05",
+      "url": "https://www.bilibili.com/video/BV1xe411k7h7"
     }
   ]
 }
