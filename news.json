@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-05 15:55:27",
-  "totalCount": 5,
+  "lastUpdated": "2026-03-05 16:12:26",
+  "totalCount": 32,
   "news": [
     {
       "id": "https://www.bilibili.com/video/BV1p8AZzfEZT",
@@ -35,12 +35,132 @@
       "url": "https://www.bilibili.com/video/BV1ZVAazyEF5"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1xe411k7h7",
-      "title": "【B站】简单清晰，10分钟讲懂自动驾驶的核心零部件，激光雷达、毫米波、摄像头原理一网打尽！捋清市场空间和行业发展趋势！机器人专题研究之机器视觉【深度报告】",
-      "summary": "参考资料：\nHow Your Eyes Make Sense of the World | Decoder你的眼睛如何感知世界？https://www.youtube.com/watch?v=hsh2kPdgazo \n3D scanner. How it works? 结构光原理 https://w...",
+      "id": "https://www.bilibili.com/video/BV1EpPkzGEgv",
+      "title": "【B站】小鹏VLA2.0：川西高原，智驾无网漫游，各种U形弯，一镜到底看看风景吧",
+      "summary": "平平淡淡才是最顶级的能力...",
       "source": "Bilibili",
       "date": "2026-03-05",
-      "url": "https://www.bilibili.com/video/BV1xe411k7h7"
+      "url": "https://www.bilibili.com/video/BV1EpPkzGEgv"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/mar/04/nvidia-uk-wealth-fund-invest-british-autonomous-driving-startup-oxa",
+      "title": "Nvidia and UK Wealth Fund to invest in British autonomous driving startup Oxa",
+      "summary": "Oxford-based firm has raised $103m for commercial development of software for self-driving industrial vehicles...",
+      "source": "The Guardian",
+      "date": "2026-03-04",
+      "url": "https://www.theguardian.com/technology/2026/mar/04/nvidia-uk-wealth-fund-invest-british-autonomous-driving-startup-oxa"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/03/04/bank-of-america-upgrades-tesla-calls-it-the-clear-leader-in-autonomous-driving.html",
+      "title": "Bank of America upgrades Tesla, calls it the clear leader in autonomous driving",
+      "summary": "Tesla's advances in autonomous driving and robotaxi services could drive its next phase of growth, Bank of America said....",
+      "source": "CNBC",
+      "date": "2026-03-04",
+      "url": "https://www.cnbc.com/2026/03/04/bank-of-america-upgrades-tesla-calls-it-the-clear-leader-in-autonomous-driving.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/04/tmt-newswire/globenewswire/weride-to-report-fourth-quarter-and-full-year-2025-financial-results-on-monday-march-23-2026/2292997",
+      "title": "WeRide to Report Fourth Quarter and Full Year 2025 Financial Results on Monday, March 23, 2026",
+      "summary": "NEW YORK, March 04, 2026 (GLOBE NEWSWIRE) -- WeRide Inc. ('WeRide” or the 'Company”) (Nasdaq: WRD), a global leader in autonomous driving technology, today announced that it will release its unaudited...",
+      "source": "The Manila Times",
+      "date": "2026-03-04",
+      "url": "https://www.manilatimes.net/2026/03/04/tmt-newswire/globenewswire/weride-to-report-fourth-quarter-and-full-year-2025-financial-results-on-monday-march-23-2026/2292997"
+    },
+    {
+      "id": "https://www.bolnews.com/technology/middle-east-crisis-halts-robotaxi-operations-in-dubai/",
+      "title": "Middle East crisis halts Robotaxi operations in Dubai",
+      "summary": "As geopolitical tensions intensify across the Middle East, Chinese autonomous driving firm WeRide has suspended its robotaxi operations in Dubai, marking a significant setback for the region’s rapidly...",
+      "source": "BOL News",
+      "date": "2026-03-04",
+      "url": "https://www.bolnews.com/technology/middle-east-crisis-halts-robotaxi-operations-in-dubai/"
+    },
+    {
+      "id": "https://www.reuters.com/technology/uk-self-driving-startup-oxa-raises-103mln-scale-up-ports-airports-2026-03-04/",
+      "title": "UK self-driving startup Oxa raises $103mln to scale up at ports, airports",
+      "summary": "British self-driving startup Oxa has raised $103 million from investors to scale up autonomous vehicle ​operations focused on ports, airports, warehouses and other ‌industrial applications, it said on...",
+      "source": "Reuters",
+      "date": "2026-03-04",
+      "url": "https://www.reuters.com/technology/uk-self-driving-startup-oxa-raises-103mln-scale-up-ports-airports-2026-03-04/"
+    },
+    {
+      "id": "https://www.caixinglobal.com/2026-03-04/business-brief-march-4-china-vows-to-safeguard-energy-security-amid-middle-east-tensions-102419331.html",
+      "title": "Business Brief (March 4): China Vows to Safeguard Energy Security Amid Middle East Tensions",
+      "summary": "Business Brief (March 4): China Vows to Safeguard Energy Security Amid Middle East Tensions - China is gearing up for the biggest event on its political calendarHOT TOPICS\nMiddle East War Escalates\nU....",
+      "source": "Caixin",
+      "date": "2026-03-04",
+      "url": "https://www.caixinglobal.com/2026-03-04/business-brief-march-4-china-vows-to-safeguard-energy-security-amid-middle-east-tensions-102419331.html"
+    },
+    {
+      "id": "https://www.caixinglobal.com/2026-03-04/tech-brief-march-4-alibaba-launches-small-ai-models-focused-on-efficiency-102419438.html",
+      "title": "Tech Brief (March 4): Alibaba Launches Small AI Models Focused on Efficiency",
+      "summary": "Tech Brief (March 4): Alibaba Launches Small AI Models Focused on Efficiency - XPeng predicts fully autonomous driving within three years, Huawei says 5G-Advanced now commercialized in over 300 cities...",
+      "source": "Caixin",
+      "date": "2026-03-04",
+      "url": "https://www.caixinglobal.com/2026-03-04/tech-brief-march-4-alibaba-launches-small-ai-models-focused-on-efficiency-102419438.html"
+    },
+    {
+      "id": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933",
+      "title": "Tesla Model Y Completes Huge FSD Run Without Intervention, Tesla Stock (NASDAQ:TSLA) Surges",
+      "summary": "Finally, a day in which the news about a company matches what happens in its stock price. Those who were concerned about just how well electric ......",
+      "source": "Markets Insider",
+      "date": "2026-03-04",
+      "url": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-ceo-attends-symposium-of-the-china-germany-economic-advisory-committee-with-chinese-premier-and-german-chancellor-302702357.html",
+      "title": "Inceptio Technology CEO Attends Symposium of the China-Germany Economic Advisory Committee with Chinese Premier and German Chancellor",
+      "summary": "/PRNewswire/ -- Inceptio Technology (\"Inceptio\" or the \"Company\"), an industry-leading developer of autonomous driving technologies for trucks, today announced......",
+      "source": "PR Newswire UK",
+      "date": "2026-03-03",
+      "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-ceo-attends-symposium-of-the-china-germany-economic-advisory-committee-with-chinese-premier-and-german-chancellor-302702357.html"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/huawei-unveils-industrys-first-campus-l4-adn-solution-marking-a-breakthrough-in-autonomous-network-om-302702338.html",
+      "title": "Huawei Unveils Industry's First Campus L4 ADN Solution, Marking a Breakthrough in Autonomous Network O&M",
+      "summary": "/PRNewswire/ -- At Mobile World Congress (MWC) Barcelona 2026, Huawei launched the industry's first L4 Autonomous Driving Network (ADN) solution for campuses,......",
+      "source": "PR Newswire UK",
+      "date": "2026-03-03",
+      "url": "https://www.prnewswire.co.uk/news-releases/huawei-unveils-industrys-first-campus-l4-adn-solution-marking-a-breakthrough-in-autonomous-network-om-302702338.html"
+    },
+    {
+      "id": "https://www.denverpost.com/2026/03/03/waymo-denver-autonomous-self-driving-taxis/",
+      "title": "Denver's low snow won't delay Waymo robotaxi launch",
+      "summary": "Denver’s low-snow winter won’t delay Waymo's opening of robotaxi service to riders because their AI machine-learning system draws data from other cities that had heavier snowfall....",
+      "source": "The Denver Post",
+      "date": "2026-03-03",
+      "url": "https://www.denverpost.com/2026/03/03/waymo-denver-autonomous-self-driving-taxis/"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/technology/tech-news/google-waymo-blamed-for-blocking-ambulance-at-austins-mass-shooting-sight/articleshow/128976984.cms",
+      "title": "Google's Waymo blamed for blocking ambulance at Austin's mass shooting sight",
+      "summary": "Tech News News: Google’s Waymo robotaxi allegedly blocked an ambulance from reaching the scene of a mass shooting in Austin, US, last week. A report cited a bystander....",
+      "source": "Times of India",
+      "date": "2026-03-03",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-waymo-blamed-for-blocking-ambulance-at-austins-mass-shooting-sight/articleshow/128976984.cms"
+    },
+    {
+      "id": "https://www.reuters.com/world/middle-east/chinas-weride-suspends-robotaxi-fleet-dubai-iran-conflict-widens-2026-03-03/",
+      "title": "China's WeRide suspends robotaxi fleet in Dubai as Iran conflict widens",
+      "summary": "Chinese autonomous driving firm WeRide has suspended its robotaxi fleet in Dubai as the ​escalating U.S.-Israel conflict with Iran roiled key Middle Eastern ‌hubs that have emerged as the robotaxi ind...",
+      "source": "Reuters",
+      "date": "2026-03-03",
+      "url": "https://www.reuters.com/world/middle-east/chinas-weride-suspends-robotaxi-fleet-dubai-iran-conflict-widens-2026-03-03/"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/business/3824522-robotaxi-rollbacks-middle-east-tensions-disrupt-chinese-autonomy-advances",
+      "title": "Robotaxi Rollbacks: Middle East Tensions Disrupt Chinese Autonomy Advances",
+      "summary": "Chinese autonomous driving companies have paused robotaxi services in Dubai due to escalating Middle Eastern conflicts. WeRide halted its operations, while Baidu's Apollo Go and Pony.ai monitor the si...",
+      "source": "Devdiscourse",
+      "date": "2026-03-03",
+      "url": "https://www.devdiscourse.com/article/business/3824522-robotaxi-rollbacks-middle-east-tensions-disrupt-chinese-autonomy-advances"
+    },
+    {
+      "id": "https://www.caixinglobal.com/2026-03-03/business-brief-march-3-china-opposes-uk-sanctions-on-local-firms-102419019.html",
+      "title": "Business Brief (March 3): China Opposes U.K. Sanctions on Local Firms",
+      "summary": "Business Brief (March 3): China Opposes U.K. Sanctions on Local Firms - Chinese autonomous driving startup WeRide temporarily suspends robotaxi operations in Dubai amid Middle East security concerns...",
+      "source": "Caixin",
+      "date": "2026-03-03",
+      "url": "https://www.caixinglobal.com/2026-03-03/business-brief-march-3-china-opposes-uk-sanctions-on-local-firms-102419019.html"
     }
   ]
 }

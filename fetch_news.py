@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-自动驾驶新闻抓取脚本 - 多源聚合版
+自动驾驶新闻抓取脚本 - GNews API + 多源聚合版
 """
 
 import json
 import re
 import ssl
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # 尝试导入增强库
 try:
@@ -20,123 +20,54 @@ except ImportError:
 # 禁用 SSL 验证
 ssl._create_default_https_context = ssl._create_unverified_context
 
-# 关键词
-KEYWORDS = ["自动驾驶", "无人驾驶", "智能驾驶", "ADAS", "FSD", "特斯拉", "百度 Apollo", "小鹏", "蔚来", "理想", "华为 ADS"]
+# GNews API Key
+GNEWS_API_KEY = "1d9f97280cb39eb9d8436c143b79c185"
 
-def contains_keywords(text):
-    if not text:
-        return False
-    return any(kw in text for kw in KEYWORDS)
+# 关键词配置
+KEYWORDS_ZH = ["自动驾驶", "无人驾驶", "智能驾驶", "ADAS", "FSD", "特斯拉", "百度 Apollo", "小鹏", "蔚来", "理想", "华为 ADS"]
+KEYWORDS_EN = ["autonomous driving", "self-driving", "Tesla FSD", "Waymo", "robotaxi", "autonomous vehicle"]
 
-def fetch_url(url, headers=None):
-    if HAS_REQUESTS:
-        try:
-            response = requests.get(url, headers=headers, timeout=15)
-            return response.text
-        except:
-            pass
-    try:
-        req = urllib.request.Request(url, headers=headers or {'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, timeout=10) as response:
-            return response.read().decode('utf-8', errors='ignore')
-    except:
-        return None
-
-def fetch_from_zhihu():
-    """从知乎搜索抓取"""
+def fetch_from_gnews(keyword, lang="en"):
+    """从 GNews API 抓取新闻"""
     news_list = []
-    if not HAS_REQUESTS:
+    if not HAS_REQUESTS or not GNEWS_API_KEY:
         return news_list
     
     try:
-        # 知乎搜索 API
-        url = "https://www.zhihu.com/api/v4/search_v3"
+        url = "https://gnews.io/api/v4/search"
+        
+        # 获取最近7天的新闻
+        from_date = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
+        
         params = {
-            "t": "general",
-            "q": "自动驾驶",
-            "correction": "1",
-            "offset": "0",
-            "limit": "10"
-        }
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-            'Referer': 'https://www.zhihu.com/search'
+            "q": keyword,
+            "lang": lang,
+            "max": 10,
+            "from": from_date,
+            "sortby": "publishedAt",
+            "apikey": GNEWS_API_KEY
         }
         
-        response = requests.get(url, params=params, headers=headers, timeout=15)
+        response = requests.get(url, params=params, timeout=15)
         data = response.json()
         
-        for item in data.get('data', []):
-            try:
-                if item.get('type') != 'search_result':
-                    continue
-                    
-                content = item.get('object', {})
-                title = content.get('title', '').replace('<em>', '').replace('</em>', '')
-                excerpt = content.get('excerpt', '').replace('<em>', '').replace('</em>', '')
-                url = content.get('url', '')
-                
-                if title and url and 'zhihu.com' in url:
-                    news_list.append({
-                        "id": url,
-                        "title": title,
-                        "summary": excerpt[:150] + "..." if excerpt else "知乎讨论",
-                        "source": "知乎",
-                        "date": datetime.now().strftime('%Y-%m-%d'),
-                        "url": url
-                    })
-            except:
-                continue
-                
+        if "articles" in data:
+            for article in data["articles"]:
+                news_list.append({
+                    "id": article.get("url", ""),
+                    "title": article.get("title", ""),
+                    "summary": article.get("description", "")[:200] + "..." if article.get("description") else "GNews报道",
+                    "source": article.get("source", {}).get("name", "GNews"),
+                    "date": article.get("publishedAt", "")[:10],
+                    "url": article.get("url", "")
+                })
+        else:
+            print(f"GNews API 错误: {data.get('errors', data)}")
+            
     except Exception as e:
-        print(f"知乎抓取失败: {e}")
+        print(f"GNews 抓取失败: {e}")
     
-    return news_list[:5]
-
-def fetch_from_weibo():
-    """从微博热搜抓取相关话题"""
-    news_list = []
-    if not HAS_REQUESTS:
-        return news_list
-    
-    try:
-        # 微博热搜
-        url = "https://s.weibo.com/top/summary"
-        html = fetch_url(url, {'User-Agent': 'Mozilla/5.0'})
-        if not html:
-            return news_list
-        
-        soup = BeautifulSoup(html, 'html.parser')
-        
-        for tr in soup.find_all('tr')[:50]:
-            try:
-                td = tr.find('td', class_='td-02')
-                if not td:
-                    continue
-                
-                a = td.find('a')
-                if not a:
-                    continue
-                
-                title = a.get_text(strip=True)
-                link = 'https://s.weibo.com' + a.get('href', '') if a.get('href') else ''
-                
-                if contains_keywords(title):
-                    news_list.append({
-                        "id": link,
-                        "title": f"【微博热搜】{title}",
-                        "summary": "微博热门话题讨论",
-                        "source": "微博",
-                        "date": datetime.now().strftime('%Y-%m-%d'),
-                        "url": link
-                    })
-            except:
-                continue
-                
-    except Exception as e:
-        print(f"微博抓取失败: {e}")
-    
-    return news_list[:5]
+    return news_list
 
 def fetch_from_bilibili():
     """从B站搜索抓取"""
@@ -181,55 +112,7 @@ def fetch_from_bilibili():
     
     return news_list[:5]
 
-def fetch_from_toutiao():
-    """从今日头条搜索抓取"""
-    news_list = []
-    if not HAS_REQUESTS:
-        return news_list
-    
-    try:
-        url = "https://www.toutiao.com/api/search/content/"
-        params = {
-            "aid": "24",
-            "keyword": "自动驾驶",
-            "count": 10
-        }
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        
-        response = requests.get(url, params=params, headers=headers, timeout=15)
-        
-        # 解析响应
-        text = response.text
-        # 今日头条返回的是 JSONP 格式，需要提取 JSON
-        match = re.search(r'callback\((.*)\)', text)
-        if match:
-            data = json.loads(match.group(1))
-            
-            for item in data.get('data', []):
-                try:
-                    title = item.get('title', '')
-                    url = item.get('article_url', '')
-                    abstract = item.get('abstract', '')
-                    source = item.get('source', '今日头条')
-                    
-                    if title and url and contains_keywords(title):
-                        news_list.append({
-                            "id": url,
-                            "title": title,
-                            "summary": abstract[:150] + "..." if abstract else "今日头条报道",
-                            "source": source,
-                            "date": datetime.now().strftime('%Y-%m-%d'),
-                            "url": url
-                        })
-                except:
-                    continue
-                    
-    except Exception as e:
-        print(f"今日头条抓取失败: {e}")
-    
-    return news_list[:5]
-
-def generate_trending_news():
+def generate_fallback_news():
     """生成行业热门话题"""
     return [
         {
@@ -274,27 +157,11 @@ def generate_trending_news():
         },
         {
             "id": "6",
-            "title": "【资本市场】自动驾驶赛道投资热度不减",
-            "summary": "近期自动驾驶领域融资活跃，多家初创企业获得大额投资，产业生态持续完善...",
+            "title": "【国际市场】全球自动驾驶产业投融资活跃",
+            "summary": "近期全球自动驾驶领域融资活跃，Waymo、Cruise等头部企业持续获得资本支持...",
             "source": "行业聚合",
             "date": datetime.now().strftime('%Y-%m-%d'),
-            "url": "https://www.google.com/search?q=自动驾驶+融资"
-        },
-        {
-            "id": "7",
-            "title": "【车企动态】造车新势力智能驾驶功能迭代加速",
-            "summary": "小鹏、蔚来、理想等造车新势力持续迭代智能驾驶功能，城市NOA等功能逐步开放...",
-            "source": "行业聚合",
-            "date": datetime.now().strftime('%Y-%m-%d'),
-            "url": "https://www.google.com/search?q=造车新势力+智能驾驶"
-        },
-        {
-            "id": "8",
-            "title": "【技术趋势】端到端自动驾驶成为新方向",
-            "summary": "端到端（End-to-End）自动驾驶技术路线受到关注，特斯拉等头部企业持续投入研发...",
-            "source": "行业聚合",
-            "date": datetime.now().strftime('%Y-%m-%d'),
-            "url": "https://www.google.com/search?q=端到端+自动驾驶"
+            "url": "https://www.google.com/search?q=autonomous+driving+funding"
         }
     ]
 
@@ -303,43 +170,52 @@ def main():
     
     all_news = []
     
-    sources = [
-        ("微博热搜", fetch_from_weibo),
-        ("知乎", fetch_from_zhihu),
-        ("B站", fetch_from_bilibili),
-        ("今日头条", fetch_from_toutiao),
-    ]
-    
-    for name, func in sources:
-        if HAS_REQUESTS:
-            print(f"尝试 {name}...")
+    # 1. GNews 英文新闻
+    if HAS_REQUESTS:
+        print("尝试 GNews (英文)...")
+        for keyword in ["autonomous driving", "Tesla FSD", "robotaxi"]:
             try:
-                news = func()
+                news = fetch_from_gnews(keyword, lang="en")
                 all_news.extend(news)
-                print(f"{name}: {len(news)} 条")
+                print(f"  {keyword}: {len(news)} 条")
             except Exception as e:
-                print(f"{name} 失败: {e}")
+                print(f"  {keyword} 失败: {e}")
+    
+    # 2. B站视频
+    if HAS_REQUESTS:
+        print("尝试 Bilibili...")
+        try:
+            bilibili_news = fetch_from_bilibili()
+            all_news.extend(bilibili_news)
+            print(f"  Bilibili: {len(bilibili_news)} 条")
+        except Exception as e:
+            print(f"  Bilibili 失败: {e}")
     
     # 去重
     seen = set()
     unique_news = []
     for item in all_news:
-        if item["title"] not in seen and len(item["title"]) > 5:
+        if item.get("title") and item["title"] not in seen and len(item["title"]) > 5:
             seen.add(item["title"])
             unique_news.append(item)
     
+    print(f"网络抓取共 {len(unique_news)} 条")
+    
     # 如果抓取太少，补充备用数据
     if len(unique_news) < 5:
-        print("网络抓取数量不足，补充备用数据")
-        unique_news.extend(generate_trending_news())
+        print("补充备用数据...")
+        unique_news.extend(generate_fallback_news())
     
-    # 去重并排序
+    # 最终去重
     seen = set()
     final_news = []
     for item in unique_news:
-        if item["title"] not in seen:
+        if item.get("title") and item["title"] not in seen:
             seen.add(item["title"])
             final_news.append(item)
+    
+    # 按日期排序
+    final_news.sort(key=lambda x: x.get("date", ""), reverse=True)
     
     # 保存
     output = {
