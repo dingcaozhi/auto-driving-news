@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-03-05 16:40:03",
-  "totalCount": 34,
+  "lastUpdated": "2026-03-06 02:41:26",
+  "totalCount": 37,
   "sources": {
-    "Gmw": 2,
-    "News_Baidu": 8,
-    "Fx168News": 2,
-    "Eeo": 1,
-    "Truth_Tv": 1,
+    "News_Baidu": 12,
+    "Chinanews": 1,
+    "Fx168News": 1,
+    "Ithome": 2,
     "Imobile": 1,
+    "Orientaldaily": 1,
+    "Benzinga": 3,
     "The Guardian": 1,
     "CNBC": 2,
     "The Manila Times": 1,
@@ -15,135 +16,166 @@
     "Reuters": 1,
     "Caixin": 2,
     "Markets Insider": 1,
-    "PR Newswire UK": 2,
+    "PR Newswire UK": 1,
     "Interesting Engineering": 1,
     "Investor's Business Daily": 1,
     "NextBigFuture.com": 1,
-    "Benzinga": 2,
     "MarketScreener": 1,
     "Business Today": 1,
     "Barchart": 1
   },
   "news": [
     {
-      "id": "https://news.gmw.cn/2026-03/05/content_38628320.htm",
-      "title": "“创新是引领世界发展的重要动力”——中国携手世界共赴创新发展新征程_光明网",
-      "summary": "“抓创新就是抓发展,谋创新就是谋未来。”“创新是引领世界发展的重要动力。”新时代以来,习近平总书记深刻把握新一轮科技革命和产业变革大势,引领中国坚定不移实施创新驱动发展战略,以中国实践凝聚国际共识。...",
-      "source": "Gmw",
-      "date": "2026-03-04",
-      "url": "https://news.gmw.cn/2026-03/05/content_38628320.htm"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-03/05/content_38628425.htm",
-      "title": "微光汇成星河 雷锋精神永续——记第十一批全国岗位学雷锋标兵_光明网",
-      "summary": "日前,中宣部命名第十一批全国岗位学雷锋标兵,他们以英雄的壮举、平凡的感动、执着的坚守,将“为人民服务”的初心和誓言化作奋进新时代的生动实践,让雷锋精神在中华大地上绽放出更加璀璨的光芒。...",
-      "source": "Gmw",
-      "date": "2026-03-04",
-      "url": "https://news.gmw.cn/2026-03/05/content_38628425.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858748724321658691",
-      "title": "小马智行创始人、CEO彭军:以自动驾驶产业带动就业..",
-      "summary": "建议持续推进高级别自动驾驶示范区扩区扩容、提质增效,支持自动驾驶企业开展更大范围、更大规模的示范应用与商业化落地,让智能出行更好惠及广大市民,切实增强民生福祉。同时建议以自动驾驶产业规模化发展为纽带,...",
+      "id": "http://baijiahao.baidu.com/s?id=1858825100502989996",
+      "title": "护航开学季 站好护学岗 青岛公安交管全力筑牢校园周..",
+      "summary": "齐鲁网·闪电新闻3月5日讯春启新程,学子归校。3月5日,青岛全市中小学迎来新学期开学首日,校园周边车流和人流高度集中,交通保障压力增大。为全力守护师生出行安全、维护道路通行秩序,青岛公安交管支队提前部...",
       "source": "News_Baidu",
-      "date": "2026-03-04",
-      "url": "http://baijiahao.baidu.com/s?id=1858748724321658691"
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858825100502989996"
     },
     {
-      "id": "https://www.fx168news.com/article/1000100",
-      "title": "特斯拉股票3月4日盘中上涨3.58%:原因全解读-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.58%, 所属行业汽车与零部件上涨0.75% ,公司涨幅跑赢行业涨幅,行业涨幅前三股票 NIU Technologies (NIU) 上涨 7.68%;NIO Inc (NIO) 上涨 6.54%;Westport Fuel Systems Inc (WPRT) 上涨 6.50%。 特斯拉股价今日大幅上涨,主要受到分析师上调评级以及市场对该公司长期增长计划重燃乐观...",
+      "id": "http://baijiahao.baidu.com/s?id=1858831047553138834",
+      "title": "蘑菇车联(MOGOX)总裁付强:加速推动自动驾驶技..",
+      "summary": "2026年是“十五五”开局之年,自动驾驶作为公共交通智能化的核心技术,是落实培育交通领域新质生产力的重要抓手。蘑菇车联作为国家级高新技术企业,以人工智能和数据为驱动,在物理世界多模态大模型、前装量产自...",
+      "source": "News_Baidu",
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858831047553138834"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858830772253765306",
+      "title": "前行2026·代表丨贾少谦:技术不等于价值,要让智..",
+      "summary": "当前,人工智能正加速融入千行百业,应用落地不断深化。如何推动人工智能真正发挥价值成为广泛关注的议题。“不能把智能化的技术当成智能化的价值,坚守AI务实导向,杜绝‘空转’,让技术真正服务于人。”近日,全...",
+      "source": "News_Baidu",
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858830772253765306"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/03-05/10581910.shtml",
+      "title": "两会特稿丨“创新是引领世界发展的重要动力”——中国携手世界共赴创新发展新征程",
+      "summary": "新华社北京3月4日电#8195;两会特稿|“创新是引领世界发展的重要动力”——中国携手世界共赴创新发展新征程...",
+      "source": "Chinanews",
+      "date": "2026-03-05",
+      "url": "https://www.chinanews.com.cn/gn/2026/03-05/10581910.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858828687115253297",
+      "title": "用榜样故事,锚定人生方向|“中国茅台·国之栋梁”希..",
+      "summary": "有这样一群人他们常年往返于地球的南极与北极看过世界最美的风景也领略过最极端的天气图片来源:CCTV4他们就是奔赴极地的中国科考团队3月6日“雪龙2”号极地科考破冰船船长肖志民将走进“中国茅台·国之栋梁...",
+      "source": "News_Baidu",
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858828687115253297"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858827459874297041",
+      "title": "实干开新局|浪潮智慧科技助力济南地铁“迎战”春运季..",
+      "summary": "2026年,串联起济南铁路枢纽、章丘大学城、中央商务区等重要区域的济南地铁,迎来了“八线并网”后的首个春节春运季与开学季。面对大客流“首考”,浪潮智慧科技全栈式通信系统与城轨云平台协同发力,持续释放数...",
+      "source": "News_Baidu",
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858827459874297041"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1000562",
+      "title": "特斯拉第三大个人股东廖凯原1.8亿美元逆势加仓英伟达?并放言“未来继续建仓”-FX168",
+      "summary": "TradingKey — 近期,受避险情绪及AI泡沫论影响,人工智能板块出现明显波动,而一位长期活跃于科技股投资领域的知名投资人却选择逆势加仓。 被市场称为特斯拉“最牛散户”的亿万富豪Leo KoGuan(廖凯原)近日披露,他已大举买入约100万股英伟达(NVDA)股票,并计划在未来继续增加持仓,以表达对人工智能产业长期前景的信心。 廖凯原表示,他在3月4日完成了这一笔交易。按照英伟达当时约180...",
       "source": "Fx168News",
-      "date": "2026-03-04",
-      "url": "https://www.fx168news.com/article/1000100"
+      "date": "2026-03-05",
+      "url": "https://www.fx168news.com/article/1000562"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858702762182019636",
-      "title": "何小鹏两会建议:加快推动自动驾驶技术从L2跨越到L..",
-      "summary": "2026年全国两会即将启幕,第十四届全国人大代表、小鹏汽车董事长兼CE0何小鹏,围绕科技创新、产业创新发展的关键领域,提交了《关于加快推动自动驾驶技术从L2跨越到L4,完善法规与管理政策的建议》、《关...",
+      "id": "http://baijiahao.baidu.com/s?id=1858826230855698200",
+      "title": "突发!这家千亿市值公司签订最高6亿美元原油运输船建..",
+      "summary": "今日聚焦【*ST松发:下属公司签订4艘超大型原油运输船建造合同金额合计约4-6亿美元】*ST松发(603268.SH)公告称,公司下属公司恒力造船(大连)有限公司与欧洲知名船东签订4艘30.6万吨超大...",
       "source": "News_Baidu",
-      "date": "2026-03-04",
-      "url": "http://baijiahao.baidu.com/s?id=1858702762182019636"
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858826230855698200"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0304/805425.shtml",
-      "title": "何小鹏两会提案聚焦三项未来技术,呼吁制度突破适配技术迭代",
-      "summary": "全国人大代表、小鹏汽车董事长何小鹏围绕智能汽车、具身智能、低空经济等新质生产力关键方向,提交三份提案,核心指向技术迭代与制度供给不匹配的行业痛点,...",
-      "source": "Eeo",
-      "date": "2026-03-04",
-      "url": "http://www.eeo.com.cn/2026/0304/805425.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858736162221716199",
-      "title": "小米新手机海外定价1.6万元对标苹果",
-      "summary": "3月的巴塞罗那依然有些凉意,但2026年世界移动通信大会(MWC)展馆内却热闹异常。相比往年,今年最明显的变化是,AI不再只是一个展板上的口号,而是几乎嵌入到每一家厂商的产品演示里。...",
+      "id": "http://baijiahao.baidu.com/s?id=1858787730713375251",
+      "title": "雷锋日特别报道|从车厢到全城,烟台17路公交藏着城..",
+      "summary": "齐鲁晚报·齐鲁壹点孙淑玉王琳今年3月5日是第63个学雷锋纪念日,山东省委宣传部日前公布第八批全省岗位学雷锋标兵,烟台公交集团“爱在17爱在一起”17路成功入选。从12米车厢里的一次次挺身而出,到城市街...",
       "source": "News_Baidu",
-      "date": "2026-03-04",
-      "url": "http://baijiahao.baidu.com/s?id=1858736162221716199"
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858787730713375251"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858710092534430836",
-      "title": "雷军建议:部署通用人形机器人的工厂,给予产业补贴和..",
-      "summary": "3月4日,澎湃新闻记者获悉,全国人大代表,小米集团创始人、董事长兼CEO雷军围绕“人工智能+”与“新质生产力”两大主线,向大会提交了5份建议,包含《关于加快推动通用人形机器人在智能制造中应用的建议》、...",
+      "id": "http://baijiahao.baidu.com/s?id=1858823715728129862",
+      "title": "(体育)赛车——F1澳大利亚大奖赛媒体日活动在墨尔..",
+      "summary": "当地时间3月5日,世界一级方程式赛车锦标赛(F1)澳大利亚大奖赛媒体日活动在墨尔本阿尔伯特公园赛道进行。3月5日,红牛车队法国车手哈贾尔驾驶迷你卡丁车与车迷展开互动。新华社发(钱俊摄)3月5日,迈凯伦...",
       "source": "News_Baidu",
-      "date": "2026-03-04",
-      "url": "http://baijiahao.baidu.com/s?id=1858710092534430836"
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858823715728129862"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858718461351265482",
-      "title": "两会声音|全国人大代表何小鹏:建议在部分城市开展L..",
-      "summary": "新京报贝壳财经讯(记者张冰)3月4日,围绕科技创新、产业创新发展的关键领域,全国人大代表、小鹏汽车董事长兼首席执行官何小鹏提交了3份建议。在《关于加快推动自动驾驶技术从L2跨越到L4,完善法规与管理政...",
+      "id": "http://baijiahao.baidu.com/s?id=1858825546752837500",
+      "title": "开学首日解接送难题,长沙182条校园定制公交恢复运..",
+      "summary": "3月5日,长沙市中小学的新学期的铃声已经敲响。家长们还在为娃的上学路犯愁?早高峰堵车绕路、接送耗时费力、转乘折腾娃......今日,全市182条校园定制公交线路陆续恢复运行,这批线路将作为长沙学子上下学的“专...",
       "source": "News_Baidu",
-      "date": "2026-03-04",
-      "url": "http://baijiahao.baidu.com/s?id=1858718461351265482"
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858825546752837500"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858741547877186738",
-      "title": "雷军代表:人形机器人带动北京智能制造跑出“加速度”",
-      "summary": "“我相信,未来五年,通用人形机器人会迎来增长的爆发时刻,机器人会成为一个巨大的产业,其影响力不亚于此前的PC电脑、智能手机。”正是基于这一判断,此次参加十四届全国人大四次会议,全国人大代表,小米集团创...",
+      "id": "https://www.ithome.com/0/926/316.htm",
+      "title": "比亚迪王朝首款 B 级纯电 SUV 宋 Ultra EV 发布:预售价 15.5 万元起,再送 6 个月免费闪充权益",
+      "summary": "IT之家 3 月 5 日消息,比亚迪王朝首款 B 级纯电 SUV 宋 Ultra EV 车型今日正式发布,预售价 15.5 万元起,将在 3 月底上市。605km 领先型 15.5 万元605km 超越型 16.5 万元710km 超越型 17.5 万元710km 卓越型 18.5 万元该车部分款型可选装天神之眼 B 激光雷达版,选装价格 9900 元。预售期间,用户可获得额外 6 个月的免费闪充...",
+      "source": "Ithome",
+      "date": "2026-03-05",
+      "url": "https://www.ithome.com/0/926/316.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858800376513883055",
+      "title": "三入政府工作报告、定位新兴支柱产业,低空经济“十五..",
+      "summary": "界面新闻见习记者|蒋习3月5日,十四届全国人大四次会议在北京开幕,国务院总理李强作政府工作报告。报告提出,培育壮大新兴产业和未来产业。实施产业创新工程,鼓励央企国企带头开放应用场景,打造集成电路、航空...",
       "source": "News_Baidu",
-      "date": "2026-03-04",
-      "url": "http://baijiahao.baidu.com/s?id=1858741547877186738"
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858800376513883055"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858741705935519059",
-      "title": "两会特稿丨“创新是引领世界发展的重要动力”——中国..",
-      "summary": "开年以来,中国创新热潮一次次牵动全球目光:人形机器人行云流水的武术表演视频在海外社交媒体广泛传播;国际奥委会基于阿里千问大模型打造奥运官方大模型,中国人工智能(AI)成为米兰冬奥会的“智慧大脑”;全球...",
+      "id": "http://baijiahao.baidu.com/s?id=1858823589366301989",
+      "title": "培育和壮大新质生产力:两会代表委员热议无人驾驶立法..",
+      "summary": "中国无人驾驶要以“开城、扩区、增车”加速度抢占全球赛道。3月4日,2026年全国两会正式拉开帷幕,L4级以上的自动驾驶再次成为代表委员热点议题。雷军、何小鹏、冯兴亚、吴仁彪、钟章队、江浩然等在内的多位...",
       "source": "News_Baidu",
-      "date": "2026-03-04",
-      "url": "http://baijiahao.baidu.com/s?id=1858741705935519059"
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858823589366301989"
     },
     {
-      "id": "https://xn--s0y3c.tv/2026%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%B8%86%E8%88%B9%E8%B5%9B%E6%AD%A3%E5%BC%8F%E5%B1%95%E5%BC%80/",
-      "title": "“2026劳力士中国海帆船赛”正式展开",
-      "summary": "香港2026年3月4日 /美通社/ — 亚洲顶级离岸帆船赛事—2026 劳力士中国海帆船赛(Rolex China Sea Race 2026)- 今日于上午11时20分假维多利亚港隆重起航,顺利展开这段全长 565 海里、由香港驶往菲律宾苏碧湾的经典航程。 本届赛事的参赛队伍来自世界各地,包括..澳洲的“Team Alive–Rampage号”、中国内地的“海狼号”,以及两支来自菲律宾的队伍─“...",
-      "source": "Truth_Tv",
-      "date": "2026-03-04",
-      "url": "https://xn--s0y3c.tv/2026%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%B8%86%E8%88%B9%E8%B5%9B%E6%AD%A3%E5%BC%8F%E5%B1%95%E5%BC%80/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858735812759936609",
-      "title": "上海男子滞留沙特3天,亲历导弹轰炸,好不容易回国,..",
-      "summary": "3月3日,上海的董先生在社交平台分享了一段堪称“现实版惊险大片”的回国经历:先是出国旅游返程转机时因中东局势突变滞留沙特3天,亲历了一百公里外的导弹轰炸、领空关闭;好不容易经菲律宾转机回到中国,又在香港飞往上海的CX38...",
-      "source": "News_Baidu",
-      "date": "2026-03-04",
-      "url": "http://baijiahao.baidu.com/s?id=1858735812759936609"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0304/233646.shtml",
-      "title": "小鹏第二代VLA本月开启推送,2026款小鹏X9纯电版同步首发",
-      "summary": "2026年3月2日,广州,以「THE FUTURE」为主题的小鹏第二代VLA媒体体验日成功举办,小鹏汽车董事长 CEO何小鹏宣布,第二代VLA将于本月正式迎来推送。作为开启L4时代的物理世界大模型,第二代VLA将以妈妈都爱开的「国民智驾」为目标,推动自动驾驶从“极客尝鲜”走向“大众常用” 。 与此同时,2026款小鹏X9纯电版重磅上市,产品力全面对齐超级增程版,以“两种动力,同一个旗舰标准”的硬核...",
+      "id": "http://news.imobile.com.cn/articles/2026/0305/233667.shtml",
+      "title": "丝滑的智驾第一梯队,iCAR V27它来了",
+      "summary": "NewsData报道",
       "source": "Imobile",
-      "date": "2026-03-04",
-      "url": "http://news.imobile.com.cn/articles/2026/0304/233646.shtml"
+      "date": "2026-03-05",
+      "url": "http://news.imobile.com.cn/articles/2026/0305/233667.shtml"
     },
     {
-      "id": "https://www.fx168news.com/article/1000082",
-      "title": "Arm Holdings PLC股票3月4日开盘上涨4.05%:背后推手曝光-FX168",
-      "summary": "Arm Holdings PLC (ARM) 开盘上涨4.05%, 所属行业科技设备下跌2.28% ,公司涨幅跑赢行业涨幅,行业涨幅前三股票 SmartRent Inc (SMRT) 上涨 12.34%;nLIGHT Inc (LASR) 上涨 9.40%;MOBIX LABS, INC. (MOBX) 上涨 7.70%。 ARM Holdings股价今日显著上涨,这主要受到重大机构投资活动以及对...",
-      "source": "Fx168News",
-      "date": "2026-03-04",
-      "url": "https://www.fx168news.com/article/1000082"
+      "id": "https://www.orientaldaily.com.my/news/south/2026/03/05/801949",
+      "title": "配合柔佛古庙游神 3月7日至10日分阶段封路",
+      "summary": "(新山5日讯)配合柔佛古庙游神活动,警方将从本月7日(周六)起,至本月10日(周二)分阶段封锁新山市中心多条主要道路。新山南区警区主任拉勿透露,本月7日(周六)的“洗街仪式” 与8日(周日)的“出銮仪式” ,封路时间皆是上午11时至下午1时。“3月9日的众神夜游,警方将从下午3时起展开首阶段封路,并在傍晚7时起完全封锁相关路段,直至次日凌晨3时。3月10日的回銮仪式,则在3月10日的上午11时至下...",
+      "source": "Orientaldaily",
+      "date": "2026-03-05",
+      "url": "https://www.orientaldaily.com.my/news/south/2026/03/05/801949"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858820723516121090",
+      "title": "上海赛车热潮率先在南京东路点燃!黄浦赛车节第一季“..",
+      "summary": "随着F1中国大奖赛的战火即将重燃,上海的赛车热潮率先在黄浦区点燃。3月5日,黄浦赛车节第一季“冠军遇见黄浦”在南京东路世纪广场开启,持续到15日。作为上海市城区首个赛车综合主题重磅活动,本次赛车节由黄浦区体育局、区商务委...",
+      "source": "News_Baidu",
+      "date": "2026-03-05",
+      "url": "http://baijiahao.baidu.com/s?id=1858820723516121090"
+    },
+    {
+      "id": "https://www.ithome.com/0/926/317.htm",
+      "title": "比亚迪 2026 款海狮 06 EV 发布:710km 续航“买杯咖啡的时间满电出发”,15.99 万-17.99 万元",
+      "summary": "IT之家 3 月 5 日消息,比亚迪 2026 款海狮 06 EV 今晚正式发布,新车全系标配云辇-C,标配座椅记忆,可选前排座椅按摩、副驾电动腿托等配置,续航里程从 605 公里提升至 710 公里,号称买杯咖啡的时间即可满电出发。IT之家汇总新车价格信息如下:新车首发搭载第二代刀片电池 + 闪充技术,全系可选激光雷达的天神之眼 5.0 辅助驾驶系统。作为对照,2025 款海狮 06 EV 定价...",
+      "source": "Ithome",
+      "date": "2026-03-05",
+      "url": "https://www.ithome.com/0/926/317.htm"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/03/51063089/plusai-shatters-ai-speed-records-with-superdrive-6-0-targets-full-driverless-launch-in-2026",
+      "title": "PlusAI Shatters AI Speed Records With SuperDrive 6.0, Targets Full Driverless Launch In 2026",
+      "summary": "PlusAI just unveiled SuperDrive 6.0, a breakthrough in autonomous trucking that trains AI 10X faster. Discover how their new night-driving tech and 7 million miles of data are paving the way for a 202...",
+      "source": "Benzinga",
+      "date": "2026-03-05",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51063089/plusai-shatters-ai-speed-records-with-superdrive-6-0-targets-full-driverless-launch-in-2026"
     },
     {
       "id": "https://www.theguardian.com/technology/2026/mar/04/nvidia-uk-wealth-fund-invest-british-autonomous-driving-startup-oxa",
@@ -218,14 +250,6 @@
       "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-ceo-attends-symposium-of-the-china-germany-economic-advisory-committee-with-chinese-premier-and-german-chancellor-302702357.html"
     },
     {
-      "id": "https://www.prnewswire.co.uk/news-releases/huawei-unveils-industrys-first-campus-l4-adn-solution-marking-a-breakthrough-in-autonomous-network-om-302702338.html",
-      "title": "Huawei Unveils Industry's First Campus L4 ADN Solution, Marking a Breakthrough in Autonomous Network O&M",
-      "summary": "/PRNewswire/ -- At Mobile World Congress (MWC) Barcelona 2026, Huawei launched the industry's first L4 Autonomous Driving Network (ADN) solution for campuses,......",
-      "source": "PR Newswire UK",
-      "date": "2026-03-03",
-      "url": "https://www.prnewswire.co.uk/news-releases/huawei-unveils-industrys-first-campus-l4-adn-solution-marking-a-breakthrough-in-autonomous-network-om-302702338.html"
-    },
-    {
       "id": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone",
       "title": "Tesla’s Full Self Driving clocks over 8 billion miles cumulatively",
       "summary": "Tesla's Full Self-Driving (FSD) fleet has cumulatively clocked over 8 billion miles which will be used as training data for its advanced driver assistance system (ADAS)....",
@@ -240,30 +264,6 @@
       "source": "Investor's Business Daily",
       "date": "2026-02-27",
       "url": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/"
-    },
-    {
-      "id": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html",
-      "title": "Elon Interviewed At GigaBerlin- With News on FSD March 20 Netherlands, Cybercab, Optimus",
-      "summary": "Elon drops the big things on FSD, cybercab and optimus, battery and cybercab factory in Europe. If authorities cooperate, Tesla would make Gigaberlin the...",
-      "source": "NextBigFuture.com",
-      "date": "2026-02-27",
-      "url": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/02/50859270/ross-gerber-warns-teslas-mad-max-fsd-mode-is-basically-unsafe-following-240-million-autopilot-liability-verdict",
-      "title": "Ross Gerber Warns Tesla's 'Mad Max' FSD Mode Is 'Basically Unsafe' Following $240 Million Autopilot Liability Verdict",
-      "summary": "Ross Gerber, co-founder of investment firm Gerber Kawasaki, issued a stern warning on Wednesday regarding the safety of Tesla Inc.'s (TSLA) autonomous driving software....",
-      "source": "Benzinga",
-      "date": "2026-02-25",
-      "url": "https://www.benzinga.com/markets/tech/26/02/50859270/ross-gerber-warns-teslas-mad-max-fsd-mode-is-basically-unsafe-following-240-million-autopilot-liability-verdict"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/tesla-reportedly-sues-california-dmv-to-reverse-fsd-advertising-related-ruling-ce7e5cdad980f72c",
-      "title": "Tesla Reportedly Sues California DMV to Reverse FSD Advertising-Related Ruling",
-      "summary": "Tesla has filed a lawsuit against California's Department of Motor Vehicles in a bid to reverse a ruling that found the electric vehicle maker breached the law by falsely promoting its cars'......",
-      "source": "MarketScreener",
-      "date": "2026-02-24",
-      "url": "https://www.marketscreener.com/news/tesla-reportedly-sues-california-dmv-to-reverse-fsd-advertising-related-ruling-ce7e5cdad980f72c"
     }
   ]
 }
