@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-03-06 02:41:26",
-  "totalCount": 37,
+  "lastUpdated": "2026-03-07 02:34:06",
+  "totalCount": 40,
   "sources": {
-    "News_Baidu": 12,
-    "Chinanews": 1,
+    "Bilibili": 5,
+    "News_Baidu": 5,
+    "Ithome": 4,
+    "Investing_Cn": 1,
+    "Chinanews": 3,
+    "Imobile": 2,
     "Fx168News": 1,
-    "Ithome": 2,
-    "Imobile": 1,
-    "Orientaldaily": 1,
     "Benzinga": 3,
     "The Guardian": 1,
     "CNBC": 2,
@@ -26,148 +27,172 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858825100502989996",
-      "title": "护航开学季 站好护学岗 青岛公安交管全力筑牢校园周..",
-      "summary": "齐鲁网·闪电新闻3月5日讯春启新程,学子归校。3月5日,青岛全市中小学迎来新学期开学首日,校园周边车流和人流高度集中,交通保障压力增大。为全力守护师生出行安全、维护道路通行秩序,青岛公安交管支队提前部...",
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-03-07",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1nTkwByEz8",
+      "title": "【B站】9车横评，辅助驾驶哪家强？",
+      "summary": "横评内容坚持不恰饭！...",
+      "source": "Bilibili",
+      "date": "2026-03-07",
+      "url": "https://www.bilibili.com/video/BV1nTkwByEz8"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1xe411k7h7",
+      "title": "【B站】简单清晰，10分钟讲懂自动驾驶的核心零部件，激光雷达、毫米波、摄像头原理一网打尽！捋清市场空间和行业发展趋势！机器人专题研究之机器视觉【深度报告】",
+      "summary": "参考资料：\nHow Your Eyes Make Sense of the World | Decoder你的眼睛如何感知世界？https://www.youtube.com/watch?v=hsh2kPdgazo \n3D scanner. How it works? 结构光原理 https://w...",
+      "source": "Bilibili",
+      "date": "2026-03-07",
+      "url": "https://www.bilibili.com/video/BV1xe411k7h7"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1ZVAazyEF5",
+      "title": "【B站】L3自动驾驶快来了，车企却在纷纷跳过L3？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-03-07",
+      "url": "https://www.bilibili.com/video/BV1ZVAazyEF5"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1p8AZzfEZT",
+      "title": "【B站】FSD来了！北京深度使用分享！99%的人都不知道的很多智能驾驶的细节！全网最深入的智能驾驶视频讲解！",
+      "summary": "FSD来了！北京深度使用分享！\n99%的人都不知道的：\n很多智能驾驶的细节！\n全网最深入的智能驾驶视频讲解！...",
+      "source": "Bilibili",
+      "date": "2026-03-07",
+      "url": "https://www.bilibili.com/video/BV1p8AZzfEZT"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858917368540409756",
+      "title": "民航局:5月1日起 所有新生产无人机具备运行识别发..",
+      "summary": "每经快讯,3月6日,中国民航局发布关于民用无人驾驶航空器系统网络式运行识别有关事项的公告,民航局通过民用无人驾驶航空器综合管理平台(UOM)开展网络式运行识别信息接收与处理工作。自2026年5月1日起...",
       "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858825100502989996"
+      "date": "2026-03-06",
+      "url": "http://baijiahao.baidu.com/s?id=1858917368540409756"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858831047553138834",
-      "title": "蘑菇车联(MOGOX)总裁付强:加速推动自动驾驶技..",
-      "summary": "2026年是“十五五”开局之年,自动驾驶作为公共交通智能化的核心技术,是落实培育交通领域新质生产力的重要抓手。蘑菇车联作为国家级高新技术企业,以人工智能和数据为驱动,在物理世界多模态大模型、前装量产自...",
+      "id": "http://baijiahao.baidu.com/s?id=1858916546804701615",
+      "title": "民航局:自5月1日起,所有新生产无人机应具备运行识..",
+      "summary": "中国民航局发布《关于民用无人驾驶航空器系统网络式运行识别有关事项的公告》。公告提到,民航局通过民用无人驾驶航空器综合管理平台(UOM)开展网络式运行识别信息接收与处理工作。自2026年5月1日起,所有...",
       "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858831047553138834"
+      "date": "2026-03-06",
+      "url": "http://baijiahao.baidu.com/s?id=1858916546804701615"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858830772253765306",
-      "title": "前行2026·代表丨贾少谦:技术不等于价值,要让智..",
-      "summary": "当前,人工智能正加速融入千行百业,应用落地不断深化。如何推动人工智能真正发挥价值成为广泛关注的议题。“不能把智能化的技术当成智能化的价值,坚守AI务实导向,杜绝‘空转’,让技术真正服务于人。”近日,全...",
-      "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858830772253765306"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/03-05/10581910.shtml",
-      "title": "两会特稿丨“创新是引领世界发展的重要动力”——中国携手世界共赴创新发展新征程",
-      "summary": "新华社北京3月4日电#8195;两会特稿|“创新是引领世界发展的重要动力”——中国携手世界共赴创新发展新征程...",
-      "source": "Chinanews",
-      "date": "2026-03-05",
-      "url": "https://www.chinanews.com.cn/gn/2026/03-05/10581910.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858828687115253297",
-      "title": "用榜样故事,锚定人生方向|“中国茅台·国之栋梁”希..",
-      "summary": "有这样一群人他们常年往返于地球的南极与北极看过世界最美的风景也领略过最极端的天气图片来源:CCTV4他们就是奔赴极地的中国科考团队3月6日“雪龙2”号极地科考破冰船船长肖志民将走进“中国茅台·国之栋梁...",
-      "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858828687115253297"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858827459874297041",
-      "title": "实干开新局|浪潮智慧科技助力济南地铁“迎战”春运季..",
-      "summary": "2026年,串联起济南铁路枢纽、章丘大学城、中央商务区等重要区域的济南地铁,迎来了“八线并网”后的首个春节春运季与开学季。面对大客流“首考”,浪潮智慧科技全栈式通信系统与城轨云平台协同发力,持续释放数...",
-      "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858827459874297041"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1000562",
-      "title": "特斯拉第三大个人股东廖凯原1.8亿美元逆势加仓英伟达?并放言“未来继续建仓”-FX168",
-      "summary": "TradingKey — 近期,受避险情绪及AI泡沫论影响,人工智能板块出现明显波动,而一位长期活跃于科技股投资领域的知名投资人却选择逆势加仓。 被市场称为特斯拉“最牛散户”的亿万富豪Leo KoGuan(廖凯原)近日披露,他已大举买入约100万股英伟达(NVDA)股票,并计划在未来继续增加持仓,以表达对人工智能产业长期前景的信心。 廖凯原表示,他在3月4日完成了这一笔交易。按照英伟达当时约180...",
-      "source": "Fx168News",
-      "date": "2026-03-05",
-      "url": "https://www.fx168news.com/article/1000562"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858826230855698200",
-      "title": "突发!这家千亿市值公司签订最高6亿美元原油运输船建..",
-      "summary": "今日聚焦【*ST松发:下属公司签订4艘超大型原油运输船建造合同金额合计约4-6亿美元】*ST松发(603268.SH)公告称,公司下属公司恒力造船(大连)有限公司与欧洲知名船东签订4艘30.6万吨超大...",
-      "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858826230855698200"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858787730713375251",
-      "title": "雷锋日特别报道|从车厢到全城,烟台17路公交藏着城..",
-      "summary": "齐鲁晚报·齐鲁壹点孙淑玉王琳今年3月5日是第63个学雷锋纪念日,山东省委宣传部日前公布第八批全省岗位学雷锋标兵,烟台公交集团“爱在17爱在一起”17路成功入选。从12米车厢里的一次次挺身而出,到城市街...",
-      "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858787730713375251"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858823715728129862",
-      "title": "(体育)赛车——F1澳大利亚大奖赛媒体日活动在墨尔..",
-      "summary": "当地时间3月5日,世界一级方程式赛车锦标赛(F1)澳大利亚大奖赛媒体日活动在墨尔本阿尔伯特公园赛道进行。3月5日,红牛车队法国车手哈贾尔驾驶迷你卡丁车与车迷展开互动。新华社发(钱俊摄)3月5日,迈凯伦...",
-      "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858823715728129862"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858825546752837500",
-      "title": "开学首日解接送难题,长沙182条校园定制公交恢复运..",
-      "summary": "3月5日,长沙市中小学的新学期的铃声已经敲响。家长们还在为娃的上学路犯愁?早高峰堵车绕路、接送耗时费力、转乘折腾娃......今日,全市182条校园定制公交线路陆续恢复运行,这批线路将作为长沙学子上下学的“专...",
-      "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858825546752837500"
-    },
-    {
-      "id": "https://www.ithome.com/0/926/316.htm",
-      "title": "比亚迪王朝首款 B 级纯电 SUV 宋 Ultra EV 发布:预售价 15.5 万元起,再送 6 个月免费闪充权益",
-      "summary": "IT之家 3 月 5 日消息,比亚迪王朝首款 B 级纯电 SUV 宋 Ultra EV 车型今日正式发布,预售价 15.5 万元起,将在 3 月底上市。605km 领先型 15.5 万元605km 超越型 16.5 万元710km 超越型 17.5 万元710km 卓越型 18.5 万元该车部分款型可选装天神之眼 B 激光雷达版,选装价格 9900 元。预售期间,用户可获得额外 6 个月的免费闪充...",
+      "id": "https://www.ithome.com/0/926/695.htm",
+      "title": "民航局:5 月 1 日起,所有新生产无人机应具备运行识别发送功能",
+      "summary": "IT之家 3 月 6 日消息,中国民航局今日发布《关于民用无人驾驶航空器系统网络式运行识别有关事项的公告》,民航局通过民用无人驾驶航空器综合管理平台(UOM)开展网络式运行识别信息接收与处理工作。IT之家从《公告》获悉,自 2026 年 5 月 1 日起,所有民用无人驾驶航空器系统生产厂家应确保其生产、销售的无人机具备运行识别发送功能且技术规范完全符合 GB46750-2025 的要求。运行识别信...",
       "source": "Ithome",
-      "date": "2026-03-05",
-      "url": "https://www.ithome.com/0/926/316.htm"
+      "date": "2026-03-06",
+      "url": "https://www.ithome.com/0/926/695.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858800376513883055",
-      "title": "三入政府工作报告、定位新兴支柱产业,低空经济“十五..",
-      "summary": "界面新闻见习记者|蒋习3月5日,十四届全国人大四次会议在北京开幕,国务院总理李强作政府工作报告。报告提出,培育壮大新兴产业和未来产业。实施产业创新工程,鼓励央企国企带头开放应用场景,打造集成电路、航空...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3248899",
+      "title": "全国人大代表、广汽集团董事长冯兴亚:建议将广东、广州打造为先行先试样板,让自动驾驶“跑”起来",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-03-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3248899"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858915962636778971",
+      "title": "广言快评|在“开放日”,看见广东的盎然春意",
+      "summary": "雪后初霁,晴空万里。6日下午,十四届全国人大四次会议广东省代表团举行开放团组活动。现场花团锦簇,广货琳琅满目,气氛“热气腾腾”......透过这扇“窗”,世界看到什么?四字概括:盎然春意!看新风扑面。擅长拉花...",
       "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858800376513883055"
+      "date": "2026-03-06",
+      "url": "http://baijiahao.baidu.com/s?id=1858915962636778971"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858823589366301989",
-      "title": "培育和壮大新质生产力:两会代表委员热议无人驾驶立法..",
-      "summary": "中国无人驾驶要以“开城、扩区、增车”加速度抢占全球赛道。3月4日,2026年全国两会正式拉开帷幕,L4级以上的自动驾驶再次成为代表委员热点议题。雷军、何小鹏、冯兴亚、吴仁彪、钟章队、江浩然等在内的多位...",
+      "id": "http://baijiahao.baidu.com/s?id=1858915510655819656",
+      "title": "莹观天下|突然更换国土安全部长,特朗普打的什么算盘",
+      "summary": "齐鲁晚报·齐鲁壹点记者王晓莹在被喊辞职三个多月后,美国国土安全部长克丽丝蒂·诺姆最终还是没扛住。美国总统特朗普3月5日宣布,共和党籍联邦参议员马克韦恩·马林将从3月31日起担任美国国土安全部长,而诺姆...",
       "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858823589366301989"
+      "date": "2026-03-06",
+      "url": "http://baijiahao.baidu.com/s?id=1858915510655819656"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0305/233667.shtml",
-      "title": "丝滑的智驾第一梯队,iCAR V27它来了",
+      "id": "https://www.ithome.com/0/926/686.htm",
+      "title": "长安汽车董事长朱华荣:建议推出适配自动驾驶的保险产品",
+      "summary": "IT之家 3 月 6 日消息,今日,长安汽车公布十四届全国人大代表、中国长安汽车董事长朱华荣的两会建议。IT之家整理如下:关于深化汽车产业高质量发展新动能的建议:以数智化转型与平台化协作,实现降本增效。强化行业整合统筹,培育全球领军车企。健全消费政策长效体系,稳定市场发展预期。关于强化汽车产业基础研究与前沿创新,夯实科技自立自强根基,为汽车产业高质量发展提供源头创新支撑的建议:建立分阶段、差异化的...",
+      "source": "Ithome",
+      "date": "2026-03-06",
+      "url": "https://www.ithome.com/0/926/686.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/03-06/10582487.shtml",
+      "title": "(全国两会)重庆团开放日:“小圈”联动“大圈” 让群众幸福触手可及",
+      "summary": "中新网北京3月6日电 题:重庆团开放日:“小圈”联动“大圈” 让群众幸福触手可及...",
+      "source": "Chinanews",
+      "date": "2026-03-06",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-06/10582487.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858820822498432707",
+      "title": "学雷锋践初心 两江公交志愿者守护市民平安出行路",
+      "summary": "3月5日是第63个学雷锋纪念日,来自重庆交通开投公交公司两江分公司团委各个支部的青年志愿者们,联合两江新区鸳鸯街道丹鹤社区集贸市场开展“学雷锋做志愿,共同奋进‘十五五’”主题志愿服务活动。“老人家,背...",
+      "source": "News_Baidu",
+      "date": "2026-03-06",
+      "url": "http://baijiahao.baidu.com/s?id=1858820822498432707"
+    },
+    {
+      "id": "https://www.ithome.com/0/926/678.htm",
+      "title": "努比亚倪飞:Z80 Ultra 将系统化集成原生 OpenClaw,使手机成为真正 GateWay 类型的“龙虾”",
+      "summary": "IT之家 3 月 6 日消息,中兴通讯终端事业部总裁、努比亚技术有限公司总裁倪飞今日宣布,努比亚 Z80 Ultra 将率先系统化集成原生 OpenClaw,使手机成为真正的 GateWay 类型的“龙虾”,全面支持 ClawBot 的场景化应用以及 Skills 生态的无限接入能力。倪飞表示,努比亚 AI 手机将坚持开放,坚持 AI for All,不做封闭的炫技,只做能真正改变用户体验的颠覆式...",
+      "source": "Ithome",
+      "date": "2026-03-06",
+      "url": "https://www.ithome.com/0/926/678.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/03-06/10582563.shtml",
+      "title": "北斗赋能千行百业 产业规模迈向万亿",
+      "summary": "卫星导航系统是国家安全和经济社会发展不可或缺的信息基础设施,更是大国地位和综合国力的重要标志。...",
+      "source": "Chinanews",
+      "date": "2026-03-06",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-06/10582563.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/03-06/10582468.shtml",
+      "title": "老人不上网却被注册多个社交账号 警方出手斩断黑色产业链",
+      "summary": "前段时间,山东菏泽的多名老人都遇到了奇怪的事情,他们平时只用老年机,而且都不会上网,可名下却多出抖音、微信等一堆的社交账号,这是怎么回事?...",
+      "source": "Chinanews",
+      "date": "2026-03-06",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-06/10582468.shtml"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0306/233688.shtml",
+      "title": "限时焕新价+国补+厂补至高省3.58万,全新荣放迎来抄底时刻",
+      "summary": "选车看长期,购车在当下,全新荣放这次全都安排上。阳春3月, 第六代全新荣放智能电混双擎精英版正式交付,官方指导价16.98万,限时焕新价15.18万元,直降1.8万元。惊喜不止于价格,还有重重福利。2026年3月31日前下订荣放全系并在4月30日前开具发票的用户,即可享受一汽丰田提供的包括春季礼遇和置换补贴在内的至高8000元春日礼。这还不够,用户还可同步享受至高约万元的国家补贴。价格直降1.8万...",
+      "source": "Imobile",
+      "date": "2026-03-06",
+      "url": "http://news.imobile.com.cn/articles/2026/0306/233688.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1001036",
+      "title": "Bitget 深度融合 TradFi,开启交易所下一阶段-FX168",
+      "summary": "塞舌尔维多利亚, March 06, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget,对其交易界面进行了重大的结构性升级,将股票、大宗商品和外汇等传统金融资产提升为与加密货币交易并列的独立产品类别。 此次更新反映出,随着加密货币基础设施日益支撑全球金融市场,交易所正经历更广泛的演变。 纵观整个行业,各交易所已开始在其平台上增加传统资产,包括股票、指...",
+      "source": "Fx168News",
+      "date": "2026-03-06",
+      "url": "https://www.fx168news.com/article/1001036"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0306/233687.shtml",
+      "title": "华为896线激光雷达“炸场”来了",
       "summary": "NewsData报道",
       "source": "Imobile",
-      "date": "2026-03-05",
-      "url": "http://news.imobile.com.cn/articles/2026/0305/233667.shtml"
+      "date": "2026-03-06",
+      "url": "http://news.imobile.com.cn/articles/2026/0306/233687.shtml"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/south/2026/03/05/801949",
-      "title": "配合柔佛古庙游神 3月7日至10日分阶段封路",
-      "summary": "(新山5日讯)配合柔佛古庙游神活动,警方将从本月7日(周六)起,至本月10日(周二)分阶段封锁新山市中心多条主要道路。新山南区警区主任拉勿透露,本月7日(周六)的“洗街仪式” 与8日(周日)的“出銮仪式” ,封路时间皆是上午11时至下午1时。“3月9日的众神夜游,警方将从下午3时起展开首阶段封路,并在傍晚7时起完全封锁相关路段,直至次日凌晨3时。3月10日的回銮仪式,则在3月10日的上午11时至下...",
-      "source": "Orientaldaily",
-      "date": "2026-03-05",
-      "url": "https://www.orientaldaily.com.my/news/south/2026/03/05/801949"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858820723516121090",
-      "title": "上海赛车热潮率先在南京东路点燃!黄浦赛车节第一季“..",
-      "summary": "随着F1中国大奖赛的战火即将重燃,上海的赛车热潮率先在黄浦区点燃。3月5日,黄浦赛车节第一季“冠军遇见黄浦”在南京东路世纪广场开启,持续到15日。作为上海市城区首个赛车综合主题重磅活动,本次赛车节由黄浦区体育局、区商务委...",
-      "source": "News_Baidu",
-      "date": "2026-03-05",
-      "url": "http://baijiahao.baidu.com/s?id=1858820723516121090"
-    },
-    {
-      "id": "https://www.ithome.com/0/926/317.htm",
-      "title": "比亚迪 2026 款海狮 06 EV 发布:710km 续航“买杯咖啡的时间满电出发”,15.99 万-17.99 万元",
-      "summary": "IT之家 3 月 5 日消息,比亚迪 2026 款海狮 06 EV 今晚正式发布,新车全系标配云辇-C,标配座椅记忆,可选前排座椅按摩、副驾电动腿托等配置,续航里程从 605 公里提升至 710 公里,号称买杯咖啡的时间即可满电出发。IT之家汇总新车价格信息如下:新车首发搭载第二代刀片电池 + 闪充技术,全系可选激光雷达的天神之眼 5.0 辅助驾驶系统。作为对照,2025 款海狮 06 EV 定价...",
+      "id": "https://www.ithome.com/0/926/673.htm",
+      "title": "首款量产华为 896 线旗舰 SUV 岚图泰山 L3 自动驾驶测试视频发布,实车 3 月 17 日首秀",
+      "summary": "IT之家 3 月 6 日消息,岚图泰山技术焕新发布会 ——《远见》定档 3 月 17 日举行,首款量产华为 896 线旗舰 SUV —— 岚图泰山将迎来实车首秀。据介绍,岚图泰山采用 L3 智能架构设计,同时 L3 路测资质也已就绪(正式获得武汉 L3 级路测牌照)。官方预热海报显示,新车小蓝灯的位置与问界 M6 相似,单独位于前格栅与日行灯完全分隔开(后视镜处也有小蓝灯)。IT之家从岚图汽车官方...",
       "source": "Ithome",
-      "date": "2026-03-05",
-      "url": "https://www.ithome.com/0/926/317.htm"
+      "date": "2026-03-06",
+      "url": "https://www.ithome.com/0/926/673.htm"
     },
     {
       "id": "https://www.benzinga.com/markets/tech/26/03/51063089/plusai-shatters-ai-speed-records-with-superdrive-6-0-targets-full-driverless-launch-in-2026",
@@ -240,30 +265,6 @@
       "source": "Markets Insider",
       "date": "2026-03-04",
       "url": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-ceo-attends-symposium-of-the-china-germany-economic-advisory-committee-with-chinese-premier-and-german-chancellor-302702357.html",
-      "title": "Inceptio Technology CEO Attends Symposium of the China-Germany Economic Advisory Committee with Chinese Premier and German Chancellor",
-      "summary": "/PRNewswire/ -- Inceptio Technology (\"Inceptio\" or the \"Company\"), an industry-leading developer of autonomous driving technologies for trucks, today announced......",
-      "source": "PR Newswire UK",
-      "date": "2026-03-03",
-      "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-ceo-attends-symposium-of-the-china-germany-economic-advisory-committee-with-chinese-premier-and-german-chancellor-302702357.html"
-    },
-    {
-      "id": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone",
-      "title": "Tesla’s Full Self Driving clocks over 8 billion miles cumulatively",
-      "summary": "Tesla's Full Self-Driving (FSD) fleet has cumulatively clocked over 8 billion miles which will be used as training data for its advanced driver assistance system (ADAS)....",
-      "source": "Interesting Engineering",
-      "date": "2026-03-02",
-      "url": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone"
-    },
-    {
-      "id": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/",
-      "title": "Musk Says Tesla FSD, Cybercab, Optimus Coming To Europe",
-      "summary": "Tesla's FSD platform could approved as soon as next month in Holland. Elon Musk said Optimus and Cybercab to be built at German factory....",
-      "source": "Investor's Business Daily",
-      "date": "2026-02-27",
-      "url": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/"
     }
   ]
 }
