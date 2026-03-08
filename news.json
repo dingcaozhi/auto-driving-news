@@ -1,23 +1,19 @@
 {
-  "lastUpdated": "2026-03-07 02:34:06",
-  "totalCount": 40,
+  "lastUpdated": "2026-03-08 02:47:39",
+  "totalCount": 31,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 5,
-    "Ithome": 4,
-    "Investing_Cn": 1,
-    "Chinanews": 3,
-    "Imobile": 2,
-    "Fx168News": 1,
+    "Theportugalnews": 1,
+    "News_Baidu": 11,
+    "Ithome": 1,
+    "Imobile": 1,
+    "PerthNow": 1,
+    "The Star": 1,
     "Benzinga": 3,
     "The Guardian": 1,
     "CNBC": 2,
     "The Manila Times": 1,
     "BOL News": 1,
-    "Reuters": 1,
-    "Caixin": 2,
     "Markets Insider": 1,
-    "PR Newswire UK": 1,
     "Interesting Engineering": 1,
     "Investor's Business Daily": 1,
     "NextBigFuture.com": 1,
@@ -27,172 +23,132 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-03-07/the-quickest-trip-to-spain-crossing-the-guadiana-by-ferry-to-ayamonte/986184",
+      "title": "最快捷的西班牙之旅乘轮渡横渡瓜迪亚纳(Guadiana)河,前往阿亚蒙特(Ayamonte",
+      "summary": "如今有了更快捷的过境方式。光滑的高速公路、混凝土立交桥,还有现代自由的伟大圣物--令人厌恶的收费公路。...",
+      "source": "Theportugalnews",
       "date": "2026-03-07",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-03-07/the-quickest-trip-to-spain-crossing-the-guadiana-by-ferry-to-ayamonte/986184"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1nTkwByEz8",
-      "title": "【B站】9车横评，辅助驾驶哪家强？",
-      "summary": "横评内容坚持不恰饭！...",
-      "source": "Bilibili",
-      "date": "2026-03-07",
-      "url": "https://www.bilibili.com/video/BV1nTkwByEz8"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1xe411k7h7",
-      "title": "【B站】简单清晰，10分钟讲懂自动驾驶的核心零部件，激光雷达、毫米波、摄像头原理一网打尽！捋清市场空间和行业发展趋势！机器人专题研究之机器视觉【深度报告】",
-      "summary": "参考资料：\nHow Your Eyes Make Sense of the World | Decoder你的眼睛如何感知世界？https://www.youtube.com/watch?v=hsh2kPdgazo \n3D scanner. How it works? 结构光原理 https://w...",
-      "source": "Bilibili",
-      "date": "2026-03-07",
-      "url": "https://www.bilibili.com/video/BV1xe411k7h7"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1ZVAazyEF5",
-      "title": "【B站】L3自动驾驶快来了，车企却在纷纷跳过L3？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-03-07",
-      "url": "https://www.bilibili.com/video/BV1ZVAazyEF5"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1p8AZzfEZT",
-      "title": "【B站】FSD来了！北京深度使用分享！99%的人都不知道的很多智能驾驶的细节！全网最深入的智能驾驶视频讲解！",
-      "summary": "FSD来了！北京深度使用分享！\n99%的人都不知道的：\n很多智能驾驶的细节！\n全网最深入的智能驾驶视频讲解！...",
-      "source": "Bilibili",
-      "date": "2026-03-07",
-      "url": "https://www.bilibili.com/video/BV1p8AZzfEZT"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858917368540409756",
-      "title": "民航局:5月1日起 所有新生产无人机具备运行识别发..",
-      "summary": "每经快讯,3月6日,中国民航局发布关于民用无人驾驶航空器系统网络式运行识别有关事项的公告,民航局通过民用无人驾驶航空器综合管理平台(UOM)开展网络式运行识别信息接收与处理工作。自2026年5月1日起...",
+      "id": "http://baijiahao.baidu.com/s?id=1859008718600940946",
+      "title": "特朗普急疯了?!马斯克忍不住站出来发声:“美国需要..",
+      "summary": "特朗普急疯了?!马斯克忍不住站出来发声:“美国需要聪明的海外学霸来拯救美国科技业!”比尔盖茨可谓一语成谶!他早就说过:“无论美国采取任何限制措施,都无法阻止中国走上科技强国的位置!...",
       "source": "News_Baidu",
-      "date": "2026-03-06",
-      "url": "http://baijiahao.baidu.com/s?id=1858917368540409756"
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1859008718600940946"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858916546804701615",
-      "title": "民航局:自5月1日起,所有新生产无人机应具备运行识..",
-      "summary": "中国民航局发布《关于民用无人驾驶航空器系统网络式运行识别有关事项的公告》。公告提到,民航局通过民用无人驾驶航空器综合管理平台(UOM)开展网络式运行识别信息接收与处理工作。自2026年5月1日起,所有...",
+      "id": "http://baijiahao.baidu.com/s?id=1858963447905869721",
+      "title": "石家庄市公安局巡警特警支队女子勤务大队获评“全国三..",
+      "summary": "石家庄市公安局巡警特警支队女子勤务大队收获诸多荣誉。巡警特警支队女子勤务大队正在站岗执勤。巡警特警支队女子勤务大队队员正在训练。巡警特警支队女子勤务大队队员正在进行射击训练。(石家庄市公安局供图)石家...",
       "source": "News_Baidu",
-      "date": "2026-03-06",
-      "url": "http://baijiahao.baidu.com/s?id=1858916546804701615"
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1858963447905869721"
     },
     {
-      "id": "https://www.ithome.com/0/926/695.htm",
-      "title": "民航局:5 月 1 日起,所有新生产无人机应具备运行识别发送功能",
-      "summary": "IT之家 3 月 6 日消息,中国民航局今日发布《关于民用无人驾驶航空器系统网络式运行识别有关事项的公告》,民航局通过民用无人驾驶航空器综合管理平台(UOM)开展网络式运行识别信息接收与处理工作。IT之家从《公告》获悉,自 2026 年 5 月 1 日起,所有民用无人驾驶航空器系统生产厂家应确保其生产、销售的无人机具备运行识别发送功能且技术规范完全符合 GB46750-2025 的要求。运行识别信...",
+      "id": "http://baijiahao.baidu.com/s?id=1859006108360473920",
+      "title": "会见企业家|何小鹏:AI将改变物理世界,也是未来增..",
+      "summary": "2026年全国两会期间,全国人大代表、小鹏汽车董事长兼CEO何小鹏在接受澎湃新闻记者专访时指出,人工智能正在从改变数字世界走向改变规模更为庞大的现实物理世界,并将深刻影响未来产业形态。何小鹏表示,今年...",
+      "source": "News_Baidu",
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1859006108360473920"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859002770560002742",
+      "title": "代表委员面对面丨全国人大代表冯兴亚:AI定义汽车,..",
+      "summary": "央广网北京3月7日消息(记者万存灵李思默陈惠婷)据中央广播电视总台中国之声报道,当前,汽车产业正迎来智能网联与新能源深度融合的产业革命,电动化迭代、智...",
+      "source": "News_Baidu",
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1859002770560002742"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859002487206260410",
+      "title": "北京103路司机何少花代表:把为民初心融入每一趟行..",
+      "summary": "“公交线路有终点,为民服务无止境。”全国人大代表、北京公交集团电车分公司103路驾驶员何少花用这样一句话道出了一名基层代表的心声。作为一名在公交一线工作了快20年的“老司机”,她说,习近平总书记在北京...",
+      "source": "News_Baidu",
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1859002487206260410"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859002393477443191",
+      "title": "紫牛热点∣开车犯困后将车辆交给“智驾”,高速上连撞..",
+      "summary": "扬子晚报网3月7日讯(记者郭一鹏)在刚刚过去的春节假期,一些驾驶人在高速上“展示”了车辆“智驾”功能,甚至还有驾驶人表示,堵车开的太累了,“智驾”可以...",
+      "source": "News_Baidu",
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1859002393477443191"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1858999282007167324",
+      "title": "自动驾驶“加速跑”:试点到普及,关键一步怎么迈?代..",
+      "summary": "汽车产业正迎来以智能化为核心的“下半场”竞争。为促进我国自动驾驶产业发展,近年来国家积极出台测试示范、网络安全与数据安全、地理测绘、准入和上路通行试点等政策标准。北京、上海、重庆、深圳等超50个城市......",
+      "source": "News_Baidu",
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1858999282007167324"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859000819167052883",
+      "title": "青春的目光,望向比海更远的远方——访海军四川舰女军..",
+      "summary": "新华社上海3月7日电题:青春的目光,望向比海更远的远方——访海军四川舰女军官任艺新华社记者张皓凝观察方位。霍阳柯摄站在四川舰宽阔的甲板上,任艺不禁眯起双眼。亮橙色救生衣被海风裹挟,不断拍打着她略显娇小...",
+      "source": "News_Baidu",
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1859000819167052883"
+    },
+    {
+      "id": "https://www.ithome.com/0/926/859.htm",
+      "title": "小米雷军:过去 10 年辅助驾驶技术进步非常快,但还属于人机共驾的阶段",
+      "summary": "IT之家 3 月 7 日消息,近日,全国人大代表、小米集团创始人雷军在接受中国新闻周刊采访时表示,在使用智能辅助驾驶功能开车时睡觉非常危险。他表示,过去 10 年辅助驾驶技术进步非常快,但都属于 L2 的范畴,也就是还属于人机共驾的阶段。雷军建议,在驾驶过程中,一定要紧握方向盘,眼睛盯着前方,务必注意安全驾驶。IT之家注意到,雷军在 2026 年全国两会提出的建议中,其中一条就是关于交通安全文明体...",
       "source": "Ithome",
-      "date": "2026-03-06",
-      "url": "https://www.ithome.com/0/926/695.htm"
+      "date": "2026-03-07",
+      "url": "https://www.ithome.com/0/926/859.htm"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3248899",
-      "title": "全国人大代表、广汽集团董事长冯兴亚:建议将广东、广州打造为先行先试样板,让自动驾驶“跑”起来",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-03-06",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3248899"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858915962636778971",
-      "title": "广言快评|在“开放日”,看见广东的盎然春意",
-      "summary": "雪后初霁,晴空万里。6日下午,十四届全国人大四次会议广东省代表团举行开放团组活动。现场花团锦簇,广货琳琅满目,气氛“热气腾腾”......透过这扇“窗”,世界看到什么?四字概括:盎然春意!看新风扑面。擅长拉花...",
+      "id": "http://baijiahao.baidu.com/s?id=1859010005707506821",
+      "title": "“换装升级”!徐州泉山区34辆其他垃圾压缩车亮相街..",
+      "summary": "近日,在徐州市泉山区,一支“绿色新军”亮相街头。记者从泉山区城管局了解到,今年2月底,泉山区全面完成其他垃圾压缩车的环保升级,25辆混动车型与9辆纯电动车型共计34辆新能源车正式入列服役。这不仅是环卫...",
       "source": "News_Baidu",
-      "date": "2026-03-06",
-      "url": "http://baijiahao.baidu.com/s?id=1858915962636778971"
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1859010005707506821"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858915510655819656",
-      "title": "莹观天下|突然更换国土安全部长,特朗普打的什么算盘",
-      "summary": "齐鲁晚报·齐鲁壹点记者王晓莹在被喊辞职三个多月后,美国国土安全部长克丽丝蒂·诺姆最终还是没扛住。美国总统特朗普3月5日宣布,共和党籍联邦参议员马克韦恩·马林将从3月31日起担任美国国土安全部长,而诺姆...",
+      "id": "http://baijiahao.baidu.com/s?id=1858976472154525187",
+      "title": "全国政协委员屈庆超谈AI手机:大模型手机助手已成为..",
+      "summary": "政府工作报告在介绍2026年政府工作任务时提出,深化拓展“人工智能+”,促进新一代智能终端和智能体加快推广,推动重点行业领域人工智能商业化规模化应用,培育智能原生新业态新模式。新华社快讯。图/社交平台...",
       "source": "News_Baidu",
-      "date": "2026-03-06",
-      "url": "http://baijiahao.baidu.com/s?id=1858915510655819656"
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1858976472154525187"
     },
     {
-      "id": "https://www.ithome.com/0/926/686.htm",
-      "title": "长安汽车董事长朱华荣:建议推出适配自动驾驶的保险产品",
-      "summary": "IT之家 3 月 6 日消息,今日,长安汽车公布十四届全国人大代表、中国长安汽车董事长朱华荣的两会建议。IT之家整理如下:关于深化汽车产业高质量发展新动能的建议:以数智化转型与平台化协作,实现降本增效。强化行业整合统筹,培育全球领军车企。健全消费政策长效体系,稳定市场发展预期。关于强化汽车产业基础研究与前沿创新,夯实科技自立自强根基,为汽车产业高质量发展提供源头创新支撑的建议:建立分阶段、差异化的...",
-      "source": "Ithome",
-      "date": "2026-03-06",
-      "url": "https://www.ithome.com/0/926/686.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-06/10582487.shtml",
-      "title": "(全国两会)重庆团开放日:“小圈”联动“大圈” 让群众幸福触手可及",
-      "summary": "中新网北京3月6日电 题:重庆团开放日:“小圈”联动“大圈” 让群众幸福触手可及...",
-      "source": "Chinanews",
-      "date": "2026-03-06",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-06/10582487.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858820822498432707",
-      "title": "学雷锋践初心 两江公交志愿者守护市民平安出行路",
-      "summary": "3月5日是第63个学雷锋纪念日,来自重庆交通开投公交公司两江分公司团委各个支部的青年志愿者们,联合两江新区鸳鸯街道丹鹤社区集贸市场开展“学雷锋做志愿,共同奋进‘十五五’”主题志愿服务活动。“老人家,背...",
-      "source": "News_Baidu",
-      "date": "2026-03-06",
-      "url": "http://baijiahao.baidu.com/s?id=1858820822498432707"
-    },
-    {
-      "id": "https://www.ithome.com/0/926/678.htm",
-      "title": "努比亚倪飞:Z80 Ultra 将系统化集成原生 OpenClaw,使手机成为真正 GateWay 类型的“龙虾”",
-      "summary": "IT之家 3 月 6 日消息,中兴通讯终端事业部总裁、努比亚技术有限公司总裁倪飞今日宣布,努比亚 Z80 Ultra 将率先系统化集成原生 OpenClaw,使手机成为真正的 GateWay 类型的“龙虾”,全面支持 ClawBot 的场景化应用以及 Skills 生态的无限接入能力。倪飞表示,努比亚 AI 手机将坚持开放,坚持 AI for All,不做封闭的炫技,只做能真正改变用户体验的颠覆式...",
-      "source": "Ithome",
-      "date": "2026-03-06",
-      "url": "https://www.ithome.com/0/926/678.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-06/10582563.shtml",
-      "title": "北斗赋能千行百业 产业规模迈向万亿",
-      "summary": "卫星导航系统是国家安全和经济社会发展不可或缺的信息基础设施,更是大国地位和综合国力的重要标志。...",
-      "source": "Chinanews",
-      "date": "2026-03-06",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-06/10582563.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/03-06/10582468.shtml",
-      "title": "老人不上网却被注册多个社交账号 警方出手斩断黑色产业链",
-      "summary": "前段时间,山东菏泽的多名老人都遇到了奇怪的事情,他们平时只用老年机,而且都不会上网,可名下却多出抖音、微信等一堆的社交账号,这是怎么回事?...",
-      "source": "Chinanews",
-      "date": "2026-03-06",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-06/10582468.shtml"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0306/233688.shtml",
-      "title": "限时焕新价+国补+厂补至高省3.58万,全新荣放迎来抄底时刻",
-      "summary": "选车看长期,购车在当下,全新荣放这次全都安排上。阳春3月, 第六代全新荣放智能电混双擎精英版正式交付,官方指导价16.98万,限时焕新价15.18万元,直降1.8万元。惊喜不止于价格,还有重重福利。2026年3月31日前下订荣放全系并在4月30日前开具发票的用户,即可享受一汽丰田提供的包括春季礼遇和置换补贴在内的至高8000元春日礼。这还不够,用户还可同步享受至高约万元的国家补贴。价格直降1.8万...",
+      "id": "http://news.imobile.com.cn/articles/2026/0307/233690.shtml",
+      "title": "18.68万元起售,小鹏G6超级增程重磅上市",
+      "summary": "2026年3月6日,小鹏汽车举行小鹏G6超级增程上市发布会,新车定位六项全能AI增程SUV,以“六项全能 一步到位”为核心,凭借同级综合续航第一、同级补能速度第一、同级车端有效算力第一、同级最强底盘系统、同级最强主动安全和同级得房率第一的六大核心优势,打造真正满足用户全场景需求的国民车。本次发布小鹏G6超级增程1704 Max,官方指导价为18.68万元,用户可选装两个智能升级包,加购12,000...",
       "source": "Imobile",
-      "date": "2026-03-06",
-      "url": "http://news.imobile.com.cn/articles/2026/0306/233688.shtml"
+      "date": "2026-03-07",
+      "url": "http://news.imobile.com.cn/articles/2026/0307/233690.shtml"
     },
     {
-      "id": "https://www.fx168news.com/article/1001036",
-      "title": "Bitget 深度融合 TradFi,开启交易所下一阶段-FX168",
-      "summary": "塞舌尔维多利亚, March 06, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget,对其交易界面进行了重大的结构性升级,将股票、大宗商品和外汇等传统金融资产提升为与加密货币交易并列的独立产品类别。 此次更新反映出,随着加密货币基础设施日益支撑全球金融市场,交易所正经历更广泛的演变。 纵观整个行业,各交易所已开始在其平台上增加传统资产,包括股票、指...",
-      "source": "Fx168News",
-      "date": "2026-03-06",
-      "url": "https://www.fx168news.com/article/1001036"
+      "id": "http://baijiahao.baidu.com/s?id=1858902893192184957",
+      "title": "业界首个物理AI数据基座落地德清:破解行业数据瓶颈..",
+      "summary": "3月5日,以“无垠拓界基筑未来”为主题的长三角(德清)具身智能数据采集训练场暨业界首个物理AI数据基座平台发布会,在浙江省湖州市德清国际地信城召开。会议汇聚具身智能领域顶尖专家学者、头部企业代表及投...",
+      "source": "News_Baidu",
+      "date": "2026-03-07",
+      "url": "http://baijiahao.baidu.com/s?id=1858902893192184957"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0306/233687.shtml",
-      "title": "华为896线激光雷达“炸场”来了",
-      "summary": "NewsData报道",
-      "source": "Imobile",
+      "id": "https://www.perthnow.com.au/news/transport/driving-change-inside-the-autonomous-car-revolution-c-21862252",
+      "title": "Driving change: inside the autonomous car revolution",
+      "summary": "More self-driving cars will navigate streets around the world this year but some are yet to be convinced the technology is roadworthy....",
+      "source": "PerthNow",
       "date": "2026-03-06",
-      "url": "http://news.imobile.com.cn/articles/2026/0306/233687.shtml"
+      "url": "https://www.perthnow.com.au/news/transport/driving-change-inside-the-autonomous-car-revolution-c-21862252"
     },
     {
-      "id": "https://www.ithome.com/0/926/673.htm",
-      "title": "首款量产华为 896 线旗舰 SUV 岚图泰山 L3 自动驾驶测试视频发布,实车 3 月 17 日首秀",
-      "summary": "IT之家 3 月 6 日消息,岚图泰山技术焕新发布会 ——《远见》定档 3 月 17 日举行,首款量产华为 896 线旗舰 SUV —— 岚图泰山将迎来实车首秀。据介绍,岚图泰山采用 L3 智能架构设计,同时 L3 路测资质也已就绪(正式获得武汉 L3 级路测牌照)。官方预热海报显示,新车小蓝灯的位置与问界 M6 相似,单独位于前格栅与日行灯完全分隔开(后视镜处也有小蓝灯)。IT之家从岚图汽车官方...",
-      "source": "Ithome",
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/03/06/us-agency-to-hold-self-driving-safety-forum-with-ceos-of-waymo-zoox-aurora",
+      "title": "US agency to hold self-driving safety forum with CEOs of Waymo, Zoox, Aurora",
+      "summary": "WASHINGTON, March ⁠6 (Reuters) - The National Highway ⁠Traffic Safety Administration will ‌hold a national autonomous vehicle safety forum that will include the ​CEOs of self-driving ⁠companies Waymo,...",
+      "source": "The Star",
       "date": "2026-03-06",
-      "url": "https://www.ithome.com/0/926/673.htm"
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/03/06/us-agency-to-hold-self-driving-safety-forum-with-ceos-of-waymo-zoox-aurora"
     },
     {
       "id": "https://www.benzinga.com/markets/tech/26/03/51063089/plusai-shatters-ai-speed-records-with-superdrive-6-0-targets-full-driverless-launch-in-2026",
@@ -235,36 +191,76 @@
       "url": "https://www.bolnews.com/technology/middle-east-crisis-halts-robotaxi-operations-in-dubai/"
     },
     {
-      "id": "https://www.reuters.com/technology/uk-self-driving-startup-oxa-raises-103mln-scale-up-ports-airports-2026-03-04/",
-      "title": "UK self-driving startup Oxa raises $103mln to scale up at ports, airports",
-      "summary": "British self-driving startup Oxa has raised $103 million from investors to scale up autonomous vehicle ​operations focused on ports, airports, warehouses and other ‌industrial applications, it said on...",
-      "source": "Reuters",
-      "date": "2026-03-04",
-      "url": "https://www.reuters.com/technology/uk-self-driving-startup-oxa-raises-103mln-scale-up-ports-airports-2026-03-04/"
-    },
-    {
-      "id": "https://www.caixinglobal.com/2026-03-04/business-brief-march-4-china-vows-to-safeguard-energy-security-amid-middle-east-tensions-102419331.html",
-      "title": "Business Brief (March 4): China Vows to Safeguard Energy Security Amid Middle East Tensions",
-      "summary": "Business Brief (March 4): China Vows to Safeguard Energy Security Amid Middle East Tensions - China is gearing up for the biggest event on its political calendarHOT TOPICS\nMiddle East War Escalates\nU....",
-      "source": "Caixin",
-      "date": "2026-03-04",
-      "url": "https://www.caixinglobal.com/2026-03-04/business-brief-march-4-china-vows-to-safeguard-energy-security-amid-middle-east-tensions-102419331.html"
-    },
-    {
-      "id": "https://www.caixinglobal.com/2026-03-04/tech-brief-march-4-alibaba-launches-small-ai-models-focused-on-efficiency-102419438.html",
-      "title": "Tech Brief (March 4): Alibaba Launches Small AI Models Focused on Efficiency",
-      "summary": "Tech Brief (March 4): Alibaba Launches Small AI Models Focused on Efficiency - XPeng predicts fully autonomous driving within three years, Huawei says 5G-Advanced now commercialized in over 300 cities...",
-      "source": "Caixin",
-      "date": "2026-03-04",
-      "url": "https://www.caixinglobal.com/2026-03-04/tech-brief-march-4-alibaba-launches-small-ai-models-focused-on-efficiency-102419438.html"
-    },
-    {
       "id": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933",
       "title": "Tesla Model Y Completes Huge FSD Run Without Intervention, Tesla Stock (NASDAQ:TSLA) Surges",
       "summary": "Finally, a day in which the news about a company matches what happens in its stock price. Those who were concerned about just how well electric ......",
       "source": "Markets Insider",
       "date": "2026-03-04",
       "url": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933"
+    },
+    {
+      "id": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone",
+      "title": "Tesla’s Full Self Driving clocks over 8 billion miles cumulatively",
+      "summary": "Tesla's Full Self-Driving (FSD) fleet has cumulatively clocked over 8 billion miles which will be used as training data for its advanced driver assistance system (ADAS)....",
+      "source": "Interesting Engineering",
+      "date": "2026-03-02",
+      "url": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone"
+    },
+    {
+      "id": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/",
+      "title": "Musk Says Tesla FSD, Cybercab, Optimus Coming To Europe",
+      "summary": "Tesla's FSD platform could approved as soon as next month in Holland. Elon Musk said Optimus and Cybercab to be built at German factory....",
+      "source": "Investor's Business Daily",
+      "date": "2026-02-27",
+      "url": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/"
+    },
+    {
+      "id": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html",
+      "title": "Elon Interviewed At GigaBerlin- With News on FSD March 20 Netherlands, Cybercab, Optimus",
+      "summary": "Elon drops the big things on FSD, cybercab and optimus, battery and cybercab factory in Europe. If authorities cooperate, Tesla would make Gigaberlin the...",
+      "source": "NextBigFuture.com",
+      "date": "2026-02-27",
+      "url": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/02/50859270/ross-gerber-warns-teslas-mad-max-fsd-mode-is-basically-unsafe-following-240-million-autopilot-liability-verdict",
+      "title": "Ross Gerber Warns Tesla's 'Mad Max' FSD Mode Is 'Basically Unsafe' Following $240 Million Autopilot Liability Verdict",
+      "summary": "Ross Gerber, co-founder of investment firm Gerber Kawasaki, issued a stern warning on Wednesday regarding the safety of Tesla Inc.'s (TSLA) autonomous driving software....",
+      "source": "Benzinga",
+      "date": "2026-02-25",
+      "url": "https://www.benzinga.com/markets/tech/26/02/50859270/ross-gerber-warns-teslas-mad-max-fsd-mode-is-basically-unsafe-following-240-million-autopilot-liability-verdict"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/tesla-reportedly-sues-california-dmv-to-reverse-fsd-advertising-related-ruling-ce7e5cdad980f72c",
+      "title": "Tesla Reportedly Sues California DMV to Reverse FSD Advertising-Related Ruling",
+      "summary": "Tesla has filed a lawsuit against California's Department of Motor Vehicles in a bid to reverse a ruling that found the electric vehicle maker breached the law by falsely promoting its cars'......",
+      "source": "MarketScreener",
+      "date": "2026-02-24",
+      "url": "https://www.marketscreener.com/news/tesla-reportedly-sues-california-dmv-to-reverse-fsd-advertising-related-ruling-ce7e5cdad980f72c"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/02/50804700/elon-musks-tesla-sues-california-dmv-following-false-advertising-row-around-fsd-autopilot",
+      "title": "Elon Musk's Tesla Sues California DMV Following False Advertising Row Around FSD, Autopilot",
+      "summary": "Tesla sues California DMV over false advertiser label for Autopilot, alleges DMV did not prove claims about confusion among consumers....",
+      "source": "Benzinga",
+      "date": "2026-02-24",
+      "url": "https://www.benzinga.com/markets/tech/26/02/50804700/elon-musks-tesla-sues-california-dmv-following-false-advertising-row-around-fsd-autopilot"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html",
+      "title": "Tesla sues California DMV to reverse false advertising ruling on FSD",
+      "summary": "California's DMV previously ruled that Tesla falsely promoted its cars' self-driving capabilities....",
+      "source": "CNBC",
+      "date": "2026-02-23",
+      "url": "https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html"
+    },
+    {
+      "id": "https://www.businesstoday.in/technology/news/story/tesla-begins-hiring-ai-hardware-engineers-in-bengaluru-signals-deeper-tech-expansion-in-india-517391-2026-02-21",
+      "title": "Tesla begins hiring AI hardware engineers in Bengaluru, signals deeper tech expansion in India",
+      "summary": "According to the job description, the role sits within the AI & Robotics division under Engineering and R&D and will contribute to building hardware that powers Tesla’s neural-network-driven technolog...",
+      "source": "Business Today",
+      "date": "2026-02-21",
+      "url": "https://www.businesstoday.in/technology/news/story/tesla-begins-hiring-ai-hardware-engineers-in-bengaluru-signals-deeper-tech-expansion-in-india-517391-2026-02-21"
     }
   ]
 }
