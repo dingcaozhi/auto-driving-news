@@ -1,18 +1,19 @@
 {
-  "lastUpdated": "2026-03-08 02:47:39",
+  "lastUpdated": "2026-03-09 02:49:13",
   "totalCount": 31,
   "sources": {
-    "Theportugalnews": 1,
-    "News_Baidu": 11,
-    "Ithome": 1,
+    "Eeo": 1,
+    "News_Baidu": 10,
     "Imobile": 1,
+    "Chinanews": 1,
+    "News_Seehua": 1,
+    "Times of India": 1,
     "PerthNow": 1,
     "The Star": 1,
     "Benzinga": 3,
     "The Guardian": 1,
     "CNBC": 2,
     "The Manila Times": 1,
-    "BOL News": 1,
     "Markets Insider": 1,
     "Interesting Engineering": 1,
     "Investor's Business Daily": 1,
@@ -23,116 +24,124 @@
   },
   "news": [
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-03-07/the-quickest-trip-to-spain-crossing-the-guadiana-by-ferry-to-ayamonte/986184",
-      "title": "最快捷的西班牙之旅乘轮渡横渡瓜迪亚纳(Guadiana)河,前往阿亚蒙特(Ayamonte",
-      "summary": "如今有了更快捷的过境方式。光滑的高速公路、混凝土立交桥,还有现代自由的伟大圣物--令人厌恶的收费公路。...",
-      "source": "Theportugalnews",
-      "date": "2026-03-07",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-03-07/the-quickest-trip-to-spain-crossing-the-guadiana-by-ferry-to-ayamonte/986184"
+      "id": "http://www.eeo.com.cn/2026/0308/807307.shtml",
+      "title": "莲花CEO冯擎峰:已暂缓出口中东,但加拿大市场将弥补部分损失",
+      "summary": "冯擎峰认为,工业领域的企业并不是只有销量规模特别大,才能生存得好。莲花的目标是,在规模还不大时就能实现盈利。...",
+      "source": "Eeo",
+      "date": "2026-03-08",
+      "url": "http://www.eeo.com.cn/2026/0308/807307.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859008718600940946",
-      "title": "特朗普急疯了?!马斯克忍不住站出来发声:“美国需要..",
-      "summary": "特朗普急疯了?!马斯克忍不住站出来发声:“美国需要聪明的海外学霸来拯救美国科技业!”比尔盖茨可谓一语成谶!他早就说过:“无论美国采取任何限制措施,都无法阻止中国走上科技强国的位置!...",
+      "id": "http://baijiahao.baidu.com/s?id=1859058419595233359",
+      "title": "两会经济策|自动驾驶,安全与责任边界在哪?",
+      "summary": "工业和信息化部部长李乐成3月5日在十四届全国人大四次会议首场“部长通道”上,点名“新能源汽车”“自动驾驶汽车”。他提到,2026年工信部将大力推动人工智能(AI)和制造业双向奔赴,全力推进新一代人工智...",
       "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1859008718600940946"
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859058419595233359"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858963447905869721",
-      "title": "石家庄市公安局巡警特警支队女子勤务大队获评“全国三..",
-      "summary": "石家庄市公安局巡警特警支队女子勤务大队收获诸多荣誉。巡警特警支队女子勤务大队正在站岗执勤。巡警特警支队女子勤务大队队员正在训练。巡警特警支队女子勤务大队队员正在进行射击训练。(石家庄市公安局供图)石家...",
+      "id": "http://baijiahao.baidu.com/s?id=1859087934893950048",
+      "title": "上海的女警这么过“三八”国际妇女节",
+      "summary": "近日,2025年度“全国巾帼文明岗”名单公布,上海市公安局松江分局交通管理支队女子岗组获得这一荣誉。这支队伍也是全市一万余名女民警、女辅警的一个缩影。3月8日妇女节,许多女警仍坚守在岗,在交通疏导、反诈劝阻、社区服务等日...",
       "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1858963447905869721"
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859087934893950048"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859006108360473920",
-      "title": "会见企业家|何小鹏:AI将改变物理世界,也是未来增..",
-      "summary": "2026年全国两会期间,全国人大代表、小鹏汽车董事长兼CEO何小鹏在接受澎湃新闻记者专访时指出,人工智能正在从改变数字世界走向改变规模更为庞大的现实物理世界,并将深刻影响未来产业形态。何小鹏表示,今年...",
+      "id": "http://baijiahao.baidu.com/s?id=1859094660106615586",
+      "title": "别只羡慕上海的1元公交!票价1元、手机预约、动态接..",
+      "summary": "“太超前了!”3月5日,有网友在社交媒体上分享,上海陆家嘴可以打网约公交车了,票价仅需1元。据了解,这种网约公交车系统能在后台自动生成最优导航线路,实时推送至驾驶室终端,司机根据系统生成路线行驶,安全...",
       "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1859006108360473920"
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859094660106615586"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859002770560002742",
-      "title": "代表委员面对面丨全国人大代表冯兴亚:AI定义汽车,..",
-      "summary": "央广网北京3月7日消息(记者万存灵李思默陈惠婷)据中央广播电视总台中国之声报道,当前,汽车产业正迎来智能网联与新能源深度融合的产业革命,电动化迭代、智...",
+      "id": "http://baijiahao.baidu.com/s?id=1859092203925876180",
+      "title": "巾帼不让须眉 撑起平安建设“半边天”",
+      "summary": "2025年度“全国巾帼文明岗”名单近日正式揭晓,上海市公安局松江公安分局交通管理支队女子岗组光荣上榜。这份荣誉是她们以柔肩护通途的最好见证,也映照出全市公安女警最美的巾帼风采。在上海,一万余女民警、女...",
       "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1859002770560002742"
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859092203925876180"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859002487206260410",
-      "title": "北京103路司机何少花代表:把为民初心融入每一趟行..",
-      "summary": "“公交线路有终点,为民服务无止境。”全国人大代表、北京公交集团电车分公司103路驾驶员何少花用这样一句话道出了一名基层代表的心声。作为一名在公交一线工作了快20年的“老司机”,她说,习近平总书记在北京...",
-      "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1859002487206260410"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859002393477443191",
-      "title": "紫牛热点∣开车犯困后将车辆交给“智驾”,高速上连撞..",
-      "summary": "扬子晚报网3月7日讯(记者郭一鹏)在刚刚过去的春节假期,一些驾驶人在高速上“展示”了车辆“智驾”功能,甚至还有驾驶人表示,堵车开的太累了,“智驾”可以...",
-      "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1859002393477443191"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858999282007167324",
-      "title": "自动驾驶“加速跑”:试点到普及,关键一步怎么迈?代..",
-      "summary": "汽车产业正迎来以智能化为核心的“下半场”竞争。为促进我国自动驾驶产业发展,近年来国家积极出台测试示范、网络安全与数据安全、地理测绘、准入和上路通行试点等政策标准。北京、上海、重庆、深圳等超50个城市......",
-      "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1858999282007167324"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859000819167052883",
-      "title": "青春的目光,望向比海更远的远方——访海军四川舰女军..",
-      "summary": "新华社上海3月7日电题:青春的目光,望向比海更远的远方——访海军四川舰女军官任艺新华社记者张皓凝观察方位。霍阳柯摄站在四川舰宽阔的甲板上,任艺不禁眯起双眼。亮橙色救生衣被海风裹挟,不断拍打着她略显娇小...",
-      "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1859000819167052883"
-    },
-    {
-      "id": "https://www.ithome.com/0/926/859.htm",
-      "title": "小米雷军:过去 10 年辅助驾驶技术进步非常快,但还属于人机共驾的阶段",
-      "summary": "IT之家 3 月 7 日消息,近日,全国人大代表、小米集团创始人雷军在接受中国新闻周刊采访时表示,在使用智能辅助驾驶功能开车时睡觉非常危险。他表示,过去 10 年辅助驾驶技术进步非常快,但都属于 L2 的范畴,也就是还属于人机共驾的阶段。雷军建议,在驾驶过程中,一定要紧握方向盘,眼睛盯着前方,务必注意安全驾驶。IT之家注意到,雷军在 2026 年全国两会提出的建议中,其中一条就是关于交通安全文明体...",
-      "source": "Ithome",
-      "date": "2026-03-07",
-      "url": "https://www.ithome.com/0/926/859.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859010005707506821",
-      "title": "“换装升级”!徐州泉山区34辆其他垃圾压缩车亮相街..",
-      "summary": "近日,在徐州市泉山区,一支“绿色新军”亮相街头。记者从泉山区城管局了解到,今年2月底,泉山区全面完成其他垃圾压缩车的环保升级,25辆混动车型与9辆纯电动车型共计34辆新能源车正式入列服役。这不仅是环卫...",
-      "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1859010005707506821"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1858976472154525187",
-      "title": "全国政协委员屈庆超谈AI手机:大模型手机助手已成为..",
-      "summary": "政府工作报告在介绍2026年政府工作任务时提出,深化拓展“人工智能+”,促进新一代智能终端和智能体加快推广,推动重点行业领域人工智能商业化规模化应用,培育智能原生新业态新模式。新华社快讯。图/社交平台...",
-      "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1858976472154525187"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0307/233690.shtml",
-      "title": "18.68万元起售,小鹏G6超级增程重磅上市",
-      "summary": "2026年3月6日,小鹏汽车举行小鹏G6超级增程上市发布会,新车定位六项全能AI增程SUV,以“六项全能 一步到位”为核心,凭借同级综合续航第一、同级补能速度第一、同级车端有效算力第一、同级最强底盘系统、同级最强主动安全和同级得房率第一的六大核心优势,打造真正满足用户全场景需求的国民车。本次发布小鹏G6超级增程1704 Max,官方指导价为18.68万元,用户可选装两个智能升级包,加购12,000...",
+      "id": "http://news.imobile.com.cn/articles/2026/0308/233696.shtml",
+      "title": "5分钟充好,9分钟充饱,比亚迪闪充补上新能源转型最后一块拼图",
+      "summary": "“没有人比我们比亚迪更懂电池。” 在3月5日的比亚迪“闪充中国 改变世界”发布会上,比亚迪集团董事长兼总裁王传福发布了比亚迪迪二代刀片电池及闪充技术,并宣布了一个极具颠覆性的充电速度: 5分钟从10%充到70%; 9分钟从10%充到97%; 零下30度,充电时间也只增加3分钟。 比亚迪将其概括为——5分钟充好,9分钟充饱,零下30度只多3分钟。 这意味着新能源汽车的充电速度记录再一次被比亚迪刷新,...",
       "source": "Imobile",
-      "date": "2026-03-07",
-      "url": "http://news.imobile.com.cn/articles/2026/0307/233690.shtml"
+      "date": "2026-03-08",
+      "url": "http://news.imobile.com.cn/articles/2026/0308/233696.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1858902893192184957",
-      "title": "业界首个物理AI数据基座落地德清:破解行业数据瓶颈..",
-      "summary": "3月5日,以“无垠拓界基筑未来”为主题的长三角(德清)具身智能数据采集训练场暨业界首个物理AI数据基座平台发布会,在浙江省湖州市德清国际地信城召开。会议汇聚具身智能领域顶尖专家学者、头部企业代表及投...",
+      "id": "http://baijiahao.baidu.com/s?id=1859087646754118359",
+      "title": "智话巾帼绽芳华 暖“新”关爱显真情——昆明市妇联举..",
+      "summary": "昆明信息港讯记者李红鸾春潮涌动暖人心,巾帼奋进绽芳华。3月6日下午,在第116个“三八”国际劳动妇女节即将到来之际,昆明市妇联在玺尊龙酒店举办2026年“智话巾帼绽芳华”暖“新”慰问活动,向奋战在全市...",
       "source": "News_Baidu",
-      "date": "2026-03-07",
-      "url": "http://baijiahao.baidu.com/s?id=1858902893192184957"
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859087646754118359"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/03-08/10583512.shtml",
+      "title": "铁路女警“三重奏”:按停危险、撬开人心、守住闸口",
+      "summary": "中新网昆明3月8日电 题:铁路女警“三重奏”:按停危险、撬开人心、守住闸口...",
+      "source": "Chinanews",
+      "date": "2026-03-08",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-08/10583512.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859082735042730920",
+      "title": "神州租车:女性租车用户稳步增长 自驾里程突破5亿公..",
+      "summary": "神州租车:女性租车用户稳步增长自驾里程突破5亿公里 随着女性出行自主意识不断提升,租车自驾正成为越来越多女性用户探索城市与远方的重要方式。在“三八”国际妇女节来临之际,神州租车发布《当代女性租车...",
+      "source": "News_Baidu",
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859082735042730920"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859079054844145906",
+      "title": "这个全国三八红旗集体 平均年龄不到26岁",
+      "summary": "通讯员王天悦中青报·中青网记者樊江涛自2022年9月河北省石家庄市公安局巡警特警支队女子勤务大队组建以来,这群平均年龄不到26岁的姑娘们用忠诚与坚韧勾勒出警营“她力量”的动人轮廓,以“为人民服务”的使...",
+      "source": "News_Baidu",
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859079054844145906"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859078711228991773",
+      "title": "渝地芳华 她力绽放|从空乘到机长 杜倩:以温柔力量..",
+      "summary": "央广网重庆3月8日消息(记者王海)春风送暖,芳华绽放。在三八妇女节到来之际,让我们聆听重庆航空首位女飞行员杜倩的成长故事。她跨越职业赛道、逐梦蓝天,用...",
+      "source": "News_Baidu",
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859078711228991773"
+    },
+    {
+      "id": "https://news.seehua.com/post/1450625",
+      "title": "美里交警取缔街头飙车 开出40张罚单扣10辆摩托",
+      "summary": "(美里8日讯)美里警区交通调查与执法组展开“街头流氓行动”(Op Samseng Jalanan),共开出40 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-03-08",
+      "url": "https://news.seehua.com/post/1450625"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859071567926882439",
+      "title": "从“点云”到“图像”,华为乾崑发布896线激光雷达",
+      "summary": "896线激光雷达“一体双焦”的设计,既保留了视野广度,又兼顾了远距离的细节捕捉。华为乾崑供图中国青年报客户端讯(中青报·中青网记者张真齐)近日,华为乾崑正式推出新一代双光路图像级激光雷达,以896线的...",
+      "source": "News_Baidu",
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859071567926882439"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859055747092577736",
+      "title": "正是山花烂漫时,她在丛中笑",
+      "summary": "春风回暖,万物生长的季节,第116个“三八”国际妇女节与贵州赏花季的芬芳如期相遇。放眼黔贵大地,毕节百里杜鹃已绘出“地球彩带”,贵阳贵安的樱花绽放粉色云霞,黔东南丹寨龙泉山架起赤色“天梯”,黔西南万峰...",
+      "source": "News_Baidu",
+      "date": "2026-03-08",
+      "url": "http://baijiahao.baidu.com/s?id=1859055747092577736"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/auto/cars/us-to-host-self-driving-safety-forum-with-waymo-zoox-and-aurora-ceos/articleshow/129260588.cms",
+      "title": "driving safety forum with Waymo, Zoox and Aurora CEOs",
+      "summary": "Cars News: The National Highway Traffic Safety Administration (NHTSA) will host a national autonomous vehicle safety forum on Tuesday, bringing together leaders ....",
+      "source": "Times of India",
+      "date": "2026-03-08",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/us-to-host-self-driving-safety-forum-with-waymo-zoox-and-aurora-ceos/articleshow/129260588.cms"
     },
     {
       "id": "https://www.perthnow.com.au/news/transport/driving-change-inside-the-autonomous-car-revolution-c-21862252",
@@ -181,14 +190,6 @@
       "source": "The Manila Times",
       "date": "2026-03-04",
       "url": "https://www.manilatimes.net/2026/03/04/tmt-newswire/globenewswire/weride-to-report-fourth-quarter-and-full-year-2025-financial-results-on-monday-march-23-2026/2292997"
-    },
-    {
-      "id": "https://www.bolnews.com/technology/middle-east-crisis-halts-robotaxi-operations-in-dubai/",
-      "title": "Middle East crisis halts Robotaxi operations in Dubai",
-      "summary": "As geopolitical tensions intensify across the Middle East, Chinese autonomous driving firm WeRide has suspended its robotaxi operations in Dubai, marking a significant setback for the region’s rapidly...",
-      "source": "BOL News",
-      "date": "2026-03-04",
-      "url": "https://www.bolnews.com/technology/middle-east-crisis-halts-robotaxi-operations-in-dubai/"
     },
     {
       "id": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933",
