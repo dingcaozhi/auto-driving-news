@@ -1,20 +1,21 @@
 {
-  "lastUpdated": "2026-03-12 08:09:41",
-  "totalCount": 36,
+  "lastUpdated": "2026-03-12 02:45:11",
+  "totalCount": 43,
   "sources": {
-    "Ithome": 3,
-    "News_Baidu": 9,
-    "Prnasia": 1,
-    "Eeo": 1,
-    "News_Seehua": 1,
-    "Investing_Cn": 1,
-    "Chinanews": 1,
+    "Bilibili": 5,
+    "Prnasia": 2,
+    "Hypebeast_Cn": 1,
+    "Ithome": 4,
+    "Chinanews": 2,
+    "News_Baidu": 6,
+    "Investing_Cn": 4,
+    "Reuters": 1,
     "The Verge": 1,
     "Benzinga": 3,
     "Devdiscourse": 2,
     "Hartford Courant": 1,
     "Quincy Patriot Ledger": 1,
-    "The Manila Times": 3,
+    "The Manila Times": 2,
     "Seeking Alpha": 2,
     "Markets Insider": 1,
     "Interesting Engineering": 1,
@@ -24,6 +25,118 @@
     "CNBC": 1
   },
   "news": [
+    {
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-03-12",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1fNNMzSE54",
+      "title": "【B站】1148亿砸出来的L3，和L2到底有什么区别？",
+      "summary": "靠疯狂堆料，就能实现 L3 吗？答案其实很清楚——不能。\nL3 真正的门槛，从来不是雷达数量、算力参数的内卷，而是敢为驾驶行为全程担责的底气，是可落地、能量产的系统极致可靠性。...",
+      "source": "Bilibili",
+      "date": "2026-03-12",
+      "url": "https://www.bilibili.com/video/BV1fNNMzSE54"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1nTkwByEz8",
+      "title": "【B站】9车横评，辅助驾驶哪家强？",
+      "summary": "横评内容坚持不恰饭！...",
+      "source": "Bilibili",
+      "date": "2026-03-12",
+      "url": "https://www.bilibili.com/video/BV1nTkwByEz8"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1xe411k7h7",
+      "title": "【B站】简单清晰，10分钟讲懂自动驾驶的核心零部件，激光雷达、毫米波、摄像头原理一网打尽！捋清市场空间和行业发展趋势！机器人专题研究之机器视觉【深度报告】",
+      "summary": "参考资料：\nHow Your Eyes Make Sense of the World | Decoder你的眼睛如何感知世界？https://www.youtube.com/watch?v=hsh2kPdgazo \n3D scanner. How it works? 结构光原理 https://w...",
+      "source": "Bilibili",
+      "date": "2026-03-12",
+      "url": "https://www.bilibili.com/video/BV1xe411k7h7"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-03-12",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+    },
+    {
+      "id": "https://www.prnasia.com/story/524922-1.shtml",
+      "title": "美孚1号TM进阶混动润滑科技,维斯塔潘亲临助阵新品发布",
+      "summary": "上海 2026年3月11日 /美通社/ -- 今日,高端全合成润滑油品牌美孚1号在上海举办新品发布会,推出全新美孚1号经典表现系列混动适用新品。此次发布标志着美孚1号在传统燃油车技术优势基础上,进一步拓展至混合动力领域,以适配混动系统更严苛的工况,并持续助力行业创新。 新品精准面向快速增长的中国混动汽车市场,旨在为多种动力系统提供持久稳定的润滑产品方案,给引擎注入\"恒久动力 1 \",实现长达20万...",
+      "source": "Prnasia",
+      "date": "2026-03-11",
+      "url": "https://www.prnasia.com/story/524922-1.shtml"
+    },
+    {
+      "id": "https://hypebeast.cn/2026/3/lego-luigi-mach-8-mario-kart-set-release-info",
+      "title": "LEGO Group 发布「Luigi & Mach 8」Mario Kart 大型积木套装",
+      "summary": "准备好引擎与你的绿龟壳。The LEGO Group 正式为其备受喜爱的 Super Mario 世界加入一款气势十足、极具陈列价值的新跑车。今日,这家丹麦玩具巨头终于揭晓备受期待的 LEGO Mario Kart – Luigi & Mach 8 套装。专为成年玩家与忠实 Nintendo 爱好者打造、由 2,234 块积木组成的庞然巨作,是首款以 LEGO 积木大比例重现人气 Mach 8 赛...",
+      "source": "Hypebeast_Cn",
+      "date": "2026-03-11",
+      "url": "https://hypebeast.cn/2026/3/lego-luigi-mach-8-mario-kart-set-release-info"
+    },
+    {
+      "id": "https://www.ithome.com/0/928/163.htm",
+      "title": "黄仁勋亲测英伟达辅助驾驶系统 Alpamayo,全程无接管",
+      "summary": "IT之家 3 月 11 日消息,据 The Verge 报道,大约每隔半年,英伟达汽车事业部副总裁吴新宙(Xinzhou Wu)都会邀请公司首席执行官黄仁勋乘坐一辆搭载了该公司脱手自动驾驶系统的汽车出行,但前提是,吴新宙对这套系统的驾驶能力有十足把握。 最近,两人乘坐一辆搭载 MB.Drive Assist Pro 的奔驰 CLA 轿车,从加利福尼亚州伍德赛德开往旧金山市中心。这套由英伟达参与开发...",
+      "source": "Ithome",
+      "date": "2026-03-11",
+      "url": "https://www.ithome.com/0/928/163.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/aseaninfo/2026/03-11/10585330.shtml",
+      "title": "51名马来西亚学员广西深造 期盼为马东铁建设作贡献",
+      "summary": "中新网柳州3月11日电 (陈梅)马来西亚东海岸铁路(下称“马东铁”)项目机车副司机培训班开班仪式11日在广西柳州市举行。51名马来西亚学员将在柳州铁道职业技术学院(下称“柳州铁职院”)开展为期近五个月的学习,内容涵盖机车操作、安全运维等,旨在培养一批熟悉中国标准、掌握先进技术的本土化铁路人才。...",
+      "source": "Chinanews",
+      "date": "2026-03-11",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/03-11/10585330.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859367267865771877",
+      "title": "专访文远知行创始人兼CEO韩旭:L3不会和L4抢生..",
+      "summary": "继去年政府工作报告提出大力发展智能网联新能源汽车等新一代智能终端以及智能制造装备后,今年政府工作报告再次明确“促进新一代智能终端和智能体加快推广”。作为“全球通用自动驾驶第一股”“全球Robotaxi...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859367267865771877"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/03-11/10585318.shtml",
+      "title": "雨润大瑶山下守“隧”人",
+      "summary": "中新网韶关3月11日电 题:雨润大瑶山下守“隧”人...",
+      "source": "Chinanews",
+      "date": "2026-03-11",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-11/10585318.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3255751",
+      "title": "Citizens重申优步股票评级,理由是Uber Eats上调服务费",
+      "summary": "Citizens重申优步股票评级,理由是Uber Eats上调服务费...",
+      "source": "Investing_Cn",
+      "date": "2026-03-11",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3255751"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3255752",
+      "title": "Citizens重申优步股票评级,Uber Eats上调手续费",
+      "summary": "Citizens重申优步股票评级,Uber Eats上调手续费...",
+      "source": "Investing_Cn",
+      "date": "2026-03-11",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3255752"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3255707",
+      "title": "优步宣布与Zoox达成robotaxi合作伙伴关系后股价上涨",
+      "summary": "优步宣布与Zoox达成robotaxi合作伙伴关系后股价上涨...",
+      "source": "Investing_Cn",
+      "date": "2026-03-11",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3255707"
+    },
     {
       "id": "https://www.ithome.com/0/928/139.htm",
       "title": "捷途旅行者 / 自由者骏马版上市:骊影黑哑光车漆,限时焕新价 10.79 万元起",
@@ -57,12 +170,12 @@
       "url": "https://www.prnasia.com/story/524878-1.shtml"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0311/809388.shtml",
-      "title": "宝马(中国)汽车贸易有限公司召回部分进口汽车",
-      "summary": "经济观察网 据市场监管总局网站消息,日前,宝马(中国)汽车贸易有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求,向国家市场监督管理总局备案了召回计划。召回编号S2026M0027V:自2026年3月16日起,召回生产日期从2020年7月31日至2022年12月22日的部分进口宝马2系、4系、5系、6系、7系、X4、X5、X6、Z4系列汽车,共计147830辆。本...",
-      "source": "Eeo",
+      "id": "http://baijiahao.baidu.com/s?id=1859357583660791540",
+      "title": "湖南科技学院传媒学院青志团:采访夺冠花车司机 感悟..",
+      "summary": "红网时刻新闻3月11日讯(通讯员姜梓琪郑潇东赵瑞芝)3月5日学雷锋纪念日,湖南科技学院传媒学院青年志愿者服务团走进永州公交公司,采访湘超联赛夺冠巡游花...",
+      "source": "News_Baidu",
       "date": "2026-03-11",
-      "url": "http://www.eeo.com.cn/2026/0311/809388.shtml"
+      "url": "http://baijiahao.baidu.com/s?id=1859357583660791540"
     },
     {
       "id": "http://baijiahao.baidu.com/s?id=1859347792070075412",
@@ -81,52 +194,20 @@
       "url": "http://baijiahao.baidu.com/s?id=1859356792777278762"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859259878297310965",
-      "title": "危险!四个“熊孩子”排队横躺马路上,司机:辅助驾驶..",
-      "summary": "3月8日,广东清远一位司机在社交平台发布行车记录仪视频,记录下一段令人后怕的经历。当天,该司机驾驶车辆在县道使用辅助驾驶功能行驶时,系统突然识别到前方有障碍物并自动减速。司机最初以为路面物体是“塑料袋...",
-      "source": "News_Baidu",
-      "date": "2026-03-11",
-      "url": "http://baijiahao.baidu.com/s?id=1859259878297310965"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859356444690327369",
-      "title": "加强警务协作 守护绿水青山——湖北省恩施州巴东县公..",
-      "summary": "到柑橘园走访宣传。(资料图)开展交通安全宣传。(资料图)穿梭于鄂渝交界的密林小道,他们仔细巡查着每一处边界角落;巡航在长江的碧波之上,他们守护着一江清水;深入产业园与企业车间,他们聆听需求、排查隐患......",
-      "source": "News_Baidu",
-      "date": "2026-03-11",
-      "url": "http://baijiahao.baidu.com/s?id=1859356444690327369"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859355059931555562",
-      "title": "首提“智能经济新形态”,蕴含何种发展逻辑?|新京报..",
-      "summary": "▲2026年政府工作报告首次提出“打造智能经济新形态”。图/ICphoto据新华社电,今年的政府工作报告提出“打造智能经济新形态”,这是政府工作报告中首次出现这一提法。从2024年首提“人工智能+”行...",
-      "source": "News_Baidu",
-      "date": "2026-03-11",
-      "url": "http://baijiahao.baidu.com/s?id=1859355059931555562"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859357583660791540",
-      "title": "湖南科技学院传媒学院青志团:采访夺冠花车司机 感悟..",
-      "summary": "红网时刻新闻3月11日讯(通讯员姜梓琪郑潇东赵瑞芝)3月5日学雷锋纪念日,湖南科技学院传媒学院青年志愿者服务团走进永州公交公司,采访湘超联赛夺冠巡游花...",
-      "source": "News_Baidu",
-      "date": "2026-03-11",
-      "url": "http://baijiahao.baidu.com/s?id=1859357583660791540"
-    },
-    {
-      "id": "https://news.seehua.com/post/1452223",
-      "title": "狮城夫妻结婚18周年前夕 大马遇车祸奇迹逃生",
-      "summary": "(新加坡11日讯)狮城夫妻结婚18周年前夕在马来西亚高速公路经历生死一瞬,丈夫驾驶的休旅车为闪避车辆,失控撞上 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-03-11",
-      "url": "https://news.seehua.com/post/1452223"
-    },
-    {
-      "id": "https://www.ithome.com/0/928/022.htm",
-      "title": "特斯拉无人驾驶出租车 Cybercab 频繁上路实测,大规模投产进入倒计时",
-      "summary": "IT之家 3 月 11 日消息,特斯拉 Cybercab 在公共道路以及得州超级工厂厂区内的现身频率越来越高,这表明在大规模量产前夕,该公司的道路测试与验证工作正在显著提速。IT之家注意到,此前无人机观察员乔 · 泰格迈尔近期在得州超级工厂的三个不同地点,共观测到 25 辆 Cybercab:14 辆金属金色车型密集停放在工厂出口外侧;9 辆在碰撞测试设施内,接受结构与安全验证;另有 2 辆在厂区...",
+      "id": "https://www.ithome.com/0/928/149.htm",
+      "title": "凯迪拉克凯威德内饰官图发布:二排 16 向电动座椅 +12.9 英寸双娱乐屏",
+      "summary": "IT之家 3 月 11 日消息,凯迪拉克今日发布了旗下全新纯电大型 SUV 凯威德的内饰官图。新车已在全国范围开启盲订。 作为上汽通用凯迪拉克国产的第三款纯电 SUV,凯威德定位在 IQ 锐歌与凯雷德 ESCALADE IQ 之间,基于通用奥特能纯电平台打造,采用 2+2+2 六座布局,预计将于今年 4 月底正式上市。 从此次发布的内饰官图来看,凯威德采用了 33 英寸环幕式 9K 超视网膜曲面屏...",
       "source": "Ithome",
       "date": "2026-03-11",
-      "url": "https://www.ithome.com/0/928/022.htm"
+      "url": "https://www.ithome.com/0/928/149.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3255754",
+      "title": "伯恩斯坦法兴重申蔚来股票评级,关注第四季度盈利",
+      "summary": "伯恩斯坦法兴重申蔚来股票评级,关注第四季度盈利...",
+      "source": "Investing_Cn",
+      "date": "2026-03-11",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3255754"
     },
     {
       "id": "https://www.ithome.com/0/928/140.htm",
@@ -137,28 +218,12 @@
       "url": "https://www.ithome.com/0/928/140.htm"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3255196",
-      "title": "智驾要有中国标准!专访全国人大代表姚佐平:要鼓励智能驾驶加速普及",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
+      "id": "https://www.reuters.com/world/asia-pacific/nuros-self-driving-car-tech-hits-tokyo-streets-first-international-deployment-2026-03-11/",
+      "title": "Nuro's self-driving car tech hits Tokyo streets in first international deployment",
+      "summary": "U.S.-based startup Nuro said on Wednesday its self-driving vehicles are now operating on public roads in ​Tokyo with safety operators present, marking the company's ‌first international autonomous dep...",
+      "source": "Reuters",
       "date": "2026-03-11",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3255196"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/03-11/10585103.shtml",
-      "title": "重庆增设智能网联新能源汽车专业职称",
-      "summary": "中新网重庆3月11日电 (记者 钟旖)智能网联新能源汽车产业是重庆“33618”现代制造业集群体系的“首位产业”。记者11日从重庆市人力资源和社会保障局获悉,该市在全国率先增设智能网联新能源汽车专业职称。从2026年起,将启动首次智能网联新能源汽车专业职称评审,符合条件的专业技术人员可积极报名参评。...",
-      "source": "Chinanews",
-      "date": "2026-03-11",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-11/10585103.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859347634959616058",
-      "title": "智能驾驶概念港股维持强势 五一视界一度涨近50%",
-      "summary": "【智能驾驶概念港股维持强势五一视界一度涨近50%】财联社3月11日电,五一视界涨44%,蔚来涨15%,图达通涨13%,吉利汽车涨8%,文远知行涨6%,小鹏汽车涨4%。消息面上,据五一视界3月9日公告,...",
-      "source": "News_Baidu",
-      "date": "2026-03-11",
-      "url": "http://baijiahao.baidu.com/s?id=1859347634959616058"
+      "url": "https://www.reuters.com/world/asia-pacific/nuros-self-driving-car-tech-hits-tokyo-streets-first-international-deployment-2026-03-11/"
     },
     {
       "id": "https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview",
@@ -199,70 +264,6 @@
       "source": "Hartford Courant",
       "date": "2026-03-10",
       "url": "https://www.courant.com/2026/03/10/heres-why-ford-gm-are-approaching-autonomous-vehicles-differently-2/"
-    },
-    {
-      "id": "https://www.patriotledger.com/story/news/local/2026/03/10/waymo-brings-driverless-cars-back-to-boston-for-testing-heres-how-they-work-massachusetts-medford/89062528007/",
-      "title": "Waymo self-driving cars being tested in Boston. Can you try them yet?",
-      "summary": "Have you spotted any self-driving cars in Boston yet? Waymo is bringing its autonomous vehicles back to the area for testing....",
-      "source": "Quincy Patriot Ledger",
-      "date": "2026-03-10",
-      "url": "https://www.patriotledger.com/story/news/local/2026/03/10/waymo-brings-driverless-cars-back-to-boston-for-testing-heres-how-they-work-massachusetts-medford/89062528007/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/10/tmt-newswire/pr-newswire/tier-iv-joins-imecs-automotive-chiplet-program-to-accelerate-chiplet-based-architectures-and-ai-accelerators-for-sdvs/2296470",
-      "title": "TIER IV joins imec's Automotive Chiplet Program to accelerate chiplet-based architectures and AI accelerators for SDVs",
-      "summary": "**media[966393]**TOKYO, March 10, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has officially joined the Automotive Chiplet Program (ACP) over...",
-      "source": "The Manila Times",
-      "date": "2026-03-10",
-      "url": "https://www.manilatimes.net/2026/03/10/tmt-newswire/pr-newswire/tier-iv-joins-imecs-automotive-chiplet-program-to-accelerate-chiplet-based-architectures-and-ai-accelerators-for-sdvs/2296470"
-    },
-    {
-      "id": "https://seekingalpha.com/article/4880574-my-playbook-on-trading-tesla-as-the-market-stops-rewarding-story-stocks",
-      "title": "My Playbook On Trading Tesla As The Market Stops Rewarding Story Stocks (NASDAQ:TSLA)",
-      "summary": "Tesla (TSLA) downgraded to Hold as it tests the 200-day moving average amid robotaxi, FSD and Optimus delays—see key catalysts like Cybercab production and......",
-      "source": "Seeking Alpha",
-      "date": "2026-03-10",
-      "url": "https://seekingalpha.com/article/4880574-my-playbook-on-trading-tesla-as-the-market-stops-rewarding-story-stocks"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/weride-and-geely-farizon-to-deliver-2000-purpose-built-robotaxi-gxrs-by-2026-advancing-large-scale-global-commercialization/2295644",
-      "title": "WeRide and Geely Farizon to Deliver 2,000 Purpose-Built Robotaxi GXRs by 2026, Advancing Large-Scale Global Commercialization",
-      "summary": "GUANGZHOU, China, March 09, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD, HKEX: 0800), a global leader in autonomous driving technology, today signed an expanded strategic cooperation agreement with G...",
-      "source": "The Manila Times",
-      "date": "2026-03-09",
-      "url": "https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/weride-and-geely-farizon-to-deliver-2000-purpose-built-robotaxi-gxrs-by-2026-advancing-large-scale-global-commercialization/2295644"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/09/tmt-newswire/pr-newswire/tier-iv-tests-level-2-semi-trailer-truck-for-long-haul-autonomous-logistics-with-yamato-transport-and-mitsubishi-fuso/2295592",
-      "title": "TIER IV tests Level 2+ semi-trailer truck for long-haul autonomous logistics with Yamato Transport and Mitsubishi Fuso",
-      "summary": "**media[964725]**TOKYO, March 9, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has completed proof of concept tests for long-haul autonomous tr...",
-      "source": "The Manila Times",
-      "date": "2026-03-09",
-      "url": "https://www.manilatimes.net/2026/03/09/tmt-newswire/pr-newswire/tier-iv-tests-level-2-semi-trailer-truck-for-long-haul-autonomous-logistics-with-yamato-transport-and-mitsubishi-fuso/2295592"
-    },
-    {
-      "id": "https://seekingalpha.com/article/4880111-tesla-how-much-longer-can-you-hide-weakness",
-      "title": "Tesla: How Much Longer Can You Hide Weakness",
-      "summary": "Tesla, Inc. short thesis: hype-driven capex, Model S/X cuts, big bets on Optimus, xAI & FSD with unclear returns. Click for this TSLA update....",
-      "source": "Seeking Alpha",
-      "date": "2026-03-09",
-      "url": "https://seekingalpha.com/article/4880111-tesla-how-much-longer-can-you-hide-weakness"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933",
-      "title": "Tesla Model Y Completes Huge FSD Run Without Intervention, Tesla Stock (NASDAQ:TSLA) Surges",
-      "summary": "Finally, a day in which the news about a company matches what happens in its stock price. Those who were concerned about just how well electric ......",
-      "source": "Markets Insider",
-      "date": "2026-03-04",
-      "url": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933"
-    },
-    {
-      "id": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone",
-      "title": "Tesla’s Full Self Driving clocks over 8 billion miles cumulatively",
-      "summary": "Tesla's Full Self-Driving (FSD) fleet has cumulatively clocked over 8 billion miles which will be used as training data for its advanced driver assistance system (ADAS)....",
-      "source": "Interesting Engineering",
-      "date": "2026-03-02",
-      "url": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone"
     }
   ]
 }
