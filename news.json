@@ -1,155 +1,188 @@
 {
-  "lastUpdated": "2026-03-11 02:39:32",
-  "totalCount": 34,
+  "lastUpdated": "2026-03-12 08:09:41",
+  "totalCount": 36,
   "sources": {
-    "News_Baidu": 13,
-    "Fx168News": 1,
+    "Ithome": 3,
+    "News_Baidu": 9,
+    "Prnasia": 1,
+    "Eeo": 1,
+    "News_Seehua": 1,
+    "Investing_Cn": 1,
     "Chinanews": 1,
-    "Ithome": 1,
-    "Devdiscourse": 1,
+    "The Verge": 1,
+    "Benzinga": 3,
+    "Devdiscourse": 2,
     "Hartford Courant": 1,
     "Quincy Patriot Ledger": 1,
     "The Manila Times": 3,
-    "Seeking Alpha": 1,
-    "Times of India": 1,
-    "PerthNow": 1,
+    "Seeking Alpha": 2,
     "Markets Insider": 1,
     "Interesting Engineering": 1,
     "Investor's Business Daily": 1,
     "NextBigFuture.com": 1,
-    "Benzinga": 2,
     "MarketScreener": 1,
-    "CNBC": 1,
-    "Business Today": 1
+    "CNBC": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859266069022119573",
-      "title": "“00后”轨道作业车女司机 铁道线上绽放青春光彩",
-      "summary": "中新网南宁3月10日电题:“00后”轨道作业车女司机铁道线上绽放青春光彩作者廖婧余轨道作业车司机是铁路工务部门的特殊工种之一,其工作内容鲜为人知。在国铁南宁局南宁工务段轨道作业车司机岗位上,几乎清一色...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859266069022119573"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859283494842938637",
-      "title": "本周末将迎清明祭扫第一个高峰期,前往市民提前导航远..",
-      "summary": "本周末(3月14日、15日)将迎来清明祭扫第一个高峰期,南京交通运输部门将在3月14-15日、21-22日、28-29日及4月1-6日客流高峰日临时开...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859283494842938637"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859254334675806459",
-      "title": "6G网要来了!",
-      "summary": "6G作为《政府工作报告》中明确提出要培育发展的未来产业,也成为今年全国两会上很多代表委员热议的焦点。那么,6G究竟能为我们的生活带来哪些改变?6G,也就是第六代移动通信技术。从1G的语音,2G的短信,...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859254334675806459"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859279090328814295",
-      "title": "塔河县:以“五心五度”工作法绘就政务服务暖心画卷",
-      "summary": "“民之所盼,政之所向”。近年来,大兴安岭塔河县政务服务中心始终坚持以人民为中心的发展理念,创新推行精心、热心、贴心、省心、舒心“五心”服务标准,同步深化有准度、有厚度、有温度、有速度、有甜度“五度”服...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859279090328814295"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859174843138300068",
-      "title": "写点生活|一场奔跑,满城温暖",
-      "summary": "潮新闻客户端杨秀蓉清晨,天刚蒙蒙亮,寒意迎面袭来。有着近四十年摄影经历的先生,驱车前往西门城楼,捕捉赛前的珍贵镜头;我背上装满补充能量的零食背包,跑步去第一医院正门旁,为参赛者呐喊助威。刚出小区门口,...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859174843138300068"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859279733857438725",
-      "title": "青海西宁一小伙掀翻自己的三轮车给婚车让路,新郎包1..",
-      "summary": "3月10日,据媒体报道,青海西宁一小伙掀翻自己三轮车给婚车让路。视频画面显示,一辆三轮车与婚车车队在小路偶遇无法通行,三轮车驾驶员主动将车里的东西拿下车,并将三轮车推翻给婚车让路。目击者孙先生表示:“...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859279733857438725"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859277311536411383",
-      "title": "蚂蚁集团开启2026春季校园招聘、百度启动史上最大..",
-      "summary": "3月10日,蚂蚁集团招聘在其官方微信公众号宣布正式启动2026春季校园招聘。公司表示,本次春招技术类岗位占比达85%,其中超70%的岗位与人工智能直接相关,包括AI研究、AI应用、AIinfra等,重...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859277311536411383"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859278493914985105",
-      "title": "全国人大代表杨德斌:建议加快构建“物理AI”基础设..",
-      "summary": "今年政府工作报告提出“打造智能经济新形态”。一个更具前瞻性的概念——“物理AI”随之进入两会视野。当数字世界的人工智能技术与智能汽车、无人机、人形机器人等物理实体深度融合,便形成能够感知、交互并作用于...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859278493914985105"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859242632457474254",
-      "title": "两会看“新”丨“空天地海”全覆盖,6G何时安排上?",
-      "summary": "新华社北京3月10日电“天涯若比邻”将不再是科幻,不远的将来,远距离交流有望从“屏幕对视”升级为“空间在场”。相关专家表示,裸眼3D通话、3D彩铃等一些依托6G的沉浸式消费场景试验已经在河北、江苏等地...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859242632457474254"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859279147796878776",
-      "title": "6G,要来了!",
-      "summary": "今天“6G网要来了”话题冲上微博热搜榜相关话题引发网友热议“天涯若比邻”将不再是科幻不远的将来远距离交流有望从“屏幕对视”升级为“空间在场”相关专家表示裸眼3D通话、3D彩铃等一些依托6G的沉浸式消费...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859279147796878776"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1002191",
-      "title": "AT&T承诺在未来五年内投入超过2500亿美元,建设美国最佳、规模最大的网络设施-FX168",
-      "summary": "美国当地时间 3 月 10 日,全球知名电信运营商 AT&T发布官方公告,宣布未来五年将在美国投入超过2500亿美元,用于扩建网络基础设施,同时计划于2026年招聘数千名技术人员。这一举措标志着美国电信行业正迎来新一轮大规模基建投资潮,以应对激增的数据需求,支撑下一代...",
-      "source": "Fx168News",
-      "date": "2026-03-10",
-      "url": "https://www.fx168news.com/article/1002191"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859263113804798063",
-      "title": "“6G网要来了”,冲上热搜第一!",
-      "summary": "今天,“6G网要来了”这个话题直接冲上热搜第一。有人问:“我5G还没整明白呢,6G就来了?”有人说:“下载电影只要1秒?这也太夸张了吧!”还有人已经开始幻想:“那以后打游戏是不是再也不用等加载了?”6...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859263113804798063"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859273680811952234",
-      "title": "换电、智驾、人形机器人......代表聚焦新质生产力建言献..",
-      "summary": "全国两会上,来自广汽集团、小鹏汽车等汽车行业的全国人大代表带来多份议案建议,涉及换电、智驾、出海、人形机器人等领域,锚定新质生产力跃升,释放行业发展新信号。冯兴亚代表:加快构建全国统一的换电标准随着新...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859273680811952234"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859258959900618033",
-      "title": "至简动力宣布在半年内完成20亿元规模融资 核心创始..",
-      "summary": "3月9日,至简动力宣布在半年内连续完成5轮融资,总融资额达20亿元。财务投资机构包括元璟资本、蓝驰创投、红杉中国、君联资本、中科创星、高榕创投,战略投资方则为腾讯和阿里巴巴集团。该公司最新一轮融资由光...",
-      "source": "News_Baidu",
-      "date": "2026-03-10",
-      "url": "http://baijiahao.baidu.com/s?id=1859258959900618033"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/dwq/2026/03-10/10584724.shtml",
-      "title": "陈茂波:香港发展AI的优势得天独厚",
-      "summary": "中新社香港3月10日电 (记者 戴小橦)香港特区政府财政司司长陈茂波10日在港出席“联想集团2026香港创新科技大会”时表示,香港发展人工智能(AI)的优势得天独厚。对于AI领域的开发者、创新者和企业而言,香港是理想之地。...",
-      "source": "Chinanews",
-      "date": "2026-03-10",
-      "url": "https://www.chinanews.com.cn/dwq/2026/03-10/10584724.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/927/735.htm",
-      "title": "奇瑞全新 QQ3 纯电小型车开启预售:搭载猎鹰 500 辅助驾驶,售 68920 元起",
-      "summary": "IT之家 3 月 10 日消息,今晚奇瑞汽车旗下全新纯电小型车 —— 全新奇瑞 QQ3 EV 正式开启预售。新车共推出 4 款配置车型,预售价区间为 6.8920-8.9985 万元。据IT之家了解,奇瑞 QQ3 EV 采用“智圆行方”的设计理念,整体造型圆润可爱。前脸配备封闭式格栅及 Q 型 LED 大灯,下方设有圆角贯穿式进气口,增添运动气息。车身侧面采用半隐藏式门把手设计,前后轮眉以黑色饰件...",
+      "id": "https://www.ithome.com/0/928/139.htm",
+      "title": "捷途旅行者 / 自由者骏马版上市:骊影黑哑光车漆,限时焕新价 10.79 万元起",
+      "summary": "IT之家 3 月 11 日消息,捷途汽车旅行者骏马版与自由者骏马版两款特别版车型已上市,新车采用专属骊影黑哑光车漆及黑化车标,限时焕新价 10.79 万元起。 捷途旅行者骏马版 IT之家注意到,两款骏马版车型在外观上延续捷途家族经典的“方盒子”硬派造型,并统一采用骊影黑哑光车漆。该漆面通过特殊工艺处理,哑光质感持久稳定,耐擦洗强度较普通漆面提升 50%,黑度提升 20%,呈现“静态深邃,动态锋芒”...",
       "source": "Ithome",
+      "date": "2026-03-11",
+      "url": "https://www.ithome.com/0/928/139.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859360912718500667",
+      "title": "全国人大代表陈国鹰:建议尽快向有条件的车企发放无人..",
+      "summary": "全国人大代表、福建省政府参事、福州理工学院校长陈国鹰在回答记者提问。(中国日报记者胡美东摄)中国日报北京3月9日电(记者胡美东张怡)全国人大代表、福建省政府参事、福州理工学院校长陈国鹰,在近日福建代表...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859360912718500667"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859322598612479040",
+      "title": "航空航天成新兴支柱产业,卫星互联网将如何改变你我生..",
+      "summary": "全国两会期间,中国航天迎来了一个重要里程碑——政府工作报告首次将航空航天明确列为国家“新兴支柱产业”,并特别提出“加快发展卫星互联网”。这标志着航空航...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859322598612479040"
+    },
+    {
+      "id": "https://www.prnasia.com/story/524878-1.shtml",
+      "title": "让设备\"秒懂\"需求!移远新一代AI算力智能模组SH603FC硬核来袭",
+      "summary": "上海2026年3月11日 /美通社/ -- 3月11日,在embedded world 2026期间,移远通信宣布,正式发布基于MediaTek平台G520芯片的新一代支持AI算力智能模组SH603FC系列。 作为移远首款搭载此平台的高性能模组,SH603FC系列提供Wi-Fi 6、Wi-Fi 6E、AP三个版本,为工业、机器人、智慧商业、车载后装娱乐设备及边缘计算等多元场景打造一体化智能硬件底座...",
+      "source": "Prnasia",
+      "date": "2026-03-11",
+      "url": "https://www.prnasia.com/story/524878-1.shtml"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0311/809388.shtml",
+      "title": "宝马(中国)汽车贸易有限公司召回部分进口汽车",
+      "summary": "经济观察网 据市场监管总局网站消息,日前,宝马(中国)汽车贸易有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求,向国家市场监督管理总局备案了召回计划。召回编号S2026M0027V:自2026年3月16日起,召回生产日期从2020年7月31日至2022年12月22日的部分进口宝马2系、4系、5系、6系、7系、X4、X5、X6、Z4系列汽车,共计147830辆。本...",
+      "source": "Eeo",
+      "date": "2026-03-11",
+      "url": "http://www.eeo.com.cn/2026/0311/809388.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859347792070075412",
+      "title": "WANOS全景声十年——潘兴德:让世界听到中国好声..",
+      "summary": "编者按:40年前,当小兴安岭林场的风拂过松树林海,白头鹤掠过天际,年少的潘兴德正在畅想未来。他将带领一只团队,通过自主研发的技术,做出一番事业。2026年是全景声科技诞生的第11年,也是WANOS全景...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859347792070075412"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859356792777278762",
+      "title": "「好评中国」河声丨“6G网要来了”,何以值得期待?",
+      "summary": "3月10日,“6G网要来了”话题冲上微博热搜榜第一位,相关话题引发网友热议。6G是指第六代移动通信标准,也被称为第六代移动通信技术。6G是通感算智深度融合、空天地一体全域覆盖的新一代移动信息网络,将实...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859356792777278762"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859259878297310965",
+      "title": "危险!四个“熊孩子”排队横躺马路上,司机:辅助驾驶..",
+      "summary": "3月8日,广东清远一位司机在社交平台发布行车记录仪视频,记录下一段令人后怕的经历。当天,该司机驾驶车辆在县道使用辅助驾驶功能行驶时,系统突然识别到前方有障碍物并自动减速。司机最初以为路面物体是“塑料袋...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859259878297310965"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859356444690327369",
+      "title": "加强警务协作 守护绿水青山——湖北省恩施州巴东县公..",
+      "summary": "到柑橘园走访宣传。(资料图)开展交通安全宣传。(资料图)穿梭于鄂渝交界的密林小道,他们仔细巡查着每一处边界角落;巡航在长江的碧波之上,他们守护着一江清水;深入产业园与企业车间,他们聆听需求、排查隐患......",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859356444690327369"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859355059931555562",
+      "title": "首提“智能经济新形态”,蕴含何种发展逻辑?|新京报..",
+      "summary": "▲2026年政府工作报告首次提出“打造智能经济新形态”。图/ICphoto据新华社电,今年的政府工作报告提出“打造智能经济新形态”,这是政府工作报告中首次出现这一提法。从2024年首提“人工智能+”行...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859355059931555562"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859357583660791540",
+      "title": "湖南科技学院传媒学院青志团:采访夺冠花车司机 感悟..",
+      "summary": "红网时刻新闻3月11日讯(通讯员姜梓琪郑潇东赵瑞芝)3月5日学雷锋纪念日,湖南科技学院传媒学院青年志愿者服务团走进永州公交公司,采访湘超联赛夺冠巡游花...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859357583660791540"
+    },
+    {
+      "id": "https://news.seehua.com/post/1452223",
+      "title": "狮城夫妻结婚18周年前夕 大马遇车祸奇迹逃生",
+      "summary": "(新加坡11日讯)狮城夫妻结婚18周年前夕在马来西亚高速公路经历生死一瞬,丈夫驾驶的休旅车为闪避车辆,失控撞上 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-03-11",
+      "url": "https://news.seehua.com/post/1452223"
+    },
+    {
+      "id": "https://www.ithome.com/0/928/022.htm",
+      "title": "特斯拉无人驾驶出租车 Cybercab 频繁上路实测,大规模投产进入倒计时",
+      "summary": "IT之家 3 月 11 日消息,特斯拉 Cybercab 在公共道路以及得州超级工厂厂区内的现身频率越来越高,这表明在大规模量产前夕,该公司的道路测试与验证工作正在显著提速。IT之家注意到,此前无人机观察员乔 · 泰格迈尔近期在得州超级工厂的三个不同地点,共观测到 25 辆 Cybercab:14 辆金属金色车型密集停放在工厂出口外侧;9 辆在碰撞测试设施内,接受结构与安全验证;另有 2 辆在厂区...",
+      "source": "Ithome",
+      "date": "2026-03-11",
+      "url": "https://www.ithome.com/0/928/022.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/928/140.htm",
+      "title": "长城坦克 700 Hi4-Z 内饰官图发布:换怀挡、增后排吸顶屏",
+      "summary": "IT之家 3 月 11 日消息,今日长城旗下坦克品牌发布了坦克 700 Hi4-Z 的内饰官方图片,新车在延续家族设计风格的同时,针对细节进行了优化升级。 IT之家注意到,坦克 700 Hi4-Z 的内饰整体风格与坦克 700 Hi4-T 保持高度一致,配备三辐式多功能方向盘和悬浮式中控大屏。不过,新车在副仪表台区域进行了重新设计,取消了传统的换挡杆,改为怀挡式换挡机构,杯架布局也随之调整。此外,...",
+      "source": "Ithome",
+      "date": "2026-03-11",
+      "url": "https://www.ithome.com/0/928/140.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3255196",
+      "title": "智驾要有中国标准!专访全国人大代表姚佐平:要鼓励智能驾驶加速普及",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-03-11",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3255196"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/03-11/10585103.shtml",
+      "title": "重庆增设智能网联新能源汽车专业职称",
+      "summary": "中新网重庆3月11日电 (记者 钟旖)智能网联新能源汽车产业是重庆“33618”现代制造业集群体系的“首位产业”。记者11日从重庆市人力资源和社会保障局获悉,该市在全国率先增设智能网联新能源汽车专业职称。从2026年起,将启动首次智能网联新能源汽车专业职称评审,符合条件的专业技术人员可积极报名参评。...",
+      "source": "Chinanews",
+      "date": "2026-03-11",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-11/10585103.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859347634959616058",
+      "title": "智能驾驶概念港股维持强势 五一视界一度涨近50%",
+      "summary": "【智能驾驶概念港股维持强势五一视界一度涨近50%】财联社3月11日电,五一视界涨44%,蔚来涨15%,图达通涨13%,吉利汽车涨8%,文远知行涨6%,小鹏汽车涨4%。消息面上,据五一视界3月9日公告,...",
+      "source": "News_Baidu",
+      "date": "2026-03-11",
+      "url": "http://baijiahao.baidu.com/s?id=1859347634959616058"
+    },
+    {
+      "id": "https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview",
+      "title": "Nvidia’s head of autonomous driving opens up about his plan to beat Waymo and Tesla",
+      "summary": "Nvidia’s Xinzhou Wu talks about his company’s plans to introduce autonomous vehicles using AI-powered models, end-to-end learning, and the right sensor stack....",
+      "source": "The Verge",
+      "date": "2026-03-11",
+      "url": "https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/equities/26/03/51170215/why-is-qualcomm-stock-falling-despite-autonomous-driving-deal",
+      "title": "Why Is Qualcomm Stock Falling Despite Autonomous Driving Deal?",
+      "summary": "Qualcomm fell as fresh U.S. export policy concerns weighed on chip stocks and overshadowed its new autonomous driving partnership with Wayve....",
+      "source": "Benzinga",
       "date": "2026-03-10",
-      "url": "https://www.ithome.com/0/927/735.htm"
+      "url": "https://www.benzinga.com/markets/equities/26/03/51170215/why-is-qualcomm-stock-falling-despite-autonomous-driving-deal"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/business/3833039-revolutionary-shift-zoox-seeks-approval-for-steering-wheel-free-robotaxis",
+      "title": "Revolutionary Shift: Zoox Seeks Approval for Steering-Wheel-Free Robotaxis",
+      "summary": "Zoox, Amazon.com's self-driving unit, seeks NHTSA approval to roll out 2,500 steering-wheel-free robotaxis, marking a milestone for the American autonomous vehicle industry. The petition calls for exe...",
+      "source": "Devdiscourse",
+      "date": "2026-03-10",
+      "url": "https://www.devdiscourse.com/article/business/3833039-revolutionary-shift-zoox-seeks-approval-for-steering-wheel-free-robotaxis"
     },
     {
       "id": "https://www.devdiscourse.com/article/business/3832996-nhtsa-opens-public-discussion-on-zooxs-wheel-free-robotaxis",
@@ -184,6 +217,14 @@
       "url": "https://www.manilatimes.net/2026/03/10/tmt-newswire/pr-newswire/tier-iv-joins-imecs-automotive-chiplet-program-to-accelerate-chiplet-based-architectures-and-ai-accelerators-for-sdvs/2296470"
     },
     {
+      "id": "https://seekingalpha.com/article/4880574-my-playbook-on-trading-tesla-as-the-market-stops-rewarding-story-stocks",
+      "title": "My Playbook On Trading Tesla As The Market Stops Rewarding Story Stocks (NASDAQ:TSLA)",
+      "summary": "Tesla (TSLA) downgraded to Hold as it tests the 200-day moving average amid robotaxi, FSD and Optimus delays—see key catalysts like Cybercab production and......",
+      "source": "Seeking Alpha",
+      "date": "2026-03-10",
+      "url": "https://seekingalpha.com/article/4880574-my-playbook-on-trading-tesla-as-the-market-stops-rewarding-story-stocks"
+    },
+    {
       "id": "https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/weride-and-geely-farizon-to-deliver-2000-purpose-built-robotaxi-gxrs-by-2026-advancing-large-scale-global-commercialization/2295644",
       "title": "WeRide and Geely Farizon to Deliver 2,000 Purpose-Built Robotaxi GXRs by 2026, Advancing Large-Scale Global Commercialization",
       "summary": "GUANGZHOU, China, March 09, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD, HKEX: 0800), a global leader in autonomous driving technology, today signed an expanded strategic cooperation agreement with G...",
@@ -208,22 +249,6 @@
       "url": "https://seekingalpha.com/article/4880111-tesla-how-much-longer-can-you-hide-weakness"
     },
     {
-      "id": "https://timesofindia.indiatimes.com/auto/cars/us-to-host-self-driving-safety-forum-with-waymo-zoox-and-aurora-ceos/articleshow/129260588.cms",
-      "title": "driving safety forum with Waymo, Zoox and Aurora CEOs",
-      "summary": "Cars News: The National Highway Traffic Safety Administration (NHTSA) will host a national autonomous vehicle safety forum on Tuesday, bringing together leaders ....",
-      "source": "Times of India",
-      "date": "2026-03-08",
-      "url": "https://timesofindia.indiatimes.com/auto/cars/us-to-host-self-driving-safety-forum-with-waymo-zoox-and-aurora-ceos/articleshow/129260588.cms"
-    },
-    {
-      "id": "https://www.perthnow.com.au/news/transport/driving-change-inside-the-autonomous-car-revolution-c-21862252",
-      "title": "Driving change: inside the autonomous car revolution",
-      "summary": "More self-driving cars will navigate streets around the world this year but some are yet to be convinced the technology is roadworthy....",
-      "source": "PerthNow",
-      "date": "2026-03-06",
-      "url": "https://www.perthnow.com.au/news/transport/driving-change-inside-the-autonomous-car-revolution-c-21862252"
-    },
-    {
       "id": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933",
       "title": "Tesla Model Y Completes Huge FSD Run Without Intervention, Tesla Stock (NASDAQ:TSLA) Surges",
       "summary": "Finally, a day in which the news about a company matches what happens in its stock price. Those who were concerned about just how well electric ......",
@@ -238,30 +263,6 @@
       "source": "Interesting Engineering",
       "date": "2026-03-02",
       "url": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone"
-    },
-    {
-      "id": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/",
-      "title": "Musk Says Tesla FSD, Cybercab, Optimus Coming To Europe",
-      "summary": "Tesla's FSD platform could approved as soon as next month in Holland. Elon Musk said Optimus and Cybercab to be built at German factory....",
-      "source": "Investor's Business Daily",
-      "date": "2026-02-27",
-      "url": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/"
-    },
-    {
-      "id": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html",
-      "title": "Elon Interviewed At GigaBerlin- With News on FSD March 20 Netherlands, Cybercab, Optimus",
-      "summary": "Elon drops the big things on FSD, cybercab and optimus, battery and cybercab factory in Europe. If authorities cooperate, Tesla would make Gigaberlin the...",
-      "source": "NextBigFuture.com",
-      "date": "2026-02-27",
-      "url": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/02/50859270/ross-gerber-warns-teslas-mad-max-fsd-mode-is-basically-unsafe-following-240-million-autopilot-liability-verdict",
-      "title": "Ross Gerber Warns Tesla's 'Mad Max' FSD Mode Is 'Basically Unsafe' Following $240 Million Autopilot Liability Verdict",
-      "summary": "Ross Gerber, co-founder of investment firm Gerber Kawasaki, issued a stern warning on Wednesday regarding the safety of Tesla Inc.'s (TSLA) autonomous driving software....",
-      "source": "Benzinga",
-      "date": "2026-02-25",
-      "url": "https://www.benzinga.com/markets/tech/26/02/50859270/ross-gerber-warns-teslas-mad-max-fsd-mode-is-basically-unsafe-following-240-million-autopilot-liability-verdict"
     }
   ]
 }
