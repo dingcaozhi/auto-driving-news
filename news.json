@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-13 02:43:01",
-  "totalCount": 35,
+  "lastUpdated": "2026-03-14 02:41:38",
+  "totalCount": 39,
   "sources": {
-    "News_Baidu": 10,
-    "Ithome": 3,
-    "Fx168News": 2,
-    "Jiemian": 1,
-    "Chinanews": 1,
+    "Bilibili": 5,
+    "News_Baidu": 7,
+    "Chinanews": 2,
+    "Ithome": 5,
+    "Eeo": 1,
+    "News_Seehua": 1,
+    "The Manila Times": 2,
+    "Reuters": 1,
     "The Mercury News": 1,
     "PR Newswire UK": 1,
     "The Verge": 1,
     "Engadget": 1,
     "Japan Today": 1,
-    "The Japan Times ": 1,
     "Benzinga": 2,
-    "TechCrunch": 1,
-    "Reuters": 1,
     "Gizmodo": 1,
     "Seeking Alpha": 2,
     "Markets Insider": 1,
@@ -26,140 +26,196 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859374564545238782",
-      "title": "追觅芯际穿越近期发射“瑶台”系列算力盒,部署未来太..",
-      "summary": "当前,AI的爆发正以前所未有的速度重塑着世界运转的底层逻辑。从大模型的涌现到具身智能的萌芽,每一次智能跃迁,背后都是算力的指数级消耗。芯片,这颗AI时代的心脏,其跳动频率直接决定了我们探索智能边界的速...",
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-03-14",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1nTkwByEz8",
+      "title": "【B站】9车横评，辅助驾驶哪家强？",
+      "summary": "横评内容坚持不恰饭！...",
+      "source": "Bilibili",
+      "date": "2026-03-14",
+      "url": "https://www.bilibili.com/video/BV1nTkwByEz8"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1wWfDYiEUi",
+      "title": "【B站】【深度解析】智能驾驶烧了1000亿，发生了什么？",
+      "summary": "这行业烧了 1000 个亿，到底烧出了什么？抱着一系列疑问，过去三个月里，我们查阅资料，询问专家，从技术最底层出发，看完这个视频你会发现，自动驾驶波折20年，背后无非就是一个字，难......",
+      "source": "Bilibili",
+      "date": "2026-03-14",
+      "url": "https://www.bilibili.com/video/BV1wWfDYiEUi"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1fNNMzSE54",
+      "title": "【B站】1148亿砸出来的L3，和L2到底有什么区别？",
+      "summary": "靠疯狂堆料，就能实现 L3 吗？答案其实很清楚——不能。\nL3 真正的门槛，从来不是雷达数量、算力参数的内卷，而是敢为驾驶行为全程担责的底气，是可落地、能量产的系统极致可靠性。...",
+      "source": "Bilibili",
+      "date": "2026-03-14",
+      "url": "https://www.bilibili.com/video/BV1fNNMzSE54"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1xe411k7h7",
+      "title": "【B站】简单清晰，10分钟讲懂自动驾驶的核心零部件，激光雷达、毫米波、摄像头原理一网打尽！捋清市场空间和行业发展趋势！机器人专题研究之机器视觉【深度报告】",
+      "summary": "参考资料：\nHow Your Eyes Make Sense of the World | Decoder你的眼睛如何感知世界？https://www.youtube.com/watch?v=hsh2kPdgazo \n3D scanner. How it works? 结构光原理 https://w...",
+      "source": "Bilibili",
+      "date": "2026-03-14",
+      "url": "https://www.bilibili.com/video/BV1xe411k7h7"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859346631413631646",
+      "title": "黄仁勋罕见发文:AI正如电力一样不可缺少,仍需数万..",
+      "summary": "黄仁勋罕见发布署名长文,再次强调“人类历史上规模最大的基础设施建设”刚刚开始。当地时间3月10日,AI(人工智能)芯片龙头英伟达CEO黄仁勋发布署名长文,分享了对AI“五层蛋糕”结构的分析。黄仁勋表示...",
       "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859374564545238782"
+      "date": "2026-03-13",
+      "url": "http://baijiahao.baidu.com/s?id=1859346631413631646"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859465257454806795",
-      "title": "“人车家天地芯”生态首秀 追觅俞浩:以科技推动人类..",
-      "summary": "封面新闻记者吴雨佳3月12日,2026中国家电及消费电子博览会(AWE2026)在上海开幕。其中,追觅科技以“人车家天地芯”智能生态亮相,展出面积11193m,成为AWE有史以来参展面积最大的智能科...",
+      "id": "http://baijiahao.baidu.com/s?id=1859554781777064789",
+      "title": "为了共同理想,这群车模爱好者走到了一起!他们还设计..",
+      "summary": "走进方盒模型(FUNBOX)位于嘉定江桥一个园区内的办公室,你可能无法把一群正在看电脑、琢磨模型的年轻人直接与F1联系起来。这些年轻人都是资深的汽车模型爱好者,他们出于共同的兴趣爱好而走到了一起。方盒...",
       "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859465257454806795"
+      "date": "2026-03-13",
+      "url": "http://baijiahao.baidu.com/s?id=1859554781777064789"
     },
     {
-      "id": "https://www.ithome.com/0/928/552.htm",
-      "title": "法拉利全新软顶跑车 Amalfi Spider 发布:13.5 秒开篷,极速 320km/h",
-      "summary": "IT之家 3 月 12 日消息,法拉利今天推出了全新敞篷跑车 Amalfi Spider,定位为 Roma 继任车型的敞篷版本。新车搭载 631bhp V8 发动机,赶在夏季到来前亮相。Amalfi Spider 延续了双门硬顶版的整体比例。法拉利设计团队在敞篷结构上尽量保持原有车身轮廓,使车辆在顶篷打开时依然维持优雅线条。新车尾部设计相比 Roma Spider 更加硬朗,并整合主动式尾翼。尾翼...",
-      "source": "Ithome",
-      "date": "2026-03-12",
-      "url": "https://www.ithome.com/0/928/552.htm"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1003179",
-      "title": "Bitget 2 月报告:比特币年度储备增长 86%,TradFi 与 AI 交易基础设施持续扩展-FX168",
-      "summary": "塞舌尔维多利亚, March 12, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 发布 2026 年 2 月透明度报告,重点展示了强劲的资本流入、不断扩大的比特币储备以及全新 AI 驱动的交易基础设施。该平台正持续推进其全景交易所 (UEX) 战略。 当月,Bitget 录得 2.0595 亿美元净流入,根据 DefiLlama 数据,该成绩在...",
-      "source": "Fx168News",
-      "date": "2026-03-12",
-      "url": "https://www.fx168news.com/article/1003179"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859460285069147776",
-      "title": "金牌“店小二”全天候在线,13亿资金赋能企业成长,..",
-      "summary": "潮新闻客户端记者詹程开通讯员李凌婧徐海波谭西涵王豪文3月12日,杭州上城区以一场“春日之约”向创新敞开怀抱。 在上城区都市经济高质量发展暨中央创新区(CID)建设推进大会上,举行了一场重大产业项目集中...",
+      "id": "http://baijiahao.baidu.com/s?id=1859554781776972871",
+      "title": "再度出征F1学院 “铁豆”师炜:不负热爱赴赛场|F..",
+      "summary": "2025年3月,当师炜(铁豆)以中国首位F1学院外卡车手的身份完成首秀后,一种复杂的情绪笼罩了她。外界排山倒海的议论,让她在赛后很长一段时间不敢靠近赛车。“我每天就住在赛道边上,跟自己较劲,也不训练,...",
       "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859460285069147776"
+      "date": "2026-03-13",
+      "url": "http://baijiahao.baidu.com/s?id=1859554781776972871"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859458966030099819",
-      "title": "从沉浸式通信到“空天地海” 6G生活离我们有多远?..",
-      "summary": "封面新闻记者张峥实习生王思远在今年的全国两会上,“培育发展6G等未来产业”被正式写入政府工作报告。空天地海全覆盖的6G何时安排上?6G生活离我们有多远?3月11日,封面新闻记者专访了电子科技大学通信抗...",
+      "id": "http://baijiahao.baidu.com/s?id=1859554781777258607",
+      "title": "F1学院重返上海:打破壁垒,新赛季“她”势加速|F..",
+      "summary": "3月13日至15日,2026FORMULA1喜力中国大奖赛将在上海国际赛车场鸣笛开赛,F1学院(F1ACADEMY)新赛季的揭幕战则将同期、同场举行,这也是中国连续第二年承办这项全女性车手参与的单一规...",
       "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859458966030099819"
+      "date": "2026-03-13",
+      "url": "http://baijiahao.baidu.com/s?id=1859554781777258607"
     },
     {
-      "id": "https://www.ithome.com/0/928/538.htm",
-      "title": "齐普策:宝马已暂时降低 L3 级自动驾驶项目研发优先级",
-      "summary": "IT之家 3 月 12 日消息,据第一财经,在今天的 2026 财年会上,宝马集团全球 CEO 奥利弗 · 齐普策表示,宝马曾为旗下车型配备 L3 级自动驾驶系统,但因该技术尚未达到商业化盈利水平,公司已暂时降低 L3 级自动驾驶项目研发的优先级。齐普策补充说,此举不代表宝马会放弃更高阶的自动驾驶技术研发,宝马仍将持续关注自动驾驶技术发展趋势,一旦高阶自动驾驶技术出现可行的商业化模式,研发工作将会...",
-      "source": "Ithome",
-      "date": "2026-03-12",
-      "url": "https://www.ithome.com/0/928/538.htm"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1003154",
-      "title": "新石器无人车亮相NACS亚洲便利峰会,为全球零售物流带来新运力选择-FX168",
-      "summary": "近日,2026 NACS 亚洲便利峰会(NACS Convenience Summit Asia 2026)在上海举办。新石器无人车执行总裁赵优受邀出席并发表主题演讲,围绕自动驾驶技术在真实业务场景中的规模化落地,分享了无人配送在提升零售供应链效率方面的实践经验与价值。峰会期间,现场展示的新石器无...",
-      "source": "Fx168News",
-      "date": "2026-03-12",
-      "url": "https://www.fx168news.com/article/1003154"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859446129046746976",
-      "title": "车辆坠入深塘 桐城一对父子跳入水中救出被困司机",
-      "summary": "大皖新闻讯3月9日下午4时许,桐城市大关镇龙头村突发惊险一幕:一名男子驾车途经该村界牌组塘坝路段,车辆突然撞断护栏翻入深塘,车身快速下沉,驾驶人被困车内,生命岌岌可危。危急时刻,党员余国友与其子余庆元...",
-      "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859446129046746976"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859458807541744913",
-      "title": "国内首批!上海44名医疗救护员获“高级工”技能等级..",
-      "summary": "不是简单的“担架工”,上海44名医疗救护员获得国内首批医疗救护员高级工(三级)技能等级认定。作为超大型城市,上海的院前急救常年高位运行,急救车上的医疗救护员,成为城市最忙碌的群体之一。然而,长期以来,...",
-      "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859458807541744913"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859465202078645045",
-      "title": "“你们的手很暖!”八旬老伯深夜迷路 公安公交联手送..",
-      "summary": "司乘人员和民警协力帮助老人回家昨天(3月11日)深夜8时许,一位八旬老伯独自乘车并迷路。幸被细心的司售人员发现,最终成功地查询到老人的住处,由民警将他护送回家。昨晚8时左右,巴士二公司莘松车队驾驶员莫顺辉和售票员都永娟像...",
-      "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859465202078645045"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859458744087394693",
-      "title": "男子将摩托车横停在高速路中间后,躺在路边睡觉",
-      "summary": "日前,五指山公安交警接到报警,称海三高速有一辆摩托车停在行车道上。交警赶赴现场发现,一辆无牌摩托车横停在行车道,一名男子正躺在路边睡觉。交警将人和车带离高速,途中男子称身体不适,交警将其送医检查,经检...",
-      "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859458744087394693"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859456661907666838",
-      "title": "2026保时捷驾驶中心全国路演首站于珠海燃擎启幕,..",
-      "summary": "△2026保时捷驾驶中心全国路演登陆珠海国际赛车场保时捷不止于制造跑车,更致力于传递源于赛道的纯粹激情,以及车与人的伙伴关系,这正是品牌“无可替代”的魅力所在。为将这一品牌核心带给更多客户,保时捷于2...",
-      "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859456661907666838"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14105888.html",
-      "title": "理想汽车连续三年盈利,但去年净利同比下降超八成",
-      "summary": "其中四季度净利润降幅高达99.4%。...",
-      "source": "Jiemian",
-      "date": "2026-03-12",
-      "url": "https://www.jiemian.com/article/14105888.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-12/10585869.shtml",
-      "title": "重庆智能网联新能源汽车产业“雄起”背后 国资国企如何“链”就生态网",
-      "summary": "中新网重庆3月12日电(黄维正)3月初,阿维塔科技在泰国曼谷向100余名当地用户交付新车。2月,问界与阿联酋阿布扎比汽车公司(Abu Dhabi Motors)达成战略合作后,迅速斩获200台首批订单。...",
+      "id": "https://www.chinanews.com.cn/gn/2026/03-13/10586587.shtml",
+      "title": "两会受权发布|中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+      "summary": "新华社北京3月13日电...",
       "source": "Chinanews",
-      "date": "2026-03-12",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-12/10585869.shtml"
+      "date": "2026-03-13",
+      "url": "https://www.chinanews.com.cn/gn/2026/03-13/10586587.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/928/520.htm",
-      "title": "大众 ID.3 电动掀背车将更名为 ID.3 Neo,今年晚些时候将迎大改款",
-      "summary": "IT之家 3 月 12 日消息,大众 ID.3 电动掀背车将于今年晚些时候迎来大幅改款,并更名为 ID.3 Neo。据IT之家了解,这款车型于 2021 年推出,是大众品牌首款专属纯电动汽车,此前已进行过一次大升级,以提升质感。据 Autocar 此前报道,该车今年将再度迎来重磅改款,采用更具冲击力的前脸设计,并着重升级内饰材质质感。ID.3 Neo 这一名称对该车型而言颇有渊源:Neo 正是其研...",
+      "id": "https://www.ithome.com/0/928/959.htm",
+      "title": "丰田更新 26 款 GR 雅力士:操控更精准,舒适性提升",
+      "summary": "IT之家 3 月 13 日消息,据汽车媒体 motor.es 今天报道,丰田现已在海外市场推出 2026 款 GR 雅力士汽车,主要在配置和驾驶体验方面进行改进,让这辆三门小钢炮增加一些颇具看点的升级。IT之家援引 motor.es,丰田章男一直公开表达自己热爱高性能车型,甚至表示丰田只需要 GR 雅力士、GR 卡罗拉两款性能车,不过现实市场显然需要更多普通车型,但即便如此这两款车型仍为丰田带来了...",
       "source": "Ithome",
-      "date": "2026-03-12",
-      "url": "https://www.ithome.com/0/928/520.htm"
+      "date": "2026-03-13",
+      "url": "https://www.ithome.com/0/928/959.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859453431779614024",
-      "title": "机器人概念股低位震荡,机器人ETF易方达(1595..",
-      "summary": "截至收盘,国证机器人产业指数下跌1.4%,中证智能电动汽车指数下跌0.4%,中证消费电子主题指数下跌1.1%,中证物联网主题指数下跌1.2%。Wind数据显示,截至昨日,机器人ETF易方达(15953...",
+      "id": "http://baijiahao.baidu.com/s?id=1859440468548679511",
+      "title": "交通宣传进农村 共“话”安全零距离",
+      "summary": "大象新闻·河南交通广播记者李鹏为进一步提升农村地区交通参与者的交通安全意识,有效预防和减少道路交通事故的发生,近日,濮阳市公安局交通管理支队工业园区大队组织宣传民辅警走进辖区大口寨村,开展了一场内容生...",
       "source": "News_Baidu",
-      "date": "2026-03-12",
-      "url": "http://baijiahao.baidu.com/s?id=1859453431779614024"
+      "date": "2026-03-13",
+      "url": "http://baijiahao.baidu.com/s?id=1859440468548679511"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/txy/2026/03-13/10586544.shtml",
+      "title": "台青赴重庆探索大足石刻文创产业合作机遇",
+      "summary": "中新社重庆3月13日电 (梁钦卿)3月11日至14日,台湾工商建设研究会青年团邀请近20名台湾青年企业家赴重庆考察。13日,台湾青年们来到重庆大足,参访重庆市(大足)台湾青年就业创业基地与世界文化遗产大足石刻,探索渝台两地文创产业合作潜力。...",
+      "source": "Chinanews",
+      "date": "2026-03-13",
+      "url": "https://www.chinanews.com.cn/txy/2026/03-13/10586544.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859547707552516031",
+      "title": "大四学生创业3年,公司估值超千万美金!开学回到高中..",
+      "summary": "潮新闻客户端记者邱伊娜通讯员沈磊三月以来,各类校园招聘会此起彼伏,许多大四学生忙着找工作,但也有人例外。近日,在杭州第九中学新学期开学典礼上,校长把C位让给了该校一位毕业生——时沐朗,现就读于美国北卡...",
+      "source": "News_Baidu",
+      "date": "2026-03-13",
+      "url": "http://baijiahao.baidu.com/s?id=1859547707552516031"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0313/810614.shtml",
+      "title": "“配不上”新能源车的轮胎:橡胶科技代差式落伍|“315\"特别策划",
+      "summary": "当前新能源汽车行业快速发展,电动车的车身自重和电机扭矩大,且叠加汽车和轮胎行业内卷严重,轮胎产业出现了不少质量问题,行业整体有些匹配不上渗透率日益提升的新能源汽车产业...",
+      "source": "Eeo",
+      "date": "2026-03-13",
+      "url": "http://www.eeo.com.cn/2026/0313/810614.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859453934297382408",
+      "title": "民航局发布有关无人机新公告,为低空飞行装上 “智慧..",
+      "summary": "3月5日,中国民用航空局发布《关于民用无人驾驶航空器系统网络式运行识别有关事项的公告》(以下简称《公告》),明确民用无人驾驶航空器系统网络式运行识别的具体要求。这份新规是对此前相关标准的细化。5月1日...",
+      "source": "News_Baidu",
+      "date": "2026-03-13",
+      "url": "http://baijiahao.baidu.com/s?id=1859453934297382408"
+    },
+    {
+      "id": "https://news.seehua.com/post/1453464",
+      "title": "霹种族情绪敏感事宜受控 警方:更多是个人之间误解",
+      "summary": "(怡保13日讯)霹雳州总警长拿督诺希山指出,针对一些不负责任人士挑起种族情绪敏感问题,霹雳州情况仍处于控制范围 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-03-13",
+      "url": "https://news.seehua.com/post/1453464"
+    },
+    {
+      "id": "https://www.ithome.com/0/928/966.htm",
+      "title": "小鹏汇天飞行汽车再获近 2 亿美元股权融资,高瓴创投、红杉中国等加码",
+      "summary": "IT之家 3 月 13 日消息,小鹏汇天飞行汽车今日宣布,近期完成了近 2 亿美元(IT之家注:现汇率约合 13.76 亿元人民币)的新一轮股权融资,投资机构包括高瓴创投、红杉中国、高榕创投、达晨财智等。其中,高瓴创投和红杉中国在 A 轮融资后继续追加投资。此轮融资后,汇天历史股权融资总额约 10 亿美元(现汇率约合 68.81 亿元人民币),是亚洲载人低空飞行领域融资总额最大的企业。目前,汇天各...",
+      "source": "Ithome",
+      "date": "2026-03-13",
+      "url": "https://www.ithome.com/0/928/966.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/928/951.htm",
+      "title": "奇瑞 iCAR V27 上市:号称最好开的 5 米方盒子,16.98 万-19.68 万元",
+      "summary": "IT之家 3 月 13 日消息,今天晚间,奇瑞 iCAR 首款增程 SUV 车型 V27 正式上市,售价区间 16.98-19.68 万元。若在 5 月 31 日前下定,价值 8000 元的超纤绒皮车顶、价值 4000 元的可选装拖车套装将免费赠送。新车是一款硬派方盒子中大型 SUV,搭载 1.5T 增程系统,号称“最好开的 5 米方盒子”。210km 两驱猎鹰 500:16.98 万元200km...",
+      "source": "Ithome",
+      "date": "2026-03-13",
+      "url": "https://www.ithome.com/0/928/951.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/928/947.htm",
+      "title": "长城新款坦克 300 申报:Hi4-T/Hi4-Z 插混、车身加长、配备激光雷达",
+      "summary": "IT之家 3 月 13 日消息,在问世至今逾 5 年后,长城汽车新款坦克 300 今晚现身第 405 批《道路机动车辆生产企业及产品公告》新产品公示。相比现款车型长宽高 4750/1930/1903mm、轴距 2750mm,新车尺寸升级到了 4886/1984/1927mm、轴距 3010mm。从外观来看,该车呈现出长车头姿态,更具硬核气息。值得一提的是,新车配备了激光雷达,预计将强化智能辅助驾驶...",
+      "source": "Ithome",
+      "date": "2026-03-13",
+      "url": "https://www.ithome.com/0/928/947.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/928/943.htm",
+      "title": "比亚迪方程豹钛 3 闪充版上市:续航 565KM/620KM,15.38 万元起",
+      "summary": "IT之家 3 月 13 日消息,比亚迪方程豹钛 3 闪充版今晚上市,提供 620KM 后驱闪充版、565KM 四驱闪充版,显著提升车主补能体验,售价 15.38 万元起。IT之家从发布会获悉,这款新车全系标配比亚迪闪充技术、智能 EVO+ 平台、云辇-C+ 主动预瞄、AI 智能座舱、天神之眼辅助驾驶系统、钛 7 同款智慧生态、智能防晕车、前排座椅通风加热、方向盘加热、前排双层隔音玻璃 & 后排隐私...",
+      "source": "Ithome",
+      "date": "2026-03-13",
+      "url": "https://www.ithome.com/0/928/943.htm"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/weride-inc-announces-results-of-extraordinary-general-meeting-class-a-meeting-and-class-b-meeting/2299587",
+      "title": "WeRide Inc. Announces Results of Extraordinary General Meeting, Class A Meeting and Class B Meeting",
+      "summary": "NEW YORK, March 13, 2026 (GLOBE NEWSWIRE) -- WeRide Inc. ('WeRide” or the 'Company”) (Nasdaq: WRD; HKEx: 0800), a global leader in autonomous driving technology, today announced that each of the propo...",
+      "source": "The Manila Times",
+      "date": "2026-03-13",
+      "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/weride-inc-announces-results-of-extraordinary-general-meeting-class-a-meeting-and-class-b-meeting/2299587"
+    },
+    {
+      "id": "https://www.reuters.com/business/uber-motional-launch-commercial-robotaxi-service-las-vegas-2026-03-13/",
+      "title": "Uber and Motional launch commercial robotaxi service in Las Vegas",
+      "summary": "Uber and Hyundai Motor-backed autonomous vehicle firm Motional launched a commercial robotaxi service in Las Vegas on Friday, the latest ​in a string of similar tie-ups as the ride-hailing platform ‌d...",
+      "source": "Reuters",
+      "date": "2026-03-13",
+      "url": "https://www.reuters.com/business/uber-motional-launch-commercial-robotaxi-service-las-vegas-2026-03-13/"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/13/tmt-newswire/pr-newswire/ponyai-expands-robotaxi-access-with-integration-into-tencent-mobility-service/2299373",
+      "title": "Pony.ai Expands Robotaxi Access with Integration into Tencent Mobility Service",
+      "summary": "GUANGZHOU, China, March 13, 2026 /PRNewswire/ -- Pony.ai, a global leader in the large-scale commercialization of autonomous driving technology, today announced expanded access to its robotaxi ride-ha...",
+      "source": "The Manila Times",
+      "date": "2026-03-13",
+      "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/pr-newswire/ponyai-expands-robotaxi-access-with-integration-into-tencent-mobility-service/2299373"
     },
     {
       "id": "https://www.mercurynews.com/2026/03/12/us-self-driving-startup-nuro-begins-testing-in-tokyo/",
@@ -202,68 +258,12 @@
       "url": "https://japantoday.com/category/tech/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britain's-wayve"
     },
     {
-      "id": "https://www.japantimes.co.jp/business/2026/03/12/companies/nuro-self-driving-tokyo/",
-      "title": "U.S. self-driving startup Nuro begins testing in Tokyo",
-      "summary": "While Tokyo is becoming a test bed for the world’s leading robotaxi ventures, Japan is lagging when it comes to regulatory framework for autonomous vehicles....",
-      "source": "The Japan Times ",
-      "date": "2026-03-12",
-      "url": "https://www.japantimes.co.jp/business/2026/03/12/companies/nuro-self-driving-tokyo/"
-    },
-    {
       "id": "https://www.benzinga.com/news/legal/26/03/51205116/tesla-hit-with-1-million-fsd-lawsuit-in-texas-owner-blames-aggressive-and-irresponsible-salesman-elon-musk-report",
       "title": "Tesla Hit With $1 Million FSD Lawsuit In Texas, Owner Blames 'Aggressive And Irresponsible Salesman' Elon Musk: Report",
       "summary": "$1 million lawsuit filed against Tesla by Cybertruck owner questions Elon Musk's leadership of the EV giant....",
       "source": "Benzinga",
       "date": "2026-03-12",
       "url": "https://www.benzinga.com/news/legal/26/03/51205116/tesla-hit-with-1-million-fsd-lawsuit-in-texas-owner-blames-aggressive-and-irresponsible-salesman-elon-musk-report"
-    },
-    {
-      "id": "https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/",
-      "title": "Nuro is testing its autonomous vehicle tech on Tokyo's streets",
-      "summary": "Nuro began testing its self-driving software on public roads in Tokyo, marking the first international expansion for the AV startup....",
-      "source": "TechCrunch",
-      "date": "2026-03-11",
-      "url": "https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/"
-    },
-    {
-      "id": "https://www.reuters.com/world/asia-pacific/nuros-self-driving-car-tech-hits-tokyo-streets-first-international-deployment-2026-03-11/",
-      "title": "Nuro's self-driving car tech hits Tokyo streets in first international deployment",
-      "summary": "U.S.-based startup Nuro said on Wednesday its self-driving vehicles are now operating on public roads in ​Tokyo with safety operators present, marking the company's ‌first international autonomous dep...",
-      "source": "Reuters",
-      "date": "2026-03-11",
-      "url": "https://www.reuters.com/world/asia-pacific/nuros-self-driving-car-tech-hits-tokyo-streets-first-international-deployment-2026-03-11/"
-    },
-    {
-      "id": "https://gizmodo.com/cybertruck-owner-sues-tesla-over-fsd-claims-keeping-elon-musk-as-ceo-was-negligent-2000732607",
-      "title": "Cybertruck Owner Sues Tesla Over FSD, Claims Keeping Elon Musk as CEO Was Negligent",
-      "summary": "The owner says their vehicle crashed after it allegedly tried to drive off an overpass while in Full Self-Driving mode....",
-      "source": "Gizmodo",
-      "date": "2026-03-11",
-      "url": "https://gizmodo.com/cybertruck-owner-sues-tesla-over-fsd-claims-keeping-elon-musk-as-ceo-was-negligent-2000732607"
-    },
-    {
-      "id": "https://seekingalpha.com/article/4880574-my-playbook-on-trading-tesla-as-the-market-stops-rewarding-story-stocks",
-      "title": "My Playbook On Trading Tesla As The Market Stops Rewarding Story Stocks (NASDAQ:TSLA)",
-      "summary": "Tesla (TSLA) downgraded to Hold as it tests the 200-day moving average amid robotaxi, FSD and Optimus delays—see key catalysts like Cybercab production and......",
-      "source": "Seeking Alpha",
-      "date": "2026-03-10",
-      "url": "https://seekingalpha.com/article/4880574-my-playbook-on-trading-tesla-as-the-market-stops-rewarding-story-stocks"
-    },
-    {
-      "id": "https://seekingalpha.com/article/4880111-tesla-how-much-longer-can-you-hide-weakness",
-      "title": "Tesla: How Much Longer Can You Hide Weakness",
-      "summary": "Tesla, Inc. short thesis: hype-driven capex, Model S/X cuts, big bets on Optimus, xAI & FSD with unclear returns. Click for this TSLA update....",
-      "source": "Seeking Alpha",
-      "date": "2026-03-09",
-      "url": "https://seekingalpha.com/article/4880111-tesla-how-much-longer-can-you-hide-weakness"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933",
-      "title": "Tesla Model Y Completes Huge FSD Run Without Intervention, Tesla Stock (NASDAQ:TSLA) Surges",
-      "summary": "Finally, a day in which the news about a company matches what happens in its stock price. Those who were concerned about just how well electric ......",
-      "source": "Markets Insider",
-      "date": "2026-03-04",
-      "url": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933"
     }
   ]
 }
