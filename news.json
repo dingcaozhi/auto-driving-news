@@ -1,11 +1,13 @@
 {
-  "lastUpdated": "2026-03-15 03:19:58",
-  "totalCount": 34,
+  "lastUpdated": "2026-03-16 03:22:22",
+  "totalCount": 32,
   "sources": {
-    "News_Baidu": 12,
-    "Chinanews": 2,
-    "News_Seehua": 1,
     "Imobile": 1,
+    "Theportugalnews": 1,
+    "News_Baidu": 8,
+    "Fx168News": 1,
+    "Chinanews": 2,
+    "Ithome": 1,
     "The Manila Times": 2,
     "Reuters": 1,
     "The Mercury News": 1,
@@ -24,132 +26,116 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859647776821009092",
-      "title": "F1中国大奖赛:安东内利成史上最年轻杆位得主",
-      "summary": "新华社上海3月14日电(记者胡洁菲、董意行)世界一级方程式赛车锦标赛(F1)中国大奖赛14日在上海国际赛车场展开冲刺赛和正赛排位赛争夺,梅赛德斯车手拉塞尔以领先第二名0.6秒的优势获得冲刺赛冠军。在正...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859647776821009092"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859647778179736137",
-      "title": "西部首单背后的“文化+”裂变:两大未来产业数据资产..",
-      "summary": "3月13日,成都市两大数据产品在成都文化产权交易所完成挂牌交易。这不仅是一则简单的交易快讯,更是西部地区在车路协同、具身智能两个未来产业领域,以及成都文交所作为全省唯一持牌机构在文化大数据交易赛道上的...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859647778179736137"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/03-14/10586959.shtml",
-      "title": "两会受权发布丨关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告",
-      "summary": "新华社北京3月14日电...",
-      "source": "Chinanews",
-      "date": "2026-03-14",
-      "url": "https://www.chinanews.com.cn/gn/2026/03-14/10586959.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859620946141882452",
-      "title": "宁夏西吉县总工会为新就业群体送“禁毒锦囊”",
-      "summary": "近日,宁夏回族自治区固原市西吉县总工会深入基层一线,面向大货车司机、快递员等新就业形态劳动者,开展了一场“点对点,面对面”的精准禁毒宣传活动,用实际行动为他们构筑一道坚实的“无毒保护伞”,传递工会组织...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859620946141882452"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859434332470112454",
-      "title": "IXDI|高可靠性WWM/RXM绕线贴片电阻如何成..",
-      "summary": "2026年初的电子产业正经历一场结构性剧变。AI服务器、机器人及自动驾驶汽车等“实体AI”应用的落地,引爆了对高端、高可靠性元器件的狂热需求。与此同时,消费电子领域需求疲软,而国际金属原料价格屡创新高...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859434332470112454"
-    },
-    {
-      "id": "https://news.seehua.com/post/1454058",
-      "title": "企图偷电缆未遂 怡警追缉开四驱车嫌犯",
-      "summary": "(怡保14日讯)怡保警方正积极追缉涉嫌于清晨时分,出动四轮驱口动车,企图盗窃电缆的嫌犯。 怡保警区主任莫哈末纳 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-03-14",
-      "url": "https://news.seehua.com/post/1454058"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859616829127172931",
-      "title": "时刻“亮光”护平安 筑牢“车辆”安全防线——济南市..",
-      "summary": "鲁网3月14日讯为切实加强农村道路交通安全管理,有效防范和化解三轮车出行安全风险,近日,济南市莱芜区方下街道道路岗的工作人员扛起“三见面一建档”的大旗,深入辖区各村,为三轮车免费粘贴反光标识,通过常态...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859616829127172931"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859639574149724188",
-      "title": "远见·AI“临界” 野心优雅丨机器人产业起舞:“硅..",
-      "summary": "本期话题:今年两会上,《政府工作报告》首次提出“打造智能经济新形态”,并明确培育具身智能、脑机接口等未来产业。机器人舞台“破圈”背后,是产业“破局”。2025年,中国“具身智能+机器人”领域融资总额7...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859639574149724188"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859636897596152857",
-      "title": "在上海,把通向机遇的成本降下来",
-      "summary": "投资上海就是投资机遇,投资未来。3月14日,上海全球投资促进大会现场“投资上海会客厅”里,项目洽谈、融资服务、投资路演、政策咨询、要素平台五大专区同时打开。和各区交流,约见投资机构实操人、创新创业合伙...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859636897596152857"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859593980486078224",
-      "title": "大众交通:目前公司与百度萝卜快跑在浦东新区开展自动..",
-      "summary": "证券日报网讯3月13日,大众交通在互动平台回答投资者提问时表示,目前公司与百度萝卜快跑在浦东新区开展自动驾驶出租车示范运营,现有5辆主驾无人Robotaxi投入示范运行。2026年,公司将持...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859593980486078224"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859542810810188648",
-      "title": "莹观天下|“90后”前说唱歌手,有望成为尼泊尔最年..",
-      "summary": "齐鲁晚报·齐鲁壹点记者王晓莹3月12日,尼泊尔公布众议院选举计票结果,由“90后”政客巴伦德拉·沙阿领导的民族独立党在165个直选席位中赢得125席,“断崖式”领先排名第二的尼泊尔大会党。经历去年9月...",
-      "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859542810810188648"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0314/233774.shtml",
-      "title": "华为Mate 80系列亮相AWE 2026 从春晚舞台到展会再展旗舰实力",
-      "summary": "3月12日至15日,AWE 2026在上海举行,本届展会以“AI科技、慧享未来”为主题。作为全球三大家电及消费电子展之一,今年共吸引约1200家企业参展。而华为作为消费电子领军企业,在现场展示了多项最新技术成果。更让人惊喜的是,14日,华为终端BG董事长余承东与央视主持人尼格买提在华为展区进行直播互动,围绕着以华为Mate 80系列为代表的华为全场景产品,进行了现场演示与交流。此次也并非华为与尼格...",
+      "id": "http://news.imobile.com.cn/articles/2026/0315/233775.shtml",
+      "title": "最值得买的A级纯电精品车 方程豹钛3闪充版上市15万起",
+      "summary": "3月13日,方程豹钛3闪充版正式上市,推出620KM后驱闪充版、565KM四驱闪充版2个配置版本,售价15.38万-16.98万。备受期待的钛7EV闪充版也同步开启预订,价格区间为22万-25万。方程豹钛系列也将成为比亚迪闪充的首个量产车型,并率先开启交付。作为首创A级带闪充的方盒子车型,凭借越级科技、越级空间、越级配置,钛3闪充版成为同级科技含量最高、同级潮流体验最强的必买精品车、2026年最值...",
       "source": "Imobile",
-      "date": "2026-03-14",
-      "url": "http://news.imobile.com.cn/articles/2026/0314/233774.shtml"
+      "date": "2026-03-15",
+      "url": "http://news.imobile.com.cn/articles/2026/0315/233775.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859633036829616214",
-      "title": "AI不止于技术!杨浦联手火山引擎,打造政企协同AI..",
-      "summary": "3月16日,“创新开放·机遇杨浦”应用场景对接大会将在杨浦区复兴岛举办。在日前举行的新闻通气会上,记者获悉,本次大会将围绕ai赋能产业发展、深化杨浦区域合作等内容展开。火山引擎也将亮相大会,展现政企携手推动ai从技术愿景...",
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-03-15/the-road-to-the-algarve-is-paved-with-wonderment/990350",
+      "title": "通往阿尔加维的道路充满惊奇",
+      "summary": "从英国到阿尔加维的公路旅行是一次充满迷人风景、多元文化和难忘经历的探险。...",
+      "source": "Theportugalnews",
+      "date": "2026-03-15",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-03-15/the-road-to-the-algarve-is-paved-with-wonderment/990350"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859734502703698718",
+      "title": "争分夺秒为生命护航 安康高速交警紧急救助突发心梗驾..",
+      "summary": "三秦都市报—秦闻讯(通讯员陈利国)3月13日,一场与时间赛跑的紧急救援在十天高速公路安康段上演,安康市公安局交管支队高速公路安十执勤大队民警快速反应、果断处置,成功救助一名突发心梗的驾驶员,用实际行动...",
       "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859633036829616214"
+      "date": "2026-03-15",
+      "url": "http://baijiahao.baidu.com/s?id=1859734502703698718"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/03-14/10586831.shtml",
-      "title": "北京举办春季大型招聘会 人才市场供需两旺",
-      "summary": "中新网北京3月14日电 (记者 吕少威)由北京市人力资源和社会保障局联合多部门举办的2026年北京春季大型招聘会暨职引未来——全国城市巡回招聘北京站活动14日在中国国际展览中心举行,480余家知名企业携数万个优质岗位亮相。这是北京市落实全国“两会”精神举办的全年首场大型招聘会,紧扣首都科技创新中心定位,集中发布五大就业成果,精心打造五大特色专区,实现“体验—培训—求职—上岗”全链条精准对接,现场人...",
+      "id": "https://www.fx168news.com/article/1003822",
+      "title": "涉规避监管、违规上牌,3·15晚会点名哈啰租电动车!哈啰集团已入主A股上市公司永安行-FX168",
+      "summary": "3月15日晚,央视第36届“3·15”晚会如期播出,本次晚会聚焦“放心消费 品质生活”主题,重点关注公共安全等领域侵害消费者权益的违法行为。其中,电动自行车租赁行业乱象被重点曝光,行业头部品牌哈啰租电动车因涉嫌违反电动自行车新国标、规避监管等问题被点名。...",
+      "source": "Fx168News",
+      "date": "2026-03-15",
+      "url": "https://www.fx168news.com/article/1003822"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859516792712062504",
+      "title": "锚定“十五五”新蓝图 筑牢时空信息“中国芯”",
+      "summary": "2026年,是“十四五”圆满收官与“十五五”扬帆起航的历史交汇点。今年的全国两会,不仅系统总结了过去五年的发展成就,更对未来五年国家战略布局进行了前瞻性谋划。在充分吸收两会代表围绕卫星导航规模应用、低...",
+      "source": "News_Baidu",
+      "date": "2026-03-15",
+      "url": "http://baijiahao.baidu.com/s?id=1859516792712062504"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859726422310425933",
+      "title": "专访F1分站冠军基米·安东内利:19岁银箭新核,以..",
+      "summary": "中经记者张硕上海报道基米·安东内利接受《中国经营报》等媒体专访“特别激动,这一刻无与伦比。”2026年3月15日,19岁的意大利车手基米·安东内利在上海国际赛车场实现 PoleToWin 夺得职业生涯...",
+      "source": "News_Baidu",
+      "date": "2026-03-15",
+      "url": "http://baijiahao.baidu.com/s?id=1859726422310425933"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859729886824608332",
+      "title": "AI走进了体育场,然后呢?",
+      "summary": "新华社北京3月15日电(记者肖世尧)今夏的美加墨世界杯,AI战术分析师将帮助各队制定战术;F1赛场边,车迷能通过虚拟现实操控台过一把车手瘾;哈尔滨社区冰场上,智能温控服为孩子们延长训练时长......在不同场...",
+      "source": "News_Baidu",
+      "date": "2026-03-15",
+      "url": "http://baijiahao.baidu.com/s?id=1859729886824608332"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859726484592437778",
+      "title": "上海是创造神奇福地!19岁安东内利迎来职业生涯首冠..",
+      "summary": "3月15日,2026FORMULA1喜力中国大奖赛在上海国际赛车场落下大幕:经过激烈的缠斗,梅赛德斯车队的小将基米安东内利拿下个人职业生涯首个分站冠军。19岁零202天的安东内利,不仅是F1历史上最...",
+      "source": "News_Baidu",
+      "date": "2026-03-15",
+      "url": "http://baijiahao.baidu.com/s?id=1859726484592437778"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/03-15/10587214.shtml",
+      "title": "探访智能中药煎煮现场:看一帖汤药的千年嬗变",
+      "summary": "中新网绍兴3月15日电(张煜欢)在位于浙江绍兴柯桥的浙江省中医院智慧中药部中药煎制中心,进入其中,除了淡淡的药香,更有一种扑面而来的现代科技感。没有传统药房里老药工挥汗如雨的身影,这里只有一排排不锈钢煎锅整齐列队,在智能系统的指挥下,精准有序地完成着浸泡、煎煮、兑合的全过程。...",
       "source": "Chinanews",
-      "date": "2026-03-14",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-14/10586831.shtml"
+      "date": "2026-03-15",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-15/10587214.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859634122364590666",
-      "title": "蘑菇车联“琴澳医线”自动驾驶巴士今日正式开启运营",
-      "summary": "3月14日,横琴粤澳深度合作区迎来重要时刻,“琴澳医线”自动驾驶巴士服务正式开启运营。该专线由蘑菇车联(MOGOX)、autonoma提供核心技术与车辆运营支持,是国内第一条服务于跨境就医场景的自动驾...",
+      "id": "http://baijiahao.baidu.com/s?id=1859700686084812410",
+      "title": "002709,突然火了!新增产能即将投产,超百家机..",
+      "summary": "本周(3月9日—3月13日)共有82家A股上市公司披露机构调研纪要。从赚钱效应来看,超四成机构调研股实现正收益,其中大金重工本周实现2连板,累计涨幅23.72%;天赐材料涨16.40%;蓝帆医药实现首...",
       "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859634122364590666"
+      "date": "2026-03-15",
+      "url": "http://baijiahao.baidu.com/s?id=1859700686084812410"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859626956114013793",
-      "title": "在崇尚超车的F1世界里,这几辆车居然没人敢超?!",
-      "summary": "梅兰德驾驶安全车登场 李铭珅 摄“我们想看到精彩的超车!”走在人头攒动的上海国际赛车场商贸区,经常能听到全球车迷对F1中国大奖赛的期望。几天的比赛中,众车手也没让观众失望,不论是排位赛还是冲刺赛,精彩的超车场面不在少数,...",
+      "id": "http://baijiahao.baidu.com/s?id=1859696408854244592",
+      "title": "二十一年“钉”在路口,她把平安种进心坎——记“齐鲁..",
+      "summary": "人物素描在山东滨州的大小路口,董爱荣“钉”了21年。路面是她的“主战场”,她用坚如磐石的守护,在川流不息中为平安站岗;路面也是她的“连心桥”,她用春风化雨的细腻,在每一次执法宣讲中传递法治的温度。从晨...",
       "source": "News_Baidu",
-      "date": "2026-03-14",
-      "url": "http://baijiahao.baidu.com/s?id=1859626956114013793"
+      "date": "2026-03-15",
+      "url": "http://baijiahao.baidu.com/s?id=1859696408854244592"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859720510358401324",
+      "title": "“复绿”与“向新”:一座资源枯竭型城市的再生",
+      "summary": "新华社南昌3月15日电题:“复绿”与“向新”:一座资源枯竭型城市的再生新华社记者张东阳在江西鑫通机械制造有限公司的智能化厂房内,机械臂精准挥舞,20多套智能设备有序运转,将钢板加工、部件焊接等工序一气...",
+      "source": "News_Baidu",
+      "date": "2026-03-15",
+      "url": "http://baijiahao.baidu.com/s?id=1859720510358401324"
+    },
+    {
+      "id": "https://www.ithome.com/0/929/290.htm",
+      "title": "小米新一代 SU7“靛石绿”实车进店,本月见",
+      "summary": "IT之家 3 月 15 日消息,小米汽车今日宣布新一代 SU7“靛石绿”实车现已进店,将于本月正式亮相。目前,新一代 SU7 的 9 款车色已全部公布,包括卡布里蓝、赤霞红、靛石绿、流金粉、霞光紫、璀璨洋红、雅灰、珍珠白、曜石黑。据小米创办人、董事长兼 CEO 雷军介绍:“这款车漆,层次特别丰富,高级而不张扬。光线暗时,呈现深邃的炭黑色,光线掠过漆面时,又折射出璀璨的光芒,仿佛光线在暗绿矿脉间游走...",
+      "source": "Ithome",
+      "date": "2026-03-15",
+      "url": "https://www.ithome.com/0/929/290.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/03-15/10587143.shtml",
+      "title": "AI何以赋能千行百业?探访浙江金华的“最强大脑”",
+      "summary": "中新网金华3月15日电 题:AI何以赋能千行百业?探访浙江金华的“最强大脑”...",
+      "source": "Chinanews",
+      "date": "2026-03-15",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-15/10587143.shtml"
     },
     {
       "id": "https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/weride-inc-announces-results-of-extraordinary-general-meeting-class-a-meeting-and-class-b-meeting/2299587",
@@ -262,6 +248,22 @@
       "source": "Interesting Engineering",
       "date": "2026-03-02",
       "url": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone"
+    },
+    {
+      "id": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/",
+      "title": "Musk Says Tesla FSD, Cybercab, Optimus Coming To Europe",
+      "summary": "Tesla's FSD platform could approved as soon as next month in Holland. Elon Musk said Optimus and Cybercab to be built at German factory....",
+      "source": "Investor's Business Daily",
+      "date": "2026-02-27",
+      "url": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/"
+    },
+    {
+      "id": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html",
+      "title": "Elon Interviewed At GigaBerlin- With News on FSD March 20 Netherlands, Cybercab, Optimus",
+      "summary": "Elon drops the big things on FSD, cybercab and optimus, battery and cybercab factory in Europe. If authorities cooperate, Tesla would make Gigaberlin the...",
+      "source": "NextBigFuture.com",
+      "date": "2026-02-27",
+      "url": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html"
     }
   ]
 }
