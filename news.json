@@ -1,13 +1,15 @@
 {
-  "lastUpdated": "2026-03-16 03:22:22",
-  "totalCount": 32,
+  "lastUpdated": "2026-03-17 02:45:27",
+  "totalCount": 39,
   "sources": {
+    "Bilibili": 5,
+    "News_Baidu": 7,
+    "Fx168News": 3,
     "Imobile": 1,
-    "Theportugalnews": 1,
-    "News_Baidu": 8,
-    "Fx168News": 1,
-    "Chinanews": 2,
-    "Ithome": 1,
+    "Chinanews": 1,
+    "News_Seehua": 1,
+    "Ithome": 3,
+    "Finbold": 1,
     "The Manila Times": 2,
     "Reuters": 1,
     "The Mercury News": 1,
@@ -21,121 +23,184 @@
     "Markets Insider": 1,
     "Interesting Engineering": 1,
     "Investor's Business Daily": 1,
-    "NextBigFuture.com": 1,
-    "MarketScreener": 1
+    "NextBigFuture.com": 1
   },
   "news": [
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0315/233775.shtml",
-      "title": "最值得买的A级纯电精品车 方程豹钛3闪充版上市15万起",
-      "summary": "3月13日,方程豹钛3闪充版正式上市,推出620KM后驱闪充版、565KM四驱闪充版2个配置版本,售价15.38万-16.98万。备受期待的钛7EV闪充版也同步开启预订,价格区间为22万-25万。方程豹钛系列也将成为比亚迪闪充的首个量产车型,并率先开启交付。作为首创A级带闪充的方盒子车型,凭借越级科技、越级空间、越级配置,钛3闪充版成为同级科技含量最高、同级潮流体验最强的必买精品车、2026年最值...",
-      "source": "Imobile",
-      "date": "2026-03-15",
-      "url": "http://news.imobile.com.cn/articles/2026/0315/233775.shtml"
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-03-17",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-03-15/the-road-to-the-algarve-is-paved-with-wonderment/990350",
-      "title": "通往阿尔加维的道路充满惊奇",
-      "summary": "从英国到阿尔加维的公路旅行是一次充满迷人风景、多元文化和难忘经历的探险。...",
-      "source": "Theportugalnews",
-      "date": "2026-03-15",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-03-15/the-road-to-the-algarve-is-paved-with-wonderment/990350"
+      "id": "https://www.bilibili.com/video/BV1KywNz1EJT",
+      "title": "【B站】“智驾”免责条款！出了事故是我全责吗？深扒L3自动驾驶新规",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-03-17",
+      "url": "https://www.bilibili.com/video/BV1KywNz1EJT"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859734502703698718",
-      "title": "争分夺秒为生命护航 安康高速交警紧急救助突发心梗驾..",
-      "summary": "三秦都市报—秦闻讯(通讯员陈利国)3月13日,一场与时间赛跑的紧急救援在十天高速公路安康段上演,安康市公安局交管支队高速公路安十执勤大队民警快速反应、果断处置,成功救助一名突发心梗的驾驶员,用实际行动...",
+      "id": "https://www.bilibili.com/video/BV1tnw7zSEA6",
+      "title": "【B站】L2和L3目前有啥区别？华为L3级辅助驾驶一镜到底对比实测",
+      "summary": "真正的自动驾驶来了？我们抢先在岚图泰山Ultra上在测试道路上体验了L3，同时还在武汉试了一下华为ADS Max V4.1.2，两段过程都一镜到底放出来给大家，来看看鸿蒙智行L3与目前的L2到底有哪些区别。...",
+      "source": "Bilibili",
+      "date": "2026-03-17",
+      "url": "https://www.bilibili.com/video/BV1tnw7zSEA6"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1wbwLziEYP",
+      "title": "【B站】自动驾驶之世界模型论文解读 | VGGT-World 解读",
+      "summary": "还在用烧钱又“几何失真”的视频生成模型做世界预测？自动驾驶、机器人规划对未来的想象，难道只能依赖“看起来像”但“结构错乱”的像素？今天，一篇颠覆性论文给出了新答案：**跳过视频生成，直接预测几何特征的未来**。读完本文，你将掌握如何用 **0.43B** 可训练参数，实现比主流视频世界模型快 **3...",
+      "source": "Bilibili",
+      "date": "2026-03-17",
+      "url": "https://www.bilibili.com/video/BV1wbwLziEYP"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1vHwjzFE2w",
+      "title": "【B站】智驾三大路线厮杀！端到端/VLA/世界模型谁才是未来自动驾驶的最终赢家？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-03-17",
+      "url": "https://www.bilibili.com/video/BV1vHwjzFE2w"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859821788078933806",
+      "title": "新气象丨中国船:劈波斩浪 向海图强",
+      "summary": "重要论述※高端制造是经济高质量发展的重要支撑。推动我国制造业转型升级,建设制造强国,必须加强技术研发,提高国产化替代率,把科技的命脉掌握在自己手中,国家才能真正强大起来。※深入实施制造业重大技术改造升...",
       "source": "News_Baidu",
-      "date": "2026-03-15",
-      "url": "http://baijiahao.baidu.com/s?id=1859734502703698718"
+      "date": "2026-03-16",
+      "url": "http://baijiahao.baidu.com/s?id=1859821788078933806"
     },
     {
-      "id": "https://www.fx168news.com/article/1003822",
-      "title": "涉规避监管、违规上牌,3·15晚会点名哈啰租电动车!哈啰集团已入主A股上市公司永安行-FX168",
-      "summary": "3月15日晚,央视第36届“3·15”晚会如期播出,本次晚会聚焦“放心消费 品质生活”主题,重点关注公共安全等领域侵害消费者权益的违法行为。其中,电动自行车租赁行业乱象被重点曝光,行业头部品牌哈啰租电动车因涉嫌违反电动自行车新国标、规避监管等问题被点名。...",
+      "id": "http://baijiahao.baidu.com/s?id=1859612042532699272",
+      "title": "F1新规下,勒克莱尔期待马年行大运",
+      "summary": "日前法拉利车队社媒发布的一段视频颇为吸睛,视频中勒克莱尔与汉密尔顿两位车手尝试用筷子夹乒乓球的...",
+      "source": "News_Baidu",
+      "date": "2026-03-16",
+      "url": "http://baijiahao.baidu.com/s?id=1859612042532699272"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1004367",
+      "title": "第十届阿里巴巴公益榜揭晓 十年来走出蚂蚁森林、“团圆”系统、轮椅导航等明星项目-FX168",
+      "summary": "3月16日,2026第十届阿里巴巴公益榜在杭州揭晓。鹰眼守护、橙意计划、菜鸟驿站助残等十个项目获奖。阿里巴巴也公布最新数据,自2015年“人人3小时”公益推出以来,阿里员工累计贡献5077513个公益志愿时,首次突破500万大关。据了解,举办十届的阿里巴巴公益榜已经成为...",
       "source": "Fx168News",
-      "date": "2026-03-15",
-      "url": "https://www.fx168news.com/article/1003822"
+      "date": "2026-03-16",
+      "url": "https://www.fx168news.com/article/1004367"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859516792712062504",
-      "title": "锚定“十五五”新蓝图 筑牢时空信息“中国芯”",
-      "summary": "2026年,是“十四五”圆满收官与“十五五”扬帆起航的历史交汇点。今年的全国两会,不仅系统总结了过去五年的发展成就,更对未来五年国家战略布局进行了前瞻性谋划。在充分吸收两会代表围绕卫星导航规模应用、低...",
+      "id": "http://news.imobile.com.cn/articles/2026/0316/233785.shtml",
+      "title": "37.68万元起售,极氪8X开启预售",
+      "summary": "3月16日,豪华新能源品牌极氪正式推出全新高性能大五座旗舰SUV极氪8X,并同步开启预售,预售价37.68万元起。作为与极氪9X同源打造的旗舰车型,极氪8X搭载SEP浩瀚超级电混、浩瀚AI数字底盘、浩瀚安全盔甲、千里浩瀚G-ASD辅助驾驶系统四大核心能力,以硬核技术实力直面BBA高性能阵营。极氪8X不仅填补了中国品牌在高端性能SUV领域的短板,更重塑了新能源时代豪华高性能旗舰的价值标准。因兼顾顶级...",
+      "source": "Imobile",
+      "date": "2026-03-16",
+      "url": "http://news.imobile.com.cn/articles/2026/0316/233785.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1004357",
+      "title": "零跑:出海神车,真能百万 “领跑” 新势力?-FX168",
+      "summary": "本次财报仍然表现不错,展现出零跑一贯稳健的经营能力...",
+      "source": "Fx168News",
+      "date": "2026-03-16",
+      "url": "https://www.fx168news.com/article/1004357"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1004356",
+      "title": "市场上的半导体相关指数有什么异同?-FX168",
+      "summary": "一、半导体产业链梳理 半导体产业链是现代科技产业的核心支撑,呈现出清晰的上游、中游、下游协同结构,各环节紧密衔接,共同驱动数字经济与智能产业的持续发展。 图1:半导体产业链示意图 资料来源:易方达指数 上游是产业发展的基石,涵盖半导体材料、半导体设备与EDA/IP三大核心领域。半导体材料为芯片制造提供硅片、光刻胶、特种气体等关键原料,半导体设备则是晶圆制造与工艺实现的硬件载体,EDA/IP 作为芯...",
+      "source": "Fx168News",
+      "date": "2026-03-16",
+      "url": "https://www.fx168news.com/article/1004356"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859783967387764878",
+      "title": "车事周评丨“宁王”净利722亿创历史新高,我国加快..",
+      "summary": "01.宁德时代2025年净利722亿宁德时代2025年财报显示,全年营收4237.02亿元,同比增长17.04%;净利润722.01亿元,同比增长42.28%。国家统计局数据显示,2025年汽车行业利...",
       "source": "News_Baidu",
-      "date": "2026-03-15",
-      "url": "http://baijiahao.baidu.com/s?id=1859516792712062504"
+      "date": "2026-03-16",
+      "url": "http://baijiahao.baidu.com/s?id=1859783967387764878"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859726422310425933",
-      "title": "专访F1分站冠军基米·安东内利:19岁银箭新核,以..",
-      "summary": "中经记者张硕上海报道基米·安东内利接受《中国经营报》等媒体专访“特别激动,这一刻无与伦比。”2026年3月15日,19岁的意大利车手基米·安东内利在上海国际赛车场实现 PoleToWin 夺得职业生涯...",
+      "id": "http://baijiahao.baidu.com/s?id=1859823975585102933",
+      "title": "当四成F1观众已是女性,女车手们正加速驶入F1赛场",
+      "summary": "F1近年来在女性中的关注度颇高。最新数据显示,41%的F1观众是女性。与此同时,新晋F1粉丝中女性粉丝占四分之三。有人会说,多亏了F1官方纪录片《极速求生》让那些隐藏在头盔之下的帅气脸庞得到了足够的曝...",
       "source": "News_Baidu",
-      "date": "2026-03-15",
-      "url": "http://baijiahao.baidu.com/s?id=1859726422310425933"
+      "date": "2026-03-16",
+      "url": "http://baijiahao.baidu.com/s?id=1859823975585102933"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859729886824608332",
-      "title": "AI走进了体育场,然后呢?",
-      "summary": "新华社北京3月15日电(记者肖世尧)今夏的美加墨世界杯,AI战术分析师将帮助各队制定战术;F1赛场边,车迷能通过虚拟现实操控台过一把车手瘾;哈尔滨社区冰场上,智能温控服为孩子们延长训练时长......在不同场...",
+      "id": "http://baijiahao.baidu.com/s?id=1859799595041414308",
+      "title": "WINBO渠道招商政策全案发布:以上市公司平台赋能..",
+      "summary": "一、前言:WINBO是谁,为什么选择WINBO?WINBO是东箭科技(300978.SZ)旗下三大汽车户外生活消费者品牌(MANTA,WINBO,STEELCRAFT)之一,作为中国汽车改装领...",
       "source": "News_Baidu",
-      "date": "2026-03-15",
-      "url": "http://baijiahao.baidu.com/s?id=1859729886824608332"
+      "date": "2026-03-16",
+      "url": "http://baijiahao.baidu.com/s?id=1859799595041414308"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859726484592437778",
-      "title": "上海是创造神奇福地!19岁安东内利迎来职业生涯首冠..",
-      "summary": "3月15日,2026FORMULA1喜力中国大奖赛在上海国际赛车场落下大幕:经过激烈的缠斗,梅赛德斯车队的小将基米安东内利拿下个人职业生涯首个分站冠军。19岁零202天的安东内利,不仅是F1历史上最...",
+      "id": "http://baijiahao.baidu.com/s?id=1859824752724738305",
+      "title": "挑战天门山,对决乒乓球,当AI走出虚拟,物理智能的..",
+      "summary": "“过去,AI的突破发生在棋盘(AlphaGo)与语言(ChatGPT)的虚拟边界内;今天,我们要让AI在真实的物理世界完成感官与灵魂的合体。”3月15日举行的HitchOpen世界AI竞速锦标赛...",
       "source": "News_Baidu",
-      "date": "2026-03-15",
-      "url": "http://baijiahao.baidu.com/s?id=1859726484592437778"
+      "date": "2026-03-16",
+      "url": "http://baijiahao.baidu.com/s?id=1859824752724738305"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/03-15/10587214.shtml",
-      "title": "探访智能中药煎煮现场:看一帖汤药的千年嬗变",
-      "summary": "中新网绍兴3月15日电(张煜欢)在位于浙江绍兴柯桥的浙江省中医院智慧中药部中药煎制中心,进入其中,除了淡淡的药香,更有一种扑面而来的现代科技感。没有传统药房里老药工挥汗如雨的身影,这里只有一排排不锈钢煎锅整齐列队,在智能系统的指挥下,精准有序地完成着浸泡、煎煮、兑合的全过程。...",
+      "id": "https://www.chinanews.com.cn/sh/2026/03-16/10587826.shtml",
+      "title": "广州春耕启幕 智慧农机赋能农田提质增效",
+      "summary": "中新网广州3月16日(记者 张璐)春回大地,万物勃发。16日,记者走进广州从化鳌头镇,只见连片农田上空,6台智能植保无人机正忙碌作业。...",
       "source": "Chinanews",
-      "date": "2026-03-15",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-15/10587214.shtml"
+      "date": "2026-03-16",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-16/10587826.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859700686084812410",
-      "title": "002709,突然火了!新增产能即将投产,超百家机..",
-      "summary": "本周(3月9日—3月13日)共有82家A股上市公司披露机构调研纪要。从赚钱效应来看,超四成机构调研股实现正收益,其中大金重工本周实现2连板,累计涨幅23.72%;天赐材料涨16.40%;蓝帆医药实现首...",
+      "id": "http://baijiahao.baidu.com/s?id=1859820805293401309",
+      "title": "大江时评:南昌无人机“擦玻璃”,何以被外交部全球推..",
+      "summary": "一架无人机,扶摇而上,悬停在南昌站的高空,精准喷洒清洁剂,将2000平方米的站房玻璃擦得锃亮。...",
       "source": "News_Baidu",
-      "date": "2026-03-15",
-      "url": "http://baijiahao.baidu.com/s?id=1859700686084812410"
+      "date": "2026-03-16",
+      "url": "http://baijiahao.baidu.com/s?id=1859820805293401309"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859696408854244592",
-      "title": "二十一年“钉”在路口,她把平安种进心坎——记“齐鲁..",
-      "summary": "人物素描在山东滨州的大小路口,董爱荣“钉”了21年。路面是她的“主战场”,她用坚如磐石的守护,在川流不息中为平安站岗;路面也是她的“连心桥”,她用春风化雨的细腻,在每一次执法宣讲中传递法治的温度。从晨...",
-      "source": "News_Baidu",
-      "date": "2026-03-15",
-      "url": "http://baijiahao.baidu.com/s?id=1859696408854244592"
+      "id": "https://news.seehua.com/post/1454895",
+      "title": "以为捡到银行拍卖车便宜货 诗巫男子转账多次才知被骗",
+      "summary": "(诗巫16日讯)男子在社交媒体上购买皮卡,结果被骗走9080令吉。 事主于今年1月初在诗巫格盟央地区住家浏览脸 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-03-16",
+      "url": "https://news.seehua.com/post/1454895"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859720510358401324",
-      "title": "“复绿”与“向新”:一座资源枯竭型城市的再生",
-      "summary": "新华社南昌3月15日电题:“复绿”与“向新”:一座资源枯竭型城市的再生新华社记者张东阳在江西鑫通机械制造有限公司的智能化厂房内,机械臂精准挥舞,20多套智能设备有序运转,将钢板加工、部件焊接等工序一气...",
-      "source": "News_Baidu",
-      "date": "2026-03-15",
-      "url": "http://baijiahao.baidu.com/s?id=1859720510358401324"
-    },
-    {
-      "id": "https://www.ithome.com/0/929/290.htm",
-      "title": "小米新一代 SU7“靛石绿”实车进店,本月见",
-      "summary": "IT之家 3 月 15 日消息,小米汽车今日宣布新一代 SU7“靛石绿”实车现已进店,将于本月正式亮相。目前,新一代 SU7 的 9 款车色已全部公布,包括卡布里蓝、赤霞红、靛石绿、流金粉、霞光紫、璀璨洋红、雅灰、珍珠白、曜石黑。据小米创办人、董事长兼 CEO 雷军介绍:“这款车漆,层次特别丰富,高级而不张扬。光线暗时,呈现深邃的炭黑色,光线掠过漆面时,又折射出璀璨的光芒,仿佛光线在暗绿矿脉间游走...",
+      "id": "https://www.ithome.com/0/929/671.htm",
+      "title": "零跑汽车:2026 年第二季度将推出覆盖全国的城市领航辅助功能",
+      "summary": "IT之家 3 月 16 日消息,零跑汽车今日披露,公司端到端辅助驾驶技术正加速落地。2025 年 6 月,城市通勤领航辅助功能(CNAP)正式上线,并逐步覆盖 B/C 平台车型。2026 年 2 月,城市领航辅助功能在 B/C 平台完成首次推送,覆盖多个核心城市,城区场景下的辅助驾驶体验实现显著跃升。按照规划,2026 年第二季度将推出覆盖全国范围的城市领航辅助功能,达到行业上游水平;预计 202...",
       "source": "Ithome",
-      "date": "2026-03-15",
-      "url": "https://www.ithome.com/0/929/290.htm"
+      "date": "2026-03-16",
+      "url": "https://www.ithome.com/0/929/671.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-15/10587143.shtml",
-      "title": "AI何以赋能千行百业?探访浙江金华的“最强大脑”",
-      "summary": "中新网金华3月15日电 题:AI何以赋能千行百业?探访浙江金华的“最强大脑”...",
-      "source": "Chinanews",
-      "date": "2026-03-15",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-15/10587143.shtml"
+      "id": "https://www.ithome.com/0/929/670.htm",
+      "title": "极氪 8X 旗舰电混 SUV 预售 38 分钟小订破万,37.68 万元起",
+      "summary": "IT之家 3 月 16 日消息,极氪 8X 今晚举办技术发布会,并同时开启预售。新车定位“旗舰电混 SUV ”,预售价 37.68 万元起。根据官方最新数据,该车预售 38 分钟小订破万。据介绍,极氪 8X 采用浩瀚-S 超级电混架构,全栈 900V 高压架构:混动领域首个三电机兆瓦电驱,峰值功率 1030kW,马力超 1400PS;同级最高功率增程发电机,功率 145kW;全球顶尖水平 2.0T...",
+      "source": "Ithome",
+      "date": "2026-03-16",
+      "url": "https://www.ithome.com/0/929/670.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/929/656.htm",
+      "title": "小鹏第二代 VLA 推送节奏公布:3 月 19 日首批,覆盖全新 P7 Ultra 纯电等车型",
+      "summary": "IT之家 3 月 16 日消息,在小鹏汽车今晚的“Ask Me Anything”直播中,小鹏汽车董事长、CEO 何小鹏分享了第二代 VLA 的推送节奏。3 月 19 日开启陆续推送:全新小鹏 P7 Ultra 纯电小鹏 G7 Ultra 纯电小鹏 X9 Ultra | Ultra SE 纯电 / 超级增程4 月份开启陆续推送:2026 款小鹏 P7+ Ultra | Ultra SE2026 款...",
+      "source": "Ithome",
+      "date": "2026-03-16",
+      "url": "https://www.ithome.com/0/929/656.htm"
+    },
+    {
+      "id": "https://finbold.com/wall-street-expert-predicts-80-tesla-stock-crash-in-2026/",
+      "title": "Wall Street expert predicts 80% Tesla stock crash in 2026",
+      "summary": "According to this Wall Street expert, 80% of Tesla stock value hinges on FSD and the EV maker is bound to dissapoint investors....",
+      "source": "Finbold",
+      "date": "2026-03-16",
+      "url": "https://finbold.com/wall-street-expert-predicts-80-tesla-stock-crash-in-2026/"
     },
     {
       "id": "https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/weride-inc-announces-results-of-extraordinary-general-meeting-class-a-meeting-and-class-b-meeting/2299587",
@@ -200,70 +265,6 @@
       "source": "Japan Today",
       "date": "2026-03-12",
       "url": "https://japantoday.com/category/tech/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britain's-wayve"
-    },
-    {
-      "id": "https://www.benzinga.com/news/legal/26/03/51205116/tesla-hit-with-1-million-fsd-lawsuit-in-texas-owner-blames-aggressive-and-irresponsible-salesman-elon-musk-report",
-      "title": "Tesla Hit With $1 Million FSD Lawsuit In Texas, Owner Blames 'Aggressive And Irresponsible Salesman' Elon Musk: Report",
-      "summary": "$1 million lawsuit filed against Tesla by Cybertruck owner questions Elon Musk's leadership of the EV giant....",
-      "source": "Benzinga",
-      "date": "2026-03-12",
-      "url": "https://www.benzinga.com/news/legal/26/03/51205116/tesla-hit-with-1-million-fsd-lawsuit-in-texas-owner-blames-aggressive-and-irresponsible-salesman-elon-musk-report"
-    },
-    {
-      "id": "https://gizmodo.com/cybertruck-owner-sues-tesla-over-fsd-claims-keeping-elon-musk-as-ceo-was-negligent-2000732607",
-      "title": "Cybertruck Owner Sues Tesla Over FSD, Claims Keeping Elon Musk as CEO Was Negligent",
-      "summary": "The owner says their vehicle crashed after it allegedly tried to drive off an overpass while in Full Self-Driving mode....",
-      "source": "Gizmodo",
-      "date": "2026-03-11",
-      "url": "https://gizmodo.com/cybertruck-owner-sues-tesla-over-fsd-claims-keeping-elon-musk-as-ceo-was-negligent-2000732607"
-    },
-    {
-      "id": "https://seekingalpha.com/article/4880574-my-playbook-on-trading-tesla-as-the-market-stops-rewarding-story-stocks",
-      "title": "My Playbook On Trading Tesla As The Market Stops Rewarding Story Stocks (NASDAQ:TSLA)",
-      "summary": "Tesla (TSLA) downgraded to Hold as it tests the 200-day moving average amid robotaxi, FSD and Optimus delays—see key catalysts like Cybercab production and......",
-      "source": "Seeking Alpha",
-      "date": "2026-03-10",
-      "url": "https://seekingalpha.com/article/4880574-my-playbook-on-trading-tesla-as-the-market-stops-rewarding-story-stocks"
-    },
-    {
-      "id": "https://seekingalpha.com/article/4880111-tesla-how-much-longer-can-you-hide-weakness",
-      "title": "Tesla: How Much Longer Can You Hide Weakness",
-      "summary": "Tesla, Inc. short thesis: hype-driven capex, Model S/X cuts, big bets on Optimus, xAI & FSD with unclear returns. Click for this TSLA update....",
-      "source": "Seeking Alpha",
-      "date": "2026-03-09",
-      "url": "https://seekingalpha.com/article/4880111-tesla-how-much-longer-can-you-hide-weakness"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933",
-      "title": "Tesla Model Y Completes Huge FSD Run Without Intervention, Tesla Stock (NASDAQ:TSLA) Surges",
-      "summary": "Finally, a day in which the news about a company matches what happens in its stock price. Those who were concerned about just how well electric ......",
-      "source": "Markets Insider",
-      "date": "2026-03-04",
-      "url": "https://markets.businessinsider.com/news/stocks/tesla-model-y-completes-huge-fsd-run-without-intervention-tesla-stock-nasdaq-tsla-surges-1035897933"
-    },
-    {
-      "id": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone",
-      "title": "Tesla’s Full Self Driving clocks over 8 billion miles cumulatively",
-      "summary": "Tesla's Full Self-Driving (FSD) fleet has cumulatively clocked over 8 billion miles which will be used as training data for its advanced driver assistance system (ADAS)....",
-      "source": "Interesting Engineering",
-      "date": "2026-03-02",
-      "url": "https://interestingengineering.com/transportation/tesla-full-self-driving-reaches-8-billion-milestone"
-    },
-    {
-      "id": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/",
-      "title": "Musk Says Tesla FSD, Cybercab, Optimus Coming To Europe",
-      "summary": "Tesla's FSD platform could approved as soon as next month in Holland. Elon Musk said Optimus and Cybercab to be built at German factory....",
-      "source": "Investor's Business Daily",
-      "date": "2026-02-27",
-      "url": "https://www.investors.com/news/tesla-cybercab-coming-to-europe/"
-    },
-    {
-      "id": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html",
-      "title": "Elon Interviewed At GigaBerlin- With News on FSD March 20 Netherlands, Cybercab, Optimus",
-      "summary": "Elon drops the big things on FSD, cybercab and optimus, battery and cybercab factory in Europe. If authorities cooperate, Tesla would make Gigaberlin the...",
-      "source": "NextBigFuture.com",
-      "date": "2026-02-27",
-      "url": "https://www.nextbigfuture.com/2026/02/elon-interviewed-at-gigaberlin-with-news-on-fsd-march-20-netherlands-cybercab-optimus.html"
     }
   ]
 }
