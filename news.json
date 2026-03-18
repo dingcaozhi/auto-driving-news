@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-03-17 02:45:27",
-  "totalCount": 39,
+  "lastUpdated": "2026-03-18 02:51:45",
+  "totalCount": 40,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 7,
-    "Fx168News": 3,
-    "Imobile": 1,
-    "Chinanews": 1,
-    "News_Seehua": 1,
+    "Investing_Cn": 5,
     "Ithome": 3,
+    "Eeo": 2,
+    "Imobile": 1,
+    "Chinanews": 3,
+    "News_Seehua": 1,
+    "Rfi_Fr": 1,
+    "News_Baidu": 1,
+    "PR Newswire UK": 4,
+    "CNBC": 1,
+    "The New York Times": 1,
+    "MarketScreener": 1,
+    "The Manila Times": 1,
     "Finbold": 1,
-    "The Manila Times": 2,
-    "Reuters": 1,
-    "The Mercury News": 1,
-    "PR Newswire UK": 1,
-    "The Verge": 1,
-    "Engadget": 1,
-    "Japan Today": 1,
     "Benzinga": 2,
     "Gizmodo": 1,
     "Seeking Alpha": 2,
@@ -27,244 +27,244 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-03-17",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1KywNz1EJT",
-      "title": "【B站】“智驾”免责条款！出了事故是我全责吗？深扒L3自动驾驶新规",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-03-17",
-      "url": "https://www.bilibili.com/video/BV1KywNz1EJT"
-    },
-    {
       "id": "https://www.bilibili.com/video/BV1tnw7zSEA6",
       "title": "【B站】L2和L3目前有啥区别？华为L3级辅助驾驶一镜到底对比实测",
       "summary": "真正的自动驾驶来了？我们抢先在岚图泰山Ultra上在测试道路上体验了L3，同时还在武汉试了一下华为ADS Max V4.1.2，两段过程都一镜到底放出来给大家，来看看鸿蒙智行L3与目前的L2到底有哪些区别。...",
       "source": "Bilibili",
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "url": "https://www.bilibili.com/video/BV1tnw7zSEA6"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1wbwLziEYP",
-      "title": "【B站】自动驾驶之世界模型论文解读 | VGGT-World 解读",
-      "summary": "还在用烧钱又“几何失真”的视频生成模型做世界预测？自动驾驶、机器人规划对未来的想象，难道只能依赖“看起来像”但“结构错乱”的像素？今天，一篇颠覆性论文给出了新答案：**跳过视频生成，直接预测几何特征的未来**。读完本文，你将掌握如何用 **0.43B** 可训练参数，实现比主流视频世界模型快 **3...",
+      "id": "https://www.bilibili.com/video/BV148w9zJEyh",
+      "title": "【B站】詹锟GTC2026讲理想下一代自动驾驶基础模型MindVLA-o1(带字幕)",
+      "summary": "https://weixin.qq.com/sph/A0tLaFQhb...",
       "source": "Bilibili",
-      "date": "2026-03-17",
-      "url": "https://www.bilibili.com/video/BV1wbwLziEYP"
+      "date": "2026-03-18",
+      "url": "https://www.bilibili.com/video/BV148w9zJEyh"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1vHwjzFE2w",
-      "title": "【B站】智驾三大路线厮杀！端到端/VLA/世界模型谁才是未来自动驾驶的最终赢家？",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1nTkwByEz8",
+      "title": "【B站】9车横评，辅助驾驶哪家强？",
+      "summary": "横评内容坚持不恰饭！...",
       "source": "Bilibili",
+      "date": "2026-03-18",
+      "url": "https://www.bilibili.com/video/BV1nTkwByEz8"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-03-18",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1kqw9zyESo",
+      "title": "【B站】博世最新D2GS：无需LiDAR的自驾场景重建方案",
+      "summary": "论文标题：D2GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction\n论文链接：https://arxiv.org/abs/2510.25173...",
+      "source": "Bilibili",
+      "date": "2026-03-18",
+      "url": "https://www.bilibili.com/video/BV1kqw9zyESo"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3265895",
+      "title": "美股异动 | 优步(UBER.US)涨逾5% 与英伟达合作计划2027年上线L4级自动驾驶车队",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
       "date": "2026-03-17",
-      "url": "https://www.bilibili.com/video/BV1vHwjzFE2w"
+      "url": "https://cn.investing.com/news/stock-market-news/article-3265895"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859821788078933806",
-      "title": "新气象丨中国船:劈波斩浪 向海图强",
-      "summary": "重要论述※高端制造是经济高质量发展的重要支撑。推动我国制造业转型升级,建设制造强国,必须加强技术研发,提高国产化替代率,把科技的命脉掌握在自己手中,国家才能真正强大起来。※深入实施制造业重大技术改造升...",
-      "source": "News_Baidu",
-      "date": "2026-03-16",
-      "url": "http://baijiahao.baidu.com/s?id=1859821788078933806"
+      "id": "https://www.ithome.com/0/930/029.htm",
+      "title": "滴滴 AI 出行助手“小滴”v1.0 上线,可一句话个性化叫车",
+      "summary": "IT之家 3 月 17 日消息,自从去年 9 月公测以来,滴滴 AI 出行助手小滴 v1.0 版本近期正式上线。目前已经支持空气清新、后备厢大、驾驶平稳等 90 多个服务标签,覆盖扶老携幼、商务接待等更复杂的出行场景。 IT之家附官方详细介绍如下: 你可以直接对小滴说(语音 / 文字都行): 你只需要自然地说出自己的需求或状态,小滴会把它翻译成平台能执行的标签,比如识别到“身体不舒服”“晕车”,它...",
+      "source": "Ithome",
+      "date": "2026-03-17",
+      "url": "https://www.ithome.com/0/930/029.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859612042532699272",
-      "title": "F1新规下,勒克莱尔期待马年行大运",
-      "summary": "日前法拉利车队社媒发布的一段视频颇为吸睛,视频中勒克莱尔与汉密尔顿两位车手尝试用筷子夹乒乓球的...",
-      "source": "News_Baidu",
-      "date": "2026-03-16",
-      "url": "http://baijiahao.baidu.com/s?id=1859612042532699272"
+      "id": "https://www.ithome.com/0/930/027.htm",
+      "title": "日产加入丰田、本田的行列,将美国制造的汽车反向进口至日本",
+      "summary": "IT之家 3 月 17 日消息,日产将把美国制造的 Murano 跨界车运往日本,此举使其与本田一道(丰田也可能加入其中),反向进口方向盘位置与本土市场不符的车型。 日产发言人表示,这款在田纳西州士麦那工厂生产的中型 Murano 将于 2027 年初在日本上市,将成为自上世纪 90 年代以来首款在日本销售的美国产日产车。 日产汽车于 3 月 17 日宣布了这一举措,效仿丰田和本田,利用日本近期放...",
+      "source": "Ithome",
+      "date": "2026-03-17",
+      "url": "https://www.ithome.com/0/930/027.htm"
     },
     {
-      "id": "https://www.fx168news.com/article/1004367",
-      "title": "第十届阿里巴巴公益榜揭晓 十年来走出蚂蚁森林、“团圆”系统、轮椅导航等明星项目-FX168",
-      "summary": "3月16日,2026第十届阿里巴巴公益榜在杭州揭晓。鹰眼守护、橙意计划、菜鸟驿站助残等十个项目获奖。阿里巴巴也公布最新数据,自2015年“人人3小时”公益推出以来,阿里员工累计贡献5077513个公益志愿时,首次突破500万大关。据了解,举办十届的阿里巴巴公益榜已经成为...",
-      "source": "Fx168News",
-      "date": "2026-03-16",
-      "url": "https://www.fx168news.com/article/1004367"
+      "id": "http://www.eeo.com.cn/2026/0317/812277.shtml",
+      "title": "自动驾驶出海,中国方案走向世界 | 封面故事:汽车出海系统升级(六)",
+      "summary": "汽车纵横全媒体 中国汽车企业正迈向出海2.0全新阶段,海外布局日趋多元化,从产品输出逐渐升级为生态共建,初步构建起基于电动化、智能化并覆盖全产业链的科技竞争相对优势,部分企业开始展现出全球品牌潜质的雏形,重塑全球汽车产业格局的综合实力逐渐展现。但要顺应出海2.0的深刻变革,中国汽车品牌全球化叙事能力和抗风险能力有待重构。科技创新依然是中国企业出海打破全球汽车产业既有格局、占据竞......",
+      "source": "Eeo",
+      "date": "2026-03-17",
+      "url": "http://www.eeo.com.cn/2026/0317/812277.shtml"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0316/233785.shtml",
-      "title": "37.68万元起售,极氪8X开启预售",
-      "summary": "3月16日,豪华新能源品牌极氪正式推出全新高性能大五座旗舰SUV极氪8X,并同步开启预售,预售价37.68万元起。作为与极氪9X同源打造的旗舰车型,极氪8X搭载SEP浩瀚超级电混、浩瀚AI数字底盘、浩瀚安全盔甲、千里浩瀚G-ASD辅助驾驶系统四大核心能力,以硬核技术实力直面BBA高性能阵营。极氪8X不仅填补了中国品牌在高端性能SUV领域的短板,更重塑了新能源时代豪华高性能旗舰的价值标准。因兼顾顶级...",
+      "id": "http://www.eeo.com.cn/2026/0317/812276.shtml",
+      "title": "汽车会思考了吗?理想发布MindVLA-o1",
+      "summary": "从传统制造企业向技术公司转型,或成为不少车企的重要战略方向。...",
+      "source": "Eeo",
+      "date": "2026-03-17",
+      "url": "http://www.eeo.com.cn/2026/0317/812276.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3265651",
+      "title": "Eve 2025财年业绩:首次飞行成功但亏损扩大至2.24亿美元",
+      "summary": "Eve 2025财年业绩:首次飞行成功但亏损扩大至2.24亿美元...",
+      "source": "Investing_Cn",
+      "date": "2026-03-17",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3265651"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0317/233808.shtml",
+      "title": "iCAR V27上市16.98万起",
+      "summary": "NewsData报道",
       "source": "Imobile",
-      "date": "2026-03-16",
-      "url": "http://news.imobile.com.cn/articles/2026/0316/233785.shtml"
+      "date": "2026-03-17",
+      "url": "http://news.imobile.com.cn/articles/2026/0317/233808.shtml"
     },
     {
-      "id": "https://www.fx168news.com/article/1004357",
-      "title": "零跑:出海神车,真能百万 “领跑” 新势力?-FX168",
-      "summary": "本次财报仍然表现不错,展现出零跑一贯稳健的经营能力...",
-      "source": "Fx168News",
-      "date": "2026-03-16",
-      "url": "https://www.fx168news.com/article/1004357"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1004356",
-      "title": "市场上的半导体相关指数有什么异同?-FX168",
-      "summary": "一、半导体产业链梳理 半导体产业链是现代科技产业的核心支撑,呈现出清晰的上游、中游、下游协同结构,各环节紧密衔接,共同驱动数字经济与智能产业的持续发展。 图1:半导体产业链示意图 资料来源:易方达指数 上游是产业发展的基石,涵盖半导体材料、半导体设备与EDA/IP三大核心领域。半导体材料为芯片制造提供硅片、光刻胶、特种气体等关键原料,半导体设备则是晶圆制造与工艺实现的硬件载体,EDA/IP 作为芯...",
-      "source": "Fx168News",
-      "date": "2026-03-16",
-      "url": "https://www.fx168news.com/article/1004356"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859783967387764878",
-      "title": "车事周评丨“宁王”净利722亿创历史新高,我国加快..",
-      "summary": "01.宁德时代2025年净利722亿宁德时代2025年财报显示,全年营收4237.02亿元,同比增长17.04%;净利润722.01亿元,同比增长42.28%。国家统计局数据显示,2025年汽车行业利...",
-      "source": "News_Baidu",
-      "date": "2026-03-16",
-      "url": "http://baijiahao.baidu.com/s?id=1859783967387764878"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859823975585102933",
-      "title": "当四成F1观众已是女性,女车手们正加速驶入F1赛场",
-      "summary": "F1近年来在女性中的关注度颇高。最新数据显示,41%的F1观众是女性。与此同时,新晋F1粉丝中女性粉丝占四分之三。有人会说,多亏了F1官方纪录片《极速求生》让那些隐藏在头盔之下的帅气脸庞得到了足够的曝...",
-      "source": "News_Baidu",
-      "date": "2026-03-16",
-      "url": "http://baijiahao.baidu.com/s?id=1859823975585102933"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859799595041414308",
-      "title": "WINBO渠道招商政策全案发布:以上市公司平台赋能..",
-      "summary": "一、前言:WINBO是谁,为什么选择WINBO?WINBO是东箭科技(300978.SZ)旗下三大汽车户外生活消费者品牌(MANTA,WINBO,STEELCRAFT)之一,作为中国汽车改装领...",
-      "source": "News_Baidu",
-      "date": "2026-03-16",
-      "url": "http://baijiahao.baidu.com/s?id=1859799595041414308"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859824752724738305",
-      "title": "挑战天门山,对决乒乓球,当AI走出虚拟,物理智能的..",
-      "summary": "“过去,AI的突破发生在棋盘(AlphaGo)与语言(ChatGPT)的虚拟边界内;今天,我们要让AI在真实的物理世界完成感官与灵魂的合体。”3月15日举行的HitchOpen世界AI竞速锦标赛...",
-      "source": "News_Baidu",
-      "date": "2026-03-16",
-      "url": "http://baijiahao.baidu.com/s?id=1859824752724738305"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/03-16/10587826.shtml",
-      "title": "广州春耕启幕 智慧农机赋能农田提质增效",
-      "summary": "中新网广州3月16日(记者 张璐)春回大地,万物勃发。16日,记者走进广州从化鳌头镇,只见连片农田上空,6台智能植保无人机正忙碌作业。...",
+      "id": "https://www.chinanews.com.cn/sh/2026/03-17/10588358.shtml",
+      "title": "湖南东安春耕“黑科技”上线 育秧效率提升数倍",
+      "summary": "中新网永州3月17日电(唐涛华)连日来,湖南永州市东安县抢抓农时,组织各类农业机械全面投入春耕生产,推动春耕生产提速增效。...",
       "source": "Chinanews",
-      "date": "2026-03-16",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-16/10587826.shtml"
+      "date": "2026-03-17",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-17/10588358.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859820805293401309",
-      "title": "大江时评:南昌无人机“擦玻璃”,何以被外交部全球推..",
-      "summary": "一架无人机,扶摇而上,悬停在南昌站的高空,精准喷洒清洁剂,将2000平方米的站房玻璃擦得锃亮。...",
-      "source": "News_Baidu",
-      "date": "2026-03-16",
-      "url": "http://baijiahao.baidu.com/s?id=1859820805293401309"
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3265470",
+      "title": "KeyBanc在GTC主题演讲后重申Nvidia股票增持评级",
+      "summary": "KeyBanc在GTC主题演讲后重申Nvidia股票增持评级...",
+      "source": "Investing_Cn",
+      "date": "2026-03-17",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3265470"
     },
     {
-      "id": "https://news.seehua.com/post/1454895",
-      "title": "以为捡到银行拍卖车便宜货 诗巫男子转账多次才知被骗",
-      "summary": "(诗巫16日讯)男子在社交媒体上购买皮卡,结果被骗走9080令吉。 事主于今年1月初在诗巫格盟央地区住家浏览脸 [...]...",
+      "id": "https://www.chinanews.com.cn/dxw/2026/03-17/10588309.shtml",
+      "title": "东西问·人物丨安德烈·马尔罗的“中国情结”与文化贡献",
+      "summary": "中新社巴黎3月17日电 题:安德烈·马尔罗的“中国情结”与文化贡献...",
+      "source": "Chinanews",
+      "date": "2026-03-17",
+      "url": "https://www.chinanews.com.cn/dxw/2026/03-17/10588309.shtml"
+    },
+    {
+      "id": "https://news.seehua.com/post/1455391",
+      "title": "“小船需要加入大舰队” 韩沙:不会以独立人士身份上阵大选",
+      "summary": "(吉隆坡17日讯)拉律国会议员拿督斯里韩沙再努丁表示,不会以独立候选人身份参加第16届全国大选,因为即便赢得选 [...]...",
       "source": "News_Seehua",
-      "date": "2026-03-16",
-      "url": "https://news.seehua.com/post/1454895"
+      "date": "2026-03-17",
+      "url": "https://news.seehua.com/post/1455391"
     },
     {
-      "id": "https://www.ithome.com/0/929/671.htm",
-      "title": "零跑汽车:2026 年第二季度将推出覆盖全国的城市领航辅助功能",
-      "summary": "IT之家 3 月 16 日消息,零跑汽车今日披露,公司端到端辅助驾驶技术正加速落地。2025 年 6 月,城市通勤领航辅助功能(CNAP)正式上线,并逐步覆盖 B/C 平台车型。2026 年 2 月,城市领航辅助功能在 B/C 平台完成首次推送,覆盖多个核心城市,城区场景下的辅助驾驶体验实现显著跃升。按照规划,2026 年第二季度将推出覆盖全国范围的城市领航辅助功能,达到行业上游水平;预计 202...",
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260317-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E8%BF%AB%E4%BD%BF%E5%A4%9A%E5%9B%BD%E8%BF%9B%E5%85%A5%E8%83%BD%E6%BA%90-%E7%B4%A7%E6%80%A5%E8%B0%83%E9%85%8D-%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BD%86%E5%8F%88%E8%83%BD%E7%BB%B4%E6%8C%81%E5%A4%9A%E4%B9%85",
+      "title": "伊朗战争迫使多国进入能源“紧急调配”模式,但又能维持多久?",
+      "summary": "周二,油价反弹,加速回升,涨幅超过5%。目前中东战争已进入第三周,油价始终在高位徘徊,而霍尔木兹海峡航运仍然处于瘫痪状态,并且距离通航可谓是“遥遥无期”,这一切都进一步加剧了市场的不确定性。而眼下的困境正迫使多国进入能源“紧急调配”状态,各国政府在削减需求或承担成本之间做出选择,同时优先分配日益紧张的能源。但这些措施能维持多久?又能在多大程度上发挥效用?...",
+      "source": "Rfi_Fr",
+      "date": "2026-03-17",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260317-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E8%BF%AB%E4%BD%BF%E5%A4%9A%E5%9B%BD%E8%BF%9B%E5%85%A5%E8%83%BD%E6%BA%90-%E7%B4%A7%E6%80%A5%E8%B0%83%E9%85%8D-%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BD%86%E5%8F%88%E8%83%BD%E7%BB%B4%E6%8C%81%E5%A4%9A%E4%B9%85"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/03-17/10588298.shtml",
+      "title": "香港赏花团赴鄂深度游 将开拓跨界融合线路",
+      "summary": "中新网武汉3月17日电 (记者 梁婷)由香港专业旅运集团组织的150人定制团,17日结束为期5天的湖北“神武峡·赏花游”深度体验之旅,行程融合了自然风光、文化体验与品质服务。...",
+      "source": "Chinanews",
+      "date": "2026-03-17",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-17/10588298.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/analysis/article-200498295",
+      "title": "零跑:出海神车,真能百万 “领跑” 新势力?",
+      "summary": "市场分析由撰写,涵盖:Stellantis NV。在Investing.com阅读的市场分析。...",
+      "source": "Investing_Cn",
+      "date": "2026-03-17",
+      "url": "https://cn.investing.com/analysis/article-200498295"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859883861608933966",
+      "title": "金牌、奖牌双第一!米兰冬残奥会上,中国选手这些精彩..",
+      "summary": "原标题:米兰冬残奥会中国体育代表团居金牌榜和奖牌榜双第一越磨砺越坚韧越绽放意大利当地时间3月15日,3面五星红旗在泰塞罗越野滑雪体育场同时升起。在米兰冬残奥会越野滑雪男子20公里站姿组比赛中,中国队选...",
+      "source": "News_Baidu",
+      "date": "2026-03-17",
+      "url": "http://baijiahao.baidu.com/s?id=1859883861608933966"
+    },
+    {
+      "id": "https://www.ithome.com/0/930/024.htm",
+      "title": "岚图汽车卢放:泰山虽搭载 L3 级整车架构有足够冗余备份,但驾驶时依然不能手眼脱离",
+      "summary": "IT之家 3 月 17 日消息,在今天的岚图泰山技术焕新发布会上,全新一代 896 线激光雷达旗舰 SUV —— 岚图泰山 Ultra 量产交付,同时岚图泰山黑武士也正式上市,两车均采用华为乾崑智驾四激光方案, 售价 45.99 万元 / 50.99 万元 。 据介绍, 岚图泰山 Ultra / 黑武士是中国首款量产 L3 级 SUV ,搭载华为乾崑全新一代 896 线双光路图像级激光雷达,同时应...",
       "source": "Ithome",
-      "date": "2026-03-16",
-      "url": "https://www.ithome.com/0/929/671.htm"
+      "date": "2026-03-17",
+      "url": "https://www.ithome.com/0/930/024.htm"
     },
     {
-      "id": "https://www.ithome.com/0/929/670.htm",
-      "title": "极氪 8X 旗舰电混 SUV 预售 38 分钟小订破万,37.68 万元起",
-      "summary": "IT之家 3 月 16 日消息,极氪 8X 今晚举办技术发布会,并同时开启预售。新车定位“旗舰电混 SUV ”,预售价 37.68 万元起。根据官方最新数据,该车预售 38 分钟小订破万。据介绍,极氪 8X 采用浩瀚-S 超级电混架构,全栈 900V 高压架构:混动领域首个三电机兆瓦电驱,峰值功率 1030kW,马力超 1400PS;同级最高功率增程发电机,功率 145kW;全球顶尖水平 2.0T...",
-      "source": "Ithome",
-      "date": "2026-03-16",
-      "url": "https://www.ithome.com/0/929/670.htm"
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3265294",
+      "title": "Aeva推出搭载4D激光雷达传感器的交通智能平台",
+      "summary": "Aeva推出搭载4D激光雷达传感器的交通智能平台...",
+      "source": "Investing_Cn",
+      "date": "2026-03-17",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3265294"
     },
     {
-      "id": "https://www.ithome.com/0/929/656.htm",
-      "title": "小鹏第二代 VLA 推送节奏公布:3 月 19 日首批,覆盖全新 P7 Ultra 纯电等车型",
-      "summary": "IT之家 3 月 16 日消息,在小鹏汽车今晚的“Ask Me Anything”直播中,小鹏汽车董事长、CEO 何小鹏分享了第二代 VLA 的推送节奏。3 月 19 日开启陆续推送:全新小鹏 P7 Ultra 纯电小鹏 G7 Ultra 纯电小鹏 X9 Ultra | Ultra SE 纯电 / 超级增程4 月份开启陆续推送:2026 款小鹏 P7+ Ultra | Ultra SE2026 款...",
-      "source": "Ithome",
-      "date": "2026-03-16",
-      "url": "https://www.ithome.com/0/929/656.htm"
-    },
-    {
-      "id": "https://finbold.com/wall-street-expert-predicts-80-tesla-stock-crash-in-2026/",
-      "title": "Wall Street expert predicts 80% Tesla stock crash in 2026",
-      "summary": "According to this Wall Street expert, 80% of Tesla stock value hinges on FSD and the EV maker is bound to dissapoint investors....",
-      "source": "Finbold",
-      "date": "2026-03-16",
-      "url": "https://finbold.com/wall-street-expert-predicts-80-tesla-stock-crash-in-2026/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/weride-inc-announces-results-of-extraordinary-general-meeting-class-a-meeting-and-class-b-meeting/2299587",
-      "title": "WeRide Inc. Announces Results of Extraordinary General Meeting, Class A Meeting and Class B Meeting",
-      "summary": "NEW YORK, March 13, 2026 (GLOBE NEWSWIRE) -- WeRide Inc. ('WeRide” or the 'Company”) (Nasdaq: WRD; HKEx: 0800), a global leader in autonomous driving technology, today announced that each of the propo...",
-      "source": "The Manila Times",
-      "date": "2026-03-13",
-      "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/weride-inc-announces-results-of-extraordinary-general-meeting-class-a-meeting-and-class-b-meeting/2299587"
-    },
-    {
-      "id": "https://www.reuters.com/business/uber-motional-launch-commercial-robotaxi-service-las-vegas-2026-03-13/",
-      "title": "Uber and Motional launch commercial robotaxi service in Las Vegas",
-      "summary": "Uber and Hyundai Motor-backed autonomous vehicle firm Motional launched a commercial robotaxi service in Las Vegas on Friday, the latest ​in a string of similar tie-ups as the ride-hailing platform ‌d...",
-      "source": "Reuters",
-      "date": "2026-03-13",
-      "url": "https://www.reuters.com/business/uber-motional-launch-commercial-robotaxi-service-las-vegas-2026-03-13/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/13/tmt-newswire/pr-newswire/ponyai-expands-robotaxi-access-with-integration-into-tencent-mobility-service/2299373",
-      "title": "Pony.ai Expands Robotaxi Access with Integration into Tencent Mobility Service",
-      "summary": "GUANGZHOU, China, March 13, 2026 /PRNewswire/ -- Pony.ai, a global leader in the large-scale commercialization of autonomous driving technology, today announced expanded access to its robotaxi ride-ha...",
-      "source": "The Manila Times",
-      "date": "2026-03-13",
-      "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/pr-newswire/ponyai-expands-robotaxi-access-with-integration-into-tencent-mobility-service/2299373"
-    },
-    {
-      "id": "https://www.mercurynews.com/2026/03/12/us-self-driving-startup-nuro-begins-testing-in-tokyo/",
-      "title": "Silicon Valley self-driving startup Nuro begins testing in Tokyo",
-      "summary": "Backed by the likes of Nvidia and Toyota, Mountain View-based Nuro aims to compete with other driverless operators such as Alphabet Inc.’s Waymo and Amazon.com Inc.’s Zoox in the nascent market for co...",
-      "source": "The Mercury News",
-      "date": "2026-03-12",
-      "url": "https://www.mercurynews.com/2026/03/12/us-self-driving-startup-nuro-begins-testing-in-tokyo/"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/einride-to-host-analyst-and-investor-day-on-march-19-as-company-advances-toward-us-public-market-listing-302712311.html",
-      "title": "Einride to Host Analyst and Investor Day on March 19 as Company Advances Toward U.S. Public Market Listing",
-      "summary": "/PRNewswire/ -- Einride AB (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous freight......",
+      "id": "https://www.prnewswire.co.uk/news-releases/advancing-autonomy-applied-intuition-collaborates-with-nvidia-to-accelerate-adoption-of-autonomous-driving-technology-302716139.html",
+      "title": "Advancing Autonomy: Applied Intuition Collaborates with NVIDIA to Accelerate Adoption of Autonomous Driving Technology",
+      "summary": "/PRNewswire/ -- Applied Intuition announced its collaboration with NVIDIA to further accelerate the development and deployment of Level 2+ (L2+) driver......",
       "source": "PR Newswire UK",
-      "date": "2026-03-12",
-      "url": "https://www.prnewswire.co.uk/news-releases/einride-to-host-analyst-and-investor-day-on-march-19-as-company-advances-toward-us-public-market-listing-302712311.html"
+      "date": "2026-03-17",
+      "url": "https://www.prnewswire.co.uk/news-releases/advancing-autonomy-applied-intuition-collaborates-with-nvidia-to-accelerate-adoption-of-autonomous-driving-technology-302716139.html"
     },
     {
-      "id": "https://www.theverge.com/transportation/893514/uber-wayve-and-nissan-have-robotaxi-plans-in-japan",
-      "title": "Uber, Wayve, and Nissan have robotaxi plans in Japan.",
-      "summary": "The companies aim to launch a pilot program in Tokyo by late 2026, allowing Uber riders to book robotaxis based on the Nissan Leaf EV, powered by Wayve’s autonomous driving tech. In its press release,...",
-      "source": "The Verge",
-      "date": "2026-03-12",
-      "url": "https://www.theverge.com/transportation/893514/uber-wayve-and-nissan-have-robotaxi-plans-in-japan"
+      "id": "https://www.prnewswire.co.uk/news-releases/deeprouteai-presents-40b-vision-language-action-foundation-model-at-nvidia-gtc-2026-accelerating-autonomous-driving-at-scale-302716118.html",
+      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale",
+      "summary": "/PRNewswire/ -- At NVIDIA GTC 2026, DeepRoute.ai presented a comprehensive introduction to its 40-billion-parameter Vision-Language-Action (VLA) Foundation......",
+      "source": "PR Newswire UK",
+      "date": "2026-03-17",
+      "url": "https://www.prnewswire.co.uk/news-releases/deeprouteai-presents-40b-vision-language-action-foundation-model-at-nvidia-gtc-2026-accelerating-autonomous-driving-at-scale-302716118.html"
     },
     {
-      "id": "https://www.engadget.com/transportation/nvidia--and-uber-backed-nuro-is-testing-autonomous-vehicles-in-tokyo-081200366.html",
-      "title": "NVIDIA- and Uber-backed Nuro is testing autonomous vehicles in Tokyo",
-      "summary": "US self-driving startup Nuro, which is backed by the likes of NVIDIA, Toyota and Uber, has started testing its autonomous vehicles in Tokyo....",
-      "source": "Engadget",
-      "date": "2026-03-12",
-      "url": "https://www.engadget.com/transportation/nvidia--and-uber-backed-nuro-is-testing-autonomous-vehicles-in-tokyo-081200366.html"
+      "id": "https://www.prnewswire.co.uk/news-releases/einride-partners-with-texas-highway-operator-to-create-autonomous-freight-testbed-302715954.html",
+      "title": "Einride Partners With Texas Highway Operator to Create Autonomous Freight Testbed",
+      "summary": "/PRNewswire/ -- Einride (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous freight operations......",
+      "source": "PR Newswire UK",
+      "date": "2026-03-17",
+      "url": "https://www.prnewswire.co.uk/news-releases/einride-partners-with-texas-highway-operator-to-create-autonomous-freight-testbed-302715954.html"
     },
     {
-      "id": "https://japantoday.com/category/tech/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britain's-wayve",
-      "title": "Uber plans Tokyo robotaxi trial with Nissan and Britain's Wayve",
-      "summary": "Uber announced Thursday its first robotaxi partnership in Japan, teaming up with Nissan and British artificial intelligence autonomous driving startup Wayve for a trial this year in Tokyo. Companies w...",
-      "source": "Japan Today",
-      "date": "2026-03-12",
-      "url": "https://japantoday.com/category/tech/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britain's-wayve"
+      "id": "https://www.cnbc.com/2026/03/17/tsla-partnership-autonomous-vehicle-driving-will-give-this-stock-a-boost-says-morgan-stanley.html",
+      "title": "TSLA partnership, autonomous vehicle driving will give this stock a boost, says Morgan Stanley",
+      "summary": "The bank upgraded the insurance stock to overweight from equal weight....",
+      "source": "CNBC",
+      "date": "2026-03-17",
+      "url": "https://www.cnbc.com/2026/03/17/tsla-partnership-autonomous-vehicle-driving-will-give-this-stock-a-boost-says-morgan-stanley.html"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
+      "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
+      "summary": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted....",
+      "source": "The New York Times",
+      "date": "2026-03-17",
+      "url": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/didi-autonomous-driving-partners-with-raytron-to-deploy-thermal-imaging-in-next-gen-robotaxi-302715486.html",
+      "title": "Didi Autonomous Driving Partners with Raytron to Deploy Thermal Imaging in Next-Gen Robotaxi",
+      "summary": "/PRNewswire/ -- Didi Autonomous Driving has unveiled the R2, its next-generation mass-produced robotaxi co-developed with GAC Aion, featuring Raytron's......",
+      "source": "PR Newswire UK",
+      "date": "2026-03-17",
+      "url": "https://www.prnewswire.co.uk/news-releases/didi-autonomous-driving-partners-with-raytron-to-deploy-thermal-imaging-in-next-gen-robotaxi-302715486.html"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/nvidia-expands-automotive-partnerships-for-autonomous-driving-ce7e5edbda8af320",
+      "title": "Nvidia expands automotive partnerships for autonomous driving",
+      "summary": "Nvidia has announced new agreements with several automakers for its Drive Hyperion autonomous driving platform. The group aims to strengthen its presence in a sector considered a strategic growth......",
+      "source": "MarketScreener",
+      "date": "2026-03-17",
+      "url": "https://www.marketscreener.com/news/nvidia-expands-automotive-partnerships-for-autonomous-driving-ce7e5edbda8af320"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/17/tmt-newswire/pr-newswire/51world-becomes-nvidias-global-l4-simulation-partner-to-accelerate-reasoning-based-autonomous-driving-development/2301350",
+      "title": "51WORLD Becomes NVIDIA's Global L4 Simulation Partner to Accelerate Reasoning-Based Autonomous Driving Development!",
+      "summary": "HONG KONG, March 17, 2026 /PRNewswire/ -- At the NVIDIA GTC Conference held on March 16, NVIDIA announced a deep integration between its Omniverse NuRec and 51WORLD's SimOne. Leveraging neural renderi...",
+      "source": "The Manila Times",
+      "date": "2026-03-17",
+      "url": "https://www.manilatimes.net/2026/03/17/tmt-newswire/pr-newswire/51world-becomes-nvidias-global-l4-simulation-partner-to-accelerate-reasoning-based-autonomous-driving-development/2301350"
     }
   ]
 }
