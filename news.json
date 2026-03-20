@@ -1,271 +1,270 @@
 {
-  "lastUpdated": "2026-03-19 02:53:13",
-  "totalCount": 41,
+  "lastUpdated": "2026-03-20 02:44:10",
+  "totalCount": 43,
   "sources": {
-    "News_Baidu": 7,
-    "Smzdm": 3,
-    "Jiemian": 1,
+    "Bilibili": 5,
+    "Investing_Cn": 4,
+    "Fx168News": 2,
+    "Bjnews": 2,
     "Chinanews": 3,
-    "Ithome": 5,
-    "Orientaldaily": 1,
-    "Zaobao": 1,
-    "Investing_Cn": 1,
+    "News_Baidu": 4,
+    "Cri_Cn": 1,
+    "Ithome": 2,
+    "MarketScreener": 4,
+    "TechStartups.com": 2,
+    "The Indian Express": 1,
     "Benzinga": 2,
-    "The Manila Times": 2,
-    "Bloomberg": 1,
-    "MarketScreener": 1,
+    "The Manila Times": 1,
+    "NextBigFuture.com": 2,
+    "The Economic Times": 1,
+    "Morningstar": 1,
+    "Newsmax": 1,
+    "Seeking Alpha": 1,
+    "Barchart": 1,
     "The Verge": 1,
     "Business Insider": 1,
-    "Finbold": 2,
-    "Inc. Magazine": 1,
-    "Investor's Business Daily": 1,
-    "Entrepreneur": 1,
-    "PR Newswire UK": 1,
-    "Gizmodo": 1,
-    "Seeking Alpha": 2,
-    "Markets Insider": 1,
-    "Interesting Engineering": 1
+    "Finbold": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860000391407447476",
-      "title": "A股市场新一轮“红包雨”正在路上!",
-      "summary": "步入3月中旬,A股正式进入2025年年报披露的密集期。与之相伴的是,新一轮“红包雨”正在路上。据《金融时报》记者不完全统计,截至3月18日,已有超百家公司披露2025年度分红方案。拉长视角来看,“十四...",
-      "source": "News_Baidu",
-      "date": "2026-03-18",
-      "url": "http://baijiahao.baidu.com/s?id=1860000391407447476"
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-03-20",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859967408064705759",
-      "title": "“去上天竺求男朋友?我有个儿子”,杭州公交这名暖心..",
-      "summary": "潮新闻最近,杭州一位堪称“段子手”的公交司机火出了圈。在社交平台上刷屏的是一段视频,看起来正值乘车高峰,车厢内人员较多,空气流通不畅,公交司机一段即兴脱口秀缓解了大家的疲惫:“有晕车呕吐的,到我这里来...",
-      "source": "News_Baidu",
-      "date": "2026-03-18",
-      "url": "http://baijiahao.baidu.com/s?id=1859967408064705759"
+      "id": "https://www.bilibili.com/video/BV1gow6zWEVT",
+      "title": "【B站】抢先开到L3，有条件自动驾驶真的来了",
+      "summary": "公开道路，首试L3有条件自动驾驶，我们进入了真正的自动驾驶时代，私人高铁近在眼前。...",
+      "source": "Bilibili",
+      "date": "2026-03-20",
+      "url": "https://www.bilibili.com/video/BV1gow6zWEVT"
     },
     {
-      "id": "https://post.smzdm.com/p/a3m6vx45/",
-      "title": "补贴价9.98万起打造中型轿车价值标杆!极狐全新阿尔法S5正式上市",
-      "summary": "3月18日,极狐汽车以行业首个全场景AI发布会的创新形式,正式推出定位“AI高性能宽体轿跑”的全新阿尔法S5。新车涵盖纯电、增程两种动力形式共7款版型,上市补贴价9.98万元-16.88万元,凭借颜值、驾驶、续航、性能、舒适五大维度的越级表现,为年轻消费......",
-      "source": "Smzdm",
-      "date": "2026-03-18",
-      "url": "https://post.smzdm.com/p/a3m6vx45/"
+      "id": "https://www.bilibili.com/video/BV1wWfDYiEUi",
+      "title": "【B站】【深度解析】智能驾驶烧了1000亿，发生了什么？",
+      "summary": "这行业烧了 1000 个亿，到底烧出了什么？抱着一系列疑问，过去三个月里，我们查阅资料，询问专家，从技术最底层出发，看完这个视频你会发现，自动驾驶波折20年，背后无非就是一个字，难......",
+      "source": "Bilibili",
+      "date": "2026-03-20",
+      "url": "https://www.bilibili.com/video/BV1wWfDYiEUi"
     },
     {
-      "id": "https://post.smzdm.com/p/am9ek3ld/",
-      "title": "15分钟补能540km,极狐全新阿尔法S5律动上市补贴价9.98万起",
-      "summary": "从春晚《武BOT》到全民“养龙虾”,2026年一开年就掀起了AI全民热潮,在这股浪潮下,车圈也迎来全新变革。3月18日,首个全场景AI发布会被极狐抢先实现了,定位“AI高性能宽体轿跑”的极狐全新阿尔法S5律动上市,共推出7款版型,包含纯电、增程两种动力形......",
-      "source": "Smzdm",
-      "date": "2026-03-18",
-      "url": "https://post.smzdm.com/p/am9ek3ld/"
+      "id": "https://www.bilibili.com/video/BV1tnw7zSEA6",
+      "title": "【B站】L2和L3目前有啥区别？华为L3级辅助驾驶一镜到底对比实测",
+      "summary": "真正的自动驾驶来了？我们抢先在岚图泰山Ultra上在测试道路上体验了L3，同时还在武汉试了一下华为ADS Max V4.1.2，两段过程都一镜到底放出来给大家，来看看鸿蒙智行L3与目前的L2到底有哪些区别。...",
+      "source": "Bilibili",
+      "date": "2026-03-20",
+      "url": "https://www.bilibili.com/video/BV1tnw7zSEA6"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859994683197340789",
-      "title": "受雇出车出了事,4万元赔偿从天而降!时过三年,真相..",
-      "summary": "货车司机孙某受雇于张某,在送货途中发生交通事故。交警部门认定孙某承担事故全部责任。因孙某驾驶的车辆未投保交强险,被撞车辆的赔偿问题引发纠纷。保险公司先行赔付后,提起诉讼进行追索。诉讼过程中,孙某与张某...",
-      "source": "News_Baidu",
-      "date": "2026-03-18",
-      "url": "http://baijiahao.baidu.com/s?id=1859994683197340789"
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-03-20",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
     },
     {
-      "id": "https://www.jiemian.com/article/14131327.html",
-      "title": "再获八家世界500强加仓,上海稳坐外资全球布局首选地",
-      "summary": "上海已认定的跨国公司地区、外资研发中心分别达到1084家、647家。...",
-      "source": "Jiemian",
-      "date": "2026-03-18",
-      "url": "https://www.jiemian.com/article/14131327.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-18/10589081.shtml",
-      "title": "机械化助力农业生产“加速跑” 多地“新”潮澎湃“智”绘“科技春耕图”",
-      "summary": "央视网消息:人勤春来早,春耕正当时。眼下,江西省的春耕生产全面展开,各地持续加大农机投入,以机械化助力农业生产,全力保障粮食稳产提质。...",
-      "source": "Chinanews",
-      "date": "2026-03-18",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-18/10589081.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/03-18/10589069.shtml",
-      "title": "安全整治催生“考证热” 宁夏摩托车驾考迎来“小高峰”",
-      "summary": "中新网银川3月18日电 (记者 于晶)随着宁夏“摩电车辆”专项整治行动的深入开展,近期宁夏各地驾校掀起了一股摩托车驾考热潮。3月18日,记者从宁夏天豹机动车驾驶学校了解到,仅3月以来,该校报考人数已突破1300人,接近往年全年的报考总量。...",
-      "source": "Chinanews",
-      "date": "2026-03-18",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-18/10589069.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/930/411.htm",
-      "title": "理想李想:自动驾驶,只是物理 AI 的一个起点",
-      "summary": "IT之家 3 月 18 日消息,在昨日的 NVIDIA GTC 2026 上,理想汽车基座模型负责人詹锟发布了下一代自动驾驶基础模型 MindVLA-o1。 IT之家注意到,理想汽车 CEO 李想今日发布长文谈及了 MindVLA-o1。李想介绍称,理想汽车在底层实现了一个核心突破:原生 3D ViT —— 真正的三维视觉编码器。 他表示,自动驾驶,只是物理 AI 的一个起点 。 在昨天的 NVI...",
-      "source": "Ithome",
-      "date": "2026-03-18",
-      "url": "https://www.ithome.com/0/930/411.htm"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/nation/2026/03/18/805092",
-      "title": "南北大道多路段设测速摄像头 工程部:确保返乡遵守交规",
-      "summary": "(吉隆坡18日讯)随著开斋节临近,公共工程部提醒使用南北大道返乡的道路使用者注意,当局已在多个策略性地点安装自动感知安全系统(AWAS)摄像头,并以此提高警惕。工程部在文告指出,此举旨在确保所有道路使用者遵守交通规则,以维护彼此的安全。“请谨慎驾驶,遵守车速限制,并时刻保持警惕。宁可慢一点,也要安全抵达目的地,最重要的是能与挚爱共度佳节。”工程部也表示,随著返乡热潮已经到来,道路目前已变得越来越繁...",
-      "source": "Orientaldaily",
-      "date": "2026-03-18",
-      "url": "https://www.orientaldaily.com.my/news/nation/2026/03/18/805092"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860005132276624650",
-      "title": "武警河北总队秦皇岛支队组织专项训练锤炼水下尖兵",
-      "summary": "武警河北总队秦皇岛支队组织专项训练锤炼水下尖兵...",
-      "source": "News_Baidu",
-      "date": "2026-03-18",
-      "url": "http://baijiahao.baidu.com/s?id=1860005132276624650"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/03-18/10589058.shtml",
-      "title": "广州春耕生产提速 智能农机全面“上岗”",
-      "summary": "中新网广州3月18日电 (记者 程景伟)广州市2026年春耕现场会18日在增城区朱村街举行。眼下,广州大地一片生机勃勃,田间地头农机轰鸣,2026年春耕生产正以“满格状态”全速推进。...",
-      "source": "Chinanews",
-      "date": "2026-03-18",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-18/10589058.shtml"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260318-8639105",
-      "title": "业界安全意识提升 但弃用罗厘载人仍有挑战",
-      "summary": "这两年来业界对于工人交通安全的关注度有所提升,相关讨论也更密集,但停用罗厘运载工人的公司仍属少数。对于明年起禁用铁笼罗厘的宣布,受访外籍劳工中心也表示欢迎。...",
-      "source": "Zaobao",
-      "date": "2026-03-18",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260318-8639105"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859993799480169120",
-      "title": "盐城绿色低碳科创园又迎喜事!车旺科技与徐工新能源达..",
-      "summary": "3月18日,江苏车旺科技(以下简称“车旺科技”)与徐州徐工新能源汽车有限公司(以下简称“徐工新能源”)在盐城绿色低碳科创园正式签署战略合作协议。此次合作标志着双方在新能源商用车产业链的深度布局上迈出了...",
-      "source": "News_Baidu",
-      "date": "2026-03-18",
-      "url": "http://baijiahao.baidu.com/s?id=1859993799480169120"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859995971578050475",
-      "title": "法国小伙在长沙冲上云霄!《在长沙,都实现》第二季推..",
-      "summary": "左手握着方向盘,右手推开流云,耳畔是飞机的引擎声......这不是某部好莱坞电影的飞行桥段,而是法国小哥在长沙的“普通”一天。《在长沙,都实现》第二季“星航低空飞行篇”邀请法国博主@蒙蒙在上海走进“会造飞机”...",
-      "source": "News_Baidu",
-      "date": "2026-03-18",
-      "url": "http://baijiahao.baidu.com/s?id=1859995971578050475"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859869859920805720",
-      "title": "第75集团军某旅组织综合训练考核",
-      "summary": "第75集团军某旅组织综合训练考核——战鹰掠谷练攻防■谭阳林解放军报特约通讯员曹一庆铁翼飞旋,引擎轰鸣。初春时节,第75集团军某旅野外综合训练场上,数架直升机依次升空,一场综合训练考核拉开战幕。在低空完...",
-      "source": "News_Baidu",
-      "date": "2026-03-18",
-      "url": "http://baijiahao.baidu.com/s?id=1859869859920805720"
-    },
-    {
-      "id": "https://www.ithome.com/0/930/372.htm",
-      "title": "全新 DS N°7 亮相:个性法系 SUV 迎来电动化,最大续航 740 公里",
-      "summary": "IT之家 3 月 18 日消息,北京时间今天凌晨,DS 全新 N°7 正式发布。新车定位紧凑型跨界车,将会接替现款 DS7,也代表品牌未来设计和产品方向的转变。 新车延续 N°8 的设计语言,前脸采用 V 形灯带与细长 PixelVision 大灯,可以识别前方交通参与者,并自动调整照明范围以避免炫目,还配备发光格栅以及亮光黑色装饰。 车身侧面线条更加流畅,配备隐藏式门把手。溜背式车顶与加长后门进...",
-      "source": "Ithome",
-      "date": "2026-03-18",
-      "url": "https://www.ithome.com/0/930/372.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qlmxz8/",
-      "title": "小鹏P7焕新上市:20.38万起打造智能驾控新体验",
-      "summary": "2026年3月18日,小鹏汽车在广州以一场充满社群温度的“爱P7的鹏友大聚会”完成小鹏P7的焕新发布,这场打破传统发布会形式的车主派对,不仅迎来了多位跨界车主分享与P7的相伴故事,更带来了车型的全方位升级:星曜红、暗夜黑、星云白三款全新外观色惊艳亮相,小......",
-      "source": "Smzdm",
-      "date": "2026-03-18",
-      "url": "https://post.smzdm.com/p/a4qlmxz8/"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3267913",
-      "title": "利润增长36%!吉利汽车2026年销量目标345万辆,今年智驾追上特斯拉FSD",
-      "summary": "利润增长36%!吉利汽车2026年销量目标345万辆,今年智驾追上特斯拉FSD...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3270605",
+      "title": "优步将向Rivian投资至多12.5亿美元 拟部署5万辆无人出租车",
+      "summary": "优步将向Rivian投资至多12.5亿美元 拟部署5万辆无人出租车...",
       "source": "Investing_Cn",
-      "date": "2026-03-18",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3267913"
+      "date": "2026-03-19",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3270605"
     },
     {
-      "id": "https://www.ithome.com/0/930/404.htm",
-      "title": "奇瑞风云 T9L 将于 3 月 25 日开启预售:CLTC 纯电续航 230km,搭载猎鹰 700 智驾",
-      "summary": "IT之家 3 月 18 日消息,在今晚的 2026 奇瑞汽车电池之夜上,奇瑞宣布风云 T9L 将于 3 月 25 日开启预售。 IT之家此前报道, 新车于 1 月 17 日开启盲订 ,将在春节后上市,其尺寸为 4870×1930×1710mm、轴距 2920mm,拥有 1037mm 二排腿部空间,同级唯一前排双零重力座椅。此外,该车还配备流萤氛围灯、抚琴立式高音、23 扬伯牙之音等。 该车搭载鲲鹏...",
+      "id": "https://www.fx168news.com/article/1005800",
+      "title": "吴泳铭宣布阿里AI战略商业目标:未来五年,云和AI商业化年收入超1000亿美元-FX168",
+      "summary": "面对巨大而长期的AI市场成长动能,在19日晚阿里巴巴集团2026财年Q3财报分析师电话会上,CEO吴泳铭宣布了阿里集团AI战略的商业目标——未来五年,包含MaaS在内的云和AI商业化年收入突破1000亿美元。他详细阐述了阿里的全栈AI布局——以芯片和云计算为AI基础设施层;以Toke...",
+      "source": "Fx168News",
+      "date": "2026-03-19",
+      "url": "https://www.fx168news.com/article/1005800"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3270527",
+      "title": "涨价4000元!新一代小米SU7上市当天,门店销售开车上门“抢”准车主",
+      "summary": "涨价4000元!新一代小米SU7上市当天,门店销售开车上门“抢”准车主...",
+      "source": "Investing_Cn",
+      "date": "2026-03-19",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3270527"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1005792",
+      "title": "万马科技:3月17日组织现场参观活动,长盛基金、和谐汇一等多家机构参与-FX168",
+      "summary": "证券之星消息,2026年3月19日万马科技(300698)发布公告称公司于2026年3月17日组织现场参观活动,长盛基金杨睿琦、和谐汇一凌晨、国泰海通石佳艺、银河证券赵良毕、兴业证券卢云聪、国海证券胡惠民、北京关呈许宏图、东方财富马成龙 郑景毅、东方红陆嘉余、东吴基金周磊、国联基金焦阳 粱勤之、申万菱信张若凡 粱国柱、国联民生完颜尚文、华泰保兴蔡煜、惠升基金陆浩然、江亿资本袁晨、陆浦投资沈利锋、鹏...",
+      "source": "Fx168News",
+      "date": "2026-03-19",
+      "url": "https://www.fx168news.com/article/1005792"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1773923023129421.html",
+      "title": "新SU7标配25项安全辅助功能 雷军:辅助驾驶不是自动驾驶",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-03-19",
+      "url": "https://www.bjnews.com.cn/detail/1773923023129421.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3270265",
+      "title": "“央国企高端新能源汽车第一股”登场,港股新能源赛道的“稀缺标的”,为什么是岚图?",
+      "summary": "“央国企高端新能源汽车第一股”登场,港股新能源赛道的“稀缺标的”,为什么是岚图?...",
+      "source": "Investing_Cn",
+      "date": "2026-03-19",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3270265"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3270261",
+      "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+      "summary": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点...",
+      "source": "Investing_Cn",
+      "date": "2026-03-19",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3270261"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/03-19/10589608.shtml",
+      "title": "海南全面推行极简审批投资制度 降低经营主体制度性交易成本",
+      "summary": "中新网海口3月19日电 (张月和)海南自贸港第二十二批制度集成创新案例新闻发布会19日在海口举行。海南省营商环境建设厅副厅长何霁锋会上称,海南在全国率先全面推行极简审批投资制度,推动审批服务理念、制度、作风深层次变革,最大限度降低经营主体制度性交易成本。...",
+      "source": "Chinanews",
+      "date": "2026-03-19",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-19/10589608.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/03-19/10589612.shtml",
+      "title": "中国无人驾驶公司在斯洛伐克启动无人驾驶项目",
+      "summary": "中新网广州3月19日电 (记者 蔡敏婕)中国自动驾驶科技公司文远知行19日宣布,在斯洛伐克自动驾驶交通体系相关倡议(ELEVATE Slovakia)框架下,正式启动斯洛伐克首个自动驾驶项目。这是欧洲首个由国家层面推动、覆盖多产品线的大规模自动驾驶商业化落地计划。...",
+      "source": "Chinanews",
+      "date": "2026-03-19",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-19/10589612.shtml"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1773922672129420.html",
+      "title": "阿里财报电话会:平头哥GPU芯片已累计规模化交付47万片",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-03-19",
+      "url": "https://www.bjnews.com.cn/detail/1773922672129420.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860097704110411687",
+      "title": "接连发生,后排乘客未系安全带被甩车外!重要提醒:全..",
+      "summary": "扬子晚报网3月19日讯(记者郭一鹏)今天(19日),公安部交通管理局公布了两起后排乘客未系安全带被甩车外的事故,现场视频看了让人触目惊心。扬子晚报/紫牛新闻记者采访了解到,因为后排乘客不系安全带,在发...",
+      "source": "News_Baidu",
+      "date": "2026-03-19",
+      "url": "http://baijiahao.baidu.com/s?id=1860097704110411687"
+    },
+    {
+      "id": "https://news.cri.cn/20260319/5d421b28-a2be-9a6c-869b-d2c624e88e0f.html",
+      "title": "联播+|在“钢铁驼队”旁 习近平连发四问-国际在线",
+      "summary": "“班列前景怎么样?在国际货运中会占到什么比例?比例会扩大到多少?本省货占多少?” 2014年5月,河南郑州国际陆港铁路集装箱中心站,一个个发往欧洲的集装箱整齐排列。习近平总书记来到这里,在与工作人员亲切交流中,...",
+      "source": "Cri_Cn",
+      "date": "2026-03-19",
+      "url": "https://news.cri.cn/20260319/5d421b28-a2be-9a6c-869b-d2c624e88e0f.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860094495730692671",
+      "title": "独家|韩国八部委代表团访华 体验百度、小马智行无人..",
+      "summary": "【独家|韩国八部委代表团访华体验百度、小马智行无人驾驶车辆】《科创板日报》19日讯,3月18日至3月20日,由韩国国土交通部、财政经济部等八部委组成的代表团抵达北京,开展了为期三天的实地考察。《科创板...",
+      "source": "News_Baidu",
+      "date": "2026-03-19",
+      "url": "http://baijiahao.baidu.com/s?id=1860094495730692671"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860076535270041307",
+      "title": "青岛机场民航无人驾驶检测基地顺利完成首次检测",
+      "summary": "中国山东网·新感知3月19日讯近日,青岛机场在无人驾驶技术应用领域取得重要进展。3月5日至10日,青岛机场联合中机检测、西井科技顺利完成民航无人驾驶检测基地首次检测工作,标志着青岛机场民航无人驾驶检测...",
+      "source": "News_Baidu",
+      "date": "2026-03-19",
+      "url": "http://baijiahao.baidu.com/s?id=1860076535270041307"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/03-19/10589639.shtml",
+      "title": "联播+|在“钢铁驼队”旁 习近平连发四问",
+      "summary": "|联播+|“班列前景怎么样?在国际货运中会占到什么比例?比例会扩大到多少?本省货占多少?”...",
+      "source": "Chinanews",
+      "date": "2026-03-19",
+      "url": "https://www.chinanews.com.cn/gn/2026/03-19/10589639.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/930/775.htm",
+      "title": "美国监管机构加大对特斯拉 FSD 系统的调查力度,涉及 320 万辆汽车",
+      "summary": "IT之家 3 月 19 日消息,据路透社报道,美国汽车安全监管机构当地时间周四加大了对特斯拉驾驶辅助系统的调查力度,以评估该系统在识别路况不佳情况方面的有效性。此前已有 9 起车祸与该技术相关,其中一起造成了人员死亡。 美国国家公路交通安全管理局(NHTSA)表示,此次工程分析是在早前初步审查基础上展开的, 调查范围扩大至约 320 万辆搭载该系统的多款特斯拉车型 ,覆盖美国道路上的绝大多数相关车...",
       "source": "Ithome",
-      "date": "2026-03-18",
-      "url": "https://www.ithome.com/0/930/404.htm"
+      "date": "2026-03-19",
+      "url": "https://www.ithome.com/0/930/775.htm"
     },
     {
-      "id": "https://www.ithome.com/0/930/401.htm",
-      "title": "奇瑞 QQ3 纯电轿车将于 3 月 30 日上市:预售价 6.892 万元起,预售订单超 3.5 万台",
-      "summary": "IT之家 3 月 18 日消息,在今晚的 2026 奇瑞汽车电池之夜上,奇瑞宣布奇瑞 QQ3 将于 3 月 30 日上市, 该车已于 3 月 10 日开启预售 ,预售价区间为 6.8920 万 -8.9985 万元,共推出 310km 和 420km 两种续航版本的四款车型。截至 3 月 17 日,该车预售订单已达 35,689 台。 据IT之家了解,奇瑞 QQ3 EV 采用“智圆行方”的设计理念...",
+      "id": "http://baijiahao.baidu.com/s?id=1860086399179990396",
+      "title": "湖南2026年将投资21.4亿元推进长沙高铁西站综..",
+      "summary": "3月18日,2026年全省道路运输工作暨春运总结、二季度安全生产工作会议召开。记者从会上获悉,2026年将投资21.4亿元推进长沙高铁西站综合客运枢纽、怀化公铁联运物流园综合客货运枢纽、普通客货运站和...",
+      "source": "News_Baidu",
+      "date": "2026-03-19",
+      "url": "http://baijiahao.baidu.com/s?id=1860086399179990396"
+    },
+    {
+      "id": "https://www.ithome.com/0/930/777.htm",
+      "title": "Xiaomi Watch S5 发布:全新四灯组四 PD 传感器、深度联动小米汽车,1199 元起",
+      "summary": "IT之家 3 月 19 日消息,在今晚的小米春季新品发布会上,Xiaomi Watch S5 智能手表正式发布,定位“全能运动长续航手表”。新表采用表圈一体式设计,表体为 316L 不锈钢材质, 售价 1199 元起(首销期优惠 100 元) 。 黑色:1199 元 银色:1199 元 eSIM 版:1399 元 锻造碳:1399 元 午夜蓝:1399 元 据介绍,Xiaomi Watch S5 ...",
       "source": "Ithome",
-      "date": "2026-03-18",
-      "url": "https://www.ithome.com/0/930/401.htm"
+      "date": "2026-03-19",
+      "url": "https://www.ithome.com/0/930/777.htm"
     },
     {
-      "id": "https://www.ithome.com/0/930/392.htm",
-      "title": "首搭“专属司机助理”IM ULTRA AGENT 1.0,智己 LS8 预售定档 3 月 26 日",
-      "summary": "IT之家 3 月 18 日消息,今天晚间的智己汽车超级智能体发布会上,智己汽车宣布,IM Ultra Agent 智己超级智能体将于 LS8 首发搭载,新车将于 3 月 26 日 正式开启预售,号称是一款“真正的跨时代科技旗舰 SUV”。 据IT之家了解,新车将集成线控底盘 +L4 级辅助驾驶大模型 IM AD ZETA+ 智舱 AI 千问大模型三层技术架构,支持毫秒响应、预判决策与全场景自主进化...",
-      "source": "Ithome",
-      "date": "2026-03-18",
-      "url": "https://www.ithome.com/0/930/392.htm"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/03/51335385/nvidia-uber-robotaxi-partnership-autonomous-driving",
-      "title": "Blame Nvidia: Your Next Uber Driver Might Be A GPU Orbiting Earth",
-      "summary": "Nvidia and Uber aim to launch 100,000 robotaxis by 2027, as new AI models push autonomous driving from software into real-world streets....",
-      "source": "Benzinga",
-      "date": "2026-03-18",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51335385/nvidia-uber-robotaxi-partnership-autonomous-driving"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/18/tmt-newswire/globenewswire/geely-expands-strategic-partnership-with-nvidia-across-physical-enterprise-and-industrial-ai/2302892",
-      "title": "Geely Expands Strategic Partnership with NVIDIA Across Physical, Enterprise, and Industrial AI",
-      "summary": "Geely Auto Group is expanding its strategic partnership with NVIDIA across Physical AI, Enterprise AI, and Industrial AI to build a full-chain intelligent mobility ecosystem.In autonomous driving, Gee...",
-      "source": "The Manila Times",
-      "date": "2026-03-18",
-      "url": "https://www.manilatimes.net/2026/03/18/tmt-newswire/globenewswire/geely-expands-strategic-partnership-with-nvidia-across-physical-enterprise-and-industrial-ai/2302892"
-    },
-    {
-      "id": "https://www.bloomberg.com/news/articles/2026-03-18/self-driving-tech-promises-to-flood-cities-in-robotaxi-traffic",
-      "title": "Here Comes the Self-Driving Traffic Surge",
-      "summary": "Autonomous vehicles from companies like Waymo and Zoox are set to trigger an increase in car usage that clogs urban streets. Cities should prepare now....",
-      "source": "Bloomberg",
-      "date": "2026-03-18",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-18/self-driving-tech-promises-to-flood-cities-in-robotaxi-traffic"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/hyundai-kia-shares-rise-on-expanded-nvidia-partnership-for-autonomous-driving-tech-ce7e5ed8df8ef227",
-      "title": "Hyundai, Kia Shares Rise on Expanded Nvidia Partnership for Autonomous Driving Tech",
-      "summary": "Hyundai Motor and affiliate Kia expanded their collaboration with US chipmaker Nvidia to boost autonomous driving technology and the global software-defined vehicle ecosystem, according to a......",
+      "id": "https://www.marketscreener.com/news/uber-to-invest-up-to-1-25bn-in-rivian-for-robotaxi-push-ce7e5ededc8ff021",
+      "title": "Uber to invest up to $1.25bn in Rivian for robotaxi push",
+      "summary": "Uber is bolstering its autonomous driving strategy with a major investment in Rivian. The partnership aims to deploy tens of thousands of robotaxis across North America and Europe by 2031....",
       "source": "MarketScreener",
-      "date": "2026-03-18",
-      "url": "https://www.marketscreener.com/news/hyundai-kia-shares-rise-on-expanded-nvidia-partnership-for-autonomous-driving-tech-ce7e5ed8df8ef227"
+      "date": "2026-03-19",
+      "url": "https://www.marketscreener.com/news/uber-to-invest-up-to-1-25bn-in-rivian-for-robotaxi-push-ce7e5ededc8ff021"
     },
     {
-      "id": "https://www.theverge.com/transportation/896607/ubers-former-head-of-self-driving-almost-died-using-teslas-fsd",
-      "title": "Uber’s former head of self-driving almost died using Tesla’s FSD.",
-      "summary": "Raffi Krikorian, who now serves as Mozilla’s CTO, writes in The Atlantic that he’s rethinking the relationship between humans and machines after a near death experience in his Tesla.\n> Full Self-Drivi...",
-      "source": "The Verge",
-      "date": "2026-03-18",
-      "url": "https://www.theverge.com/transportation/896607/ubers-former-head-of-self-driving-almost-died-using-teslas-fsd"
+      "id": "https://techstartups.com/2026/03/19/openclaw-takes-china-by-storm-sparking-a-buying-frenzy-for-used-macs/",
+      "title": "OpenClaw takes China by storm, sparking a buying frenzy for used Macs",
+      "summary": "Less than a month since its launch, OpenClaw has exploded in popularity as autonomous AI agents move from hype to real-world power. Now its wave is sweeping across China—driving unexpected demand in t...",
+      "source": "TechStartups.com",
+      "date": "2026-03-19",
+      "url": "https://techstartups.com/2026/03/19/openclaw-takes-china-by-storm-sparking-a-buying-frenzy-for-used-macs/"
     },
     {
-      "id": "https://www.businessinsider.com/former-uber-exec-tesla-fsd-crash-ai-risk-self-driving-2026-3",
-      "title": "Former Uber Exec Says Tesla FSD Crash Exposed This Big Risk With AI",
-      "summary": "Raffi Krikorian wrote in The Atlantic that his Tesla Model X was \"totalled\" after it crashed into a wall while in Full Self-Driving mode last year....",
-      "source": "Business Insider",
-      "date": "2026-03-18",
-      "url": "https://www.businessinsider.com/former-uber-exec-tesla-fsd-crash-ai-risk-self-driving-2026-3"
+      "id": "https://indianexpress.com/article/world/waymo-self-driving-car-passenger-safety-san-francisco-attacks-10590803/",
+      "title": "Trapped! Inside a self-driving car during an anti-robot attack",
+      "summary": "Since autonomous cars started roaming San Francisco streets almost four years ago, they have elicited an array of reactions from humans, including angry protests against the vehicles...",
+      "source": "The Indian Express",
+      "date": "2026-03-19",
+      "url": "https://indianexpress.com/article/world/waymo-self-driving-car-passenger-safety-san-francisco-attacks-10590803/"
     },
     {
-      "id": "https://finbold.com/sell-alert-wall-street-expert-warns-tesla-fsd-does-not-work/",
-      "title": "Sell alert? Wall Street expert warns Tesla FSD does not work",
-      "summary": "The possible gap between Tesla's claims regarding FSD autnomous driving and its actual capabilities led some to recommend shorting TSLA stock...",
-      "source": "Finbold",
-      "date": "2026-03-18",
-      "url": "https://finbold.com/sell-alert-wall-street-expert-warns-tesla-fsd-does-not-work/"
+      "id": "https://techstartups.com/2026/03/19/uber-to-invest-1-25-billion-in-rivian-to-launch-50000-robotaxis-across-global-markets/",
+      "title": "Uber to invest $1.25 billion in Rivian to launch 50,000 robotaxis across global markets",
+      "summary": "Uber is making one of its boldest moves yet in autonomous driving, backing Rivian with a multibillion-dollar bet to bring robotaxis to the streets at scale. The ride-hailing giant said it plans to inv...",
+      "source": "TechStartups.com",
+      "date": "2026-03-19",
+      "url": "https://techstartups.com/2026/03/19/uber-to-invest-1-25-billion-in-rivian-to-launch-50000-robotaxis-across-global-markets/"
     },
     {
-      "id": "https://www.inc.com/fast-company-2/while-tesla-fights-in-court-its-competitors-are-quietly-winning-the-autonomy-war/91318157",
-      "title": "While Tesla Fights in Court, Its Competitors Are Quietly Winning the Autonomy War",
-      "summary": "Tesla's new legal gambit to defend its autonomous driving fantasy clashes with the brutal reality of a deficient technology....",
-      "source": "Inc. Magazine",
-      "date": "2026-03-17",
-      "url": "https://www.inc.com/fast-company-2/while-tesla-fights-in-court-its-competitors-are-quietly-winning-the-autonomy-war/91318157"
+      "id": "https://www.benzinga.com/markets/tech/26/03/51355929/weride-storms-slovakia-with-nations-first-autonomous-driving-rollout",
+      "title": "What's Going On With WeRide Stock Thursday?",
+      "summary": "WeRide (WRD) enters Slovakia, its 4th European market. Autonomous driving trials begin in Bratislava in early 2026. Read more here....",
+      "source": "Benzinga",
+      "date": "2026-03-19",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51355929/weride-storms-slovakia-with-nations-first-autonomous-driving-rollout"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/19/tmt-newswire/globenewswire/weride-enters-slovakia-launching-nations-first-autonomous-driving-program-with-elevate-slovakia/2303407",
+      "title": "WeRide Enters Slovakia, Launching Nation's First Autonomous Driving Program with ELEVATE Slovakia",
+      "summary": "WeRide Enters Slovakia, Launching Nation's First Autonomous Driving Program with ELEVATE Slovakia...",
+      "source": "The Manila Times",
+      "date": "2026-03-19",
+      "url": "https://www.manilatimes.net/2026/03/19/tmt-newswire/globenewswire/weride-enters-slovakia-launching-nations-first-autonomous-driving-program-with-elevate-slovakia/2303407"
+    },
+    {
+      "id": "https://www.nextbigfuture.com/2026/03/nvidia-robotaxi-ready-is-tesla-doomed.html",
+      "title": "NVIDIA ROBOTAXI READY? IS TESLA DOOMED",
+      "summary": "Nvidia has new level 4 chips for autonomous driving....",
+      "source": "NextBigFuture.com",
+      "date": "2026-03-19",
+      "url": "https://www.nextbigfuture.com/2026/03/nvidia-robotaxi-ready-is-tesla-doomed.html"
     }
   ]
 }
