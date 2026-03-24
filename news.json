@@ -1,180 +1,179 @@
 {
-  "lastUpdated": "2026-03-23 02:54:11",
-  "totalCount": 37,
+  "lastUpdated": "2026-03-24 02:45:50",
+  "totalCount": 33,
   "sources": {
-    "News_Baidu": 9,
-    "Smzdm": 2,
-    "Bjnews": 1,
-    "Jiemian": 2,
-    "News_Seehua": 1,
     "Ithome": 2,
-    "Zaobao": 1,
-    "The Star": 1,
+    "Fx168News": 2,
+    "Bjnews": 1,
+    "News_Baidu": 5,
+    "Chinanews": 2,
+    "Investing_Cn": 2,
+    "Eeo": 1,
+    "The Indian Express": 1,
+    "Morningstar": 1,
+    "Benzinga": 2,
+    "NextBigFuture.com": 1,
     "Business Insider": 1,
     "Investor's Business Daily": 1,
     "Barchart": 1,
     "CNBC TV18": 1,
     "MarketScreener": 5,
     "TechStartups.com": 2,
-    "Benzinga": 1,
-    "The Manila Times": 1,
-    "NextBigFuture.com": 2,
     "CNBC": 1,
-    "Newsmax": 1,
-    "Seeking Alpha": 1
+    "Newsmax": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860365593813107817",
-      "title": "蔡崇信在中国发展高层论坛发言:中国科技成果将惠及全..",
-      "summary": "潮新闻客户端记者祝瑶3月22日下午,阿里巴巴集团主席蔡崇信受邀出席中国发展高层论坛。在技术创新与未来产业发展专题研讨会上,蔡崇信分享了关于中国人工智能突破和持续发展的思考。他表示,AI的终极目标是如何...",
-      "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860365593813107817"
+      "id": "https://www.ithome.com/0/931/912.htm",
+      "title": "千问 AI 大模型上车,零跑 A10 上市发布会定档 3 月 26 日",
+      "summary": "IT之家 3 月 23 日消息,据零跑汽车官微消息,旗下全新小型 SUV 零跑 A10 上市发布会定档 3 月 26 日 19:00,届时将揭晓新车的上市权益,零跑 A 系列代言人陈都灵也将助阵发布会现场。 据IT之家了解,零跑 A10 采用品牌升级的“科技自然美学 2.0”设计语言,整体造型具备较高的视觉辨识度。前脸采用新能源车型标志性的封闭式格栅设计,搭配多边形大灯组,营造出协调统一的视觉效果...",
+      "source": "Ithome",
+      "date": "2026-03-23",
+      "url": "https://www.ithome.com/0/931/912.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860276507399711614",
-      "title": "硬科技投向标|工信部:打造“5G+工业互联网”升级..",
-      "summary": "本周硬科技领域投融资重要消息包括:上海:组织开展国家算力互联互通行业节点建设;三部门:加快补齐汽车芯片、基础软件等短板;锐思智芯完成数亿元B+轮融资。》》政策上海:组织开展国家算力互联互通行业节点建设...",
-      "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860276507399711614"
+      "id": "https://www.fx168news.com/article/1006926",
+      "title": "特斯拉(TSLA)股票3月23日盘中上涨3.62%:背后推手曝光-FX168",
+      "summary": "特斯拉 (TSLA) 盘中上涨3.62%, 所属行业汽车与零部件上涨3.52% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.62%;Rivian Automotive Inc (RIVN) 上涨 6.91%;Cummins Inc (CMI) 上涨 3.89%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉股价今日在剧烈的日内波动中呈现上涨势头,这主要受到公...",
+      "source": "Fx168News",
+      "date": "2026-03-23",
+      "url": "https://www.fx168news.com/article/1006926"
     },
     {
-      "id": "https://post.smzdm.com/p/axkwwrk9/",
-      "title": "续航 1950km!理想官宣:3 月 31 日,增程 SUV 开启预定",
-      "summary": "最近想买家用SUV的朋友注意了,理想汽车刚刚官宣了重磅消息:一款综合续航可达1950km的增程SUV,将在3月31日正式开启预定。这个续航数字直接刷新了理想自家增程车型的纪录,也给不少担心电动车续航、补能不方便的消费者,带来了一个省心的新选择。可能很多朋......",
-      "source": "Smzdm",
-      "date": "2026-03-22",
-      "url": "https://post.smzdm.com/p/axkwwrk9/"
+      "id": "https://www.ithome.com/0/931/910.htm",
+      "title": "新一代小米 SU7 双代言人舒淇 / 苏炳添语音彩蛋上线,覆盖主驾上车欢迎语、超速提示等场景",
+      "summary": "IT之家 3 月 23 日消息,今天,全国 64 家门店, 正式开启新一代小米 SU7 的交付 。 IT之家注意到,小米汽车官方今日还宣布, 新一代 SU7 的双代言人 —— 舒淇 / 苏炳添语音彩蛋也已同步上线 ,覆盖主驾上车欢迎语、小憩模式、超速提示、运动模式、长途驾驶提示等场景。 据介绍,小憩模式的语音彩蛋暂时仅支持新一代 SU7,其他车型将在后续 OTA 中更新此功能。 另外,小米创办人、...",
+      "source": "Ithome",
+      "date": "2026-03-23",
+      "url": "https://www.ithome.com/0/931/910.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1774183295129987.html",
-      "title": "阿里巴巴蔡崇信:AI的终极目标是如何让AI的应用普及、造福社会",
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1006925",
+      "title": "文远知行-W(00800.HK):2025年收入增89.6%至6.85亿元,自动驾驶出租车收入增209%-FX168",
+      "summary": "文远知行(0800.HK)2025年收入6.85亿元人民币增89.6%,产品收入增310%,自动驾驶出租车收入增209%,经调整净亏损12.47亿元。全球车队规模达2113辆,业务覆盖12国40城,拥有8国自动驾驶牌照,获全球首张美国以外市级纯无人驾驶商业运营牌照。期末现金及等价物约70亿元。...",
+      "source": "Fx168News",
+      "date": "2026-03-23",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1006925"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1774267000129779.html",
+      "title": "放弃观望,选择押注,外企的中国AI投资逻辑变了",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-03-22",
-      "url": "https://www.bjnews.com.cn/detail/1774183295129987.html"
+      "date": "2026-03-23",
+      "url": "https://www.bjnews.com.cn/detail/1774267000129779.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860170151271565088",
-      "title": "老码头有了“新把式”!烟台港件杂货码头的“智”变和..",
-      "summary": "海风掠过山东港口烟台港芝罘湾港区件杂货码头作业现场,无人驾驶IGV(智能引导运输车)正沿着预定的路线将一卷卷钢材从堆场移至码头前沿,高大的门机驾驶舱内空无一人却将一辆辆重卡平稳地搬运至货轮,远处的电动...",
+      "id": "http://baijiahao.baidu.com/s?id=1860459810963563230",
+      "title": "从“苹果首选”到“德企组团”,成都凭什么?|成都发..",
+      "summary": "封面新闻记者杨芮雯“成都是世界上最具活力的地方之一,充满了创新,充满了创业精神,完全放松自在。”3月18日,苹果公司CEO蒂姆·库克现身成都春熙路商圈,出席苹果50周年全球庆典。作为在全球10个标志性...",
       "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860170151271565088"
+      "date": "2026-03-23",
+      "url": "http://baijiahao.baidu.com/s?id=1860459810963563230"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860367699576301141",
-      "title": "新消防员,我想对你说三句话",
-      "summary": "未来的路很长,或许艰苦,或许危险,但只要你们不忘学习、苦练本领、守住传统,就一定能在这支光荣的队伍里找到属于自己的舞台。新消防员就要下队了。看着营区里那些年轻又略带青涩的脸庞,我总会想起十年前的自己。...",
+      "id": "http://baijiahao.baidu.com/s?id=1860436026300478124",
+      "title": "从快递到出行,支付宝实况窗新增顺风车、骑行等四大场..",
+      "summary": "停车怕超时、骑车怕忘锁、打车怕错过、充电怕充满......针对这些出行高频痛点,鸿蒙版支付宝亮出了“实况窗”这张王牌。通过深度融合鸿蒙6系统能力,鸿蒙版支付宝在顺风车、骑行、四轮充电、停车四大高频出行场景新上...",
       "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860367699576301141"
+      "date": "2026-03-23",
+      "url": "http://baijiahao.baidu.com/s?id=1860436026300478124"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860360971197756767",
-      "title": "宇树科技的资本局:头部创投与产业资本齐聚,估值翻倍..",
-      "summary": "人形机器人登陆资本市场迎来里程碑式突破,宇树科技IPO申请获得受理,冲刺A股“具身智能第一股”,正式揭开这家公司的资本与技术面纱。宇树科技的资本版图以创始人绝对控股为核心,汇聚头部创投机构与产业资本,...",
+      "id": "http://baijiahao.baidu.com/s?id=1860456662725375688",
+      "title": "潍坊守宝人:从传统侦查“土办法”,构建起智慧预警模..",
+      "summary": "2016年深秋,一声枪响,撕裂了子夜的死寂。警车挡风玻璃应声而碎,子弹贴着头皮飞过,这是潍坊青州市公安局刑侦大队副大队长王会庆距离死亡最近的一次。20...",
       "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860360971197756767"
+      "date": "2026-03-23",
+      "url": "http://baijiahao.baidu.com/s?id=1860456662725375688"
     },
     {
-      "id": "https://post.smzdm.com/p/a03rrmdw/",
-      "title": "2026年最佳跑车:将为驾驶者带来前所未有的丰富体验。",
-      "summary": "2026年对于跑车市场而言,是动力系统革新与驾驶体验多元化的关键节点。这一年的市场呈现出传统内燃机、高性能混合动力以及纯电动技术并存的局面。在保留大排量发动机带来的激情同时,电气化技术为车辆提供了更强的瞬间扭矩和更先进的科技配置。以下精选的十款跑车,涵盖......",
-      "source": "Smzdm",
-      "date": "2026-03-22",
-      "url": "https://post.smzdm.com/p/a03rrmdw/"
+      "id": "https://www.chinanews.com.cn/cj/2026/03-23/10591592.shtml",
+      "title": "“发现最美铁路·浙闽通途看变迁”网络宣传活动走进福建宁德",
+      "summary": "中新网宁德3月23日电 (吴允杰)23日,“发现最美铁路·浙闽通途看变迁”网络宣传活动走进福建省宁德市,探访这座山海之城的发展脉动,感受铁路建设为当地经济社会发展注入的强劲动能。...",
+      "source": "Chinanews",
+      "date": "2026-03-23",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-23/10591592.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860174837284107512",
-      "title": "5月北京电动车头盔佩戴有新规,如何选戴看这里",
-      "summary": "新修订的《北京市非机动车管理条例》(以下简称《条例》)经市十六届人大常委会第二十次会议表决通过,将于2026年5月1日实施。届时,骑乘电动自行车佩戴安全头盔将从“倡导”变为“必须”。安全头盔应该如何选...",
+      "id": "http://baijiahao.baidu.com/s?id=1860450498719416789",
+      "title": "金山办公出“奇兵”:WPS for Pad改写全球..",
+      "summary": "2010年,苹果公司首代iPad问世。基本从那时起,“iPad能否替代PC”的争论便开始,一直持续至今。尽管iPad硬件性能早已超越多数笔记本,但软件生态的残缺,尤其是核心办公软件的功能不完备,让iP...",
       "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860174837284107512"
+      "date": "2026-03-23",
+      "url": "http://baijiahao.baidu.com/s?id=1860450498719416789"
     },
     {
-      "id": "https://www.jiemian.com/article/14146049.html",
-      "title": "2025年利润腰斩,新的一年大众背水一战",
-      "summary": "按照大众汽车集团的规划,2026年将在中国市场上市超过20款纯电动、插电式混合动力及增程式车型,到2027年扩大至30款,2030年达到50款。...",
-      "source": "Jiemian",
-      "date": "2026-03-22",
-      "url": "https://www.jiemian.com/article/14146049.html"
-    },
-    {
-      "id": "https://news.seehua.com/post/1457565",
-      "title": "巴西大桥坍塌酿14死 惊悚画面首曝光",
-      "summary": "(巴西利亚22日讯)巴西朱塞利诺库比契克(Juscelino Kubitschek)大桥坍塌造成14死3人失踪 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-03-22",
-      "url": "https://news.seehua.com/post/1457565"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860366253184172786",
-      "title": "校园、进乡村、进企业......龙江交警多点发力广宣传,守..",
-      "summary": "当前黑龙江正值春融期,昼融夜冻、路面湿滑及结冰等复杂路况使得全省道路交通安全风险随之升高。为切实筑牢春季开学季和春耕备耕期间道路交通安全防线,增强群众安全出行意识,全省各地公安交管部门结合辖区实际,开...",
+      "id": "http://baijiahao.baidu.com/s?id=1860458269528008888",
+      "title": "40分钟生命护航!费县交警紧急开道护送早产孕妇,母..",
+      "summary": "3月19日上午,平邑县一名怀孕七个月的孕妇突发羊水破裂、急需送往临沂市人民医院救治。临沂市公安局交通管理支队费县高速大队火速响应,指派执勤人员一路鸣笛开道,仅用40分钟将孕妇安全护送至医院,当天孕妇顺...",
       "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860366253184172786"
+      "date": "2026-03-23",
+      "url": "http://baijiahao.baidu.com/s?id=1860458269528008888"
     },
     {
-      "id": "https://www.ithome.com/0/931/521.htm",
-      "title": "乘客坐网约车受伤,浙江海宁法院判平台赔偿 32 万元",
-      "summary": "IT之家 3 月 22 日消息,网约车方便了我们的出行,但若在乘车过程中因交通事故受伤,该向司机索赔还是找平台?浙江海宁法院 3 月 20 日公布了一则案例。 IT之家从案例中获悉,2023 年 6 月,刘某通过网约车平台预约下单,乘坐宋某驾驶的网约车出行。行驶途中,因司机宋某操作不当,车辆撞向了路边护栏,造成刘某受伤。经鉴定,刘某的损伤构成十级伤残。经交警部门认定,宋某负事故全部责任。 治疗结束...",
-      "source": "Ithome",
-      "date": "2026-03-22",
-      "url": "https://www.ithome.com/0/931/521.htm"
+      "id": "https://www.chinanews.com.cn/gj/2026/03-23/10591496.shtml",
+      "title": "美国纽约机场客机与消防车相撞致2亡多伤",
+      "summary": "中新社纽约3月23日电 (记者 王帆 廖攀)美国纽约拉瓜迪亚机场22日晚发生民航客机与地面消防车相撞事故,造成2人身亡,另有多人受伤。...",
+      "source": "Chinanews",
+      "date": "2026-03-23",
+      "url": "https://www.chinanews.com.cn/gj/2026/03-23/10591496.shtml"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sports/story20260322-8772899",
-      "title": "车队多用轮胎违规 费斯塔彭纽博格林耐力赛冠军被取消",
-      "summary": "(尼尔堡综合电)在新加坡时间星期六(3月21日)进行的纽博格林耐力系列赛(NLS)第二轮正赛中,由四届世界一级方程式(F1)总冠军、荷兰车手费斯塔彭领衔的三号马赛地-AMG车组,以接近一分钟的巨大优势夺冠。但由于车队使用了超出规定的七套轮胎,成绩在赛后被取消。...",
-      "source": "Zaobao",
-      "date": "2026-03-22",
-      "url": "https://www.zaobao.com.sg/news/sports/story20260322-8772899"
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3275197",
+      "title": "Cantor Fitzgerald重申Eve Holding股票评级,看好飞行测试进展",
+      "summary": "Cantor Fitzgerald重申Eve Holding股票评级,看好飞行测试进展...",
+      "source": "Investing_Cn",
+      "date": "2026-03-23",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3275197"
     },
     {
-      "id": "https://www.ithome.com/0/931/536.htm",
-      "title": "吉利博越 REV 增程 SUV 开启预售:综合续航 1525km,预售价 12.79 万元起",
-      "summary": "IT之家 3 月 22 日消息,吉利旗下新一代长续航增程 SUV 博越 REV 已开启预售,预售价 12.79 万元起。新车搭载吉利超级铂金增程系统与神盾金砖电池,CLTC 工况下纯电续航里程 375 公里,满油满电综合续航达 1525 公里。 IT之家注意到,新车外观延续博越系列设计语言,融入海洋“潮生美学”概念,溜背造型实现 0.286Cd 风阻系数,提供水波蓝、海岩灰等四款海洋主题车漆。 车...",
-      "source": "Ithome",
-      "date": "2026-03-22",
-      "url": "https://www.ithome.com/0/931/536.htm"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3275236",
+      "title": "Mobileye(MBLY.US)获美国头部车企DMS订单 股价盘前大涨近5%",
+      "summary": "Mobileye(MBLY.US)获美国头部车企DMS订单 股价盘前大涨近5%...",
+      "source": "Investing_Cn",
+      "date": "2026-03-23",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3275236"
     },
     {
-      "id": "https://www.jiemian.com/article/14145961.html",
-      "title": "极氪想要再卖爆一款40万元豪华车,但这个事在今年格外难",
-      "summary": "大尺寸SUV是少数仍能同时承载空间、智能化和品牌溢价的细分品类,汽车公司正在这一细分市场密集布局。...",
-      "source": "Jiemian",
-      "date": "2026-03-22",
-      "url": "https://www.jiemian.com/article/14145961.html"
+      "id": "http://www.eeo.com.cn/2026/0323/816127.shtml",
+      "title": "鸿蒙智行十车齐发,全部搭载896线激光雷达",
+      "summary": "随着销量规模的不断扩大,鸿蒙智行已经到了重视“技术品牌”的节点,以技术驱动销售增长和品牌向上发展,是鸿蒙智行接下来重要的市场战略。...",
+      "source": "Eeo",
+      "date": "2026-03-23",
+      "url": "http://www.eeo.com.cn/2026/0323/816127.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860248226766945864",
-      "title": "武超则开直播!三位嘉宾围绕AI观点争锋,共识大投资..",
-      "summary": "财联社3月21日讯(记者高艳云)3月20日上午9:00,在华夏基金Deeptalk2026年第一期节目中,一场关于“AI新范式:无限进化的智能,共生还是重塑?”的思想盛宴以线上直播形式拉开帷幕。中国工...",
-      "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860248226766945864"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860348358886247320",
-      "title": "3个月超30笔融资!具身智能的估值狂飙与万亿赌局:..",
-      "summary": "具身智能融资,像是一辆正在发车的巴士,车门一旦关上,就没有补票的机会。而在巴士停稳前,资金已经开始争抢,焦虑蔓延,估值随之迅速抬高。据《每日经济新闻》记者(以下简称“每经记者”)初步统计,2026年开...",
-      "source": "News_Baidu",
-      "date": "2026-03-22",
-      "url": "http://baijiahao.baidu.com/s?id=1860348358886247320"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/03/22/trapped-inside-a-self-driving-car-during-an-anti-robot-attack",
+      "id": "https://indianexpress.com/shorts/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack-10595957/",
       "title": "Trapped! Inside a self-driving car during an anti-robot attack",
-      "summary": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted....",
-      "source": "The Star",
+      "summary": "Since autonomous cars started roaming San Francisco streets almost four years ago, they have elicited an array of reactions from humans, including angry protests against the vehicles. That has created...",
+      "source": "The Indian Express",
+      "date": "2026-03-23",
+      "url": "https://indianexpress.com/shorts/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack-10595957/"
+    },
+    {
+      "id": "https://www.morningstar.com/company-reports/1463140-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology",
+      "title": "Leading NEV Manufacturer With Advanced In-House Autonomous Driving Technology",
+      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
+      "source": "Morningstar",
+      "date": "2026-03-23",
+      "url": "https://www.morningstar.com/company-reports/1463140-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car",
+      "title": "World 'Physical AI' Adoption—Hails Tesla FSD, Waymo",
+      "summary": "Gene Munster predicts self-driving cars will be first real-world adoptions of physical AI, citing advancements by Tesla, Waymo....",
+      "source": "Benzinga",
+      "date": "2026-03-23",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car"
+    },
+    {
+      "id": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html",
+      "title": "Does the TESLA FSD CHIP Match the Human Brain ?",
+      "summary": "xAI already has the lowest cost per token in the industry (fastest/cheapest data centers, highest GPU utilization)....",
+      "source": "NextBigFuture.com",
       "date": "2026-03-22",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/03/22/trapped-inside-a-self-driving-car-during-an-anti-robot-attack"
+      "url": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html"
     },
     {
       "id": "https://www.businessinsider.com/uber-autonomous-vehicles-driverless-cancelled-project-catching-up-waymo-tesla-2026-3",
@@ -249,20 +248,20 @@
       "url": "https://www.benzinga.com/markets/tech/26/03/51355929/weride-storms-slovakia-with-nations-first-autonomous-driving-rollout"
     },
     {
-      "id": "https://www.manilatimes.net/2026/03/19/tmt-newswire/globenewswire/weride-enters-slovakia-launching-nations-first-autonomous-driving-program-with-elevate-slovakia/2303407",
-      "title": "WeRide Enters Slovakia, Launching Nation's First Autonomous Driving Program with ELEVATE Slovakia",
-      "summary": "WeRide Enters Slovakia, Launching Nation's First Autonomous Driving Program with ELEVATE Slovakia...",
-      "source": "The Manila Times",
+      "id": "https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html",
+      "title": "Tesla faces intensifying NHTSA probe of FSD in reduced visibility",
+      "summary": "The investigation involves Model S, X, 3, Y and Cybertruck EVs that can use the company's FSD-branded driver assistance systems....",
+      "source": "CNBC",
       "date": "2026-03-19",
-      "url": "https://www.manilatimes.net/2026/03/19/tmt-newswire/globenewswire/weride-enters-slovakia-launching-nations-first-autonomous-driving-program-with-elevate-slovakia/2303407"
+      "url": "https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html"
     },
     {
-      "id": "https://www.nextbigfuture.com/2026/03/nvidia-robotaxi-ready-is-tesla-doomed.html",
-      "title": "NVIDIA ROBOTAXI READY? IS TESLA DOOMED",
-      "summary": "Nvidia has new level 4 chips for autonomous driving....",
-      "source": "NextBigFuture.com",
+      "id": "https://www.newsmax.com/politics/tesla-national-highway-traffic-safety-admin-driver-assistance/2026/03/19/id/1250037/",
+      "title": "Auto Safety Regulator Intensifies Probe in Tesla Vehicles With FSD",
+      "summary": "The U.S. National Highway Traffic Safety Administration has intensified its probe into millions of Tesla vehicles, upgrading it to a more detailed engineering analysis of the company's driver assistan...",
+      "source": "Newsmax",
       "date": "2026-03-19",
-      "url": "https://www.nextbigfuture.com/2026/03/nvidia-robotaxi-ready-is-tesla-doomed.html"
+      "url": "https://www.newsmax.com/politics/tesla-national-highway-traffic-safety-admin-driver-assistance/2026/03/19/id/1250037/"
     }
   ]
 }
