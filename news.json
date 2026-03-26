@@ -1,201 +1,209 @@
 {
-  "lastUpdated": "2026-03-25 02:50:35",
-  "totalCount": 39,
+  "lastUpdated": "2026-03-26 02:57:21",
+  "totalCount": 35,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 5,
-    "Investing_Cn": 4,
-    "Fx168News": 1,
-    "Bjnews": 2,
-    "Ithome": 1,
+    "Chinanews": 1,
     "Cri_Cn": 1,
-    "Rfi_Fr": 1,
-    "Smzdm": 1,
+    "Smzdm": 4,
+    "Bjnews": 1,
+    "News_Baidu": 6,
+    "Investing_Cn": 1,
+    "Jiemian": 1,
+    "Ithome": 1,
+    "Seeking Alpha": 1,
+    "Bloomberg": 1,
+    "PR Newswire UK": 1,
+    "Benzinga": 2,
+    "Firstpost": 1,
+    "The Manila Times": 1,
     "Reuters": 1,
     "Vancouver Sun": 1,
     "The Province": 1,
     "Breaking Defense": 1,
-    "The Manila Times": 1,
-    "The Verge": 1,
-    "The Indian Express": 1,
-    "Morningstar": 1,
-    "Benzinga": 1,
     "NextBigFuture.com": 1,
     "Investor's Business Daily": 1,
     "Barchart": 1,
     "CNBC TV18": 1,
     "CNBC": 1,
     "Newsmax": 1,
-    "MarketScreener": 3
+    "MarketScreener": 2
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV182QfB2ExT",
-      "title": "【B站】【中配】为什么全自动驾驶汽车几乎是不可能的：极限挑战 - Business Insider",
-      "summary": "原视频：Why Fully Self-Driving Cars Are Almost Impossible | The Limit\n原作者：Business Insider\n发布日期：2026-03-21\n视频链接：https://www.youtube.com/watch?v=Kcq0tjmvGO...",
-      "source": "Bilibili",
+      "id": "https://www.chinanews.com.cn/edu/2026/03-25/10592867.shtml",
+      "title": "西电杭州研究院发布硅锗SPAD芯片 推动短波红外走进民用领域",
+      "summary": "中新网杭州3月25日电(曹丹 张一驰)3月25日,据西安电子科技大学(下称“西电”)杭州研究院集成电路研究所最新消息,该所胡辉勇团队于近日成功研制出基于硅锗工艺的单光子雪崩二极管(SPAD)芯片,将短波红外(SWIR)探测技术制造成本从“航天级”大幅降低至“平民级”,为该技术大规模进入民用市场铺平了道路。...",
+      "source": "Chinanews",
       "date": "2026-03-25",
-      "url": "https://www.bilibili.com/video/BV182QfB2ExT"
+      "url": "https://www.chinanews.com.cn/edu/2026/03-25/10592867.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-03-25",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1nTkwByEz8",
-      "title": "【B站】9车横评，辅助驾驶哪家强？",
-      "summary": "横评内容坚持不恰饭！...",
-      "source": "Bilibili",
-      "date": "2026-03-25",
-      "url": "https://www.bilibili.com/video/BV1nTkwByEz8"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1g2QiBEEe8",
-      "title": "【B站】清华&amp;吉利Challenger框架：自动驾驶对抗场景高效生成~",
-      "summary": "论文链接：https://arxiv.org/abs/2505.15880\n代码仓库(GitHub)：Pixtella/Challenger：https://github.com/Pixtella/Challenger\n项目主页：Challenger：https://pixtella.github....",
-      "source": "Bilibili",
-      "date": "2026-03-25",
-      "url": "https://www.bilibili.com/video/BV1g2QiBEEe8"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV13YQrBYEFA",
-      "title": "【B站】通向L4级自动驾驶的道路从未如此清晰 | 吴新宙 | Xinzhou Wu | 260317 | 原创中英字幕",
-      "summary": "完全自动驾驶快点来吧...",
-      "source": "Bilibili",
-      "date": "2026-03-25",
-      "url": "https://www.bilibili.com/video/BV13YQrBYEFA"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860523477201176159",
-      "title": "无人卡车提高效率 AI赋能助力中国与东盟商品快速通..",
-      "summary": "亚洲对世界经济起到主引擎作用,中国—东盟合作展现出强劲韧性和活力,数据显示,去年,我国对东盟进出口总值突破一万亿美元大关。今年是中国与东盟建立全面战略伙伴关系五周年。“十五五”规划纲要提出,推动中国—...",
-      "source": "News_Baidu",
-      "date": "2026-03-24",
-      "url": "http://baijiahao.baidu.com/s?id=1860523477201176159"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3277712",
-      "title": "亚马逊Zoox将在奥斯汀和迈阿密推出Robotaxi 商业化落地仍待审批",
-      "summary": "亚马逊Zoox将在奥斯汀和迈阿密推出Robotaxi 商业化落地仍待审批...",
-      "source": "Investing_Cn",
-      "date": "2026-03-24",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3277712"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3277706",
-      "title": "ParaZero完成400万美元定向增发",
-      "summary": "ParaZero完成400万美元定向增发...",
-      "source": "Investing_Cn",
-      "date": "2026-03-24",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3277706"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860551223821278882",
-      "title": "羊城突击队忠诚护平安 广州探索完善城市快反处突警务..",
-      "summary": "作为我国的“南大门”和改革开放的前沿阵地,广州市人流、物流、资金流快速涌动。为更好地维护社会治安,2016年2月1日,广州市公安机关探索建立城市快反处突警务模式,成立了广州公安羊城突击队(隶属广州市公...",
-      "source": "News_Baidu",
-      "date": "2026-03-24",
-      "url": "http://baijiahao.baidu.com/s?id=1860551223821278882"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3277655",
-      "title": "美股异动 | 2025年营收创历史新高 文远知行(WRD.US)开盘续涨超7%",
-      "summary": "美股异动 | 2025年营收创历史新高 文远知行(WRD.US)开盘续涨超7%...",
-      "source": "Investing_Cn",
-      "date": "2026-03-24",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3277655"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3277616",
-      "title": "Zoox将于今年晚些时候在奥斯汀和迈阿密推出无人驾驶出租车服务",
-      "summary": "Zoox将于今年晚些时候在奥斯汀和迈阿密推出无人驾驶出租车服务...",
-      "source": "Investing_Cn",
-      "date": "2026-03-24",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3277616"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860549122100676715",
-      "title": "以匠心筑经典,以远见越时代 新一代梅赛德斯-迈巴赫..",
-      "summary": "2026年3月24日,恰逢梅赛德斯-奔驰汽车发明140周年、迈巴赫品牌问世105周年双里程碑之际,新一代梅赛德斯-迈巴赫S级轿车于北京完成全球首秀。北京梅赛德斯-奔驰销售服务有限公司总裁兼首席执行官李...",
-      "source": "News_Baidu",
-      "date": "2026-03-24",
-      "url": "http://baijiahao.baidu.com/s?id=1860549122100676715"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1007452",
-      "title": "断层领先!禾赛营收破30亿、连续七季高增,跑出行业首个GAAP盈利-FX168",
-      "summary": "禾赛似乎已远远地甩下了竞争对手。...",
-      "source": "Fx168News",
-      "date": "2026-03-24",
-      "url": "https://www.fx168news.com/article/1007452"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1774353791169679.html",
-      "title": "骑电动自行车玩手机摔瘫痪,法院判决自担70%责任",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-03-24",
-      "url": "https://www.bjnews.com.cn/detail/1774353791169679.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860546519790992905",
-      "title": "在硝烟下的地区,你都能打到文远知行自动驾驶出租车丨..",
-      "summary": "“花城四季新彩广州”,如今,广州正以“大科创”体系为引领,系统推动新质生产力的发展。3月24日,在“科技广州新观察”系列采访活动中,广州日报记者来到广州“智驾三雄”之一的文远知行参观采访。“我们202...",
-      "source": "News_Baidu",
-      "date": "2026-03-24",
-      "url": "http://baijiahao.baidu.com/s?id=1860546519790992905"
-    },
-    {
-      "id": "https://www.ithome.com/0/932/274.htm",
-      "title": "极致奢华:2027 款梅赛德斯-迈巴赫 S 级发布",
-      "summary": "IT之家 3 月 24 日消息,2027 款梅赛德斯-迈巴赫 S 级已发布,为豪华车买家奉上梅赛德斯-奔驰所能提供的“极致”体验。 据IT之家了解,这款改款迈巴赫基于近期重磅升级的 W223 系列奔驰 S 级轿车打造,在气场、豪华感与科技感上实现全新跃升,同时提供近乎无限的车漆与内饰饰件组合,让你的四轮座驾彰显专属格调。 新车标配奔驰全新 4.0 升 M177 Evo 平面曲轴双涡轮增压 V8 汽...",
-      "source": "Ithome",
-      "date": "2026-03-24",
-      "url": "https://www.ithome.com/0/932/274.htm"
-    },
-    {
-      "id": "https://news.cri.cn/20260324/b6c1620b-c92e-a644-4ab1-aa902951ca3f.html",
-      "title": "博鳌亚洲论坛丨智慧环卫亮相博鳌 “数智治理”显成效-国际在线",
-      "summary": "无人驾驶清扫车沿路缓行,清扫街道,水面无人清扫船在河面穿行,打捞浮萍落叶......日前,海南省以博鳌镇为试点,推进首批智慧环卫示范建设,在博鳌亚洲论坛2026年年会期间交出亮眼答卷,为&ldqu...",
+      "id": "https://news.cri.cn/20260325/226999e0-2cf7-4e4e-814b-0ad148b52aa8.html",
+      "title": "晶采观察|体验消费增长强劲 中国经济“含金量”持续提升-国际在线",
+      "summary": "3月29日至4月3日,2026上海旅游产业博览会将在上海世博展览馆、国家会展中心(上海)、上海新国际博览中心三大展馆依次登场。70万平方米的展区,6000多家展商,还专门设置了机器人、无人驾驶船这些科技板块。展会的举办释放出一个信号:文...",
       "source": "Cri_Cn",
-      "date": "2026-03-24",
-      "url": "https://news.cri.cn/20260324/b6c1620b-c92e-a644-4ab1-aa902951ca3f.html"
+      "date": "2026-03-25",
+      "url": "https://news.cri.cn/20260325/226999e0-2cf7-4e4e-814b-0ad148b52aa8.html"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%A7%91%E6%8A%80%E6%97%B6%E7%A9%BA/20260324-terafab%E9%A1%B9%E7%9B%AE-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%9B%84%E5%BF%83%E5%A3%AE%E5%BF%97-%E4%B8%BA%E5%A4%AA%E7%A9%BA%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%B6%E9%80%A0%E5%8D%81%E4%BA%BF%E6%9E%9A%E8%8A%AF%E7%89%87",
-      "title": "Terafab项目——马斯克的雄心壮志:为太空和机器人制造十亿枚芯片",
-      "summary": "NewsData报道",
-      "source": "Rfi_Fr",
-      "date": "2026-03-24",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%A7%91%E6%8A%80%E6%97%B6%E7%A9%BA/20260324-terafab%E9%A1%B9%E7%9B%AE-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%9B%84%E5%BF%83%E5%A3%AE%E5%BF%97-%E4%B8%BA%E5%A4%AA%E7%A9%BA%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%B6%E9%80%A0%E5%8D%81%E4%BA%BF%E6%9E%9A%E8%8A%AF%E7%89%87"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggmz4xw/",
-      "title": "告别选择困难!欧拉5燃油版&混动版全场景实测",
-      "summary": "欧拉5定位为“全球时尚精品车”,目前已推出纯电、混动及燃油三种动力版本,旨在通过“一车多动力”策略适配不同的出行场景。以下实测将基于外观内饰设计、智能座舱体验及不同动力版本的驾驶表现,对该车型进行全面解析。01外观内饰设计欧拉5在外观上采用简约耐看的设计......",
+      "id": "https://post.smzdm.com/p/aqr349xv/",
+      "title": "36.98万元起!问界M8 Max增程长续航版正式开售",
+      "summary": "以科技赋能体验,以美学重塑新境!3月23日,“家庭智慧旗舰SUV”问界M8迎来重磅焕新升级。本次升级,问界M8在延续原有核心配置的基础上,聚焦智能感知、豪华美学、续航性能等领域实现多维突破:搭载896线双光路图像级激光雷达、升级左右两侧高精度固态激光雷达......",
       "source": "Smzdm",
-      "date": "2026-03-24",
-      "url": "https://post.smzdm.com/p/aggmz4xw/"
+      "date": "2026-03-25",
+      "url": "https://post.smzdm.com/p/aqr349xv/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1774270541129861.html",
-      "title": "奔驰康林松:持续深化本土合作,全力融入中国蓬勃的科技创新浪潮",
+      "id": "https://www.bjnews.com.cn/detail/1774426173129289.html",
+      "title": "鼎犀智创完成天使+轮融资,晶泰科技、上海未来产业基金领投,定义AI4M新质生产力",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-03-24",
-      "url": "https://www.bjnews.com.cn/detail/1774270541129861.html"
+      "date": "2026-03-25",
+      "url": "https://www.bjnews.com.cn/detail/1774426173129289.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860539113797905811",
-      "title": "高效服务助“开门红”!贵州外贸企业奔向海外有底气",
-      "summary": "3月22日,在大龙开发区贵州弘邦电子科技有限公司生产车间,金属点火枪的装配线在灯带下穿梭,检验台旁待发点火枪流水般“走”下生产线。不久后,这些点火枪将远赴海外,运往东南亚客户手中。弘邦电子公司产品展示...",
+      "id": "http://baijiahao.baidu.com/s?id=1860638055163446392",
+      "title": "如何让出租车司机“方便”更方便?",
+      "summary": "最近,有多位出租车司机反映,他们发现,前几年不少公共厕所附近,专门设立的出租车限时停车位消失了不少,导致他们现在要上厕所时,要么找不到停车位,要么停了车却担心被贴条,或者要付超时停车费。情况是否属实呢...",
       "source": "News_Baidu",
+      "date": "2026-03-25",
+      "url": "http://baijiahao.baidu.com/s?id=1860638055163446392"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860575759386637543",
+      "title": "骑车玩手机摔成植物人,家属索赔300万,网友吵翻!",
+      "summary": "骑电动自行车却三心二意玩手机,结果不慎撞到路边排水沟盖板,摔成植物人。这起事故后果应该由谁来承担?近日,北京房山法院审结一起因撞上路边翘起排水沟盖板而受伤索赔的案件。法院判决认定电动自行车驾驶人存在妨...",
+      "source": "News_Baidu",
+      "date": "2026-03-25",
+      "url": "http://baijiahao.baidu.com/s?id=1860575759386637543"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860637513948844068",
+      "title": "“贵阳造”无人驾驶批量投产——“城市机器人”开启城..",
+      "summary": "最近,不少贵阳市民在观山湖区街头,都偶遇过一支没有驾驶舱、也没有方向盘的“机器人车队”——它们造型科幻,在车流中穿行自如,遇红灯会停,见行人让路。“跑起来特别萌,一下子就被吸引了!”家住会展城的王小仟...",
+      "source": "News_Baidu",
+      "date": "2026-03-25",
+      "url": "http://baijiahao.baidu.com/s?id=1860637513948844068"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860626755437282544",
+      "title": "视频丨最新画面公布!首次披露无人艇编队实战化区域值..",
+      "summary": "来源:央视新闻客户端快艇没有驾驶员,却能在海上完成自主编队、灵活避障、精准拦截。这样科幻感十足的场景,日前在珠海海域真实上演。L30无人艇巡逻编队按照...",
+      "source": "News_Baidu",
+      "date": "2026-03-25",
+      "url": "http://baijiahao.baidu.com/s?id=1860626755437282544"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anvw4lw3/",
+      "title": "十年后的交通还会这么拥堵吗?我们模拟未来都市发现靠它能缓解25%的拥堵问题 | 张帆",
+      "summary": "随着城镇化进程加速,城市人口密度持续上升,交通系统面临拥堵、污染、安全及停车难等多重挑战。以深圳为例,40年间人口增长40倍,伴随而来的城市病日益显著。针对2035年的交通愿景,基于仿真模型的量化分析显示,通过微型交通、按需出行及无人驾驶等技术的综合应用......",
+      "source": "Smzdm",
+      "date": "2026-03-25",
+      "url": "https://post.smzdm.com/p/anvw4lw3/"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3279785",
+      "title": "drivebuddyAI获得印度面部识别系统专利",
+      "summary": "drivebuddyAI获得印度面部识别系统专利...",
+      "source": "Investing_Cn",
+      "date": "2026-03-25",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3279785"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860635277175327461",
+      "title": "博鳌面对面丨对话中国工程院院士张亚勤:透过博鳌25..",
+      "summary": "央广网北京3月25日消息(记者王泽华)据中央广播电视总台中国之声报道,正在进行的博鳌亚洲论坛2026年年会上,关于人工智能的话题不可谓不丰富。如“‘AI+’:数智赋能产业升级”“走进AI时代:把握机遇...",
+      "source": "News_Baidu",
+      "date": "2026-03-25",
+      "url": "http://baijiahao.baidu.com/s?id=1860635277175327461"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arz9o8lx/",
+      "title": "领克Z20提车了,但还是踩坑了",
+      "summary": "本次购车经历涵盖了从初次进店到最终提车的全过程,涉及销售策略变化、费用明细、实际驾驶体验及售后服务环节。针对领克Z20的购车流程及车辆表现,以下是对各环节的客观记录与总结。01购车经历与销售策略初次进店首次试驾时报价较高,无优惠,销售人员表示厂家政策不佳......",
+      "source": "Smzdm",
+      "date": "2026-03-25",
+      "url": "https://post.smzdm.com/p/arz9o8lx/"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14163604.html",
+      "title": "王宁要让狂飙的泡泡玛特“返厂维修”",
+      "summary": "达成史上最强业绩却遭遇股价大跌,也提供了重新审视泡泡玛特基本面的机会。...",
+      "source": "Jiemian",
+      "date": "2026-03-25",
+      "url": "https://www.jiemian.com/article/14163604.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860623210264078360",
+      "title": "最新画面公布!首次披露无人艇编队实战化区域值守演练",
+      "summary": "快艇没有驾驶员,却能在海上完成自主编队、灵活避障、精准拦截。这样科幻感十足的场景,日前在珠海海域真实上演。L30无人艇巡逻编队按照珠海公安水上指挥中心规划的路线,自主前往任务区域。...",
+      "source": "News_Baidu",
+      "date": "2026-03-25",
+      "url": "http://baijiahao.baidu.com/s?id=1860623210264078360"
+    },
+    {
+      "id": "https://www.ithome.com/0/932/688.htm",
+      "title": "奇瑞风云 T9L 开启预售:13.99 万-16.99 万元,定位“智美大五座 SUV”",
+      "summary": "IT之家 3 月 25 日消息,今天晚间,奇瑞旗下“智美大五座 SUV”风云 T9L 正式开启预售。新车提供 4 款不同配置,售价区间为 13.99 万-16.99 万元。 135 Pro:13.99 万元 135 Max:14.99 万元 230 Pro:15.99 万元 230 Max:16.99 万元 IT之家汇总该车主要信息如下: 其尺寸为 4870×1930×1710mm、轴距 2920...",
+      "source": "Ithome",
+      "date": "2026-03-25",
+      "url": "https://www.ithome.com/0/932/688.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03r9ovr/",
+      "title": "现款问界M8车主试驾新款问界M8!896线激光雷达上车后有什么变化",
+      "summary": "新款问界M8在外观、内饰及智能驾驶系统方面进行了多项升级。作为现款车主的试驾体验,重点在于其搭载了896线激光雷达及两侧固态激光雷达,构建了四雷达融合感知系统,大幅提升了辅助驾驶的识别精度与主动安全能力。以下是对新车具体变化的详细解析。01外观与内饰配置......",
+      "source": "Smzdm",
+      "date": "2026-03-25",
+      "url": "https://post.smzdm.com/p/a03r9ovr/"
+    },
+    {
+      "id": "https://seekingalpha.com/news/4568429-kodiak-ai-rallies-after-its-autonomous-driving-system-is-tasked-to-help-combat-attack-drones",
+      "title": "Kodiak AI rallies after its autonomous driving system is tasked to help combat attack drones",
+      "summary": "Kodiak AI (KDK) jumps on Leonidas autonomous defense vehicle news; Chardan reiterates Buy and $22 target....",
+      "source": "Seeking Alpha",
+      "date": "2026-03-25",
+      "url": "https://seekingalpha.com/news/4568429-kodiak-ai-rallies-after-its-autonomous-driving-system-is-tasked-to-help-combat-attack-drones"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-03-25/autonomous-driving-firm-deeproute-ai-is-said-to-consider-hong-kong-ipo",
+      "title": "Autonomous Driving Firm DeepRoute.ai Is Said to Consider Hong Kong IPO",
+      "summary": "Chinese autonomous driving company DeepRoute.ai is considering an initial public offering in Hong Kong, people familiar with the matter said, joining a growing list of tech firms selling shares in the...",
+      "source": "Bloomberg",
+      "date": "2026-03-25",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/autonomous-driving-firm-deeproute-ai-is-said-to-consider-hong-kong-ipo"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/global-autonomous-driving-software-market-to-reach-usd-4-4-billion-by-2032--driven-by-rising-integration-of-ai-powered-mobility-solutions-says-markntel-advisors-302721982.html",
+      "title": "Global Autonomous Driving Software Market to Reach USD 4.4 Billion by 2032, Driven by Rising Integration of AI-Powered Mobility Solutions, Says MarkNtel Advisors",
+      "summary": "/PRNewswire/ -- According to the latest market research study published by MarkNtel Advisors, the Global Autonomous Driving Software Market is projected to......",
+      "source": "PR Newswire UK",
+      "date": "2026-03-25",
+      "url": "https://www.prnewswire.co.uk/news-releases/global-autonomous-driving-software-market-to-reach-usd-4-4-billion-by-2032--driven-by-rising-integration-of-ai-powered-mobility-solutions-says-markntel-advisors-302721982.html"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/03/51456241/the-tesla-brand-has-hit-a-bottom-and-it-has-an-elon-musk-problem",
+      "title": "Tesla Brand Hits Bottom",
+      "summary": "Tesla ranks last in brand trust and perception, while FSD data shows Elon Musk is a key negative association, per EVIR report....",
+      "source": "Benzinga",
+      "date": "2026-03-25",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51456241/the-tesla-brand-has-hit-a-bottom-and-it-has-an-elon-musk-problem"
+    },
+    {
+      "id": "https://www.firstpost.com/auto/gm-launches-supervised-on-road-trials-of-next-generation-automated-driving-technology-13992830.html",
+      "title": "GM launches supervised on-road trials of next-generation automated driving technology",
+      "summary": "A history of high-profile mishaps has made automakers more cautious in advancing autonomous driving technology...",
+      "source": "Firstpost",
       "date": "2026-03-24",
-      "url": "http://baijiahao.baidu.com/s?id=1860539113797905811"
+      "url": "https://www.firstpost.com/auto/gm-launches-supervised-on-road-trials-of-next-generation-automated-driving-technology-13992830.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/25/business/maritime/singaporean-innovator-brings-green-tech-to-maritime-industry/2306167",
+      "title": "Singaporean innovator brings green tech to maritime industry",
+      "summary": "FROM virtual reality learning to world-class simulators and autonomous ships, digital technology has been the driving force behind the 21st century evolution of international shipping....",
+      "source": "The Manila Times",
+      "date": "2026-03-24",
+      "url": "https://www.manilatimes.net/2026/03/25/business/maritime/singaporean-innovator-brings-green-tech-to-maritime-industry/2306167"
     },
     {
       "id": "https://www.reuters.com/technology/zoox-widen-us-robotaxi-footprint-with-san-francisco-vegas-expansion-2026-03-24/",
@@ -230,44 +238,36 @@
       "url": "https://breakingdefense.com/2026/03/general-dynamics-led-team-unveils-self-driving-truck-with-microwave-counter-drone-tech/"
     },
     {
-      "id": "https://www.manilatimes.net/2026/03/24/fast-times/how-adas-is-changing-car-safety-in-the-philippine-market/2305224",
-      "title": "How ADAS is changing car safety in the Philippine market",
-      "summary": "AUTOMAKERS have long pursued the goal of fully autonomous vehicles — a topic we discussed in a separate article. But before self-driving cars can become a reality, advanced driver-assistance systems (...",
-      "source": "The Manila Times",
-      "date": "2026-03-23",
-      "url": "https://www.manilatimes.net/2026/03/24/fast-times/how-adas-is-changing-car-safety-in-the-philippine-market/2305224"
-    },
-    {
-      "id": "https://www.theverge.com/transportation/898916/gm-begins-supervised-autonomous-testing-on-public-roads",
-      "title": "GM begins ‘supervised’ autonomous testing on public roads.",
-      "summary": "The automaker plans to start supervised public-road testing on limited-access highways across California and Michigan, with the goal of reaching 200 vehicles this year. According to GM:\n> Each vehicle...",
-      "source": "The Verge",
-      "date": "2026-03-23",
-      "url": "https://www.theverge.com/transportation/898916/gm-begins-supervised-autonomous-testing-on-public-roads"
-    },
-    {
-      "id": "https://indianexpress.com/shorts/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack-10595957/",
-      "title": "Trapped! Inside a self-driving car during an anti-robot attack",
-      "summary": "Since autonomous cars started roaming San Francisco streets almost four years ago, they have elicited an array of reactions from humans, including angry protests against the vehicles. That has created...",
-      "source": "The Indian Express",
-      "date": "2026-03-23",
-      "url": "https://indianexpress.com/shorts/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack-10595957/"
-    },
-    {
-      "id": "https://www.morningstar.com/company-reports/1463140-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology",
-      "title": "Leading NEV Manufacturer With Advanced In-House Autonomous Driving Technology",
-      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
-      "source": "Morningstar",
-      "date": "2026-03-23",
-      "url": "https://www.morningstar.com/company-reports/1463140-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology"
-    },
-    {
       "id": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car",
       "title": "World 'Physical AI' Adoption—Hails Tesla FSD, Waymo",
       "summary": "Gene Munster predicts self-driving cars will be first real-world adoptions of physical AI, citing advancements by Tesla, Waymo....",
       "source": "Benzinga",
       "date": "2026-03-23",
       "url": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car"
+    },
+    {
+      "id": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html",
+      "title": "Does the TESLA FSD CHIP Match the Human Brain ?",
+      "summary": "xAI already has the lowest cost per token in the industry (fastest/cheapest data centers, highest GPU utilization)....",
+      "source": "NextBigFuture.com",
+      "date": "2026-03-22",
+      "url": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html"
+    },
+    {
+      "id": "https://www.investors.com/news/tesla-fsd-europe-approval-tsla-stock/",
+      "title": "Tesla FSD Poised To Win European Approval. But TSLA Stock Is Close To A Round Trip.",
+      "summary": "Tesla said Dutch regulators should approve Full Self-Driving (FSD) by April 10. But TSLA stock has nearly round-tripped a late 2025 run....",
+      "source": "Investor's Business Daily",
+      "date": "2026-03-20",
+      "url": "https://www.investors.com/news/tesla-fsd-europe-approval-tsla-stock/"
+    },
+    {
+      "id": "https://www.barchart.com/story/news/866801/tesla-faces-a-new-fsd-probe-what-does-that-mean-for-the-tsla-stock-bull-case",
+      "title": "Tesla Faces a New FSD Probe: What Does That Mean for the TSLA Stock Bull Case?",
+      "summary": "The NHTSA will probe the EV giant's FSD system....",
+      "source": "Barchart",
+      "date": "2026-03-20",
+      "url": "https://www.barchart.com/story/news/866801/tesla-faces-a-new-fsd-probe-what-does-that-mean-for-the-tsla-stock-bull-case"
     }
   ]
 }
