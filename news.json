@@ -1,161 +1,182 @@
 {
-  "lastUpdated": "2026-03-26 02:57:21",
-  "totalCount": 35,
+  "lastUpdated": "2026-03-27 03:18:56",
+  "totalCount": 34,
   "sources": {
-    "Chinanews": 1,
-    "Cri_Cn": 1,
-    "Smzdm": 4,
+    "Ithome": 3,
+    "Investing_Cn": 2,
+    "News_Seehua": 1,
+    "Imobile": 1,
+    "News_Baidu": 4,
     "Bjnews": 1,
-    "News_Baidu": 6,
-    "Investing_Cn": 1,
-    "Jiemian": 1,
-    "Ithome": 1,
+    "Chinanews": 3,
+    "The Manila Times": 3,
+    "MarketScreener": 2,
+    "NDTV.com": 1,
     "Seeking Alpha": 1,
     "Bloomberg": 1,
     "PR Newswire UK": 1,
     "Benzinga": 2,
     "Firstpost": 1,
-    "The Manila Times": 1,
     "Reuters": 1,
-    "Vancouver Sun": 1,
-    "The Province": 1,
-    "Breaking Defense": 1,
     "NextBigFuture.com": 1,
     "Investor's Business Daily": 1,
     "Barchart": 1,
     "CNBC TV18": 1,
     "CNBC": 1,
-    "Newsmax": 1,
-    "MarketScreener": 2
+    "Newsmax": 1
   },
   "news": [
     {
-      "id": "https://www.chinanews.com.cn/edu/2026/03-25/10592867.shtml",
-      "title": "西电杭州研究院发布硅锗SPAD芯片 推动短波红外走进民用领域",
-      "summary": "中新网杭州3月25日电(曹丹 张一驰)3月25日,据西安电子科技大学(下称“西电”)杭州研究院集成电路研究所最新消息,该所胡辉勇团队于近日成功研制出基于硅锗工艺的单光子雪崩二极管(SPAD)芯片,将短波红外(SWIR)探测技术制造成本从“航天级”大幅降低至“平民级”,为该技术大规模进入民用市场铺平了道路。...",
-      "source": "Chinanews",
-      "date": "2026-03-25",
-      "url": "https://www.chinanews.com.cn/edu/2026/03-25/10592867.shtml"
+      "id": "https://www.ithome.com/0/933/099.htm",
+      "title": "Epic 喜加二:《Hyper Echelon》《Havendock》游戏免费领取",
+      "summary": "IT之家 3 月 26 日消息,Epic 本周送出的游戏是《Hyper Echelon》《Havendock》,下周送出的游戏是《Clone Drone in the Danger Zone》。 领取链接: 《Hyper Echelon》 , 《Havendock》 IT之家附《Hyper Echelon》游戏简介: 皇家太空部队需要你!一个名为 EXODON 的邪恶外星势力给赛昂星系带来了混乱。...",
+      "source": "Ithome",
+      "date": "2026-03-26",
+      "url": "https://www.ithome.com/0/933/099.htm"
     },
     {
-      "id": "https://news.cri.cn/20260325/226999e0-2cf7-4e4e-814b-0ad148b52aa8.html",
-      "title": "晶采观察|体验消费增长强劲 中国经济“含金量”持续提升-国际在线",
-      "summary": "3月29日至4月3日,2026上海旅游产业博览会将在上海世博展览馆、国家会展中心(上海)、上海新国际博览中心三大展馆依次登场。70万平方米的展区,6000多家展商,还专门设置了机器人、无人驾驶船这些科技板块。展会的举办释放出一个信号:文...",
-      "source": "Cri_Cn",
-      "date": "2026-03-25",
-      "url": "https://news.cri.cn/20260325/226999e0-2cf7-4e4e-814b-0ad148b52aa8.html"
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3282776",
+      "title": "RBC Capital重申特斯拉股票跑赢大盘评级,目标价500美元",
+      "summary": "RBC Capital重申特斯拉股票跑赢大盘评级,目标价500美元...",
+      "source": "Investing_Cn",
+      "date": "2026-03-26",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3282776"
     },
     {
-      "id": "https://post.smzdm.com/p/aqr349xv/",
-      "title": "36.98万元起!问界M8 Max增程长续航版正式开售",
-      "summary": "以科技赋能体验,以美学重塑新境!3月23日,“家庭智慧旗舰SUV”问界M8迎来重磅焕新升级。本次升级,问界M8在延续原有核心配置的基础上,聚焦智能感知、豪华美学、续航性能等领域实现多维突破:搭载896线双光路图像级激光雷达、升级左右两侧高精度固态激光雷达......",
-      "source": "Smzdm",
-      "date": "2026-03-25",
-      "url": "https://post.smzdm.com/p/aqr349xv/"
+      "id": "https://news.seehua.com/post/1459441",
+      "title": "男女骗走100公升柴油 误导油站向后方司机拿钱后逃走",
+      "summary": "(合艾26日讯) 泰南宋卡府合艾一间PTT加油站发生一宗令人啼笑皆非的骗油事件,一对驾驶白色皮卡车的男女,在加 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-03-26",
+      "url": "https://news.seehua.com/post/1459441"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1774426173129289.html",
-      "title": "鼎犀智创完成天使+轮融资,晶泰科技、上海未来产业基金领投,定义AI4M新质生产力",
+      "id": "http://news.imobile.com.cn/articles/2026/0326/233920.shtml",
+      "title": "售15.19万-17.99万元,比亚迪宋Ultra EV开启B级SUV闪充时代",
+      "summary": "3月26日,比亚迪宋Ultra EV 正式上市,共4款车型,包括605KM领先型、605KM超越型、710KM超越型和710KM卓越型,官方指导价15.19万-17.99万元。新车全系搭载比亚迪第二代刀片电池及闪充技术,同时拥有710公里CLTC纯电续航、天神之眼B、云辇-C、TBC高速爆胎稳行系统等豪华配置,为消费者带来全新的纯电出行方式,全面开启闪充时代。 比亚迪王朝正在构建一个从购车、用车、...",
+      "source": "Imobile",
+      "date": "2026-03-26",
+      "url": "http://news.imobile.com.cn/articles/2026/0326/233920.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860727768029077920",
+      "title": "“龙虾”一键领养、暖心机器人陪伴,徐汇智造亮相全球..",
+      "summary": "3月27日至29日,全球开发者先锋大会(gdps)将在徐汇滨江精彩启幕,本届大会以“人工智能+”为核心,汇聚全球前沿ai技术与产品。会前探营中,记者走进徐汇本土参展企业,解锁两大重磅亮点——零基础可......",
+      "source": "News_Baidu",
+      "date": "2026-03-26",
+      "url": "http://baijiahao.baidu.com/s?id=1860727768029077920"
+    },
+    {
+      "id": "https://cn.investing.com/news/transcripts/article-93CH-3282443",
+      "title": "财报电话会议实录:小马智行第四季度每股收益超预期,首次实现盈利",
+      "summary": "财报电话会议实录:小马智行第四季度每股收益超预期,首次实现盈利...",
+      "source": "Investing_Cn",
+      "date": "2026-03-26",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3282443"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1774527725129417.html",
+      "title": "从iF奖看产业升级:欧定以创新引领中国“服装智造”新路径",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-03-25",
-      "url": "https://www.bjnews.com.cn/detail/1774426173129289.html"
+      "date": "2026-03-26",
+      "url": "https://www.bjnews.com.cn/detail/1774527725129417.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860638055163446392",
-      "title": "如何让出租车司机“方便”更方便?",
-      "summary": "最近,有多位出租车司机反映,他们发现,前几年不少公共厕所附近,专门设立的出租车限时停车位消失了不少,导致他们现在要上厕所时,要么找不到停车位,要么停了车却担心被贴条,或者要付超时停车费。情况是否属实呢...",
+      "id": "http://baijiahao.baidu.com/s?id=1860728471184170536",
+      "title": "在黄埔,用滴滴就能打到一辆自动驾驶车|科技广州新观..",
+      "summary": "“花城四季新彩广州”。当前广州正以“大科创”体系为引领,系统推动新质生产力的发展。3月26日,在“科技广州新观察”系列采访活动中,广州日报记者来到黄埔区,亲身体验了滴滴自动驾驶技术。在黄埔区,记者打开...",
       "source": "News_Baidu",
-      "date": "2026-03-25",
-      "url": "http://baijiahao.baidu.com/s?id=1860638055163446392"
+      "date": "2026-03-26",
+      "url": "http://baijiahao.baidu.com/s?id=1860728471184170536"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860575759386637543",
-      "title": "骑车玩手机摔成植物人,家属索赔300万,网友吵翻!",
-      "summary": "骑电动自行车却三心二意玩手机,结果不慎撞到路边排水沟盖板,摔成植物人。这起事故后果应该由谁来承担?近日,北京房山法院审结一起因撞上路边翘起排水沟盖板而受伤索赔的案件。法院判决认定电动自行车驾驶人存在妨...",
+      "id": "http://baijiahao.baidu.com/s?id=1860727781262108651",
+      "title": "从“大车空跑”到“地铁接驳”:长沙公交开通地铁微巴..",
+      "summary": "当城市进入地铁时代,公交要往哪里开?这是全国公交行业共同面临的命题。交通运输部数据显示,2019年至2024年,城市公共汽电车在城市公共客运量中的比重从54%跌至36%。在长沙,地铁运营里程突破236...",
       "source": "News_Baidu",
-      "date": "2026-03-25",
-      "url": "http://baijiahao.baidu.com/s?id=1860575759386637543"
+      "date": "2026-03-26",
+      "url": "http://baijiahao.baidu.com/s?id=1860727781262108651"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860637513948844068",
-      "title": "“贵阳造”无人驾驶批量投产——“城市机器人”开启城..",
-      "summary": "最近,不少贵阳市民在观山湖区街头,都偶遇过一支没有驾驶舱、也没有方向盘的“机器人车队”——它们造型科幻,在车流中穿行自如,遇红灯会停,见行人让路。“跑起来特别萌,一下子就被吸引了!”家住会展城的王小仟...",
-      "source": "News_Baidu",
-      "date": "2026-03-25",
-      "url": "http://baijiahao.baidu.com/s?id=1860637513948844068"
+      "id": "https://www.chinanews.com.cn/gj/2026/03-26/10593402.shtml",
+      "title": "“科技预言家”凯文·凯利:中国有望成为全球“酷”标杆",
+      "summary": "中新社北京3月26日电 (记者 陈杭)中国正身处AI等诸多技术发展前沿,有望成为令全世界向往且真正“酷”的标杆。“酷”并非跟随他人脚步,而是创造出让大家钦佩、渴望追随的创新。...",
+      "source": "Chinanews",
+      "date": "2026-03-26",
+      "url": "https://www.chinanews.com.cn/gj/2026/03-26/10593402.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860626755437282544",
-      "title": "视频丨最新画面公布!首次披露无人艇编队实战化区域值..",
-      "summary": "来源:央视新闻客户端快艇没有驾驶员,却能在海上完成自主编队、灵活避障、精准拦截。这样科幻感十足的场景,日前在珠海海域真实上演。L30无人艇巡逻编队按照...",
-      "source": "News_Baidu",
-      "date": "2026-03-25",
-      "url": "http://baijiahao.baidu.com/s?id=1860626755437282544"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anvw4lw3/",
-      "title": "十年后的交通还会这么拥堵吗?我们模拟未来都市发现靠它能缓解25%的拥堵问题 | 张帆",
-      "summary": "随着城镇化进程加速,城市人口密度持续上升,交通系统面临拥堵、污染、安全及停车难等多重挑战。以深圳为例,40年间人口增长40倍,伴随而来的城市病日益显著。针对2035年的交通愿景,基于仿真模型的量化分析显示,通过微型交通、按需出行及无人驾驶等技术的综合应用......",
-      "source": "Smzdm",
-      "date": "2026-03-25",
-      "url": "https://post.smzdm.com/p/anvw4lw3/"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3279785",
-      "title": "drivebuddyAI获得印度面部识别系统专利",
-      "summary": "drivebuddyAI获得印度面部识别系统专利...",
-      "source": "Investing_Cn",
-      "date": "2026-03-25",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3279785"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860635277175327461",
-      "title": "博鳌面对面丨对话中国工程院院士张亚勤:透过博鳌25..",
-      "summary": "央广网北京3月25日消息(记者王泽华)据中央广播电视总台中国之声报道,正在进行的博鳌亚洲论坛2026年年会上,关于人工智能的话题不可谓不丰富。如“‘AI+’:数智赋能产业升级”“走进AI时代:把握机遇...",
-      "source": "News_Baidu",
-      "date": "2026-03-25",
-      "url": "http://baijiahao.baidu.com/s?id=1860635277175327461"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arz9o8lx/",
-      "title": "领克Z20提车了,但还是踩坑了",
-      "summary": "本次购车经历涵盖了从初次进店到最终提车的全过程,涉及销售策略变化、费用明细、实际驾驶体验及售后服务环节。针对领克Z20的购车流程及车辆表现,以下是对各环节的客观记录与总结。01购车经历与销售策略初次进店首次试驾时报价较高,无优惠,销售人员表示厂家政策不佳......",
-      "source": "Smzdm",
-      "date": "2026-03-25",
-      "url": "https://post.smzdm.com/p/arz9o8lx/"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14163604.html",
-      "title": "王宁要让狂飙的泡泡玛特“返厂维修”",
-      "summary": "达成史上最强业绩却遭遇股价大跌,也提供了重新审视泡泡玛特基本面的机会。...",
-      "source": "Jiemian",
-      "date": "2026-03-25",
-      "url": "https://www.jiemian.com/article/14163604.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860623210264078360",
-      "title": "最新画面公布!首次披露无人艇编队实战化区域值守演练",
-      "summary": "快艇没有驾驶员,却能在海上完成自主编队、灵活避障、精准拦截。这样科幻感十足的场景,日前在珠海海域真实上演。L30无人艇巡逻编队按照珠海公安水上指挥中心规划的路线,自主前往任务区域。...",
-      "source": "News_Baidu",
-      "date": "2026-03-25",
-      "url": "http://baijiahao.baidu.com/s?id=1860623210264078360"
-    },
-    {
-      "id": "https://www.ithome.com/0/932/688.htm",
-      "title": "奇瑞风云 T9L 开启预售:13.99 万-16.99 万元,定位“智美大五座 SUV”",
-      "summary": "IT之家 3 月 25 日消息,今天晚间,奇瑞旗下“智美大五座 SUV”风云 T9L 正式开启预售。新车提供 4 款不同配置,售价区间为 13.99 万-16.99 万元。 135 Pro:13.99 万元 135 Max:14.99 万元 230 Pro:15.99 万元 230 Max:16.99 万元 IT之家汇总该车主要信息如下: 其尺寸为 4870×1930×1710mm、轴距 2920...",
+      "id": "https://www.ithome.com/0/933/080.htm",
+      "title": "大众、小鹏合作首款车型:中大型 SUV 与众 08 预售,23.99 万-29.99 万元",
+      "summary": "IT之家 3 月 26 日消息,今天晚间,大众汽车与小鹏汽车联合开发的首款车型 —— 中大型 SUV 与众 08 正式开启预售,价格区间为 23.99 万元-29.99 万元 。 据悉,该车被视为大众“在中国,为中国”战略的重要落地成果,搭载 800 伏高压超快充平台,全系标配小鹏汽车 VLA 全场景智能驾驶辅助系统,搭载高通 8295P 芯片,拥有同级领先的 1500TOPs 智驾算力,采用宁德...",
       "source": "Ithome",
-      "date": "2026-03-25",
-      "url": "https://www.ithome.com/0/932/688.htm"
+      "date": "2026-03-26",
+      "url": "https://www.ithome.com/0/933/080.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/a03r9ovr/",
-      "title": "现款问界M8车主试驾新款问界M8!896线激光雷达上车后有什么变化",
-      "summary": "新款问界M8在外观、内饰及智能驾驶系统方面进行了多项升级。作为现款车主的试驾体验,重点在于其搭载了896线激光雷达及两侧固态激光雷达,构建了四雷达融合感知系统,大幅提升了辅助驾驶的识别精度与主动安全能力。以下是对新车具体变化的详细解析。01外观与内饰配置......",
-      "source": "Smzdm",
-      "date": "2026-03-25",
-      "url": "https://post.smzdm.com/p/a03r9ovr/"
+      "id": "https://www.chinanews.com.cn/cj/2026/03-26/10593387.shtml",
+      "title": "(聚焦博鳌)2026年或成“智能体AI元年”,人机协作重塑未来",
+      "summary": "中新社博鳌3月26日电 题:2026年或成“智能体AI元年”,人机协作重塑未来...",
+      "source": "Chinanews",
+      "date": "2026-03-26",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-26/10593387.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/03-26/10593368.shtml",
+      "title": "河北立法助力京津冀世界级机场群建设",
+      "summary": "中新网石家庄3月26日电(赵丹媚 谌诗雨 刘明畅)3月26日,河北省十四届人大常委会第二十次会议表决通过了《河北省民用机场条例》(以下简称《条例》),自今年7月1日起正式施行,这是河北民航领域的第一部地方性法规,将为河北深度融入京津冀世界级机场群提供坚强法治保障。...",
+      "source": "Chinanews",
+      "date": "2026-03-26",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-26/10593368.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/933/073.htm",
+      "title": "长城汽车魏牌赵永坡:智能驾驶路线上传感器越多未必越好,内耗反而抵消优势",
+      "summary": "IT之家 3 月 26 日消息,长城汽车魏牌 CEO 赵永坡昨日发布视频,谈及了智能驾驶路线的选择。他表示,特斯拉笃信纯视觉,国内多数车企选择激光雷达 + 视觉融合。 但传感器越多未必越好,内耗反而抵消优势 。 赵永坡视频用气球举例,当搭载激光雷达 + 视觉融合方案的车辆在行驶过程中遇到了一个气球时,激光雷达会扫描并告诉汽车前方有球状物体,但材质不知;摄像头会捕捉到气球的画面,并通过算法告诉汽车前...",
+      "source": "Ithome",
+      "date": "2026-03-26",
+      "url": "https://www.ithome.com/0/933/073.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860727107252049454",
+      "title": "越野也能高阶智驾!纵横G700智境乾崑版征服丽江",
+      "summary": "丽江,雪山旷野与古城烟火交相辉映,茶马古道与秘境险途纵横交错。这片兼具自然挑战与人文底蕴的土地,正是检验智能越野硬实力的天然试炼场。2026年3月23日,“至前所未至”纵横G700全领域智控试驾体验营...",
+      "source": "News_Baidu",
+      "date": "2026-03-26",
+      "url": "http://baijiahao.baidu.com/s?id=1860727107252049454"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/26/tmt-newswire/globenewswire/pony-ai-inc-scales-with-160-robotaxi-revenues-growth-yoy-and-500-fare-charging-revenues-surge-yoy-in-q4-targeting-deployment-in-20-cities-by-year-end/2308172",
+      "title": "PONY AI Inc. Scales with 160% Robotaxi Revenues Growth YoY and 500%+ Fare-Charging Revenues Surge YoY in Q4, Targeting Deployment in 20+ Cities by Year-End",
+      "summary": "Strengthening revenue trajectory - Robotaxi revenues rose by 160% year-over-year in Q4, with fare-charging revenues surging by over 500%.Accelerating fleet and geographic expansion - Robotaxi scaling ...",
+      "source": "The Manila Times",
+      "date": "2026-03-26",
+      "url": "https://www.manilatimes.net/2026/03/26/tmt-newswire/globenewswire/pony-ai-inc-scales-with-160-robotaxi-revenues-growth-yoy-and-500-fare-charging-revenues-surge-yoy-in-q4-targeting-deployment-in-20-cities-by-year-end/2308172"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/26/tmt-newswire/pr-newswire/verne-ponyai-and-uber-partner-to-launch-europes-first-commercial-robotaxi-service/2308161",
+      "title": "Verne, Pony.ai, and Uber Partner to Launch Europe's First Commercial Robotaxi Service",
+      "summary": "The partnership will soon begin in Zagreb, before expanding to additional cities in Europe and beyondZAGREB, Croatia, March 26, 2026 /PRNewswire/ -- Verne, Pony AI Inc. ('Pony.ai') (NASDAQ: PONY; HKEX...",
+      "source": "The Manila Times",
+      "date": "2026-03-26",
+      "url": "https://www.manilatimes.net/2026/03/26/tmt-newswire/pr-newswire/verne-ponyai-and-uber-partner-to-launch-europes-first-commercial-robotaxi-service/2308161"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/pony-ai-partners-with-uber-verne-to-deploy-robotaxis-in-europe-ce7e51dadb89f120",
+      "title": "Pony AI Partners With Uber, Verne to Deploy Robotaxis in Europe",
+      "summary": "By Jiahui Huang\nChina's Pony AI is partnering with Uber Technologies and autonomous driving startup Verne to deploy a robotaxi service in Europe, expanding its footprint overseas as it races......",
+      "source": "MarketScreener",
+      "date": "2026-03-26",
+      "url": "https://www.marketscreener.com/news/pony-ai-partners-with-uber-verne-to-deploy-robotaxis-in-europe-ce7e51dadb89f120"
+    },
+    {
+      "id": "https://www.ndtv.com/auto/tesla-fsd-helps-deaf-driver-detect-ambulance-pull-over-safely-watch-video-11269020",
+      "title": "Tesla FSD Helps Deaf Driver Detect Ambulance, Pull Over Safely: Watch Video",
+      "summary": "Tesla FSD detects ambulance and pulls over for deaf driver, highlighting accessibility benefits; however, the feature remains unavailable in India pending regulatory approval....",
+      "source": "NDTV.com",
+      "date": "2026-03-26",
+      "url": "https://www.ndtv.com/auto/tesla-fsd-helps-deaf-driver-detect-ambulance-pull-over-safely-watch-video-11269020"
     },
     {
       "id": "https://seekingalpha.com/news/4568429-kodiak-ai-rallies-after-its-autonomous-driving-system-is-tasked-to-help-combat-attack-drones",
@@ -212,30 +233,6 @@
       "source": "Reuters",
       "date": "2026-03-24",
       "url": "https://www.reuters.com/technology/zoox-widen-us-robotaxi-footprint-with-san-francisco-vegas-expansion-2026-03-24/"
-    },
-    {
-      "id": "https://vancouversun.com/business/waymo-pushes-bc-allow-self-driving-cars-provincial-roads",
-      "title": "Waymo pushes B.C. to allow self-driving cars on provincial roads",
-      "summary": "Autonomous driving giant has rolled out its fleet to more U.S. cities, with designs on global expansion, and has stepped up lobbying in Canada...",
-      "source": "Vancouver Sun",
-      "date": "2026-03-24",
-      "url": "https://vancouversun.com/business/waymo-pushes-bc-allow-self-driving-cars-provincial-roads"
-    },
-    {
-      "id": "https://theprovince.com/business/waymo-pushes-bc-allow-self-driving-cars-provincial-roads/wcm/669a5828-722e-4d5b-a48f-a93f400a060d",
-      "title": "Autonomous driving giant Waymo pushes B.C. to allow self-driving cars on provincial roads",
-      "summary": "Autonomous driving giant has rolled out its fleet to more U.S. cities, with designs on global expansion, and has stepped up lobbying in Canada...",
-      "source": "The Province",
-      "date": "2026-03-24",
-      "url": "https://theprovince.com/business/waymo-pushes-bc-allow-self-driving-cars-provincial-roads/wcm/669a5828-722e-4d5b-a48f-a93f400a060d"
-    },
-    {
-      "id": "https://breakingdefense.com/2026/03/general-dynamics-led-team-unveils-self-driving-truck-with-microwave-counter-drone-tech/",
-      "title": "driving truck with microwave counter",
-      "summary": "The Leonidas Autonomous Ground Vehicle consists of a commercial Ford F600 model truck tricked out with Kodiak’s autonomous driving software and Eprius’ high-power microwave (HPM) c-UAS platform....",
-      "source": "Breaking Defense",
-      "date": "2026-03-24",
-      "url": "https://breakingdefense.com/2026/03/general-dynamics-led-team-unveils-self-driving-truck-with-microwave-counter-drone-tech/"
     },
     {
       "id": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car",
