@@ -1,14 +1,16 @@
 {
-  "lastUpdated": "2026-03-27 03:18:56",
-  "totalCount": 34,
+  "lastUpdated": "2026-03-28 02:49:33",
+  "totalCount": 39,
   "sources": {
-    "Ithome": 3,
-    "Investing_Cn": 2,
-    "News_Seehua": 1,
-    "Imobile": 1,
-    "News_Baidu": 4,
-    "Bjnews": 1,
-    "Chinanews": 3,
+    "Bilibili": 5,
+    "Prnasia": 1,
+    "Intimes": 1,
+    "Cri_Cn": 1,
+    "Chinanews": 2,
+    "Bjnews": 2,
+    "News_Baidu": 6,
+    "Investing_Cn": 1,
+    "Ithome": 1,
     "The Manila Times": 3,
     "MarketScreener": 2,
     "NDTV.com": 1,
@@ -27,124 +29,164 @@
   },
   "news": [
     {
-      "id": "https://www.ithome.com/0/933/099.htm",
-      "title": "Epic 喜加二:《Hyper Echelon》《Havendock》游戏免费领取",
-      "summary": "IT之家 3 月 26 日消息,Epic 本周送出的游戏是《Hyper Echelon》《Havendock》,下周送出的游戏是《Clone Drone in the Danger Zone》。 领取链接: 《Hyper Echelon》 , 《Havendock》 IT之家附《Hyper Echelon》游戏简介: 皇家太空部队需要你!一个名为 EXODON 的邪恶外星势力给赛昂星系带来了混乱。...",
-      "source": "Ithome",
-      "date": "2026-03-26",
-      "url": "https://www.ithome.com/0/933/099.htm"
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-03-28",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3282776",
-      "title": "RBC Capital重申特斯拉股票跑赢大盘评级,目标价500美元",
-      "summary": "RBC Capital重申特斯拉股票跑赢大盘评级,目标价500美元...",
-      "source": "Investing_Cn",
-      "date": "2026-03-26",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3282776"
+      "id": "https://www.bilibili.com/video/BV16bXgBZE3B",
+      "title": "【B站】来了！自研智驾芯片、千线激光雷达、世界模型、L4级自动驾驶，比亚迪智驾布局前瞻",
+      "summary": "先说结论，电动化下半场，比亚迪将正式开启以“世界模型”为底座、以“算力与感知平权”为标志的智驾技术路线。底层硬件上，大概率将通过引入支持全品类定制的速腾聚创EM4数字化激光雷达，重塑高阶感知的成本底线。算力架构上，形成地平线方案主打规模化普及、英伟达DRIVE Hyperion全栈共建直指L4级上限...",
+      "source": "Bilibili",
+      "date": "2026-03-28",
+      "url": "https://www.bilibili.com/video/BV16bXgBZE3B"
     },
     {
-      "id": "https://news.seehua.com/post/1459441",
-      "title": "男女骗走100公升柴油 误导油站向后方司机拿钱后逃走",
-      "summary": "(合艾26日讯) 泰南宋卡府合艾一间PTT加油站发生一宗令人啼笑皆非的骗油事件,一对驾驶白色皮卡车的男女,在加 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-03-26",
-      "url": "https://news.seehua.com/post/1459441"
+      "id": "https://www.bilibili.com/video/BV182QfB2ExT",
+      "title": "【B站】【中配】为什么全自动驾驶汽车几乎是不可能的：极限挑战 - Business Insider",
+      "summary": "原视频：Why Fully Self-Driving Cars Are Almost Impossible | The Limit\n原作者：Business Insider\n发布日期：2026-03-21\n视频链接：https://www.youtube.com/watch?v=Kcq0tjmvGO...",
+      "source": "Bilibili",
+      "date": "2026-03-28",
+      "url": "https://www.bilibili.com/video/BV182QfB2ExT"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0326/233920.shtml",
-      "title": "售15.19万-17.99万元,比亚迪宋Ultra EV开启B级SUV闪充时代",
-      "summary": "3月26日,比亚迪宋Ultra EV 正式上市,共4款车型,包括605KM领先型、605KM超越型、710KM超越型和710KM卓越型,官方指导价15.19万-17.99万元。新车全系搭载比亚迪第二代刀片电池及闪充技术,同时拥有710公里CLTC纯电续航、天神之眼B、云辇-C、TBC高速爆胎稳行系统等豪华配置,为消费者带来全新的纯电出行方式,全面开启闪充时代。 比亚迪王朝正在构建一个从购车、用车、...",
-      "source": "Imobile",
-      "date": "2026-03-26",
-      "url": "http://news.imobile.com.cn/articles/2026/0326/233920.shtml"
+      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
+      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
+      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
+      "source": "Bilibili",
+      "date": "2026-03-28",
+      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860727768029077920",
-      "title": "“龙虾”一键领养、暖心机器人陪伴,徐汇智造亮相全球..",
-      "summary": "3月27日至29日,全球开发者先锋大会(gdps)将在徐汇滨江精彩启幕,本届大会以“人工智能+”为核心,汇聚全球前沿ai技术与产品。会前探营中,记者走进徐汇本土参展企业,解锁两大重磅亮点——零基础可......",
-      "source": "News_Baidu",
-      "date": "2026-03-26",
-      "url": "http://baijiahao.baidu.com/s?id=1860727768029077920"
+      "id": "https://www.bilibili.com/video/BV1XAQmB7E3D",
+      "title": "【B站】用小鹏VLA2.0横穿中国！能行么？【上集】",
+      "summary": "下集更精彩！...",
+      "source": "Bilibili",
+      "date": "2026-03-28",
+      "url": "https://www.bilibili.com/video/BV1XAQmB7E3D"
     },
     {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3282443",
-      "title": "财报电话会议实录:小马智行第四季度每股收益超预期,首次实现盈利",
-      "summary": "财报电话会议实录:小马智行第四季度每股收益超预期,首次实现盈利...",
-      "source": "Investing_Cn",
-      "date": "2026-03-26",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3282443"
+      "id": "https://www.prnasia.com/story/527155-1.shtml",
+      "title": "MemoryS 2026|江波龙首发SPU及iSA,端侧AI存储创新布局八大看点解读",
+      "summary": "深圳 2026年3月27日 /美通社/ -- 2026年3月27日,CFM | MemoryS 2026在深圳盛大启幕,全球存储产业链精英齐聚,共探AI时代存储产业的变革与未来。江波龙董事长、总经理蔡华波先生受邀出席并发表《集成存储 探索端侧AI》主旨演讲,立足行业发展趋势与江波龙创新积淀,从定位、模式、产品、技术等多维度,全面分享公司对端侧AI存储的核心理解与综合创新成果,为端侧AI存储产业带来...",
+      "source": "Prnasia",
+      "date": "2026-03-27",
+      "url": "https://www.prnasia.com/story/527155-1.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1774527725129417.html",
-      "title": "从iF奖看产业升级:欧定以创新引领中国“服装智造”新路径",
+      "id": "https://intimes.com.my/news2a/index.php/2018-07-09-11-40-04/item/111622-2",
+      "title": "缅甸推每周燃油配额措施 限一周仅可加2次油",
+      "summary": "(综合27日电)面对缅甸国内燃油供应吃紧情况,缅甸能源部宣布,将在下周起,依据车辆引擎排气量(Engine Capacity)设定每周购买燃油配额。 根据《泰国民族报》引述报道,在该新系统下,每辆交通工具每周可购买的然后总量,将取决于引擎马力。车主可选择每周一次性使用所有额度,或分成最多两次使用。 缅甸能源部表示,这项新措施将全面整合至目前使用的条码(barcode)及二维码(QR Code)平台...",
+      "source": "Intimes",
+      "date": "2026-03-27",
+      "url": "https://intimes.com.my/news2a/index.php/2018-07-09-11-40-04/item/111622-2"
+    },
+    {
+      "id": "https://news.cri.cn/20260327/4160dc8f-8e25-bc7a-bdd1-51d7fd635621.html",
+      "title": "从“种地”到“慧种地”:中国智慧春耕跑出“加速度”-国际在线",
+      "summary": "新华社南京3月27日电题:从“种地”到“慧种地”:中国智慧春耕跑出“加速度” 新华社记者何磊静 春日...",
+      "source": "Cri_Cn",
+      "date": "2026-03-27",
+      "url": "https://news.cri.cn/20260327/4160dc8f-8e25-bc7a-bdd1-51d7fd635621.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/03-27/10594155.shtml",
+      "title": "“人工智能+产业”论坛在京举办 “全国场景供需对接平台”启动",
+      "summary": "中新网北京3月27日电 (记者 吕少威)新一轮科技革命与产业变革加速演进,人工智能成为全球产业竞争的核心赛道。27日,2026中关村论坛年会“人工智能+产业”论坛举行。论坛上,全国场景供需对接平台正式启动。...",
+      "source": "Chinanews",
+      "date": "2026-03-27",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-27/10594155.shtml"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1774614974129353.html",
+      "title": "曹操出行上市后首份年报:去年营收破200亿,四季度经调整盈利",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-03-26",
-      "url": "https://www.bjnews.com.cn/detail/1774527725129417.html"
+      "date": "2026-03-27",
+      "url": "https://www.bjnews.com.cn/detail/1774614974129353.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860728471184170536",
-      "title": "在黄埔,用滴滴就能打到一辆自动驾驶车|科技广州新观..",
-      "summary": "“花城四季新彩广州”。当前广州正以“大科创”体系为引领,系统推动新质生产力的发展。3月26日,在“科技广州新观察”系列采访活动中,广州日报记者来到黄埔区,亲身体验了滴滴自动驾驶技术。在黄埔区,记者打开...",
+      "id": "http://baijiahao.baidu.com/s?id=1860808917039634336",
+      "title": "衣食住行皆科技:2026中关村论坛上的“未来生活”",
+      "summary": "国际在线报道(记者马睿丽):2026中关村论坛年会如约而至,这场以“科技创新与产业创新深度融合”为主题的科技盛会,让人们真切感受到:科技正在悄然改变我们的衣食住行。AR眼镜让“交流”无障碍在论坛开幕式...",
       "source": "News_Baidu",
-      "date": "2026-03-26",
-      "url": "http://baijiahao.baidu.com/s?id=1860728471184170536"
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860808917039634336"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860727781262108651",
-      "title": "从“大车空跑”到“地铁接驳”:长沙公交开通地铁微巴..",
-      "summary": "当城市进入地铁时代,公交要往哪里开?这是全国公交行业共同面临的命题。交通运输部数据显示,2019年至2024年,城市公共汽电车在城市公共客运量中的比重从54%跌至36%。在长沙,地铁运营里程突破236...",
+      "id": "http://baijiahao.baidu.com/s?id=1860819207293549087",
+      "title": "铁骑尖兵,练练练",
+      "summary": "本文转自【东部战区】;近日东部战区空军某部汽车分队紧贴实战化保障需求聚焦安全驾驶核心课目开展“群众性岗位练兵”活动在实战实训中提升官兵胜战本领训练场上,引擎轰鸣该部严格依照军事训练大纲要求科学组训施训...",
       "source": "News_Baidu",
-      "date": "2026-03-26",
-      "url": "http://baijiahao.baidu.com/s?id=1860727781262108651"
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860819207293549087"
     },
     {
-      "id": "https://www.chinanews.com.cn/gj/2026/03-26/10593402.shtml",
-      "title": "“科技预言家”凯文·凯利:中国有望成为全球“酷”标杆",
-      "summary": "中新社北京3月26日电 (记者 陈杭)中国正身处AI等诸多技术发展前沿,有望成为令全世界向往且真正“酷”的标杆。“酷”并非跟随他人脚步,而是创造出让大家钦佩、渴望追随的创新。...",
-      "source": "Chinanews",
-      "date": "2026-03-26",
-      "url": "https://www.chinanews.com.cn/gj/2026/03-26/10593402.shtml"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3284936",
+      "title": "“宏图计划5.0”猜想:Wedbush预测特斯拉(TSLA.US)与SpaceX或于明年迎来历史性合并",
+      "summary": "“宏图计划5.0”猜想:Wedbush预测特斯拉(TSLA.US)与SpaceX或于明年迎来历史性合并...",
+      "source": "Investing_Cn",
+      "date": "2026-03-27",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3284936"
     },
     {
-      "id": "https://www.ithome.com/0/933/080.htm",
-      "title": "大众、小鹏合作首款车型:中大型 SUV 与众 08 预售,23.99 万-29.99 万元",
-      "summary": "IT之家 3 月 26 日消息,今天晚间,大众汽车与小鹏汽车联合开发的首款车型 —— 中大型 SUV 与众 08 正式开启预售,价格区间为 23.99 万元-29.99 万元 。 据悉,该车被视为大众“在中国,为中国”战略的重要落地成果,搭载 800 伏高压超快充平台,全系标配小鹏汽车 VLA 全场景智能驾驶辅助系统,搭载高通 8295P 芯片,拥有同级领先的 1500TOPs 智驾算力,采用宁德...",
+      "id": "http://baijiahao.baidu.com/s?id=1860817352143576565",
+      "title": "2026中关村论坛年会|专访光轮智能总裁杨海波:数..",
+      "summary": "春回大地,天气转暖,一台台满载苏打水的配送机器人穿梭在2026中关村论坛年会现场,供与会嘉宾方便快捷地取用。而让一台机器人——不管是人形、轮式,抑或机械臂、灵巧手,稳定抓取一瓶矿泉水、精准控制力度拧开...",
+      "source": "News_Baidu",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860817352143576565"
+    },
+    {
+      "id": "https://www.ithome.com/0/933/472.htm",
+      "title": "零跑 A10 小车确认搭载禾赛 ATX 激光雷达,全车共 27 个高精度感知硬件",
+      "summary": "IT之家 3 月 27 日消息,3 月 26 日晚, 零跑“智能精品长续航 SUV”新车 A10 正式上市 ,提供 505 激光雷达版,售价区间为 6.58 万-8.68 万元。 IT之家从禾赛科技官方获悉, 零跑 A10 小车 505 激光雷达版搭载含禾赛 ATX 激光雷达在内的 27 个高精度感知硬件 ,与高通 8650 辅助驾驶芯片,可实现同级唯一“车位到车位”全场景领航辅助驾驶能力:用户设...",
       "source": "Ithome",
-      "date": "2026-03-26",
-      "url": "https://www.ithome.com/0/933/080.htm"
+      "date": "2026-03-27",
+      "url": "https://www.ithome.com/0/933/472.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-26/10593387.shtml",
-      "title": "(聚焦博鳌)2026年或成“智能体AI元年”,人机协作重塑未来",
-      "summary": "中新社博鳌3月26日电 题:2026年或成“智能体AI元年”,人机协作重塑未来...",
-      "source": "Chinanews",
-      "date": "2026-03-26",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-26/10593387.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-26/10593368.shtml",
-      "title": "河北立法助力京津冀世界级机场群建设",
-      "summary": "中新网石家庄3月26日电(赵丹媚 谌诗雨 刘明畅)3月26日,河北省十四届人大常委会第二十次会议表决通过了《河北省民用机场条例》(以下简称《条例》),自今年7月1日起正式施行,这是河北民航领域的第一部地方性法规,将为河北深度融入京津冀世界级机场群提供坚强法治保障。...",
-      "source": "Chinanews",
-      "date": "2026-03-26",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-26/10593368.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/933/073.htm",
-      "title": "长城汽车魏牌赵永坡:智能驾驶路线上传感器越多未必越好,内耗反而抵消优势",
-      "summary": "IT之家 3 月 26 日消息,长城汽车魏牌 CEO 赵永坡昨日发布视频,谈及了智能驾驶路线的选择。他表示,特斯拉笃信纯视觉,国内多数车企选择激光雷达 + 视觉融合。 但传感器越多未必越好,内耗反而抵消优势 。 赵永坡视频用气球举例,当搭载激光雷达 + 视觉融合方案的车辆在行驶过程中遇到了一个气球时,激光雷达会扫描并告诉汽车前方有球状物体,但材质不知;摄像头会捕捉到气球的画面,并通过算法告诉汽车前...",
-      "source": "Ithome",
-      "date": "2026-03-26",
-      "url": "https://www.ithome.com/0/933/073.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860727107252049454",
-      "title": "越野也能高阶智驾!纵横G700智境乾崑版征服丽江",
-      "summary": "丽江,雪山旷野与古城烟火交相辉映,茶马古道与秘境险途纵横交错。这片兼具自然挑战与人文底蕴的土地,正是检验智能越野硬实力的天然试炼场。2026年3月23日,“至前所未至”纵横G700全领域智控试驾体验营...",
+      "id": "http://baijiahao.baidu.com/s?id=1860799798541562128",
+      "title": "两部门:根据空间业务实际占用带宽向卫星运营商收取无..",
+      "summary": "【两部门:根据空间业务实际占用带宽向卫星运营商收取无线电频率占用费】财联社3月27日电,国家发展改革委、财政部发布关于优化完善无线电频率占用费标准的通知,一、优化空间业务收费标准体系。非对地静止轨道(...",
       "source": "News_Baidu",
-      "date": "2026-03-26",
-      "url": "http://baijiahao.baidu.com/s?id=1860727107252049454"
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860799798541562128"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860819020185062926",
+      "title": "寻找我身边的温暖|扶淇河畔施援手,文明新风润龙城",
+      "summary": "3月24日上午,潍坊诸城市密州路扶淇河大桥上,一位老人驾驶电动三轮车突发意外侧翻被困,诸城市创城办四名工作人员途经此处,第一时间联手施救,用凡人善举温暖了龙城大地。当日上午9时许,密州路扶淇河大桥上车...",
+      "source": "News_Baidu",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860819020185062926"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1774612882129329.html",
+      "title": "情绪识别类的公司如何重塑人机交互?技术解析与市场格局透视",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-03-27",
+      "url": "https://www.bjnews.com.cn/detail/1774612882129329.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/03-27/10594071.shtml",
+      "title": "(走进中国乡村)从靠天吃饭到“知天而作” 科技解锁安徽新农事",
+      "summary": "中新社合肥3月27日电 题:从靠天吃饭到“知天而作” 科技解锁安徽新农事...",
+      "source": "Chinanews",
+      "date": "2026-03-27",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-27/10594071.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860815285772416823",
+      "title": "DeepWay深向完成100台签约50台交付,携手..",
+      "summary": "3月26日,DeepWay深向与腾运物流在四川雅安举行100台签约暨50台智能新能源重卡交付仪式,并携手宁德时代正式启动成-雅-甘重卡走廊。...",
+      "source": "News_Baidu",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860815285772416823"
     },
     {
       "id": "https://www.manilatimes.net/2026/03/26/tmt-newswire/globenewswire/pony-ai-inc-scales-with-160-robotaxi-revenues-growth-yoy-and-500-fare-charging-revenues-surge-yoy-in-q4-targeting-deployment-in-20-cities-by-year-end/2308172",
@@ -225,46 +267,6 @@
       "source": "The Manila Times",
       "date": "2026-03-24",
       "url": "https://www.manilatimes.net/2026/03/25/business/maritime/singaporean-innovator-brings-green-tech-to-maritime-industry/2306167"
-    },
-    {
-      "id": "https://www.reuters.com/technology/zoox-widen-us-robotaxi-footprint-with-san-francisco-vegas-expansion-2026-03-24/",
-      "title": "Zoox to widen US robotaxi footprint with San Francisco, Vegas expansion",
-      "summary": "Zoox, Amazon's self-driving unit, said on Tuesday it will expand its robotaxi service in ​San Francisco and Las Vegas, and begin ‌testing its purpose-built robotaxis in Austin and Miami, marking its b...",
-      "source": "Reuters",
-      "date": "2026-03-24",
-      "url": "https://www.reuters.com/technology/zoox-widen-us-robotaxi-footprint-with-san-francisco-vegas-expansion-2026-03-24/"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car",
-      "title": "World 'Physical AI' Adoption—Hails Tesla FSD, Waymo",
-      "summary": "Gene Munster predicts self-driving cars will be first real-world adoptions of physical AI, citing advancements by Tesla, Waymo....",
-      "source": "Benzinga",
-      "date": "2026-03-23",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car"
-    },
-    {
-      "id": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html",
-      "title": "Does the TESLA FSD CHIP Match the Human Brain ?",
-      "summary": "xAI already has the lowest cost per token in the industry (fastest/cheapest data centers, highest GPU utilization)....",
-      "source": "NextBigFuture.com",
-      "date": "2026-03-22",
-      "url": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html"
-    },
-    {
-      "id": "https://www.investors.com/news/tesla-fsd-europe-approval-tsla-stock/",
-      "title": "Tesla FSD Poised To Win European Approval. But TSLA Stock Is Close To A Round Trip.",
-      "summary": "Tesla said Dutch regulators should approve Full Self-Driving (FSD) by April 10. But TSLA stock has nearly round-tripped a late 2025 run....",
-      "source": "Investor's Business Daily",
-      "date": "2026-03-20",
-      "url": "https://www.investors.com/news/tesla-fsd-europe-approval-tsla-stock/"
-    },
-    {
-      "id": "https://www.barchart.com/story/news/866801/tesla-faces-a-new-fsd-probe-what-does-that-mean-for-the-tsla-stock-bull-case",
-      "title": "Tesla Faces a New FSD Probe: What Does That Mean for the TSLA Stock Bull Case?",
-      "summary": "The NHTSA will probe the EV giant's FSD system....",
-      "source": "Barchart",
-      "date": "2026-03-20",
-      "url": "https://www.barchart.com/story/news/866801/tesla-faces-a-new-fsd-probe-what-does-that-mean-for-the-tsla-stock-bull-case"
     }
   ]
 }
