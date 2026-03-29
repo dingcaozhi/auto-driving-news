@@ -1,25 +1,28 @@
 {
-  "lastUpdated": "2026-03-28 02:49:33",
-  "totalCount": 39,
+  "lastUpdated": "2026-03-29 03:23:24",
+  "totalCount": 42,
   "sources": {
     "Bilibili": 5,
-    "Prnasia": 1,
-    "Intimes": 1,
-    "Cri_Cn": 1,
-    "Chinanews": 2,
-    "Bjnews": 2,
-    "News_Baidu": 6,
+    "Rfi_Fr": 1,
+    "News_Baidu": 7,
     "Investing_Cn": 1,
-    "Ithome": 1,
-    "The Manila Times": 3,
+    "Smzdm": 2,
+    "Theportugalnews": 1,
+    "Fx168News": 1,
+    "Ithome": 2,
+    "Zaobao": 1,
+    "News_Seehua": 1,
+    "Imobile": 1,
+    "SiliconANGLE News": 1,
+    "The Manila Times": 2,
     "MarketScreener": 2,
     "NDTV.com": 1,
     "Seeking Alpha": 1,
+    "The Globe and Mail": 1,
     "Bloomberg": 1,
     "PR Newswire UK": 1,
     "Benzinga": 2,
     "Firstpost": 1,
-    "Reuters": 1,
     "NextBigFuture.com": 1,
     "Investor's Business Daily": 1,
     "Barchart": 1,
@@ -33,160 +36,192 @@
       "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
       "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
       "source": "Bilibili",
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV16bXgBZE3B",
-      "title": "【B站】来了！自研智驾芯片、千线激光雷达、世界模型、L4级自动驾驶，比亚迪智驾布局前瞻",
-      "summary": "先说结论，电动化下半场，比亚迪将正式开启以“世界模型”为底座、以“算力与感知平权”为标志的智驾技术路线。底层硬件上，大概率将通过引入支持全品类定制的速腾聚创EM4数字化激光雷达，重塑高阶感知的成本底线。算力架构上，形成地平线方案主打规模化普及、英伟达DRIVE Hyperion全栈共建直指L4级上限...",
-      "source": "Bilibili",
-      "date": "2026-03-28",
-      "url": "https://www.bilibili.com/video/BV16bXgBZE3B"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182QfB2ExT",
-      "title": "【B站】【中配】为什么全自动驾驶汽车几乎是不可能的：极限挑战 - Business Insider",
-      "summary": "原视频：Why Fully Self-Driving Cars Are Almost Impossible | The Limit\n原作者：Business Insider\n发布日期：2026-03-21\n视频链接：https://www.youtube.com/watch?v=Kcq0tjmvGO...",
-      "source": "Bilibili",
-      "date": "2026-03-28",
-      "url": "https://www.bilibili.com/video/BV182QfB2ExT"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
-      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
-      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
-      "source": "Bilibili",
-      "date": "2026-03-28",
-      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
     },
     {
       "id": "https://www.bilibili.com/video/BV1XAQmB7E3D",
       "title": "【B站】用小鹏VLA2.0横穿中国！能行么？【上集】",
       "summary": "下集更精彩！...",
       "source": "Bilibili",
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "url": "https://www.bilibili.com/video/BV1XAQmB7E3D"
     },
     {
-      "id": "https://www.prnasia.com/story/527155-1.shtml",
-      "title": "MemoryS 2026|江波龙首发SPU及iSA,端侧AI存储创新布局八大看点解读",
-      "summary": "深圳 2026年3月27日 /美通社/ -- 2026年3月27日,CFM | MemoryS 2026在深圳盛大启幕,全球存储产业链精英齐聚,共探AI时代存储产业的变革与未来。江波龙董事长、总经理蔡华波先生受邀出席并发表《集成存储 探索端侧AI》主旨演讲,立足行业发展趋势与江波龙创新积淀,从定位、模式、产品、技术等多维度,全面分享公司对端侧AI存储的核心理解与综合创新成果,为端侧AI存储产业带来...",
-      "source": "Prnasia",
-      "date": "2026-03-27",
-      "url": "https://www.prnasia.com/story/527155-1.shtml"
+      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
+      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
+      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
+      "source": "Bilibili",
+      "date": "2026-03-29",
+      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
     },
     {
-      "id": "https://intimes.com.my/news2a/index.php/2018-07-09-11-40-04/item/111622-2",
-      "title": "缅甸推每周燃油配额措施 限一周仅可加2次油",
-      "summary": "(综合27日电)面对缅甸国内燃油供应吃紧情况,缅甸能源部宣布,将在下周起,依据车辆引擎排气量(Engine Capacity)设定每周购买燃油配额。 根据《泰国民族报》引述报道,在该新系统下,每辆交通工具每周可购买的然后总量,将取决于引擎马力。车主可选择每周一次性使用所有额度,或分成最多两次使用。 缅甸能源部表示,这项新措施将全面整合至目前使用的条码(barcode)及二维码(QR Code)平台...",
-      "source": "Intimes",
-      "date": "2026-03-27",
-      "url": "https://intimes.com.my/news2a/index.php/2018-07-09-11-40-04/item/111622-2"
+      "id": "https://www.bilibili.com/video/BV182QfB2ExT",
+      "title": "【B站】【中配】为什么全自动驾驶汽车几乎是不可能的：极限挑战 - Business Insider",
+      "summary": "原视频：Why Fully Self-Driving Cars Are Almost Impossible | The Limit\n原作者：Business Insider\n发布日期：2026-03-21\n视频链接：https://www.youtube.com/watch?v=Kcq0tjmvGO...",
+      "source": "Bilibili",
+      "date": "2026-03-29",
+      "url": "https://www.bilibili.com/video/BV182QfB2ExT"
     },
     {
-      "id": "https://news.cri.cn/20260327/4160dc8f-8e25-bc7a-bdd1-51d7fd635621.html",
-      "title": "从“种地”到“慧种地”:中国智慧春耕跑出“加速度”-国际在线",
-      "summary": "新华社南京3月27日电题:从“种地”到“慧种地”:中国智慧春耕跑出“加速度” 新华社记者何磊静 春日...",
-      "source": "Cri_Cn",
-      "date": "2026-03-27",
-      "url": "https://news.cri.cn/20260327/4160dc8f-8e25-bc7a-bdd1-51d7fd635621.html"
+      "id": "https://www.bilibili.com/video/BV1qxXKB5Ex1",
+      "title": "【B站】FSD终于来了！高能+避险！99%的人都不知道的很多智能驾驶的细节！全网最深入的北京上下班真实智能驾驶视频讲解！",
+      "summary": "FSD终于来了！系列视频\n高能+避险！6种系统装备\n99%的人都不知道的：\n很多智能驾驶的细节！\n北京真实日常上下班：\n全网最深入的智能驾驶视频讲解！...",
+      "source": "Bilibili",
+      "date": "2026-03-29",
+      "url": "https://www.bilibili.com/video/BV1qxXKB5Ex1"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-27/10594155.shtml",
-      "title": "“人工智能+产业”论坛在京举办 “全国场景供需对接平台”启动",
-      "summary": "中新网北京3月27日电 (记者 吕少威)新一轮科技革命与产业变革加速演进,人工智能成为全球产业竞争的核心赛道。27日,2026中关村论坛年会“人工智能+产业”论坛举行。论坛上,全国场景供需对接平台正式启动。...",
-      "source": "Chinanews",
-      "date": "2026-03-27",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-27/10594155.shtml"
+      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260328-%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B0%E8%A7%84-%E6%89%80%E6%9C%89%E5%AE%A4%E5%A4%96%E9%A3%9E%E8%A1%8C%E6%B4%BB%E5%8A%A8%E5%9D%87%E9%9C%80%E7%94%B3%E8%AF%B7%EF%BC%8C%E6%89%80%E6%9C%89%E8%80%85%E9%9C%80%E5%9C%A84%E6%9C%8830%E6%97%A5%E5%89%8D%E5%AE%9E%E5%90%8D%E7%99%BB%E8%AE%B0",
+      "title": "北京出台无人机新规:所有室外飞行活动均需申请,所有者需在4月30日前实名登记",
+      "summary": "据中国公安部机关报《人民公安报》报导,北京市十六届人大常委会第二十三次会议3月27日表决通过《北京市无人驾驶航空器管理规定》,对无人驾驶航空器的飞行和销售、运输、存储等作出规范。规定自2026年5月1日起实施。...",
+      "source": "Rfi_Fr",
+      "date": "2026-03-28",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260328-%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B0%E8%A7%84-%E6%89%80%E6%9C%89%E5%AE%A4%E5%A4%96%E9%A3%9E%E8%A1%8C%E6%B4%BB%E5%8A%A8%E5%9D%87%E9%9C%80%E7%94%B3%E8%AF%B7%EF%BC%8C%E6%89%80%E6%9C%89%E8%80%85%E9%9C%80%E5%9C%A84%E6%9C%8830%E6%97%A5%E5%89%8D%E5%AE%9E%E5%90%8D%E7%99%BB%E8%AE%B0"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1774614974129353.html",
-      "title": "曹操出行上市后首份年报:去年营收破200亿,四季度经调整盈利",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-03-27",
-      "url": "https://www.bjnews.com.cn/detail/1774614974129353.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860808917039634336",
-      "title": "衣食住行皆科技:2026中关村论坛上的“未来生活”",
-      "summary": "国际在线报道(记者马睿丽):2026中关村论坛年会如约而至,这场以“科技创新与产业创新深度融合”为主题的科技盛会,让人们真切感受到:科技正在悄然改变我们的衣食住行。AR眼镜让“交流”无障碍在论坛开幕式...",
+      "id": "http://baijiahao.baidu.com/s?id=1860703184918725092",
+      "title": "公共道路采集地理与交通数据是否需要专项审批?如何合..",
+      "summary": "柯律师:您好!我司研发的自动驾驶测试车辆在开放道路进行数据采集时,被交警以“违规采集道路信息”为由叫停。请问,在公共道路采集地理、交通等数据,是否需要特别审批?应如何合法开展此类数据收集? 牛女士//杨先生:牛女士:您...",
       "source": "News_Baidu",
-      "date": "2026-03-27",
-      "url": "http://baijiahao.baidu.com/s?id=1860808917039634336"
+      "date": "2026-03-28",
+      "url": "http://baijiahao.baidu.com/s?id=1860703184918725092"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860819207293549087",
-      "title": "铁骑尖兵,练练练",
-      "summary": "本文转自【东部战区】;近日东部战区空军某部汽车分队紧贴实战化保障需求聚焦安全驾驶核心课目开展“群众性岗位练兵”活动在实战实训中提升官兵胜战本领训练场上,引擎轰鸣该部严格依照军事训练大纲要求科学组训施训...",
-      "source": "News_Baidu",
-      "date": "2026-03-27",
-      "url": "http://baijiahao.baidu.com/s?id=1860819207293549087"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3284936",
-      "title": "“宏图计划5.0”猜想:Wedbush预测特斯拉(TSLA.US)与SpaceX或于明年迎来历史性合并",
-      "summary": "“宏图计划5.0”猜想:Wedbush预测特斯拉(TSLA.US)与SpaceX或于明年迎来历史性合并...",
+      "id": "https://cn.investing.com/news/economy-news/article-3286216",
+      "title": "马斯克Terafab计划对台积电影响有限",
+      "summary": "马斯克Terafab计划对台积电影响有限...",
       "source": "Investing_Cn",
-      "date": "2026-03-27",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3284936"
+      "date": "2026-03-28",
+      "url": "https://cn.investing.com/news/economy-news/article-3286216"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860817352143576565",
-      "title": "2026中关村论坛年会|专访光轮智能总裁杨海波:数..",
-      "summary": "春回大地,天气转暖,一台台满载苏打水的配送机器人穿梭在2026中关村论坛年会现场,供与会嘉宾方便快捷地取用。而让一台机器人——不管是人形、轮式,抑或机械臂、灵巧手,稳定抓取一瓶矿泉水、精准控制力度拧开...",
+      "id": "https://post.smzdm.com/p/a3megq3n/",
+      "title": "中式豪华、中式享受吉利太会了,银河星耀7是你心中的全能选手吗",
+      "summary": "随着国产汽车工业的成熟,消费者对国产品牌的接受度显著提升,市场已从单纯的模仿转向了技术吸收与自主创新。吉利银河星耀7作为这一趋势下的产物,试图在有限的成本内,通过精准的设计语言与配置堆叠,重新定义“中式豪华”的标准。该车在保留传统高级轿车从容感的同时,融......",
+      "source": "Smzdm",
+      "date": "2026-03-28",
+      "url": "https://post.smzdm.com/p/a3megq3n/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860817733458070028",
+      "title": "爱芯元智2025年营收稳步增长,智能汽车与边缘AI..",
+      "summary": "3月27日晚,爱芯元智(0600.HK)发布了2025年度业绩情况。2025年,公司实现总收入人民币5.62亿元,同比增长18.8%;毛利达1.21亿元,毛利率稳定在21.6%。新兴业务占整体营收比例...",
       "source": "News_Baidu",
-      "date": "2026-03-27",
-      "url": "http://baijiahao.baidu.com/s?id=1860817352143576565"
+      "date": "2026-03-28",
+      "url": "http://baijiahao.baidu.com/s?id=1860817733458070028"
     },
     {
-      "id": "https://www.ithome.com/0/933/472.htm",
-      "title": "零跑 A10 小车确认搭载禾赛 ATX 激光雷达,全车共 27 个高精度感知硬件",
-      "summary": "IT之家 3 月 27 日消息,3 月 26 日晚, 零跑“智能精品长续航 SUV”新车 A10 正式上市 ,提供 505 激光雷达版,售价区间为 6.58 万-8.68 万元。 IT之家从禾赛科技官方获悉, 零跑 A10 小车 505 激光雷达版搭载含禾赛 ATX 激光雷达在内的 27 个高精度感知硬件 ,与高通 8650 辅助驾驶芯片,可实现同级唯一“车位到车位”全场景领航辅助驾驶能力:用户设...",
+      "id": "http://baijiahao.baidu.com/s?id=1860905691352006674",
+      "title": "绿色出行宣讲走进首师大,一线交通人开讲“大思政课”",
+      "summary": "3月26日,北京市交通委员会“绿色出行畅通北京”交通宣讲团走进首都师范大学,为青年学子带来一堂别开生面、意义深远的“大思政课”。此次活动邀请了五位交通行业基层一线工作者走上讲台,他们在各自岗位上默默坚...",
+      "source": "News_Baidu",
+      "date": "2026-03-28",
+      "url": "http://baijiahao.baidu.com/s?id=1860905691352006674"
+    },
+    {
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-03-28/guardians-of-the-surf-the-jet-ski-heroes-of-nazare/996814",
+      "title": "冲浪守护者纳萨雷的水上摩托英雄",
+      "summary": "地球上有一些地方,勇气以秒为单位,生存取决于人、机器和自然本身之间的力量平衡。...",
+      "source": "Theportugalnews",
+      "date": "2026-03-28",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-03-28/guardians-of-the-surf-the-jet-ski-heroes-of-nazare/996814"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkw0xv2/",
+      "title": "自动驻车不是万能!吉利车主必看,这些情况千万别用!自动驻车虽是“右脚神器”,但用不对=埋雷!今天用我的吉利牛仔给大家详细...",
+      "summary": "自动驻车功能作为一种辅助驾驶配置,旨在通过电子系统帮助车辆在临时停止时保持静止,从而减轻驾驶员长时间踩刹车的疲劳。然而,该功能并非在所有驾驶场景下均适用,错误地依赖自动驻车可能会带来安全隐患。理解其工作原理、明确适用与禁用场景,对于保障行车安全至关重要。......",
+      "source": "Smzdm",
+      "date": "2026-03-28",
+      "url": "https://post.smzdm.com/p/axkw0xv2/"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1009107",
+      "title": "2025年报观察|曹操出行:盈利破局,增长可续,Robotaxi锚定未来出行-FX168",
+      "summary": "3月27日晚间,曹操出行(02643.HK)发布2025年业绩公告,实现营收202亿元,同比增长38%,并在四季度首次达成调整后的净利润转正,毛利率提升至9.4%,净亏损同比收窄50.8%。从2015年作为吉利“新能源汽车共享生态”战略布局落地,到2025年港交所上市成为港股最大科技出行平台...",
+      "source": "Fx168News",
+      "date": "2026-03-28",
+      "url": "https://www.fx168news.com/article/1009107"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860726252213693768",
+      "title": "继续巩固全球市场第二!中芯国际2025全年销售超9..",
+      "summary": "《科创板日报》3月26日讯(记者郭辉)中芯国际发布2025年度财报。公告显示,中芯国际2025年全年实现销售收入93.27亿美元,同比增长16.2%,继续巩固全球纯晶圆代工企业第二的位置;年度归属于上...",
+      "source": "News_Baidu",
+      "date": "2026-03-28",
+      "url": "http://baijiahao.baidu.com/s?id=1860726252213693768"
+    },
+    {
+      "id": "https://www.ithome.com/0/933/674.htm",
+      "title": "小米汽车:SU7 Ultra 已选装“碳纤维尾翼”,可单独购买“3 挡可调尾翼支架”",
+      "summary": "IT之家 3 月 28 日消息,小米汽车今日发布答网友问(第 223 集),回答了“SU7 Ultra 推出的三挡可调碳纤维尾翼和之前的区别是什么?”“SU7 Ultra 新出的暮光玫瑰颜色和璀璨洋红区别是什么?”等问题。 IT之家整理如下: 1、SU7 Ultra 推出的三挡可调碳纤维尾翼和之前的区别是什么? 我们发现部分 SU7 Ultra 的用户非常喜欢碳纤维尾翼的造型,但平常主要是日常通勤...",
       "source": "Ithome",
-      "date": "2026-03-27",
-      "url": "https://www.ithome.com/0/933/472.htm"
+      "date": "2026-03-28",
+      "url": "https://www.ithome.com/0/933/674.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860799798541562128",
-      "title": "两部门:根据空间业务实际占用带宽向卫星运营商收取无..",
-      "summary": "【两部门:根据空间业务实际占用带宽向卫星运营商收取无线电频率占用费】财联社3月27日电,国家发展改革委、财政部发布关于优化完善无线电频率占用费标准的通知,一、优化空间业务收费标准体系。非对地静止轨道(...",
+      "id": "https://www.zaobao.com.sg/news/china/story20260328-8807386",
+      "title": "北京成中国首个禁售禁运并禁飞无人机城市",
+      "summary": "(北京综合讯)中国政治中心北京市以“首都低空安全面临挑战”为由,出台史上最严无人机管理新规,将成为首个事实上禁止个人买卖、运输和飞行无人机的城市,违规携带无人机进京者将被移交警方处理。...",
+      "source": "Zaobao",
+      "date": "2026-03-28",
+      "url": "https://www.zaobao.com.sg/news/china/story20260328-8807386"
+    },
+    {
+      "id": "https://www.ithome.com/0/933/666.htm",
+      "title": "反向“名人效应”:无聊公司隧道项目遇阻,居民一听到马斯克姓名就反感",
+      "summary": "IT之家 3 月 28 日消息,当地时间 3 月 28 日,据《财富》杂志报道,马斯克旗下“无聊公司(Boring Company)”正在美国田纳西州纳什维尔推进地下隧道项目。但当地居民的不满情绪正在升温,而争议焦点很大程度上集中在马斯克本人身上。 范德堡大学最新调查显示,在不特别点名马斯克的情况下, 约 35% 的纳什维尔居民总体反对这一项目 。按照规划,无聊公司将建设名为“音乐城环线”的地下隧...",
+      "source": "Ithome",
+      "date": "2026-03-28",
+      "url": "https://www.ithome.com/0/933/666.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860615994509536628",
+      "title": "视频丨技术迭代+绿色转型 “交通人”眼中的博鳌新变..",
+      "summary": "今年是博鳌亚洲论坛成立25周年,每届盛会顺利平稳举行的背后,离不开无数工作人员和志愿者的辛勤付出。交通保障组的吴志斌,已经连续11年参与论坛服务,他用...",
       "source": "News_Baidu",
-      "date": "2026-03-27",
-      "url": "http://baijiahao.baidu.com/s?id=1860799798541562128"
+      "date": "2026-03-28",
+      "url": "http://baijiahao.baidu.com/s?id=1860615994509536628"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860819020185062926",
-      "title": "寻找我身边的温暖|扶淇河畔施援手,文明新风润龙城",
-      "summary": "3月24日上午,潍坊诸城市密州路扶淇河大桥上,一位老人驾驶电动三轮车突发意外侧翻被困,诸城市创城办四名工作人员途经此处,第一时间联手施救,用凡人善举温暖了龙城大地。当日上午9时许,密州路扶淇河大桥上车...",
+      "id": "https://news.seehua.com/post/1460389",
+      "title": "休旅车失控撞路边防护栏 男乘客夹毙车内8岁女童重伤",
+      "summary": "(麻坡28日讯)一辆乘有3人的休旅车在南北大道行驶途中,疑失控冲撞路边防护栏,酿一死一重伤悲剧。 柔州消拯局今 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-03-28",
+      "url": "https://news.seehua.com/post/1460389"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0328/233932.shtml",
+      "title": "比亚迪宋Ultra EV,纯电车正式进入“闪充时代”",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-03-28",
+      "url": "http://news.imobile.com.cn/articles/2026/0328/233932.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860900587917094878",
+      "title": "2026中关村论坛年会|专访轻舟智航于骞:智能驾驶..",
+      "summary": "3月下旬,轻舟智航联合创始人、董事长兼CEO于骞的行程密集。2026年GTC大会上,英伟达创始人兼CEO黄仁勋大谈“物理AI”;几天后,轻舟智航宣布获得1亿美元融资。于骞从德国回到北京,在2026中关...",
       "source": "News_Baidu",
-      "date": "2026-03-27",
-      "url": "http://baijiahao.baidu.com/s?id=1860819020185062926"
+      "date": "2026-03-28",
+      "url": "http://baijiahao.baidu.com/s?id=1860900587917094878"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1774612882129329.html",
-      "title": "情绪识别类的公司如何重塑人机交互?技术解析与市场格局透视",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-03-27",
-      "url": "https://www.bjnews.com.cn/detail/1774612882129329.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/03-27/10594071.shtml",
-      "title": "(走进中国乡村)从靠天吃饭到“知天而作” 科技解锁安徽新农事",
-      "summary": "中新社合肥3月27日电 题:从靠天吃饭到“知天而作” 科技解锁安徽新农事...",
-      "source": "Chinanews",
-      "date": "2026-03-27",
-      "url": "https://www.chinanews.com.cn/sh/2026/03-27/10594071.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860815285772416823",
-      "title": "DeepWay深向完成100台签约50台交付,携手..",
-      "summary": "3月26日,DeepWay深向与腾运物流在四川雅安举行100台签约暨50台智能新能源重卡交付仪式,并携手宁德时代正式启动成-雅-甘重卡走廊。...",
+      "id": "http://baijiahao.baidu.com/s?id=1860802034461151407",
+      "title": "至信科技AI赋能基层治理,日照智慧平台让服务更精准..",
+      "summary": "齐鲁晚报·齐鲁壹点邹慧清晨的日照市东港区石臼街道银海社区服务中心,山东至信信息科技股份有限公司(以下简称至信科技)项目经理张博的身影准时出现。他背着笔记本电脑,熟练地打开系统后台,与社区工作人员核对最...",
       "source": "News_Baidu",
+      "date": "2026-03-28",
+      "url": "http://baijiahao.baidu.com/s?id=1860802034461151407"
+    },
+    {
+      "id": "https://siliconangle.com/2026/03/27/ai-agent-identity-becomes-top-enterprise-security-priority-rsac26/",
+      "title": "AI agent identity becomes a top enterprise security priority",
+      "summary": "As autonomous systems spread across the enterprise, AI agent identity is emerging as a critical security priority, driving demand for tighter governance....",
+      "source": "SiliconANGLE News",
       "date": "2026-03-27",
-      "url": "http://baijiahao.baidu.com/s?id=1860815285772416823"
+      "url": "https://siliconangle.com/2026/03/27/ai-agent-identity-becomes-top-enterprise-security-priority-rsac26/"
     },
     {
       "id": "https://www.manilatimes.net/2026/03/26/tmt-newswire/globenewswire/pony-ai-inc-scales-with-160-robotaxi-revenues-growth-yoy-and-500-fare-charging-revenues-surge-yoy-in-q4-targeting-deployment-in-20-cities-by-year-end/2308172",
@@ -229,44 +264,12 @@
       "url": "https://seekingalpha.com/news/4568429-kodiak-ai-rallies-after-its-autonomous-driving-system-is-tasked-to-help-combat-attack-drones"
     },
     {
-      "id": "https://www.bloomberg.com/news/articles/2026-03-25/autonomous-driving-firm-deeproute-ai-is-said-to-consider-hong-kong-ipo",
-      "title": "Autonomous Driving Firm DeepRoute.ai Is Said to Consider Hong Kong IPO",
-      "summary": "Chinese autonomous driving company DeepRoute.ai is considering an initial public offering in Hong Kong, people familiar with the matter said, joining a growing list of tech firms selling shares in the...",
-      "source": "Bloomberg",
+      "id": "https://www.theglobeandmail.com/drive/mobility/article-no-common-sense-ride-in-a-robotaxi-shows-the-promise-and-limits-of/",
+      "title": "‘No common sense’: Ride in a robotaxi shows the promise - and limits - of driverless cars",
+      "summary": "As Waymo expands, experts say autonomous cars still struggle with the unpredictability and social norms of real-world driving...",
+      "source": "The Globe and Mail",
       "date": "2026-03-25",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-25/autonomous-driving-firm-deeproute-ai-is-said-to-consider-hong-kong-ipo"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/global-autonomous-driving-software-market-to-reach-usd-4-4-billion-by-2032--driven-by-rising-integration-of-ai-powered-mobility-solutions-says-markntel-advisors-302721982.html",
-      "title": "Global Autonomous Driving Software Market to Reach USD 4.4 Billion by 2032, Driven by Rising Integration of AI-Powered Mobility Solutions, Says MarkNtel Advisors",
-      "summary": "/PRNewswire/ -- According to the latest market research study published by MarkNtel Advisors, the Global Autonomous Driving Software Market is projected to......",
-      "source": "PR Newswire UK",
-      "date": "2026-03-25",
-      "url": "https://www.prnewswire.co.uk/news-releases/global-autonomous-driving-software-market-to-reach-usd-4-4-billion-by-2032--driven-by-rising-integration-of-ai-powered-mobility-solutions-says-markntel-advisors-302721982.html"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/03/51456241/the-tesla-brand-has-hit-a-bottom-and-it-has-an-elon-musk-problem",
-      "title": "Tesla Brand Hits Bottom",
-      "summary": "Tesla ranks last in brand trust and perception, while FSD data shows Elon Musk is a key negative association, per EVIR report....",
-      "source": "Benzinga",
-      "date": "2026-03-25",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51456241/the-tesla-brand-has-hit-a-bottom-and-it-has-an-elon-musk-problem"
-    },
-    {
-      "id": "https://www.firstpost.com/auto/gm-launches-supervised-on-road-trials-of-next-generation-automated-driving-technology-13992830.html",
-      "title": "GM launches supervised on-road trials of next-generation automated driving technology",
-      "summary": "A history of high-profile mishaps has made automakers more cautious in advancing autonomous driving technology...",
-      "source": "Firstpost",
-      "date": "2026-03-24",
-      "url": "https://www.firstpost.com/auto/gm-launches-supervised-on-road-trials-of-next-generation-automated-driving-technology-13992830.html"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/25/business/maritime/singaporean-innovator-brings-green-tech-to-maritime-industry/2306167",
-      "title": "Singaporean innovator brings green tech to maritime industry",
-      "summary": "FROM virtual reality learning to world-class simulators and autonomous ships, digital technology has been the driving force behind the 21st century evolution of international shipping....",
-      "source": "The Manila Times",
-      "date": "2026-03-24",
-      "url": "https://www.manilatimes.net/2026/03/25/business/maritime/singaporean-innovator-brings-green-tech-to-maritime-industry/2306167"
+      "url": "https://www.theglobeandmail.com/drive/mobility/article-no-common-sense-ride-in-a-robotaxi-shows-the-promise-and-limits-of/"
     }
   ]
 }
