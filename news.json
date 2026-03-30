@@ -1,18 +1,15 @@
 {
-  "lastUpdated": "2026-03-29 03:23:24",
-  "totalCount": 42,
+  "lastUpdated": "2026-03-30 03:26:28",
+  "totalCount": 43,
   "sources": {
     "Bilibili": 5,
-    "Rfi_Fr": 1,
-    "News_Baidu": 7,
-    "Investing_Cn": 1,
-    "Smzdm": 2,
-    "Theportugalnews": 1,
+    "News_Baidu": 6,
+    "Bjnews": 3,
+    "Ithome": 3,
+    "Smzdm": 4,
+    "Cri_Cn": 1,
     "Fx168News": 1,
-    "Ithome": 2,
-    "Zaobao": 1,
-    "News_Seehua": 1,
-    "Imobile": 1,
+    "Chinanews": 1,
     "SiliconANGLE News": 1,
     "The Manila Times": 2,
     "MarketScreener": 2,
@@ -32,188 +29,196 @@
   },
   "news": [
     {
+      "id": "https://www.bilibili.com/video/BV1tnw7zSEA6",
+      "title": "【B站】L2和L3目前有啥区别？华为L3级辅助驾驶一镜到底对比实测",
+      "summary": "真正的自动驾驶来了？我们抢先在岚图泰山Ultra上在测试道路上体验了L3，同时还在武汉试了一下华为ADS Max V4.1.2，两段过程都一镜到底放出来给大家，来看看鸿蒙智行L3与目前的L2到底有哪些区别。...",
+      "source": "Bilibili",
+      "date": "2026-03-30",
+      "url": "https://www.bilibili.com/video/BV1tnw7zSEA6"
+    },
+    {
       "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
       "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
       "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
       "source": "Bilibili",
-      "date": "2026-03-29",
+      "date": "2026-03-30",
       "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1XAQmB7E3D",
-      "title": "【B站】用小鹏VLA2.0横穿中国！能行么？【上集】",
-      "summary": "下集更精彩！...",
+      "id": "https://www.bilibili.com/video/BV1uwwXzSEMV",
+      "title": "【B站】春招必看！BEVFormer：自动驾驶里最吃香的视觉算法！",
+      "summary": "配套资料与下方资料包关注公众号：迪哥谈AI【回复688】获取——\n最新网盘200G人工智能资料包，内含但不限于：\n①超详细的人工智能学习路线（AI大神博士推荐的学习地图）\n②人工智能必看书籍（AI宝藏电子书这里都有）\n③60份人工智能行业报告（想了解人工智能行业前景就看这！）\n④人工智能快速入门视频...",
       "source": "Bilibili",
-      "date": "2026-03-29",
-      "url": "https://www.bilibili.com/video/BV1XAQmB7E3D"
+      "date": "2026-03-30",
+      "url": "https://www.bilibili.com/video/BV1uwwXzSEMV"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
-      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
-      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
+      "id": "https://www.bilibili.com/video/BV1sBQUBGEbC",
+      "title": "【B站】下一代统一VLA自动驾驶大模型探索 | 詹锟 | Kun Zhan | 260317 | 原创中文字幕",
+      "summary": "理想同学请带我回到过去...",
       "source": "Bilibili",
-      "date": "2026-03-29",
-      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
+      "date": "2026-03-30",
+      "url": "https://www.bilibili.com/video/BV1sBQUBGEbC"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182QfB2ExT",
-      "title": "【B站】【中配】为什么全自动驾驶汽车几乎是不可能的：极限挑战 - Business Insider",
-      "summary": "原视频：Why Fully Self-Driving Cars Are Almost Impossible | The Limit\n原作者：Business Insider\n发布日期：2026-03-21\n视频链接：https://www.youtube.com/watch?v=Kcq0tjmvGO...",
+      "id": "https://www.bilibili.com/video/BV1zQkvYVEgT",
+      "title": "【B站】端到端自动驾驶，万字总结！",
+      "summary": "1、端到端与传统算法的优缺点\n2、经典的6个端到端工作简单介绍\n3、启发，端到端现在的问题...",
       "source": "Bilibili",
-      "date": "2026-03-29",
-      "url": "https://www.bilibili.com/video/BV182QfB2ExT"
+      "date": "2026-03-30",
+      "url": "https://www.bilibili.com/video/BV1zQkvYVEgT"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1qxXKB5Ex1",
-      "title": "【B站】FSD终于来了！高能+避险！99%的人都不知道的很多智能驾驶的细节！全网最深入的北京上下班真实智能驾驶视频讲解！",
-      "summary": "FSD终于来了！系列视频\n高能+避险！6种系统装备\n99%的人都不知道的：\n很多智能驾驶的细节！\n北京真实日常上下班：\n全网最深入的智能驾驶视频讲解！...",
-      "source": "Bilibili",
-      "date": "2026-03-29",
-      "url": "https://www.bilibili.com/video/BV1qxXKB5Ex1"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260328-%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B0%E8%A7%84-%E6%89%80%E6%9C%89%E5%AE%A4%E5%A4%96%E9%A3%9E%E8%A1%8C%E6%B4%BB%E5%8A%A8%E5%9D%87%E9%9C%80%E7%94%B3%E8%AF%B7%EF%BC%8C%E6%89%80%E6%9C%89%E8%80%85%E9%9C%80%E5%9C%A84%E6%9C%8830%E6%97%A5%E5%89%8D%E5%AE%9E%E5%90%8D%E7%99%BB%E8%AE%B0",
-      "title": "北京出台无人机新规:所有室外飞行活动均需申请,所有者需在4月30日前实名登记",
-      "summary": "据中国公安部机关报《人民公安报》报导,北京市十六届人大常委会第二十三次会议3月27日表决通过《北京市无人驾驶航空器管理规定》,对无人驾驶航空器的飞行和销售、运输、存储等作出规范。规定自2026年5月1日起实施。...",
-      "source": "Rfi_Fr",
-      "date": "2026-03-28",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260328-%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B0%E8%A7%84-%E6%89%80%E6%9C%89%E5%AE%A4%E5%A4%96%E9%A3%9E%E8%A1%8C%E6%B4%BB%E5%8A%A8%E5%9D%87%E9%9C%80%E7%94%B3%E8%AF%B7%EF%BC%8C%E6%89%80%E6%9C%89%E8%80%85%E9%9C%80%E5%9C%A84%E6%9C%8830%E6%97%A5%E5%89%8D%E5%AE%9E%E5%90%8D%E7%99%BB%E8%AE%B0"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860703184918725092",
-      "title": "公共道路采集地理与交通数据是否需要专项审批?如何合..",
-      "summary": "柯律师:您好!我司研发的自动驾驶测试车辆在开放道路进行数据采集时,被交警以“违规采集道路信息”为由叫停。请问,在公共道路采集地理、交通等数据,是否需要特别审批?应如何合法开展此类数据收集? 牛女士//杨先生:牛女士:您...",
+      "id": "http://baijiahao.baidu.com/s?id=1860971839375183627",
+      "title": "魔都放大镜|上海春日被种草,徐行让他们直呼:“我还..",
+      "summary": "在上海,春天不仅被看见,也被体验。上海嘉定徐行的一场春日活动,让外国友人用最直接的感受回应着这个季节。3月28日下午,“风起嘉速·筝筝日上”2026上...",
       "source": "News_Baidu",
-      "date": "2026-03-28",
-      "url": "http://baijiahao.baidu.com/s?id=1860703184918725092"
+      "date": "2026-03-29",
+      "url": "http://baijiahao.baidu.com/s?id=1860971839375183627"
     },
     {
-      "id": "https://cn.investing.com/news/economy-news/article-3286216",
-      "title": "马斯克Terafab计划对台积电影响有限",
-      "summary": "马斯克Terafab计划对台积电影响有限...",
-      "source": "Investing_Cn",
-      "date": "2026-03-28",
-      "url": "https://cn.investing.com/news/economy-news/article-3286216"
+      "id": "https://www.bjnews.com.cn/detail/1774774620129130.html",
+      "title": "北京金融监管局率先启动智能网联新能源汽车商业保险开发应用",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-03-29",
+      "url": "https://www.bjnews.com.cn/detail/1774774620129130.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a3megq3n/",
-      "title": "中式豪华、中式享受吉利太会了,银河星耀7是你心中的全能选手吗",
-      "summary": "随着国产汽车工业的成熟,消费者对国产品牌的接受度显著提升,市场已从单纯的模仿转向了技术吸收与自主创新。吉利银河星耀7作为这一趋势下的产物,试图在有限的成本内,通过精准的设计语言与配置堆叠,重新定义“中式豪华”的标准。该车在保留传统高级轿车从容感的同时,融......",
+      "id": "https://www.ithome.com/0/933/900.htm",
+      "title": "长安汽车在重庆获批 L4 级自研 Robotaxi 测试牌照",
+      "summary": "IT之家 3 月 29 日消息,长安汽车官方刚刚发文宣布, 其在重庆获批 L4 级自研 Robotaxi 测试牌照 。根据官方海报预热信息来看,长安汽车自研 Robotaxi 将搭载天枢智能解决方案。 IT之家注:Robotaxi 一般指自动驾驶出租车。它是一种基于自动驾驶技术,并能向公众提供出租服务的车辆。国内,百度、文远知行、滴滴、Auto X、小马智行、小鹏等都在布局 Robotaxi。此次...",
+      "source": "Ithome",
+      "date": "2026-03-29",
+      "url": "https://www.ithome.com/0/933/900.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkw4mww/",
+      "title": "铂智7上市:全系标配鸿蒙座舱,限时补贴价14.78万起",
+      "summary": "铂智7定位为大型纯电轿车,采用丰田品牌的电动化设计语言。该车全系标配鸿蒙座舱5.0系统,搭载MoLA大模型架构,并在智能驾驶与舒适性配置上提供了多层级的选择,旨在满足不同用户对豪华与智能的出行需求。01核心配置解析智能座舱与舒适性全系搭载鸿蒙座舱5.0系......",
       "source": "Smzdm",
-      "date": "2026-03-28",
-      "url": "https://post.smzdm.com/p/a3megq3n/"
+      "date": "2026-03-29",
+      "url": "https://post.smzdm.com/p/axkw4mww/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860817733458070028",
-      "title": "爱芯元智2025年营收稳步增长,智能汽车与边缘AI..",
-      "summary": "3月27日晚,爱芯元智(0600.HK)发布了2025年度业绩情况。2025年,公司实现总收入人民币5.62亿元,同比增长18.8%;毛利达1.21亿元,毛利率稳定在21.6%。新兴业务占整体营收比例...",
-      "source": "News_Baidu",
-      "date": "2026-03-28",
-      "url": "http://baijiahao.baidu.com/s?id=1860817733458070028"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860905691352006674",
-      "title": "绿色出行宣讲走进首师大,一线交通人开讲“大思政课”",
-      "summary": "3月26日,北京市交通委员会“绿色出行畅通北京”交通宣讲团走进首都师范大学,为青年学子带来一堂别开生面、意义深远的“大思政课”。此次活动邀请了五位交通行业基层一线工作者走上讲台,他们在各自岗位上默默坚...",
-      "source": "News_Baidu",
-      "date": "2026-03-28",
-      "url": "http://baijiahao.baidu.com/s?id=1860905691352006674"
-    },
-    {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-03-28/guardians-of-the-surf-the-jet-ski-heroes-of-nazare/996814",
-      "title": "冲浪守护者纳萨雷的水上摩托英雄",
-      "summary": "地球上有一些地方,勇气以秒为单位,生存取决于人、机器和自然本身之间的力量平衡。...",
-      "source": "Theportugalnews",
-      "date": "2026-03-28",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-03-28/guardians-of-the-surf-the-jet-ski-heroes-of-nazare/996814"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkw0xv2/",
-      "title": "自动驻车不是万能!吉利车主必看,这些情况千万别用!自动驻车虽是“右脚神器”,但用不对=埋雷!今天用我的吉利牛仔给大家详细...",
-      "summary": "自动驻车功能作为一种辅助驾驶配置,旨在通过电子系统帮助车辆在临时停止时保持静止,从而减轻驾驶员长时间踩刹车的疲劳。然而,该功能并非在所有驾驶场景下均适用,错误地依赖自动驻车可能会带来安全隐患。理解其工作原理、明确适用与禁用场景,对于保障行车安全至关重要。......",
+      "id": "https://post.smzdm.com/p/a5regr27/",
+      "title": "es200提车记",
+      "summary": "终于!2026年达成了人生第一个目标,靠自己全款拿下小车!🎉3月上海付全款提车,1月15号生产的准新车之前试驾了CT5和es200后感觉CT5动力很强,es200起步比较慢,但是舒适感更强,并且CT5油耗比较高,es200的外观更好看。本人不太在意动力方......",
       "source": "Smzdm",
-      "date": "2026-03-28",
-      "url": "https://post.smzdm.com/p/axkw0xv2/"
+      "date": "2026-03-29",
+      "url": "https://post.smzdm.com/p/a5regr27/"
     },
     {
-      "id": "https://www.fx168news.com/article/1009107",
-      "title": "2025年报观察|曹操出行:盈利破局,增长可续,Robotaxi锚定未来出行-FX168",
-      "summary": "3月27日晚间,曹操出行(02643.HK)发布2025年业绩公告,实现营收202亿元,同比增长38%,并在四季度首次达成调整后的净利润转正,毛利率提升至9.4%,净亏损同比收窄50.8%。从2015年作为吉利“新能源汽车共享生态”战略布局落地,到2025年港交所上市成为港股最大科技出行平台...",
+      "id": "http://baijiahao.baidu.com/s?id=1860913142463955079",
+      "title": "首届北京国际科幻与未来产业博览会盛大启幕|锚定“十..",
+      "summary": "3月27日,2026北京国际科幻与未来产业博览会在北京市石景山区首钢园四高炉一层展厅盛大启幕。作为2026中国科幻大会同期活动,本届博览会于中国科幻大会举办十周年之际首届亮相,聚焦科幻技术落地、未来产...",
+      "source": "News_Baidu",
+      "date": "2026-03-29",
+      "url": "http://baijiahao.baidu.com/s?id=1860913142463955079"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860907445816795302",
+      "title": "科技广州新观察|广州公交集团:自动驾驶巴士解锁智慧..",
+      "summary": "央广网广州3月28日消息(记者张顺鹏)午后,广州塔旁的阅江西路上,一辆辆自动驾驶小巴缓缓驶过,车内无需驾驶员操控方向盘,车载屏幕实时显示着路况感知画面...",
+      "source": "News_Baidu",
+      "date": "2026-03-29",
+      "url": "http://baijiahao.baidu.com/s?id=1860907445816795302"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae6xkxz4/",
+      "title": "全国首创!北京落地L2-L4智驾专属保险,",
+      "summary": "2026年3月29日,北京在中关村论坛年会上正式宣布,全国首批适配L2至L4级智能网联汽车的专属商业保险启动开发应用。这是国内首次针对自动驾驶全场景推出的专属保险,彻底填补了长期以来自动驾驶领域风险保障的行业空白,为高阶智驾商业化扫清关键障碍。这款专属保......",
+      "source": "Smzdm",
+      "date": "2026-03-29",
+      "url": "https://post.smzdm.com/p/ae6xkxz4/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7xd7rk/",
+      "title": "小鹏第二代VLA量产推送!端到端智驾重构行业,",
+      "summary": "3月19日,小鹏汽车正式向旗下车型用户推送第二代VLA(Vision-Language-Action)端到端智能驾驶系统,这一举措标志着中国智驾技术正式从“规则驱动”迈入“模型驱动”的“物理AI”新时代,引领行业技术变革。与传统智驾“规则+高精地图”的方......",
+      "source": "Smzdm",
+      "date": "2026-03-29",
+      "url": "https://post.smzdm.com/p/ad7xd7rk/"
+    },
+    {
+      "id": "https://news.cri.cn/20260329/d0bd9956-2030-2474-dbfc-de5642daeb14.html",
+      "title": "感动!人民日报报告文学,关注守护“天路”的基层人民警察-国际在线",
+      "summary": "编者按:3月28日,《人民日报》推出报告文学《我在“天路”守护你》,聚焦守护新藏公路的移民管理警察的感人故事。他们驻守在平均海拔4500米以上的喀喇昆仑腹地,守护着国道219线新藏公路这条“天路&rd...",
+      "source": "Cri_Cn",
+      "date": "2026-03-29",
+      "url": "https://news.cri.cn/20260329/d0bd9956-2030-2474-dbfc-de5642daeb14.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860983132190997590",
+      "title": "直播“飙车炸街”引流获利?这2名男子直接被拘15日",
+      "summary": "本文转自【广东交警】;有人为寻求刺激、博取流量不仅在马路上演“速度与激情”更是公然开启直播“炫技”企图以此“走红网络”对此,公安交管部门将依法严厉查处坚决打击,绝不姑息近日,一名男子在网络上发布的“直...",
+      "source": "News_Baidu",
+      "date": "2026-03-29",
+      "url": "http://baijiahao.baidu.com/s?id=1860983132190997590"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1009218",
+      "title": "百奥家庭互动(2100.HK):以女性向+潮流卡牌双新游蓄力,长线IP稳基本盘-FX168",
+      "summary": "对于百奥家庭互动而言,2025年是研发与蓄力的一年,而2026年则是新品落地与业绩攻坚的一年...",
       "source": "Fx168News",
-      "date": "2026-03-28",
-      "url": "https://www.fx168news.com/article/1009107"
+      "date": "2026-03-29",
+      "url": "https://www.fx168news.com/article/1009218"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860726252213693768",
-      "title": "继续巩固全球市场第二!中芯国际2025全年销售超9..",
-      "summary": "《科创板日报》3月26日讯(记者郭辉)中芯国际发布2025年度财报。公告显示,中芯国际2025年全年实现销售收入93.27亿美元,同比增长16.2%,继续巩固全球纯晶圆代工企业第二的位置;年度归属于上...",
+      "id": "http://baijiahao.baidu.com/s?id=1860989802103811495",
+      "title": "南侨机工后人重走桂越抗战路 传承爱国赤子心",
+      "summary": "中新网崇左3月29日电(韦佳秀)“父辈们冒着枪林弹雨运送军事物资,他们的爱国之心永远值得铭记。”3月28日,南洋华侨机工回国服务团(以下简称:南侨机工)第二代后裔陈柳星在广西凭祥受访时说。图为重走抗战...",
       "source": "News_Baidu",
-      "date": "2026-03-28",
-      "url": "http://baijiahao.baidu.com/s?id=1860726252213693768"
+      "date": "2026-03-29",
+      "url": "http://baijiahao.baidu.com/s?id=1860989802103811495"
     },
     {
-      "id": "https://www.ithome.com/0/933/674.htm",
-      "title": "小米汽车:SU7 Ultra 已选装“碳纤维尾翼”,可单独购买“3 挡可调尾翼支架”",
-      "summary": "IT之家 3 月 28 日消息,小米汽车今日发布答网友问(第 223 集),回答了“SU7 Ultra 推出的三挡可调碳纤维尾翼和之前的区别是什么?”“SU7 Ultra 新出的暮光玫瑰颜色和璀璨洋红区别是什么?”等问题。 IT之家整理如下: 1、SU7 Ultra 推出的三挡可调碳纤维尾翼和之前的区别是什么? 我们发现部分 SU7 Ultra 的用户非常喜欢碳纤维尾翼的造型,但平常主要是日常通勤...",
+      "id": "https://www.bjnews.com.cn/detail/1774778553169784.html",
+      "title": "同学相约自驾游发生事故,司机因重大过失被判承担赔偿责任",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-03-29",
+      "url": "https://www.bjnews.com.cn/detail/1774778553169784.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860991761726168305",
+      "title": "纪实|李动:我是一个兵",
+      "summary": "“我是一个兵,来自老百姓......”“我是一个兵,爱国爱人民......”3月,春季应征入伍新兵开始分批次奔赴军营。军歌嘹亮,响彻长空。一代又一代军人,同心赤诚,热血豪迈。入伍50年的老兵回首——一朝为兵,终身军......",
+      "source": "News_Baidu",
+      "date": "2026-03-29",
+      "url": "http://baijiahao.baidu.com/s?id=1860991761726168305"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1774776971129157.html",
+      "title": "北京智能驾驶保险专属产品要来了,保额多少?何时能投?一文看懂",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-03-29",
+      "url": "https://www.bjnews.com.cn/detail/1774776971129157.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/933/888.htm",
+      "title": "全新江铃大道皮卡上市:升级 2.5T 柴油发动机,售 11.28 万元起",
+      "summary": "IT之家 3 月 29 日消息,全新江铃大道皮卡昨晚正式上市,推出 4 款车型,售价区间 11.28-17.48 万元。新车基于全面进阶的巡天架构 2.0 打造,号称“实现了从动力、底盘到智能的全维度突破”。 动力方面,全新江铃大道搭载的是蓝焰平台顶级版本 — 蓝焰 MAX, 从 2.3T 升级至 2.5T ,同级领先 213 匹马力与 510N·m 峰值扭矩,具备极强的牵引力与脱困能力,百公里综...",
       "source": "Ithome",
-      "date": "2026-03-28",
-      "url": "https://www.ithome.com/0/933/674.htm"
+      "date": "2026-03-29",
+      "url": "https://www.ithome.com/0/933/888.htm"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/china/story20260328-8807386",
-      "title": "北京成中国首个禁售禁运并禁飞无人机城市",
-      "summary": "(北京综合讯)中国政治中心北京市以“首都低空安全面临挑战”为由,出台史上最严无人机管理新规,将成为首个事实上禁止个人买卖、运输和飞行无人机的城市,违规携带无人机进京者将被移交警方处理。...",
-      "source": "Zaobao",
-      "date": "2026-03-28",
-      "url": "https://www.zaobao.com.sg/news/china/story20260328-8807386"
+      "id": "https://www.chinanews.com.cn/hr/2026/03-29/10594901.shtml",
+      "title": "《平起平坐:印尼糖王家族的女性传奇》在沪首发出版 填补海外华人研究领域空白",
+      "summary": "中新网上海3月29日电(记者 陈静)在100多年前,“生而为女”意味着什么?记者29日获悉,由马来西亚华裔作者叶柳心撰写、复旦大学历史学系教授陈雁翻译的著作——《平起平坐:印尼糖王家族的女性传奇》在沪首发,带人们将目光投向19世纪末至20世纪初荷属东印度群岛的三位华人女性——黄蕙兰、何露西与黄伊达。...",
+      "source": "Chinanews",
+      "date": "2026-03-29",
+      "url": "https://www.chinanews.com.cn/hr/2026/03-29/10594901.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/933/666.htm",
-      "title": "反向“名人效应”:无聊公司隧道项目遇阻,居民一听到马斯克姓名就反感",
-      "summary": "IT之家 3 月 28 日消息,当地时间 3 月 28 日,据《财富》杂志报道,马斯克旗下“无聊公司(Boring Company)”正在美国田纳西州纳什维尔推进地下隧道项目。但当地居民的不满情绪正在升温,而争议焦点很大程度上集中在马斯克本人身上。 范德堡大学最新调查显示,在不特别点名马斯克的情况下, 约 35% 的纳什维尔居民总体反对这一项目 。按照规划,无聊公司将建设名为“音乐城环线”的地下隧...",
+      "id": "https://www.ithome.com/0/933/875.htm",
+      "title": "全新莲花 For Me 超混 SUV 上市:900V 架构、纯电续航 420km,50.8 万元起",
+      "summary": "IT之家 3 月 29 日消息,全新莲花 For Me 超混 SUV 今晚正式上市,共推出标准版和特别版两款车型,售价 50.8 万元起。 IT之家注意到,这款新车长宽高为 5103/2019/1636mm,峰值功率 952PS, CLTC 纯电续航 420km ,百公里加速 3.3s,CLTC 综合续航 1416km。 新车外观采用 1.24 超大宽高比设计,提供绯花橙、索拉黄、云舞白、云釉青、...",
       "source": "Ithome",
-      "date": "2026-03-28",
-      "url": "https://www.ithome.com/0/933/666.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860615994509536628",
-      "title": "视频丨技术迭代+绿色转型 “交通人”眼中的博鳌新变..",
-      "summary": "今年是博鳌亚洲论坛成立25周年,每届盛会顺利平稳举行的背后,离不开无数工作人员和志愿者的辛勤付出。交通保障组的吴志斌,已经连续11年参与论坛服务,他用...",
-      "source": "News_Baidu",
-      "date": "2026-03-28",
-      "url": "http://baijiahao.baidu.com/s?id=1860615994509536628"
-    },
-    {
-      "id": "https://news.seehua.com/post/1460389",
-      "title": "休旅车失控撞路边防护栏 男乘客夹毙车内8岁女童重伤",
-      "summary": "(麻坡28日讯)一辆乘有3人的休旅车在南北大道行驶途中,疑失控冲撞路边防护栏,酿一死一重伤悲剧。 柔州消拯局今 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-03-28",
-      "url": "https://news.seehua.com/post/1460389"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0328/233932.shtml",
-      "title": "比亚迪宋Ultra EV,纯电车正式进入“闪充时代”",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-03-28",
-      "url": "http://news.imobile.com.cn/articles/2026/0328/233932.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860900587917094878",
-      "title": "2026中关村论坛年会|专访轻舟智航于骞:智能驾驶..",
-      "summary": "3月下旬,轻舟智航联合创始人、董事长兼CEO于骞的行程密集。2026年GTC大会上,英伟达创始人兼CEO黄仁勋大谈“物理AI”;几天后,轻舟智航宣布获得1亿美元融资。于骞从德国回到北京,在2026中关...",
-      "source": "News_Baidu",
-      "date": "2026-03-28",
-      "url": "http://baijiahao.baidu.com/s?id=1860900587917094878"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860802034461151407",
-      "title": "至信科技AI赋能基层治理,日照智慧平台让服务更精准..",
-      "summary": "齐鲁晚报·齐鲁壹点邹慧清晨的日照市东港区石臼街道银海社区服务中心,山东至信信息科技股份有限公司(以下简称至信科技)项目经理张博的身影准时出现。他背着笔记本电脑,熟练地打开系统后台,与社区工作人员核对最...",
-      "source": "News_Baidu",
-      "date": "2026-03-28",
-      "url": "http://baijiahao.baidu.com/s?id=1860802034461151407"
+      "date": "2026-03-29",
+      "url": "https://www.ithome.com/0/933/875.htm"
     },
     {
       "id": "https://siliconangle.com/2026/03/27/ai-agent-identity-becomes-top-enterprise-security-priority-rsac26/",
@@ -262,14 +267,6 @@
       "source": "Seeking Alpha",
       "date": "2026-03-25",
       "url": "https://seekingalpha.com/news/4568429-kodiak-ai-rallies-after-its-autonomous-driving-system-is-tasked-to-help-combat-attack-drones"
-    },
-    {
-      "id": "https://www.theglobeandmail.com/drive/mobility/article-no-common-sense-ride-in-a-robotaxi-shows-the-promise-and-limits-of/",
-      "title": "‘No common sense’: Ride in a robotaxi shows the promise - and limits - of driverless cars",
-      "summary": "As Waymo expands, experts say autonomous cars still struggle with the unpredictability and social norms of real-world driving...",
-      "source": "The Globe and Mail",
-      "date": "2026-03-25",
-      "url": "https://www.theglobeandmail.com/drive/mobility/article-no-common-sense-ride-in-a-robotaxi-shows-the-promise-and-limits-of/"
     }
   ]
 }
