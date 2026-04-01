@@ -1,15 +1,17 @@
 {
-  "lastUpdated": "2026-03-31 03:17:51",
-  "totalCount": 38,
+  "lastUpdated": "2026-04-01 03:30:43",
+  "totalCount": 33,
   "sources": {
-    "News_Baidu": 11,
+    "Fx168News": 2,
+    "News_Baidu": 3,
+    "Smzdm": 2,
     "Ithome": 1,
     "Chinanews": 3,
-    "Cri_Cn": 1,
-    "Smzdm": 1,
-    "Imobile": 1,
-    "Bjnews": 1,
+    "News_Seehua": 1,
+    "Rfi_Fr": 1,
+    "Theportugalnews": 1,
     "Investing_Cn": 1,
+    "Finbold": 1,
     "MarketScreener": 2,
     "Caixin": 1,
     "Benzinga": 4,
@@ -20,169 +22,136 @@
     "NextBigFuture.com": 1,
     "Investor's Business Daily": 1,
     "Barchart": 1,
-    "CNBC TV18": 1,
-    "CNBC": 1
+    "CNBC TV18": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861096692618637036",
-      "title": "汉王科技董事长刘迎建:仿生鸟技术十大赛道前景广阔",
-      "summary": "中经记者曲忠芳北京报道在低空经济蓬勃发展的当下,当大多数企业扎堆涌入无人机、EVTOL(电动垂直起降飞行器)赛道时,汉王科技(SZ002362)却押注于仿生鸟领域。在前不久刚闭幕的2026中关村论坛年...",
+      "id": "https://www.fx168news.com/article/1010270",
+      "title": "解码佑驾创新2025成绩单:L4爆发、高阶智驾放量、全球化战略升级,迈入“价值兑现快车道”-FX168",
+      "summary": "当下有业绩、未来有故事。...",
+      "source": "Fx168News",
+      "date": "2026-03-31",
+      "url": "https://www.fx168news.com/article/1010270"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861155266020161753",
+      "title": "宇通环卫与文远知行深化合作,150台无人驾驶环卫车..",
+      "summary": "近日,在郑州举行的宇通环卫新品发布会上,宇通环卫与全球领先的自动驾驶科技公司文远知行正式举行“宇通环卫与文远环卫产供研销战略合作暨首批150台无人驾驶产品签约仪式”,现场达成150台S5纯电动自动驾驶...",
       "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861096692618637036"
+      "date": "2026-03-31",
+      "url": "http://baijiahao.baidu.com/s?id=1861155266020161753"
     },
     {
-      "id": "https://www.ithome.com/0/934/265.htm",
-      "title": "小米汽车解答新一代 SU7 女性安全测试优势,称新车进行了「全工况、全席位」的女性乘员保护开发",
-      "summary": "IT之家 3 月 30 日消息,小米汽车官方今日发布了答网友问(第 224 集),针对新一代 SU7 的女性安全测试、「通透模式」如何使用、电动尾翼有哪几种模式等问题进行了解答。 IT之家附小米汽车本期答网友问重点内容如下: 新一代 SU7 的女性安全测试是什么,有什么优势? 不同体型乘员在碰撞中的表现会有差异,需针对气囊点爆等逻辑做细致的安全开发。除常规 50% 分位(身高约 177cm)男性乘...",
-      "source": "Ithome",
-      "date": "2026-03-30",
-      "url": "https://www.ithome.com/0/934/265.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/03-30/10595606.shtml",
-      "title": "科技赋能助春耕 各地丰产丰收有保障",
-      "summary": "人勤春来早,田间春耕忙。各地田野里,无人机、智能监测设备等齐上阵,每个环节都透着科技范儿。...",
-      "source": "Chinanews",
-      "date": "2026-03-30",
-      "url": "https://www.chinanews.com.cn/gn/2026/03-30/10595606.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861079768985425982",
-      "title": "品茗科技亮相2026年工程建设行业科技工作会议,A..",
-      "summary": "3月29日至30日,由中国施工企业管理协会主办的“2026年工程建设行业科技工作会议”在杭州召开。本次会议以“强化科技创新管理,提升企业创新体系整体效能”为主题,汇聚了行业专家、协会领导及众多工程建设...",
+      "id": "http://baijiahao.baidu.com/s?id=1861139977850528582",
+      "title": "走进航天工程大学,解码“思政之光”如何照亮专业课堂",
+      "summary": "“思政之光”照亮专业课堂■陈艳秋武波杨凯淇新学期伊始,第一次“教学研究日”,航天工程大学某教学团队成员再次聚在一起。今年这个寒假,他们在各自家乡展开了一场红色之旅。渭华起义纪念馆、红安七里坪革命旧址、...",
       "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861079768985425982"
+      "date": "2026-03-31",
+      "url": "http://baijiahao.baidu.com/s?id=1861139977850528582"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861093548282112460",
-      "title": "警钟敲到心上!这家管理所出手,给酒驾醉驾来个“硬核..",
-      "summary": "极目新闻通讯员周泽嫣“酒驾不是开玩笑,一脚油门可能毁掉一生。”为进一步严明纪律、敲响警钟,湖北鄂东高速马曹庙管理所近日开展了一场以“以案为鉴筑牢防线”为主题的酒驾醉驾专项宣传教育活动,用最接地气的方式...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861093548282112460"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861086941188378656",
-      "title": "贵州施秉:联合执法守护学生“放学路”",
-      "summary": "校园安全重于泰山,学生出行关乎万家。近日,贵州省黔东南州施秉县双井镇聚焦上下学重点时段,联合交通运输、公安部门深入辖区重点路段,开展“黑校车”“超员车”联合执法专项行动,从源头预防道路交通事故发生,全...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861086941188378656"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861075015224417060",
-      "title": "视频|飒!微综艺《女神驾道》正式发车 以女性视角记..",
-      "summary": "第1眼TV-华龙网讯(记者秦思思)3月30日上午,《女神驾道》2026新征途发车仪式在重庆广电大厦广场举行。6位越野女团成员接过旗帜,正式开启为期20余天的西部穿越之旅。...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861075015224417060"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-30/10595553.shtml",
-      "title": "北京“两区”建设明确160余项任务 “新举措”拓展度外开放“新流量”",
-      "summary": "中新网北京3月30日电 (记者 吕少威)记者今天从北京市商务局获悉,北京市“两区”办(中国(北京)自由贸易试验区、国家服务业扩大开放综合示范区工作领导小组办公室)日前印发《2026年“两区”建设工作要点》(以下简称《工作要点》),对2026年“两区”建设工作作出安排,明确五个方面160余项任务,并同步印发重点任务、重点政策举措、重点项目等清单,为2026年“两区”建设工作下达任务书与时间表。四大关...",
-      "source": "Chinanews",
-      "date": "2026-03-30",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-30/10595553.shtml"
-    },
-    {
-      "id": "https://news.cri.cn/20260330/2b0edce7-e269-3c2f-11c5-cd48155af197.html",
-      "title": "科技赋能助春耕 各地丰产丰收有保障-国际在线",
-      "summary": "人勤春来早,田间春耕忙。各地田野里,无人机、智能监测设备等齐上阵,每个环节都透着科技范儿。 湖南沅江:育秧有了新技术降本增效助春耕 湖南益阳沅江市正在开展水稻育秧工作,秧苗田里的履带式桁车平稳行进。过去的桁车需要专门在田间架设多条轨...",
-      "source": "Cri_Cn",
-      "date": "2026-03-30",
-      "url": "https://news.cri.cn/20260330/2b0edce7-e269-3c2f-11c5-cd48155af197.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5redv2x/",
-      "title": "张雪机车WSBK夺冠:从穷小子到世界冠军,他用了20年证明中国制造",
-      "summary": "2026年3月28日晚上,对于所有喜欢摩托车的朋友来说,绝对是一个激动到难以入眠的夜晚。在遥远的葡萄牙,世界超级摩托车锦标赛的比赛现场,发生了一件让全中国车迷都热血沸腾的大事。来自中国“张雪机车”车队的法国车手瓦伦丁·德比斯,驾驶着一辆名叫“820RR-......",
+      "id": "https://post.smzdm.com/p/a4qep8wx/",
+      "title": "驾龄不满一年不卖!张雪820RR给摩托行业上了最清醒的一课",
+      "summary": "国产三缸仿赛张雪820RR以4万元级定价进入市场,并在WSBK赛场取得排位赛第三的成绩,展现出对标国际一线品牌的性能潜力。然而,厂商出台了一项严格的销售政策:明确规定驾龄不满一年的新手不得购买。这一决策基于该车极端的性能设定与赛道基因,旨在规避因驾驶经验......",
       "source": "Smzdm",
-      "date": "2026-03-30",
-      "url": "https://post.smzdm.com/p/a5redv2x/"
+      "date": "2026-03-31",
+      "url": "https://post.smzdm.com/p/a4qep8wx/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861084645257674551",
-      "title": "“拿到28900当时是侥幸,现在是后悔......”",
-      "summary": "男子“拉车门”盗窃28900元,得手的那一刻有多侥幸,被抓时就有多后悔。可惜,悔之晚矣!“警察同志,我放在车里的钱不见了...”3月23日下午6时许黄石港区分局黄石港派出所接到市民廖先生报警称车内的289...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861084645257674551"
+      "id": "https://www.ithome.com/0/934/687.htm",
+      "title": "小米汽车回应“碳纤维方向盘是否会影响辅助驾驶脱手检测”,称可能存在误报打扰的情况",
+      "summary": "IT之家 3 月 31 日消息,小米汽车官方今日发布答网友问(第 225 集),针对新一代 SU7 这次的安全辅助功能是否有升级、碳纤维方向盘是否会影响辅助驾驶脱手检测等问题进行了解答。 IT之家附重点内容如下: 新一代 SU7 这次的安全辅助功能有升级吗? 新一代 SU7 的 AEB 防碰撞辅助扩展了目标物识别种类 ,进一步提升了极端场景下的应对能力;向大家介绍一下新一代 SU7 安全辅助的三大...",
+      "source": "Ithome",
+      "date": "2026-03-31",
+      "url": "https://www.ithome.com/0/934/687.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861093830320969717",
-      "title": "紫牛热点—高速路CPC卡叠加手机放在无线充电板上,..",
-      "summary": "扬子晚报网3月30日讯(记者郭一鹏)昨日,有贵州网友在社交平台发帖称,自己把高速收费站发放的CPC卡(高速公路复合通行卡)放在了中控台上,结果行驶时中控台突然“炸”了。图片来自于网络“今天驾车行驶高速...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861093830320969717"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861090620902894025",
-      "title": "一男子骑电动车被卷入搅拌车底,长沙县消防紧急救援",
-      "summary": "长沙晚报掌上长沙3月30日讯(全媒体记者周小华通讯员王磊)3月29日下午2时30分许,长沙县消防救援大队黄兴消防救援站接到指挥中心调度,黄兴镇黄江大道绿驹电动车门店附近发生一起车祸事故,急需救援。黄兴...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861090620902894025"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0330/233953.shtml",
-      "title": "闪迪携丰富闪存存储解决方案亮相CFMS MemoryS 2026",
-      "summary": "3月27日,CFMS MemoryS 2026峰会在深圳开幕。这场闪存行业的年度盛会,今年聚焦的主题是“穿越周期·释放价值”——一个恰逢其时的议题:AI正将存储行业推向新的变革节点。从云端训练集群到终端智能设备,AI工作负载的分布越来越广,对存储的需求也随之分化:有的场景追求极致性能,有的需要超大容量,有的必须在功耗、成本与可靠性之间找到平衡。单一产品已无法覆盖所有需求,厂商必须具备覆盖全场景的产...",
-      "source": "Imobile",
-      "date": "2026-03-30",
-      "url": "http://news.imobile.com.cn/articles/2026/0330/233953.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861085902932034495",
-      "title": "张雪机车WSBK夺冠,直播间爆火,背后上市公司股价..",
-      "summary": "当地时间3月28日,在世界超级摩托车锦标赛(WSBK)葡萄牙站中,法国车手瓦伦丁·德比斯驾驶张雪机车(编号53)820RR-RS车型夺冠,冲线时领先近4秒,将传统霸主杜卡迪、雅马哈、川崎甩在身后。3月...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861085902932034495"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/03-30/10595463.shtml",
-      "title": "重庆市沙坪坝区政协原党组成员贾宇被“双开”",
-      "summary": "中新网3月30日电 据重庆市纪委监委消息:经重庆市委批准,重庆市纪委监委对沙坪坝区政协原党组成员贾宇严重违纪违法问题进行了立案审查调查。...",
+      "id": "https://www.chinanews.com.cn/cj/2026/03-31/10596264.shtml",
+      "title": "开启一场“说走就走”之旅 中国入境游市场热力攀升",
+      "summary": "今年以来,外国人入境人次的持续增长迅速带热了深圳的“文旅流量”“商贸流量”。经深圳口岸出入境外国人已突破200万人次,较2025年提前20天达成这一节点,口岸“国际热度”持续攀升。...",
       "source": "Chinanews",
-      "date": "2026-03-30",
-      "url": "https://www.chinanews.com.cn/gn/2026/03-30/10595463.shtml"
+      "date": "2026-03-31",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-31/10596264.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1774866325169805.html",
-      "title": "王传福定调“基业长青的百年老店”,比亚迪的底牌是什么?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-03-30",
-      "url": "https://www.bjnews.com.cn/detail/1774866325169805.html"
+      "id": "https://www.chinanews.com.cn/cj/2026/03-31/10596257.shtml",
+      "title": "文旅、商贸流量持续火热 高科技“土特产”成为全球消费者“心头好”",
+      "summary": "央视网消息:2026年以来,外国人入境人次的持续增长迅速带热了深圳的“文旅流量”“商贸流量”。经深圳口岸出入境外国人已突破200万人次,较2025年提前20天达成这一节点,口岸“国际热度”持续攀升。...",
+      "source": "Chinanews",
+      "date": "2026-03-31",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-31/10596257.shtml"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3288158",
-      "title": "上调至1269元/瓶!贵州茅台发布涨价公告|盘后公告集锦",
-      "summary": "上调至1269元/瓶!贵州茅台发布涨价公告|盘后公告集锦...",
+      "id": "https://www.chinanews.com.cn/cj/2026/03-31/10596251.shtml",
+      "title": "原来你是这样的河南丨在河南,见证“中国制造”向“中国智造”的精彩蝶变",
+      "summary": "提起河南,你首先会想到什么?牡丹、胡辣汤,还是一句淳朴的“中不中”?近日,“开局之年看中国·原来你是这样的河南”网络主题宣传活动“智造未来谱新篇”线路采风团走进洛阳、漯河、郑州等地,深入企业生产车间与实验室,实地感受到“河南智造”带来的活力与惊喜。...",
+      "source": "Chinanews",
+      "date": "2026-03-31",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-31/10596251.shtml"
+    },
+    {
+      "id": "https://news.seehua.com/post/1461865",
+      "title": "轿车车祸起火 八旬华妇受伤送院",
+      "summary": "(吉隆坡31日讯)雪兰莪八打灵再也白沙罗万达镇BU2公园发生一起车祸,一名84岁老妇在事故中右手骨折,其所驾驶 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-03-31",
+      "url": "https://news.seehua.com/post/1461865"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260331-%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AF%B9%E6%89%8B%E6%9B%B4%E5%83%8F%E6%98%AF%E6%97%B6%E9%97%B4%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E7%BE%8E%E5%9B%BD",
+      "title": "太空竞赛:中国的对手更像是时间,而不是美国",
+      "summary": "各位好,今天是2026年3月31日星期二。今日出刊的法国主流日刊刊出了多篇与中国相关的分析报道。本期法国报纸摘要,带您纵览这些话题。...",
+      "source": "Rfi_Fr",
+      "date": "2026-03-31",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260331-%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AF%B9%E6%89%8B%E6%9B%B4%E5%83%8F%E6%98%AF%E6%97%B6%E9%97%B4%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E7%BE%8E%E5%9B%BD"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1010272",
+      "title": "华为2025年营收8809亿元!孟晚舟最新发声-FX168",
+      "summary": "AI,未来十年“最大确定性”机遇...",
+      "source": "Fx168News",
+      "date": "2026-03-31",
+      "url": "https://www.fx168news.com/article/1010272"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861175367623842878",
+      "title": "《挽救计划》:“手搓”之作的诚意值得被更多人看见",
+      "summary": "科幻电影《挽救计划》把一场关乎人类兴亡、孤注一掷式的深空冒险,转化为一个中学科学教师和一只外星石头蜘蛛的“飞船生活Vlog”。图为影片剧照。中国内地院线上映9天后,科幻电影《挽救计划》(Project...",
+      "source": "News_Baidu",
+      "date": "2026-03-31",
+      "url": "http://baijiahao.baidu.com/s?id=1861175367623842878"
+    },
+    {
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-03-31/lisbon-to-madrid-in-a-rolls-royce-silver-spirit-ll/996723",
+      "title": "乘坐劳斯莱斯 Silver Spirit ll 从里斯本前往马德里",
+      "summary": "里斯本到马德里的地理路程长达 625 公里。但如果驾驶一辆 1996 年的劳斯莱斯银魂二代,就完全不同了。...",
+      "source": "Theportugalnews",
+      "date": "2026-03-31",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-03-31/lisbon-to-madrid-in-a-rolls-royce-silver-spirit-ll/996723"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aww3zmqp/",
+      "title": "32.98万起!上汽大众ID. ERA 9X预售开启,搭载「地表最强增程」",
+      "summary": "3月30日,上汽大众在深圳正式发布旗下“德系满级旗舰SUV”——ID. ERA 9X,同步公布三款四驱版车型预售价格:Pro版32.98万元、Max版35.98万元、Ultra版37.98万元。区别于行业常见的“低配+选装”模式,ID. ERA 9X从设......",
+      "source": "Smzdm",
+      "date": "2026-03-31",
+      "url": "https://post.smzdm.com/p/aww3zmqp/"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3291058",
+      "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
+      "summary": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点...",
       "source": "Investing_Cn",
-      "date": "2026-03-30",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3288158"
+      "date": "2026-03-31",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3291058"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861070048882859293",
-      "title": "前海克斯康智能驾驶业务发展负责人支振明加入51WO..",
-      "summary": "3月30日,51WORLD宣布,前海克斯康智能驾驶业务发展负责人支振明正式加入51WORLD旗下51Sim,担任解决方案负责人,共同推动下一代仿真技术规模化应用,支持高阶智驾量产落地。...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861070048882859293"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861089018220753045",
-      "title": "把“紧箍咒”念到心坎上,湖北交警精准宣教覆盖13家..",
-      "summary": "荆楚网(湖北日报网)通讯员赖栋才、龚菲菲“昨晚喝的酒,睡一觉起来,第二天开车算不算酒驾?”“有人怂恿你酒后开车,你答应了,算不算违法?”没有照本宣科的枯燥说教,没有冰冷生硬的法条罗列,取而代之的是互动...",
-      "source": "News_Baidu",
-      "date": "2026-03-30",
-      "url": "http://baijiahao.baidu.com/s?id=1861089018220753045"
+      "id": "https://finbold.com/top-tesla-critic-reveals-elon-musks-biggest-mistake-of-2026/",
+      "title": "Top Tesla critic reveals Elon Musk’s biggest mistake of 2026",
+      "summary": "According to Gordon Johnson, officially rolling out 'FSD' is the worst thing Elon Musk could have for Tesla stock; Here's why...",
+      "source": "Finbold",
+      "date": "2026-03-31",
+      "url": "https://finbold.com/top-tesla-critic-reveals-elon-musks-biggest-mistake-of-2026/"
     },
     {
       "id": "https://www.marketscreener.com/news/lg-innotek-us-based-applied-intuition-sign-deal-to-enhance-autonomous-driving-sensing-modules-shar-ce7e51d8de8dfe22",
@@ -263,6 +232,38 @@
       "source": "MarketScreener",
       "date": "2026-03-26",
       "url": "https://www.marketscreener.com/news/pony-ai-partners-with-uber-verne-to-deploy-robotaxis-in-europe-ce7e51dadb89f120"
+    },
+    {
+      "id": "https://www.ndtv.com/auto/tesla-fsd-helps-deaf-driver-detect-ambulance-pull-over-safely-watch-video-11269020",
+      "title": "Tesla FSD Helps Deaf Driver Detect Ambulance, Pull Over Safely: Watch Video",
+      "summary": "Tesla FSD detects ambulance and pulls over for deaf driver, highlighting accessibility benefits; however, the feature remains unavailable in India pending regulatory approval....",
+      "source": "NDTV.com",
+      "date": "2026-03-26",
+      "url": "https://www.ndtv.com/auto/tesla-fsd-helps-deaf-driver-detect-ambulance-pull-over-safely-watch-video-11269020"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/03/51456241/the-tesla-brand-has-hit-a-bottom-and-it-has-an-elon-musk-problem",
+      "title": "Tesla Brand Hits Bottom",
+      "summary": "Tesla ranks last in brand trust and perception, while FSD data shows Elon Musk is a key negative association, per EVIR report....",
+      "source": "Benzinga",
+      "date": "2026-03-25",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51456241/the-tesla-brand-has-hit-a-bottom-and-it-has-an-elon-musk-problem"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car",
+      "title": "World 'Physical AI' Adoption—Hails Tesla FSD, Waymo",
+      "summary": "Gene Munster predicts self-driving cars will be first real-world adoptions of physical AI, citing advancements by Tesla, Waymo....",
+      "source": "Benzinga",
+      "date": "2026-03-23",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car"
+    },
+    {
+      "id": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html",
+      "title": "Does the TESLA FSD CHIP Match the Human Brain ?",
+      "summary": "xAI already has the lowest cost per token in the industry (fastest/cheapest data centers, highest GPU utilization)....",
+      "source": "NextBigFuture.com",
+      "date": "2026-03-22",
+      "url": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html"
     }
   ]
 }
