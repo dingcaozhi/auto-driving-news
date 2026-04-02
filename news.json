@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-04-01 03:30:43",
+  "lastUpdated": "2026-04-02 02:55:34",
   "totalCount": 33,
   "sources": {
-    "Fx168News": 2,
-    "News_Baidu": 3,
-    "Smzdm": 2,
+    "Bjnews": 2,
+    "Chinanews": 4,
+    "Fx168News": 1,
     "Ithome": 1,
-    "Chinanews": 3,
-    "News_Seehua": 1,
-    "Rfi_Fr": 1,
-    "Theportugalnews": 1,
-    "Investing_Cn": 1,
+    "News_Baidu": 5,
+    "Globenewswire_Fr": 1,
+    "Eeo": 1,
+    "The Telegraph": 1,
+    "The Straits Times": 1,
+    "The Manila Times": 1,
+    "TechCrunch": 1,
+    "WIS10": 1,
+    "The Verge": 1,
+    "Benzinga": 5,
     "Finbold": 1,
-    "MarketScreener": 2,
-    "Caixin": 1,
-    "Benzinga": 4,
-    "The Manila Times": 3,
-    "PR Newswire UK": 1,
-    "SiliconANGLE News": 1,
+    "MarketScreener": 1,
     "NDTV.com": 1,
     "NextBigFuture.com": 1,
     "Investor's Business Daily": 1,
@@ -26,124 +26,180 @@
   },
   "news": [
     {
-      "id": "https://www.fx168news.com/article/1010270",
-      "title": "解码佑驾创新2025成绩单:L4爆发、高阶智驾放量、全球化战略升级,迈入“价值兑现快车道”-FX168",
-      "summary": "当下有业绩、未来有故事。...",
+      "id": "https://www.bjnews.com.cn/detail/1775052407169876.html",
+      "title": "阿勒泰公安开展春季电动自行车整治行动,查处违法行为890余起",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-01",
+      "url": "https://www.bjnews.com.cn/detail/1775052407169876.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-01/10597074.shtml",
+      "title": "数读中国开局新活力|市场规模达1.5万亿元!低空经济蓄势腾飞",
+      "summary": "编者按:2026年是“十五五”开局之年。内需市场潜力持续释放,消费新场景不断涌现,文旅融合、冰雪经济、国潮消费等热点频现,展现出超大规模市场的韧性与活力。为深入解读开局新气象,央广网推出《数读中国开局新活力》系列报道,以数据为支撑,聚焦各地消费场景、产业升级与民生改善的生动实践,呈现中国经济稳中求进、活力迸发的时代图景。...",
+      "source": "Chinanews",
+      "date": "2026-04-01",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-01/10597074.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1010801",
+      "title": "Bitget 通过与 MuleRun 合作扩展 Agent Hub 生态系统,推动智能体交易发展-FX168",
+      "summary": "塞舌尔维多利亚, April 01, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 宣布与行业领先的自进化 AI 智能体 MuleRun 达成战略产品合作,共同推出一款 AI 驱动的个人交易助手。该助手通过自然语言交互,为普通投资者提供机构级市场信号。 MuleRun 是一个自进化的个人 AI 平台,用户可通过自然语言即可部署工作流,无需任何技术...",
       "source": "Fx168News",
-      "date": "2026-03-31",
-      "url": "https://www.fx168news.com/article/1010270"
+      "date": "2026-04-01",
+      "url": "https://www.fx168news.com/article/1010801"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861155266020161753",
-      "title": "宇通环卫与文远知行深化合作,150台无人驾驶环卫车..",
-      "summary": "近日,在郑州举行的宇通环卫新品发布会上,宇通环卫与全球领先的自动驾驶科技公司文远知行正式举行“宇通环卫与文远环卫产供研销战略合作暨首批150台无人驾驶产品签约仪式”,现场达成150台S5纯电动自动驾驶...",
-      "source": "News_Baidu",
-      "date": "2026-03-31",
-      "url": "http://baijiahao.baidu.com/s?id=1861155266020161753"
+      "id": "https://www.bjnews.com.cn/detail/1775048931168252.html",
+      "title": "从赛场火到市场:张雪机车订单已排到5月底,产值冲刺18亿",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-01",
+      "url": "https://www.bjnews.com.cn/detail/1775048931168252.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861139977850528582",
-      "title": "走进航天工程大学,解码“思政之光”如何照亮专业课堂",
-      "summary": "“思政之光”照亮专业课堂■陈艳秋武波杨凯淇新学期伊始,第一次“教学研究日”,航天工程大学某教学团队成员再次聚在一起。今年这个寒假,他们在各自家乡展开了一场红色之旅。渭华起义纪念馆、红安七里坪革命旧址、...",
-      "source": "News_Baidu",
-      "date": "2026-03-31",
-      "url": "http://baijiahao.baidu.com/s?id=1861139977850528582"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qep8wx/",
-      "title": "驾龄不满一年不卖!张雪820RR给摩托行业上了最清醒的一课",
-      "summary": "国产三缸仿赛张雪820RR以4万元级定价进入市场,并在WSBK赛场取得排位赛第三的成绩,展现出对标国际一线品牌的性能潜力。然而,厂商出台了一项严格的销售政策:明确规定驾龄不满一年的新手不得购买。这一决策基于该车极端的性能设定与赛道基因,旨在规避因驾驶经验......",
-      "source": "Smzdm",
-      "date": "2026-03-31",
-      "url": "https://post.smzdm.com/p/a4qep8wx/"
-    },
-    {
-      "id": "https://www.ithome.com/0/934/687.htm",
-      "title": "小米汽车回应“碳纤维方向盘是否会影响辅助驾驶脱手检测”,称可能存在误报打扰的情况",
-      "summary": "IT之家 3 月 31 日消息,小米汽车官方今日发布答网友问(第 225 集),针对新一代 SU7 这次的安全辅助功能是否有升级、碳纤维方向盘是否会影响辅助驾驶脱手检测等问题进行了解答。 IT之家附重点内容如下: 新一代 SU7 这次的安全辅助功能有升级吗? 新一代 SU7 的 AEB 防碰撞辅助扩展了目标物识别种类 ,进一步提升了极端场景下的应对能力;向大家介绍一下新一代 SU7 安全辅助的三大...",
+      "id": "https://www.ithome.com/0/935/116.htm",
+      "title": "赛力斯第五代 2.0T 超级增程技术开发完成,实现“车-电-机-充”一体化集成",
+      "summary": "IT之家 4 月 1 日消息,有投资者昨日在互动平台向赛力斯提问,2025 年年报披露了巨额研发费用,具体研发出了什么? 对此,赛力斯今日回应称,公司完成了第五代 2.0T 超级增程技术开发,并实现“车-电-机-充”一体化集成。IT之家附原文如下: 尊敬的投资者,您好!智能动力领域, 公司完成第五代 2.0T 超级增程技术开发 ,同时实现“车-电-机-充”一体化集成,依托 800V 及以上高压架构...",
       "source": "Ithome",
-      "date": "2026-03-31",
-      "url": "https://www.ithome.com/0/934/687.htm"
+      "date": "2026-04-01",
+      "url": "https://www.ithome.com/0/935/116.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-31/10596264.shtml",
-      "title": "开启一场“说走就走”之旅 中国入境游市场热力攀升",
-      "summary": "今年以来,外国人入境人次的持续增长迅速带热了深圳的“文旅流量”“商贸流量”。经深圳口岸出入境外国人已突破200万人次,较2025年提前20天达成这一节点,口岸“国际热度”持续攀升。...",
+      "id": "https://www.chinanews.com.cn/ty/2026/04-01/10597056.shtml",
+      "title": "“张雪机车”赢下全球顶级摩托车赛事有多难?",
+      "summary": "中新社北京4月1日电 题:“张雪机车”赢下全球顶级摩托车赛事有多难?...",
       "source": "Chinanews",
-      "date": "2026-03-31",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-31/10596264.shtml"
+      "date": "2026-04-01",
+      "url": "https://www.chinanews.com.cn/ty/2026/04-01/10597056.shtml"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-31/10596257.shtml",
-      "title": "文旅、商贸流量持续火热 高科技“土特产”成为全球消费者“心头好”",
-      "summary": "央视网消息:2026年以来,外国人入境人次的持续增长迅速带热了深圳的“文旅流量”“商贸流量”。经深圳口岸出入境外国人已突破200万人次,较2025年提前20天达成这一节点,口岸“国际热度”持续攀升。...",
-      "source": "Chinanews",
-      "date": "2026-03-31",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-31/10596257.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/03-31/10596251.shtml",
-      "title": "原来你是这样的河南丨在河南,见证“中国制造”向“中国智造”的精彩蝶变",
-      "summary": "提起河南,你首先会想到什么?牡丹、胡辣汤,还是一句淳朴的“中不中”?近日,“开局之年看中国·原来你是这样的河南”网络主题宣传活动“智造未来谱新篇”线路采风团走进洛阳、漯河、郑州等地,深入企业生产车间与实验室,实地感受到“河南智造”带来的活力与惊喜。...",
-      "source": "Chinanews",
-      "date": "2026-03-31",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-31/10596251.shtml"
-    },
-    {
-      "id": "https://news.seehua.com/post/1461865",
-      "title": "轿车车祸起火 八旬华妇受伤送院",
-      "summary": "(吉隆坡31日讯)雪兰莪八打灵再也白沙罗万达镇BU2公园发生一起车祸,一名84岁老妇在事故中右手骨折,其所驾驶 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-03-31",
-      "url": "https://news.seehua.com/post/1461865"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260331-%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AF%B9%E6%89%8B%E6%9B%B4%E5%83%8F%E6%98%AF%E6%97%B6%E9%97%B4%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E7%BE%8E%E5%9B%BD",
-      "title": "太空竞赛:中国的对手更像是时间,而不是美国",
-      "summary": "各位好,今天是2026年3月31日星期二。今日出刊的法国主流日刊刊出了多篇与中国相关的分析报道。本期法国报纸摘要,带您纵览这些话题。...",
-      "source": "Rfi_Fr",
-      "date": "2026-03-31",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260331-%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AF%B9%E6%89%8B%E6%9B%B4%E5%83%8F%E6%98%AF%E6%97%B6%E9%97%B4%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E7%BE%8E%E5%9B%BD"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1010272",
-      "title": "华为2025年营收8809亿元!孟晚舟最新发声-FX168",
-      "summary": "AI,未来十年“最大确定性”机遇...",
-      "source": "Fx168News",
-      "date": "2026-03-31",
-      "url": "https://www.fx168news.com/article/1010272"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861175367623842878",
-      "title": "《挽救计划》:“手搓”之作的诚意值得被更多人看见",
-      "summary": "科幻电影《挽救计划》把一场关乎人类兴亡、孤注一掷式的深空冒险,转化为一个中学科学教师和一只外星石头蜘蛛的“飞船生活Vlog”。图为影片剧照。中国内地院线上映9天后,科幻电影《挽救计划》(Project...",
+      "id": "http://baijiahao.baidu.com/s?id=1861274151666086108",
+      "title": "反馈即领钱!千问AI体验活动火热进行中,最多可得4..",
+      "summary": "4月1日,千问APP披露近期用户对AI打车的多项反馈,“宠物友好”、“能代叫车”、“推出老人大字版”成最受关注的三大需求。当前,千问正在推出AI体验官活动,邀请用户对AI打车和AI充话费等评价反馈,并...",
       "source": "News_Baidu",
-      "date": "2026-03-31",
-      "url": "http://baijiahao.baidu.com/s?id=1861175367623842878"
+      "date": "2026-04-01",
+      "url": "http://baijiahao.baidu.com/s?id=1861274151666086108"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-03-31/lisbon-to-madrid-in-a-rolls-royce-silver-spirit-ll/996723",
-      "title": "乘坐劳斯莱斯 Silver Spirit ll 从里斯本前往马德里",
-      "summary": "里斯本到马德里的地理路程长达 625 公里。但如果驾驶一辆 1996 年的劳斯莱斯银魂二代,就完全不同了。...",
-      "source": "Theportugalnews",
-      "date": "2026-03-31",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-03-31/lisbon-to-madrid-in-a-rolls-royce-silver-spirit-ll/996723"
+      "id": "http://baijiahao.baidu.com/s?id=1861260019005771759",
+      "title": "认识几天就垫10万元带你挣钱?警惕披着爱情外衣的投..",
+      "summary": "网上相亲如今是不少适龄男女选择的相亲方式之一,山东德州的市民王女士本以为在网上找到了自己心仪的另一半,不料却陷入了对方精心策划的骗局。女子网上相亲不料却陷入“爱情陷阱”今年1月20日,山东德州禹城市的...",
+      "source": "News_Baidu",
+      "date": "2026-04-01",
+      "url": "http://baijiahao.baidu.com/s?id=1861260019005771759"
     },
     {
-      "id": "https://post.smzdm.com/p/aww3zmqp/",
-      "title": "32.98万起!上汽大众ID. ERA 9X预售开启,搭载「地表最强增程」",
-      "summary": "3月30日,上汽大众在深圳正式发布旗下“德系满级旗舰SUV”——ID. ERA 9X,同步公布三款四驱版车型预售价格:Pro版32.98万元、Max版35.98万元、Ultra版37.98万元。区别于行业常见的“低配+选装”模式,ID. ERA 9X从设......",
-      "source": "Smzdm",
-      "date": "2026-03-31",
-      "url": "https://post.smzdm.com/p/aww3zmqp/"
+      "id": "https://www.globenewswire.com/fr/news-release/2026/04/01/3266763/0/zh-hans/Bitget-%E9%80%9A%E8%BF%87%E4%B8%8E-MuleRun-%E5%90%88%E4%BD%9C%E6%89%A9%E5%B1%95-Agent-Hub-%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F-%E6%8E%A8%E5%8A%A8%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%A4%E6%98%93%E5%8F%91%E5%B1%95.html",
+      "title": "Bitget 通过与 MuleRun 合作扩展 Agent Hub 生态系统,推动智能体交易发展",
+      "summary": "塞舌尔维多利亚, April 01, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 宣布与行业领先的自进化 AI 智能体 MuleRun 达成战略产品合作,共同推出一款 AI 驱动的个人交易助手。该助手通过自然语言交互,为普通投资者提供机构级市场信号。...",
+      "source": "Globenewswire_Fr",
+      "date": "2026-04-01",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/04/01/3266763/0/zh-hans/Bitget-%E9%80%9A%E8%BF%87%E4%B8%8E-MuleRun-%E5%90%88%E4%BD%9C%E6%89%A9%E5%B1%95-Agent-Hub-%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F-%E6%8E%A8%E5%8A%A8%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%A4%E6%98%93%E5%8F%91%E5%B1%95.html"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3291058",
-      "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-      "summary": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点...",
-      "source": "Investing_Cn",
+      "id": "https://www.chinanews.com.cn/dwq/2026/04-01/10597038.shtml",
+      "title": "广州警方强化无人机安全管理:双平台实名登记",
+      "summary": "中新网广州4月1日电 (记者 方伟彬)广州市公安局4月1日发布消息,为进一步规范无人机飞行活动,保障低空安全,助力低空经济高质量发展,该局近日发布温馨提示,明确了民用无人驾驶航空器的登记备案要求、飞行安全规范及相关法律责任,督促广大无人机所有者依法合规飞行。...",
+      "source": "Chinanews",
+      "date": "2026-04-01",
+      "url": "https://www.chinanews.com.cn/dwq/2026/04-01/10597038.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-01/10597006.shtml",
+      "title": "津门春耕上演“农机秀” 智慧农业赋能田间地头",
+      "summary": "中新网天津4月1日电 (薛淳月 孙玲玲)无人驾驶拖拉机自动行驶、植保无人机精准飞防、精量播种机高效作业......3月31日,天津市春耕备耕农机化技术培训暨田间日活动在天津宁河举行。...",
+      "source": "Chinanews",
+      "date": "2026-04-01",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-01/10597006.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861272035328599937",
+      "title": "黄兴广场来了“机器人交警”",
+      "summary": "长沙晚报掌上长沙4月1日(全媒体记者张洋子)4月1日下午,长沙黄兴广场人头攒动,不少市民和游客纷纷举起手机,对准一个特殊的身影——一名身着“警服”、正挥动机械臂指挥交通的机器人。这并非科幻电影中的场景...",
+      "source": "News_Baidu",
+      "date": "2026-04-01",
+      "url": "http://baijiahao.baidu.com/s?id=1861272035328599937"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861069270800463139",
+      "title": "美的开启全屋智能自进化新征程,以AI提升家的温度",
+      "summary": "如今,AI早已不是遥远的技术概念,而是悄然渗透进生活的每一处细节。从日常的语音助手到智能设备的自动响应,AI正以润物无声的方式改变着我们的生活方式,让便捷与智能成为日常。而在这场技术变革中,家电行业的...",
+      "source": "News_Baidu",
+      "date": "2026-04-01",
+      "url": "http://baijiahao.baidu.com/s?id=1861069270800463139"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861272226741556125",
+      "title": "适配国情,以质破局,推动RoboTaxi健康有序发..",
+      "summary": "“十五五”开局之年,我国经济正稳步迈向高质量发展新阶段,科技进步持续为产业升级赋能,劳动力结构加速优化迭代,自动驾驶领域法律法规体系日趋完善。在此背景下,RoboTaxi(无人驾驶出租汽车)已从技术验...",
+      "source": "News_Baidu",
+      "date": "2026-04-01",
+      "url": "http://baijiahao.baidu.com/s?id=1861272226741556125"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0401/825277.shtml",
+      "title": "智驾“算力效率派”再获资本加持 天瞳威视完成数千万元战略融资",
+      "summary": "天瞳威视已完成8轮融资,融资总额近10亿元,投资方包括联通、北汽、上汽、商汤投资、地平线、采埃孚等众多知名资本。...",
+      "source": "Eeo",
+      "date": "2026-04-01",
+      "url": "http://www.eeo.com.cn/2026/0401/825277.shtml"
+    },
+    {
+      "id": "https://www.telegraph.co.uk/cars/news/human-drivers-fallible-self-driving-cars/",
+      "title": "A human driver is simply too fallible. Self-driving cars can’t come quickly enough",
+      "summary": "Many of us are lazy, impatient and impetuous – autonomous vehicles have the potential to save us from ourselves...",
+      "source": "The Telegraph",
+      "date": "2026-04-01",
+      "url": "https://www.telegraph.co.uk/cars/news/human-drivers-fallible-self-driving-cars/"
+    },
+    {
+      "id": "https://www.straitstimes.com/asia/east-asia/baidu-robotaxis-freeze-in-chinas-wuhan-sparking-flurry-of-police-calls",
+      "title": "Baidu robotaxis freeze in China’s Wuhan, sparking flurry of police calls",
+      "summary": "The freeze raised concerns about the safety and reliability of autonomous driving technology. Read more at straitstimes.com....",
+      "source": "The Straits Times",
+      "date": "2026-04-01",
+      "url": "https://www.straitstimes.com/asia/east-asia/baidu-robotaxis-freeze-in-chinas-wuhan-sparking-flurry-of-police-calls"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/weride-and-grab-officially-launch-singapores-first-autonomous-public-ride-service-in-punggol/2312173",
+      "title": "WeRide and Grab Officially Launch Singapore's First Autonomous Public Ride Service in Punggol",
+      "summary": "The Ai.R (Autonomously Intelligent Ride) service is operated by Grab and features WeRide’s GXR and Robobus autonomous vehicle (AV) models. The Ai.R fleet has successfully served more than 1,000 early ...",
+      "source": "The Manila Times",
+      "date": "2026-04-01",
+      "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/weride-and-grab-officially-launch-singapores-first-autonomous-public-ride-service-in-punggol/2312173"
+    },
+    {
+      "id": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+      "title": "Toyota's Woven Capital appoints new CIO and COO in push for finding the 'future of mobility'",
+      "summary": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving....",
+      "source": "TechCrunch",
+      "date": "2026-04-01",
+      "url": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/"
+    },
+    {
+      "id": "https://www.wistv.com/2026/03/31/man-arrested-dui-after-being-found-passed-out-intoxicated-moving-tesla-police-say/",
+      "title": "Man arrested for DUI after being found passed out, intoxicated in moving Tesla, police say",
+      "summary": "Police in California have arrested a man for driving under the influence after they say he was in an autonomous vehicle while passed out behind the wheel....",
+      "source": "WIS10",
       "date": "2026-03-31",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3291058"
+      "url": "https://www.wistv.com/2026/03/31/man-arrested-dui-after-being-found-passed-out-intoxicated-moving-tesla-police-say/"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/904796/its-still-unclear-how-much-robotaxi-companies-rely-on-remote-assistance-even-after-a-senator-asked",
+      "title": "It’s still unclear how much robotaxi companies rely on remote assistance - even after a Senator asked.",
+      "summary": "Senator Ed Markey (D-MA) published a new report today following an investigation on how the companies use Remote Assistance Operators (RAOs), and of the 14 companies he sent a letter to, “every AV com...",
+      "source": "The Verge",
+      "date": "2026-03-31",
+      "url": "https://www.theverge.com/transportation/904796/its-still-unclear-how-much-robotaxi-companies-rely-on-remote-assistance-even-after-a-senator-asked"
+    },
+    {
+      "id": "https://www.benzinga.com/trading-ideas/movers/26/03/51579045/wrd-expands-autonomous-driving-milestone-in-uae-with-uber",
+      "title": "WRD Expands Autonomous Driving Milestone In UAE With Uber",
+      "summary": "WeRide (WRD) shares rise as company launches fully driverless Robotaxi fare-charging service in Dubai in partnership with Uber....",
+      "source": "Benzinga",
+      "date": "2026-03-31",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51579045/wrd-expands-autonomous-driving-milestone-in-uae-with-uber"
     },
     {
       "id": "https://finbold.com/top-tesla-critic-reveals-elon-musks-biggest-mistake-of-2026/",
@@ -162,14 +218,6 @@
       "url": "https://www.marketscreener.com/news/lg-innotek-us-based-applied-intuition-sign-deal-to-enhance-autonomous-driving-sensing-modules-shar-ce7e51d8de8dfe22"
     },
     {
-      "id": "https://www.caixinglobal.com/2026-03-30/openclaw-craze-is-driving-next-phase-of-ai-development-insiders-say-102428952.html",
-      "title": "OpenClaw Craze Is Driving Next Phase of AI Development, Insiders Say",
-      "summary": "OpenClaw Craze Is Driving Next Phase of AI Development, Insiders Say - The explosive popularity of the open-source agent gives developers an opportunity to explore viable monetization models as they s...",
-      "source": "Caixin",
-      "date": "2026-03-30",
-      "url": "https://www.caixinglobal.com/2026-03-30/openclaw-craze-is-driving-next-phase-of-ai-development-insiders-say-102428952.html"
-    },
-    {
       "id": "https://www.benzinga.com/markets/tech/26/03/51531247/gary-black-says-tsla-has-underperformed-nasdaq-for-5-years-because-it-has-never-lived-up-to-unsupervised-fsd-hype-tsla-still-has-only-9-robotaxis",
       "title": "Gary Black Says TSLA Has Underperformed Nasdaq For 5 Years Because It Has Never Lived Up To Unsupervised FSD Hype: 'TSLA Still Has Only 9 Robotaxis'",
       "summary": "Investor Gary Black criticizes Tesla for underperforming Nasdaq 100 index due to failed Full Self-Driving promises. Hype not matched....",
@@ -184,54 +232,6 @@
       "source": "Benzinga",
       "date": "2026-03-30",
       "url": "https://www.benzinga.com/markets/tech/26/03/51530836/ross-gerber-slams-teslas-fsd-for-being-level-2-gary-black-lacks-marketing"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/30/tmt-newswire/pr-newswire/lg-innotek-accelerates-physical-ai-market-entry-through-partnership-with-applied-intuition/2310095",
-      "title": "LG Innotek Accelerates Physical AI Market Entry Through Partnership with Applied Intuition",
-      "summary": "**media[993158]**-Signed a partnership agreement with autonomous driving software firm Applied Intuition.-Expanding collaboration beyond autonomous driving into drones and robotics to secure leadershi...",
-      "source": "The Manila Times",
-      "date": "2026-03-29",
-      "url": "https://www.manilatimes.net/2026/03/30/tmt-newswire/pr-newswire/lg-innotek-accelerates-physical-ai-market-entry-through-partnership-with-applied-intuition/2310095"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/applied-intuition-and-lg-innotek-enter-strategic-partnership-to-advance-autonomous-vehicle-development-302728064.html",
-      "title": "Applied Intuition and LG Innotek Enter Strategic Partnership to Advance Autonomous Vehicle Development",
-      "summary": "/PRNewswire/ -- Applied Intuition, Inc. and LG Innotek today announced a strategic partnership optimizing Applied Intuition's Self Driving System (SDS) to work......",
-      "source": "PR Newswire UK",
-      "date": "2026-03-29",
-      "url": "https://www.prnewswire.co.uk/news-releases/applied-intuition-and-lg-innotek-enter-strategic-partnership-to-advance-autonomous-vehicle-development-302728064.html"
-    },
-    {
-      "id": "https://siliconangle.com/2026/03/27/ai-agent-identity-becomes-top-enterprise-security-priority-rsac26/",
-      "title": "AI agent identity becomes a top enterprise security priority",
-      "summary": "As autonomous systems spread across the enterprise, AI agent identity is emerging as a critical security priority, driving demand for tighter governance....",
-      "source": "SiliconANGLE News",
-      "date": "2026-03-27",
-      "url": "https://siliconangle.com/2026/03/27/ai-agent-identity-becomes-top-enterprise-security-priority-rsac26/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/26/tmt-newswire/globenewswire/pony-ai-inc-scales-with-160-robotaxi-revenues-growth-yoy-and-500-fare-charging-revenues-surge-yoy-in-q4-targeting-deployment-in-20-cities-by-year-end/2308172",
-      "title": "PONY AI Inc. Scales with 160% Robotaxi Revenues Growth YoY and 500%+ Fare-Charging Revenues Surge YoY in Q4, Targeting Deployment in 20+ Cities by Year-End",
-      "summary": "Strengthening revenue trajectory - Robotaxi revenues rose by 160% year-over-year in Q4, with fare-charging revenues surging by over 500%.Accelerating fleet and geographic expansion - Robotaxi scaling ...",
-      "source": "The Manila Times",
-      "date": "2026-03-26",
-      "url": "https://www.manilatimes.net/2026/03/26/tmt-newswire/globenewswire/pony-ai-inc-scales-with-160-robotaxi-revenues-growth-yoy-and-500-fare-charging-revenues-surge-yoy-in-q4-targeting-deployment-in-20-cities-by-year-end/2308172"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/03/26/tmt-newswire/pr-newswire/verne-ponyai-and-uber-partner-to-launch-europes-first-commercial-robotaxi-service/2308161",
-      "title": "Verne, Pony.ai, and Uber Partner to Launch Europe's First Commercial Robotaxi Service",
-      "summary": "The partnership will soon begin in Zagreb, before expanding to additional cities in Europe and beyondZAGREB, Croatia, March 26, 2026 /PRNewswire/ -- Verne, Pony AI Inc. ('Pony.ai') (NASDAQ: PONY; HKEX...",
-      "source": "The Manila Times",
-      "date": "2026-03-26",
-      "url": "https://www.manilatimes.net/2026/03/26/tmt-newswire/pr-newswire/verne-ponyai-and-uber-partner-to-launch-europes-first-commercial-robotaxi-service/2308161"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/pony-ai-partners-with-uber-verne-to-deploy-robotaxis-in-europe-ce7e51dadb89f120",
-      "title": "Pony AI Partners With Uber, Verne to Deploy Robotaxis in Europe",
-      "summary": "By Jiahui Huang\nChina's Pony AI is partnering with Uber Technologies and autonomous driving startup Verne to deploy a robotaxi service in Europe, expanding its footprint overseas as it races......",
-      "source": "MarketScreener",
-      "date": "2026-03-26",
-      "url": "https://www.marketscreener.com/news/pony-ai-partners-with-uber-verne-to-deploy-robotaxis-in-europe-ce7e51dadb89f120"
     },
     {
       "id": "https://www.ndtv.com/auto/tesla-fsd-helps-deaf-driver-detect-ambulance-pull-over-safely-watch-video-11269020",
