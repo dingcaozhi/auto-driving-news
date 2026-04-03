@@ -1,149 +1,166 @@
 {
-  "lastUpdated": "2026-04-02 02:55:34",
+  "lastUpdated": "2026-04-03 03:15:48",
   "totalCount": 33,
   "sources": {
-    "Bjnews": 2,
-    "Chinanews": 4,
-    "Fx168News": 1,
-    "Ithome": 1,
-    "News_Baidu": 5,
-    "Globenewswire_Fr": 1,
-    "Eeo": 1,
+    "Ithome": 4,
+    "Fx168News": 2,
+    "News_Baidu": 3,
+    "Investing_Cn": 1,
+    "Chinanews": 1,
+    "Orientaldaily": 1,
+    "Bjnews": 1,
+    "Cri_Cn": 1,
+    "Smzdm": 1,
+    "Benzinga": 6,
+    "Interesting Engineering": 1,
     "The Telegraph": 1,
     "The Straits Times": 1,
     "The Manila Times": 1,
     "TechCrunch": 1,
     "WIS10": 1,
     "The Verge": 1,
-    "Benzinga": 5,
     "Finbold": 1,
-    "MarketScreener": 1,
     "NDTV.com": 1,
     "NextBigFuture.com": 1,
     "Investor's Business Daily": 1,
-    "Barchart": 1,
-    "CNBC TV18": 1
+    "Barchart": 1
   },
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1775052407169876.html",
-      "title": "阿勒泰公安开展春季电动自行车整治行动,查处违法行为890余起",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-01",
-      "url": "https://www.bjnews.com.cn/detail/1775052407169876.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-01/10597074.shtml",
-      "title": "数读中国开局新活力|市场规模达1.5万亿元!低空经济蓄势腾飞",
-      "summary": "编者按:2026年是“十五五”开局之年。内需市场潜力持续释放,消费新场景不断涌现,文旅融合、冰雪经济、国潮消费等热点频现,展现出超大规模市场的韧性与活力。为深入解读开局新气象,央广网推出《数读中国开局新活力》系列报道,以数据为支撑,聚焦各地消费场景、产业升级与民生改善的生动实践,呈现中国经济稳中求进、活力迸发的时代图景。...",
-      "source": "Chinanews",
-      "date": "2026-04-01",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-01/10597074.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1010801",
-      "title": "Bitget 通过与 MuleRun 合作扩展 Agent Hub 生态系统,推动智能体交易发展-FX168",
-      "summary": "塞舌尔维多利亚, April 01, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 宣布与行业领先的自进化 AI 智能体 MuleRun 达成战略产品合作,共同推出一款 AI 驱动的个人交易助手。该助手通过自然语言交互,为普通投资者提供机构级市场信号。 MuleRun 是一个自进化的个人 AI 平台,用户可通过自然语言即可部署工作流,无需任何技术...",
-      "source": "Fx168News",
-      "date": "2026-04-01",
-      "url": "https://www.fx168news.com/article/1010801"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1775048931168252.html",
-      "title": "从赛场火到市场:张雪机车订单已排到5月底,产值冲刺18亿",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-01",
-      "url": "https://www.bjnews.com.cn/detail/1775048931168252.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/935/116.htm",
-      "title": "赛力斯第五代 2.0T 超级增程技术开发完成,实现“车-电-机-充”一体化集成",
-      "summary": "IT之家 4 月 1 日消息,有投资者昨日在互动平台向赛力斯提问,2025 年年报披露了巨额研发费用,具体研发出了什么? 对此,赛力斯今日回应称,公司完成了第五代 2.0T 超级增程技术开发,并实现“车-电-机-充”一体化集成。IT之家附原文如下: 尊敬的投资者,您好!智能动力领域, 公司完成第五代 2.0T 超级增程技术开发 ,同时实现“车-电-机-充”一体化集成,依托 800V 及以上高压架构...",
+      "id": "https://www.ithome.com/0/935/527.htm",
+      "title": "雷军总结新一代 SU7 拆车直播:全程 3 个半小时,把新一代 SU7 从整车拆到零部件级",
+      "summary": "IT之家 4 月 2 日消息,小米创办人、董事长兼 CEO 雷军今晚举行了新一代 SU7 拆车直播,与李肖爽等一起拆解、讲透小米新 SU7 每个细节。 直播结束后,雷军在官方账号发文,对此次直播中的内容进行了汇总。IT之家附原文如下: 1.今天在小米汽车工厂做拆车直播,全程 3 个半小时,把新一代 SU7 从整车拆到零部件级,依次是外观、内饰、EEA 电子电气架构、底盘、车身安全、电池包。 今天拆...",
       "source": "Ithome",
-      "date": "2026-04-01",
-      "url": "https://www.ithome.com/0/935/116.htm"
+      "date": "2026-04-02",
+      "url": "https://www.ithome.com/0/935/527.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/ty/2026/04-01/10597056.shtml",
-      "title": "“张雪机车”赢下全球顶级摩托车赛事有多难?",
-      "summary": "中新社北京4月1日电 题:“张雪机车”赢下全球顶级摩托车赛事有多难?...",
+      "id": "https://www.fx168news.com/article/1011315",
+      "title": "ETF复盘资讯|做多良机?还是静观其变?猪肉概念走强,华宝基金农牧渔ETF(159275)上探2.83%!港股通创新药ETF继续上行-FX168",
+      "summary": "或由于特朗普讲话“搅动”市场,股市全线承压,周四(4月2日),A股主要指数悉数飘绿,创业板指低开低走跌超2%,全市场超4300只个股下挫,沪深京三市成交额1.86万亿元,较昨日缩量1671亿元。3月以来,中东地缘风险突发,悲观叙事交易加码,市场资金转向低波资产避险...",
+      "source": "Fx168News",
+      "date": "2026-04-02",
+      "url": "https://www.fx168news.com/article/1011315"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861369157129771682",
+      "title": "2025年宿迁数据产业规模达370.39亿元",
+      "summary": "(速新闻记者史雅琪)近日,记者从全市大数据产业链生态建设推进会上获悉,2025年,全市大数据产业规模达370.39亿元,同比增长8.9%,大数据产业不仅成为宿迁构建“619”现代产业体系的重要支柱,还...",
+      "source": "News_Baidu",
+      "date": "2026-04-02",
+      "url": "http://baijiahao.baidu.com/s?id=1861369157129771682"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3296144",
+      "title": "特斯拉股价今日为何下跌?",
+      "summary": "特斯拉股价今日为何下跌?...",
+      "source": "Investing_Cn",
+      "date": "2026-04-02",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3296144"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/04-02/10597863.shtml",
+      "title": "看见2030“十五五”新图景丨人才缺口将达百万个 未来产业会解锁哪些新职业",
+      "summary": "“十五五”规划纲要提出,要前瞻布局未来产业;要推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点。系列报道《看见2030“十五五”新图景》,今天关注未来产业。...",
       "source": "Chinanews",
-      "date": "2026-04-01",
-      "url": "https://www.chinanews.com.cn/ty/2026/04-01/10597056.shtml"
+      "date": "2026-04-02",
+      "url": "https://www.chinanews.com.cn/gn/2026/04-02/10597863.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861274151666086108",
-      "title": "反馈即领钱!千问AI体验活动火热进行中,最多可得4..",
-      "summary": "4月1日,千问APP披露近期用户对AI打车的多项反馈,“宠物友好”、“能代叫车”、“推出老人大字版”成最受关注的三大需求。当前,千问正在推出AI体验官活动,邀请用户对AI打车和AI充话费等评价反馈,并...",
+      "id": "https://www.orientaldaily.com.my/news/society/2026/04/02/808551",
+      "title": "夺命连环车祸! 3人丧命2人重伤抢救",
+      "summary": "题:疑遭追尾撞客货车失控冲对向车道酿三车连环撞 老夫妇与妻舅共赴黄泉两孙重伤文:(昔加末2日讯)金马士新村路口附近今午发生夺命连环车祸,导致客货车内的一对老夫妇与妻舅当场丧命,同车两名幼孙身受重伤,目前仍在医院抢救中。据了解,3名死者分别是70馀岁的客货车司机克里斯南、其妻子玛丽雅依以及妻子的兄弟巴拉尼。 消拯人员试图将其中一名受困客货车内的死伤者一处移出车外。(图取自柔消拯局) 昔加末警区主任莫...",
+      "source": "Orientaldaily",
+      "date": "2026-04-02",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/04/02/808551"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1775127554129248.html",
+      "title": "“4月1日出台新规,全国严查后排安全带”不实,没有这个“新规”(2026·04·02)",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-02",
+      "url": "https://www.bjnews.com.cn/detail/1775127554129248.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/935/503.htm",
+      "title": "吉利第四代博越 L 小蓝灯版汽车定档 4 月 3 日登场,搭载千里浩瀚辅助驾驶 H3 方案",
+      "summary": "IT之家 4 月 2 日消息,吉利汽车官方今日宣布,第四代博越 L 小蓝灯版将在 4 月 3 日 11 点 登场,宣称“为 15 万内燃油 SUV 点亮第一盏小蓝灯”。 参考IT之家此前报道, 吉利第四代博越 L 小蓝灯版将搭载同级唯一千里浩瀚辅助驾驶 H3 方案 。目前在售的第四代博越 L 已于 2025 年 5 月上市,市场指导价 9.99 万元起,尺寸为 4730*1910*1710mm、轴...",
+      "source": "Ithome",
+      "date": "2026-04-02",
+      "url": "https://www.ithome.com/0/935/503.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/935/499.htm",
+      "title": "2026 款小鹏 MONA M03 上市:最高算力 750TOPS,11.98 万-15.18 万元",
+      "summary": "IT之家 4 月 2 日消息,2026 款小鹏 MONA M03 今晚正式上市,新车提供 6 款不同配置,售价区间为 11.98 万-15.18 万元。 540 长续航 Plus:11.98 万元 640 超长续航 Plus:12.98 万元 510 长续航 Max:12.98 万元 610 超长续航 Max:13.98 万元 510 长续航 Ultra SE(Ultra SE 预计 8 月交付,...",
+      "source": "Ithome",
+      "date": "2026-04-02",
+      "url": "https://www.ithome.com/0/935/499.htm"
+    },
+    {
+      "id": "https://news.cri.cn/20260402/32e317aa-3702-d40b-2108-4230528ae152.html",
+      "title": "看见2030“十五五”新图景丨人才缺口将达百万个 未来产业会解锁哪些新职业-国际在线",
+      "summary": "“十五五”规划纲要提出,要前瞻布局未来产业;要推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点。系列报道《看见2030“十五五”新图景》,今天...",
+      "source": "Cri_Cn",
+      "date": "2026-04-02",
+      "url": "https://news.cri.cn/20260402/32e317aa-3702-d40b-2108-4230528ae152.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1011292",
+      "title": "特斯拉Q1交付35.8万辆不及预期,传统业务承压-FX168",
+      "summary": "TradingKey - 特斯拉(TSLA)2026年第一季度交付量达35.8万辆,同比增长6.3%,但低于市场普遍预估的37.2万辆。其中主力车型Model 3/Y共交付34.2万辆,同比增长5.6%,同样低于35.4万辆的市场预期。 值得注意的是,特斯拉第一季度汽车产量达到40.8万辆,同比增长13%,高于市场预估的38.8万辆。 从历史数据来看,尽管今年第一季度交付量实现了同比增长,但这一增...",
+      "source": "Fx168News",
+      "date": "2026-04-02",
+      "url": "https://www.fx168news.com/article/1011292"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861356752550175450",
+      "title": "24小时在线、夜间补货无忧,新石器无人车来到武汉送..",
+      "summary": "极目新闻记者吴汉位于武汉市东西湖区的九州通医药仓库总是一片忙碌景象。每隔一会,就有一辆白色无人车缓缓停靠在出货口,工作人员将一箱箱药品装入车厢。装货完成后,这辆车驶向一家药店。据悉,新石器无人车与医药...",
       "source": "News_Baidu",
-      "date": "2026-04-01",
-      "url": "http://baijiahao.baidu.com/s?id=1861274151666086108"
+      "date": "2026-04-02",
+      "url": "http://baijiahao.baidu.com/s?id=1861356752550175450"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861260019005771759",
-      "title": "认识几天就垫10万元带你挣钱?警惕披着爱情外衣的投..",
-      "summary": "网上相亲如今是不少适龄男女选择的相亲方式之一,山东德州的市民王女士本以为在网上找到了自己心仪的另一半,不料却陷入了对方精心策划的骗局。女子网上相亲不料却陷入“爱情陷阱”今年1月20日,山东德州禹城市的...",
+      "id": "http://baijiahao.baidu.com/s?id=1861356814442701384",
+      "title": "贵州贵阳:无人驾驶小巴生产忙",
+      "summary": "4月2日,位于贵州省贵阳国家高新技术产业开发区的一家智能技术企业车间内,无人驾驶小巴生产线高效运行,技术人员与生产团队协同发力,全力保障订单按时交付。据悉,作为自动驾驶与智能制造领域的创新企业,该企业...",
       "source": "News_Baidu",
-      "date": "2026-04-01",
-      "url": "http://baijiahao.baidu.com/s?id=1861260019005771759"
+      "date": "2026-04-02",
+      "url": "http://baijiahao.baidu.com/s?id=1861356814442701384"
     },
     {
-      "id": "https://www.globenewswire.com/fr/news-release/2026/04/01/3266763/0/zh-hans/Bitget-%E9%80%9A%E8%BF%87%E4%B8%8E-MuleRun-%E5%90%88%E4%BD%9C%E6%89%A9%E5%B1%95-Agent-Hub-%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F-%E6%8E%A8%E5%8A%A8%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%A4%E6%98%93%E5%8F%91%E5%B1%95.html",
-      "title": "Bitget 通过与 MuleRun 合作扩展 Agent Hub 生态系统,推动智能体交易发展",
-      "summary": "塞舌尔维多利亚, April 01, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 宣布与行业领先的自进化 AI 智能体 MuleRun 达成战略产品合作,共同推出一款 AI 驱动的个人交易助手。该助手通过自然语言交互,为普通投资者提供机构级市场信号。...",
-      "source": "Globenewswire_Fr",
-      "date": "2026-04-01",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/04/01/3266763/0/zh-hans/Bitget-%E9%80%9A%E8%BF%87%E4%B8%8E-MuleRun-%E5%90%88%E4%BD%9C%E6%89%A9%E5%B1%95-Agent-Hub-%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F-%E6%8E%A8%E5%8A%A8%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%A4%E6%98%93%E5%8F%91%E5%B1%95.html"
+      "id": "https://post.smzdm.com/p/al3v9l2o/",
+      "title": "不出意外的话,2027年起,新能源车会迎来一波史诗级进步!",
+      "summary": "近期,中国科学院院士欧阳明高及宁德时代、比亚迪、丰田等头部企业,纷纷将2027年视为新能源汽车产业的关键节点。随着固态电池中试线落地及相关安全国标的实施,行业预计将在2027年迎来技术层面的显著跃升,涉及电池能量密度、补能效率及智能驾驶普及等多个维度。0......",
+      "source": "Smzdm",
+      "date": "2026-04-02",
+      "url": "https://post.smzdm.com/p/al3v9l2o/"
     },
     {
-      "id": "https://www.chinanews.com.cn/dwq/2026/04-01/10597038.shtml",
-      "title": "广州警方强化无人机安全管理:双平台实名登记",
-      "summary": "中新网广州4月1日电 (记者 方伟彬)广州市公安局4月1日发布消息,为进一步规范无人机飞行活动,保障低空安全,助力低空经济高质量发展,该局近日发布温馨提示,明确了民用无人驾驶航空器的登记备案要求、飞行安全规范及相关法律责任,督促广大无人机所有者依法合规飞行。...",
-      "source": "Chinanews",
-      "date": "2026-04-01",
-      "url": "https://www.chinanews.com.cn/dwq/2026/04-01/10597038.shtml"
+      "id": "https://www.ithome.com/0/935/504.htm",
+      "title": "广汽埃安 N60 汽车将于 4 月 16 日开启预售:标配 4D 毫米波雷达 + 激光雷达、搭载弹匣电池 2.0",
+      "summary": "IT之家 4 月 2 日消息,广汽埃安宣布将于 4 月 16 日举办品牌焕新发布会,埃安 N60 汽车将同步开启预售。目前新车已开启盲订,支付 99 元定金可享价值 5088 元礼遇。 该车由曾任职于宝马等品牌的知名设计师 Benoit Jacob(叶禀焕)主导设计,整体造型圆润,可选星环银、轻柔金、晴空蓝、极地白、夜影黑、云际灰、海莹灰等车漆。其前脸造型饱满圆润,贯穿式的大灯内部嵌入了双条状日间...",
+      "source": "Ithome",
+      "date": "2026-04-02",
+      "url": "https://www.ithome.com/0/935/504.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-01/10597006.shtml",
-      "title": "津门春耕上演“农机秀” 智慧农业赋能田间地头",
-      "summary": "中新网天津4月1日电 (薛淳月 孙玲玲)无人驾驶拖拉机自动行驶、植保无人机精准飞防、精量播种机高效作业......3月31日,天津市春耕备耕农机化技术培训暨田间日活动在天津宁河举行。...",
-      "source": "Chinanews",
-      "date": "2026-04-01",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-01/10597006.shtml"
+      "id": "https://www.benzinga.com/markets/tech/26/04/51618537/uber-ceo-dara-khosrowshahi-tesla-robotaxis-elon-musk",
+      "title": "Uber CEO Dara Khosrowshahi Hopes To Incorporate Tesla Robotaxis On Its Platform: 'It's A Great Car…'",
+      "summary": "Uber CEO shared that he hopes to incorporate Tesla Robotaxis on its ride-hailing platform when the FSD technology becomes safer....",
+      "source": "Benzinga",
+      "date": "2026-04-02",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51618537/uber-ceo-dara-khosrowshahi-tesla-robotaxis-elon-musk"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861272035328599937",
-      "title": "黄兴广场来了“机器人交警”",
-      "summary": "长沙晚报掌上长沙4月1日(全媒体记者张洋子)4月1日下午,长沙黄兴广场人头攒动,不少市民和游客纷纷举起手机,对准一个特殊的身影——一名身着“警服”、正挥动机械臂指挥交通的机器人。这并非科幻电影中的场景...",
-      "source": "News_Baidu",
+      "id": "https://interestingengineering.com/transportation/wuhan-robotaxi-outage-100-vehicles",
+      "title": "Passengers stranded after 100 robotaxis fail in Wuhan traffic",
+      "summary": "A major robotaxi outage in Wuhan saw self-driving cars stop on busy roads, highlighting risks in autonomous vehicle systems....",
+      "source": "Interesting Engineering",
       "date": "2026-04-01",
-      "url": "http://baijiahao.baidu.com/s?id=1861272035328599937"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861069270800463139",
-      "title": "美的开启全屋智能自进化新征程,以AI提升家的温度",
-      "summary": "如今,AI早已不是遥远的技术概念,而是悄然渗透进生活的每一处细节。从日常的语音助手到智能设备的自动响应,AI正以润物无声的方式改变着我们的生活方式,让便捷与智能成为日常。而在这场技术变革中,家电行业的...",
-      "source": "News_Baidu",
-      "date": "2026-04-01",
-      "url": "http://baijiahao.baidu.com/s?id=1861069270800463139"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861272226741556125",
-      "title": "适配国情,以质破局,推动RoboTaxi健康有序发..",
-      "summary": "“十五五”开局之年,我国经济正稳步迈向高质量发展新阶段,科技进步持续为产业升级赋能,劳动力结构加速优化迭代,自动驾驶领域法律法规体系日趋完善。在此背景下,RoboTaxi(无人驾驶出租汽车)已从技术验...",
-      "source": "News_Baidu",
-      "date": "2026-04-01",
-      "url": "http://baijiahao.baidu.com/s?id=1861272226741556125"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0401/825277.shtml",
-      "title": "智驾“算力效率派”再获资本加持 天瞳威视完成数千万元战略融资",
-      "summary": "天瞳威视已完成8轮融资,融资总额近10亿元,投资方包括联通、北汽、上汽、商汤投资、地平线、采埃孚等众多知名资本。...",
-      "source": "Eeo",
-      "date": "2026-04-01",
-      "url": "http://www.eeo.com.cn/2026/0401/825277.shtml"
+      "url": "https://interestingengineering.com/transportation/wuhan-robotaxi-outage-100-vehicles"
     },
     {
       "id": "https://www.telegraph.co.uk/cars/news/human-drivers-fallible-self-driving-cars/",
@@ -210,14 +227,6 @@
       "url": "https://finbold.com/top-tesla-critic-reveals-elon-musks-biggest-mistake-of-2026/"
     },
     {
-      "id": "https://www.marketscreener.com/news/lg-innotek-us-based-applied-intuition-sign-deal-to-enhance-autonomous-driving-sensing-modules-shar-ce7e51d8de8dfe22",
-      "title": "LG Innotek, US-based Applied Intuition Sign Deal to Enhance Autonomous Driving Sensing Modules; Shares Decline 5%",
-      "summary": "LG Innotek signed a contract with Mountain View, California-based autonomous driving software firm Applied Intuition to boost its autonomous driving sensing modules using the latter's software and......",
-      "source": "MarketScreener",
-      "date": "2026-03-30",
-      "url": "https://www.marketscreener.com/news/lg-innotek-us-based-applied-intuition-sign-deal-to-enhance-autonomous-driving-sensing-modules-shar-ce7e51d8de8dfe22"
-    },
-    {
       "id": "https://www.benzinga.com/markets/tech/26/03/51531247/gary-black-says-tsla-has-underperformed-nasdaq-for-5-years-because-it-has-never-lived-up-to-unsupervised-fsd-hype-tsla-still-has-only-9-robotaxis",
       "title": "Gary Black Says TSLA Has Underperformed Nasdaq For 5 Years Because It Has Never Lived Up To Unsupervised FSD Hype: 'TSLA Still Has Only 9 Robotaxis'",
       "summary": "Investor Gary Black criticizes Tesla for underperforming Nasdaq 100 index due to failed Full Self-Driving promises. Hype not matched....",
@@ -256,14 +265,6 @@
       "source": "Benzinga",
       "date": "2026-03-23",
       "url": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car"
-    },
-    {
-      "id": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html",
-      "title": "Does the TESLA FSD CHIP Match the Human Brain ?",
-      "summary": "xAI already has the lowest cost per token in the industry (fastest/cheapest data centers, highest GPU utilization)....",
-      "source": "NextBigFuture.com",
-      "date": "2026-03-22",
-      "url": "https://www.nextbigfuture.com/2026/03/does-the-tesla-fsd-chip-match-the-human-brain.html"
     }
   ]
 }
