@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-04-03 03:15:48",
-  "totalCount": 33,
+  "lastUpdated": "2026-04-04 02:48:21",
+  "totalCount": 39,
   "sources": {
-    "Ithome": 4,
-    "Fx168News": 2,
-    "News_Baidu": 3,
-    "Investing_Cn": 1,
-    "Chinanews": 1,
-    "Orientaldaily": 1,
+    "Bilibili": 5,
+    "Smzdm": 3,
+    "News_Baidu": 5,
+    "Chinanews": 2,
+    "Prnasia": 1,
+    "Ltn": 1,
+    "Fx168News": 1,
+    "News_Seehua": 1,
     "Bjnews": 1,
-    "Cri_Cn": 1,
-    "Smzdm": 1,
-    "Benzinga": 6,
+    "Investing_Cn": 1,
+    "The Straits Times": 3,
+    "Benzinga": 5,
     "Interesting Engineering": 1,
     "The Telegraph": 1,
-    "The Straits Times": 1,
     "The Manila Times": 1,
     "TechCrunch": 1,
     "WIS10": 1,
-    "The Verge": 1,
     "Finbold": 1,
     "NDTV.com": 1,
     "NextBigFuture.com": 1,
@@ -27,124 +27,188 @@
   },
   "news": [
     {
-      "id": "https://www.ithome.com/0/935/527.htm",
-      "title": "雷军总结新一代 SU7 拆车直播:全程 3 个半小时,把新一代 SU7 从整车拆到零部件级",
-      "summary": "IT之家 4 月 2 日消息,小米创办人、董事长兼 CEO 雷军今晚举行了新一代 SU7 拆车直播,与李肖爽等一起拆解、讲透小米新 SU7 每个细节。 直播结束后,雷军在官方账号发文,对此次直播中的内容进行了汇总。IT之家附原文如下: 1.今天在小米汽车工厂做拆车直播,全程 3 个半小时,把新一代 SU7 从整车拆到零部件级,依次是外观、内饰、EEA 电子电气架构、底盘、车身安全、电池包。 今天拆...",
-      "source": "Ithome",
-      "date": "2026-04-02",
-      "url": "https://www.ithome.com/0/935/527.htm"
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-04-04",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "https://www.fx168news.com/article/1011315",
-      "title": "ETF复盘资讯|做多良机?还是静观其变?猪肉概念走强,华宝基金农牧渔ETF(159275)上探2.83%!港股通创新药ETF继续上行-FX168",
-      "summary": "或由于特朗普讲话“搅动”市场,股市全线承压,周四(4月2日),A股主要指数悉数飘绿,创业板指低开低走跌超2%,全市场超4300只个股下挫,沪深京三市成交额1.86万亿元,较昨日缩量1671亿元。3月以来,中东地缘风险突发,悲观叙事交易加码,市场资金转向低波资产避险...",
-      "source": "Fx168News",
-      "date": "2026-04-02",
-      "url": "https://www.fx168news.com/article/1011315"
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-04-04",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861369157129771682",
-      "title": "2025年宿迁数据产业规模达370.39亿元",
-      "summary": "(速新闻记者史雅琪)近日,记者从全市大数据产业链生态建设推进会上获悉,2025年,全市大数据产业规模达370.39亿元,同比增长8.9%,大数据产业不仅成为宿迁构建“619”现代产业体系的重要支柱,还...",
+      "id": "https://www.bilibili.com/video/BV1RWXVBZERy",
+      "title": "【B站】我敢说这绝对是全网最全【自动驾驶课程】入门到实战！大佬用最通俗易懂的讲解带你进入计算机视觉世界！想不学会都难！—人工智能/深度学习/自动驾驶算法",
+      "summary": "感谢支持！！！！！！！！！！！...",
+      "source": "Bilibili",
+      "date": "2026-04-04",
+      "url": "https://www.bilibili.com/video/BV1RWXVBZERy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
+      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
+      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
+      "source": "Bilibili",
+      "date": "2026-04-04",
+      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-04-04",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggmoq67/",
+      "title": "北京率先启动!L2-L4级智能网联汽车专属保险来了",
+      "summary": "智能驾驶车主的福音来了!3月29日,2026中关村论坛年会上传来重磅消息,北京率先在全国启动智能网联新能源汽车商业保险的开发应用,成功打破现有车险无法适配智能驾驶场景的困境,全面覆盖L2至L4全级别智能网联新能源汽车,如今已进入4月,这项专属保险的开发工......",
+      "source": "Smzdm",
+      "date": "2026-04-03",
+      "url": "https://post.smzdm.com/p/aggmoq67/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomlg94m/",
+      "title": "技术狂飙!5家车企密集亮底牌,快充、智驾集体突破",
+      "summary": "近期(3月底至4月初)的车圈,堪称一场“技术发布会盛宴”!小鹏、鸿蒙智行、比亚迪、奇瑞、极氪五大厂商密集亮出核心技术底牌,从智能驾驶到动力电池,从超级快充到固态电池,全方位展现核心实力,彻底拉开中国新能源汽车“内力比拼”的序幕,行业竞争也正式从“拼颜值、......",
+      "source": "Smzdm",
+      "date": "2026-04-03",
+      "url": "https://post.smzdm.com/p/aomlg94m/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861393983492315090",
+      "title": "从一棵树到一度电,从生态固碳到能源减碳,同济宝藏“..",
+      "summary": "又到一年樱花季,同济的樱花大道,漫天飞“雪”。你知道,同济大学有多少棵树吗?每一棵树能吸收多少碳?同济“最爱学习的鸟儿”住在哪里?校园建筑能耗又是多少?......这些都能在同济大学“智慧校园”的动态电子时空地图上找到答案。“从...",
       "source": "News_Baidu",
-      "date": "2026-04-02",
-      "url": "http://baijiahao.baidu.com/s?id=1861369157129771682"
+      "date": "2026-04-03",
+      "url": "http://baijiahao.baidu.com/s?id=1861393983492315090"
     },
     {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3296144",
-      "title": "特斯拉股价今日为何下跌?",
-      "summary": "特斯拉股价今日为何下跌?...",
-      "source": "Investing_Cn",
-      "date": "2026-04-02",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3296144"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/04-02/10597863.shtml",
-      "title": "看见2030“十五五”新图景丨人才缺口将达百万个 未来产业会解锁哪些新职业",
-      "summary": "“十五五”规划纲要提出,要前瞻布局未来产业;要推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点。系列报道《看见2030“十五五”新图景》,今天关注未来产业。...",
+      "id": "https://www.chinanews.com.cn/cj/2026/04-03/10598612.shtml",
+      "title": "张雪夺冠背后的“隐形力量”:全国每出口5辆摩托车,就有1辆产自这里",
+      "summary": "北京时间3月28日,世界超级摩托车锦标赛(WSBK)葡萄牙站,张雪机车820RR-RS赛车以近4秒优势夺冠,一举打破了欧美日品牌长达数十年的垄断。...",
       "source": "Chinanews",
-      "date": "2026-04-02",
-      "url": "https://www.chinanews.com.cn/gn/2026/04-02/10597863.shtml"
+      "date": "2026-04-03",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-03/10598612.shtml"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/04/02/808551",
-      "title": "夺命连环车祸! 3人丧命2人重伤抢救",
-      "summary": "题:疑遭追尾撞客货车失控冲对向车道酿三车连环撞 老夫妇与妻舅共赴黄泉两孙重伤文:(昔加末2日讯)金马士新村路口附近今午发生夺命连环车祸,导致客货车内的一对老夫妇与妻舅当场丧命,同车两名幼孙身受重伤,目前仍在医院抢救中。据了解,3名死者分别是70馀岁的客货车司机克里斯南、其妻子玛丽雅依以及妻子的兄弟巴拉尼。 消拯人员试图将其中一名受困客货车内的死伤者一处移出车外。(图取自柔消拯局) 昔加末警区主任莫...",
-      "source": "Orientaldaily",
-      "date": "2026-04-02",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/04/02/808551"
+      "id": "http://baijiahao.baidu.com/s?id=1861414907818610025",
+      "title": "擎旗领战挽强弓,他们把备战打仗指挥棒立在练兵备战最..",
+      "summary": "擎旗领战挽强弓——来自岭南一线演兵场的调查报告■解放军报记者陈典宏李志彬杨晓敏南部战区陆军某旅组织营战术训练(资料照片)。谭文鹏摄发言直击矛盾不回避,既议问题本质又提解决方案......",
+      "source": "News_Baidu",
+      "date": "2026-04-03",
+      "url": "http://baijiahao.baidu.com/s?id=1861414907818610025"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1775127554129248.html",
-      "title": "“4月1日出台新规,全国严查后排安全带”不实,没有这个“新规”(2026·04·02)",
+      "id": "https://www.prnasia.com/story/528065-1.shtml",
+      "title": "广汽一季度海外业务强劲增长,AION V与香港市场表现亮眼",
+      "summary": "广州 2026年4月3日 /美通社/ -- 广汽3月份海外业务延续强劲势头,自主品牌月销量达17,031辆。一季度累计销量为42,165辆,同比增长86%。在\"One GAC 2.0\"战略和\"科技广汽,生态出海\"主题的推动下,广汽正加速从产品出口向全球运营转型。 AION V继续保持领先地位,3月销量同比增长321%。其宽敞的内部空间、智能座舱、先进的驾驶辅助系统以及510公里续航,使其在多国成为...",
+      "source": "Prnasia",
+      "date": "2026-04-03",
+      "url": "https://www.prnasia.com/story/528065-1.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-03/10598562.shtml",
+      "title": "青海万余名中小学生同步观影 开启一堂航天科普与思政教育课",
+      "summary": "中新网西宁4月3日电 题:青海万余名中小学生同步观影 开启一堂航天科普与思政教育课...",
+      "source": "Chinanews",
+      "date": "2026-04-03",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-03/10598562.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7xo2vk/",
+      "title": "张雪机车WSBK夺冠:体育营销助力麻阳红糖脱销",
+      "summary": "2026年3月底,葡萄牙站WSBK中量级赛事中,张雪机车打破国际豪强37年的垄断,由法国车手瓦伦丁·德比斯驾驶53号赛车连夺两冠。这一竞技成绩不仅刷新了中国摩托车制造在国际赛事的历史,也通过车身上的“麻阳古法红糖”标识,引发了一场体育营销带动乡村振兴的商......",
+      "source": "Smzdm",
+      "date": "2026-04-03",
+      "url": "https://post.smzdm.com/p/ad7xo2vk/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861446549723166619",
+      "title": "疏解人员扎根雄安共创美好未来",
+      "summary": "近日,在雄安气象人工智能创新研究院展示大厅,窦则胜(左)和工作人员正在探讨人工智能气象预报科学模型“风源”的迭代升级工作。本报记者李畅摄□本报记者李畅3月23日,习近平总书记来到河北雄安新区考察。...",
+      "source": "News_Baidu",
+      "date": "2026-04-03",
+      "url": "http://baijiahao.baidu.com/s?id=1861446549723166619"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861429795047173209",
+      "title": "北京西站有人兜售40元“名牌”充电宝,一插一拔电量..",
+      "summary": "本文转自【北京晚报】;“千万不要在火车站买充电宝”“充电宝根本不能用”......多名旅客反映,在火车站候车室购买的充电宝存在质量问题。北京晚报记者调查发现,在北京西站站内候车室区域,有游商小贩向旅客兜售山寨...",
+      "source": "News_Baidu",
+      "date": "2026-04-03",
+      "url": "http://baijiahao.baidu.com/s?id=1861429795047173209"
+    },
+    {
+      "id": "https://news.ltn.com.tw/news/world/breakingnews/5392700",
+      "title": "系統當機! 中國上百輛無人計程車 武漢集體「罷工 」",
+      "summary": "號稱領先全球的中國自動駕駛技術再度「翻車」!中國搜尋引擎巨頭百度旗下的無人計程車「蘿蔔快跑」(Apollo Go),本週二(3月31日)在武漢市爆發大規模系統當機,上百輛自駕車瞬.........",
+      "source": "Ltn",
+      "date": "2026-04-03",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5392700"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1011735",
+      "title": "Bitget 推出期货、现货及资产持仓一体化 VIP 快速通道计划-FX168",
+      "summary": "塞舌尔维多利亚, April 03, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 今日发布 VIP 快速通道计划 (VIP Fast Track Program),旨在通过覆盖期货、现货及资产持仓的个性化交易路径,帮助用户更快达到更高的 VIP 等级。 此次发布标志着 Bitget 更广泛的 UEX VIP 季的第一阶段,该平台级计划以“高价值...",
+      "source": "Fx168News",
+      "date": "2026-04-03",
+      "url": "https://www.fx168news.com/article/1011735"
+    },
+    {
+      "id": "https://news.seehua.com/post/1463304",
+      "title": "“司机涉酒驾毒驾,受害者不能索赔?” 律师:不影响索偿权利",
+      "summary": "(吉隆坡3日讯)司机酒驾、吸毒引发致命车祸,受害者家属是否就无法索赔?律师指出,民众普遍存在误解,以为肇事司机 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-03",
+      "url": "https://news.seehua.com/post/1463304"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1775195501129717.html",
+      "title": "算力狂飙背后,储能正在接管电力稳定性",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-02",
-      "url": "https://www.bjnews.com.cn/detail/1775127554129248.html"
+      "date": "2026-04-03",
+      "url": "https://www.bjnews.com.cn/detail/1775195501129717.html"
     },
     {
-      "id": "https://www.ithome.com/0/935/503.htm",
-      "title": "吉利第四代博越 L 小蓝灯版汽车定档 4 月 3 日登场,搭载千里浩瀚辅助驾驶 H3 方案",
-      "summary": "IT之家 4 月 2 日消息,吉利汽车官方今日宣布,第四代博越 L 小蓝灯版将在 4 月 3 日 11 点 登场,宣称“为 15 万内燃油 SUV 点亮第一盏小蓝灯”。 参考IT之家此前报道, 吉利第四代博越 L 小蓝灯版将搭载同级唯一千里浩瀚辅助驾驶 H3 方案 。目前在售的第四代博越 L 已于 2025 年 5 月上市,市场指导价 9.99 万元起,尺寸为 4730*1910*1710mm、轴...",
-      "source": "Ithome",
-      "date": "2026-04-02",
-      "url": "https://www.ithome.com/0/935/503.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/935/499.htm",
-      "title": "2026 款小鹏 MONA M03 上市:最高算力 750TOPS,11.98 万-15.18 万元",
-      "summary": "IT之家 4 月 2 日消息,2026 款小鹏 MONA M03 今晚正式上市,新车提供 6 款不同配置,售价区间为 11.98 万-15.18 万元。 540 长续航 Plus:11.98 万元 640 超长续航 Plus:12.98 万元 510 长续航 Max:12.98 万元 610 超长续航 Max:13.98 万元 510 长续航 Ultra SE(Ultra SE 预计 8 月交付,...",
-      "source": "Ithome",
-      "date": "2026-04-02",
-      "url": "https://www.ithome.com/0/935/499.htm"
-    },
-    {
-      "id": "https://news.cri.cn/20260402/32e317aa-3702-d40b-2108-4230528ae152.html",
-      "title": "看见2030“十五五”新图景丨人才缺口将达百万个 未来产业会解锁哪些新职业-国际在线",
-      "summary": "“十五五”规划纲要提出,要前瞻布局未来产业;要推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点。系列报道《看见2030“十五五”新图景》,今天...",
-      "source": "Cri_Cn",
-      "date": "2026-04-02",
-      "url": "https://news.cri.cn/20260402/32e317aa-3702-d40b-2108-4230528ae152.html"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1011292",
-      "title": "特斯拉Q1交付35.8万辆不及预期,传统业务承压-FX168",
-      "summary": "TradingKey - 特斯拉(TSLA)2026年第一季度交付量达35.8万辆,同比增长6.3%,但低于市场普遍预估的37.2万辆。其中主力车型Model 3/Y共交付34.2万辆,同比增长5.6%,同样低于35.4万辆的市场预期。 值得注意的是,特斯拉第一季度汽车产量达到40.8万辆,同比增长13%,高于市场预估的38.8万辆。 从历史数据来看,尽管今年第一季度交付量实现了同比增长,但这一增...",
-      "source": "Fx168News",
-      "date": "2026-04-02",
-      "url": "https://www.fx168news.com/article/1011292"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861356752550175450",
-      "title": "24小时在线、夜间补货无忧,新石器无人车来到武汉送..",
-      "summary": "极目新闻记者吴汉位于武汉市东西湖区的九州通医药仓库总是一片忙碌景象。每隔一会,就有一辆白色无人车缓缓停靠在出货口,工作人员将一箱箱药品装入车厢。装货完成后,这辆车驶向一家药店。据悉,新石器无人车与医药...",
+      "id": "http://baijiahao.baidu.com/s?id=1860819219176496039",
+      "title": "看完《生命树》才懂:可可西里的“残酷”天气,从不是..",
+      "summary": "追过《生命树》的朋友大概都被这个故事戳中过泪点豆瓣开局评分8.8分社交媒体上相关话题持续刷屏......近期电视剧《生命树》获得口碑、收视“双丰收”图源:电视剧《生命树》官方微博青海省委书记吴晓军高度评价《生...",
       "source": "News_Baidu",
-      "date": "2026-04-02",
-      "url": "http://baijiahao.baidu.com/s?id=1861356752550175450"
+      "date": "2026-04-03",
+      "url": "http://baijiahao.baidu.com/s?id=1860819219176496039"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861356814442701384",
-      "title": "贵州贵阳:无人驾驶小巴生产忙",
-      "summary": "4月2日,位于贵州省贵阳国家高新技术产业开发区的一家智能技术企业车间内,无人驾驶小巴生产线高效运行,技术人员与生产团队协同发力,全力保障订单按时交付。据悉,作为自动驾驶与智能制造领域的创新企业,该企业...",
-      "source": "News_Baidu",
-      "date": "2026-04-02",
-      "url": "http://baijiahao.baidu.com/s?id=1861356814442701384"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3297281",
+      "title": "特斯拉加码日本市场:门店拟扩至60家 冲击进口车第一",
+      "summary": "特斯拉加码日本市场:门店拟扩至60家 冲击进口车第一...",
+      "source": "Investing_Cn",
+      "date": "2026-04-03",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3297281"
     },
     {
-      "id": "https://post.smzdm.com/p/al3v9l2o/",
-      "title": "不出意外的话,2027年起,新能源车会迎来一波史诗级进步!",
-      "summary": "近期,中国科学院院士欧阳明高及宁德时代、比亚迪、丰田等头部企业,纷纷将2027年视为新能源汽车产业的关键节点。随着固态电池中试线落地及相关安全国标的实施,行业预计将在2027年迎来技术层面的显著跃升,涉及电池能量密度、补能效率及智能驾驶普及等多个维度。0......",
-      "source": "Smzdm",
-      "date": "2026-04-02",
-      "url": "https://post.smzdm.com/p/al3v9l2o/"
+      "id": "https://www.straitstimes.com/life/motoring/the-eye-catching-avatr-07-can-park-itself",
+      "title": "The eye-catching Avatr 07 can park itself",
+      "summary": "It offers a glimpse into an autonomous driving future, without a human at the wheel. Read more at straitstimes.com....",
+      "source": "The Straits Times",
+      "date": "2026-04-03",
+      "url": "https://www.straitstimes.com/life/motoring/the-eye-catching-avatr-07-can-park-itself"
     },
     {
-      "id": "https://www.ithome.com/0/935/504.htm",
-      "title": "广汽埃安 N60 汽车将于 4 月 16 日开启预售:标配 4D 毫米波雷达 + 激光雷达、搭载弹匣电池 2.0",
-      "summary": "IT之家 4 月 2 日消息,广汽埃安宣布将于 4 月 16 日举办品牌焕新发布会,埃安 N60 汽车将同步开启预售。目前新车已开启盲订,支付 99 元定金可享价值 5088 元礼遇。 该车由曾任职于宝马等品牌的知名设计师 Benoit Jacob(叶禀焕)主导设计,整体造型圆润,可选星环银、轻柔金、晴空蓝、极地白、夜影黑、云际灰、海莹灰等车漆。其前脸造型饱满圆润,贯穿式的大灯内部嵌入了双条状日间...",
-      "source": "Ithome",
-      "date": "2026-04-02",
-      "url": "https://www.ithome.com/0/935/504.htm"
+      "id": "https://www.straitstimes.com/life/motoring/autonomous-vehicles-you-can-take-my-commute-but-not-my-sunday",
+      "title": "Autonomous vehicles, you can take my commute but not my Sunday",
+      "summary": "Let's preserve the joy of driving, just for the sake of it. Read more at straitstimes.com....",
+      "source": "The Straits Times",
+      "date": "2026-04-03",
+      "url": "https://www.straitstimes.com/life/motoring/autonomous-vehicles-you-can-take-my-commute-but-not-my-sunday"
     },
     {
       "id": "https://www.benzinga.com/markets/tech/26/04/51618537/uber-ceo-dara-khosrowshahi-tesla-robotaxis-elon-musk",
@@ -201,70 +265,6 @@
       "source": "WIS10",
       "date": "2026-03-31",
       "url": "https://www.wistv.com/2026/03/31/man-arrested-dui-after-being-found-passed-out-intoxicated-moving-tesla-police-say/"
-    },
-    {
-      "id": "https://www.theverge.com/transportation/904796/its-still-unclear-how-much-robotaxi-companies-rely-on-remote-assistance-even-after-a-senator-asked",
-      "title": "It’s still unclear how much robotaxi companies rely on remote assistance - even after a Senator asked.",
-      "summary": "Senator Ed Markey (D-MA) published a new report today following an investigation on how the companies use Remote Assistance Operators (RAOs), and of the 14 companies he sent a letter to, “every AV com...",
-      "source": "The Verge",
-      "date": "2026-03-31",
-      "url": "https://www.theverge.com/transportation/904796/its-still-unclear-how-much-robotaxi-companies-rely-on-remote-assistance-even-after-a-senator-asked"
-    },
-    {
-      "id": "https://www.benzinga.com/trading-ideas/movers/26/03/51579045/wrd-expands-autonomous-driving-milestone-in-uae-with-uber",
-      "title": "WRD Expands Autonomous Driving Milestone In UAE With Uber",
-      "summary": "WeRide (WRD) shares rise as company launches fully driverless Robotaxi fare-charging service in Dubai in partnership with Uber....",
-      "source": "Benzinga",
-      "date": "2026-03-31",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51579045/wrd-expands-autonomous-driving-milestone-in-uae-with-uber"
-    },
-    {
-      "id": "https://finbold.com/top-tesla-critic-reveals-elon-musks-biggest-mistake-of-2026/",
-      "title": "Top Tesla critic reveals Elon Musk’s biggest mistake of 2026",
-      "summary": "According to Gordon Johnson, officially rolling out 'FSD' is the worst thing Elon Musk could have for Tesla stock; Here's why...",
-      "source": "Finbold",
-      "date": "2026-03-31",
-      "url": "https://finbold.com/top-tesla-critic-reveals-elon-musks-biggest-mistake-of-2026/"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/03/51531247/gary-black-says-tsla-has-underperformed-nasdaq-for-5-years-because-it-has-never-lived-up-to-unsupervised-fsd-hype-tsla-still-has-only-9-robotaxis",
-      "title": "Gary Black Says TSLA Has Underperformed Nasdaq For 5 Years Because It Has Never Lived Up To Unsupervised FSD Hype: 'TSLA Still Has Only 9 Robotaxis'",
-      "summary": "Investor Gary Black criticizes Tesla for underperforming Nasdaq 100 index due to failed Full Self-Driving promises. Hype not matched....",
-      "source": "Benzinga",
-      "date": "2026-03-30",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51531247/gary-black-says-tsla-has-underperformed-nasdaq-for-5-years-because-it-has-never-lived-up-to-unsupervised-fsd-hype-tsla-still-has-only-9-robotaxis"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/03/51530836/ross-gerber-slams-teslas-fsd-for-being-level-2-gary-black-lacks-marketing",
-      "title": "Ross Gerber Slams Tesla's FSD For Being 'Level 2' As Gary Black Decries Marketing Strategy: 'You Still Basically Have...'",
-      "summary": "Investor Ross Gerber criticized Tesla's FSD system's capabilities as Gary Black laments the EV giant's lack of marketing for the technology....",
-      "source": "Benzinga",
-      "date": "2026-03-30",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51530836/ross-gerber-slams-teslas-fsd-for-being-level-2-gary-black-lacks-marketing"
-    },
-    {
-      "id": "https://www.ndtv.com/auto/tesla-fsd-helps-deaf-driver-detect-ambulance-pull-over-safely-watch-video-11269020",
-      "title": "Tesla FSD Helps Deaf Driver Detect Ambulance, Pull Over Safely: Watch Video",
-      "summary": "Tesla FSD detects ambulance and pulls over for deaf driver, highlighting accessibility benefits; however, the feature remains unavailable in India pending regulatory approval....",
-      "source": "NDTV.com",
-      "date": "2026-03-26",
-      "url": "https://www.ndtv.com/auto/tesla-fsd-helps-deaf-driver-detect-ambulance-pull-over-safely-watch-video-11269020"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/03/51456241/the-tesla-brand-has-hit-a-bottom-and-it-has-an-elon-musk-problem",
-      "title": "Tesla Brand Hits Bottom",
-      "summary": "Tesla ranks last in brand trust and perception, while FSD data shows Elon Musk is a key negative association, per EVIR report....",
-      "source": "Benzinga",
-      "date": "2026-03-25",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51456241/the-tesla-brand-has-hit-a-bottom-and-it-has-an-elon-musk-problem"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car",
-      "title": "World 'Physical AI' Adoption—Hails Tesla FSD, Waymo",
-      "summary": "Gene Munster predicts self-driving cars will be first real-world adoptions of physical AI, citing advancements by Tesla, Waymo....",
-      "source": "Benzinga",
-      "date": "2026-03-23",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51400177/gene-munster-says-first-wave-of-physical-ai-adoptions-would-be-self-driving-car"
     }
   ]
 }
