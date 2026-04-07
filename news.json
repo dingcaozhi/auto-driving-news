@@ -1,17 +1,20 @@
 {
-  "lastUpdated": "2026-04-06 03:28:33",
-  "totalCount": 38,
+  "lastUpdated": "2026-04-07 03:18:45",
+  "totalCount": 40,
   "sources": {
-    "News_Baidu": 11,
-    "Smzdm": 2,
-    "News_Seehua": 2,
-    "Theportugalnews": 1,
-    "Ithome": 2,
+    "Orientaldaily": 1,
+    "News_Baidu": 8,
+    "Bjnews": 1,
+    "Smzdm": 3,
     "Cri_Cn": 1,
+    "Investing_Cn": 3,
+    "Zaobao": 2,
+    "Chinanews": 1,
+    "Ithome": 1,
+    "Benzinga": 6,
     "The Mirror": 1,
     "Heise Online": 1,
     "The Straits Times": 2,
-    "Benzinga": 5,
     "Interesting Engineering": 1,
     "The Telegraph": 1,
     "The Manila Times": 1,
@@ -20,161 +23,184 @@
     "Finbold": 1,
     "NDTV.com": 1,
     "NextBigFuture.com": 1,
-    "Investor's Business Daily": 1,
-    "Barchart": 1
+    "Investor's Business Daily": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861511016914936216",
-      "title": "清明出行必看!福建这些地方可以放心停车",
-      "summary": "福州、莆田、厦门、泉州发布清明期间出行停车指南一起来看↓↓↓福州文林山革命烈士陵园:祭扫车辆可停放在陵园东大门停车场,以及周边的福能集团总医院停车场、孟超肝胆医院停车场、西洪路临时地块停车场。同时,西...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861511016914936216"
+      "id": "https://www.orientaldaily.com.my/news/society/2026/04/06/809483",
+      "title": "严重车祸涉5车 1车起火1人轻伤",
+      "summary": "(爱大华6日讯)爱大华今午发生一起涉及5辆车的严重车祸,其中一辆轿车起火燃烧约60%,造成一名女子轻伤。霹雳州消拯局助理局长沙巴罗兹发文告指出,当局于今日下午约4时55分接获通报,指爱大华章吉遮敏Petron加油站前发生车祸。他表示,消拯队于下午5时04分抵达现场时,发现事故共涉及5辆交通工具,分别为宝腾X50休旅车、宝腾Inspira、奇瑞瑞虎休旅车,以及两辆宝腾威拉。5辆交通工具上的乘客分别为...",
+      "source": "Orientaldaily",
+      "date": "2026-04-06",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/04/06/809483"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861543983108885735",
-      "title": "新疆5名勇士上榜!2026年第一季度见义勇为勇士榜..",
-      "summary": "3月30日,中央政法委在京发布2026年第一季度见义勇为勇士榜。共有64位见义勇为勇士获通报表扬和奖励慰问。麦麦提艾力·伊米提,艾买尔·亚库甫、阿比里克木·阿不拉、艾则孜·依不拉英,邓子龙光荣登榜。见...",
+      "id": "http://baijiahao.baidu.com/s?id=1861691549768191636",
+      "title": "今天下午至晚间返程高峰,明天早高峰交通压力较大,请..",
+      "summary": "天气预报据气象部门预报,6日白天晴间多云,南转北风2级转3、4级(阵风6、7级),最高气温17°C;夜间晴,偏北风3、4级(阵风6、7级)转2级,最低气温4°C。7日(节后第一天上班)白天晴间多云,北转南...",
       "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861543983108885735"
+      "date": "2026-04-06",
+      "url": "http://baijiahao.baidu.com/s?id=1861691549768191636"
     },
     {
-      "id": "https://post.smzdm.com/p/ae6x3r7q/",
-      "title": "乐道L60,开了18000+公里,谈谈使用感受",
-      "summary": "乐道L60作为一款中大型SUV,在行驶超过18000公里后,其产品力表现逐渐清晰。基于长期使用的真实反馈,该车型在电耗控制与空间利用上展现出显著优势,但在部分配置细节与智驾体验上仍存在优化空间。以下将从配置缺失、核心优势及争议点三个维度进行详细解析。01......",
+      "id": "http://baijiahao.baidu.com/s?id=1861662898235916848",
+      "title": "刘强东一个月狂花200亿,选中深圳、珠海、大连",
+      "summary": "一个月,三座城,两百亿——刘强东的“探海”版图正从大湾区到环渤海,快速铺开。2月24日,京东创始人刘强东携其创立的游艇独立品牌SeaExpandary(探海游艇),与珠海、深圳分别签署合作协议,总部扎...",
+      "source": "News_Baidu",
+      "date": "2026-04-06",
+      "url": "http://baijiahao.baidu.com/s?id=1861662898235916848"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1775469686169947.html",
+      "title": "“拯救大兵”行动,特朗普“又赢了”有多少水分| 京酿馆",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-06",
+      "url": "https://www.bjnews.com.cn/detail/1775469686169947.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae6xlr7q/",
+      "title": "一条视频告诉你✅迈巴赫完整的升级配置!!️",
+      "summary": "将迈巴赫S480通过升级配置达到S680的质感,是很多车主提升用车体验的选择。此类升级通常涉及外观、内饰、性能及驾驶辅助等多个方面,预算约在50万元左右。为了确保升级效果与车辆品质,了解完整的配件清单及安装避坑要点至关重要。01外观配置升级包围与中网更换......",
       "source": "Smzdm",
-      "date": "2026-04-05",
-      "url": "https://post.smzdm.com/p/ae6x3r7q/"
+      "date": "2026-04-06",
+      "url": "https://post.smzdm.com/p/ae6xlr7q/"
     },
     {
-      "id": "https://news.seehua.com/post/1464297",
-      "title": "男子“未撞先倒”视频引发碰瓷疑云 狮城男横穿马路遭轿车撞伤",
-      "summary": "(新山5日讯)一名新加坡籍旅游代理在新山敦阿都拉萨路横穿马路时,遭一辆行驶中的第二国产迈威轿车撞及,导致手、脚 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-05",
-      "url": "https://news.seehua.com/post/1464297"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861624622876962145",
-      "title": "黄晓明晒带9岁儿子上路骑行,交警:未满12周岁禁止..",
-      "summary": "黄晓明本想晒父子骑行有多温馨,结果评论区变成了普法现场。4月4日,黄晓明通过微博发布照片,照片中,他本人骑着共享单车,9岁的儿子则骑着普通儿童自行车,在人行道前击掌、合影,画面温馨自然。网友对此似乎并...",
+      "id": "http://baijiahao.baidu.com/s?id=1861679063854321169",
+      "title": "人潮里的守护!西溪南志愿红亮眼",
+      "summary": "央广网黄山46日消息(记者刘浩通讯员洪愿)清明假期,黄山市徽州区西溪南景区客流量、车流量大幅增长。为保障旅游有序开展,西溪南镇集结交警、镇村干部、本地村民等200余人次志愿者,在景区周边交通节点、村内...",
       "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861624622876962145"
+      "date": "2026-04-06",
+      "url": "http://baijiahao.baidu.com/s?id=1861679063854321169"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-04-05/the-jaguar-f-type-the-last-roar-of-a-dying-breed/1000409",
-      "title": "捷豹 F-Type:一个濒临灭绝的品种最后的咆哮?",
-      "summary": "NewsData报道",
-      "source": "Theportugalnews",
-      "date": "2026-04-05",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-04-05/the-jaguar-f-type-the-last-roar-of-a-dying-breed/1000409"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861634049569037543",
-      "title": "988公里“风景道”智慧升级!千方科技云控中心,赋..",
-      "summary": "作为国内智慧交通领域的领军企业,千方科技深耕行业二十余年,构建了贯穿交通全域“技术-产品-解决方案-运营”的全栈能力,拥有覆盖全光谱、全天候的智慧物联产品与解决方案体系。近年来,公司以AI、大数据、物...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861634049569037543"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861627882423590898",
-      "title": "具身智能机器人加速进化 为何场景落地挑战重重",
-      "summary": "练武术、跑马拉松......目前,人形机器人的进化速度让人惊叹。大家不禁好奇,人形机器人技术发展的进度条究竟跑到了什么阶段?什么时候能够走进家门,真正帮我们干活呢?近日,宇树科技的一份上市招股书,从一个侧面折...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861627882423590898"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861625900513796019",
-      "title": "高速返程高峰已至!杭州公安交警提醒:应急车道=生命..",
-      "summary": "潮新闻客户端记者王晨辉通讯员刘颖杭州公安交警正在路面执勤。图表由杭州公安交警提供今年清明假期天气晴朗、气温适宜,告别传统阴雨天气,各地市民群众纷纷选择自驾出行,开展踏青、祭祖、探亲等活动,高速公路通行...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861625900513796019"
-    },
-    {
-      "id": "https://www.ithome.com/0/936/171.htm",
-      "title": "新一代小米 SU7 搭载 ALD 镀膜技术:能较好抑制白天逆光或夜间后车远光,日常维护、清洗不会磨损",
-      "summary": "IT之家 4 月 5 日消息,小米汽车今日继续更新答网友问(第 229 集),针对新一代 SU7 的车外麦克风分别在哪、洗车时的注意事项、是否可以设定为「只解锁主驾车门」等问题进行了解答。 IT之家附小米汽车本期答网友问重点内容如下: 新一代 SU7 的车外麦克风分别在哪,洗车时有什么要注意的吗? 新一代 SU7 的车外拾音系统有四组麦克风, 分别在车头、车尾、左右后视镜位置 ,且四组车外麦克风都...",
-      "source": "Ithome",
-      "date": "2026-04-05",
-      "url": "https://www.ithome.com/0/936/171.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861634276499217456",
-      "title": "因走私船恶意减速急转,他被甩出执法艇,牺牲时仍保持..",
-      "summary": "封面新闻记者罗轩摄影报道战友们还为他留着床铺清明前夕,广西海警局舰艇编队缓缓驶入防城港某海域,汽笛长鸣,涛声回荡。甲板上,执法员们列队肃立,胸前佩戴着白花。垂首默哀后,他们将洁白的花瓣撒向海面,祭奠因...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861634276499217456"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861632743187702855",
-      "title": "“前轮硬生生压过去的!”爸爸开车撞倒1岁宝宝,结局..",
-      "summary": "2026年4月2日湖南衡阳发生了一起令人揪心又后怕的事故事发当天吴先生刚启动面包车准备上路没想到1岁的儿子闯入了车辆盲区毫无察觉的他径直撞了上去前轮从孩子身体上硬生生压过意识到不对的吴先生立即下车万幸...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861632743187702855"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861612024896989318",
-      "title": "“老”矿迎来“新”场景 传统采煤向现代智能开采“加..",
-      "summary": "央视网消息:记者从中国煤炭工业协会获悉,我国已建成智能化煤矿超过1000处,煤矿智能化建设已从试点示范迈入规模化应用新阶段。 统计数据显示,截至2025年底,全国已建成智能化煤矿1066处,智能...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861612024896989318"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861631938266320054",
-      "title": "星辉环材6个交易日股价涨超100%,无人驾驶企业九..",
-      "summary": "4月3日,星辉环材(300834.SZ)连续第三天发布股价异常波动公告。此前,无人驾驶明星企业九识智能拟入股星辉环材,尽管公司方面表示此举并非借壳上市,但仍然点燃了市场热情。在过去的6个交易日,公司股...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861631938266320054"
-    },
-    {
-      "id": "https://news.seehua.com/post/1464207",
-      "title": "晋连路14哩夺命车祸 摩托车骑士遭碾过身亡",
-      "summary": "(古晋5日讯)晋连路14哩路段今傍晚发生致命车祸,一辆摩托车与巴士相撞,19岁骑士当场身亡。 死者为来自西连恩 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-05",
-      "url": "https://news.seehua.com/post/1464207"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avg89r7p/",
-      "title": "小鹏MAX版智驾技术进展与研发难点解析",
-      "summary": "小鹏汽车近期就MAX版智能驾驶系统的技术现状、研发难点及未来规划进行了详细说明。作为L2阶段行业领先的智驾体验,小鹏MAX版不仅受到重度用户认可,其技术迭代也面临模型蒸馏、硬件适配及系统重构等多重挑战。以下是对当前技术进展与研发逻辑的梳理。01MAX版智......",
-      "source": "Smzdm",
-      "date": "2026-04-05",
-      "url": "https://post.smzdm.com/p/avg89r7p/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861630082316825001",
-      "title": "高速车流增幅明显!明日迎清明返程高峰,杭州交警最新..",
-      "summary": "钱江晚报今年清明假期天气晴朗、气温适宜,市民纷纷选择自驾出行,市域高速公路通行流量大幅攀升。杭州公安交警发布高速返程指南,提醒大家合理规划返程时间、路线。高速车流增幅明显注意免通结束时段潮新闻记者了解...",
-      "source": "News_Baidu",
-      "date": "2026-04-05",
-      "url": "http://baijiahao.baidu.com/s?id=1861630082316825001"
-    },
-    {
-      "id": "https://news.cri.cn/20260405/4178895e-9cac-2f62-6378-eba5def9d970.html",
-      "title": "清明祭公安英烈:警魂长存,家国永念-国际在线",
-      "summary": "中新网北京4月5日电题:清明祭公安英烈:警魂长存,家国永念 记者郭超凯 又是一年清明。新中国的平安基石上,又镌刻下一串新的名字。人们以不同的方式追思那些为守护万家灯火而献出生命的公安英烈。 张炳祎、谢雨丰、王宇飞、崔文亮、杨国林、...",
+      "id": "https://news.cri.cn/20260406/2fef4d69-f139-41b6-8cf4-b5542b588f59.html",
+      "title": "农业“新技术+新装备”勾勒绚丽“科技春耕图” 传统农耕图景变成智慧农业现场-国际在线",
+      "summary": "央视网消息:“清明”时节,麦长三节。今年入春以来,各地推进落实促壮苗补助政策和关键技术措施,主产区小麦苗情长势和生育进程基本赶上常年。 农业农村部最新农情调度显示,目前黄淮海和西北地区冬小麦正拔节孕穗,进入产量形成关键期。 在水肥管...",
       "source": "Cri_Cn",
-      "date": "2026-04-05",
-      "url": "https://news.cri.cn/20260405/4178895e-9cac-2f62-6378-eba5def9d970.html"
+      "date": "2026-04-06",
+      "url": "https://news.cri.cn/20260406/2fef4d69-f139-41b6-8cf4-b5542b588f59.html"
     },
     {
-      "id": "https://www.ithome.com/0/936/144.htm",
-      "title": "电子咖啡测驾驶体验,小鹏汽车智驾舒适度评测软件「洒了么」正式上线",
-      "summary": "IT之家 4 月 5 日消息,小鹏汽车官方今日宣布,小鹏智驾舒适度评测软件 ——「洒了么」正式上线。 据介绍,用户可通过微信小程序进入「洒了么」, 该工具支持根据行驶舒适程度实时显示剩余咖啡 (IT之家注:此咖啡并非真实咖啡,而是“赛博电子咖啡”)。 评测过程中,如果车辆出现急加速、急减速、顿挫、急转弯等不良体验,手机里的电子咖啡就会洒出。 行驶完成后,用户可通过剩余咖啡查看不良体验事件等明细数据...",
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3298447",
+      "title": "ParaZero获得以色列国防实体DefendAir系统追加订单",
+      "summary": "ParaZero获得以色列国防实体DefendAir系统追加订单...",
+      "source": "Investing_Cn",
+      "date": "2026-04-06",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3298447"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260406-8849690",
+      "title": "能“监督”司机状态的智能汽车 南大与德企Aumovio未来三年研发",
+      "summary": "司机开车时分心或打瞌睡,前方又突然出现障碍物,千钧一发的危机如何化解?未来的智能汽车,既能“看见”路况,也能“看懂”司机的状态,就能及时发出提醒,甚至在必要时协助减速停车。...",
+      "source": "Zaobao",
+      "date": "2026-04-06",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260406-8849690"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861436745822560563",
+      "title": "春季出游,密云这些路正在“大扫除”!",
+      "summary": "春季出游正当时,密云各路段也迎来车流高峰。然而,路边私设的广告牌、大货车的沿途遗撒、擅自挖掘公路等行为,却成为路面上的“隐形杀手”。市交通运输综合执法总队十支队密云执法队持续开展专项整治,用“人防+技...",
+      "source": "News_Baidu",
+      "date": "2026-04-06",
+      "url": "http://baijiahao.baidu.com/s?id=1861436745822560563"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861728886030131007",
+      "title": "G1080次列车行驶途中突发状况,山东大学齐鲁医院..",
+      "summary": "近日,G1080次列车行驶途中突发状况,广播突然响起“紧急寻医”的求助播报,山东大学齐鲁医院(第一临床学院)2025级泌尿外科研究生岳长栋听到播报后,毫不犹豫赶往患者所在车厢开展救治,用专业知识为患者...",
+      "source": "News_Baidu",
+      "date": "2026-04-06",
+      "url": "http://baijiahao.baidu.com/s?id=1861728886030131007"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861729677696508488",
+      "title": "长沙消防救援机动支队百名指战员进驻张家界开展靠前驻..",
+      "summary": "红网时刻新闻通讯员石礼嘉报道为加快推进构建“集中部署、区域联动、快速到位、高效救援”的队伍力量布防格局,经与湖南省应急管理厅、张家界市应急管理局沟通协调,4月4日,长沙消防救援机动支队组织100余名指...",
+      "source": "News_Baidu",
+      "date": "2026-04-06",
+      "url": "http://baijiahao.baidu.com/s?id=1861729677696508488"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a4qe359k/",
+      "title": "交通事故处理全指南:正确拨打顺序与现场处置流程",
+      "summary": "驾驶过程中遭遇交通事故是每位司机都不愿面对的情况,但掌握正确的处置流程对于维护自身权益至关重要。根据《道路交通事故处理程序规定》,驾驶人在事故后负有立即停车、保护现场及报警的法定义务。实际案例显示,因现场处置不当、电话拨打顺序错误导致无责变有责的情况时有......",
+      "source": "Smzdm",
+      "date": "2026-04-06",
+      "url": "https://post.smzdm.com/p/a4qe359k/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861694884927869063",
+      "title": "4秒冲上前!京哈高速白鹿收费站,生死救援刻不容缓",
+      "summary": "4月4日下午,京哈高速白鹿收费站前突发一起惊险的车辆追尾事故。一辆白色小轿车失控,猛烈撞击前方车辆,驾驶员当场晕厥。更危急的是,事故车辆经剧烈撞击后严重变形,出现起火隐患,司乘生命安全受到极大威胁。当...",
+      "source": "News_Baidu",
+      "date": "2026-04-06",
+      "url": "http://baijiahao.baidu.com/s?id=1861694884927869063"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861647540604409846",
+      "title": "“我就停几分钟”也不行!交警提醒:这9种“随手停”..",
+      "summary": "“我就办个事,先随便停一下”“就几分钟,马上就走”“大家都停了,我也停”“我停在这,不碍事”停车理由虽有千千万但违法停车绝对不可取车辆乱停乱放不仅违反交通法规更易造成交通拥堵埋下安全隐患哪些情况会造成...",
+      "source": "News_Baidu",
+      "date": "2026-04-06",
+      "url": "http://baijiahao.baidu.com/s?id=1861647540604409846"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260406-8849625",
+      "title": "车内与人妻赤裸被撞见 情夫不顾丈夫趴车盖开车 被判监罚款吊牌",
+      "summary": "情夫与人妻在车内赤裸约会时,被女子的丈夫撞见,丈夫为阻止情夫离开跳上引擎盖,情夫却继续驾车驶离,导致丈夫摔倒受伤。情夫被判坐牢六周、罚款1000元,以及吊销各级驾照一年。...",
+      "source": "Zaobao",
+      "date": "2026-04-06",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260406-8849625"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gj/2026/04-06/10599471.shtml",
+      "title": "中国品牌车在曼谷国际车展预订量首次超越日系车",
+      "summary": "中新社曼谷4月6日电 (李映民 刘宇博)第47届曼谷国际车展5日落幕,主办方6日发布消息称,受新能源汽车特别是电动汽车市场持续扩张带动,中国汽车品牌在曼谷国际车展中预订量首次整体超过日系品牌,成为展会突出亮点。...",
+      "source": "Chinanews",
+      "date": "2026-04-06",
+      "url": "https://www.chinanews.com.cn/gj/2026/04-06/10599471.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/936/288.htm",
+      "title": "吉利银河星耀 7 第一辆商品车下线:搭载千里浩瀚辅助驾驶 H3 方案,有望近期发布",
+      "summary": "IT之家 4 月 6 日消息,吉利银河今日宣布, 星耀 7 第一辆商品车正式下线 。 据介绍,吉利银河星耀 7“千车齐发”,展车、试驾车已于 4 月 3 日启程,将开启全民品鉴。 IT之家注意到,吉利银河星耀 7 延续了银河品牌的设计风格,前脸采用纵向格栅搭配可发光中网,大灯与贯穿式尾灯相呼应。尺寸为 4958×1915×1505mm、轴距 2852mm,配备 19 英寸多辐轮毂,整体造型较为修长...",
       "source": "Ithome",
-      "date": "2026-04-05",
-      "url": "https://www.ithome.com/0/936/144.htm"
+      "date": "2026-04-06",
+      "url": "https://www.ithome.com/0/936/288.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggm368d/",
+      "title": "智界S7空调系统清洗升级服务体验全流程解析",
+      "summary": "针对智界S7车型推出的官方空调系统清洗升级活动,涵盖了从预约到交车的全套服务流程。该服务主要包含空调系统的深度清洗与除菌、专业耗材更换以及多项免费增值检测,旨在通过标准化的施工流程提升车内空气质量与驾驶舒适度。01预约方式与接待流程用户需通过鸿蒙智行AP......",
+      "source": "Smzdm",
+      "date": "2026-04-06",
+      "url": "https://post.smzdm.com/p/aggm368d/"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3298290",
+      "title": "杰富瑞因管道增长前景上调Kratos Defense股票评级",
+      "summary": "杰富瑞因管道增长前景上调Kratos Defense股票评级...",
+      "source": "Investing_Cn",
+      "date": "2026-04-06",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3298290"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3298255",
+      "title": "Vertical Aerospace完成载人电动垂直起降飞行器过渡飞行",
+      "summary": "Vertical Aerospace完成载人电动垂直起降飞行器过渡飞行...",
+      "source": "Investing_Cn",
+      "date": "2026-04-06",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3298255"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/51652534/gary-black-wants-tesla-to-follow-apples-footsteps-to-boost-its-fsd-subscriptions",
+      "title": "Gary Black Wants Tesla To Follow Apple's Footsteps To Boost Its FSD Subscriptions",
+      "summary": "Investor Gary Black of The Future Fund LLC hopes Tesla would follow Apple's marketing strategy for its Full Self-Driving (FSD) system....",
+      "source": "Benzinga",
+      "date": "2026-04-06",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51652534/gary-black-wants-tesla-to-follow-apples-footsteps-to-boost-its-fsd-subscriptions"
     },
     {
       "id": "https://www.mirror.co.uk/news/health/nhs-rolls-out-semi-autonomous-36968654",
@@ -239,30 +265,6 @@
       "source": "The Manila Times",
       "date": "2026-04-01",
       "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/weride-and-grab-officially-launch-singapores-first-autonomous-public-ride-service-in-punggol/2312173"
-    },
-    {
-      "id": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
-      "title": "Toyota's Woven Capital appoints new CIO and COO in push for finding the 'future of mobility'",
-      "summary": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving....",
-      "source": "TechCrunch",
-      "date": "2026-04-01",
-      "url": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/"
-    },
-    {
-      "id": "https://www.wistv.com/2026/03/31/man-arrested-dui-after-being-found-passed-out-intoxicated-moving-tesla-police-say/",
-      "title": "Man arrested for DUI after being found passed out, intoxicated in moving Tesla, police say",
-      "summary": "Police in California have arrested a man for driving under the influence after they say he was in an autonomous vehicle while passed out behind the wheel....",
-      "source": "WIS10",
-      "date": "2026-03-31",
-      "url": "https://www.wistv.com/2026/03/31/man-arrested-dui-after-being-found-passed-out-intoxicated-moving-tesla-police-say/"
-    },
-    {
-      "id": "https://finbold.com/top-tesla-critic-reveals-elon-musks-biggest-mistake-of-2026/",
-      "title": "Top Tesla critic reveals Elon Musk’s biggest mistake of 2026",
-      "summary": "According to Gordon Johnson, officially rolling out 'FSD' is the worst thing Elon Musk could have for Tesla stock; Here's why...",
-      "source": "Finbold",
-      "date": "2026-03-31",
-      "url": "https://finbold.com/top-tesla-critic-reveals-elon-musks-biggest-mistake-of-2026/"
     }
   ]
 }
