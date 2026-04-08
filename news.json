@@ -1,15 +1,14 @@
 {
-  "lastUpdated": "2026-04-08 10:11:44",
-  "totalCount": 42,
+  "lastUpdated": "2026-04-08 03:20:46",
+  "totalCount": 48,
   "sources": {
     "Bilibili": 5,
+    "Ithome": 6,
+    "Investing_Cn": 4,
+    "Fx168News": 1,
+    "Smzdm": 4,
     "News_Baidu": 3,
-    "Investing_Cn": 2,
-    "Smzdm": 3,
-    "Zaobao": 1,
     "Chinanews": 3,
-    "Ithome": 2,
-    "Eeo": 1,
     "Bjnews": 1,
     "Prnasia": 1,
     "The Manila Times": 2,
@@ -35,14 +34,6 @@
       "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-04-08",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
-    },
-    {
       "id": "https://www.bilibili.com/video/BV182GnzRERu",
       "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
       "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
@@ -51,20 +42,76 @@
       "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
-      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
-      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
+      "id": "https://www.bilibili.com/video/BV1yRDTBxE6a",
+      "title": "【B站】BeamNG 自动驾驶汽车事故",
+      "summary": "https://youtu.be/0QDq9WQqwwA?is=xNhapfx5L4mwr520...",
       "source": "Bilibili",
       "date": "2026-04-08",
-      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
+      "url": "https://www.bilibili.com/video/BV1yRDTBxE6a"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1gXDeBkEaM",
-      "title": "【B站】赛博自动驾驶来了！Moza Racing Lab",
-      "summary": "ac 车辆m235i racing 赛道银石gp。\nmoza ai辅助驾驶，太猛了！...",
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
       "source": "Bilibili",
       "date": "2026-04-08",
-      "url": "https://www.bilibili.com/video/BV1gXDeBkEaM"
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1dwDWY4EKj",
+      "title": "【B站】10分钟带你学会调教A320自动驾驶",
+      "summary": "老费只是键盘飞友，如有错漏欢迎指出，共同进步...",
+      "source": "Bilibili",
+      "date": "2026-04-08",
+      "url": "https://www.bilibili.com/video/BV1dwDWY4EKj"
+    },
+    {
+      "id": "https://www.ithome.com/0/936/745.htm",
+      "title": "2026 款丰田 GR YARIS 汽车国内上市:改进方向盘、电子转向助力系统,40.28 万元起",
+      "summary": "IT之家 4 月 7 日消息,丰田汽车宣布旗下 2026 款 GR YARIS(GR 雅力士)汽车已在国内市场上市, 定价为 40.28 万元起 。 丰田汽车表示,该车方向盘经过精心设计,追求驾驶时的操控性。作为比较,以往的方向盘设计,赛车手在这种操作时需要顾及不要误触方向盘上的按键,基于这样的意见, 新款方向盘缩小了直径,同时为了提升转弯时推动方向盘转向的便利性,将握持部分设计为更加贴合手掌的形...",
+      "source": "Ithome",
+      "date": "2026-04-07",
+      "url": "https://www.ithome.com/0/936/745.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3300177",
+      "title": "美股异动 | 特斯拉(TSLA.US)跌近4% 小摩大幅唱空股价警告恐暴跌60%",
+      "summary": "美股异动 | 特斯拉(TSLA.US)跌近4% 小摩大幅唱空股价警告恐暴跌60%...",
+      "source": "Investing_Cn",
+      "date": "2026-04-07",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3300177"
+    },
+    {
+      "id": "https://www.ithome.com/0/936/741.htm",
+      "title": "蔚来旗下焕新版 firefly 萤火虫焕新升级款纯电小车上市,整车购买售价 11.98 万元起",
+      "summary": "IT之家 4 月 7 日消息,蔚来宣布旗下焕新版 firefly 萤火虫焕新升级款上市, 整车购买售价 11.98-12.58 万元,BaaS 租电方案售价 7.98-8.58 万元 。官方同步宣布萤火虫老车主可在后续升级 TPMS 直接式胎压监测、两侧后视镜倒车自动下翻和记忆功能、智驾小蓝灯。 外观方面,该车延续标志性“三重奏”大灯设计,提供全新的星轨双色合金轮圈。车尾方匹配双色定制下包围。 内...",
+      "source": "Ithome",
+      "date": "2026-04-07",
+      "url": "https://www.ithome.com/0/936/741.htm"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1012429",
+      "title": "Avis Budget Group Inc(CAR)股票4月7日盘中上涨9.27%:投资者必看的核心信息-FX168",
+      "summary": "Avis Budget Group Inc (CAR) 盘中上涨9.27%, 所属行业交通运输下跌0.47% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 Avis Budget Group Inc (CAR) 上涨 9.27%;联合航空 (UAL) 下跌 3.48%;Delta Air Lines Inc (DAL) 下跌 1.48%。 今日是什么导致了Avis Budget Group Inc(...",
+      "source": "Fx168News",
+      "date": "2026-04-07",
+      "url": "https://www.fx168news.com/article/1012429"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a82788n0/",
+      "title": "揭秘特斯拉 FSD 核心:端到端算法",
+      "summary": "特斯拉 AI 负责人 Ashok Elluswamy 在 2026 ScaledML Conference 上详细阐述了 FSD(完全自动驾驶)的技术演进逻辑,重点解析了为何从传统规则代码转向端到端架构。演讲涵盖了端到端算法的技术难点、特斯拉的解决方案(......",
+      "source": "Smzdm",
+      "date": "2026-04-07",
+      "url": "https://post.smzdm.com/p/a82788n0/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8nww2r/",
+      "title": "特斯拉2025.45.32.1软件更新",
+      "summary": "特斯拉2025.45.32.1版本软件更新已开始分批次推送。本次更新涵盖了语音交互、自动化流程、车载娱乐系统、地图导航以及实用工具等多个方面的功能升级,旨在进一步优化用户的驾驶与用车体验。01语音交互与自动化升级本次更新增强了语音控制能力,并引入了全新的......",
+      "source": "Smzdm",
+      "date": "2026-04-07",
+      "url": "https://post.smzdm.com/p/ak8nww2r/"
     },
     {
       "id": "http://baijiahao.baidu.com/s?id=1861799825801764307",
@@ -99,52 +146,12 @@
       "url": "https://post.smzdm.com/p/anvw8nn2/"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/world/story20260407-8856408",
-      "title": "韩情报机构:金珠爱接班人地位趋明朗 国防亮相强化“继承叙事”",
-      "summary": "韩国国家情报院向国会报告称,朝鲜领导人金正恩之女金珠爱近期亲自驾驶新型主力坦克等举动,被解读为旨在强化接班人形象、缓解外界对“女性接班人”的疑虑。...",
-      "source": "Zaobao",
-      "date": "2026-04-07",
-      "url": "https://www.zaobao.com.sg/news/world/story20260407-8856408"
-    },
-    {
       "id": "https://www.chinanews.com.cn/cj/2026/04-07/10599985.shtml",
       "title": "从世界一流到“双循环”战略支点,天津港凭什么?",
       "summary": "渤海湾的清晨,世界首个“智慧零碳”码头的蓝色人工智能水平运输机器人(ART)正在自主穿梭,天津港新一天的繁忙早已开始。...",
       "source": "Chinanews",
       "date": "2026-04-07",
       "url": "https://www.chinanews.com.cn/cj/2026/04-07/10599985.shtml"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3299937",
-      "title": "Stifel重申GXO Logistics股票买入评级,目标价70美元",
-      "summary": "Stifel重申GXO Logistics股票买入评级,目标价70美元...",
-      "source": "Investing_Cn",
-      "date": "2026-04-07",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3299937"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qegq78/",
-      "title": "奔达金吉拉250CVT试驾报告:自动挡体验与性能解析",
-      "summary": "随着摩托车市场中自动挡车型的逐渐增多,奔达推出了金吉拉250CVT版本,旨在降低入门门槛并提供更轻松的骑行体验。本文将基于试驾反馈,围绕自动挡的驾驶感受、车辆动力参数以及实际优缺点进行详细解析。01动力与配置核心参数参数项目配置详情发动机类型单缸四冲程排......",
-      "source": "Smzdm",
-      "date": "2026-04-07",
-      "url": "https://post.smzdm.com/p/a4qegq78/"
-    },
-    {
-      "id": "https://www.ithome.com/0/936/712.htm",
-      "title": "华境 S 开启预订:五菱、华为合作,全系标配乾崑 ADS Pro 增强版与鸿蒙座舱",
-      "summary": "IT之家 4 月 7 日消息,在今日的华境 S 领航科技品鉴会上,上汽通用五菱、华为合作的首款搭载华为乾崑科技旗舰大六座 SUV —— 华境 S 正式亮相并开启预订 ,1000 元抵 5000 元购车金,叠加至高价值 4 万的八重专属权益。 华境 S 现已开启预约试驾,预计 4 月底建成 300 家华境汽车体验中心,覆盖全国 169 个城市。 IT之家从品鉴会获悉,华境 S 集齐了 18 家供应商...",
-      "source": "Ithome",
-      "date": "2026-04-07",
-      "url": "https://www.ithome.com/0/936/712.htm"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0407/830872.shtml",
-      "title": "奕境汽车核心管理团队落定:汪俊君任董事长,曾清林任品牌总经理",
-      "summary": "奕境品牌在这一布局中定位高端智能化路线,是东风与华为在智选车合作模式之外的新尝试。此前,东风与华为在岚图品牌上采用HI模式合作,即华为提供智能驾驶和智能座舱解决方案,整车设计、制造和销售仍由东风主导。奕境则采用了联合定义、联合开发、联合办公的深度协同模式,在合作机制上更进一步。相较于HI模式,奕境的合作模式在开发流程和运营体系的开放程度上有所提升。...",
-      "source": "Eeo",
-      "date": "2026-04-07",
-      "url": "http://www.eeo.com.cn/2026/0407/830872.shtml"
     },
     {
       "id": "https://www.ithome.com/0/936/694.htm",
@@ -203,6 +210,46 @@
       "url": "https://www.chinanews.com.cn/cj/2026/04-07/10599822.shtml"
     },
     {
+      "id": "https://www.ithome.com/0/936/737.htm",
+      "title": "奇瑞风云 T9L 汽车将于 4 月 13 日上市,预售价 13.99 万元起",
+      "summary": "IT之家 4 月 7 日消息,奇瑞汽车宣布旗下风云 T9L 将于 4 月 13 日上市,该车定位为大五座 SUV,配备猎鹰 700+ 智能辅助驾驶系统、地平线征程 6P 芯片等, 预售价 13.99-16.99 万元 。 IT之家注意到,该车拥有 1037mm 二排腿部空间、同级唯一前排双零重力座椅。此外,该车还配备流萤氛围灯、抚琴立式高音、23 扬声器伯牙之音等。 智能化方面,该车搭载猎鹰 70...",
+      "source": "Ithome",
+      "date": "2026-04-07",
+      "url": "https://www.ithome.com/0/936/737.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3300095",
+      "title": "Lucid Group股价触及52周低点9.05美元",
+      "summary": "Lucid Group股价触及52周低点9.05美元...",
+      "source": "Investing_Cn",
+      "date": "2026-04-07",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3300095"
+    },
+    {
+      "id": "https://www.ithome.com/0/936/720.htm",
+      "title": "大众、小鹏合作首款车型:中大型 SUV 与众 08 将于 4 月 16 日上市,预售价 23.99 万元起",
+      "summary": "IT之家 4 月 7 日消息,大众汽车乘用车品牌中国 CEO 齐泽凯官宣大车与小车联合开发的首款车型“与众 08”将于 4 月 16 日上市,该车目前已开启预售, 价格区间为 23.99 万元-29.99 万元 。 该车整车姿态运动,前脸采用封闭式中网和细长的车头灯,梯形的下格栅动感十足;侧面呈现上扬气势,没有多余线条,并配有隐藏式门把手,整体看上去颇为“光滑”。 该车配备双 14.96 英寸超高...",
+      "source": "Ithome",
+      "date": "2026-04-07",
+      "url": "https://www.ithome.com/0/936/720.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3299937",
+      "title": "Stifel重申GXO Logistics股票买入评级,目标价70美元",
+      "summary": "Stifel重申GXO Logistics股票买入评级,目标价70美元...",
+      "source": "Investing_Cn",
+      "date": "2026-04-07",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3299937"
+    },
+    {
+      "id": "https://www.ithome.com/0/936/717.htm",
+      "title": "小米汽车:未来 YU7 全系车型也将通过 OTA 推送车外语音泊出功能",
+      "summary": "IT之家 4 月 7 日消息,小米汽车官方今日发布答网友问(第 230 集),针对新一代 SU7 的车外语音泊车辅助怎么使用、新一代 SU7 的 EEA 电子电气架构升级在哪 / 提升车辆哪些性能等问题进行了解答。 IT之家注意到,小米汽车官方在本次问答中透露,小米 YU7 全系也搭载了车外麦克风硬件,未来小米 YU7 全系车型也将通过 OTA 推送车外语音泊出功能。小米汽车本期答网友问重点内容如...",
+      "source": "Ithome",
+      "date": "2026-04-07",
+      "url": "https://www.ithome.com/0/936/717.htm"
+    },
+    {
       "id": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/ponyais-singapore-av-deployment-enters-by-invite-rides-advancing-dual-engine-strategy/2315226",
       "title": "Pony.ai's Singapore AV Deployment Enters By-Invite Rides, Advancing Dual-Engine Strategy",
       "summary": "Received regulatory approval to enter by-invite rides in Singapore, the final phase before public-facing servicesMarks a key milestone in Pony.ai's collaboration with ComfortDelGro and its overseas co...",
@@ -217,54 +264,6 @@
       "source": "Benzinga",
       "date": "2026-04-07",
       "url": "https://www.benzinga.com/markets/tech/26/04/51671714/elon-musk-says-tesla-self-driving-saves-a-lot-of-lives"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51652534/gary-black-wants-tesla-to-follow-apples-footsteps-to-boost-its-fsd-subscriptions",
-      "title": "Gary Black Wants Tesla To Follow Apple's Footsteps To Boost Its FSD Subscriptions",
-      "summary": "Investor Gary Black of The Future Fund LLC hopes Tesla would follow Apple's marketing strategy for its Full Self-Driving (FSD) system....",
-      "source": "Benzinga",
-      "date": "2026-04-06",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51652534/gary-black-wants-tesla-to-follow-apples-footsteps-to-boost-its-fsd-subscriptions"
-    },
-    {
-      "id": "https://www.mirror.co.uk/news/health/nhs-rolls-out-semi-autonomous-36968654",
-      "title": "autonomous ambulances to tackle deadly 999 delays",
-      "summary": "NHS gets record 1,141 new ambulances in England last year to improve 999 response times - all equipped with Advanced Driving Assistance Systems...",
-      "source": "The Mirror",
-      "date": "2026-04-04",
-      "url": "https://www.mirror.co.uk/news/health/nhs-rolls-out-semi-autonomous-36968654"
-    },
-    {
-      "id": "https://www.heise.de/en/news/Waymo-in-London-The-ultimate-test-for-autonomous-driving-11245925.html",
-      "title": "Waymo in London: The ultimate test for autonomous driving",
-      "summary": "Google's robotaxi subsidiary Waymo ventures into Europe. It explores the limits of AI systems and city politics in London's narrow street maze....",
-      "source": "Heise Online",
-      "date": "2026-04-04",
-      "url": "https://www.heise.de/en/news/Waymo-in-London-The-ultimate-test-for-autonomous-driving-11245925.html"
-    },
-    {
-      "id": "https://www.straitstimes.com/life/motoring/the-eye-catching-avatr-07-can-park-itself",
-      "title": "The eye-catching Avatr 07 can park itself",
-      "summary": "It offers a glimpse into an autonomous driving future, without a human at the wheel. Read more at straitstimes.com....",
-      "source": "The Straits Times",
-      "date": "2026-04-03",
-      "url": "https://www.straitstimes.com/life/motoring/the-eye-catching-avatr-07-can-park-itself"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51618537/uber-ceo-dara-khosrowshahi-tesla-robotaxis-elon-musk",
-      "title": "Uber CEO Dara Khosrowshahi Hopes To Incorporate Tesla Robotaxis On Its Platform: 'It's A Great Car…'",
-      "summary": "Uber CEO shared that he hopes to incorporate Tesla Robotaxis on its ride-hailing platform when the FSD technology becomes safer....",
-      "source": "Benzinga",
-      "date": "2026-04-02",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51618537/uber-ceo-dara-khosrowshahi-tesla-robotaxis-elon-musk"
-    },
-    {
-      "id": "https://interestingengineering.com/transportation/wuhan-robotaxi-outage-100-vehicles",
-      "title": "Passengers stranded after 100 robotaxis fail in Wuhan traffic",
-      "summary": "A major robotaxi outage in Wuhan saw self-driving cars stop on busy roads, highlighting risks in autonomous vehicle systems....",
-      "source": "Interesting Engineering",
-      "date": "2026-04-01",
-      "url": "https://interestingengineering.com/transportation/wuhan-robotaxi-outage-100-vehicles"
     }
   ]
 }
