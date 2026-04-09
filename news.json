@@ -1,19 +1,18 @@
 {
-  "lastUpdated": "2026-04-09 08:02:34",
-  "totalCount": 39,
+  "lastUpdated": "2026-04-09 02:56:19",
+  "totalCount": 41,
   "sources": {
-    "Smzdm": 2,
-    "Bjnews": 2,
+    "Bilibili": 5,
     "News_Baidu": 6,
-    "Investing_Cn": 1,
-    "Jiemian": 1,
-    "Zaobao": 1,
-    "Ithome": 2,
-    "Chinanews": 3,
-    "News_Seehua": 1,
-    "Fx168News": 1,
+    "Ithome": 4,
+    "Investing_Cn": 2,
+    "Imobile": 2,
+    "Smzdm": 1,
+    "Cri_Cn": 1,
+    "Chinanews": 1,
     "CNET": 1,
     "The Manila Times": 2,
+    "Investor's Business Daily": 1,
     "The Economic Times": 1,
     "Digital Trends": 1,
     "NextBigFuture.com": 1,
@@ -23,169 +22,184 @@
     "The Straits Times": 2,
     "Interesting Engineering": 1,
     "The Telegraph": 1,
-    "Finbold": 1,
-    "NDTV.com": 1
+    "Finbold": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/a03rm899/",
-      "title": "我来聊聊北京BJ40增程元境版本的高快领航",
-      "summary": "北京BJ40增程元境版配备了高快领航辅助驾驶功能,经过一段时间的实际道路测试,该系统在变道超车效率方面表现出一定的智能化水平,但在驾驶员监测机制、人机交互逻辑以及场景安全性上仍存在一些亟待解决的问题。01变道超车逻辑表现在变道与超车策略上,该系统倾向于效......",
-      "source": "Smzdm",
-      "date": "2026-04-08",
-      "url": "https://post.smzdm.com/p/a03rm899/"
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-04-09",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1775644828129065.html",
-      "title": "蓝皮书:人工智能重塑国际城市发展逻辑,带来算力、能源等挑战",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-08",
-      "url": "https://www.bjnews.com.cn/detail/1775644828129065.html"
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-04-09",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861896357255287475",
-      "title": "蘑菇车联自动驾驶巴士新加坡出海项目,入选2026“..",
-      "summary": "4月8日,知名机构DBC德本咨询正式发布2026全国企业“人工智能+”行动创新案例TOP100榜单,蘑菇车联自动驾驶巴士MOGOBUS新加坡出海项目成功入选,成为自动驾驶领域出海创新的标杆案例,彰...",
+      "id": "https://www.bilibili.com/video/BV1fV411x72a",
+      "title": "【B站】【自制】我把自行车做成了 自 动 驾 驶 ！！【硬核】",
+      "summary": "终于填坑了，巨！累！\n\n这个项目应该我最近做的最硬核的一个了，研发过程断断续续花了四个月（虽然基本只有周末有空），期间遇到非常多的坑，视频时长原因有些内容并没有放到视频里，看了下素材已经拍了将近200G了...大家喜欢的话记得三连啦~\n\n视频中提到的开源仓库地址：https://github.com...",
+      "source": "Bilibili",
+      "date": "2026-04-09",
+      "url": "https://www.bilibili.com/video/BV1fV411x72a"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1dwDWY4EKj",
+      "title": "【B站】10分钟带你学会调教A320自动驾驶",
+      "summary": "老费只是键盘飞友，如有错漏欢迎指出，共同进步...",
+      "source": "Bilibili",
+      "date": "2026-04-09",
+      "url": "https://www.bilibili.com/video/BV1dwDWY4EKj"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
+      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
+      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
+      "source": "Bilibili",
+      "date": "2026-04-09",
+      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861902351857869873",
+      "title": "交大思诺:公司已完成货运列车辅助驾驶系统样机研发和..",
+      "summary": "证券日报网讯4月8日,交大思诺在互动平台回答投资者提问时表示,公司LKJ产品结合用户需求,不断开展系统性开发,稳步推广应用。公司一直是城轨CBTC系统的关键设备提供商。货运列车自动驾驶(LA...",
       "source": "News_Baidu",
       "date": "2026-04-08",
-      "url": "http://baijiahao.baidu.com/s?id=1861896357255287475"
+      "url": "http://baijiahao.baidu.com/s?id=1861902351857869873"
     },
     {
-      "id": "https://post.smzdm.com/p/arz978eg/",
-      "title": "多车智驾高速测试复盘:保守策略与技术路线的胜负分野",
-      "summary": "针对智能驾驶系统在高速行车场景下的实际表现,一家测试机构近期组织了30余款车型进行专项测试。测试核心聚焦于智驾辅助与自动紧急制动系统(AEB)在突发路况下的反应能力与避险效果。结果显示,不同品牌车型的表现差异显著,呈现出技术策略选择上的明显分野,部分品牌......",
-      "source": "Smzdm",
-      "date": "2026-04-08",
-      "url": "https://post.smzdm.com/p/arz978eg/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1775645659129074.html",
-      "title": "全国首批 | 赤峰朝聚眼科医院引进EVO+ ICL新技术,开启精准屈光新时代",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-08",
-      "url": "https://www.bjnews.com.cn/detail/1775645659129074.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861898832618583478",
-      "title": "16岁全身瘫痪女孩,误买演唱会票!平台“售出不退”..",
-      "summary": "欧阳先生向“新民帮侬忙”微信公众号求助,自己16岁的女儿欣欣瘫痪在床,且存在认知障碍,因一时“手误”在“摩天轮”预订了一张2000多元的演唱会门票,自己发现后马上申请退票,结果平台却称演唱会门票售出不...",
+      "id": "http://baijiahao.baidu.com/s?id=1861910869370541301",
+      "title": "探馆首届上海汽车生活展:张雪机车“带火”两轮越野 ..",
+      "summary": "财联社4月8日讯(记者徐昊)4月8日,首届上海汽车生活展在上海东方枢纽国际商务合作区开幕。该展会由上海自贸区汽车进出口流通协会主办,是上海首个头部汽车品牌与高端生活品牌并重的专业展会,也是东方枢纽商合...",
       "source": "News_Baidu",
       "date": "2026-04-08",
-      "url": "http://baijiahao.baidu.com/s?id=1861898832618583478"
+      "url": "http://baijiahao.baidu.com/s?id=1861910869370541301"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861892909564631862",
-      "title": "智慧城市建设,全球各地有啥经验",
-      "summary": "原标题:数智赋能,让城市更便捷、更高效(国际视点)西班牙桑坦德市街头的自助公共存车站。本报记者颜欢摄在瑞典斯德哥尔摩市中心,人们在自动信号灯的指示下过马路。本报记者殷淼摄道路信息全天候实时采集,“智慧...",
+      "id": "https://www.ithome.com/0/937/189.htm",
+      "title": "小米汽车详解原厂行车记录功能,如遇紧急情况可通过鸣笛等方式保存",
+      "summary": "IT之家 4 月 8 日消息,小米汽车官方今晚发布了答网友问(第 231 集),针对小米行车记录应该如何设置和使用、如何把新一代 SU7 行车记录仪的视频导出到手机上等问题进行了解答。 IT之家附重点内容如下: 小米行车记录应该如何设置和使用? 小米汽车的原厂行车记录功能提供 4 路摄像头的循环录制能力 。通过调用前摄像头、后环视摄像头以及左后侧视摄像头、右后侧视摄像头,从而将车辆行驶途中的影像完...",
+      "source": "Ithome",
+      "date": "2026-04-08",
+      "url": "https://www.ithome.com/0/937/189.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861912757140015150",
+      "title": "外交部发言人毛宁点赞三一无人摊压机群",
+      "summary": "长沙晚报掌上长沙4月8日讯(全媒体记者匡小娟)近日,外交部发言人毛宁在社交平台发布视频,点赞广东汕梅高速改扩建项目中三一无人摊压机群的智能施工表现,向全球展示了中国交通建设数字化、智能化转型最新成果。...",
       "source": "News_Baidu",
       "date": "2026-04-08",
-      "url": "http://baijiahao.baidu.com/s?id=1861892909564631862"
+      "url": "http://baijiahao.baidu.com/s?id=1861912757140015150"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861893319182056421",
-      "title": "马斯克拉英特尔入伙!“史上最大造芯计划”获强力支持..",
-      "summary": "头部半导体制造商英特尔的加入,让马斯克的Terafab项目执行可信度与产业吸引力大幅提升。“英特尔很自豪能够与SpaceX、xAI以及特斯拉共同参与Terafab项目,推动硅基制造技术的变革。”4月7...",
-      "source": "News_Baidu",
-      "date": "2026-04-08",
-      "url": "http://baijiahao.baidu.com/s?id=1861893319182056421"
-    },
-    {
-      "id": "https://cn.investing.com/analysis/article-200498746",
-      "title": "聚焦AI芯片下半场,5家科技美股齐推自研全力冲刺推理规模商用!",
-      "summary": "市场分析由撰写,涵盖:Intel Corporation, Apple Inc, Tesla Inc, Samsung Electronics Co Ltd。在Investing.com阅读的市场分析。...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3302299",
+      "title": "佑驾创新(02431)与Ideas Group签署无人车销售合约",
+      "summary": "佑驾创新(02431)与Ideas Group签署无人车销售合约...",
       "source": "Investing_Cn",
       "date": "2026-04-08",
-      "url": "https://cn.investing.com/analysis/article-200498746"
+      "url": "https://cn.investing.com/news/stock-market-news/article-3302299"
     },
     {
-      "id": "https://www.jiemian.com/article/14223079.html",
-      "title": "地方新闻精选 | 南京力争“十五五”末常住人口超千万 官方通报羊汤店老鼠啃食生肉",
-      "summary": "今天有哪些地方新闻值得关注?成都女子冒充房东一房多租骗取租金押金,已被刑拘;重庆26平方米公寓1.88万元起拍,拍卖机构:曾发生凶杀案;山东通报3起招投标腐败案件,山东中医药大学原校长被点名。...",
-      "source": "Jiemian",
+      "id": "http://news.imobile.com.cn/articles/2026/0408/234052.shtml",
+      "title": "每10分钟新增一位车主!BJ40增程一周年交出硬核成绩单",
+      "summary": "4月7日,“BJ40 增程 上市周年庆 ”主题直播活动 在专业越野网红胜地北京 越涯庄 成功 举办。在这场持续 6小时的超长直播中,北京越野与全网用户共同见证 BJ40增程的 成长 与成绩 。 “ BJ40增程周年庆 ”活动期间可享四重 豪礼 : 第一重:周年开运礼 ——大礼天天送, 购车有惊喜。 4月7 日起至 4月23日,于北京越野直播间,每日抽取5套价值4280元的征途尊享哑光漆面膜; 第二...",
+      "source": "Imobile",
       "date": "2026-04-08",
-      "url": "https://www.jiemian.com/article/14223079.html"
+      "url": "http://news.imobile.com.cn/articles/2026/0408/234052.shtml"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sports/story20260408-8862307",
-      "title": "被足球迷父亲取名“Fifa” 泰国高球手迎大满贯首秀",
-      "summary": "(奥古斯塔路透电)就在世界杯足球赛将在美国、加拿大和墨西哥举行的同一年,一位小名以“国际足联”(FIFA)命名的泰国高尔夫球手,将在星期四(4月9日)开打的美国高尔夫球大师赛(又称名人赛)完成自己的大满贯首秀。...",
-      "source": "Zaobao",
+      "id": "http://news.imobile.com.cn/articles/2026/0408/234053.shtml",
+      "title": "华境S携手全球顶级供应链首发亮相",
+      "summary": "2026年4月7日,“华育万象,境展新篇”华境S领航科技品鉴会圆满举行。活动现场, 搭载华为乾崑科技旗舰大六座——华境S正式首发亮相并同步开启预订。新车全系标配华为乾崑智能解决方案,上市即支持城区领航辅助,将于今年上半年正式上市 。上汽通用五菱始终坚守“人民需要什么,五菱就造什么”的品牌理念,精准洞察中国家庭出行痛点与核心需求,携手华为乾崑、宁德时代、宝钢等顶级供应链伙伴,共同为用户打造超越期待的...",
+      "source": "Imobile",
       "date": "2026-04-08",
-      "url": "https://www.zaobao.com.sg/news/sports/story20260408-8862307"
+      "url": "http://news.imobile.com.cn/articles/2026/0408/234053.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861897093712385534",
-      "title": "“95后”北漂女程序员辞职回乡开挖机,本人发声:正..",
-      "summary": "极目新闻记者陈洋洋近日,吉林一名“95后”女程序员在个人账号发布多条视频称,自己辞去了北漂的工作,目前返乡和父亲一起工作开挖掘机。许多网友好奇,程序员、挖掘机驾驶员两个看似毫无关联的行业为何会关联在一...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3302254",
+      "title": "探馆首届上海汽车生活展:张雪机车“带火”两轮越野 上海打造“汽车+生活”新外滩",
+      "summary": "探馆首届上海汽车生活展:张雪机车“带火”两轮越野 上海打造“汽车+生活”新外滩...",
+      "source": "Investing_Cn",
+      "date": "2026-04-08",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3302254"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861769784440742564",
+      "title": "韩媒:新型WiFi解锁“无缝导航”",
+      "summary": "韩国AJP新闻通讯社网站4月2日文章,原题:韩国科学技术院研究人员开发出用于绘制全国WiFi无线电地图的自动化技术你进商场或在摩天大楼间穿行时,有多少次遇到过GPS信号丢失的尴尬情况?近日,韩国科学技...",
       "source": "News_Baidu",
       "date": "2026-04-08",
-      "url": "http://baijiahao.baidu.com/s?id=1861897093712385534"
+      "url": "http://baijiahao.baidu.com/s?id=1861769784440742564"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861892723388293893",
-      "title": "小小工具箱,做出“大文章”",
-      "summary": "来源:解放军报桂林联勤保障中心某汽车团探索优化工具摆放布局方案——小小工具箱,做出“大文章”■万韧周宇解放军报记者孙兴维“工具箱变革”后,官兵更换轮胎更快了。(唐程浩摄)南国密林,桂林联勤保障中心某汽...",
+      "id": "https://www.ithome.com/0/937/179.htm",
+      "title": "高德地图鸿蒙版 App 业内首发“智能路况提醒”功能,华为畅享 90 Pro Max 已开放体验",
+      "summary": "IT之家 4 月 8 日消息,高德地图官方今日宣布, 鸿蒙 版在业内首发创新功能“智能路况提醒”, 已率先在 华为畅享 90 Pro Max 机型上开放体验 。 据介绍, 华为畅享 90 Pro Max 手机用户可通过实况窗实时查看红绿灯读秒 。当用户驾驶或骑行到达红绿灯路口时,可通过实况窗精准推送红绿灯读秒信息,无需开启地图导航,不打断当前操作。 IT之家附功能开启方式:开启高德地图位置权限 →...",
+      "source": "Ithome",
+      "date": "2026-04-08",
+      "url": "https://www.ithome.com/0/937/179.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arz9835q/",
+      "title": "向新求质 | 露天矿山“采装运”全绿智解!",
+      "summary": "2025年9月,国家能源局等多部门联合发布《关于推进能源装备高质量发展的指导意见》,明确提出研制露天矿无人驾驶、大倾角长距离连续输送等关键装备,提升煤炭开采装备的智能化与自主化水平。在此背景下,中铁工业围绕矿山“采、装、运”全流程,布局智能电铲、电动装载......",
+      "source": "Smzdm",
+      "date": "2026-04-08",
+      "url": "https://post.smzdm.com/p/arz9835q/"
+    },
+    {
+      "id": "https://news.cri.cn/20260408/af791c95-2726-8930-a101-21cc59e9533e.html",
+      "title": "新疆“超级棉田”开播 已实现75%无人化管理-国际在线",
+      "summary": "眼下,新疆春耕春播工作全面展开。在尉犁县3000亩“超级棉田”,无人驾驶北斗导航播种机精准作业,采用“干播湿出”“精量播种”等技术节能增效。 作为国内首个无人化棉...",
+      "source": "Cri_Cn",
+      "date": "2026-04-08",
+      "url": "https://news.cri.cn/20260408/af791c95-2726-8930-a101-21cc59e9533e.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-08/10600554.shtml",
+      "title": "一位草原守护者与虫鼠的27年“较量”",
+      "summary": "中新网乌兰察布4月8日电 题:一位草原守护者与虫鼠的27年“较量”...",
+      "source": "Chinanews",
+      "date": "2026-04-08",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-08/10600554.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861901810713001447",
+      "title": "从一次性到常态化 新场景激活低空经济新动能",
+      "summary": "本文转自【央视新闻客户端】;“十五五”规划纲要提出,积极拓展低空消费,推进低空经济健康有序发展。眼下,安徽正在加快布局“低空+”产业,不断创新场景,让各类低空飞行器进入生活,改变生活。编队无人机迭代升...",
       "source": "News_Baidu",
       "date": "2026-04-08",
-      "url": "http://baijiahao.baidu.com/s?id=1861892723388293893"
+      "url": "http://baijiahao.baidu.com/s?id=1861901810713001447"
     },
     {
-      "id": "https://www.ithome.com/0/937/102.htm",
-      "title": "蔚来旗下 firefly 萤火虫纯电小车获 1.4.0 车机系统更新:新增误加速抑制辅助、循迹倒车、游戏投屏...",
-      "summary": "IT之家 4 月 8 日消息,蔚来宣布为旗下 firefly 萤火虫纯电小车推出 1.4.0 车机系统更新,主要新增误加速抑制辅助、循迹倒车、游戏投屏等功能,IT之家整理更新内容如下: 智能辅助驾驶 新增误加速抑制辅助:当车辆静止起步或低速行驶,且驾驶员快速深踩下加速踏板,若检测到行驶方向 (前进或倒车) 有其他车辆、行人、骑行人等障碍物且存在碰撞风险时,系统将限制动力输出并发出警报,以尝试避免或...",
+      "id": "https://www.ithome.com/0/937/190.htm",
+      "title": "一汽大众 ID.AURA 序列首款车型 T6 官宣,定位中型纯电 SUV",
+      "summary": "IT之家 4 月 8 日消息,在今晚举行的大众汽车品牌之夜活动上,一汽-大众全新新能源序列 ID. AURA 正式公布,首款车型命名为 ID. AURA T6。 这款车型定位纯电中型 SUV(IT之家注: ID.AURA 序列覆盖纯电、增程、插混多种动力形式),将于 4 月 24 日北京车展迎来首秀。 据介绍, AURA 代表四大品牌承诺: A (Advanced 前瞻技术)、 U (User-c...",
       "source": "Ithome",
       "date": "2026-04-08",
-      "url": "https://www.ithome.com/0/937/102.htm"
+      "url": "https://www.ithome.com/0/937/190.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-08/10600431.shtml",
-      "title": "武汉开设新兴产业培训班 产教融合培养人才",
-      "summary": "中新网武汉4月8日电 (武一力 刘霞 方旭东)武汉市首个工业机器人系统操作员和无人机驾驶员专业培训班8日在位于武汉市江夏区的武昌职业学院开班,吸引来自全国各地的逾千名学员报名。...",
-      "source": "Chinanews",
-      "date": "2026-04-08",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-08/10600431.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-08/10600429.shtml",
-      "title": "辽宁启动道路交通安全“五严禁五严管五必须”专项整治",
-      "summary": "中新网沈阳4月8日电(记者 王景巍)4月8日,在辽宁省政府新闻办召开的新闻发布会上,辽宁省公安厅副厅长陈密森宣布,辽宁自即日起全面启动道路交通安全“五严禁五严管五必须”专项整治,通过15项硬核举措构建全链条治理体系,坚决压降交通事故总量。...",
-      "source": "Chinanews",
-      "date": "2026-04-08",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-08/10600429.shtml"
-    },
-    {
-      "id": "https://news.seehua.com/post/1465514",
-      "title": "轿车追尾罗里失控坠大水沟 罗里司机和3民众跳入水将女医生救起",
-      "summary": "(亚庇8日讯)一名女医生驾驶的汽车在撞击前方罗里后,失控队坠入大水沟,所幸获4名民众迅速施救,跳入水中将她救起 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-08",
-      "url": "https://news.seehua.com/post/1465514"
-    },
-    {
-      "id": "https://www.ithome.com/0/937/140.htm",
-      "title": "零跑 Lafa5 Ultra 官图发布:专属运动套件 +180kW 电驱,本月上市",
-      "summary": "IT之家 4 月 8 日消息,零跑 Lafa5 顶配版本 ——Lafa5 Ultra 今日正式亮相,新车将于今年 4 月正式上市。 Lafa5 Ultra 在外观上搭载了专属运动套件,配备破风前铲、风翼侧裙、驭风尾翼及尾部扩散器,搭配 19 英寸掠翼枪灰轮毂、哑光金属深灰卡钳与全车枪灰黑化标识,营造出低趴宽体的运动姿态。同时,无框车门与纯平侧窗的设计进一步强化了轿跑风格,与普通版形成明显的差异化特...",
+      "id": "https://www.ithome.com/0/937/166.htm",
+      "title": "奇瑞瑞虎 7 L & 全新瑞虎 7 汽车全球上市,限时优惠价 6.99 万元起",
+      "summary": "IT之家 4 月 8 日消息,奇瑞瑞虎 7 L & 全新瑞虎 7 汽车今晚全球上市发布。瑞虎 7L 共推出 4 款配置车型,限时优惠价 7.89 万 - 9.99 万元;瑞虎 7 有三个配置,限时优惠价分别为 6.99 万 - 8.19 万元。 瑞虎 7 L 风尚型:官方指导价 8.59 万元、限时优惠价 7.89 万元、 超值置换价 7.19 万元 ; 智尚型:官方指导价 9.19 万元、限时优...",
       "source": "Ithome",
       "date": "2026-04-08",
-      "url": "https://www.ithome.com/0/937/140.htm"
+      "url": "https://www.ithome.com/0/937/166.htm"
     },
     {
-      "id": "https://www.fx168news.com/article/1012874",
-      "title": "均胜电子2025年营收突破600亿元,净利润增长39%,总裁陈伟降薪近600万元,港股上市五个月仍破发-FX168",
-      "summary": "均胜电子近日披露2025年年度报告,全年实现营业总收入611.83亿元,同比增长9.52%;归母净利润达13.36亿元,同比大幅增长39.08%;扣非净利润为14.96亿元,同比增长16.72%;基本每股收益0.95元,公司拟每10股派发现金红利1.8元(含税)。值得关注的是,均胜电子于2025年11月6日在港...",
-      "source": "Fx168News",
+      "id": "http://baijiahao.baidu.com/s?id=1861903849879728622",
+      "title": "像人眼一样的“仿生眼”在上海发布,让机器人精准感知..",
+      "summary": "给机器人装一双像人眼一样的眼睛,会产生怎样的效果?今天,爱观视觉BinoSense系列“仿生眼”发布会在上海漕河泾举行,新一代仿生双眼视觉系统亮相,为与会者做了技术解析和实机演示。“仿生眼有广阔的应用前景,在人形机器人、...",
+      "source": "News_Baidu",
       "date": "2026-04-08",
-      "url": "https://www.fx168news.com/article/1012874"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-08/10600459.shtml",
-      "title": "(走进中国乡村)秧苗住上“电梯房” 科技助力湖南小镇守粮仓",
-      "summary": "中新社长沙4月8日电 题:秧苗住上“电梯房” 科技助力湖南小镇守粮仓...",
-      "source": "Chinanews",
-      "date": "2026-04-08",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-08/10600459.shtml"
+      "url": "http://baijiahao.baidu.com/s?id=1861903849879728622"
     },
     {
       "id": "https://www.cnet.com/roadshow/news/uber-volkswagen-self-driving-vehicles-start-on-road-testing/",
@@ -202,6 +216,14 @@
       "source": "The Manila Times",
       "date": "2026-04-08",
       "url": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/ponyai-advances-global-deployment-with-launch-of-europes-first-commercial-robotaxi-service-in-zagreb/2316157"
+    },
+    {
+      "id": "https://www.investors.com/news/tesla-stock-elon-musk-fsd-v14-3/",
+      "title": "Tesla Stock Jumps As Elon Musk's EV Giant Releases 'Sentient' FSD 14.3.",
+      "summary": "Tesla's newest version of its Full Self-Driving (FSD) sofware came out on Tuesday night. The stock jumped, along with the broader market....",
+      "source": "Investor's Business Daily",
+      "date": "2026-04-08",
+      "url": "https://www.investors.com/news/tesla-stock-elon-musk-fsd-v14-3/"
     },
     {
       "id": "https://economictimes.indiatimes.com/news/international/us/tesla-stock-crashes-23-ytd-before-earnings-but-tsla-jumps-5-in-todays-premarket-is-fsd-breakthrough-and-robotaxi-hype-enough-to-revive-tesla-shares-now/articleshow/130111996.cms",
@@ -242,30 +264,6 @@
       "source": "Benzinga",
       "date": "2026-04-07",
       "url": "https://www.benzinga.com/markets/tech/26/04/51671714/elon-musk-says-tesla-self-driving-saves-a-lot-of-lives"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51652534/gary-black-wants-tesla-to-follow-apples-footsteps-to-boost-its-fsd-subscriptions",
-      "title": "Gary Black Wants Tesla To Follow Apple's Footsteps To Boost Its FSD Subscriptions",
-      "summary": "Investor Gary Black of The Future Fund LLC hopes Tesla would follow Apple's marketing strategy for its Full Self-Driving (FSD) system....",
-      "source": "Benzinga",
-      "date": "2026-04-06",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51652534/gary-black-wants-tesla-to-follow-apples-footsteps-to-boost-its-fsd-subscriptions"
-    },
-    {
-      "id": "https://www.mirror.co.uk/news/health/nhs-rolls-out-semi-autonomous-36968654",
-      "title": "autonomous ambulances to tackle deadly 999 delays",
-      "summary": "NHS gets record 1,141 new ambulances in England last year to improve 999 response times - all equipped with Advanced Driving Assistance Systems...",
-      "source": "The Mirror",
-      "date": "2026-04-04",
-      "url": "https://www.mirror.co.uk/news/health/nhs-rolls-out-semi-autonomous-36968654"
-    },
-    {
-      "id": "https://www.heise.de/en/news/Waymo-in-London-The-ultimate-test-for-autonomous-driving-11245925.html",
-      "title": "Waymo in London: The ultimate test for autonomous driving",
-      "summary": "Google's robotaxi subsidiary Waymo ventures into Europe. It explores the limits of AI systems and city politics in London's narrow street maze....",
-      "source": "Heise Online",
-      "date": "2026-04-04",
-      "url": "https://www.heise.de/en/news/Waymo-in-London-The-ultimate-test-for-autonomous-driving-11245925.html"
     }
   ]
 }
