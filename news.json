@@ -1,19 +1,21 @@
 {
-  "lastUpdated": "2026-04-10 03:29:19",
-  "totalCount": 41,
+  "lastUpdated": "2026-04-11 08:02:55",
+  "totalCount": 39,
   "sources": {
-    "Bilibili": 5,
-    "Bjnews": 1,
-    "Smzdm": 1,
-    "Ithome": 4,
-    "Zaobao": 1,
     "Chinanews": 2,
-    "Eeo": 1,
-    "News_Baidu": 5,
-    "Imobile": 1,
+    "Ithome": 1,
+    "News_Baidu": 7,
+    "Rfi_Fr": 1,
+    "Cri_Cn": 1,
     "Investing_Cn": 1,
-    "The Manila Times": 3,
-    "Benzinga": 5,
+    "Orientaldaily": 2,
+    "Bjnews": 1,
+    "Jiemian": 1,
+    "News_Seehua": 1,
+    "Smzdm": 2,
+    "Benzinga": 6,
+    "The Manila Times": 4,
+    "MarketScreener": 1,
     "TechCrunch": 1,
     "CNET": 1,
     "Seeking Alpha": 1,
@@ -21,187 +23,192 @@
     "The Economic Times": 1,
     "Digital Trends": 1,
     "NextBigFuture.com": 1,
-    "The Mirror": 1,
-    "Heise Online": 1,
-    "The Straits Times": 1,
     "Finbold": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
+      "id": "https://www.chinanews.com.cn/ty/2026/04-10/10601689.shtml",
+      "title": "2026城市俱乐部国际帆船赛在青岛启幕 38队参赛",
+      "summary": "中新网4月10日电 据中国帆船帆板运动协会消息,第十六届城市俱乐部国际帆船赛(CCOR)于4月9日在青岛开幕,共有38支赛队、247名选手报名参赛。...",
+      "source": "Chinanews",
       "date": "2026-04-10",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "url": "https://www.chinanews.com.cn/ty/2026/04-10/10601689.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV14rDWBgEZP",
-      "title": "【B站】手搓自动驾驶(四) 视觉跟随",
-      "summary": "车子BOM，图纸；视觉跟随的训练，推理，数据集，MCU代码都放在https://github.com/DaliangAuto。同名公众号也有，或者网盘：https://pan.baidu.com/s/1AyrTj-bZDDp1f66gpdWnUg?pwd=DALG 提取码: DALG...",
-      "source": "Bilibili",
+      "id": "https://www.ithome.com/0/937/964.htm",
+      "title": "36.5 万元起,极氪 001 五周年纪念版车型上市",
+      "summary": "IT之家 4 月 10 日消息,在目前正在进行的极氪发布会中,极氪 001 五周年纪念版车型正式登场,上市价格为 36.5 万元起。 该车基于标准版 001 车型换用“FR-LINE 性能套装”。其中包括黑曜红性能内饰、Dinamica 麂皮绒性能座椅、FR-LINE 座椅刺绣、带赛用双控旋钮的性能方向盘、主驾座椅靠背主动侧翼支撑,并配备了 FR-LINE 迎宾踏板、性能金属踏板。 同时,新车配备...",
+      "source": "Ithome",
       "date": "2026-04-10",
-      "url": "https://www.bilibili.com/video/BV14rDWBgEZP"
+      "url": "https://www.ithome.com/0/937/964.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1dwDWY4EKj",
-      "title": "【B站】10分钟带你学会调教A320自动驾驶",
-      "summary": "老费只是键盘飞友，如有错漏欢迎指出，共同进步...",
-      "source": "Bilibili",
+      "id": "http://baijiahao.baidu.com/s?id=1862081403110813221",
+      "title": "文旅深一度|清新入座,好客随行!山东出租车“清新行..",
+      "summary": "4月10日下午,“好客山东·清新出行”暨济南市出租车行业“清新行动”推进活动在济南召开,这场聚焦日常出行的活动,以实打实的举措,把“小清新”装进出租车车厢,让好客服务深入细微之处,贴近民心。出门打辆车...",
+      "source": "News_Baidu",
       "date": "2026-04-10",
-      "url": "https://www.bilibili.com/video/BV1dwDWY4EKj"
+      "url": "http://baijiahao.baidu.com/s?id=1862081403110813221"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260410-%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9C%A8%E6%AC%A7%E6%B4%B2%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E9%AB%98%E7%AB%AF%E5%93%81%E7%89%8C",
+      "title": "中国汽车制造商比亚迪在欧洲推出全新高端品牌",
+      "summary": "法国全国性大报周五仍主要聚焦中东战事。面对黎巴嫩遭受的猛烈轰炸,法共“人道报”称《所有的人都看到了,竟无人采取措施》,报道了以色列军方不停地轰炸贝鲁特和黎巴嫩南部地区。在美伊展开谈判之际,将这一停火协议扩大是刻不容缓的事项。右派费加罗报也报道了《弹火下的黎巴嫩期待停火》,指出重启针对黎巴嫩真主党的战斗后,以色列实施最致命的、将该国化为灰烬的打击,以至于会影响到美伊的停火协议。周四,以色列宣布想和贝...",
+      "source": "Rfi_Fr",
       "date": "2026-04-10",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260410-%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9C%A8%E6%AC%A7%E6%B4%B2%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E9%AB%98%E7%AB%AF%E5%93%81%E7%89%8C"
     },
     {
-      "id": "https://www.bilibili.com/video/BV112DvBvER5",
-      "title": "【B站】星空|流程|巡航模式、自动驾驶、装备升级系统",
-      "summary": "演示巡航模式和自动驾驶功能，装备升等级和刷传奇词条都需要X科技，目前还没找到，但是接到了第一个随机遭遇事件。...",
-      "source": "Bilibili",
+      "id": "https://news.cri.cn/20260410/5f9920c3-7047-2ed6-80c5-74786c05f274.html",
+      "title": "苦练内功要抓住关键着力点-国际在线",
+      "summary": "2025年底召开的中央经济工作会议以“五个必须”概括做好新形势下经济工作的规律性认识,其中第五条就是“必须以苦练内功来应对外部挑战”。这既是我们党成功驾驭我国经济发展大...",
+      "source": "Cri_Cn",
       "date": "2026-04-10",
-      "url": "https://www.bilibili.com/video/BV112DvBvER5"
+      "url": "https://news.cri.cn/20260410/5f9920c3-7047-2ed6-80c5-74786c05f274.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1775712118129524.html",
-      "title": "山西临汾:一座资源型城市的“云上”逆袭",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3305772",
+      "title": "智驾联手Momenta、3年内推多款新车!刚宣布入华的现代IONIQ什么来头?",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-10",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3305772"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862078006585968205",
+      "title": "惠及六类人群 青岛极地跨界联动打造“城市守护者”公..",
+      "summary": "4月10日,在崂山区相关政府部门、中国海洋大学、青岛海牛足球俱乐部及多位城市守护者代表共同见证下,海合安青岛极地海洋公园正式启动“城市守护者公益月”。正值开园二十周年,公园正式宣布面向警务人员等六类城...",
+      "source": "News_Baidu",
+      "date": "2026-04-10",
+      "url": "http://baijiahao.baidu.com/s?id=1862078006585968205"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862080301615429859",
+      "title": "阿婆乘车迷路只知“家在上海” 公交与民警接力送她回..",
+      "summary": "昨天(4月9日)下午,巴士二公司莘松车队708路驾驶员杨文荣驾驶211号公交车,从莘庄地铁北广场准时发车,驶向终点站新桥火车站,一场温暖的爱心相助在这趟常规运营线路上悄然演绎。昨天下午1时45分许,车辆正常发车时,一位老...",
+      "source": "News_Baidu",
+      "date": "2026-04-10",
+      "url": "http://baijiahao.baidu.com/s?id=1862080301615429859"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/04/10/810410",
+      "title": "醉猫抢夺电召车逆向行驶 警逮捕嫌犯援引4法律条文调查",
+      "summary": "(八打灵再也10日讯)一名喝的酩酊大醉的本地男子与电召车司机争执后抢走车辆在大道上逆向行驶,最终遭到警方逮捕!八打灵再也警区主任山苏丁玛莫发文告指出,警方于4月9日凌晨约2时10分,在吉隆坡西部疏散大道(Sprint Highway)第0.7公里处逮捕该名男子。他说,初步调查显示,事件于当天凌晨约1时发生。嫌犯当时驾驶车辆逆向行驶,被警方在上述地点截停。进一步调查发现,嫌犯不仅在酒精影响下驾驶,还...",
+      "source": "Orientaldaily",
+      "date": "2026-04-10",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/04/10/810410"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1775803303129214.html",
+      "title": "美的医疗发布MR智能体,未来将扩展到CT等产品线",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-09",
-      "url": "https://www.bjnews.com.cn/detail/1775712118129524.html"
+      "date": "2026-04-10",
+      "url": "https://www.bjnews.com.cn/detail/1775803303129214.html"
     },
     {
-      "id": "https://post.smzdm.com/p/am9dk8kd/",
-      "title": "夸张吗?张雪称豪爵踏板比国际其他品牌都要好!",
-      "summary": "也许是最近张雪机车实在太出圈了,但鉴于自身的驾驶技能,还无法驯服——820RR。不少摩友借着这波热度,又在呼吁张老板赶紧推出踏板车型。张老板对于这件事情也做出了回应,他亲自发视频说“虽然我们也会出踏板车,但更多是偏玩乐属性的运动类车型;其实国内豪爵做踏板......",
+      "id": "https://www.orientaldaily.com.my/news/society/2026/04/10/810409",
+      "title": "救护车鸣笛“闯红灯”遭直驱车拦腰撞 酿5人受伤",
+      "summary": "(槟城10日讯)一辆正在执行紧急任务并开启鸣笛的救护车,在行经槟城理科大学(USM)前的红绿灯路口时,遭一辆疑未察觉讯号的轿车拦腰猛撞,导致救护车失控偏离车道并波及另一辆轿车,事件共造成5人受伤。东北县副警区主任李瑞式今日发文告证实,这起车祸发生于周四(9日)上午11时02分,在牛汝莪双溪赖路段,即理科大学其中一个入口处的红绿灯交界处发生。根据网传的行车记录仪影片显示,事发时该路段交通灯刚转为绿灯...",
+      "source": "Orientaldaily",
+      "date": "2026-04-10",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/04/10/810409"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861992848984997506",
+      "title": "融合通讯系统怎么选?讯简科技全域整合方案解析",
+      "summary": "全域资源整合:打破协议壁垒讯简科技有限公司研发的融合通信指挥调度系统,在资源整合方面展现出明显优势。该系统能够接入各类语音终端、视频监控及GIS资源,实现跨协议、跨终端的统一调度。这种全域资源整合能力...",
+      "source": "News_Baidu",
+      "date": "2026-04-10",
+      "url": "http://baijiahao.baidu.com/s?id=1861992848984997506"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861984610514329114",
+      "title": "雨后恢复预案进入倒计时,确保“雨停路净”",
+      "summary": "来源:大武汉客户端4月9日下午,雨势逐渐减弱,雨后的“净城行动”进入倒计时。据悉,针对本轮降雨,武汉城管已提前制定“雨后恢复预案”,待大雨过后,各区环卫部门根据实际情况安排高压冲洗车、洗扫车等作业车辆...",
+      "source": "News_Baidu",
+      "date": "2026-04-10",
+      "url": "http://baijiahao.baidu.com/s?id=1861984610514329114"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14234614.html",
+      "title": "地方新闻精选 | 官方调查中青赛严重虚假比赛事件 辽宁辽阳疑似有人用真奔驰车陪葬",
+      "summary": "今天有哪些地方新闻值得关注?云南玉龙县通报“女初中生被舍友4次殴打”:校长停职检查;殷墟遗址公布发掘成果,大邑商都城道路曾分宽中窄三级;浙江台州保时捷车主驾车逆行并言语威胁他人?警方:处罚并行拘。...",
+      "source": "Jiemian",
+      "date": "2026-04-10",
+      "url": "https://www.jiemian.com/article/14234614.html"
+    },
+    {
+      "id": "https://news.seehua.com/post/1466390",
+      "title": "涉住家藏3684万野生动物器官 越南男今认罪不获保释",
+      "summary": "(新山10日讯) 39岁越南籍男子因涉嫌非法持有高达3680万令吉大量受保护蛇类器官,今日在新山地 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-10",
+      "url": "https://news.seehua.com/post/1466390"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkwxll9/",
+      "title": "星途EX7:妥妥的“技术王炸”!家用豪华新标杆!",
+      "summary": "星途EX7定位为真C级大五座SUV,主打“星际探索美学”设计语言与硬核技术配置。该车在外观尺寸、内部空间舒适性、智能驾驶辅助系统以及动力底盘安全方面进行了全面升级,旨在为家庭用户提供兼顾豪华体验与安全保障的出行方案。以下将从核心参数、配置细节及技术亮点三......",
       "source": "Smzdm",
-      "date": "2026-04-09",
-      "url": "https://post.smzdm.com/p/am9dk8kd/"
+      "date": "2026-04-10",
+      "url": "https://post.smzdm.com/p/axkwxll9/"
     },
     {
-      "id": "https://www.ithome.com/0/937/580.htm",
-      "title": "小米汽车:未来 YU7、第一代 SU7、 SU7 Ultra 将通过 OTA 推送把萌宠“放到”车机功能",
-      "summary": "IT之家 4 月 9 日消息,小米汽车官方今日继续更新答网友问(第 232 集),针对新一代 SU7 的车主管理模式有什么用、萌宠“放到”车机功能能否 OTA 下放给老车型等问题进行了解答。 IT之家附重点内容如下: 新一代 SU7 的车主管理模式是干什么用的? 车主管理模式可以让车主通过中控屏或手机 App 控车页对车辆动力性能进行限制与设置 ,在代驾、借车时,或家中有新手驾驶员用车时更安全、更...",
-      "source": "Ithome",
-      "date": "2026-04-09",
-      "url": "https://www.ithome.com/0/937/580.htm"
+      "id": "https://post.smzdm.com/p/a6zmxw00/",
+      "title": "2025款红旗H5实车解析:配置升级与智能化体验",
+      "summary": "2025款红旗H5目前已到店,作为年度改款车型,新车在外观、内饰材质、舒适性配置以及智能化方面均进行了调整与升级。本次实探重点针对车机系统优化、座椅功能及智能驾驶辅助体验进行了详细验证。01外观小幅调整,标配电吸门新款红旗H5的外观设计延续了现款车型的整......",
+      "source": "Smzdm",
+      "date": "2026-04-10",
+      "url": "https://post.smzdm.com/p/a6zmxw00/"
     },
     {
-      "id": "https://www.ithome.com/0/937/567.htm",
-      "title": "特斯拉被曝正开发全新紧凑型 SUV:在中国生产,比 Model 3 还便宜",
-      "summary": "北京时间 4 月 9 日,据路透社报道,四位知情人士称,特斯拉正在开发一款全新、更小、更便宜的电动 SUV。 据知情人士透露,特斯拉最近几周已联系供应商,讨论这款紧凑型 SUV 的计划细节。它将是一款全新车型,而非特斯拉现有 Model 3 或 Model Y 的改款版本。这些讨论涉及制造工艺以及多个零部件的规格。 特斯拉 三位知情人士称,这款紧凑型 SUV 将在中国生产。特斯拉也计划将生产扩展至...",
-      "source": "Ithome",
-      "date": "2026-04-09",
-      "url": "https://www.ithome.com/0/937/567.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/937/551.htm",
-      "title": "蔚来 ES9 旗舰 SUV 发布:电池租用预售价 42 万元起,号称“十一年体系创新集大成之作”",
-      "summary": "IT之家 4 月 9 日消息,蔚来今晚为 ES9 旗舰 SUV 举行了一场产品技术发布会。新车拥有超 40 项行业首创技术,号称蔚来十一年体系创新的集大成之作,是行政旗舰 SUV 的全新标杆, 预售价 42 万元起(电池租用方式购买) 。 行政豪华版:整车购买预售价 528,000 元起、电池租用方式购买预售价 420,000 元起(102kWh 电池租用月费 1,128 元); 行政签名版:整车...",
-      "source": "Ithome",
-      "date": "2026-04-09",
-      "url": "https://www.ithome.com/0/937/551.htm"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260409-8868739",
-      "title": "大法官:AI时代剧变 企业律师应扮演“牧羊人”引领企业",
-      "summary": "生成式人工智能的崛起,并不意味着律师职业的终结,而是标志着一种“全新律师物种”的诞生。大法官梅达顺呼吁企业律师在剧变中担当“牧羊人”角色,引领企业在人工智能时代稳健前行。...",
-      "source": "Zaobao",
-      "date": "2026-04-09",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260409-8868739"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-09/10601158.shtml",
-      "title": "4个算力项目落子广州 总投资达48.39亿元",
-      "summary": "中新网广州4月9日电 (张璐 孙旭东)据广州黄埔官方9日消息,近日,在广州市算力新基建开工暨算力供需会上,4个算力项目(简称“项目”)集体开工。项目全部落子广州开发区、黄埔区,总投资达48.39亿元,建成后将新增智算规模超4万P,标志着广州实现单体“万卡万P”智算中心建设零的突破。...",
+      "id": "https://www.chinanews.com.cn/sh/2026/04-10/10601570.shtml",
+      "title": "黄土高原“慧”种田 超声波“听诊”北斗“画线”",
+      "summary": "中新网兰州4月10日电 (盘小美)四月的黄土高原,草木新生,绿意铺展。在甘肃庆阳市西峰区小麦田管一线,农技人员正操作着病虫害数据采集及气象环境监测仪,实时掌握麦田里的各项环境信息。...",
       "source": "Chinanews",
-      "date": "2026-04-09",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-09/10601158.shtml"
+      "date": "2026-04-10",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-10/10601570.shtml"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0409/833183.shtml",
-      "title": "白犀牛为鑫源“装上大脑”,合资打造Robovan主机厂",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-04-09",
-      "url": "http://www.eeo.com.cn/2026/0409/833183.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-09/10601166.shtml",
-      "title": "记者手记|油价高企助推购车需求转向——中国电动车在德国市场热度攀升",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-04-09",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-09/10601166.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861987347012288787",
-      "title": "普法+执法:护航苗乡侗寨道路畅安",
-      "summary": "4月9日,贵州省交通运输综合行政执法七支队十六大队深入剑河县柳川镇开展全民国家安全教育日普法宣传与执法检查行动。执法人员给村民进行普法宣传。万家加摄双语宣讲全覆盖,安全知识入民心。活动现场,执法人员通...",
+      "id": "http://baijiahao.baidu.com/s?id=1862069770046610713",
+      "title": "美股最新评级|中金公司维持奈飞跑赢行业评级,目标价..",
+      "summary": "财联社4月10日讯(编辑齐灵)以下为各家券商对美股的最新评级和目标价:招商证券(香港)维持阿里巴巴(BABA.N)买入评级,目标价206.1美元:阿里云受益AI与数字化需求,4QFY26收入预计增40...",
       "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861987347012288787"
+      "date": "2026-04-10",
+      "url": "http://baijiahao.baidu.com/s?id=1862069770046610713"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861985769357328012",
-      "title": "武汉雨水渐弱,今天晚高峰还有雨吗?刚刚预报:局地有..",
-      "summary": "本文转自【长江日报】;雨下了一天,目前武汉雨势逐渐减弱,今天晚高峰还有雨吗?武汉市气象台15时发布预报:过去3小时(9日12—15时),我市中部出现大雨到暴雨,南部、北部小到中雨,伴有雷电、短时强降水...",
+      "id": "http://baijiahao.baidu.com/s?id=1862068830647005346",
+      "title": "烟台港携手主线科技,打造专业件杂货万能码头标杆",
+      "summary": "在港口自动驾驶的商业化版图中,集装箱码头凭借标准化的作业流程,早已成为技术落地最成熟的场景;相比之下,件杂货码头因货物形态各异、作业逻辑复杂,被视为长期难以规模化突破的“深水区”。...",
       "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861985769357328012"
+      "date": "2026-04-10",
+      "url": "http://baijiahao.baidu.com/s?id=1862068830647005346"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861989513053647397",
-      "title": "91岁“红姑娘”送来锦旗:夸赞70年时光流转背后的..",
-      "summary": "91岁的李世裕老人是重庆第一代“红姑娘”客运队的传奇驾驶员,作为见证这座城市公共交通70年发展的老人,她在近七八年乘坐118路公交车的过程中深有感触,决定将一面写着“长江后浪推前浪,一代更比一代强”的...",
-      "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861989513053647397"
+      "id": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins",
+      "title": "What's Going On With Alibaba Stock Friday?",
+      "summary": "Alibaba (BABA) pivots to \"world models,\" investing $290M in ShengShu to bridge AI with robotics and autonomous driving. Read the full update....",
+      "source": "Benzinga",
+      "date": "2026-04-10",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0409/234065.shtml",
-      "title": "内存太贵了!传部分厂商下一代超大杯机型或面临停更",
-      "summary": "【iMobile爱科技资讯】近日受近期存储芯片价格上涨影响,手机厂商正重新审视下一代产品的规划。根据数码闲聊站最新消息,由于内存采购成本大幅波动,部分厂商可能会暂停更新其旗舰系列中的“超大杯”机型。 由于DRAM与NAND闪存占整机成本比重上升,若维持超大杯原有的高规格存储配置,终端零售价可能出现明显涨幅。目前的市场环境下,部分厂商倾向于通过精简产品线或调整硬件排布来对冲物料成本。除机型削减外,高...",
-      "source": "Imobile",
-      "date": "2026-04-09",
-      "url": "http://news.imobile.com.cn/articles/2026/0409/234065.shtml"
+      "id": "https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/ponyai-launches-ponyworld-20-a-self-improving-physical-ai-engine-for-autonomous-driving/2317810",
+      "title": "Pony.ai Launches PonyWorld 2.0, a Self-Improving Physical AI Engine for Autonomous Driving",
+      "summary": "New world model upgrade enables AI to diagnose its own weaknesses, guide targeted data collection, and support the next phase of large-scale L4 commercializationGUANGZHOU, China, April 10, 2026 /PRNew...",
+      "source": "The Manila Times",
+      "date": "2026-04-10",
+      "url": "https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/ponyai-launches-ponyworld-20-a-self-improving-physical-ai-engine-for-autonomous-driving/2317810"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861987846739058255",
-      "title": "新石器无人车加速交付中国邮政 年内已落地数十城市",
-      "summary": "近日,新石器无人车与中国邮政重庆市巴南分公司联合举行无人车交付仪式,正式交付新一批无人车。据了解,这批交付是新石器与中国邮政战略合作的最新一个城市的落地,有业内人士透露,仅今年以来,新石器就已向中国邮...",
-      "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861987846739058255"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861985928091948572",
-      "title": "惊!14岁少年开车上路,还搭载4人!幸被交警及时拦..",
-      "summary": "4月7日,淄博市交通管理支队高新区大队利用科技手段,依托稽查布控“三级联动”防控体系,现场查获一起严重交通违法案件——一名14岁未成年人无证驾驶机动车,竟违规搭载4名同伴,5人同车行驶。高新区大队第一...",
-      "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861985928091948572"
-    },
-    {
-      "id": "https://www.ithome.com/0/937/573.htm",
-      "title": "零跑 Lafa5 Ultra 展车到店:具备全国城区领航辅助功能,本月上市",
-      "summary": "IT之家 4 月 9 日消息,零跑 Lafa5 顶配版本 ——Lafa5 Ultra 将于本月正式上市,并将亮相 2026 北京车展(IT之家注:4 月 24 日开幕)。 零跑汽车官方今日宣布 Lafa5 Ultra 展车在全国陆续到店,且终端试驾车已具备全国城区领航辅助功能。 Lafa5 Ultra 在外观上搭载了专属运动套件,配备破风前铲、风翼侧裙、驭风尾翼及尾部扩散器,搭配 19 英寸掠翼枪...",
-      "source": "Ithome",
-      "date": "2026-04-09",
-      "url": "https://www.ithome.com/0/937/573.htm"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3303800",
-      "title": "Cyngn公布自动驾驶车辆部署增长情况",
-      "summary": "Cyngn公布自动驾驶车辆部署增长情况...",
-      "source": "Investing_Cn",
-      "date": "2026-04-09",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3303800"
+      "id": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22",
+      "title": "Pony.ai launches Ponyworld 2.0, a self-improving physical AI engine for autonomous driving",
+      "summary": "Pony AI Inc:\nPony.ai launches Ponyworld 2.0, a self-improving physical AI engine for autonomous driving\n......",
+      "source": "MarketScreener",
+      "date": "2026-04-10",
+      "url": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22"
     },
     {
       "id": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
@@ -258,14 +265,6 @@
       "source": "Seeking Alpha",
       "date": "2026-04-08",
       "url": "https://seekingalpha.com/news/4573364-whats-next-for-tesla-after-a-disappointing-ev-delivery-report"
-    },
-    {
-      "id": "https://www.investors.com/news/tesla-stock-elon-musk-fsd-v14-3/",
-      "title": "Tesla Stock Jumps As Elon Musk's EV Giant Releases 'Sentient' FSD 14.3.",
-      "summary": "Tesla's newest version of its Full Self-Driving (FSD) sofware came out on Tuesday night. The stock jumped, along with the broader market....",
-      "source": "Investor's Business Daily",
-      "date": "2026-04-08",
-      "url": "https://www.investors.com/news/tesla-stock-elon-musk-fsd-v14-3/"
     }
   ]
 }
