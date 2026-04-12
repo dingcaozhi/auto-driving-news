@@ -1,159 +1,184 @@
 {
-  "lastUpdated": "2026-04-11 02:52:35",
-  "totalCount": 26,
+  "lastUpdated": "2026-04-12 08:02:19",
+  "totalCount": 38,
   "sources": {
-    "Bjnews": 2,
-    "Imobile": 1,
-    "Chinanews": 4,
-    "Eeo": 2,
-    "Cri_Cn": 1,
-    "Ithome": 1,
-    "Smzdm": 1,
-    "News_Baidu": 3,
+    "Bilibili": 5,
     "News_Seehua": 1,
-    "Rfi_Fr": 1,
-    "Benzinga": 2,
-    "The Manila Times": 4,
+    "News_Baidu": 6,
+    "Eeo": 1,
+    "Bjnews": 2,
+    "Ithome": 4,
+    "TechCrunch": 2,
+    "Benzinga": 6,
+    "The Manila Times": 3,
     "MarketScreener": 1,
-    "TechCrunch": 1,
-    "CNET": 1
+    "NextBigFuture.com": 2,
+    "CNET": 1,
+    "Seeking Alpha": 1,
+    "Investor's Business Daily": 1,
+    "The Economic Times": 1,
+    "Digital Trends": 1
   },
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1775822805168409.html",
-      "title": "没有原创,何谈高端?| 新京报评论",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-10",
-      "url": "https://www.bjnews.com.cn/detail/1775822805168409.html"
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-04-12",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1775817187129481.html",
-      "title": "北京今年完成10条“不停车胡同”治理,违停先提醒后罚款",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-10",
-      "url": "https://www.bjnews.com.cn/detail/1775817187129481.html"
+      "id": "https://www.bilibili.com/video/BV1aVQMBTEuv",
+      "title": "【B站】清华大学欧阳明高：纯电车成为主流，固态电池即将量产，L3L4自动驾驶即将落地！国内车企还需努力！",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-04-12",
+      "url": "https://www.bilibili.com/video/BV1aVQMBTEuv"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0410/234083.shtml",
-      "title": "极氪重磅上新:焕新7系正式上市,001五周年纪念版同步限量发售",
-      "summary": "4月10日,极氪宣布,旗下焕新7系——焕新极氪007与焕新极氪007GT正式上市。其中,焕新极氪007上市权益后限时价19.39万元-23.39万元;焕新极氪007GT上市权益后限时价为19.39万元-23.39万元。同时,极氪品牌五周年之际特别推出的限定版本——极氪001五周年纪念版也正式开启限量发售,零售价36.5万元起。 业内人士认为,本次焕新7系与极氪001五周年纪念版同步上市,精准契合年...",
-      "source": "Imobile",
-      "date": "2026-04-10",
-      "url": "http://news.imobile.com.cn/articles/2026/0410/234083.shtml"
+      "id": "https://www.bilibili.com/video/BV1rXQTBDEJA",
+      "title": "【B站】清华大学李克强：先给自动驾驶泼泼冷水，车路云才是未来！",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-04-12",
+      "url": "https://www.bilibili.com/video/BV1rXQTBDEJA"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-10/10601861.shtml",
-      "title": "中国人工智能产业发展联盟第十七次全体会议召开",
-      "summary": "中新网北京4月10日电 (记者 刘亮)记者10日从中国信通院获悉,中国人工智能产业发展联盟第十七次全体会议日前在武汉召开。...",
-      "source": "Chinanews",
-      "date": "2026-04-10",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-10/10601861.shtml"
+      "id": "https://www.bilibili.com/video/BV1udDeB6EwR",
+      "title": "【B站】一张纸就能“杀”掉AI？揭秘自动驾驶的致命死穴",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-04-12",
+      "url": "https://www.bilibili.com/video/BV1udDeB6EwR"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0410/834397.shtml",
-      "title": "现代汽车电动品牌IONIQ入华 将搭载宁德时代电池和Momenta智驾",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-04-10",
-      "url": "http://www.eeo.com.cn/2026/0410/834397.shtml"
+      "id": "https://www.bilibili.com/video/BV1nYQMBWEfX",
+      "title": "【B站】自动驾驶L4阶段，华为依然领先！？",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-04-12",
+      "url": "https://www.bilibili.com/video/BV1nYQMBWEfX"
     },
     {
-      "id": "https://news.cri.cn/20260410/d92ba1e0-3889-9fd5-cc9e-8410459424ce.html",
-      "title": "一家农机老店三次转型(春耕里的新质生产力)-国际在线",
-      "summary": "图为农机店技术人员(左)在演示北斗导航自动驾驶系统。 本报记者吴君摄 在湖北省宜城市,胡羊波家的农机店经营久、面积大、生意好。7000多平方米,30多名员工,年销售额3000多万元。 正...",
-      "source": "Cri_Cn",
-      "date": "2026-04-10",
-      "url": "https://news.cri.cn/20260410/d92ba1e0-3889-9fd5-cc9e-8410459424ce.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/937/990.htm",
-      "title": "一汽奥迪 A6L e-tron 上市:可选华为乾崑智驾,30.98-43.98 万元",
-      "summary": "IT之家 4 月 10 日消息,一汽奥迪 A6L e-tron 今晚正式上市,新车共推出 4 款车型,售价区间为 30.98 万元至 43.98 万元。 新车基于奥迪与保时捷联合开发的 PPE 豪华纯电平台打造,定位中大型纯电动轿车。车身尺寸为长 5073 毫米、宽 1950 毫米、高 1522 毫米,轴距达到 3076 毫米,相比燃油版奥迪 A6L 加长 52 毫米。 外观方面,奥迪 A6L e...",
-      "source": "Ithome",
-      "date": "2026-04-10",
-      "url": "https://www.ithome.com/0/937/990.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomlzm89/",
-      "title": "自动驾驶技术路线之争:纯视觉与激光雷达的博弈",
-      "summary": "近期,华为的高线束激光雷达方案与小鹏VLA 2.0纯视觉方案引发了广泛讨论,双方支持者围绕技术路线的优劣展开激烈交锋。这一争议不仅反映了当前自动驾驶技术发展的分歧,也揭示了行业在感知层解决方案上的不同探索。本文将从技术原理、特定场景应用以及系统整体逻辑三......",
-      "source": "Smzdm",
-      "date": "2026-04-10",
-      "url": "https://post.smzdm.com/p/aomlzm89/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-10/10601764.shtml",
-      "title": "今年北京计划挖潜新增3万个机动车停车位",
-      "summary": "中新网北京4月10日电 (记者 吕少威)记者今天从北京市交通委获悉,北京发布《2026年机动车停车治理专项行动计划》,围绕“优化供给、完善机制、加强执法、提升服务”明确23项具体任务,聚焦缓解居住停车矛盾、促进车辆规范停放、推动行业数智化升级。...",
-      "source": "Chinanews",
-      "date": "2026-04-10",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-10/10601764.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862087571334424181",
-      "title": "对话自变量CTO王昊:在具身智能的“无人区” 探索..",
-      "summary": "编者按:他们创办的公司或已是独角兽,或刚启动种子轮,或已家喻户晓,或长期身居幕后,或正起于微末,但他们都是中国新经济的微观脉搏,是这轮产业和技术升级的微观主导者和实践者,不同行业成千成万的他们的身影汇...",
-      "source": "News_Baidu",
-      "date": "2026-04-10",
-      "url": "http://baijiahao.baidu.com/s?id=1862087571334424181"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-10/10601783.shtml",
-      "title": "低空经济出海基地和服务中心在广州揭牌",
-      "summary": "中新网广州4月10日电 (记者 程景伟)无人系统行业交流会暨第九届全球无人系统大会、第三届国际低空经济贸易博览会(简称“2026广州低贸会”)启动会10日在广州举办。活动同期举行低空经济出海基地、低空经济出海服务中心揭牌仪式。...",
-      "source": "Chinanews",
-      "date": "2026-04-10",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-10/10601783.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-10/10601733.shtml",
-      "title": "中国新设内蒙古自贸试验区 畅通向北开放国际大通道",
-      "summary": "中新社北京4月10日电 (记者 王梦瑶)《中国(内蒙古)自由贸易试验区总体方案》(下称《方案》)近日发布,国新办10日召开国务院政策例行吹风会介绍《方案》有关情况。...",
-      "source": "Chinanews",
-      "date": "2026-04-10",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-10/10601733.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862085145403003492",
-      "title": "同比增长67%,北京越野一季度交付超43200台,..",
-      "summary": "2026年,中国汽车市场新能源与智能化浪潮持续深化,硬派越野赛道的竞争愈发激烈,尤其在油价持续上涨的背景下,增程车型的节能经济性优势愈发凸显。凭借60余年深厚积淀和越野新能源赛道的前瞻性布局,北京越野...",
-      "source": "News_Baidu",
-      "date": "2026-04-10",
-      "url": "http://baijiahao.baidu.com/s?id=1862085145403003492"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862085334589277428",
-      "title": "科技赋能通关提速 东盟鲜果最快数十小时摆上中国货架",
-      "summary": "中新网南宁4月10日电(杨陈俞靖)一颗榴莲从东南亚果园枝头摘下,最快数十小时便可摆上中国商超与直播间货架。近年来,依托科技赋能、贸易便利化与电商直播加持,东盟鲜果涌入中国市场,成为中国—东盟经贸热络的...",
-      "source": "News_Baidu",
-      "date": "2026-04-10",
-      "url": "http://baijiahao.baidu.com/s?id=1862085334589277428"
-    },
-    {
-      "id": "https://news.seehua.com/post/1466533",
-      "title": "救护车鸣笛“闯红灯”遭直驱车拦腰撞 酿5人受伤",
-      "summary": "(槟城10日讯)一辆正在执行紧急任务并开启鸣笛的救护车,在行经槟城理科大学(USM)前的红绿灯路口时,遭一辆疑 [...]...",
+      "id": "https://news.seehua.com/post/1466967",
+      "title": "陌生男车外徘徊试图开门 女子受惊鸣笛驱赶",
+      "summary": "(吉隆坡11日讯)一名女子在帝帝旺沙(Titiwangsa)一处停车场泊车时,突遭陌生男子试图从外打开车门,令 [...]...",
       "source": "News_Seehua",
-      "date": "2026-04-10",
-      "url": "https://news.seehua.com/post/1466533"
+      "date": "2026-04-11",
+      "url": "https://news.seehua.com/post/1466967"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260410-%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9C%A8%E6%AC%A7%E6%B4%B2%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E9%AB%98%E7%AB%AF%E5%93%81%E7%89%8C",
-      "title": "中国汽车制造商比亚迪在欧洲推出全新高端品牌",
-      "summary": "法国全国性大报周五仍主要聚焦中东战事。面对黎巴嫩遭受的猛烈轰炸,法共“人道报”称《所有的人都看到了,竟无人采取措施》,报道了以色列军方不停地轰炸贝鲁特和黎巴嫩南部地区。在美伊展开谈判之际,将这一停火协议扩大是刻不容缓的事项。右派费加罗报也报道了《弹火下的黎巴嫩期待停火》,指出重启针对黎巴嫩真主党的战斗后,以色列实施最致命的、将该国化为灰烬的打击,以至于会影响到美伊的停火协议。周四,以色列宣布想和贝...",
-      "source": "Rfi_Fr",
-      "date": "2026-04-10",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260410-%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9C%A8%E6%AC%A7%E6%B4%B2%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E9%AB%98%E7%AB%AF%E5%93%81%E7%89%8C"
+      "id": "http://baijiahao.baidu.com/s?id=1862170865203542406",
+      "title": "爱芯元智创始人仇肖莘:未来两三年国产智驾芯片市占率..",
+      "summary": "“AI计算正从云端加速下沉至边缘与端侧,智能汽车是核心落地场景。”4月11日,爱芯元智创始人、董事长仇肖莘在智能电动汽车发展高层论坛(2026)期间接受《每日经济新闻》记者采访时直言,独立芯片厂商唯有...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862170865203542406"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0410/834382.shtml",
-      "title": "经济观察报 第1266期",
-      "summary": "中年创业者困在债务里刘颖北生所答案张铃保护全红婵们,让体育回归本原张成刚:大量网约车司机可能会“逃避”新规来确保收入 田进20年后,啤酒消费税征收学会“两头堵”了杜涛部分城市时薪逼近最低工资标准网约车司机迎来“强制8小时工作制”田进让国资从“不敢投”到“科学投”蔡越坤不必为错失AI过度焦虑陈白北小王有个种田CEO宋馥李大险企降维打击 中小险企黄昏将至?姜鑫整治“三表”违规亟需长效监管宋馥李新规能解...",
+      "id": "http://baijiahao.baidu.com/s?id=1861969385382056906",
+      "title": "“小案小事”里的温度与速度:重庆大足“治小事”提升..",
+      "summary": "不规范停车、不礼让斑马线、高空抛物、垃圾分类不准确等“小案小事”看似琐碎,却是连接城市形象与居民素养的“毛细血管”。如何推进城市文明建设,考验一座城市的智慧与温度。“群众利益无小事,我们从人民关切、反...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1861969385382056906"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862157433168670110",
+      "title": "华为高级副总裁、引望CEO靳玉志:L3是走向完全自..",
+      "summary": "人民财讯4月11日电,4月11日,智能电动汽车发展高层论坛(2026)举办。论坛现场,华为公司高级副总裁、引望公司CEO靳玉志表示,L3是走向完全自动驾驶L4和L5的必经阶段,没有办法跳过。从安全的视...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862157433168670110"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0411/835354.shtml",
+      "title": "ES8“爆单”后再推ES9 蔚来猛攻豪华行政SUV市场",
+      "summary": "ES8的热销使得蔚来对自身体系能力信心大增。在此背景下,蔚来ES9的目标变得更加明确,即帮助蔚来进一步坐稳电动豪华SUV市场。对蔚来而言,ES9也是检验其十一年造车体系的又一个重要机会。...",
       "source": "Eeo",
+      "date": "2026-04-11",
+      "url": "http://www.eeo.com.cn/2026/0411/835354.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862157715753161353",
+      "title": "滴滴自动驾驶张博:聚焦安全和体验 推动自动驾驶全球..",
+      "summary": "央广网北京4月11日消息(记者刘家怡)4月11日,滴滴自动驾驶公司CEO张博出席2026智能电动汽车发展高层论坛,新一代Robotaxi车型同步亮相。张博在演讲中表示,安全与体验是自动驾驶行稳致远的根...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862157715753161353"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1775876351129706.html",
+      "title": "2025-2026中国企业创新十大行业全景盘点:以全栈协同与落地实效,重构创新评价坐标系",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-11",
+      "url": "https://www.bjnews.com.cn/detail/1775876351129706.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/145.htm",
+      "title": "卓驭 CEO 沈劭劼反驳华为靳玉志:L3 本身没有错,但技术路线上就是要从 L2 直接跨越到 L4",
+      "summary": "IT之家 4 月 11 日消息,在今天的智能电动汽车发展高层论坛(2026)期间,华为智能汽车解决方案 BU CEO 靳玉志表示 L3 是走向完全自动驾驶中无法跳过的必经阶段,2026 年或为全球自动驾驶的元年。 今天下午,卓驭科技(2023 年从大疆分拆独立运营,2024 年 6 月启用现名称)CEO 沈劭劼(IT之家注读音:shěn shào jié)在此次论坛上提出了不同的看法,他更认...",
+      "source": "Ithome",
+      "date": "2026-04-11",
+      "url": "https://www.ithome.com/0/938/145.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1775888906129801.html",
+      "title": "左手华为右手白犀牛,鑫源以实用技术撑起重庆汽车“第三极”",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-11",
+      "url": "https://www.bjnews.com.cn/detail/1775888906129801.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862155355945558494",
+      "title": "赋能新质生产力!中科智云发布工业装备超级智能体,重..",
+      "summary": "东方网记者程琦4月11日报道:重型塔吊能像熟练工一样精准避障,港口装卸船机实现24小时无人化干预......这些曾经科幻的场景,正随着工业具身智能技术的突破变为现实。近日,中科智云科技有限公司正式发布工业装备...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862155355945558494"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/117.htm",
+      "title": "普京要求俄罗斯加速自研有竞争力的 AI 模型,彻底转向国产技术",
+      "summary": "IT之家 4 月 11 日消息,据央视新闻、新华社今日报道,俄罗斯总统普京在当地时间 4 月 10 日召开的人工智能发展问题会议上明确了该国 AI 技术发展方向。 他表示,人工智能与数字平台、自主系统一起,正从根本上重塑经济、社会、教育、医疗、工业和国防等国家的各个方面。 普京表示,俄罗斯必须自主研发并发展人工智能基础模型,这些模型应在全球范围内具有竞争力,并具备最大程度的自主权。 他还强调,大语...",
+      "source": "Ithome",
+      "date": "2026-04-11",
+      "url": "https://www.ithome.com/0/938/117.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862156711733048640",
+      "title": "军情时间到丨中国航母体系作战能力新阶段!福建舰远海..",
+      "summary": "2023年4月,山东舰航母编队首次成体系、成规模远赴西太平洋海域,标志着国产航母正式加入了远海训练序列。今年,我国的第三艘航母福建舰也有望开展远海训练。中国航母的远海征程,可以说是一部从试验平台到实战...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862156711733048640"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/140.htm",
+      "title": "鸿蒙智行问界 M6 预订量突破 10 万台,预售 26.98 万元起",
+      "summary": "IT之家 4 月 11 日消息,鸿蒙智行今日官宣问界 M6 预订量突破 10 万台,预售 26.98 万元起 IT之家注意到,问界 M6 于 3 月 23 日开启预售,新车主打年轻市场并首次全系标配全球量产最高的 896 线双光路激光雷达, 预售价增程版 26.98 万元起、纯电版 28.98 万元起 。 外观方面,问界 M6 提供 7 种活力配色(如星叶紫、流光青)及黑曜运动套件,采用晶耀钻石切...",
+      "source": "Ithome",
+      "date": "2026-04-11",
+      "url": "https://www.ithome.com/0/938/140.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/134.htm",
+      "title": "赛力斯总裁何利扬:问界纯电用户比例大幅提升,辅助驾驶活跃用户超 97.5%",
+      "summary": "IT之家 4 月 11 日消息,智能电动汽车发展高层论坛(2026)今日在北京国家会议中心召开,会议以“推进新能源汽车智能化、绿色化、融合化、国际化发展”为主题。 赛力斯汽车总裁何利扬在此次论坛上透露,五年来问界汽车已获得超过百万用户的选择,累计行驶里程中充电行驶里程占比超过 70%。 他介绍称,问界提供增程与纯电双动力选择,今年以来选择纯电车型的用户比例大幅增加,这也是累计充电行驶里程占比突破 ...",
+      "source": "Ithome",
+      "date": "2026-04-11",
+      "url": "https://www.ithome.com/0/938/134.htm"
+    },
+    {
+      "id": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "title": "TechCrunch is heading to Tokyo - and bringing the Startup Battlefield with it",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...",
+      "source": "TechCrunch",
       "date": "2026-04-10",
-      "url": "http://www.eeo.com.cn/2026/0410/834382.shtml"
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/"
     },
     {
       "id": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins",
@@ -180,6 +205,14 @@
       "url": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22"
     },
     {
+      "id": "https://www.nextbigfuture.com/2026/04/tesla-fsd-supervised-approved-in-netherlands.html",
+      "title": "Tesla FSD Supervised Approved in Netherlands",
+      "summary": "Dutch regulators (RDW), which just approved Tesla FSD (Supervised) in the Netherlands. They have just issued an official statement....",
+      "source": "NextBigFuture.com",
+      "date": "2026-04-10",
+      "url": "https://www.nextbigfuture.com/2026/04/tesla-fsd-supervised-approved-in-netherlands.html"
+    },
+    {
       "id": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
       "title": "2026 Kia CEO Investor Day: Kia to Drive Exponential Growth and Manufacturing Innovation by Expanding Its Full Electrified Vehicle Lineup and Strengthening Future Business Capabilities",
       "summary": "Kia presents its 2030 mid- to long-term strategy, detailing its vehicle- and region-specific exponential growth plansTargets global sales of 4.13 million units per year by 2030, with a global market s...",
@@ -194,6 +227,14 @@
       "source": "Benzinga",
       "date": "2026-04-09",
       "url": "https://www.benzinga.com/markets/tech/26/04/51723627/xpeng-ceo-says-he-cant-wait-to-get-international-media-to-test-companys-autonomous-driving-model"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/51722603/ross-gerber-demands-10k-refund-if-teslas-new-fsd-doesnt-work-unsupervised-says-google-has-solved-autonomy-with-waymo",
+      "title": "Ross Gerber Demands $10K Refund If Tesla's New FSD Doesn't Work 'Unsupervised'-Says Google Has 'Solved' A",
+      "summary": "Ross Gerber says Tesla should offer $10K refunds for FSD if it doesn't work as intended, praising Waymo for solving autonomy....",
+      "source": "Benzinga",
+      "date": "2026-04-09",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51722603/ross-gerber-demands-10k-refund-if-teslas-new-fsd-doesnt-work-unsupervised-says-google-has-solved-autonomy-with-waymo"
     },
     {
       "id": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
@@ -218,14 +259,6 @@
       "source": "The Manila Times",
       "date": "2026-04-08",
       "url": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/ponyai-advances-global-deployment-with-launch-of-europes-first-commercial-robotaxi-service-in-zagreb/2316157"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/ponyais-singapore-av-deployment-enters-by-invite-rides-advancing-dual-engine-strategy/2315226",
-      "title": "Pony.ai's Singapore AV Deployment Enters By-Invite Rides, Advancing Dual-Engine Strategy",
-      "summary": "Received regulatory approval to enter by-invite rides in Singapore, the final phase before public-facing servicesMarks a key milestone in Pony.ai's collaboration with ComfortDelGro and its overseas co...",
-      "source": "The Manila Times",
-      "date": "2026-04-07",
-      "url": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/ponyais-singapore-av-deployment-enters-by-invite-rides-advancing-dual-engine-strategy/2315226"
     }
   ]
 }
