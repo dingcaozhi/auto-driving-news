@@ -1,138 +1,21 @@
 {
-  "lastUpdated": "2026-04-12 03:33:03",
-  "totalCount": 24,
+  "lastUpdated": "2026-04-13 03:40:17",
+  "totalCount": 10,
   "sources": {
-    "Ithome": 2,
-    "News_Baidu": 8,
-    "Zaobao": 2,
-    "Chinanews": 2,
-    "News_Seehua": 1,
+    "Benzinga": 3,
     "TechCrunch": 2,
-    "Benzinga": 2,
     "The Manila Times": 3,
     "MarketScreener": 1,
     "CNET": 1
   },
   "news": [
     {
-      "id": "https://www.ithome.com/0/938/187.htm",
-      "title": "滴滴自动驾驶 CEO 张博:十年积累,已实现 L4 级全栈核心技术的自主可控",
-      "summary": "IT之家 4 月 11 日消息,智能电动汽车发展高层论坛(2026)于 4 月 11 日至 12 日在北京国家会议中心二期举行,主题为“推进新能源汽车智能化、绿色化、融合化、国际化发展”。 滴滴联合创始人、滴滴自动驾驶公司 CEO 张博在此次论坛上发表演讲。他表示,滴滴自动驾驶经过十年发展和技术积累,在 AI 核心技术、车规级硬件体系和海量真实场景三方面实现了关键突破与深度融合。 据介绍,滴滴目前...",
-      "source": "Ithome",
-      "date": "2026-04-11",
-      "url": "https://www.ithome.com/0/938/187.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862067475328447374",
-      "title": "小马智行发布PonyWorld世界模型2.0:可自..",
-      "summary": "4月10日,小马智行正式发布其在物理AI领域的最新技术成果——PonyWorld世界模型2.0。这是自动驾驶核心训练体系的一次重大升级。与1.0相比,2.0最本质的变化在于世界模型具备了自我诊断与定向...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862067475328447374"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862163892548843282",
-      "title": "中国航母体系作战能力新阶段!福建舰远海训练“呼之欲..",
-      "summary": "2023年4月,山东舰航母编队首次成体系、成规模远赴西太平洋海域,标志着国产航母正式加入了远海训练序列。今年,我国的第三艘航母福建舰也有望开展远海训练...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862163892548843282"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862181970493551195",
-      "title": "重庆南开中学校长为南渝初三学子点亮成长之路",
-      "summary": "4月10日,重庆南开中学党委副书记、校长肖力走进南渝中学“梦想加油站”,以“九秩南开,一生热爱”为主题,为初三师生带来一场内容丰富、情真意切的专题讲座。讲座围绕“大美、大爱、大学、大模”四个维度展开,...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862181970493551195"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862169618177609081",
-      "title": "滴滴自动驾驶张博:深耕AI、硬件、场景三大能力 持..",
-      "summary": "央广网北京4月11日消息(记者纪爱玲)4月11日,智能电动汽车发展高层论坛(2026)在北京国家会议中心举办。滴滴联合创始人、滴滴自动驾驶公司CEO张博在演讲中表示,安全与体验是自动驾驶行稳致远的根基...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862169618177609081"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/china/story20260411-8877663",
-      "title": "华为高管:华为以一己之力推动辅助驾驶快速发展",
-      "summary": "NewsData报道",
-      "source": "Zaobao",
-      "date": "2026-04-11",
-      "url": "https://www.zaobao.com.sg/news/china/story20260411-8877663"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-11/10602208.shtml",
-      "title": "滴滴自动驾驶张博:聚焦安全和体验 推动自动驾驶全球化落地",
-      "summary": "4月11日,智能电动汽车发展高层论坛(2026)在北京国家会议中心举办。滴滴联合创始人、滴滴自动驾驶公司CEO张博在演讲中表示,安全与体验是自动驾驶行稳致远的根基,滴滴自动驾驶以混合出行网络探索可持续的发展路径,依托全栈技术能力和本地化服务积累,推动中国自动驾驶产业走向全球。...",
-      "source": "Chinanews",
-      "date": "2026-04-11",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-11/10602208.shtml"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/sea/story20260411-8878129",
-      "title": "新加坡男子新山违规添RON95被抓",
-      "summary": "(新山/吉隆坡综合讯)一名新加坡籍男子在柔佛州新山油站为自己驾驶的新加坡注册车辆添购受管制的RON95汽油,被执法员当场抓获,连人带车被扣。...",
-      "source": "Zaobao",
-      "date": "2026-04-11",
-      "url": "https://www.zaobao.com.sg/news/sea/story20260411-8878129"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862175215470220088",
-      "title": "巨舰列阵向深蓝,三航母时代体系作战能力进入全新阶段",
-      "summary": "2012年9月25日,辽宁舰正式加入人民海军,舷号16。从这一天开始,中国人有了自己的航空母舰。2016年12月至2017年1月,辽宁舰航母编队连续取得重大突破,先是首次进行实际使用武器演习,在渤海进...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862175215470220088"
-    },
-    {
-      "id": "https://news.seehua.com/post/1466967",
-      "title": "陌生男车外徘徊试图开门 女子受惊鸣笛驱赶",
-      "summary": "(吉隆坡11日讯)一名女子在帝帝旺沙(Titiwangsa)一处停车场泊车时,突遭陌生男子试图从外打开车门,令 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-11",
-      "url": "https://news.seehua.com/post/1466967"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/tp/2026/04-11/10602183.shtml",
-      "title": "四川成都科技与竞技演绎空中盛宴",
-      "summary": "图为机器人跳舞吸引民众和孩童围观。中新社记者 刘忠俊 摄 图为学生们体验无人驾驶和无人机穿越飞行。中新社记者 刘忠俊 摄 图为一名外国留学生正在参与无人机投篮比赛项目。中新社记者 刘忠俊 摄 图为无人机击剑比赛现场。中新社记者 刘忠俊 摄 图为两架无人机正在进行举重比赛。中新社记者 刘忠俊 摄 图为无人机投篮比赛极具互动性与观赏性,引来不少民众围观。中新社记者 刘忠俊 摄...",
-      "source": "Chinanews",
-      "date": "2026-04-11",
-      "url": "https://www.chinanews.com.cn/tp/2026/04-11/10602183.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862170865203542406",
-      "title": "爱芯元智创始人仇肖莘:未来两三年国产智驾芯片市占率..",
-      "summary": "“AI计算正从云端加速下沉至边缘与端侧,智能汽车是核心落地场景。”4月11日,爱芯元智创始人、董事长仇肖莘在智能电动汽车发展高层论坛(2026)期间接受《每日经济新闻》记者采访时直言,独立芯片厂商唯有...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862170865203542406"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861969385382056906",
-      "title": "“小案小事”里的温度与速度:重庆大足“治小事”提升..",
-      "summary": "不规范停车、不礼让斑马线、高空抛物、垃圾分类不准确等“小案小事”看似琐碎,却是连接城市形象与居民素养的“毛细血管”。如何推进城市文明建设,考验一座城市的智慧与温度。“群众利益无小事,我们从人民关切、反...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1861969385382056906"
-    },
-    {
-      "id": "https://www.ithome.com/0/938/179.htm",
-      "title": "深蓝 CEO:深蓝汽车 3 月市占率创纪录,多款新车 4 月将亮相",
-      "summary": "IT之家 4 月 11 日消息,今天晚间,深蓝汽车 CEO 姜海荣在微博转发了一则深蓝 S05 获 3 月新能源紧凑型 SUV 销量第一的新闻消息,并配文表示:除了 S05,深蓝其他车型也多点开花全面突破,从行业上险数据来看,2026 年 3 月深蓝汽车全行业市场占有率创下品牌成立以来新纪录。 同时姜海荣透露,4 月,深蓝还有多款新品将和大家见面。 IT之家了解到,基于乘联会近日发布的全行业上险数...",
-      "source": "Ithome",
-      "date": "2026-04-11",
-      "url": "https://www.ithome.com/0/938/179.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862157433168670110",
-      "title": "华为高级副总裁、引望CEO靳玉志:L3是走向完全自..",
-      "summary": "人民财讯4月11日电,4月11日,智能电动汽车发展高层论坛(2026)举办。论坛现场,华为公司高级副总裁、引望公司CEO靳玉志表示,L3是走向完全自动驾驶L4和L5的必经阶段,没有办法跳过。从安全的视...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862157433168670110"
+      "id": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
+      "title": "Gary Black Says Tesla's $30K EV Could Have 'Huge Upside'",
+      "summary": "Gary Black suggested that Tesla's move could reflect challenges in its autonomous driving goals and growing EV competition....",
+      "source": "Benzinga",
+      "date": "2026-04-12",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity"
     },
     {
       "id": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
