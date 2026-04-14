@@ -1,30 +1,127 @@
 {
-  "lastUpdated": "2026-04-14 08:02:39",
-  "totalCount": 37,
+  "lastUpdated": "2026-04-14 03:29:11",
+  "totalCount": 32,
   "sources": {
-    "Bjnews": 1,
-    "News_Baidu": 6,
-    "Fx168News": 1,
-    "Jiemian": 1,
-    "Ithome": 3,
-    "Smzdm": 1,
-    "Orientaldaily": 2,
-    "News_Seehua": 1,
-    "Theportugalnews": 1,
+    "Bilibili": 5,
+    "Bjnews": 3,
+    "News_Baidu": 8,
+    "Cri_Cn": 1,
+    "Chinanews": 1,
+    "Investing_Cn": 3,
+    "Ithome": 1,
+    "Markets Insider": 1,
     "PR Newswire UK": 1,
     "The Japan Times ": 1,
-    "Seeking Alpha": 3,
-    "Benzinga": 5,
-    "TNW": 1,
-    "TechCrunch": 2,
+    "Benzinga": 3,
+    "TechCrunch": 1,
     "The Manila Times": 2,
-    "MarketScreener": 1,
-    "NextBigFuture.com": 1,
-    "Investor's Business Daily": 1,
-    "The Economic Times": 1,
-    "Digital Trends": 1
+    "MarketScreener": 1
   },
   "news": [
+    {
+      "id": "https://www.bilibili.com/video/BV1rXQTBDEJA",
+      "title": "【B站】清华大学李克强：先给自动驾驶泼泼冷水，车路云才是未来！",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-04-14",
+      "url": "https://www.bilibili.com/video/BV1rXQTBDEJA"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1k4Q4BgE8Q",
+      "title": "【B站】自动驾驶好坏是效率表演？ 6款9系旗舰自动驾驶仅一款能完成测试，违章难道是极致追求效率的表现？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-04-14",
+      "url": "https://www.bilibili.com/video/BV1k4Q4BgE8Q"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-04-14",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1JdDyBnEdZ",
+      "title": "【B站】欧阳明高2026.4.11：智能电动汽车发展高层论坛-固态电池&amp;自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-04-14",
+      "url": "https://www.bilibili.com/video/BV1JdDyBnEdZ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
+      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
+      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
+      "source": "Bilibili",
+      "date": "2026-04-14",
+      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776089586169059.html",
+      "title": "13岁河南男孩被村道横绳割断气管续:已转北京救治,警方已介入",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-13",
+      "url": "https://www.bjnews.com.cn/detail/1776089586169059.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862365656580260478",
+      "title": "逐梦海天,英雄母校走出“超少年”——岳阳市第七中学..",
+      "summary": "岳阳市第七中学张超国防班开展国防教育。南国春日,朝阳初升。湛蓝海面上,岳阳舰破浪前行。甲板之上,一群身着迷彩、身姿挺拔的少年列队而立,嘹亮的誓言在海风中回荡——“强军有我,国防有我!”这是今年3月底,...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862365656580260478"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776078403129982.html",
+      "title": "京东否认进军网约车:联合深蓝独家开售新车 涉及“新型”试驾",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-13",
+      "url": "https://www.bjnews.com.cn/detail/1776078403129982.html"
+    },
+    {
+      "id": "https://news.cri.cn/20260413/ee5dfab2-f5cf-154e-9512-f24b9374ad8a.html",
+      "title": "新疆影像7日(222)丨万象争春-国际在线",
+      "summary": "春日新疆,生机盎然。博州戈壁上,万面定日镜绘就新能源图景;兵团田间,农机穿梭,辣椒移栽正忙。智能养殖与科技渔业助力民生,科普活动点亮童心。新疆女篮拼搏赛场,虽获季军尽显风采。库车梨花盛放,游人漫步花间,尽享春光。天山南北,农产兴旺、产业...",
+      "source": "Cri_Cn",
+      "date": "2026-04-13",
+      "url": "https://news.cri.cn/20260413/ee5dfab2-f5cf-154e-9512-f24b9374ad8a.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-13/10603138.shtml",
+      "title": "无人驾驶智能游船航线亮相“湾区之心”广州南沙",
+      "summary": "中新网广州4月13日电 (记者 王坚)据广州市南沙区政府13日消息,广州南沙首条无人驾驶智能游船航线近日正式亮相。该智能游船凭借全自动航行、一体化智慧座舱及多元化娱乐配套,打造出兼具科技感与舒适性的水上出行新方式,成为广州文旅新亮点。...",
+      "source": "Chinanews",
+      "date": "2026-04-13",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-13/10603138.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862357189783190306",
+      "title": "湖南一小伙骑电动车街头“翘头”炫技,被民警当场“硬..",
+      "summary": "驾驶摩电车辆在马路上炫技耍酷你以为这样很帅气、很拉风吗?错!这种行为是违法的!4月10日晚永州一小伙骑行电动车在街头“翘头”耍酷被执勤民警逮个正着4月10日21时许永州市公安局交管支队冷水滩大队正在辖...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862357189783190306"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3308280",
+      "title": "Stifel因广告预算不确定性下调Alphabet目标价",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-13",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3308280"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3308220",
+      "title": "特斯拉(TSLA.US)FSD欧洲破冰!荷兰率先批准撬动欧盟监管大门,万亿估值逻辑迎验证",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-13",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3308220"
+    },
     {
       "id": "https://www.bjnews.com.cn/detail/1776071079129837.html",
       "title": "2025-2026中国洗地机行业深度洞察报告:换挡期的格局重塑与增长新局",
@@ -42,124 +139,68 @@
       "url": "http://baijiahao.baidu.com/s?id=1862068011831450840"
     },
     {
-      "id": "https://www.fx168news.com/article/1014646",
-      "title": "历史新高!储能赛道连日反弹-FX168",
-      "summary": "NewsData报道",
-      "source": "Fx168News",
-      "date": "2026-04-13",
-      "url": "https://www.fx168news.com/article/1014646"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14242850.html",
-      "title": "汽车公司上新越来越多,为何却更难塑造爆款?",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-04-13",
-      "url": "https://www.jiemian.com/article/14242850.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862346083717007450",
-      "title": "我在何处→去向何方!看不见的坐标让人类不再迷失",
-      "summary": "这不仅是一本关于技术的科普著作,更是一部跨越三千年的人类文明史诗。它讲述的是人类如何从蒙昧走向清明,如何在无尽的宇宙迷宫中,从村庄到国家,从地球到太空,不断追问“我在何处”,并奋力找寻“去向何方”的永...",
+      "id": "http://baijiahao.baidu.com/s?id=1862359201253000959",
+      "title": "公交护航音乐节!南京公交浦口客运公司圆满完成音乐嘉..",
+      "summary": "为切实做好4月11日至12日南京江北新区扬子江生态公园(定山城市客厅)乐见潮向音乐嘉年华期间公交接驳保障工作,南京公交浦口客运公司提前谋划、周密部署,以专业高效的服务、科学精准的调度,全力护航乐迷便捷...",
       "source": "News_Baidu",
       "date": "2026-04-13",
-      "url": "http://baijiahao.baidu.com/s?id=1862346083717007450"
+      "url": "http://baijiahao.baidu.com/s?id=1862359201253000959"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862347286730882759",
-      "title": "晟祥物流 ×G7 易流:AI 驱动管理升级,新疆新..",
-      "summary": "在新疆伊犁州和乌鲁木齐,数百台新能源重卡穿梭于矿山、电厂与钢厂之间。这支车队的掌舵人吴总,十年前还是一名奔波在浙江公路上的大货车司机。如今,他已是拥有数百台新能源重卡的物流企业负责人,年运量数百万吨。...",
+      "id": "http://baijiahao.baidu.com/s?id=1862361016410508466",
+      "title": "东华软件:公司设立了“车联网创新中心实验室”,正在..",
+      "summary": "证券日报网4月13日讯,东华软件在接受调研者提问时表示,公司在无人驾驶和车路协同、车路云一体化相关技术方面已有科研团队,并在天津西青、广西柳州等地落地无人驾驶与车路协同项目,实现特定场景的商业...",
       "source": "News_Baidu",
       "date": "2026-04-13",
-      "url": "http://baijiahao.baidu.com/s?id=1862347286730882759"
+      "url": "http://baijiahao.baidu.com/s?id=1862361016410508466"
     },
     {
-      "id": "https://www.ithome.com/0/938/690.htm",
-      "title": "全球首次吨级 eVTOL 夜间消防演练完成,相比地面消防力量出警节约至少 1 小时",
-      "summary": "IT之家 4 月 13 日消息,峰飞航空昨晚宣布,其在 4 月 10 日联合贵州省民航低空公司、贵州省森林航空护林总站、中国铁塔贵州分公司、南方电网贵州送变电工程公司、修文县人民政府,在贵州省森林航空护林总站及周边林区 完成了全球首次夜间山区吨级 eVTOL 综合应急演练 。 据介绍,峰飞航空 V2000CGF 凯瑞鸥消防版机型 V2000CGF 在此次演练中接到指令后,凭借无人驾驶与精准导航能力...",
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3308371",
+      "title": "Wrap Technologies启动无人机捕获研发项目",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-13",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3308371"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862363130928900199",
+      "title": "“AI检察官”辅助办案1.3万余起 上海数字检察用..",
+      "summary": "醉酒驾车引发追尾事故后,驾驶人主动报警并在现场等候,案件移送审查起诉时却仅被认定为坦白。这起危险驾驶案的量刑情节认定,因一套智能办案系统出现了关键转折。在上海检察辅助办案多智能体的提示下,办案检察官及...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862363130928900199"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862361371749918785",
+      "title": "德赛西威递表港交所:半年前完成近44亿元定增且手握..",
+      "summary": "深交所主板上市公司德赛西威(SZ002920,股价105.75元,市值631.13亿元)日前向港交所递交了上市申请文件,摩根士丹利与华泰国际为联席保荐人。招股书(草拟版本,下同)数据显示,在智能汽车领...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862361371749918785"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862334230983165729",
+      "title": "卓驭科技沈劭劼:未来存活下来的智驾公司都将转型为移..",
+      "summary": "在日前举行的智能电动汽车发展高层论坛2026上,深圳市卓驭科技有限公司(简称“卓驭科技”)CEO沈劭劼发表主题演讲时表示,面向未来5年的行业竞争,智能驾驶只是物理AI的初始形态,绝非终局,未来存活下来...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862334230983165729"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/710.htm",
+      "title": "12.99 万元起,奇瑞风云 T9L 汽车正式上市",
+      "summary": "IT之家 4 月 13 日消息,在今天的发布会中,奇瑞汽车风云 T9L 大五座 SUV 正式上市,配备猎鹰 700+ 智能辅助驾驶系统、地平线征程 6P 芯片等, 官方指导价区间 12.99-18.69 万元;抢先置换价区间 12.59-18.29 万元 。 该车采用“东方美学”设计,提供山烟紫、沁湖蓝、丹霞黑、雪岭白、石林灰、鸣沙翠等配色可选,车头匹配“点墨大灯”,车身使用传统造型门把手,匹配银...",
       "source": "Ithome",
       "date": "2026-04-13",
-      "url": "https://www.ithome.com/0/938/690.htm"
+      "url": "https://www.ithome.com/0/938/710.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/a035rpx8/",
-      "title": "20个必知的PyTorch概念简单解释,带你快速入门",
-      "summary": "PyTorch 是当前深度学习领域应用最为广泛的框架之一,由 Meta 基于 Torch 库开发并于 2017 年开源。从特斯拉自动驾驶到 OpenAI 的 ChatGPT,现代 AI 创新大多基于此构建。理解 PyTorch 的核心概念,是掌握深度学习......",
-      "source": "Smzdm",
+      "id": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059",
+      "title": "NATIX Joins Autoware to Supply Multi-Camera Data to Build Open-Source End-to-End Autonomous Driving Model",
+      "summary": "Hamburg, Germany, April 13th, 2026, FinanceWireAs a Premium Member, NATIX will provide large-scale multi-camera driving data ......",
+      "source": "Markets Insider",
       "date": "2026-04-13",
-      "url": "https://post.smzdm.com/p/a035rpx8/"
-    },
-    {
-      "id": "https://www.ithome.com/0/938/679.htm",
-      "title": "深蓝 L06 增程版官宣“发车”,将搭载 300 万法拉利同款磁流变悬架",
-      "summary": "IT之家 4 月 13 日消息,今日,在国民好车 2.0 战略合作签约仪式上, 京东宣布与深蓝汽车达成深度合作 ,将推出深蓝 L06 增程版,京东将提供新车的独家销售以及数字化购车等服务。 IT之家注意到,深蓝汽车官方刚刚发文,深蓝 L06 增程版正式官宣“发车”(开启盲订 / 试驾)。新车号称“黄金比例后驱轿跑”,自动尾翼随速多档升降; 将搭载 300 万法拉利同款磁流变悬架 ,宣称“过坎如熨烫...",
-      "source": "Ithome",
-      "date": "2026-04-13",
-      "url": "https://www.ithome.com/0/938/679.htm"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/business/2026/04/13/811045",
-      "title": "落笔签下包销协议 北马半导体公司主板挂牌",
-      "summary": "(吉隆坡13日讯)槟城集成电路(IC)设计公司——赛凯智半导体(SkyeChip)宣布,与马银行投行及联昌投行签署包销协议,启动在交易所主板上市计划。赛凯智半导体发文告指出,将通过首次公开售股(IPO)发行4亿股新股,占扩大后已发行股本的22.3%。在所发行的1亿3533万股中,3592万股保留予大马公众;9941万股保留予符合资格的董事、员工及对公司有功人士认购;馀下2亿6467万股则保留予机构...",
-      "source": "Orientaldaily",
-      "date": "2026-04-13",
-      "url": "https://www.orientaldaily.com.my/news/business/2026/04/13/811045"
-    },
-    {
-      "id": "https://news.seehua.com/post/1467929",
-      "title": "国产赛佳被摩多追尾撞击 2男骑士当场毙命",
-      "summary": "(亚庇13日1讯)凌晨时分,一辆国产赛佳被摩多追尾撞击,导致摩多2男骑士当场毙命。 这起死亡车祸在凌晨4时40 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-13",
-      "url": "https://news.seehua.com/post/1467929"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/international/2026/04/13/811041",
-      "title": "应对中东战争推高能源价格 德国将削减燃油税",
-      "summary": "(柏林13日讯)德国总理默茨周一表示,由于家庭正面临中东战争带来的能源冲击,德国将大幅削减燃油税,同时警告称,这场冲突将产生长期的经济影响。法新社报导,在此声明发布之前,随著美伊和平谈判破裂以及美国总统特朗普决定封锁霍尔木兹海峡,石油价格再次飙升。默茨表示,这场战争是“我们国家面临问题的根源”,并强调柏林正竭尽所能尝试结束冲突。默茨表示,在与其执政联盟伙伴进行磋商后,政府已决定将汽油和柴油的税率下...",
-      "source": "Orientaldaily",
-      "date": "2026-04-13",
-      "url": "https://www.orientaldaily.com.my/news/international/2026/04/13/811041"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862344769009415426",
-      "title": "齐鲁银行:向创而兴,“十五五”有“数”亦有“速”",
-      "summary": "3月13日上午,济南市“项目赋能强省会”企业家系列记者见面会为齐鲁大地带来了一段新的齐鲁叙事。山东柔克智能科技有限公司董事长兼总经理傅孟潮是参会企业家,记者在会前见到他,听他讲述了政府和银行如何帮助企...",
-      "source": "News_Baidu",
-      "date": "2026-04-13",
-      "url": "http://baijiahao.baidu.com/s?id=1862344769009415426"
-    },
-    {
-      "id": "https://www.ithome.com/0/938/624.htm",
-      "title": "小鹏 MONA M03 汽车累计交付突破 25 万台",
-      "summary": "IT之家 4 月 13 日消息, 小鹏官方今天在微博宣布 MONA M03 汽车累计交付突破 25 万台 ,连续 18 个月 10-20 完纯电轿车销冠。 作为参考,2026 款小鹏 MONA M03 已在本月初上市。新车在细节方面进行了调整,新增罗兰紫、牛油果绿两款配色。内饰整体延续了在售车型的设计,但对部分细节进行了优化,前排双杯架位置后移,手机无线充电功能前置,中央扶手下部区域采用镂空设计以...",
-      "source": "Ithome",
-      "date": "2026-04-13",
-      "url": "https://www.ithome.com/0/938/624.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862342665574049566",
-      "title": "西班牙首相桑切斯到访小米科技园,体验小米新SU7、..",
-      "summary": "极目新闻通讯员王达迈4月13日,正在中国进行正式访问的西班牙首相桑切斯一行到访位于北京的小米科技园。小米集团创始人、董事长兼CEO雷军陪同桑切斯首相参观小米科技展厅,并介绍小米的业务布局及在欧洲市场的...",
-      "source": "News_Baidu",
-      "date": "2026-04-13",
-      "url": "http://baijiahao.baidu.com/s?id=1862342665574049566"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862346505007454363",
-      "title": "西班牙首相现身小米科技园 雷军全程陪同讲解!",
-      "summary": "四年四次访华的西班牙首相桑切斯,13日到访清华和中科院后,又现身小米科技园,雷军全程陪同讲解,带他体验中国新能源汽车和智能家居!桑切斯在参观中对中国新能源汽车表现出了浓厚兴趣,连连提问还坐上驾驶座亲身...",
-      "source": "News_Baidu",
-      "date": "2026-04-13",
-      "url": "http://baijiahao.baidu.com/s?id=1862346505007454363"
-    },
-    {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-04-13/petition-aims-to-ban-drivers-over-75-in-portugal/1006381",
-      "title": "请愿书旨在禁止葡萄牙 75 岁以上的司机开车",
-      "summary": "NewsData报道",
-      "source": "Theportugalnews",
-      "date": "2026-04-13",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-04-13/petition-aims-to-ban-drivers-over-75-in-portugal/1006381"
+      "url": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-achieves-aspice-cl2-certification-strengthening-global-rd-platform-and-readiness-for-international-collaboration-302740111.html",
@@ -178,44 +219,12 @@
       "url": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/"
     },
     {
-      "id": "https://seekingalpha.com/article/4890174-wall-street-breakfast-podcast-flight-cuts-deepen-on-fuel-shock",
-      "title": "Wall Street Breakfast Podcast: Flight Cuts Deepen Oil Shock",
-      "summary": "Airlines cut global schedules as Iran-driven energy shock ripples into May. Tesla wins first European approval for FSD supervised. GSK bets big on cancer comeback with aggressive trial push....",
-      "source": "Seeking Alpha",
-      "date": "2026-04-13",
-      "url": "https://seekingalpha.com/article/4890174-wall-street-breakfast-podcast-flight-cuts-deepen-on-fuel-shock"
-    },
-    {
-      "id": "https://seekingalpha.com/news/4574286-tesla-wins-first-european-approval-for-fsd-supervised",
-      "title": "Tesla wins first European approval for FSD supervised",
-      "summary": "Dutch regulators approve Tesla FSD Supervised for roads—an EU first. Learn what it means for TSLA growth, EU rollout, and sales recovery....",
-      "source": "Seeking Alpha",
-      "date": "2026-04-13",
-      "url": "https://seekingalpha.com/news/4574286-tesla-wins-first-european-approval-for-fsd-supervised"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51771868/tesla-fsd-expansion-more-countries-dutch-approval-elluswamy",
-      "title": "Ashok Elluswamy Hints Tesla FSD Could Expand To 'Lot More Countries' After Elon Musk-Led Company Gets Dut",
-      "summary": "Tesla's AI chief hints at FSD expansion into other countries following its approval by the Netherlands Vehicle Authority....",
-      "source": "Benzinga",
-      "date": "2026-04-13",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51771868/tesla-fsd-expansion-more-countries-dutch-approval-elluswamy"
-    },
-    {
       "id": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
       "title": "Gary Black Says Tesla's $30K EV Could Have 'Huge Upside'",
       "summary": "Gary Black suggested that Tesla's move could reflect challenges in its autonomous driving goals and growing EV competition....",
       "source": "Benzinga",
       "date": "2026-04-12",
       "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity"
-    },
-    {
-      "id": "https://thenextweb.com/news/tesla-fsd-supervised-netherlands-europe",
-      "title": "The Netherlands becomes the first European country to approve Tesla’s FSD Supervised",
-      "summary": "RDW approved Tesla's Full Self-Driving Supervised on 10 April 2026, opening a pathway to Germany, France, Italy, and EU-wide approval by summer 2026....",
-      "source": "TNW",
-      "date": "2026-04-12",
-      "url": "https://thenextweb.com/news/tesla-fsd-supervised-netherlands-europe"
     },
     {
       "id": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
@@ -248,22 +257,6 @@
       "source": "MarketScreener",
       "date": "2026-04-10",
       "url": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22"
-    },
-    {
-      "id": "https://www.nextbigfuture.com/2026/04/tesla-fsd-supervised-approved-in-netherlands.html",
-      "title": "Tesla FSD Supervised Approved in Netherlands",
-      "summary": "Dutch regulators (RDW), which just approved Tesla FSD (Supervised) in the Netherlands. They have just issued an official statement....",
-      "source": "NextBigFuture.com",
-      "date": "2026-04-10",
-      "url": "https://www.nextbigfuture.com/2026/04/tesla-fsd-supervised-approved-in-netherlands.html"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
-      "title": "2026 Kia CEO Investor Day: Kia to Drive Exponential Growth and Manufacturing Innovation by Expanding Its Full Electrified Vehicle Lineup and Strengthening Future Business Capabilities",
-      "summary": "Kia presents its 2030 mid- to long-term strategy, detailing its vehicle- and region-specific exponential growth plansTargets global sales of 4.13 million units per year by 2030, with a global market s...",
-      "source": "The Manila Times",
-      "date": "2026-04-09",
-      "url": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039"
     }
   ]
 }
