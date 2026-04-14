@@ -1,14 +1,206 @@
 {
-  "lastUpdated": "2026-04-13 03:40:17",
-  "totalCount": 10,
+  "lastUpdated": "2026-04-14 08:02:39",
+  "totalCount": 37,
   "sources": {
-    "Benzinga": 3,
+    "Bjnews": 1,
+    "News_Baidu": 6,
+    "Fx168News": 1,
+    "Jiemian": 1,
+    "Ithome": 3,
+    "Smzdm": 1,
+    "Orientaldaily": 2,
+    "News_Seehua": 1,
+    "Theportugalnews": 1,
+    "PR Newswire UK": 1,
+    "The Japan Times ": 1,
+    "Seeking Alpha": 3,
+    "Benzinga": 5,
+    "TNW": 1,
     "TechCrunch": 2,
-    "The Manila Times": 3,
+    "The Manila Times": 2,
     "MarketScreener": 1,
-    "CNET": 1
+    "NextBigFuture.com": 1,
+    "Investor's Business Daily": 1,
+    "The Economic Times": 1,
+    "Digital Trends": 1
   },
   "news": [
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776071079129837.html",
+      "title": "2025-2026中国洗地机行业深度洞察报告:换挡期的格局重塑与增长新局",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-13",
+      "url": "https://www.bjnews.com.cn/detail/1776071079129837.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862068011831450840",
+      "title": "山东港口日照港全自动化集装箱码头的“配送员”不一般",
+      "summary": "碧海蓝天,码头繁忙。高大的桥吊一字排开,舒展长臂,精准地从船上抓取一个个集装箱,稳稳地放在智能导引运输车IGV上,这些颜色鲜亮、形似“平板车”的IGV沿着规划路线有序穿行,自动完成集装箱转运。“静谧又...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862068011831450840"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1014646",
+      "title": "历史新高!储能赛道连日反弹-FX168",
+      "summary": "NewsData报道",
+      "source": "Fx168News",
+      "date": "2026-04-13",
+      "url": "https://www.fx168news.com/article/1014646"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14242850.html",
+      "title": "汽车公司上新越来越多,为何却更难塑造爆款?",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-04-13",
+      "url": "https://www.jiemian.com/article/14242850.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862346083717007450",
+      "title": "我在何处→去向何方!看不见的坐标让人类不再迷失",
+      "summary": "这不仅是一本关于技术的科普著作,更是一部跨越三千年的人类文明史诗。它讲述的是人类如何从蒙昧走向清明,如何在无尽的宇宙迷宫中,从村庄到国家,从地球到太空,不断追问“我在何处”,并奋力找寻“去向何方”的永...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862346083717007450"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862347286730882759",
+      "title": "晟祥物流 ×G7 易流:AI 驱动管理升级,新疆新..",
+      "summary": "在新疆伊犁州和乌鲁木齐,数百台新能源重卡穿梭于矿山、电厂与钢厂之间。这支车队的掌舵人吴总,十年前还是一名奔波在浙江公路上的大货车司机。如今,他已是拥有数百台新能源重卡的物流企业负责人,年运量数百万吨。...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862347286730882759"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/690.htm",
+      "title": "全球首次吨级 eVTOL 夜间消防演练完成,相比地面消防力量出警节约至少 1 小时",
+      "summary": "IT之家 4 月 13 日消息,峰飞航空昨晚宣布,其在 4 月 10 日联合贵州省民航低空公司、贵州省森林航空护林总站、中国铁塔贵州分公司、南方电网贵州送变电工程公司、修文县人民政府,在贵州省森林航空护林总站及周边林区 完成了全球首次夜间山区吨级 eVTOL 综合应急演练 。 据介绍,峰飞航空 V2000CGF 凯瑞鸥消防版机型 V2000CGF 在此次演练中接到指令后,凭借无人驾驶与精准导航能力...",
+      "source": "Ithome",
+      "date": "2026-04-13",
+      "url": "https://www.ithome.com/0/938/690.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a035rpx8/",
+      "title": "20个必知的PyTorch概念简单解释,带你快速入门",
+      "summary": "PyTorch 是当前深度学习领域应用最为广泛的框架之一,由 Meta 基于 Torch 库开发并于 2017 年开源。从特斯拉自动驾驶到 OpenAI 的 ChatGPT,现代 AI 创新大多基于此构建。理解 PyTorch 的核心概念,是掌握深度学习......",
+      "source": "Smzdm",
+      "date": "2026-04-13",
+      "url": "https://post.smzdm.com/p/a035rpx8/"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/679.htm",
+      "title": "深蓝 L06 增程版官宣“发车”,将搭载 300 万法拉利同款磁流变悬架",
+      "summary": "IT之家 4 月 13 日消息,今日,在国民好车 2.0 战略合作签约仪式上, 京东宣布与深蓝汽车达成深度合作 ,将推出深蓝 L06 增程版,京东将提供新车的独家销售以及数字化购车等服务。 IT之家注意到,深蓝汽车官方刚刚发文,深蓝 L06 增程版正式官宣“发车”(开启盲订 / 试驾)。新车号称“黄金比例后驱轿跑”,自动尾翼随速多档升降; 将搭载 300 万法拉利同款磁流变悬架 ,宣称“过坎如熨烫...",
+      "source": "Ithome",
+      "date": "2026-04-13",
+      "url": "https://www.ithome.com/0/938/679.htm"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/business/2026/04/13/811045",
+      "title": "落笔签下包销协议 北马半导体公司主板挂牌",
+      "summary": "(吉隆坡13日讯)槟城集成电路(IC)设计公司——赛凯智半导体(SkyeChip)宣布,与马银行投行及联昌投行签署包销协议,启动在交易所主板上市计划。赛凯智半导体发文告指出,将通过首次公开售股(IPO)发行4亿股新股,占扩大后已发行股本的22.3%。在所发行的1亿3533万股中,3592万股保留予大马公众;9941万股保留予符合资格的董事、员工及对公司有功人士认购;馀下2亿6467万股则保留予机构...",
+      "source": "Orientaldaily",
+      "date": "2026-04-13",
+      "url": "https://www.orientaldaily.com.my/news/business/2026/04/13/811045"
+    },
+    {
+      "id": "https://news.seehua.com/post/1467929",
+      "title": "国产赛佳被摩多追尾撞击 2男骑士当场毙命",
+      "summary": "(亚庇13日1讯)凌晨时分,一辆国产赛佳被摩多追尾撞击,导致摩多2男骑士当场毙命。 这起死亡车祸在凌晨4时40 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-13",
+      "url": "https://news.seehua.com/post/1467929"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/international/2026/04/13/811041",
+      "title": "应对中东战争推高能源价格 德国将削减燃油税",
+      "summary": "(柏林13日讯)德国总理默茨周一表示,由于家庭正面临中东战争带来的能源冲击,德国将大幅削减燃油税,同时警告称,这场冲突将产生长期的经济影响。法新社报导,在此声明发布之前,随著美伊和平谈判破裂以及美国总统特朗普决定封锁霍尔木兹海峡,石油价格再次飙升。默茨表示,这场战争是“我们国家面临问题的根源”,并强调柏林正竭尽所能尝试结束冲突。默茨表示,在与其执政联盟伙伴进行磋商后,政府已决定将汽油和柴油的税率下...",
+      "source": "Orientaldaily",
+      "date": "2026-04-13",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/04/13/811041"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862344769009415426",
+      "title": "齐鲁银行:向创而兴,“十五五”有“数”亦有“速”",
+      "summary": "3月13日上午,济南市“项目赋能强省会”企业家系列记者见面会为齐鲁大地带来了一段新的齐鲁叙事。山东柔克智能科技有限公司董事长兼总经理傅孟潮是参会企业家,记者在会前见到他,听他讲述了政府和银行如何帮助企...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862344769009415426"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/624.htm",
+      "title": "小鹏 MONA M03 汽车累计交付突破 25 万台",
+      "summary": "IT之家 4 月 13 日消息, 小鹏官方今天在微博宣布 MONA M03 汽车累计交付突破 25 万台 ,连续 18 个月 10-20 完纯电轿车销冠。 作为参考,2026 款小鹏 MONA M03 已在本月初上市。新车在细节方面进行了调整,新增罗兰紫、牛油果绿两款配色。内饰整体延续了在售车型的设计,但对部分细节进行了优化,前排双杯架位置后移,手机无线充电功能前置,中央扶手下部区域采用镂空设计以...",
+      "source": "Ithome",
+      "date": "2026-04-13",
+      "url": "https://www.ithome.com/0/938/624.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862342665574049566",
+      "title": "西班牙首相桑切斯到访小米科技园,体验小米新SU7、..",
+      "summary": "极目新闻通讯员王达迈4月13日,正在中国进行正式访问的西班牙首相桑切斯一行到访位于北京的小米科技园。小米集团创始人、董事长兼CEO雷军陪同桑切斯首相参观小米科技展厅,并介绍小米的业务布局及在欧洲市场的...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862342665574049566"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862346505007454363",
+      "title": "西班牙首相现身小米科技园 雷军全程陪同讲解!",
+      "summary": "四年四次访华的西班牙首相桑切斯,13日到访清华和中科院后,又现身小米科技园,雷军全程陪同讲解,带他体验中国新能源汽车和智能家居!桑切斯在参观中对中国新能源汽车表现出了浓厚兴趣,连连提问还坐上驾驶座亲身...",
+      "source": "News_Baidu",
+      "date": "2026-04-13",
+      "url": "http://baijiahao.baidu.com/s?id=1862346505007454363"
+    },
+    {
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-04-13/petition-aims-to-ban-drivers-over-75-in-portugal/1006381",
+      "title": "请愿书旨在禁止葡萄牙 75 岁以上的司机开车",
+      "summary": "NewsData报道",
+      "source": "Theportugalnews",
+      "date": "2026-04-13",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-04-13/petition-aims-to-ban-drivers-over-75-in-portugal/1006381"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-achieves-aspice-cl2-certification-strengthening-global-rd-platform-and-readiness-for-international-collaboration-302740111.html",
+      "title": "Inceptio Technology Achieves ASPICE CL2 Certification, Strengthening Global R&D Platform and Readiness for International Collaboration",
+      "summary": "/PRNewswire/ -- Inceptio Technology (\"Inceptio\" or the \"Company\"), a leading developer of autonomous driving technologies for trucks, has achieved Automotive......",
+      "source": "PR Newswire UK",
+      "date": "2026-04-13",
+      "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-achieves-aspice-cl2-certification-strengthening-global-rd-platform-and-readiness-for-international-collaboration-302740111.html"
+    },
+    {
+      "id": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/",
+      "title": "Aichi Prefecture eyes Japan's first Level 4 autonomous expressway bus service",
+      "summary": "Aichi Prefecture aims to put buses with Level 4 autonomous driving, in which a vehicle can operate without a driver under specific conditions, into practical use in fiscal 2027....",
+      "source": "The Japan Times ",
+      "date": "2026-04-13",
+      "url": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/"
+    },
+    {
+      "id": "https://seekingalpha.com/article/4890174-wall-street-breakfast-podcast-flight-cuts-deepen-on-fuel-shock",
+      "title": "Wall Street Breakfast Podcast: Flight Cuts Deepen Oil Shock",
+      "summary": "Airlines cut global schedules as Iran-driven energy shock ripples into May. Tesla wins first European approval for FSD supervised. GSK bets big on cancer comeback with aggressive trial push....",
+      "source": "Seeking Alpha",
+      "date": "2026-04-13",
+      "url": "https://seekingalpha.com/article/4890174-wall-street-breakfast-podcast-flight-cuts-deepen-on-fuel-shock"
+    },
+    {
+      "id": "https://seekingalpha.com/news/4574286-tesla-wins-first-european-approval-for-fsd-supervised",
+      "title": "Tesla wins first European approval for FSD supervised",
+      "summary": "Dutch regulators approve Tesla FSD Supervised for roads—an EU first. Learn what it means for TSLA growth, EU rollout, and sales recovery....",
+      "source": "Seeking Alpha",
+      "date": "2026-04-13",
+      "url": "https://seekingalpha.com/news/4574286-tesla-wins-first-european-approval-for-fsd-supervised"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/51771868/tesla-fsd-expansion-more-countries-dutch-approval-elluswamy",
+      "title": "Ashok Elluswamy Hints Tesla FSD Could Expand To 'Lot More Countries' After Elon Musk-Led Company Gets Dut",
+      "summary": "Tesla's AI chief hints at FSD expansion into other countries following its approval by the Netherlands Vehicle Authority....",
+      "source": "Benzinga",
+      "date": "2026-04-13",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51771868/tesla-fsd-expansion-more-countries-dutch-approval-elluswamy"
+    },
     {
       "id": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
       "title": "Gary Black Says Tesla's $30K EV Could Have 'Huge Upside'",
@@ -16,6 +208,14 @@
       "source": "Benzinga",
       "date": "2026-04-12",
       "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity"
+    },
+    {
+      "id": "https://thenextweb.com/news/tesla-fsd-supervised-netherlands-europe",
+      "title": "The Netherlands becomes the first European country to approve Tesla’s FSD Supervised",
+      "summary": "RDW approved Tesla's Full Self-Driving Supervised on 10 April 2026, opening a pathway to Germany, France, Italy, and EU-wide approval by summer 2026....",
+      "source": "TNW",
+      "date": "2026-04-12",
+      "url": "https://thenextweb.com/news/tesla-fsd-supervised-netherlands-europe"
     },
     {
       "id": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
@@ -50,44 +250,20 @@
       "url": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22"
     },
     {
+      "id": "https://www.nextbigfuture.com/2026/04/tesla-fsd-supervised-approved-in-netherlands.html",
+      "title": "Tesla FSD Supervised Approved in Netherlands",
+      "summary": "Dutch regulators (RDW), which just approved Tesla FSD (Supervised) in the Netherlands. They have just issued an official statement....",
+      "source": "NextBigFuture.com",
+      "date": "2026-04-10",
+      "url": "https://www.nextbigfuture.com/2026/04/tesla-fsd-supervised-approved-in-netherlands.html"
+    },
+    {
       "id": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
       "title": "2026 Kia CEO Investor Day: Kia to Drive Exponential Growth and Manufacturing Innovation by Expanding Its Full Electrified Vehicle Lineup and Strengthening Future Business Capabilities",
       "summary": "Kia presents its 2030 mid- to long-term strategy, detailing its vehicle- and region-specific exponential growth plansTargets global sales of 4.13 million units per year by 2030, with a global market s...",
       "source": "The Manila Times",
       "date": "2026-04-09",
       "url": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51723627/xpeng-ceo-says-he-cant-wait-to-get-international-media-to-test-companys-autonomous-driving-model",
-      "title": "Xpeng CEO Says He 'Can't Wait' To Get International Media To Test Company's Autonomous Driving Model",
-      "summary": "XPENG CEO invites international media to test VLA 2.0 driving system, showcasing its advanced technology and build global credibility....",
-      "source": "Benzinga",
-      "date": "2026-04-09",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51723627/xpeng-ceo-says-he-cant-wait-to-get-international-media-to-test-companys-autonomous-driving-model"
-    },
-    {
-      "id": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
-      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
-      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness....",
-      "source": "TechCrunch",
-      "date": "2026-04-08",
-      "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/"
-    },
-    {
-      "id": "https://www.cnet.com/roadshow/news/uber-volkswagen-self-driving-vehicles-start-on-road-testing/",
-      "title": "Uber and Volkswagen's Self-Driving Vans Are Hitting the Streets. Here's When You Can Ride",
-      "summary": "The companies are starting on-road testing of the autonomous ID Buzz vehicle in Los Angeles....",
-      "source": "CNET",
-      "date": "2026-04-08",
-      "url": "https://www.cnet.com/roadshow/news/uber-volkswagen-self-driving-vehicles-start-on-road-testing/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/ponyai-advances-global-deployment-with-launch-of-europes-first-commercial-robotaxi-service-in-zagreb/2316157",
-      "title": "Pony.ai Advances Global Deployment with Launch of Europe's First Commercial Robotaxi Service in Zagreb",
-      "summary": "Members of the public can now book rides through the Verne app in Zagreb, Croatia, with Uber app integration to followThe launch marks a new milestone in Pony.ai's dual-engine growth strategyZAGREB, C...",
-      "source": "The Manila Times",
-      "date": "2026-04-08",
-      "url": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/ponyai-advances-global-deployment-with-launch-of-europes-first-commercial-robotaxi-service-in-zagreb/2316157"
     }
   ]
 }
