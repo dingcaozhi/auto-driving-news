@@ -1,83 +1,127 @@
 {
-  "lastUpdated": "2026-04-15 08:02:12",
-  "totalCount": 42,
+  "lastUpdated": "2026-04-15 03:27:46",
+  "totalCount": 27,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 2,
-    "Prnasia": 1,
-    "News_Baidu": 9,
-    "Fx168News": 2,
+    "News_Baidu": 7,
+    "Chinanews": 2,
     "Ithome": 2,
-    "China_Hani_Co_Kr": 1,
+    "Investing_Cn": 3,
+    "Fx168News": 1,
+    "Bjnews": 1,
+    "Imobile": 1,
     "Japan Today": 1,
-    "Benzinga": 4,
-    "Markets Insider": 2,
+    "Markets Insider": 1,
     "PR Newswire UK": 1,
     "The Japan Times ": 1,
-    "Seeking Alpha": 3,
-    "TechRadar": 1,
-    "MarketScreener": 2,
-    "TNW": 1,
+    "Benzinga": 2,
     "TechCrunch": 1,
     "The Manila Times": 2,
-    "NextBigFuture.com": 1
+    "MarketScreener": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-04-15",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-04-15",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1FAQvBfEMk",
-      "title": "【B站】2026自动驾驶算法工程师的必会算法：基于激光雷达的3D点云目标检测算法！AI大佬手把手带你从原理入门到项目实战！全篇通俗易懂！附完整数据集！AI/计算机视觉",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-04-15",
-      "url": "https://www.bilibili.com/video/BV1FAQvBfEMk"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-04-15",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-04-15",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4q2n2gl/",
-      "title": "帕萨特 Pro 车主们看过来👀",
-      "summary": "帕萨特Pro配备了半自动驾驶辅助系统、自适应巡航以及限速器功能,旨在提升长途驾驶的舒适性与安全性。这三项功能在控制权限和适用场景上存在明确区分,掌握正确的操作逻辑有助于更高效地使用车辆辅助系统。01核心功能区分三大驾驶辅助功能对比半自动驾驶辅助系统控制车......",
-      "source": "Smzdm",
+      "id": "http://baijiahao.baidu.com/s?id=1862415266188504621",
+      "title": "调查|北京桥下空间停车场收费为何差这么多?记者探访",
+      "summary": "北京桥下空间整治提升三年行动(2024-2026年)进入收官之年,城市边角闲置空间被盘活,大批桥下停车场建成投用,为破解城区“停车难”开辟了新路径。“桥下停车场收费贵不贵?”“有居民优惠吗?”针对市民...",
+      "source": "News_Baidu",
       "date": "2026-04-14",
-      "url": "https://post.smzdm.com/p/a4q2n2gl/"
+      "url": "http://baijiahao.baidu.com/s?id=1862415266188504621"
     },
     {
-      "id": "https://www.prnasia.com/story/528974-1.shtml",
-      "title": "源自米兰设计,专为欧洲打造:广汽正式首发AION UT纯电掀背车",
-      "summary": "米兰 2026年4月14日 /美通社/ -- 今日,广汽在\"欧洲设计之都\"米兰 正式 发布了AION纯电家族的第二款全球化车型:纯电智能掀背车 AION UT。该车型由广汽自主研发,并由广汽米兰设计中心倾力共创设计。今年二季度,AION UT 将率先登陆芬兰、希腊、波兰和葡萄牙市场,并于第三季度全面推向欧洲其他国家。 AION UT 完美融合了先锋现代设计、越级宽适座舱以及前沿的智能与安全科技。新...",
-      "source": "Prnasia",
+      "id": "http://baijiahao.baidu.com/s?id=1862455177358962805",
+      "title": "红星观察丨中国网络视听大会首设招聘会,触发成都产业..",
+      "summary": "在中国网络视听大会与成都迎来第十三次相约之际,一场前所未有的校园招聘会首次与盛会同期绽放。4月14日,中国网络视听大会校园招聘会的线下招聘在世纪城国际会议中心正式启动。优酷、腾讯、抖音、B站、快手等7...",
+      "source": "News_Baidu",
       "date": "2026-04-14",
-      "url": "https://www.prnasia.com/story/528974-1.shtml"
+      "url": "http://baijiahao.baidu.com/s?id=1862455177358962805"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-14/10603817.shtml",
+      "title": "青藏高原最大编组站五年中转运输货物近2亿吨",
+      "summary": "中新社西宁4月14日电 (祁增蓓 )中国铁路青藏集团有限公司格尔木车务段14日发布消息称,自2021年4月15日启用至今,青藏高原最大编组站——格尔木南站五年累计中转货物近2亿吨。...",
+      "source": "Chinanews",
+      "date": "2026-04-14",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-14/10603817.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-14/10603725.shtml",
+      "title": "4月起北京启动常态化严打跨省“黑车”行动",
+      "summary": "中新网北京4月14日电 (记者 吕少威)4月13日6时,来自北京市交通运输执法总队、朝阳与通州两区治安、交管及交通执法部门的30名执法人员已整装就位。在白庙南综合检查站内,执法人员紧盯进京方向,对通过大数据筛查发现的高频通行车辆、临牌及无牌车辆逐一拦停、仔细核查。...",
+      "source": "Chinanews",
+      "date": "2026-04-14",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-14/10603725.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/939/148.htm",
+      "title": "全球首个“自动驾驶移动空间”路线定档 4 月 20 日试运营",
+      "summary": "IT之家 4 月 14 日消息,全球首个“自动驾驶移动空间”路线 —— 贵阳“奇遇环线”将于 4 月 20 日正式启动试运营 。 IT之家查询获悉,该项目由贵阳高新区企业贵州翰凯斯智能技术有限公司联合合资公司贵州勘设泰宇坦行科技有限公司,在观山湖区启动商业化试点运营,标志着该企业定义的“自动驾驶移动空间”品类从技术研发迈入城市级商业验证阶段。 该环线位于观山湖区核心区域,串联起商圈、生态公园及大型...",
+      "source": "Ithome",
+      "date": "2026-04-14",
+      "url": "https://www.ithome.com/0/939/148.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3310508",
+      "title": "Lucid换帅并扩大战略合作 沙特主权基金与优步再投7.5亿美元",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-14",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3310508"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862450929913498064",
+      "title": "太酷啦!一部手机,管千亩农场!",
+      "summary": "4月3日石家庄市赵县南姚家庄村的农田里生机盎然连片的冬小麦长势喜人赵县光辉农业机械服务专业合作社负责人姚风娟站在地头掏出手机点开一款应用程序土壤墒情、苗情分析、未来一周气象预报等信息一目了然齐耳短发,...",
+      "source": "News_Baidu",
+      "date": "2026-04-14",
+      "url": "http://baijiahao.baidu.com/s?id=1862450929913498064"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862451841813470672",
+      "title": "5G-A满格,AI服务满分,浙江移动护航中国国际园..",
+      "summary": "潮新闻客户端记者柳蓬随着备受瞩目的第十五届中国国际园林博览会即将在温州正式开幕,这两天,园区里提前迎来了一批批的外籍专家与海外媒体。他们循着花香与景致而来,以镜头沉浸式感受中国园林,将这份跨越山海的园...",
+      "source": "News_Baidu",
+      "date": "2026-04-14",
+      "url": "http://baijiahao.baidu.com/s?id=1862451841813470672"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3310474",
+      "title": "MicroVision推出激光雷达部署合作伙伴计划",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-14",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3310474"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1015189",
+      "title": "随着跨市场投资需求加速增长,Bitget 推出差价合约跟单交易-FX168",
+      "summary": "塞舌尔维多利亚, April 14, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 Bitget 今日正式上线差价合约跟单交易功能,进一步拓展传统金融市场准入渠道,使用户能够在 Bitget 平台上自动跟随专业交易者,参与外汇、大宗商品及指数市场交易。 此次上线正值 Bitget 差价合约业务强劲增长之际,其近期单日交易量已突破 60 亿美元,反映出用户对全球市场波动加剧...",
+      "source": "Fx168News",
+      "date": "2026-04-14",
+      "url": "https://www.fx168news.com/article/1015189"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776167468129778.html",
+      "title": "常态化严打跨省非法营运车辆,北京多部门开展联合执法",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-14",
+      "url": "https://www.bjnews.com.cn/detail/1776167468129778.html"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0414/234108.shtml",
+      "title": "把“天门山”搬进厂房 仰望U8以极致练兵场打磨硬核实力",
+      "summary": "近日,以“闯天关・征万境”为主题的仰望U8 2026款越野试炼挑战,在比亚迪综合越野开发中心正式开启。作为比亚迪面向全球电驱越野时代打造的战略级创新阵地,该中心集研发、测试验证与量产落地于一体,以12000平方米专业场地、覆盖百余种极限地形与工况,将极限刻入研发基因,为高端新能源越野构筑起严苛的性能试炼标准。 从单一技术突破,到体系化能力引领,比亚迪综合越野开发中心不仅全面打磨仰望U8等旗舰车型的...",
+      "source": "Imobile",
+      "date": "2026-04-14",
+      "url": "http://news.imobile.com.cn/articles/2026/0414/234108.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3310413",
+      "title": "智通港股解盘 | 大国博弈抢占AI制高点 次新股热潮持续演绎",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-14",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3310413"
     },
     {
       "id": "http://baijiahao.baidu.com/s?id=1862429611077443271",
@@ -88,116 +132,28 @@
       "url": "http://baijiahao.baidu.com/s?id=1862429611077443271"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862441262987737077",
-      "title": "干货满满!《2025上海综合交通发展分析报告》发布",
-      "summary": "今天,上海市城乡建设和交通发展研究院发布了《2025上海综合交通发展分析报告》,报告显示,全港拥有近350条国际航线;上海机场通达全球54个国家302个航点;至2025年底,完成150个公交站台适老化...",
+      "id": "http://baijiahao.baidu.com/s?id=1862440578810735473",
+      "title": "牢记嘱托开新局 日新江淮往前赶|深耕AI+汽车领域..",
+      "summary": "大皖新闻讯把汽车级智能驾驶技术用于智能助行机器人,把高可信软件与AI算法注入电池管理系统......4月13日,“牢记嘱托开新局日新江淮往前赶”采访团走进科大国创。该企业聚焦AI+汽车赛道,智能云BMS、自动...",
       "source": "News_Baidu",
       "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862441262987737077"
+      "url": "http://baijiahao.baidu.com/s?id=1862440578810735473"
     },
     {
-      "id": "https://www.fx168news.com/article/1015151",
-      "title": "Bitget 推出全新 Pre-IPO 产品,SpaceX 成为首个上线项目-FX168",
-      "summary": "塞舌尔维多利亚, April 14, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 推出 IPO Prime,引入全新的市场结构,使用户能够获取并交易 SpaceX 等全球独角兽公司的 Pre-IPO 敞口。 该产品由 Republic 提供技术支持,此次发布标志着 Bitget 业务拓展至传统二级市场交易之外,使用户能够在公司入公开市场之前参与...",
-      "source": "Fx168News",
-      "date": "2026-04-14",
-      "url": "https://www.fx168news.com/article/1015151"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1015139",
-      "title": "Hyperliquid的踩点艺术-FX168",
-      "summary": "Hyperliquid 创始人 Yan 有何独到之处?Hyperliquid是如何一步步走到现在的?“踩点大师”都曾踩中了哪些机会?...",
-      "source": "Fx168News",
-      "date": "2026-04-14",
-      "url": "https://www.fx168news.com/article/1015139"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862438819263940471",
-      "title": "又一个杭州造来了!桐庐富春江上智能游艇首航 打船像..",
-      "summary": "潮新闻客户端记者王柯宇张源共享联盟·桐庐方菲桐庐县委宣传部供图4月14日,桐庐县富春轮船码头,一艘长8.5米,型号为RB850的白色智能游艇缓缓下水,富春江上多了一个“新物种”——RoboBoat智能...",
+      "id": "http://baijiahao.baidu.com/s?id=1862448165264313484",
+      "title": "浙江杭州:智能游艇畅游富春江",
+      "summary": "4月14日,一艘智能游艇畅游富春江。当日,该系列智能游艇在浙江杭州下水首航,其融合AI驾驶、新能源绿色动力、数字化云端运营等优势,以“船型机器人”重新定义水上交通工具。中新社记者郭其钰摄4月14日,一...",
       "source": "News_Baidu",
       "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862438819263940471"
+      "url": "http://baijiahao.baidu.com/s?id=1862448165264313484"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862435934035216584",
-      "title": "来上海环博会,体验“环保智慧”",
-      "summary": "新华社上海4月14日电(记者潘清)身形庞大的3D分选机,与链板上料机、破碎机、AI光选机器人等紧密配合,可以从混杂的生活垃圾中精确分离高价值及可资源化的金属等物品。在正在举办的第27届上海国际环博会上...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862435934035216584"
-    },
-    {
-      "id": "https://www.ithome.com/0/939/060.htm",
-      "title": "Uber 优步加速 Robotaxi 自动驾驶出租车项目落地,员工已可预约试乘",
-      "summary": "IT之家 4 月 14 日消息,据外媒 Techcrunch 报道,当前 Uber 优步正在加快旗下 Robotaxi 自动驾驶出租车业务落地进度,目前部分 Uber 员工已经可以通过应用预约出租车试乘。 据介绍,相应测试车辆由自动驾驶公司 Nuro 提供技术支持,由 Uber 负责运营。车辆本身基于 Lucid Gravity 打造,内置英伟达 Drive AGX Thor 计算平台,运营过程中...",
+      "id": "https://www.ithome.com/0/939/128.htm",
+      "title": "小鹏 GX 旗舰 SUV 内饰首发亮相:寰宇线控方向盘、17.3 英寸 3K 超窄边大屏等",
+      "summary": "IT之家 4 月 14 日消息,小鹏汽车官方今日公布了旗舰 SUV —— 小鹏 GX 的内饰情况。据介绍,新车将搭载「寰宇量子头等舱」。 据介绍,小鹏 GX 旗舰 SUV 将配备「领航悬浮中岛」, 拥有升降充电面板 + 隐藏式杯托 ,兼顾功能和仪式感;采用「星空天际线门板」设计, 配备贯穿式星辰灯带和星绒透光皮革 。 新车还搭载了「寰宇线控方向盘」, 支持 135mm 电动伸缩 + 智能迎宾 。另...",
       "source": "Ithome",
       "date": "2026-04-14",
-      "url": "https://www.ithome.com/0/939/060.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862435400244351788",
-      "title": "一键自动导航,从系统警报到民警出警不到10秒!他的..",
-      "summary": "极目新闻记者王俐燃通讯员廖琰璨罗颖“嘀嘀嘀——”指挥室里,警报声骤然响起。屏幕上,一个红点正侵入机场禁飞区。“来了。”龚圣盯着屏幕,手指飞快地点了几下。几秒钟后,一条短信推送到前方民警手机上:飞手位置...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862435400244351788"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862440736383875783",
-      "title": "破除物流“最后一公里”流转瓶颈:无人驾驶牵引车在多..",
-      "summary": "短驳运输——决定物流流转效率的“隐形关口”随着我国综合立体交通网络的持续完善,长距离干线运输的效率与成本优化已趋近极致,跨省干线运输已普遍实现次日达、当日达,2025年我国社会物流总费用与GDP的比率...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862440736383875783"
-    },
-    {
-      "id": "http://china.hani.co.kr/arti/opinion/16755.html",
-      "title": "【专栏】中国市场是一个“健身房”",
-      "summary": "崔弼洙 世宗大学中国通商学教授 消费者对购买电动汽车犹豫不决的核心原因之一是充电时间过长。按现有技术水平,充满电往往需要接近1小时, 这让人很难放心地进行长途行驶。若是在充电站再碰上排长队的情况,更是令人头疼。因此,如果无法准确预估到达目的地的时间,消费者购买电动汽车...",
-      "source": "China_Hani_Co_Kr",
-      "date": "2026-04-14",
-      "url": "http://china.hani.co.kr/arti/opinion/16755.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862427911899828881",
-      "title": "G视觉丨贵阳“奇遇环线”本月开跑!直击无人小巴生产..",
-      "summary": "4月13日,贵阳高新区翰凯斯生产车间内一派繁忙景象,工人们正加紧完成无人驾驶小巴的组装、调试作业。生产现场,销往日本、欧洲等全球各地的不同款式车辆造型各异。近日,该公司自主研发的无人驾驶小巴,斩获20...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862427911899828881"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqr77w97/",
-      "title": "东风日产NX8城市智驾与座舱体验实测",
-      "summary": "东风日产NX8定位为大五座智慧SUV,在智能驾驶、座舱配置及空间实用性方面进行了重点升级。该车搭载了Momenta高阶智驾方案,配备激光雷达及29个传感器,并结合R6强化学习大模型,旨在提供城市路况下的辅助驾驶体验。同时,车辆在座舱交互、舒适性配置及储物......",
-      "source": "Smzdm",
-      "date": "2026-04-14",
-      "url": "https://post.smzdm.com/p/aqr77w97/"
-    },
-    {
-      "id": "https://www.ithome.com/0/939/028.htm",
-      "title": "长安第四代 CS75PLUS 蓝鲸超擎 SUV 开启盲订,将于 4 月 22 日北京车展亮相",
-      "summary": "IT之家 4 月 14 日消息,长安汽车宣布旗下第四代 CS75PLUS 蓝鲸超擎 SUV 开启盲订,新车将于 4 月 24 日北京国际车展全球发布。 外观方面,第四代 CS75PLUS 蓝鲸超擎提供安第斯灰、原子灰、尊贵黑、炫晶白、碧空蓝、星云辉、月华银灰 7 种颜色可选。其车头配备前脸 V 形矩阵格栅,车身采用传统造型门把手,车尾使用贯穿式尾灯组。 座舱方面,新车采用 37 寸一体悬浮式三联屏...",
-      "source": "Ithome",
-      "date": "2026-04-14",
-      "url": "https://www.ithome.com/0/939/028.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862428308280658617",
-      "title": "“交大浦江·智创未来”院企联盟成立,福瑞泰克携手联..",
-      "summary": "4月12日,适逢上海交通大学建校130周年,浦江国际学院建院20周年高质量发展大会隆重举行,会上“交大浦江·智创未来”院企联盟正式成立。...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862428308280658617"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862430936604491341",
-      "title": "国企基金容亏率最高可达50%!广州培育“耐心资本”..",
-      "summary": "4月14日,在广州人工智能产业投资基金专题新闻发布会上,市国资委副主任陈杰威亮出了一份亮眼的“成绩单”:截至2025年底,市、区国企设立管理的基金已超500只,规模超5000亿元。其中,共有近200只...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862430936604491341"
+      "url": "https://www.ithome.com/0/939/128.htm"
     },
     {
       "id": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models",
@@ -206,22 +162,6 @@
       "source": "Japan Today",
       "date": "2026-04-14",
       "url": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51796625/gary-black-calls-teslas-fsd-approval-in-europe-non-event-heres-why",
-      "title": "Gary Black Calls Tesla's FSD Approval In Europe 'Non-Event'-Here's Why",
-      "summary": "Gary Black outlines why Tesla's FSD approval in Netherlands is insignificant, saying that it needs advertising for increased adoption....",
-      "source": "Benzinga",
-      "date": "2026-04-14",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51796625/gary-black-calls-teslas-fsd-approval-in-europe-non-event-heres-why"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/stocks/investors-need-more-proof-of-real-autonomy-says-ms-as-tesla-s-fsd-nears-10b-miles-1036018681",
-      "title": "‘Investors Need More Proof of Real Autonomy,’ Says MS as Tesla’s FSD Nears 10B Miles",
-      "summary": "EV maker Tesla (TSLA) is approaching a key milestone, with nearly 10 billion miles driven using its Full Self-Driving (FSD) system. However, fiv......",
-      "source": "Markets Insider",
-      "date": "2026-04-14",
-      "url": "https://markets.businessinsider.com/news/stocks/investors-need-more-proof-of-real-autonomy-says-ms-as-tesla-s-fsd-nears-10b-miles-1036018681"
     },
     {
       "id": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059",
@@ -248,20 +188,52 @@
       "url": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/"
     },
     {
-      "id": "https://seekingalpha.com/news/4574517-tesla-is-in-the-spotlight-as-the-robotaxi-rollout-cuts-into-cash-flow",
-      "title": "Tesla is in the spotlight as the robotaxi rollout cuts into cash flow",
-      "summary": "Tesla nears 10B FSD miles as Morgan Stanley flags capex/FCF risks....",
-      "source": "Seeking Alpha",
-      "date": "2026-04-13",
-      "url": "https://seekingalpha.com/news/4574517-tesla-is-in-the-spotlight-as-the-robotaxi-rollout-cuts-into-cash-flow"
+      "id": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
+      "title": "Gary Black Says Tesla's $30K EV Could Have 'Huge Upside'",
+      "summary": "Gary Black suggested that Tesla's move could reflect challenges in its autonomous driving goals and growing EV competition....",
+      "source": "Benzinga",
+      "date": "2026-04-12",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity"
     },
     {
-      "id": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-decision-is-deeply-troubling-tesla-gets-a-green-light-for-full-self-driving-in-europe-but-not-everyone-is-happy-about-it",
-      "title": "'The decision is deeply troubling': Tesla gets a green light for Full Self-Driving in Europe - but not everyone is happy about it",
-      "summary": "Dutch regulator deems FSD (Supervised) safe to use...",
-      "source": "TechRadar",
-      "date": "2026-04-13",
-      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-decision-is-deeply-troubling-tesla-gets-a-green-light-for-full-self-driving-in-europe-but-not-everyone-is-happy-about-it"
+      "id": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "title": "TechCrunch is heading to Tokyo - and bringing the Startup Battlefield with it",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...",
+      "source": "TechCrunch",
+      "date": "2026-04-10",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins",
+      "title": "What's Going On With Alibaba Stock Friday?",
+      "summary": "Alibaba (BABA) pivots to \"world models,\" investing $290M in ShengShu to bridge AI with robotics and autonomous driving. Read the full update....",
+      "source": "Benzinga",
+      "date": "2026-04-10",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/ponyai-launches-ponyworld-20-a-self-improving-physical-ai-engine-for-autonomous-driving/2317810",
+      "title": "Pony.ai Launches PonyWorld 2.0, a Self-Improving Physical AI Engine for Autonomous Driving",
+      "summary": "New world model upgrade enables AI to diagnose its own weaknesses, guide targeted data collection, and support the next phase of large-scale L4 commercializationGUANGZHOU, China, April 10, 2026 /PRNew...",
+      "source": "The Manila Times",
+      "date": "2026-04-10",
+      "url": "https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/ponyai-launches-ponyworld-20-a-self-improving-physical-ai-engine-for-autonomous-driving/2317810"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22",
+      "title": "Pony.ai launches Ponyworld 2.0, a self-improving physical AI engine for autonomous driving",
+      "summary": "Pony AI Inc:\nPony.ai launches Ponyworld 2.0, a self-improving physical AI engine for autonomous driving\n......",
+      "source": "MarketScreener",
+      "date": "2026-04-10",
+      "url": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
+      "title": "2026 Kia CEO Investor Day: Kia to Drive Exponential Growth and Manufacturing Innovation by Expanding Its Full Electrified Vehicle Lineup and Strengthening Future Business Capabilities",
+      "summary": "Kia presents its 2030 mid- to long-term strategy, detailing its vehicle- and region-specific exponential growth plansTargets global sales of 4.13 million units per year by 2030, with a global market s...",
+      "source": "The Manila Times",
+      "date": "2026-04-09",
+      "url": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039"
     }
   ]
 }
