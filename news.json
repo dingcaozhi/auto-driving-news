@@ -1,34 +1,120 @@
 {
-  "lastUpdated": "2026-04-16 08:01:46",
-  "totalCount": 37,
+  "lastUpdated": "2026-04-16 03:35:01",
+  "totalCount": 27,
   "sources": {
-    "Bjnews": 1,
-    "Ithome": 4,
+    "Fx168News": 2,
+    "Smzdm": 1,
     "News_Baidu": 6,
-    "Chinanews": 3,
+    "Eeo": 1,
+    "Prnasia": 1,
+    "Chinanews": 1,
+    "Ithome": 3,
     "Investing_Cn": 2,
-    "Rfi_Fr": 1,
-    "City A.M.": 1,
-    "Benzinga": 6,
+    "City A.M.": 2,
+    "Firstpost": 1,
+    "TechStartups.com": 1,
+    "Benzinga": 2,
     "Japan Today": 1,
-    "Markets Insider": 2,
+    "Markets Insider": 1,
     "PR Newswire UK": 1,
-    "The Japan Times ": 1,
-    "Seeking Alpha": 3,
-    "TechRadar": 1,
-    "MarketScreener": 1,
-    "TNW": 1,
-    "TechCrunch": 1,
-    "The Manila Times": 1
+    "The Japan Times ": 1
   },
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1776235137129233.html",
-      "title": "赛力斯康波出席2026世界互联网大会亚太峰会 分享AI赋能智能出行实践",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
+      "id": "https://www.fx168news.com/article/1015742",
+      "title": "优步(UBER)股票4月15日盘中上涨5.41%:释放什么信号?-FX168",
+      "summary": "优步 (UBER) 盘中上涨5.41%, 所属行业软件与信息技术服务上涨1.64% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 微软 (MSFT) 上涨 3.64%;Meta Platforms Inc (META) 上涨 1.77%;甲骨文 (ORCL) 上涨 5.56%。 今日是什么导致了优步(UBER)股价上涨? UBER股价今日显著上涨,且伴随着剧烈的盘中波动。这一积极走势似乎主要源于其向...",
+      "source": "Fx168News",
       "date": "2026-04-15",
-      "url": "https://www.bjnews.com.cn/detail/1776235137129233.html"
+      "url": "https://www.fx168news.com/article/1015742"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1015738",
+      "title": "特斯拉(TSLA)股票4月15日盘中上涨4.82%:真相来了-FX168",
+      "summary": "特斯拉 (TSLA) 盘中上涨4.82%, 所属行业汽车与零部件上涨1.21% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 4.82%;Polaris Inc (PII) 下跌 10.98%;Lucid Group Inc (LCID) 下跌 6.20%。 今日是什么导致了特斯拉(TSLA)股价上涨? 2026年4月15日特斯拉(TSLA)股价的上涨及其显著的日内波动,...",
+      "source": "Fx168News",
+      "date": "2026-04-15",
+      "url": "https://www.fx168news.com/article/1015738"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axk5ezl4/",
+      "title": "从油到电|我眼里的马自达 EZ-60",
+      "summary": "马自达EZ-6作为品牌在电动时代的转型产品,其在设计语言、驾驶质感及智能化配置方面延续了品牌的核心特征。从实际体验来看,该车型并未因动力的变更而失去原有的品牌调性,而是通过电动化技术对“人马一体”的理念进行了新的诠释。01外观设计:延续魂动美学在外观造型......",
+      "source": "Smzdm",
+      "date": "2026-04-15",
+      "url": "https://post.smzdm.com/p/axk5ezl4/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862523036237936216",
+      "title": "闻着臭,但挣的钱干净!粪车迎亲爆火后,慈溪这对夫妻..",
+      "summary": "潮新闻客户端记者肖暖暖于诗奇不久前,一支由9辆吸粪车组成的婚车队,让浙江慈溪“95后”掏粪工潘浩男和新娘李雅晴闯入公众视野。事件冲上热搜,相关话题阅读量破亿,祝福与争议齐飞:有人叫好,也有人质疑这是博...",
+      "source": "News_Baidu",
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862523036237936216"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0415/839854.shtml",
+      "title": "日产巨亏后推新规划:精简产品 中国市场2030财年重回年销百万",
+      "summary": "从行业整体来看,日产此次改革所面临的外部环境并不乐观。在中国市场,中国汽车工业协会预测2026年乘用车增速仅为1%,多位车企负责人指出零和博弈已成定局。在存量竞争与价格战持续的背景下,新能源汽车市场竞争日益激烈。行业竞争正在从单纯的价格战转向价值竞争,消费者的关注点逐渐从价格转向功能体验和品牌认同等综合价值维度。...",
+      "source": "Eeo",
+      "date": "2026-04-15",
+      "url": "http://www.eeo.com.cn/2026/0415/839854.shtml"
+    },
+    {
+      "id": "https://www.prnasia.com/story/529190-1.shtml",
+      "title": "AION UT全球上市即爆单,多国热销接连斩获权威大奖",
+      "summary": "广州 2026年4月15日 /美通社/ -- 自2025年全球首发以来,AION UT迅速席卷东南亚、南美及欧洲等核心市场,以上市即爆单的强劲势头,成为广汽国际冲刺海外年销目标的定海神针。作为广汽全球精品战略车型,AION UT第一季度在核心市场交出亮眼答卷:泰国交付超2400台,曼谷车展订单破2500,稳居电动Hatchback细分市场前三;印尼交付逾800台,单月峰值突破300台,位列细分市场...",
+      "source": "Prnasia",
+      "date": "2026-04-15",
+      "url": "https://www.prnasia.com/story/529190-1.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862541936484456278",
+      "title": "全民国家安全教育日|科技越先进,我们越要警惕这些隐..",
+      "summary": "你以为安全威胁离日常很遥远?其实,它就藏在科研实验室的核心数据里手腕上智能手表的定位轨迹中藏在日常学术交流、车载导航甚至田间地头的每一粒种子里......2026年4月15日我们迎来第11个全民国家安全教育日...",
+      "source": "News_Baidu",
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862541936484456278"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862542983461031121",
+      "title": "提“智”不减员:未来工厂“超级劳动力” 如何帮人类..",
+      "summary": "8小时连续作业零重大异常,整体作业成功率高达99.5%以上,每小时可完成310件产品,同时,机器人支持7×24小时不间断双班运行......就在14日,上海企业智元机器人在龙旗科技南昌平板制造工厂的一场直播,...",
+      "source": "News_Baidu",
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862542983461031121"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862541978539176811",
+      "title": "宁好码接诉即办,足不出户挽民损——通城五里派出所高..",
+      "summary": "极目新闻通讯员李佳玫李子昂“真是太方便了,一只鸭子的小事,我足不出户,你们线上就帮我解决好了,太感谢你们了!”4月13日,通城县公安局五里派出所接到辖区群众张某某的致谢电话,对民警依托“宁好码”平台快...",
+      "source": "News_Baidu",
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862541978539176811"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862543046401954400",
+      "title": "“聪明车”驶入日常生活 杭州余杭解锁未来出行新体验",
+      "summary": "潮新闻客户端记者甘居鹏通讯员韩诚王欢每天早上9点,一辆蓝色渐变的自动驾驶公交车就会准时驶出杭州西站的“火车西站西”公交站台,无需人工操控,便自如地汇入车流,平稳驶向北京航空航天大学杭州国际校园(以下简...",
+      "source": "News_Baidu",
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862543046401954400"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-15/10604502.shtml",
+      "title": "北京多项式举办全民国家安全教育日系列活动",
+      "summary": "中新网北京4月15日电 (记者 陈杭)机器人乐队奏响旋律、情景剧中的生活场景引发共鸣、将抽象的安全知识转化为人机互动实践......4月15日是第十一个全民国家安全教育日,北京多区与高校开展全民国家安全教育日系列活动,旨在凝聚社会各界共守国家安全的共识,持续放大宣传教育效应。...",
+      "source": "Chinanews",
+      "date": "2026-04-15",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-15/10604502.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/939/613.htm",
+      "title": "39.98 万元起,小鹏首款全尺寸旗舰 SUV 车型 GX 开启预售",
+      "summary": "IT之家 4 月 15 日消息,作为品牌首款全尺寸豪华 SUV,小鹏 GX 今日正式开启预售,预售价 39.98 万元起,4 月 18 日全国展车陆续到店。 作为小鹏汽车全新一代物理 AI 技术架构 SEPA 3.0 的首发车型,小鹏 GX 定位为 AI 新豪华大六座旗舰 SUV,融合了 Robotaxi 智驾、飞行汽车安全冗余、具身智能芯片及架构等前沿技术。IT之家附预售价如下: 小鹏 GX 纯...",
+      "source": "Ithome",
+      "date": "2026-04-15",
+      "url": "https://www.ithome.com/0/939/613.htm"
     },
     {
       "id": "https://www.ithome.com/0/939/599.htm",
@@ -47,22 +133,6 @@
       "url": "http://baijiahao.baidu.com/s?id=1862532687218310270"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862535339606866849",
-      "title": "自动驾驶下半场竞速,“物理AI”成核心方向,产业各..",
-      "summary": "智能驾驶行业的竞争核心,正逐渐由技术层面的比拼,过渡到与真实物理世界的深度连接。在今年1月举行的国际消费电子展(CES)上,英伟达CEO(首席执行官)黄仁勋在主旨演讲中17次提及“物理AI(人工智能)...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862535339606866849"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-15/10604322.shtml",
-      "title": "从“东数西算”到“阳高红” 塞北阳高推动算力农业协同发展",
-      "summary": "中新网大同4月15日电 (胡健 马静波 李常慧)春日清晨,山西省大同市阳高县中联绿色大数据产业基地内,数十排机柜整齐排列,服务器指示灯持续闪烁。大数据分析、云计算等核心业务有序运转,正为京津冀地区的量子通信、人工智能、自动驾驶等领域提供稳定高效的算力支撑。...",
-      "source": "Chinanews",
-      "date": "2026-04-15",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-15/10604322.shtml"
-    },
-    {
       "id": "https://cn.investing.com/news/stock-market-news/article-3312140",
       "title": "特斯拉(TSLA.US)A15芯片成功流片!马斯克高呼:未来将成为全球产量最高AI芯片之一",
       "summary": "NewsData报道",
@@ -71,92 +141,44 @@
       "url": "https://cn.investing.com/news/stock-market-news/article-3312140"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862407462999957301",
-      "title": "中企承建纳米比亚罗什皮纳100兆瓦太阳能光伏电站—..",
-      "summary": "本文转自【人民日报】;距纳米比亚首都温得和克约8小时车程的卡拉斯省罗什皮纳镇,地处卡拉哈里盆地边缘,周边是辽阔无垠的红色沙丘。由中国江西国际经济技术合作有限公司与浙江正泰新能源开发有限公司联合承建的罗...",
-      "source": "News_Baidu",
+      "id": "https://www.ithome.com/0/939/644.htm",
+      "title": "事关 L2 级辅助驾驶:相关强制性国标进一步公开征求意见,华为引望、小米汽车、比亚迪、特斯拉等单位联合起草",
+      "summary": "IT之家 4 月 15 日消息,工信部组织完成了《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准(报批稿)的编制工作。 标准报批稿及编制说明于 2026 年 4 月 16 日至 22 日公示,进一步听取社会各界意见。 大家可以按照官方格式向工信部积极反馈 。 该标准报批稿规定了基础单车道组合驾驶辅助系统、基础多车道组合驾驶辅助系统以及领航组合驾驶辅助系统的安全要求与同一型式判定,并描述了相...",
+      "source": "Ithome",
       "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862407462999957301"
+      "url": "https://www.ithome.com/0/939/644.htm"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260415-%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6-%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BDstart-up%E7%AD%B9%E5%88%92%E5%9C%A8%E6%B3%95%E5%9B%BD%E8%90%BD%E5%9C%B0",
-      "title": "电动卡车:一家中国start-up筹划在法国落地",
-      "summary": "周三15日《回声报》报道指,中国风玫瑰科技(Windrose Technology)正在推进其在法国瓦朗谢讷(Les Valenciennes)附近建设电动卡车工厂的项目。该公司希望撼动行业巨头。这一计划获得了1.75亿欧元的投资支持。...",
-      "source": "Rfi_Fr",
-      "date": "2026-04-15",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260415-%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6-%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BDstart-up%E7%AD%B9%E5%88%92%E5%9C%A8%E6%B3%95%E5%9B%BD%E8%90%BD%E5%9C%B0"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862531336769197883",
-      "title": "智能游艇全球首航,桐庐实现无人装备“海陆空”全覆盖",
-      "summary": "潮新闻客户端记者何晟通讯员金黄璐敏4月14日下午,桐庐县产业高质量发展大会暨桐庐特色“人工智能+”行动启动仪式举行。这次会议的地点别具匠心,从传统的县政府会议中心搬到了富春轮船码头。因为桐庐特色“人工...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862531336769197883"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862528754381562879",
-      "title": "守护生态飞羽 共筑绿色高速",
-      "summary": "4月1日至7日“爱鸟周”期间,位于国营中洲农场腹地的中洲收费站,立足周边生态优良的自然环境,紧扣“爱鸟护鸟、守护生态”主题,开展形式多样、贴近司乘的宣传活动。强化宣传引导,厚植生态理念。活动期间,中洲...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862528754381562879"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862527566857675387",
-      "title": "从内河驶向深蓝,中国首艘万吨级纯电智能海船如何实现..",
-      "summary": "潮新闻客户端记者李沐子实习生唐诗4月15日,全球载箱量最大、国内首艘万吨级纯电动智能集装箱船“宁远电鲲”轮迎来首航。这只“鲲鹏”从宁波舟山港北仑港区启航,驶向嘉兴港乍浦港区。这一次,它不再借助传统燃油...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862527566857675387"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-15/10604302.shtml",
-      "title": "国内首艘万吨级纯电动智能船从宁波舟山港首航",
-      "summary": "中新网宁波4月15日电(奚金燕)4月15日下午4时20分,全球最大、国内首艘万吨级纯电动智能集装箱船“宁远电鲲”轮从宁波舟山港北仑港区解缆起航,驶向嘉兴港乍浦港区。此次首航也标志着国内沿海集装箱运输开启了纯电驱动、智能领航的全新探索发展阶段。...",
-      "source": "Chinanews",
-      "date": "2026-04-15",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-15/10604302.shtml"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3311900",
-      "title": "海外研选日报0415 | 德银建议卖出美元 澳新银行称油价恐继续高企",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3312352",
+      "title": "特斯拉股票:第一季度财报前需关注的三大要点",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
       "date": "2026-04-15",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3311900"
+      "url": "https://cn.investing.com/news/stock-market-news/article-3312352"
     },
     {
-      "id": "https://www.ithome.com/0/939/510.htm",
-      "title": "Claude 要求部分用户上传身份证件",
-      "summary": "IT之家 4 月 15 日消息,Anthropic 于当地时间 4 月 14 日发布公告,称 正在为 Claude 的一些用例推出身份验证。 Claude 是由 Anthropic 构建的大型语言模型(LLM),官方表示,当用户访问某些功能时,可能会看到验证提示,这是其例行平台完整性检查或其他安全和合规措施的一部分。仅使用用户的验证数据来确认身份, 不用于任何其他目的 。 IT之家附相关要求如下:...",
-      "source": "Ithome",
+      "id": "https://www.cityam.com/wayve-lands-amd-arm-and-qualcomm-cash-as-uk-self-driving-push-gathers-pace/",
+      "title": "Wayve lands AMD, Arm and Qualcomm cash as UK self-driving push gathers pace",
+      "summary": "British autonomous driving firm Wayve has secured a further $60m (£44.2m) from chip giants AMD, Arm and Qualcomm Ventures...",
+      "source": "City A.M.",
       "date": "2026-04-15",
-      "url": "https://www.ithome.com/0/939/510.htm"
+      "url": "https://www.cityam.com/wayve-lands-amd-arm-and-qualcomm-cash-as-uk-self-driving-push-gathers-pace/"
     },
     {
-      "id": "https://www.ithome.com/0/939/598.htm",
-      "title": "一汽红旗天工 05 汽车获 4 月 OTA 大版本升级,新增支持华为鸿蒙手机钱包车钥匙",
-      "summary": "IT之家 4 月 15 日消息,一汽红旗今日宣布, 红旗天工 05 汽车迎来了 4 月 OTA 大版本升级 ,将带来华为鸿蒙手机钱包车钥匙、车辆未锁 App 提醒等八大核心功能。 IT之家附一汽红旗天工 05 汽车此次八大核心功能如下: 新增鸿蒙手机钱包数字车钥匙: 支持鸿蒙手机钱包数字钥匙,靠近即可无感解锁并启动车辆 (搭载鸿蒙操作系统 5.1 及以上,红旗智联 App 5.2.1 及以上版本)...",
-      "source": "Ithome",
+      "id": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html",
+      "title": "Waymo launches robotaxi testing in London, advancing toward first major international rollout",
+      "summary": "Waymo has begun testing autonomous vehicles in London as it prepares for a potential 2026 robotaxi launch, expanding its global self-driving trials beyond the US...",
+      "source": "Firstpost",
       "date": "2026-04-15",
-      "url": "https://www.ithome.com/0/939/598.htm"
+      "url": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-15/10604397.shtml",
-      "title": "吉林国企改革再破题 “双引擎”重构新格局",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
+      "id": "https://techstartups.com/2026/04/15/wayve-raises-60m-from-chip-giants-qualcomm-amd-arm-to-challenge-waymo-with-mapless-autonomous-driving-ai/",
+      "title": "Wayve raises $60M from chip giants Qualcomm, AMD, Arm to challenge Waymo with mapless autonomous driving AI",
+      "summary": "Wayve just pulled more of the semiconductor world into its orbit—and it’s not a vanity move. The London-based autonomous driving startup said Wednesday it secured $60 million in fresh backing from Qua...",
+      "source": "TechStartups.com",
       "date": "2026-04-15",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-15/10604397.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/939/576.htm",
-      "title": "比亚迪汉 EV 闪充版即将上市:展车陆续到店,搭载第二代刀片电池",
-      "summary": "IT之家 4 月 15 日消息,比亚迪王朝网销售事业部总经理路天今日宣布,比亚迪汉 EV 闪充版即将上市。新车搭载第二代刀片电池及闪充技术,展车已陆续到店。 目前该车已陆续到店,有媒体拍摄到了实车图。外观方面,汉 EV 闪充版与在售车型基本保持一致,延续了“龙颜美学”设计理念。 车身尺寸可参考在售车型,长宽高分别为 4995 毫米、1910 毫米、1495 毫米,轴距为 2920 毫米。 智能驾驶...",
-      "source": "Ithome",
-      "date": "2026-04-15",
-      "url": "https://www.ithome.com/0/939/576.htm"
+      "url": "https://techstartups.com/2026/04/15/wayve-raises-60m-from-chip-giants-qualcomm-amd-arm-to-challenge-waymo-with-mapless-autonomous-driving-ai/"
     },
     {
       "id": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/",
@@ -165,14 +187,6 @@
       "source": "City A.M.",
       "date": "2026-04-15",
       "url": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it",
-      "title": "Tesla Promises Lower Insurance Premiums With 'Every Mile' Of Supervised FSD Driving: Here's How To Avail",
-      "summary": "Tesla says drivers can get lower insurance premiums with the latest Safety Score v3.0 with Full Self-Driving technology....",
-      "source": "Benzinga",
-      "date": "2026-04-15",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it"
     },
     {
       "id": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership",
@@ -189,22 +203,6 @@
       "source": "Japan Today",
       "date": "2026-04-14",
       "url": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51796625/gary-black-calls-teslas-fsd-approval-in-europe-non-event-heres-why",
-      "title": "Gary Black Calls Tesla's FSD Approval In Europe 'Non-Event'-Here's Why",
-      "summary": "Gary Black outlines why Tesla's FSD approval in Netherlands is insignificant, saying that it needs advertising for increased adoption....",
-      "source": "Benzinga",
-      "date": "2026-04-14",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51796625/gary-black-calls-teslas-fsd-approval-in-europe-non-event-heres-why"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/stocks/investors-need-more-proof-of-real-autonomy-says-ms-as-tesla-s-fsd-nears-10b-miles-1036018681",
-      "title": "‘Investors Need More Proof of Real Autonomy,’ Says MS as Tesla’s FSD Nears 10B Miles",
-      "summary": "EV maker Tesla (TSLA) is approaching a key milestone, with nearly 10 billion miles driven using its Full Self-Driving (FSD) system. However, fiv......",
-      "source": "Markets Insider",
-      "date": "2026-04-14",
-      "url": "https://markets.businessinsider.com/news/stocks/investors-need-more-proof-of-real-autonomy-says-ms-as-tesla-s-fsd-nears-10b-miles-1036018681"
     },
     {
       "id": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059",
@@ -231,36 +229,12 @@
       "url": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/"
     },
     {
-      "id": "https://seekingalpha.com/news/4574517-tesla-is-in-the-spotlight-as-the-robotaxi-rollout-cuts-into-cash-flow",
-      "title": "Tesla is in the spotlight as the robotaxi rollout cuts into cash flow",
-      "summary": "Tesla nears 10B FSD miles as Morgan Stanley flags capex/FCF risks....",
-      "source": "Seeking Alpha",
-      "date": "2026-04-13",
-      "url": "https://seekingalpha.com/news/4574517-tesla-is-in-the-spotlight-as-the-robotaxi-rollout-cuts-into-cash-flow"
-    },
-    {
-      "id": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-decision-is-deeply-troubling-tesla-gets-a-green-light-for-full-self-driving-in-europe-but-not-everyone-is-happy-about-it",
-      "title": "'The decision is deeply troubling': Tesla gets a green light for Full Self-Driving in Europe - but not everyone is happy about it",
-      "summary": "Dutch regulator deems FSD (Supervised) safe to use...",
-      "source": "TechRadar",
-      "date": "2026-04-13",
-      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-decision-is-deeply-troubling-tesla-gets-a-green-light-for-full-self-driving-in-europe-but-not-everyone-is-happy-about-it"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/dutch-rdw-approval-of-tesla-fsd-is-valid-on-all-roads-in-the-netherlands-ce7e50deda89f526",
-      "title": "Dutch RDW: Approval of Tesla FSD is valid on all roads in the Netherlands",
-      "summary": "Dutch RDW: Approval of Tesla FSD is valid on all roads in the Netherlands\n......",
-      "source": "MarketScreener",
-      "date": "2026-04-13",
-      "url": "https://www.marketscreener.com/news/dutch-rdw-approval-of-tesla-fsd-is-valid-on-all-roads-in-the-netherlands-ce7e50deda89f526"
-    },
-    {
-      "id": "https://seekingalpha.com/article/4890174-wall-street-breakfast-podcast-flight-cuts-deepen-on-fuel-shock",
-      "title": "Wall Street Breakfast Podcast: Flight Cuts Deepen Oil Shock",
-      "summary": "Airlines cut global schedules as Iran-driven energy shock ripples into May. Tesla wins first European approval for FSD supervised. GSK bets big on cancer comeback with aggressive trial push....",
-      "source": "Seeking Alpha",
-      "date": "2026-04-13",
-      "url": "https://seekingalpha.com/article/4890174-wall-street-breakfast-podcast-flight-cuts-deepen-on-fuel-shock"
+      "id": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
+      "title": "Gary Black Says Tesla's $30K EV Could Have 'Huge Upside'",
+      "summary": "Gary Black suggested that Tesla's move could reflect challenges in its autonomous driving goals and growing EV competition....",
+      "source": "Benzinga",
+      "date": "2026-04-12",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity"
     }
   ]
 }
