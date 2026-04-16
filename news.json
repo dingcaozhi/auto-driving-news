@@ -1,159 +1,186 @@
 {
-  "lastUpdated": "2026-04-15 03:27:46",
-  "totalCount": 27,
+  "lastUpdated": "2026-04-16 08:01:46",
+  "totalCount": 37,
   "sources": {
-    "News_Baidu": 7,
-    "Chinanews": 2,
-    "Ithome": 2,
-    "Investing_Cn": 3,
-    "Fx168News": 1,
     "Bjnews": 1,
-    "Imobile": 1,
+    "Ithome": 4,
+    "News_Baidu": 6,
+    "Chinanews": 3,
+    "Investing_Cn": 2,
+    "Rfi_Fr": 1,
+    "City A.M.": 1,
+    "Benzinga": 6,
     "Japan Today": 1,
-    "Markets Insider": 1,
+    "Markets Insider": 2,
     "PR Newswire UK": 1,
     "The Japan Times ": 1,
-    "Benzinga": 2,
+    "Seeking Alpha": 3,
+    "TechRadar": 1,
+    "MarketScreener": 1,
+    "TNW": 1,
     "TechCrunch": 1,
-    "The Manila Times": 2,
-    "MarketScreener": 1
+    "The Manila Times": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862415266188504621",
-      "title": "调查|北京桥下空间停车场收费为何差这么多?记者探访",
-      "summary": "北京桥下空间整治提升三年行动(2024-2026年)进入收官之年,城市边角闲置空间被盘活,大批桥下停车场建成投用,为破解城区“停车难”开辟了新路径。“桥下停车场收费贵不贵?”“有居民优惠吗?”针对市民...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862415266188504621"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862455177358962805",
-      "title": "红星观察丨中国网络视听大会首设招聘会,触发成都产业..",
-      "summary": "在中国网络视听大会与成都迎来第十三次相约之际,一场前所未有的校园招聘会首次与盛会同期绽放。4月14日,中国网络视听大会校园招聘会的线下招聘在世纪城国际会议中心正式启动。优酷、腾讯、抖音、B站、快手等7...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862455177358962805"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-14/10603817.shtml",
-      "title": "青藏高原最大编组站五年中转运输货物近2亿吨",
-      "summary": "中新社西宁4月14日电 (祁增蓓 )中国铁路青藏集团有限公司格尔木车务段14日发布消息称,自2021年4月15日启用至今,青藏高原最大编组站——格尔木南站五年累计中转货物近2亿吨。...",
-      "source": "Chinanews",
-      "date": "2026-04-14",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-14/10603817.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-14/10603725.shtml",
-      "title": "4月起北京启动常态化严打跨省“黑车”行动",
-      "summary": "中新网北京4月14日电 (记者 吕少威)4月13日6时,来自北京市交通运输执法总队、朝阳与通州两区治安、交管及交通执法部门的30名执法人员已整装就位。在白庙南综合检查站内,执法人员紧盯进京方向,对通过大数据筛查发现的高频通行车辆、临牌及无牌车辆逐一拦停、仔细核查。...",
-      "source": "Chinanews",
-      "date": "2026-04-14",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-14/10603725.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/939/148.htm",
-      "title": "全球首个“自动驾驶移动空间”路线定档 4 月 20 日试运营",
-      "summary": "IT之家 4 月 14 日消息,全球首个“自动驾驶移动空间”路线 —— 贵阳“奇遇环线”将于 4 月 20 日正式启动试运营 。 IT之家查询获悉,该项目由贵阳高新区企业贵州翰凯斯智能技术有限公司联合合资公司贵州勘设泰宇坦行科技有限公司,在观山湖区启动商业化试点运营,标志着该企业定义的“自动驾驶移动空间”品类从技术研发迈入城市级商业验证阶段。 该环线位于观山湖区核心区域,串联起商圈、生态公园及大型...",
-      "source": "Ithome",
-      "date": "2026-04-14",
-      "url": "https://www.ithome.com/0/939/148.htm"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3310508",
-      "title": "Lucid换帅并扩大战略合作 沙特主权基金与优步再投7.5亿美元",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-14",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3310508"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862450929913498064",
-      "title": "太酷啦!一部手机,管千亩农场!",
-      "summary": "4月3日石家庄市赵县南姚家庄村的农田里生机盎然连片的冬小麦长势喜人赵县光辉农业机械服务专业合作社负责人姚风娟站在地头掏出手机点开一款应用程序土壤墒情、苗情分析、未来一周气象预报等信息一目了然齐耳短发,...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862450929913498064"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862451841813470672",
-      "title": "5G-A满格,AI服务满分,浙江移动护航中国国际园..",
-      "summary": "潮新闻客户端记者柳蓬随着备受瞩目的第十五届中国国际园林博览会即将在温州正式开幕,这两天,园区里提前迎来了一批批的外籍专家与海外媒体。他们循着花香与景致而来,以镜头沉浸式感受中国园林,将这份跨越山海的园...",
-      "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862451841813470672"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3310474",
-      "title": "MicroVision推出激光雷达部署合作伙伴计划",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-14",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3310474"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1015189",
-      "title": "随着跨市场投资需求加速增长,Bitget 推出差价合约跟单交易-FX168",
-      "summary": "塞舌尔维多利亚, April 14, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 Bitget 今日正式上线差价合约跟单交易功能,进一步拓展传统金融市场准入渠道,使用户能够在 Bitget 平台上自动跟随专业交易者,参与外汇、大宗商品及指数市场交易。 此次上线正值 Bitget 差价合约业务强劲增长之际,其近期单日交易量已突破 60 亿美元,反映出用户对全球市场波动加剧...",
-      "source": "Fx168News",
-      "date": "2026-04-14",
-      "url": "https://www.fx168news.com/article/1015189"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1776167468129778.html",
-      "title": "常态化严打跨省非法营运车辆,北京多部门开展联合执法",
+      "id": "https://www.bjnews.com.cn/detail/1776235137129233.html",
+      "title": "赛力斯康波出席2026世界互联网大会亚太峰会 分享AI赋能智能出行实践",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-14",
-      "url": "https://www.bjnews.com.cn/detail/1776167468129778.html"
+      "date": "2026-04-15",
+      "url": "https://www.bjnews.com.cn/detail/1776235137129233.html"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0414/234108.shtml",
-      "title": "把“天门山”搬进厂房 仰望U8以极致练兵场打磨硬核实力",
-      "summary": "近日,以“闯天关・征万境”为主题的仰望U8 2026款越野试炼挑战,在比亚迪综合越野开发中心正式开启。作为比亚迪面向全球电驱越野时代打造的战略级创新阵地,该中心集研发、测试验证与量产落地于一体,以12000平方米专业场地、覆盖百余种极限地形与工况,将极限刻入研发基因,为高端新能源越野构筑起严苛的性能试炼标准。 从单一技术突破,到体系化能力引领,比亚迪综合越野开发中心不仅全面打磨仰望U8等旗舰车型的...",
-      "source": "Imobile",
-      "date": "2026-04-14",
-      "url": "http://news.imobile.com.cn/articles/2026/0414/234108.shtml"
+      "id": "https://www.ithome.com/0/939/599.htm",
+      "title": "大众 ID.3 Neo 发布:续航超 600 公里,触摸滑块被实体按键取代",
+      "summary": "IT之家 4 月 15 日消息,大众汽车推出了其紧凑型电动车的重大改款车型,新车命名为 ID.3 Neo。 有趣的是,“Neo”这个后缀正是该车在内部研发阶段所使用的代号。虽然外观变化相对克制,但新车在续航、内饰和动力系统上均有实质性升级,其中最受关注的莫过于大众终于听取了用户反馈,彻底取消了备受诟病的触摸滑块,全面回归实体按键。 从外观来看,这是一次中期改款而非真正意义上的换代。ID.3 Neo...",
+      "source": "Ithome",
+      "date": "2026-04-15",
+      "url": "https://www.ithome.com/0/939/599.htm"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3310413",
-      "title": "智通港股解盘 | 大国博弈抢占AI制高点 次新股热潮持续演绎",
+      "id": "http://baijiahao.baidu.com/s?id=1862532687218310270",
+      "title": "美股三大期指齐跌;IMF下调2026年美国经济增长..",
+      "summary": "1【三大期指齐跌】截至发稿,道指期货跌0.13%、标普500指数期货跌0.06%、纳指期货跌0.04%。英伟达盘前跌0.74%,此前英伟达股价已连续10个交易日上涨,累计涨幅18.97%,为2023年...",
+      "source": "News_Baidu",
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862532687218310270"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862535339606866849",
+      "title": "自动驾驶下半场竞速,“物理AI”成核心方向,产业各..",
+      "summary": "智能驾驶行业的竞争核心,正逐渐由技术层面的比拼,过渡到与真实物理世界的深度连接。在今年1月举行的国际消费电子展(CES)上,英伟达CEO(首席执行官)黄仁勋在主旨演讲中17次提及“物理AI(人工智能)...",
+      "source": "News_Baidu",
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862535339606866849"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-15/10604322.shtml",
+      "title": "从“东数西算”到“阳高红” 塞北阳高推动算力农业协同发展",
+      "summary": "中新网大同4月15日电 (胡健 马静波 李常慧)春日清晨,山西省大同市阳高县中联绿色大数据产业基地内,数十排机柜整齐排列,服务器指示灯持续闪烁。大数据分析、云计算等核心业务有序运转,正为京津冀地区的量子通信、人工智能、自动驾驶等领域提供稳定高效的算力支撑。...",
+      "source": "Chinanews",
+      "date": "2026-04-15",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-15/10604322.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3312140",
+      "title": "特斯拉(TSLA.US)A15芯片成功流片!马斯克高呼:未来将成为全球产量最高AI芯片之一",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-04-14",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3310413"
+      "date": "2026-04-15",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3312140"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862429611077443271",
-      "title": "财经类自媒体账号乱象需警惕",
-      "summary": "[新闻页-台海网]扰乱资本市场、制造涉企谣言、为黑灰产引流——财经类自媒体账号乱象需警惕商海春绘(新华社发)半夜两点,上海股民老周刷着抖音,一条“A股交易时间即将大调整”的消息让他彻夜难眠...",
+      "id": "http://baijiahao.baidu.com/s?id=1862407462999957301",
+      "title": "中企承建纳米比亚罗什皮纳100兆瓦太阳能光伏电站—..",
+      "summary": "本文转自【人民日报】;距纳米比亚首都温得和克约8小时车程的卡拉斯省罗什皮纳镇,地处卡拉哈里盆地边缘,周边是辽阔无垠的红色沙丘。由中国江西国际经济技术合作有限公司与浙江正泰新能源开发有限公司联合承建的罗...",
       "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862429611077443271"
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862407462999957301"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862440578810735473",
-      "title": "牢记嘱托开新局 日新江淮往前赶|深耕AI+汽车领域..",
-      "summary": "大皖新闻讯把汽车级智能驾驶技术用于智能助行机器人,把高可信软件与AI算法注入电池管理系统......4月13日,“牢记嘱托开新局日新江淮往前赶”采访团走进科大国创。该企业聚焦AI+汽车赛道,智能云BMS、自动...",
+      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260415-%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6-%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BDstart-up%E7%AD%B9%E5%88%92%E5%9C%A8%E6%B3%95%E5%9B%BD%E8%90%BD%E5%9C%B0",
+      "title": "电动卡车:一家中国start-up筹划在法国落地",
+      "summary": "周三15日《回声报》报道指,中国风玫瑰科技(Windrose Technology)正在推进其在法国瓦朗谢讷(Les Valenciennes)附近建设电动卡车工厂的项目。该公司希望撼动行业巨头。这一计划获得了1.75亿欧元的投资支持。...",
+      "source": "Rfi_Fr",
+      "date": "2026-04-15",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260415-%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6-%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BDstart-up%E7%AD%B9%E5%88%92%E5%9C%A8%E6%B3%95%E5%9B%BD%E8%90%BD%E5%9C%B0"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862531336769197883",
+      "title": "智能游艇全球首航,桐庐实现无人装备“海陆空”全覆盖",
+      "summary": "潮新闻客户端记者何晟通讯员金黄璐敏4月14日下午,桐庐县产业高质量发展大会暨桐庐特色“人工智能+”行动启动仪式举行。这次会议的地点别具匠心,从传统的县政府会议中心搬到了富春轮船码头。因为桐庐特色“人工...",
       "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862440578810735473"
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862531336769197883"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862448165264313484",
-      "title": "浙江杭州:智能游艇畅游富春江",
-      "summary": "4月14日,一艘智能游艇畅游富春江。当日,该系列智能游艇在浙江杭州下水首航,其融合AI驾驶、新能源绿色动力、数字化云端运营等优势,以“船型机器人”重新定义水上交通工具。中新社记者郭其钰摄4月14日,一...",
+      "id": "http://baijiahao.baidu.com/s?id=1862528754381562879",
+      "title": "守护生态飞羽 共筑绿色高速",
+      "summary": "4月1日至7日“爱鸟周”期间,位于国营中洲农场腹地的中洲收费站,立足周边生态优良的自然环境,紧扣“爱鸟护鸟、守护生态”主题,开展形式多样、贴近司乘的宣传活动。强化宣传引导,厚植生态理念。活动期间,中洲...",
       "source": "News_Baidu",
-      "date": "2026-04-14",
-      "url": "http://baijiahao.baidu.com/s?id=1862448165264313484"
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862528754381562879"
     },
     {
-      "id": "https://www.ithome.com/0/939/128.htm",
-      "title": "小鹏 GX 旗舰 SUV 内饰首发亮相:寰宇线控方向盘、17.3 英寸 3K 超窄边大屏等",
-      "summary": "IT之家 4 月 14 日消息,小鹏汽车官方今日公布了旗舰 SUV —— 小鹏 GX 的内饰情况。据介绍,新车将搭载「寰宇量子头等舱」。 据介绍,小鹏 GX 旗舰 SUV 将配备「领航悬浮中岛」, 拥有升降充电面板 + 隐藏式杯托 ,兼顾功能和仪式感;采用「星空天际线门板」设计, 配备贯穿式星辰灯带和星绒透光皮革 。 新车还搭载了「寰宇线控方向盘」, 支持 135mm 电动伸缩 + 智能迎宾 。另...",
+      "id": "http://baijiahao.baidu.com/s?id=1862527566857675387",
+      "title": "从内河驶向深蓝,中国首艘万吨级纯电智能海船如何实现..",
+      "summary": "潮新闻客户端记者李沐子实习生唐诗4月15日,全球载箱量最大、国内首艘万吨级纯电动智能集装箱船“宁远电鲲”轮迎来首航。这只“鲲鹏”从宁波舟山港北仑港区启航,驶向嘉兴港乍浦港区。这一次,它不再借助传统燃油...",
+      "source": "News_Baidu",
+      "date": "2026-04-15",
+      "url": "http://baijiahao.baidu.com/s?id=1862527566857675387"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-15/10604302.shtml",
+      "title": "国内首艘万吨级纯电动智能船从宁波舟山港首航",
+      "summary": "中新网宁波4月15日电(奚金燕)4月15日下午4时20分,全球最大、国内首艘万吨级纯电动智能集装箱船“宁远电鲲”轮从宁波舟山港北仑港区解缆起航,驶向嘉兴港乍浦港区。此次首航也标志着国内沿海集装箱运输开启了纯电驱动、智能领航的全新探索发展阶段。...",
+      "source": "Chinanews",
+      "date": "2026-04-15",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-15/10604302.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3311900",
+      "title": "海外研选日报0415 | 德银建议卖出美元 澳新银行称油价恐继续高企",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-15",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3311900"
+    },
+    {
+      "id": "https://www.ithome.com/0/939/510.htm",
+      "title": "Claude 要求部分用户上传身份证件",
+      "summary": "IT之家 4 月 15 日消息,Anthropic 于当地时间 4 月 14 日发布公告,称 正在为 Claude 的一些用例推出身份验证。 Claude 是由 Anthropic 构建的大型语言模型(LLM),官方表示,当用户访问某些功能时,可能会看到验证提示,这是其例行平台完整性检查或其他安全和合规措施的一部分。仅使用用户的验证数据来确认身份, 不用于任何其他目的 。 IT之家附相关要求如下:...",
       "source": "Ithome",
+      "date": "2026-04-15",
+      "url": "https://www.ithome.com/0/939/510.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/939/598.htm",
+      "title": "一汽红旗天工 05 汽车获 4 月 OTA 大版本升级,新增支持华为鸿蒙手机钱包车钥匙",
+      "summary": "IT之家 4 月 15 日消息,一汽红旗今日宣布, 红旗天工 05 汽车迎来了 4 月 OTA 大版本升级 ,将带来华为鸿蒙手机钱包车钥匙、车辆未锁 App 提醒等八大核心功能。 IT之家附一汽红旗天工 05 汽车此次八大核心功能如下: 新增鸿蒙手机钱包数字车钥匙: 支持鸿蒙手机钱包数字钥匙,靠近即可无感解锁并启动车辆 (搭载鸿蒙操作系统 5.1 及以上,红旗智联 App 5.2.1 及以上版本)...",
+      "source": "Ithome",
+      "date": "2026-04-15",
+      "url": "https://www.ithome.com/0/939/598.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-15/10604397.shtml",
+      "title": "吉林国企改革再破题 “双引擎”重构新格局",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-04-15",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-15/10604397.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/939/576.htm",
+      "title": "比亚迪汉 EV 闪充版即将上市:展车陆续到店,搭载第二代刀片电池",
+      "summary": "IT之家 4 月 15 日消息,比亚迪王朝网销售事业部总经理路天今日宣布,比亚迪汉 EV 闪充版即将上市。新车搭载第二代刀片电池及闪充技术,展车已陆续到店。 目前该车已陆续到店,有媒体拍摄到了实车图。外观方面,汉 EV 闪充版与在售车型基本保持一致,延续了“龙颜美学”设计理念。 车身尺寸可参考在售车型,长宽高分别为 4995 毫米、1910 毫米、1495 毫米,轴距为 2920 毫米。 智能驾驶...",
+      "source": "Ithome",
+      "date": "2026-04-15",
+      "url": "https://www.ithome.com/0/939/576.htm"
+    },
+    {
+      "id": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/",
+      "title": "Wayve bags AMD, Arm and Qualcomm cash as AV push accelerates",
+      "summary": "British autonomous driving firm Wayve has secured $60m from chip giants AMD, Arm, and Qualcomm Ventures, amid its AI driving push...",
+      "source": "City A.M.",
+      "date": "2026-04-15",
+      "url": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it",
+      "title": "Tesla Promises Lower Insurance Premiums With 'Every Mile' Of Supervised FSD Driving: Here's How To Avail",
+      "summary": "Tesla says drivers can get lower insurance premiums with the latest Safety Score v3.0 with Full Self-Driving technology....",
+      "source": "Benzinga",
+      "date": "2026-04-15",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it"
+    },
+    {
+      "id": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership",
+      "title": "Pony AI Stock Rises After Uber, Lucid Expand Robotaxi Partnership",
+      "summary": "Pony AI Inc (NASDAQ:PONY) shares are rising on Tuesday after autonomous‑driving partner Uber Technologies Inc (NYSE:UBER) expanded its robotaxi collaboration with Lucid....",
+      "source": "Benzinga",
       "date": "2026-04-14",
-      "url": "https://www.ithome.com/0/939/128.htm"
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership"
     },
     {
       "id": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models",
@@ -162,6 +189,22 @@
       "source": "Japan Today",
       "date": "2026-04-14",
       "url": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/51796625/gary-black-calls-teslas-fsd-approval-in-europe-non-event-heres-why",
+      "title": "Gary Black Calls Tesla's FSD Approval In Europe 'Non-Event'-Here's Why",
+      "summary": "Gary Black outlines why Tesla's FSD approval in Netherlands is insignificant, saying that it needs advertising for increased adoption....",
+      "source": "Benzinga",
+      "date": "2026-04-14",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51796625/gary-black-calls-teslas-fsd-approval-in-europe-non-event-heres-why"
+    },
+    {
+      "id": "https://markets.businessinsider.com/news/stocks/investors-need-more-proof-of-real-autonomy-says-ms-as-tesla-s-fsd-nears-10b-miles-1036018681",
+      "title": "‘Investors Need More Proof of Real Autonomy,’ Says MS as Tesla’s FSD Nears 10B Miles",
+      "summary": "EV maker Tesla (TSLA) is approaching a key milestone, with nearly 10 billion miles driven using its Full Self-Driving (FSD) system. However, fiv......",
+      "source": "Markets Insider",
+      "date": "2026-04-14",
+      "url": "https://markets.businessinsider.com/news/stocks/investors-need-more-proof-of-real-autonomy-says-ms-as-tesla-s-fsd-nears-10b-miles-1036018681"
     },
     {
       "id": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059",
@@ -188,52 +231,36 @@
       "url": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/"
     },
     {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
-      "title": "Gary Black Says Tesla's $30K EV Could Have 'Huge Upside'",
-      "summary": "Gary Black suggested that Tesla's move could reflect challenges in its autonomous driving goals and growing EV competition....",
-      "source": "Benzinga",
-      "date": "2026-04-12",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity"
+      "id": "https://seekingalpha.com/news/4574517-tesla-is-in-the-spotlight-as-the-robotaxi-rollout-cuts-into-cash-flow",
+      "title": "Tesla is in the spotlight as the robotaxi rollout cuts into cash flow",
+      "summary": "Tesla nears 10B FSD miles as Morgan Stanley flags capex/FCF risks....",
+      "source": "Seeking Alpha",
+      "date": "2026-04-13",
+      "url": "https://seekingalpha.com/news/4574517-tesla-is-in-the-spotlight-as-the-robotaxi-rollout-cuts-into-cash-flow"
     },
     {
-      "id": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-      "title": "TechCrunch is heading to Tokyo - and bringing the Startup Battlefield with it",
-      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...",
-      "source": "TechCrunch",
-      "date": "2026-04-10",
-      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/"
+      "id": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-decision-is-deeply-troubling-tesla-gets-a-green-light-for-full-self-driving-in-europe-but-not-everyone-is-happy-about-it",
+      "title": "'The decision is deeply troubling': Tesla gets a green light for Full Self-Driving in Europe - but not everyone is happy about it",
+      "summary": "Dutch regulator deems FSD (Supervised) safe to use...",
+      "source": "TechRadar",
+      "date": "2026-04-13",
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-decision-is-deeply-troubling-tesla-gets-a-green-light-for-full-self-driving-in-europe-but-not-everyone-is-happy-about-it"
     },
     {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins",
-      "title": "What's Going On With Alibaba Stock Friday?",
-      "summary": "Alibaba (BABA) pivots to \"world models,\" investing $290M in ShengShu to bridge AI with robotics and autonomous driving. Read the full update....",
-      "source": "Benzinga",
-      "date": "2026-04-10",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/ponyai-launches-ponyworld-20-a-self-improving-physical-ai-engine-for-autonomous-driving/2317810",
-      "title": "Pony.ai Launches PonyWorld 2.0, a Self-Improving Physical AI Engine for Autonomous Driving",
-      "summary": "New world model upgrade enables AI to diagnose its own weaknesses, guide targeted data collection, and support the next phase of large-scale L4 commercializationGUANGZHOU, China, April 10, 2026 /PRNew...",
-      "source": "The Manila Times",
-      "date": "2026-04-10",
-      "url": "https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/ponyai-launches-ponyworld-20-a-self-improving-physical-ai-engine-for-autonomous-driving/2317810"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22",
-      "title": "Pony.ai launches Ponyworld 2.0, a self-improving physical AI engine for autonomous driving",
-      "summary": "Pony AI Inc:\nPony.ai launches Ponyworld 2.0, a self-improving physical AI engine for autonomous driving\n......",
+      "id": "https://www.marketscreener.com/news/dutch-rdw-approval-of-tesla-fsd-is-valid-on-all-roads-in-the-netherlands-ce7e50deda89f526",
+      "title": "Dutch RDW: Approval of Tesla FSD is valid on all roads in the Netherlands",
+      "summary": "Dutch RDW: Approval of Tesla FSD is valid on all roads in the Netherlands\n......",
       "source": "MarketScreener",
-      "date": "2026-04-10",
-      "url": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22"
+      "date": "2026-04-13",
+      "url": "https://www.marketscreener.com/news/dutch-rdw-approval-of-tesla-fsd-is-valid-on-all-roads-in-the-netherlands-ce7e50deda89f526"
     },
     {
-      "id": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
-      "title": "2026 Kia CEO Investor Day: Kia to Drive Exponential Growth and Manufacturing Innovation by Expanding Its Full Electrified Vehicle Lineup and Strengthening Future Business Capabilities",
-      "summary": "Kia presents its 2030 mid- to long-term strategy, detailing its vehicle- and region-specific exponential growth plansTargets global sales of 4.13 million units per year by 2030, with a global market s...",
-      "source": "The Manila Times",
-      "date": "2026-04-09",
-      "url": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039"
+      "id": "https://seekingalpha.com/article/4890174-wall-street-breakfast-podcast-flight-cuts-deepen-on-fuel-shock",
+      "title": "Wall Street Breakfast Podcast: Flight Cuts Deepen Oil Shock",
+      "summary": "Airlines cut global schedules as Iran-driven energy shock ripples into May. Tesla wins first European approval for FSD supervised. GSK bets big on cancer comeback with aggressive trial push....",
+      "source": "Seeking Alpha",
+      "date": "2026-04-13",
+      "url": "https://seekingalpha.com/article/4890174-wall-street-breakfast-podcast-flight-cuts-deepen-on-fuel-shock"
     }
   ]
 }
