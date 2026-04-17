@@ -1,190 +1,162 @@
 {
-  "lastUpdated": "2026-04-17 08:02:49",
-  "totalCount": 40,
+  "lastUpdated": "2026-04-17 03:30:53",
+  "totalCount": 27,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 6,
-    "Rfi_Fr": 1,
-    "Jiemian": 1,
+    "Orientaldaily": 1,
+    "Zaobao": 1,
+    "Ithome": 4,
+    "Bjnews": 4,
+    "Investing_Cn": 2,
+    "Theportugalnews": 1,
+    "News_Baidu": 2,
+    "Cri_Cn": 1,
     "Chinanews": 1,
-    "Eeo": 2,
-    "Cri_Cn": 2,
-    "Fx168News": 1,
-    "Smzdm": 1,
     "CBC.ca": 1,
     "City A.M.": 2,
     "Firstpost": 1,
     "TechStartups.com": 1,
     "Metro.co.uk": 1,
-    "Benzinga": 4,
-    "Barchart": 1,
+    "Benzinga": 1,
     "Japan Today": 1,
-    "Markets Insider": 2,
-    "PR Newswire UK": 1,
-    "Seeking Alpha": 3,
-    "TechRadar": 1,
-    "MarketScreener": 1
+    "Markets Insider": 1,
+    "PR Newswire UK": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-04-17",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "id": "https://www.orientaldaily.com.my/news/international/2026/04/16/811865",
+      "title": "泼水节失控!私家车遭强开车门狂喷水 车内进水冒烟“死火”",
+      "summary": "(景洪16日讯)中国云南西双版纳泼水节期间屡传争议事件,一辆私家车在行经活动现场时,遭多名民众强行打开车门与后备箱并持续喷水,导致车内严重进水,机械冒烟故障抛锚!据中国媒体报导,事发于景洪市。车主妻子孙女士表示,周二(14日)下午,她与家人一行四人驾车外出用餐,返回酒店途中经过泼水节活动区域,原本打算用手机记录热闹场面,未料突遭意外。她指出,当车辆行驶至现场时,右侧车门突然被外人拉开,随即有人持高...",
+      "source": "Orientaldaily",
+      "date": "2026-04-16",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/04/16/811865"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-04-17",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "id": "https://www.zaobao.com.sg/news/china/story20260416-8906962",
+      "title": "苏林四天内两搭中国高铁历时12小时创纪录 释政治信号",
+      "summary": "越共总书记、越南国家主席苏林在四天访华行程中,两度乘搭中国高铁。外国政要长时间乘高铁横跨中国南北数千公里,相当罕见;总时长达12小时,也在访华外国领导人中创纪录。...",
+      "source": "Zaobao",
+      "date": "2026-04-16",
+      "url": "https://www.zaobao.com.sg/news/china/story20260416-8906962"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1z5QEBjEtJ",
-      "title": "【B站】对话朱西产：自动驾驶的“最后一公里”究竟卡在哪？",
-      "summary": "独家对话资深汽车安全专家朱西产教授！深度拆解自动驾驶「最后一公里」究竟卡在哪，从行业痛点、技术瓶颈、安全权责到法规伦理，全面剖析 L3 落地难题、Robotaxi 真实困境与智驾产业化痛点。硬核解读行业底层逻辑、技术路线与商业化突围，汽车 / AI / 自动驾驶爱好者必看！关注 + 一键三连，评论区...",
-      "source": "Bilibili",
-      "date": "2026-04-17",
-      "url": "https://www.bilibili.com/video/BV1z5QEBjEtJ"
+      "id": "https://www.ithome.com/0/940/085.htm",
+      "title": "国内首颗!我国车规级先进制程多域融合芯片“红旗 1 号”自主研制成功,破解“卡脖子”困局",
+      "summary": "IT之家 4 月 16 日消息,据“红旗研发新视界”公众号今日分享,当前,车规级大算力芯片已成为智能网联汽车的核心竞争高地,但高端芯片依赖进口、供应链风险突出,制约产业高质量发展。 在此背景下,中国一汽研发总院联合行业伙伴, 成功研制出国内首颗车规级先进制程多域融合芯片 ——“红旗 1 号” ,并实现了“红旗 1 号”的自主研制,降低了对进口芯片的依赖。 据介绍,“红旗 1 号”并非传统意义上的单...",
+      "source": "Ithome",
+      "date": "2026-04-16",
+      "url": "https://www.ithome.com/0/940/085.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
-      "date": "2026-04-17",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+      "id": "https://www.bjnews.com.cn/detail/1776346743169129.html",
+      "title": "对话何小鹏:要思考如何用AI思维造车",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-16",
+      "url": "https://www.bjnews.com.cn/detail/1776346743169129.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
-      "title": "【B站】【科普】自动驾驶分级及原理",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-04-17",
-      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3314910",
+      "title": "当前最值得买入的互联网股票:Wolfe研究推荐的大盘股精选",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-16",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3314910"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862592498951804020",
-      "title": "603906、600768,强势涨停!",
-      "summary": "今日(4月16日)市场主要指数集体高开。盘面上,电池板块大幅拉升,龙蟠科技、圣阳股份涨停,天华新能、科达利、震裕科技等涨幅居前。影视院线股全线上涨,华谊兄弟“20cm”涨停,华策影视、捷成股份、博纳影...",
+      "id": "https://www.bjnews.com.cn/detail/1776342975129511.html",
+      "title": "何小鹏重申“跳过L3”,认为最安全路径是从L2直接到L4",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-16",
+      "url": "https://www.bjnews.com.cn/detail/1776342975129511.html"
+    },
+    {
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-04-16/portugal-wants-to-deepen-ties-with-ethiopia-and-kenya/1008265",
+      "title": "葡萄牙希望深化与埃塞俄比亚和肯尼亚的关系",
+      "summary": "外交部长在对埃塞俄比亚和肯尼亚进行正式访问后向卢萨强调,鉴于葡萄牙与这两个国家良好的历史关系,葡萄牙希望深化经济、战略和文化伙伴关系。...",
+      "source": "Theportugalnews",
+      "date": "2026-04-16",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-04-16/portugal-wants-to-deepen-ties-with-ethiopia-and-kenya/1008265"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862626657724286956",
+      "title": "张家界交警曝光未戴头盔违法行为 筑牢交通安全防线",
+      "summary": "红网时刻新闻通讯员杨素怡报道为进一步强化道路交通安全管理,推动“一盔一带”安全守护行动走深走实,引导群众养成安全出行习惯,张家界交警持续加大对电动自行车、摩托车驾乘人员未佩戴安全头盔行为的巡查抓拍力度...",
       "source": "News_Baidu",
       "date": "2026-04-16",
-      "url": "http://baijiahao.baidu.com/s?id=1862592498951804020"
+      "url": "http://baijiahao.baidu.com/s?id=1862626657724286956"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260416-%E6%B3%95%E5%9B%BD-%E7%AB%8B%E6%B3%95%E5%8F%96%E6%B6%88%E4%BD%8E%E6%8E%92%E6%94%BE%E5%8C%BA-zfe-%E5%AF%B9%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F-%E5%81%A5%E5%BA%B7%E5%92%8C%E6%B3%95%E5%BE%8B%E7%9A%84%E6%BD%9C%E5%9C%A8%E5%BD%B1%E5%93%8D",
-      "title": "法国:立法取消低排放区(ZFE)对空气质量、健康和法律的潜在影响",
-      "summary": "在法国,继国民议会批准后,旨在“简化”经济生活,包括具有争议的支持取消碳低排放区(ZFE)政策的法案也于4月15日星期三获得法国参议院通过,这标志着历时两年的辩论最终以该法案的通过而告终,同时也引发了不少该措施对空气质量、健康和法律的潜在影响的争议,其范围甚至不断扩大,最终可能会演变成围绕环境标准展开的政治斗争的温床。...",
-      "source": "Rfi_Fr",
+      "id": "https://news.cri.cn/20260416/baef9e38-774b-1f27-6c28-2311191a6712.html",
+      "title": "[视频]【新思想引领新征程】推动京津冀协同发展不断迈上新台阶-国际在线",
+      "summary": "央视网消息(新闻联播):习近平总书记指出,要从全局的高度和更长远的考虑来认识和做好京津冀协同发展工作,增强协同发展的自觉性、主动性、创造性,保持历史耐心和战略定力,稳扎稳打,勇于担当,敢于创新,善作善成,下更大气力推动京津冀协同发展取得...",
+      "source": "Cri_Cn",
       "date": "2026-04-16",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260416-%E6%B3%95%E5%9B%BD-%E7%AB%8B%E6%B3%95%E5%8F%96%E6%B6%88%E4%BD%8E%E6%8E%92%E6%94%BE%E5%8C%BA-zfe-%E5%AF%B9%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F-%E5%81%A5%E5%BA%B7%E5%92%8C%E6%B3%95%E5%BE%8B%E7%9A%84%E6%BD%9C%E5%9C%A8%E5%BD%B1%E5%93%8D"
+      "url": "https://news.cri.cn/20260416/baef9e38-774b-1f27-6c28-2311191a6712.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862622843864235667",
-      "title": "打造AI+辅助出行的“中国样本”!松江这家企业与京..",
-      "summary": "在近日举行的第93届中国国际医疗器械博览会(cmef)上,京东健康与松江企业上海邦邦机器人有限公司宣布达成战略合作,并发布首款落地产品——邦邦车“守护星”c30 ultra,标志ai技术在辅助出行领......",
-      "source": "News_Baidu",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3314792",
+      "title": "马斯克亲自托举?数据显示Cybertruck近五分之一销量来自自家企业",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
       "date": "2026-04-16",
-      "url": "http://baijiahao.baidu.com/s?id=1862622843864235667"
+      "url": "https://cn.investing.com/news/stock-market-news/article-3314792"
     },
     {
-      "id": "https://www.jiemian.com/article/14262018.html",
-      "title": "地方新闻精选 | 浙江率先探索建设“潮汐学校” 泰安通报“患者输液休克昏迷事件”",
-      "summary": "今天有哪些地方新闻值得关注?千万网红博主称在大凉山帮扶被骗:当地调查,警方介入;内蒙古一研究院1200元办院士证被叫停,官方责令退回费用;西双版纳泼水节一汽车被强拉开车门喷水,警方称正核实。...",
-      "source": "Jiemian",
-      "date": "2026-04-16",
-      "url": "https://www.jiemian.com/article/14262018.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-16/10605070.shtml",
-      "title": "工业和信息化部:“十五五”时期将加快汽车产业关键核心标准研制",
-      "summary": "“十五五”规划纲要明确提出“强化国家标准引领”“推进标准更新升级”。记者今天(16日)从工业和信息化部获悉,“十五五”时期,我国将通过多项标准工作举措提升引领我国汽车产业高质量发展。...",
+      "id": "https://www.chinanews.com.cn/sh/2026/04-16/10605211.shtml",
+      "title": "广东江门:警企联动 为柑园低空作业系上“安全缰绳”",
+      "summary": "中新网江门4月16日电 (郭军 王忠豪)时下,在广东侨乡江门新会,14.3万亩陈皮柑园正值挂花飘香的黄金时节。在这片孕育出超260亿元全产业链产值的“中国陈皮之乡”,农用无人机往来穿梭,为柑树精准喷洒、高效植保,绘就了一幅现代农业的繁忙图景。...",
       "source": "Chinanews",
       "date": "2026-04-16",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-16/10605070.shtml"
+      "url": "https://www.chinanews.com.cn/sh/2026/04-16/10605211.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862621728582047245",
-      "title": "2026年西安将保障多个交通重大项目早开快建 高质..",
-      "summary": "4月16日,西安市委宣传部、市政府新闻办举行“统筹推进‘十个聚焦’实现‘十五五’良好开局”主题系列新闻发布会第八场,市交通运输局局长马胜利、市住建局副局长雷涛、市城管局副局长张国立到会,介绍了有关...",
+      "id": "https://www.bjnews.com.cn/detail/1776332202168515.html",
+      "title": "探馆消博会|从智能穿戴到便民设施,AI如何给智慧生活添彩?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-16",
+      "url": "https://www.bjnews.com.cn/detail/1776332202168515.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776344279129536.html",
+      "title": "电影嘉年华开幕 40余项活动将在怀柔上演",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-16",
+      "url": "https://www.bjnews.com.cn/detail/1776344279129536.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862629616848112075",
+      "title": "车内布局曝光!上海地铁22号线“紫金战车”来了,时..",
+      "summary": "据直播株洲消息:4月16日,上海轨道交通22号线(崇明线)22001号“紫金战车”下线。车辆搭载GoA4最高等级全自动无人驾驶系统,时速可达120公里...",
       "source": "News_Baidu",
       "date": "2026-04-16",
-      "url": "http://baijiahao.baidu.com/s?id=1862621728582047245"
+      "url": "http://baijiahao.baidu.com/s?id=1862629616848112075"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0416/841005.shtml",
-      "title": "第23个自贸区落子内蒙古:向北开放格局如何被重塑?",
-      "summary": "NewsData报道",
-      "source": "Eeo",
+      "id": "https://www.ithome.com/0/940/076.htm",
+      "title": "大众、小鹏合作首款车型:中大型 SUV 与众 08 上市,起步价 22.99 万元",
+      "summary": "IT之家 4 月 16 日消息,由大众汽车与小鹏汽车联合开发的首款车型 —— 中大型 SUV“与众 08”今晚正式上市。新车定位“跃级智美大五座 SUV”, 价格区间为 22.99 万元-28.99 万元 。 Pure 后驱(82kWh / 630km):22.99 万元; Ultra 后驱(95kWh / 730km):24.99 万元; Max 四驱(95kWh / 700km):28.99 ...",
+      "source": "Ithome",
       "date": "2026-04-16",
-      "url": "http://www.eeo.com.cn/2026/0416/841005.shtml"
+      "url": "https://www.ithome.com/0/940/076.htm"
     },
     {
-      "id": "https://news.cri.cn/20260416/637c8533-9d4b-4618-ae7a-c9c00c462e42.html",
-      "title": "全球嘉宾齐聚维港 共探 AI 惠民路径—— 2026 世界互联网大会亚太峰会智惠民生论坛综述-国际在线",
-      "summary": "国际在线报道(记者毛川):四月的香港,春风拂面,香江潮涌。4月14日上午,2026年世界互联网大会亚太峰会智惠民生论坛在香港举行,来自亚太地区乃至全球多国的嘉宾齐聚香港国际会展中心,围绕“智惠民生・共创美好生活”这一主题,分享见解、展示...",
-      "source": "Cri_Cn",
+      "id": "https://www.ithome.com/0/940/075.htm",
+      "title": "11.28 万元起,吉利银河星耀 7 轿车正式开启预售",
+      "summary": "IT之家 4 月 16 日消息,吉利汽车宣布旗下银河星耀 7 正式开启预售,预售价 11.28 万元起,IT之家整理价格如下: 220km 四驱星耀版:11.28 万元 230km 两驱探索 + 版:12.18 万元 230km 两驱领航版:12.88 万元 230km 两驱远航版:14.28 万元 吉利银河星耀 7 延续银河家族“涟漪美学”设计语言,前脸采用“银河星瀑”纵向格栅搭配可发光中网,匹...",
+      "source": "Ithome",
       "date": "2026-04-16",
-      "url": "https://news.cri.cn/20260416/637c8533-9d4b-4618-ae7a-c9c00c462e42.html"
+      "url": "https://www.ithome.com/0/940/075.htm"
     },
     {
-      "id": "https://news.cri.cn/20260416/734fcd3d-2332-8a4e-8d26-7dfd70bd4924.html",
-      "title": "工业和信息化部:“十五五”时期将加快汽车产业关键核心标准研制-国际在线",
-      "summary": "“十五五”规划纲要明确提出“强化国家标准引领”“推进标准更新升级”。记者今天(16日)从工业和信息化部获悉,“十五五”时期,我国将通过多项标...",
-      "source": "Cri_Cn",
+      "id": "https://www.ithome.com/0/940/073.htm",
+      "title": "全新深蓝 S07 华为乾崑激光版预热:全车搭载 27 个传感器融合感知系统、支持 WEWA 架构 ADS 4.1",
+      "summary": "IT之家 4 月 16 日消息,长安深蓝汽车今日继续预热全新深蓝 S07 华为乾崑激光版汽车。目前,新车已首发亮相,并公布了外观。 IT之家从深蓝汽车获悉, 深蓝 S07 华为乾崑激光版全车搭载 27 个传感器融合感知系统 ,支持全新 WEWA 架构的华为乾崑 ADS 4.1 辅助驾驶系统。 在具体的泊车辅助驾驶场景上,深蓝 S07 华为乾崑激光版支持遥控泊车辅助 RPA、离车泊入辅助 EPA、自...",
+      "source": "Ithome",
       "date": "2026-04-16",
-      "url": "https://news.cri.cn/20260416/734fcd3d-2332-8a4e-8d26-7dfd70bd4924.html"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0416/840994.shtml",
-      "title": "“不差钱”的德赛西威,为何要赴港上市",
-      "summary": "德赛西威港股上市的时机选择面临挑战。一方面,德赛西威账面上并不缺钱;另一方面,港股汽车零部件板块估值普遍偏低,德赛西威此时上市可能面临估值折价。...",
-      "source": "Eeo",
-      "date": "2026-04-16",
-      "url": "http://www.eeo.com.cn/2026/0416/840994.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862605268086396434",
-      "title": "教科人一体改革·高校亮招|苏州大学:让学生跟着企业..",
-      "summary": "科技日报记者张晔近日,苏州大学未来科学与工程学院与苏州朗开医疗技术有限公司联合研发的多通道电磁导航系统,成功通过工业和信息化部“揭榜挂帅”项目验收,并实现产业化落地,填补了国内呼吸道精准定位领域空白。...",
-      "source": "News_Baidu",
-      "date": "2026-04-16",
-      "url": "http://baijiahao.baidu.com/s?id=1862605268086396434"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1016218",
-      "title": "Bitget 推出经纪商“顶格赏金”计划,新经纪商最高可获 12,000 USDT 奖励-FX168",
-      "summary": "塞舌尔维多利亚, April 16, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 今日推出经纪商“顶格赏金”计划 (Broker Max Check Program),这是一项面向 2026 年 4 月 1 日起加入的经纪商的全新激励活动。 该计划在标准返佣之外,根据经纪商入驻后前 60 天内产生的交易量,提供最高 12,000 USDT 的额...",
-      "source": "Fx168News",
-      "date": "2026-04-16",
-      "url": "https://www.fx168news.com/article/1016218"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862619950245737496",
-      "title": "八位歌手走进阿斯塔纳!《声起地平线》收官采风开启",
-      "summary": "丝路万里,以乐传情,歌手们将带着一路相伴的默契,奔赴三场截然不同的遇见——今晚湖南卫视和芒果TV将播出的《声起地平线》最新一期中,歌手们将迎来本季音乐之旅的最后一站——哈萨克斯坦首都阿斯塔纳的收官采风...",
-      "source": "News_Baidu",
-      "date": "2026-04-16",
-      "url": "http://baijiahao.baidu.com/s?id=1862619950245737496"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862617915203709009",
-      "title": "光梭未来荣耀时刻|成功入围“中国品牌创新发展工程”",
-      "summary": "近日,光梭未来迎来荣耀时刻——凭借在新能源智能重卡领域的技术突破与产业引领实力,成功入围国家级权威平台“中国品牌创新发展工程”。这不仅是对光梭未来硬核科技实力与品牌价值的权威认可,更是中国新能源商用车...",
-      "source": "News_Baidu",
-      "date": "2026-04-16",
-      "url": "http://baijiahao.baidu.com/s?id=1862617915203709009"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad75pzmd/",
-      "title": "优秀操控是惊喜 极狐全新阿尔法s5",
-      "summary": "极狐阿尔法S5作为刚刚上市的新车型,推出了纯电与增程两种版本。在300多公里的多路况测试中,该车在底盘调校、动力响应及智能驾驶方面的表现尤为突出,特别是麦格纳制造工艺带来的操控质感,成为其主要竞争优势。01车型设计与空间参数新车在外观与内饰上进行了多项升......",
-      "source": "Smzdm",
-      "date": "2026-04-16",
-      "url": "https://post.smzdm.com/p/ad75pzmd/"
+      "url": "https://www.ithome.com/0/940/073.htm"
     },
     {
       "id": "https://www.cbc.ca/news/business/waymo-ontario-self-driving-cars-9.7163535",
@@ -235,36 +207,36 @@
       "url": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/"
     },
     {
-      "id": "https://www.benzinga.com/news/financing/26/04/51847495/tesla-launches-fsd-streaks-is-self-driving-software-being-gamified",
-      "title": "Tesla Launches FSD Streaks: Is Self-Driving Software Being 'Gamified?'",
-      "summary": "Tesla will show FSD subscribers how often they use self-driving and what percent of their miles come from this method. The stats could lead to increased FSD miles for Tesla users....",
-      "source": "Benzinga",
-      "date": "2026-04-15",
-      "url": "https://www.benzinga.com/news/financing/26/04/51847495/tesla-launches-fsd-streaks-is-self-driving-software-being-gamified"
-    },
-    {
-      "id": "https://www.barchart.com/story/news/1322296/tesla-just-scored-an-fsd-win-in-europe-what-does-that-mean-for-tsla-stock",
-      "title": "Tesla Just Scored an FSD Win in Europe. What Does That Mean for TSLA Stock?",
-      "summary": "Dutch regulators became the first in Europe to approve Tesla's FSD Supervised. Here's what that means for TSLA stock and the company's autonomous future....",
-      "source": "Barchart",
-      "date": "2026-04-15",
-      "url": "https://www.barchart.com/story/news/1322296/tesla-just-scored-an-fsd-win-in-europe-what-does-that-mean-for-tsla-stock"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it",
-      "title": "Tesla Promises Lower Insurance Premiums With 'Every Mile' Of Supervised FSD Driving: Here's How To Avail",
-      "summary": "Tesla says drivers can get lower insurance premiums with the latest Safety Score v3.0 with Full Self-Driving technology....",
-      "source": "Benzinga",
-      "date": "2026-04-15",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it"
-    },
-    {
       "id": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership",
       "title": "Pony AI Stock Rises After Uber, Lucid Expand Robotaxi Partnership",
       "summary": "Pony AI Inc (NASDAQ:PONY) shares are rising on Tuesday after autonomous‑driving partner Uber Technologies Inc (NYSE:UBER) expanded its robotaxi collaboration with Lucid....",
       "source": "Benzinga",
       "date": "2026-04-14",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership"
+    },
+    {
+      "id": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models",
+      "title": "Nissan to add AI autonomous driving tech to 90% of future models",
+      "summary": "Nissan Motor Co said Tuesday it plans to add an autonomous driving system employing artificial intelligence to 90 percent of its future models as it aims to revive its sluggish sales. The Japanese aut...",
+      "source": "Japan Today",
+      "date": "2026-04-14",
+      "url": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models"
+    },
+    {
+      "id": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059",
+      "title": "NATIX Joins Autoware to Supply Multi-Camera Data to Build Open-Source End-to-End Autonomous Driving Model",
+      "summary": "Hamburg, Germany, April 13th, 2026, FinanceWireAs a Premium Member, NATIX will provide large-scale multi-camera driving data ......",
+      "source": "Markets Insider",
+      "date": "2026-04-13",
+      "url": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-achieves-aspice-cl2-certification-strengthening-global-rd-platform-and-readiness-for-international-collaboration-302740111.html",
+      "title": "Inceptio Technology Achieves ASPICE CL2 Certification, Strengthening Global R&D Platform and Readiness for International Collaboration",
+      "summary": "/PRNewswire/ -- Inceptio Technology (\"Inceptio\" or the \"Company\"), a leading developer of autonomous driving technologies for trucks, has achieved Automotive......",
+      "source": "PR Newswire UK",
+      "date": "2026-04-13",
+      "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-achieves-aspice-cl2-certification-strengthening-global-rd-platform-and-readiness-for-international-collaboration-302740111.html"
     }
   ]
 }
