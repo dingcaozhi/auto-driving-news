@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "lastUpdated": "2026-04-16 03:35:01",
   "totalCount": 27,
   "sources": {
@@ -14,9 +15,30 @@
     "Firstpost": 1,
     "TechStartups.com": 1,
     "Benzinga": 2,
+=======
+  "lastUpdated": "2026-04-17 08:01:27",
+  "totalCount": 35,
+  "sources": {
+    "News_Baidu": 6,
+    "Rfi_Fr": 1,
+    "Jiemian": 1,
+    "Chinanews": 1,
+    "Eeo": 2,
+    "Cri_Cn": 2,
+    "Fx168News": 1,
+    "Smzdm": 1,
+    "CBC.ca": 1,
+    "City A.M.": 2,
+    "Firstpost": 1,
+    "TechStartups.com": 1,
+    "Metro.co.uk": 1,
+    "Benzinga": 4,
+    "Barchart": 1,
+>>>>>>> b3becdc (Update news 2026-04-17 08:01)
     "Japan Today": 1,
     "Markets Insider": 1,
     "PR Newswire UK": 1,
+<<<<<<< HEAD
     "The Japan Times ": 1
   },
   "news": [
@@ -128,11 +150,23 @@
       "id": "http://baijiahao.baidu.com/s?id=1862532687218310270",
       "title": "美股三大期指齐跌;IMF下调2026年美国经济增长..",
       "summary": "1【三大期指齐跌】截至发稿,道指期货跌0.13%、标普500指数期货跌0.06%、纳指期货跌0.04%。英伟达盘前跌0.74%,此前英伟达股价已连续10个交易日上涨,累计涨幅18.97%,为2023年...",
+=======
+    "Seeking Alpha": 3,
+    "TechRadar": 1,
+    "MarketScreener": 1
+  },
+  "news": [
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862592498951804020",
+      "title": "603906、600768,强势涨停!",
+      "summary": "今日(4月16日)市场主要指数集体高开。盘面上,电池板块大幅拉升,龙蟠科技、圣阳股份涨停,天华新能、科达利、震裕科技等涨幅居前。影视院线股全线上涨,华谊兄弟“20cm”涨停,华策影视、捷成股份、博纳影...",
+>>>>>>> b3becdc (Update news 2026-04-17 08:01)
       "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862532687218310270"
+      "date": "2026-04-16",
+      "url": "http://baijiahao.baidu.com/s?id=1862592498951804020"
     },
     {
+<<<<<<< HEAD
       "id": "https://cn.investing.com/news/stock-market-news/article-3312140",
       "title": "特斯拉(TSLA.US)A15芯片成功流片!马斯克高呼:未来将成为全球产量最高AI芯片之一",
       "summary": "NewsData报道",
@@ -173,12 +207,161 @@
       "url": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html"
     },
     {
+=======
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260416-%E6%B3%95%E5%9B%BD-%E7%AB%8B%E6%B3%95%E5%8F%96%E6%B6%88%E4%BD%8E%E6%8E%92%E6%94%BE%E5%8C%BA-zfe-%E5%AF%B9%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F-%E5%81%A5%E5%BA%B7%E5%92%8C%E6%B3%95%E5%BE%8B%E7%9A%84%E6%BD%9C%E5%9C%A8%E5%BD%B1%E5%93%8D",
+      "title": "法国:立法取消低排放区(ZFE)对空气质量、健康和法律的潜在影响",
+      "summary": "在法国,继国民议会批准后,旨在“简化”经济生活,包括具有争议的支持取消碳低排放区(ZFE)政策的法案也于4月15日星期三获得法国参议院通过,这标志着历时两年的辩论最终以该法案的通过而告终,同时也引发了不少该措施对空气质量、健康和法律的潜在影响的争议,其范围甚至不断扩大,最终可能会演变成围绕环境标准展开的政治斗争的温床。...",
+      "source": "Rfi_Fr",
+      "date": "2026-04-16",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260416-%E6%B3%95%E5%9B%BD-%E7%AB%8B%E6%B3%95%E5%8F%96%E6%B6%88%E4%BD%8E%E6%8E%92%E6%94%BE%E5%8C%BA-zfe-%E5%AF%B9%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F-%E5%81%A5%E5%BA%B7%E5%92%8C%E6%B3%95%E5%BE%8B%E7%9A%84%E6%BD%9C%E5%9C%A8%E5%BD%B1%E5%93%8D"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862622843864235667",
+      "title": "打造AI+辅助出行的“中国样本”!松江这家企业与京..",
+      "summary": "在近日举行的第93届中国国际医疗器械博览会(cmef)上,京东健康与松江企业上海邦邦机器人有限公司宣布达成战略合作,并发布首款落地产品——邦邦车“守护星”c30 ultra,标志ai技术在辅助出行领......",
+      "source": "News_Baidu",
+      "date": "2026-04-16",
+      "url": "http://baijiahao.baidu.com/s?id=1862622843864235667"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14262018.html",
+      "title": "地方新闻精选 | 浙江率先探索建设“潮汐学校” 泰安通报“患者输液休克昏迷事件”",
+      "summary": "今天有哪些地方新闻值得关注?千万网红博主称在大凉山帮扶被骗:当地调查,警方介入;内蒙古一研究院1200元办院士证被叫停,官方责令退回费用;西双版纳泼水节一汽车被强拉开车门喷水,警方称正核实。...",
+      "source": "Jiemian",
+      "date": "2026-04-16",
+      "url": "https://www.jiemian.com/article/14262018.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-16/10605070.shtml",
+      "title": "工业和信息化部:“十五五”时期将加快汽车产业关键核心标准研制",
+      "summary": "“十五五”规划纲要明确提出“强化国家标准引领”“推进标准更新升级”。记者今天(16日)从工业和信息化部获悉,“十五五”时期,我国将通过多项标准工作举措提升引领我国汽车产业高质量发展。...",
+      "source": "Chinanews",
+      "date": "2026-04-16",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-16/10605070.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862621728582047245",
+      "title": "2026年西安将保障多个交通重大项目早开快建 高质..",
+      "summary": "4月16日,西安市委宣传部、市政府新闻办举行“统筹推进‘十个聚焦’实现‘十五五’良好开局”主题系列新闻发布会第八场,市交通运输局局长马胜利、市住建局副局长雷涛、市城管局副局长张国立到会,介绍了有关...",
+      "source": "News_Baidu",
+      "date": "2026-04-16",
+      "url": "http://baijiahao.baidu.com/s?id=1862621728582047245"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0416/841005.shtml",
+      "title": "第23个自贸区落子内蒙古:向北开放格局如何被重塑?",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-04-16",
+      "url": "http://www.eeo.com.cn/2026/0416/841005.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260416/637c8533-9d4b-4618-ae7a-c9c00c462e42.html",
+      "title": "全球嘉宾齐聚维港 共探 AI 惠民路径—— 2026 世界互联网大会亚太峰会智惠民生论坛综述-国际在线",
+      "summary": "国际在线报道(记者毛川):四月的香港,春风拂面,香江潮涌。4月14日上午,2026年世界互联网大会亚太峰会智惠民生论坛在香港举行,来自亚太地区乃至全球多国的嘉宾齐聚香港国际会展中心,围绕“智惠民生・共创美好生活”这一主题,分享见解、展示...",
+      "source": "Cri_Cn",
+      "date": "2026-04-16",
+      "url": "https://news.cri.cn/20260416/637c8533-9d4b-4618-ae7a-c9c00c462e42.html"
+    },
+    {
+      "id": "https://news.cri.cn/20260416/734fcd3d-2332-8a4e-8d26-7dfd70bd4924.html",
+      "title": "工业和信息化部:“十五五”时期将加快汽车产业关键核心标准研制-国际在线",
+      "summary": "“十五五”规划纲要明确提出“强化国家标准引领”“推进标准更新升级”。记者今天(16日)从工业和信息化部获悉,“十五五”时期,我国将通过多项标...",
+      "source": "Cri_Cn",
+      "date": "2026-04-16",
+      "url": "https://news.cri.cn/20260416/734fcd3d-2332-8a4e-8d26-7dfd70bd4924.html"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0416/840994.shtml",
+      "title": "“不差钱”的德赛西威,为何要赴港上市",
+      "summary": "德赛西威港股上市的时机选择面临挑战。一方面,德赛西威账面上并不缺钱;另一方面,港股汽车零部件板块估值普遍偏低,德赛西威此时上市可能面临估值折价。...",
+      "source": "Eeo",
+      "date": "2026-04-16",
+      "url": "http://www.eeo.com.cn/2026/0416/840994.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862605268086396434",
+      "title": "教科人一体改革·高校亮招|苏州大学:让学生跟着企业..",
+      "summary": "科技日报记者张晔近日,苏州大学未来科学与工程学院与苏州朗开医疗技术有限公司联合研发的多通道电磁导航系统,成功通过工业和信息化部“揭榜挂帅”项目验收,并实现产业化落地,填补了国内呼吸道精准定位领域空白。...",
+      "source": "News_Baidu",
+      "date": "2026-04-16",
+      "url": "http://baijiahao.baidu.com/s?id=1862605268086396434"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1016218",
+      "title": "Bitget 推出经纪商“顶格赏金”计划,新经纪商最高可获 12,000 USDT 奖励-FX168",
+      "summary": "塞舌尔维多利亚, April 16, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 今日推出经纪商“顶格赏金”计划 (Broker Max Check Program),这是一项面向 2026 年 4 月 1 日起加入的经纪商的全新激励活动。 该计划在标准返佣之外,根据经纪商入驻后前 60 天内产生的交易量,提供最高 12,000 USDT 的额...",
+      "source": "Fx168News",
+      "date": "2026-04-16",
+      "url": "https://www.fx168news.com/article/1016218"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862619950245737496",
+      "title": "八位歌手走进阿斯塔纳!《声起地平线》收官采风开启",
+      "summary": "丝路万里,以乐传情,歌手们将带着一路相伴的默契,奔赴三场截然不同的遇见——今晚湖南卫视和芒果TV将播出的《声起地平线》最新一期中,歌手们将迎来本季音乐之旅的最后一站——哈萨克斯坦首都阿斯塔纳的收官采风...",
+      "source": "News_Baidu",
+      "date": "2026-04-16",
+      "url": "http://baijiahao.baidu.com/s?id=1862619950245737496"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862617915203709009",
+      "title": "光梭未来荣耀时刻|成功入围“中国品牌创新发展工程”",
+      "summary": "近日,光梭未来迎来荣耀时刻——凭借在新能源智能重卡领域的技术突破与产业引领实力,成功入围国家级权威平台“中国品牌创新发展工程”。这不仅是对光梭未来硬核科技实力与品牌价值的权威认可,更是中国新能源商用车...",
+      "source": "News_Baidu",
+      "date": "2026-04-16",
+      "url": "http://baijiahao.baidu.com/s?id=1862617915203709009"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad75pzmd/",
+      "title": "优秀操控是惊喜 极狐全新阿尔法s5",
+      "summary": "极狐阿尔法S5作为刚刚上市的新车型,推出了纯电与增程两种版本。在300多公里的多路况测试中,该车在底盘调校、动力响应及智能驾驶方面的表现尤为突出,特别是麦格纳制造工艺带来的操控质感,成为其主要竞争优势。01车型设计与空间参数新车在外观与内饰上进行了多项升......",
+      "source": "Smzdm",
+      "date": "2026-04-16",
+      "url": "https://post.smzdm.com/p/ad75pzmd/"
+    },
+    {
+      "id": "https://www.cbc.ca/news/business/waymo-ontario-self-driving-cars-9.7163535",
+      "title": "Waymo is taking steps to get its robotaxis on Toronto streets. But roadblocks await",
+      "summary": "The autonomous taxi operator Waymo appears to be taking steps to break into the Canadian market, eyeing Toronto as a new testing ground for its self-driving fleet. But it may face technological, polit...",
+      "source": "CBC.ca",
+      "date": "2026-04-15",
+      "url": "https://www.cbc.ca/news/business/waymo-ontario-self-driving-cars-9.7163535"
+    },
+    {
+      "id": "https://www.cityam.com/wayve-lands-amd-arm-and-qualcomm-cash-as-uk-self-driving-push-gathers-pace/",
+      "title": "Wayve lands AMD, Arm and Qualcomm cash as UK self-driving push gathers pace",
+      "summary": "British autonomous driving firm Wayve has secured a further $60m (£44.2m) from chip giants AMD, Arm and Qualcomm Ventures...",
+      "source": "City A.M.",
+      "date": "2026-04-15",
+      "url": "https://www.cityam.com/wayve-lands-amd-arm-and-qualcomm-cash-as-uk-self-driving-push-gathers-pace/"
+    },
+    {
+      "id": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html",
+      "title": "Waymo launches robotaxi testing in London, advancing toward first major international rollout",
+      "summary": "Waymo has begun testing autonomous vehicles in London as it prepares for a potential 2026 robotaxi launch, expanding its global self-driving trials beyond the US...",
+      "source": "Firstpost",
+      "date": "2026-04-15",
+      "url": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html"
+    },
+    {
+>>>>>>> b3becdc (Update news 2026-04-17 08:01)
       "id": "https://techstartups.com/2026/04/15/wayve-raises-60m-from-chip-giants-qualcomm-amd-arm-to-challenge-waymo-with-mapless-autonomous-driving-ai/",
       "title": "Wayve raises $60M from chip giants Qualcomm, AMD, Arm to challenge Waymo with mapless autonomous driving AI",
       "summary": "Wayve just pulled more of the semiconductor world into its orbit—and it’s not a vanity move. The London-based autonomous driving startup said Wednesday it secured $60 million in fresh backing from Qua...",
       "source": "TechStartups.com",
       "date": "2026-04-15",
       "url": "https://techstartups.com/2026/04/15/wayve-raises-60m-from-chip-giants-qualcomm-amd-arm-to-challenge-waymo-with-mapless-autonomous-driving-ai/"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": "https://metro.co.uk/2026/04/15/waymos-robo-taxis-begin-driving-themselves-around-london-27984928/",
+      "title": "Waymo's robotaxis are now driving themselves around London",
+      "summary": "Waymo autonomous taxis are now fully driving themselves around London after previously having a human in the drivers seat in case of emergency....",
+      "source": "Metro.co.uk",
+      "date": "2026-04-15",
+      "url": "https://metro.co.uk/2026/04/15/waymos-robo-taxis-begin-driving-themselves-around-london-27984928/"
+>>>>>>> b3becdc (Update news 2026-04-17 08:01)
     },
     {
       "id": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/",
@@ -189,6 +372,33 @@
       "url": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/"
     },
     {
+<<<<<<< HEAD
+=======
+      "id": "https://www.benzinga.com/news/financing/26/04/51847495/tesla-launches-fsd-streaks-is-self-driving-software-being-gamified",
+      "title": "Tesla Launches FSD Streaks: Is Self-Driving Software Being 'Gamified?'",
+      "summary": "Tesla will show FSD subscribers how often they use self-driving and what percent of their miles come from this method. The stats could lead to increased FSD miles for Tesla users....",
+      "source": "Benzinga",
+      "date": "2026-04-15",
+      "url": "https://www.benzinga.com/news/financing/26/04/51847495/tesla-launches-fsd-streaks-is-self-driving-software-being-gamified"
+    },
+    {
+      "id": "https://www.barchart.com/story/news/1322296/tesla-just-scored-an-fsd-win-in-europe-what-does-that-mean-for-tsla-stock",
+      "title": "Tesla Just Scored an FSD Win in Europe. What Does That Mean for TSLA Stock?",
+      "summary": "Dutch regulators became the first in Europe to approve Tesla's FSD Supervised. Here's what that means for TSLA stock and the company's autonomous future....",
+      "source": "Barchart",
+      "date": "2026-04-15",
+      "url": "https://www.barchart.com/story/news/1322296/tesla-just-scored-an-fsd-win-in-europe-what-does-that-mean-for-tsla-stock"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it",
+      "title": "Tesla Promises Lower Insurance Premiums With 'Every Mile' Of Supervised FSD Driving: Here's How To Avail",
+      "summary": "Tesla says drivers can get lower insurance premiums with the latest Safety Score v3.0 with Full Self-Driving technology....",
+      "source": "Benzinga",
+      "date": "2026-04-15",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it"
+    },
+    {
+>>>>>>> b3becdc (Update news 2026-04-17 08:01)
       "id": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership",
       "title": "Pony AI Stock Rises After Uber, Lucid Expand Robotaxi Partnership",
       "summary": "Pony AI Inc (NASDAQ:PONY) shares are rising on Tuesday after autonomous‑driving partner Uber Technologies Inc (NYSE:UBER) expanded its robotaxi collaboration with Lucid....",
@@ -219,6 +429,7 @@
       "source": "PR Newswire UK",
       "date": "2026-04-13",
       "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-achieves-aspice-cl2-certification-strengthening-global-rd-platform-and-readiness-for-international-collaboration-302740111.html"
+<<<<<<< HEAD
     },
     {
       "id": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/",
@@ -235,6 +446,8 @@
       "source": "Benzinga",
       "date": "2026-04-12",
       "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity"
+=======
+>>>>>>> b3becdc (Update news 2026-04-17 08:01)
     }
   ]
 }
