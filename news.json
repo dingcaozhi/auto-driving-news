@@ -1,24 +1,8 @@
 {
-<<<<<<< HEAD
-  "lastUpdated": "2026-04-16 03:35:01",
-  "totalCount": 27,
+  "lastUpdated": "2026-04-17 08:02:49",
+  "totalCount": 40,
   "sources": {
-    "Fx168News": 2,
-    "Smzdm": 1,
-    "News_Baidu": 6,
-    "Eeo": 1,
-    "Prnasia": 1,
-    "Chinanews": 1,
-    "Ithome": 3,
-    "Investing_Cn": 2,
-    "City A.M.": 2,
-    "Firstpost": 1,
-    "TechStartups.com": 1,
-    "Benzinga": 2,
-=======
-  "lastUpdated": "2026-04-17 08:01:27",
-  "totalCount": 35,
-  "sources": {
+    "Bilibili": 5,
     "News_Baidu": 6,
     "Rfi_Fr": 1,
     "Jiemian": 1,
@@ -34,180 +18,63 @@
     "Metro.co.uk": 1,
     "Benzinga": 4,
     "Barchart": 1,
->>>>>>> b3becdc (Update news 2026-04-17 08:01)
     "Japan Today": 1,
-    "Markets Insider": 1,
+    "Markets Insider": 2,
     "PR Newswire UK": 1,
-<<<<<<< HEAD
-    "The Japan Times ": 1
-  },
-  "news": [
-    {
-      "id": "https://www.fx168news.com/article/1015742",
-      "title": "优步(UBER)股票4月15日盘中上涨5.41%:释放什么信号?-FX168",
-      "summary": "优步 (UBER) 盘中上涨5.41%, 所属行业软件与信息技术服务上涨1.64% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 微软 (MSFT) 上涨 3.64%;Meta Platforms Inc (META) 上涨 1.77%;甲骨文 (ORCL) 上涨 5.56%。 今日是什么导致了优步(UBER)股价上涨? UBER股价今日显著上涨,且伴随着剧烈的盘中波动。这一积极走势似乎主要源于其向...",
-      "source": "Fx168News",
-      "date": "2026-04-15",
-      "url": "https://www.fx168news.com/article/1015742"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1015738",
-      "title": "特斯拉(TSLA)股票4月15日盘中上涨4.82%:真相来了-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨4.82%, 所属行业汽车与零部件上涨1.21% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 4.82%;Polaris Inc (PII) 下跌 10.98%;Lucid Group Inc (LCID) 下跌 6.20%。 今日是什么导致了特斯拉(TSLA)股价上涨? 2026年4月15日特斯拉(TSLA)股价的上涨及其显著的日内波动,...",
-      "source": "Fx168News",
-      "date": "2026-04-15",
-      "url": "https://www.fx168news.com/article/1015738"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axk5ezl4/",
-      "title": "从油到电|我眼里的马自达 EZ-60",
-      "summary": "马自达EZ-6作为品牌在电动时代的转型产品,其在设计语言、驾驶质感及智能化配置方面延续了品牌的核心特征。从实际体验来看,该车型并未因动力的变更而失去原有的品牌调性,而是通过电动化技术对“人马一体”的理念进行了新的诠释。01外观设计:延续魂动美学在外观造型......",
-      "source": "Smzdm",
-      "date": "2026-04-15",
-      "url": "https://post.smzdm.com/p/axk5ezl4/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862523036237936216",
-      "title": "闻着臭,但挣的钱干净!粪车迎亲爆火后,慈溪这对夫妻..",
-      "summary": "潮新闻客户端记者肖暖暖于诗奇不久前,一支由9辆吸粪车组成的婚车队,让浙江慈溪“95后”掏粪工潘浩男和新娘李雅晴闯入公众视野。事件冲上热搜,相关话题阅读量破亿,祝福与争议齐飞:有人叫好,也有人质疑这是博...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862523036237936216"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0415/839854.shtml",
-      "title": "日产巨亏后推新规划:精简产品 中国市场2030财年重回年销百万",
-      "summary": "从行业整体来看,日产此次改革所面临的外部环境并不乐观。在中国市场,中国汽车工业协会预测2026年乘用车增速仅为1%,多位车企负责人指出零和博弈已成定局。在存量竞争与价格战持续的背景下,新能源汽车市场竞争日益激烈。行业竞争正在从单纯的价格战转向价值竞争,消费者的关注点逐渐从价格转向功能体验和品牌认同等综合价值维度。...",
-      "source": "Eeo",
-      "date": "2026-04-15",
-      "url": "http://www.eeo.com.cn/2026/0415/839854.shtml"
-    },
-    {
-      "id": "https://www.prnasia.com/story/529190-1.shtml",
-      "title": "AION UT全球上市即爆单,多国热销接连斩获权威大奖",
-      "summary": "广州 2026年4月15日 /美通社/ -- 自2025年全球首发以来,AION UT迅速席卷东南亚、南美及欧洲等核心市场,以上市即爆单的强劲势头,成为广汽国际冲刺海外年销目标的定海神针。作为广汽全球精品战略车型,AION UT第一季度在核心市场交出亮眼答卷:泰国交付超2400台,曼谷车展订单破2500,稳居电动Hatchback细分市场前三;印尼交付逾800台,单月峰值突破300台,位列细分市场...",
-      "source": "Prnasia",
-      "date": "2026-04-15",
-      "url": "https://www.prnasia.com/story/529190-1.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862541936484456278",
-      "title": "全民国家安全教育日|科技越先进,我们越要警惕这些隐..",
-      "summary": "你以为安全威胁离日常很遥远?其实,它就藏在科研实验室的核心数据里手腕上智能手表的定位轨迹中藏在日常学术交流、车载导航甚至田间地头的每一粒种子里......2026年4月15日我们迎来第11个全民国家安全教育日...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862541936484456278"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862542983461031121",
-      "title": "提“智”不减员:未来工厂“超级劳动力” 如何帮人类..",
-      "summary": "8小时连续作业零重大异常,整体作业成功率高达99.5%以上,每小时可完成310件产品,同时,机器人支持7×24小时不间断双班运行......就在14日,上海企业智元机器人在龙旗科技南昌平板制造工厂的一场直播,...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862542983461031121"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862541978539176811",
-      "title": "宁好码接诉即办,足不出户挽民损——通城五里派出所高..",
-      "summary": "极目新闻通讯员李佳玫李子昂“真是太方便了,一只鸭子的小事,我足不出户,你们线上就帮我解决好了,太感谢你们了!”4月13日,通城县公安局五里派出所接到辖区群众张某某的致谢电话,对民警依托“宁好码”平台快...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862541978539176811"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862543046401954400",
-      "title": "“聪明车”驶入日常生活 杭州余杭解锁未来出行新体验",
-      "summary": "潮新闻客户端记者甘居鹏通讯员韩诚王欢每天早上9点,一辆蓝色渐变的自动驾驶公交车就会准时驶出杭州西站的“火车西站西”公交站台,无需人工操控,便自如地汇入车流,平稳驶向北京航空航天大学杭州国际校园(以下简...",
-      "source": "News_Baidu",
-      "date": "2026-04-15",
-      "url": "http://baijiahao.baidu.com/s?id=1862543046401954400"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-15/10604502.shtml",
-      "title": "北京多项式举办全民国家安全教育日系列活动",
-      "summary": "中新网北京4月15日电 (记者 陈杭)机器人乐队奏响旋律、情景剧中的生活场景引发共鸣、将抽象的安全知识转化为人机互动实践......4月15日是第十一个全民国家安全教育日,北京多区与高校开展全民国家安全教育日系列活动,旨在凝聚社会各界共守国家安全的共识,持续放大宣传教育效应。...",
-      "source": "Chinanews",
-      "date": "2026-04-15",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-15/10604502.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/939/613.htm",
-      "title": "39.98 万元起,小鹏首款全尺寸旗舰 SUV 车型 GX 开启预售",
-      "summary": "IT之家 4 月 15 日消息,作为品牌首款全尺寸豪华 SUV,小鹏 GX 今日正式开启预售,预售价 39.98 万元起,4 月 18 日全国展车陆续到店。 作为小鹏汽车全新一代物理 AI 技术架构 SEPA 3.0 的首发车型,小鹏 GX 定位为 AI 新豪华大六座旗舰 SUV,融合了 Robotaxi 智驾、飞行汽车安全冗余、具身智能芯片及架构等前沿技术。IT之家附预售价如下: 小鹏 GX 纯...",
-      "source": "Ithome",
-      "date": "2026-04-15",
-      "url": "https://www.ithome.com/0/939/613.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/939/599.htm",
-      "title": "大众 ID.3 Neo 发布:续航超 600 公里,触摸滑块被实体按键取代",
-      "summary": "IT之家 4 月 15 日消息,大众汽车推出了其紧凑型电动车的重大改款车型,新车命名为 ID.3 Neo。 有趣的是,“Neo”这个后缀正是该车在内部研发阶段所使用的代号。虽然外观变化相对克制,但新车在续航、内饰和动力系统上均有实质性升级,其中最受关注的莫过于大众终于听取了用户反馈,彻底取消了备受诟病的触摸滑块,全面回归实体按键。 从外观来看,这是一次中期改款而非真正意义上的换代。ID.3 Neo...",
-      "source": "Ithome",
-      "date": "2026-04-15",
-      "url": "https://www.ithome.com/0/939/599.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862532687218310270",
-      "title": "美股三大期指齐跌;IMF下调2026年美国经济增长..",
-      "summary": "1【三大期指齐跌】截至发稿,道指期货跌0.13%、标普500指数期货跌0.06%、纳指期货跌0.04%。英伟达盘前跌0.74%,此前英伟达股价已连续10个交易日上涨,累计涨幅18.97%,为2023年...",
-=======
     "Seeking Alpha": 3,
     "TechRadar": 1,
     "MarketScreener": 1
   },
   "news": [
     {
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-04-17",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-04-17",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1z5QEBjEtJ",
+      "title": "【B站】对话朱西产：自动驾驶的“最后一公里”究竟卡在哪？",
+      "summary": "独家对话资深汽车安全专家朱西产教授！深度拆解自动驾驶「最后一公里」究竟卡在哪，从行业痛点、技术瓶颈、安全权责到法规伦理，全面剖析 L3 落地难题、Robotaxi 真实困境与智驾产业化痛点。硬核解读行业底层逻辑、技术路线与商业化突围，汽车 / AI / 自动驾驶爱好者必看！关注 + 一键三连，评论区...",
+      "source": "Bilibili",
+      "date": "2026-04-17",
+      "url": "https://www.bilibili.com/video/BV1z5QEBjEtJ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-04-17",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-04-17",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+    },
+    {
       "id": "http://baijiahao.baidu.com/s?id=1862592498951804020",
       "title": "603906、600768,强势涨停!",
       "summary": "今日(4月16日)市场主要指数集体高开。盘面上,电池板块大幅拉升,龙蟠科技、圣阳股份涨停,天华新能、科达利、震裕科技等涨幅居前。影视院线股全线上涨,华谊兄弟“20cm”涨停,华策影视、捷成股份、博纳影...",
->>>>>>> b3becdc (Update news 2026-04-17 08:01)
       "source": "News_Baidu",
       "date": "2026-04-16",
       "url": "http://baijiahao.baidu.com/s?id=1862592498951804020"
     },
     {
-<<<<<<< HEAD
-      "id": "https://cn.investing.com/news/stock-market-news/article-3312140",
-      "title": "特斯拉(TSLA.US)A15芯片成功流片!马斯克高呼:未来将成为全球产量最高AI芯片之一",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-15",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3312140"
-    },
-    {
-      "id": "https://www.ithome.com/0/939/644.htm",
-      "title": "事关 L2 级辅助驾驶:相关强制性国标进一步公开征求意见,华为引望、小米汽车、比亚迪、特斯拉等单位联合起草",
-      "summary": "IT之家 4 月 15 日消息,工信部组织完成了《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准(报批稿)的编制工作。 标准报批稿及编制说明于 2026 年 4 月 16 日至 22 日公示,进一步听取社会各界意见。 大家可以按照官方格式向工信部积极反馈 。 该标准报批稿规定了基础单车道组合驾驶辅助系统、基础多车道组合驾驶辅助系统以及领航组合驾驶辅助系统的安全要求与同一型式判定,并描述了相...",
-      "source": "Ithome",
-      "date": "2026-04-15",
-      "url": "https://www.ithome.com/0/939/644.htm"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3312352",
-      "title": "特斯拉股票:第一季度财报前需关注的三大要点",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-15",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3312352"
-    },
-    {
-      "id": "https://www.cityam.com/wayve-lands-amd-arm-and-qualcomm-cash-as-uk-self-driving-push-gathers-pace/",
-      "title": "Wayve lands AMD, Arm and Qualcomm cash as UK self-driving push gathers pace",
-      "summary": "British autonomous driving firm Wayve has secured a further $60m (£44.2m) from chip giants AMD, Arm and Qualcomm Ventures...",
-      "source": "City A.M.",
-      "date": "2026-04-15",
-      "url": "https://www.cityam.com/wayve-lands-amd-arm-and-qualcomm-cash-as-uk-self-driving-push-gathers-pace/"
-    },
-    {
-      "id": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html",
-      "title": "Waymo launches robotaxi testing in London, advancing toward first major international rollout",
-      "summary": "Waymo has begun testing autonomous vehicles in London as it prepares for a potential 2026 robotaxi launch, expanding its global self-driving trials beyond the US...",
-      "source": "Firstpost",
-      "date": "2026-04-15",
-      "url": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html"
-    },
-    {
-=======
       "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260416-%E6%B3%95%E5%9B%BD-%E7%AB%8B%E6%B3%95%E5%8F%96%E6%B6%88%E4%BD%8E%E6%8E%92%E6%94%BE%E5%8C%BA-zfe-%E5%AF%B9%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F-%E5%81%A5%E5%BA%B7%E5%92%8C%E6%B3%95%E5%BE%8B%E7%9A%84%E6%BD%9C%E5%9C%A8%E5%BD%B1%E5%93%8D",
       "title": "法国:立法取消低排放区(ZFE)对空气质量、健康和法律的潜在影响",
       "summary": "在法国,继国民议会批准后,旨在“简化”经济生活,包括具有争议的支持取消碳低排放区(ZFE)政策的法案也于4月15日星期三获得法国参议院通过,这标志着历时两年的辩论最终以该法案的通过而告终,同时也引发了不少该措施对空气质量、健康和法律的潜在影响的争议,其范围甚至不断扩大,最终可能会演变成围绕环境标准展开的政治斗争的温床。...",
@@ -344,15 +211,12 @@
       "url": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html"
     },
     {
->>>>>>> b3becdc (Update news 2026-04-17 08:01)
       "id": "https://techstartups.com/2026/04/15/wayve-raises-60m-from-chip-giants-qualcomm-amd-arm-to-challenge-waymo-with-mapless-autonomous-driving-ai/",
       "title": "Wayve raises $60M from chip giants Qualcomm, AMD, Arm to challenge Waymo with mapless autonomous driving AI",
       "summary": "Wayve just pulled more of the semiconductor world into its orbit—and it’s not a vanity move. The London-based autonomous driving startup said Wednesday it secured $60 million in fresh backing from Qua...",
       "source": "TechStartups.com",
       "date": "2026-04-15",
       "url": "https://techstartups.com/2026/04/15/wayve-raises-60m-from-chip-giants-qualcomm-amd-arm-to-challenge-waymo-with-mapless-autonomous-driving-ai/"
-<<<<<<< HEAD
-=======
     },
     {
       "id": "https://metro.co.uk/2026/04/15/waymos-robo-taxis-begin-driving-themselves-around-london-27984928/",
@@ -361,7 +225,6 @@
       "source": "Metro.co.uk",
       "date": "2026-04-15",
       "url": "https://metro.co.uk/2026/04/15/waymos-robo-taxis-begin-driving-themselves-around-london-27984928/"
->>>>>>> b3becdc (Update news 2026-04-17 08:01)
     },
     {
       "id": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/",
@@ -372,8 +235,6 @@
       "url": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/"
     },
     {
-<<<<<<< HEAD
-=======
       "id": "https://www.benzinga.com/news/financing/26/04/51847495/tesla-launches-fsd-streaks-is-self-driving-software-being-gamified",
       "title": "Tesla Launches FSD Streaks: Is Self-Driving Software Being 'Gamified?'",
       "summary": "Tesla will show FSD subscribers how often they use self-driving and what percent of their miles come from this method. The stats could lead to increased FSD miles for Tesla users....",
@@ -398,56 +259,12 @@
       "url": "https://www.benzinga.com/markets/tech/26/04/51823479/tesla-promises-lower-insurance-premiums-with-every-mile-of-supervised-fsd-driving-heres-how-to-avail-it"
     },
     {
->>>>>>> b3becdc (Update news 2026-04-17 08:01)
       "id": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership",
       "title": "Pony AI Stock Rises After Uber, Lucid Expand Robotaxi Partnership",
       "summary": "Pony AI Inc (NASDAQ:PONY) shares are rising on Tuesday after autonomous‑driving partner Uber Technologies Inc (NYSE:UBER) expanded its robotaxi collaboration with Lucid....",
       "source": "Benzinga",
       "date": "2026-04-14",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership"
-    },
-    {
-      "id": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models",
-      "title": "Nissan to add AI autonomous driving tech to 90% of future models",
-      "summary": "Nissan Motor Co said Tuesday it plans to add an autonomous driving system employing artificial intelligence to 90 percent of its future models as it aims to revive its sluggish sales. The Japanese aut...",
-      "source": "Japan Today",
-      "date": "2026-04-14",
-      "url": "https://japantoday.com/category/business/nissan-to-add-ai-autonomous-driving-tech-to-90-of-future-models"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059",
-      "title": "NATIX Joins Autoware to Supply Multi-Camera Data to Build Open-Source End-to-End Autonomous Driving Model",
-      "summary": "Hamburg, Germany, April 13th, 2026, FinanceWireAs a Premium Member, NATIX will provide large-scale multi-camera driving data ......",
-      "source": "Markets Insider",
-      "date": "2026-04-13",
-      "url": "https://markets.businessinsider.com/news/currencies/natix-joins-autoware-to-supply-multi-camera-data-to-build-open-source-end-to-end-autonomous-driving-model-1036016059"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-achieves-aspice-cl2-certification-strengthening-global-rd-platform-and-readiness-for-international-collaboration-302740111.html",
-      "title": "Inceptio Technology Achieves ASPICE CL2 Certification, Strengthening Global R&D Platform and Readiness for International Collaboration",
-      "summary": "/PRNewswire/ -- Inceptio Technology (\"Inceptio\" or the \"Company\"), a leading developer of autonomous driving technologies for trucks, has achieved Automotive......",
-      "source": "PR Newswire UK",
-      "date": "2026-04-13",
-      "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-achieves-aspice-cl2-certification-strengthening-global-rd-platform-and-readiness-for-international-collaboration-302740111.html"
-<<<<<<< HEAD
-    },
-    {
-      "id": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/",
-      "title": "Aichi Prefecture eyes Japan's first Level 4 autonomous expressway bus service",
-      "summary": "Aichi Prefecture aims to put buses with Level 4 autonomous driving, in which a vehicle can operate without a driver under specific conditions, into practical use in fiscal 2027....",
-      "source": "The Japan Times ",
-      "date": "2026-04-13",
-      "url": "https://www.japantimes.co.jp/news/2026/04/13/japan/aichi-self-driving-bus/"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
-      "title": "Gary Black Says Tesla's $30K EV Could Have 'Huge Upside'",
-      "summary": "Gary Black suggested that Tesla's move could reflect challenges in its autonomous driving goals and growing EV competition....",
-      "source": "Benzinga",
-      "date": "2026-04-12",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity"
-=======
->>>>>>> b3becdc (Update news 2026-04-17 08:01)
     }
   ]
 }
