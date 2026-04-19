@@ -1,162 +1,167 @@
 {
-  "lastUpdated": "2026-04-18 03:18:23",
-  "totalCount": 27,
+  "lastUpdated": "2026-04-19 03:37:30",
+  "totalCount": 26,
   "sources": {
-    "Smzdm": 3,
-    "Eeo": 1,
-    "Zaobao": 1,
-    "Fx168News": 1,
-    "Chinanews": 2,
-    "News_Baidu": 4,
-    "Cri_Cn": 2,
-    "Jiemian": 1,
-    "Orientaldaily": 2,
+    "Smzdm": 1,
+    "News_Baidu": 11,
+    "News_Seehua": 2,
+    "Ithome": 1,
+    "Bjnews": 1,
+    "The Hindu Business Line": 1,
+    "WJLA": 1,
     "Cambridge Evening News": 1,
     "The Manila Times": 1,
     "The Japan Times ": 1,
     "CBC.ca": 1,
-    "City A.M.": 2,
+    "City A.M.": 1,
     "Firstpost": 1,
     "TechStartups.com": 1,
-    "Metro.co.uk": 1,
-    "Benzinga": 1
+    "Metro.co.uk": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/awwgplpp/",
-      "title": "首批L3级别自动驾驶,为什么只有极狐和长安获批?为什么没有华为?",
-      "summary": "2023年11月,工信部联合相关部门发布关于开展智能网联汽车准入和上路通行试点工作的通知。经过初审及择优评审,首批L3级自动驾驶试点名单正式公布,9家申报联合体中仅长安汽车和北汽极狐两家通过准入试点。此次评审集合了行业力量,对试点生产企业的研发、测试和应......",
+      "id": "https://post.smzdm.com/p/anve760v/",
+      "title": "20多万买奥迪R8 V10超跑?!二手R8使用感受、优缺点和通病分享",
+      "summary": "奥迪R8 V10作为中置引擎四驱超级跑车的代表,凭借其V10自然吸气发动机、AMT变速箱以及quattro四驱系统,在驾驶性能上具有显著优势。随着市场价格下探,20多万元的预算已具备购入早期二手R8 V10的可能性。然而,超跑的维修保养成本高昂,且特定年......",
       "source": "Smzdm",
-      "date": "2026-04-17",
-      "url": "https://post.smzdm.com/p/awwgplpp/"
+      "date": "2026-04-18",
+      "url": "https://post.smzdm.com/p/anve760v/"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0417/842339.shtml",
-      "title": "经济观察报 第1267期",
-      "summary": "养老机构的“消费券”烦恼田进 杜涛外贸商的淡定与忧愁陈植看见:我们的四分之一世纪一季度投资好转背后杜涛看不懂的电费单潘俊田一季度消费数据出现分化田进冲突中的世界 广交会照旧做生意老盈盈“保交船”人手紧、任务重,船企开启“高薪抢人”模式张锐送别郭道晖,送别“法治三老”刘晓诺集体逐利理财,寿险本源之问刘鹏惩治贿赂犯罪如何兼顾平衡与平等金泽刚城市营销时代:市长多大胆,流量多大产宋馥李国债抢购记老盈盈自动...",
-      "source": "Eeo",
-      "date": "2026-04-17",
-      "url": "http://www.eeo.com.cn/2026/0417/842339.shtml"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260417-8912374",
-      "title": "新科大投资3500万元 推出创新与创业探索平台",
-      "summary": "新加坡科技设计大学投资3500万元,推出全新的人工智能创新与创业探索平台,培养具社会关怀、创业思维的创新人才。...",
-      "source": "Zaobao",
-      "date": "2026-04-17",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260417-8912374"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anveo8p2/",
-      "title": "特斯拉FSD已激活!FSDv14.2.2.5",
-      "summary": "特斯拉车主可以通过官方APP内的客服支持功能,查询车辆是否已激活全自动驾驶(FSD)功能及其具体配置信息。该方法利用特定语言环境的交互,能够获取包括硬件型号与软件版本在内的详细车辆数据。01验证操作步骤切换APP语言将手机APP的系统语言切换为西班牙语(......",
-      "source": "Smzdm",
-      "date": "2026-04-17",
-      "url": "https://post.smzdm.com/p/anveo8p2/"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1016909",
-      "title": "“新公路之王”极氪8X正式上市:限时售价32.98万元起,剑指BBA高性能旗舰-FX168",
-      "summary": "4月17日,豪华新能源品牌极氪旗下全新高性能旗舰SUV——极氪8X正式上市。据悉,极氪8X共推出Max版、Ultra版及Ultra+版三个版型,零售价分别为35.68万元起、37.68万元起、42.68万元起;权益后限时售价32.98万元起、34.98万元起、39.98万元起。极氪8X曜影于当日同步上市,零售价50.0...",
-      "source": "Fx168News",
-      "date": "2026-04-17",
-      "url": "https://www.fx168news.com/article/1016909"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-17/10605942.shtml",
-      "title": "多国青年江西参访:从田间地头到智能工厂 感知发展脉动",
-      "summary": "中新网南昌4月17日电 (朱莹 刘力鑫)“在这里,生态优先并没有牺牲经济的增长,反而倒逼出绿色、低碳的新产业。”来自剑桥大学的学生陶志诚(TERRULI,ROCKY DONATO COLIN)17日在江西省南昌市接受中新网采访时说。...",
-      "source": "Chinanews",
-      "date": "2026-04-17",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-17/10605942.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862632173165359994",
-      "title": "金桥2026AI赋能汽车产业生态大会举行,千亿级智..",
-      "summary": "4月16日,由金桥管理局和金杨新村街道联合主办的金桥2026ai赋能汽车产业生态大会举行。大会围绕人工智能与汽车产业的深度融合,汇聚行业领军企业、技术专家和生态合作伙伴,聚焦前沿技术、产业实践与未来趋势,共绘智能网联汽车...",
+      "id": "http://baijiahao.baidu.com/s?id=1862808482884235631",
+      "title": "2小时10多起!摩托车出行增多,北京严查这些行为",
+      "summary": "随着气温回暖,近期市民摩托车出行需求持续攀升。针对春季摩托车事故高发的特点,市公安交管部门已全面展开专项治理。记者今天(4月18日)上午跟随交警在京承高速的执法中注意到,摩托车走应急车道的现象较为突出...",
       "source": "News_Baidu",
-      "date": "2026-04-17",
-      "url": "http://baijiahao.baidu.com/s?id=1862632173165359994"
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862808482884235631"
     },
     {
-      "id": "https://news.cri.cn/20260417/d5dee040-d4d9-3374-d7a7-1e73b88e8a81.html",
-      "title": "焦点访谈丨科技赋能春耕 从自动到自主 中国农业迈向智慧时代-国际在线",
-      "summary": "春和景明,大地复苏,春耕生产从南到北陆续铺开。广袤的田野里,尽是一派忙碌的景象,各种农机田垄穿梭,动力十足。最近记者在一些地方采访发现,2026年的春天,智能农机的应用越来越广泛,已经融进春耕的每一道农活儿里。原先费时费力的农活儿,如今...",
-      "source": "Cri_Cn",
-      "date": "2026-04-17",
-      "url": "https://news.cri.cn/20260417/d5dee040-d4d9-3374-d7a7-1e73b88e8a81.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-17/10605931.shtml",
-      "title": "一季度中国经济“开门红” 读懂增速5%背后含金量",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-04-17",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-17/10605931.shtml"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14265205.html",
-      "title": "“大众版小鹏G9”来了,与众08首先要撬动忠实的德系车爱好者",
-      "summary": "与已经形成稳定用户认知和市场热度的产品相比,“金标大众”仍需要在品牌声量、产品认知和销售转化上接受更直接的检验。...",
-      "source": "Jiemian",
-      "date": "2026-04-17",
-      "url": "https://www.jiemian.com/article/14265205.html"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/04/17/812131",
-      "title": "两车相撞酿一死二伤 快递客货车乘客受困身亡",
-      "summary": "(北海17日讯)威北打昔汝莪路段于今日傍晚发生一宗夺命车祸,涉及一辆第二国产车金龙鱼(Kelisa)轿车与一辆快递公司的客货车,不幸造成一名35岁巫裔女子伤重不治,另有两名男子分别受轻重伤。槟州消拯局是在今日晚上8时06分接获民众投报,指打昔汝莪甘榜勿刹路段发生严重交通意外,当局随即派遣打昔汝莪消拯分局共8名人员,由行动指挥官穆罕默扎夫里率领,并在接报5分钟内赶抵现场展开救援。消拯局发言人透露,事...",
-      "source": "Orientaldaily",
-      "date": "2026-04-17",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/04/17/812131"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/north/2026/04/17/812130",
-      "title": "54岁男子与家人通话后失联 连人带车失踪逾10日",
-      "summary": "(大山脚17日讯)一名54岁会计软体买卖商家吴来成,在本月3日晚上与家人通话后离奇失踪,至今已断绝音讯超过10天,家属目前已报警求助,并呼吁社会大众协助寻找其下落。吴来成的妻子陈女士在接受媒体访问时透露,其丈夫失踪当天如常出门会见客户,傍晚6时32分还曾拨电话提醒她购买清明节祭拜用的糕点,当晚9时23分两人最后一次通话时,丈夫表示自己正位于大山脚柔府区,在回家的路途中,惟因交通阻塞会稍微延迟抵家。...",
-      "source": "Orientaldaily",
-      "date": "2026-04-17",
-      "url": "https://www.orientaldaily.com.my/news/north/2026/04/17/812130"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862699062191426610",
-      "title": "外贸起势有力、开局良好 中国科技企业凭借“go l..",
-      "summary": "央视网消息:海关总署最新数据显示,一季度,我国高新技术产品出口额同比增长25.3%。面临复杂严峻的外部环境,我国外贸起势有力、开局良好,外贸企业主动创新、多元布局。新加坡是中国企业出海的目的地之一...",
+      "id": "http://baijiahao.baidu.com/s?id=1862811837417786270",
+      "title": "中国红牛回应雷军喝红牛",
+      "summary": "4月17日,雷军带团队驾驶新一代小米汽车,在北京到上海长达15小时的路程里全程直播续航实测,以最透明、无脚本的方式,旨在打消市场和消费者对纯电汽车续航的质疑。实测活动从早上6:35满电出发,平均时速约...",
       "source": "News_Baidu",
-      "date": "2026-04-17",
-      "url": "http://baijiahao.baidu.com/s?id=1862699062191426610"
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862811837417786270"
     },
     {
-      "id": "https://news.cri.cn/20260417/33ea4361-2f08-893b-ff21-b39c4d9e5d60.html",
-      "title": "新华视点丨春耕沃野 消费焕新 活力中国向新行-国际在线",
-      "summary": "■“95后”新农人骆雨:在田野中绽放青春之花 骆雨,“95后”,湖南省郴州市北湖区华塘镇种粮大户。学护理专业的她,2022年返乡投身粮食种植。谈及...",
-      "source": "Cri_Cn",
-      "date": "2026-04-17",
-      "url": "https://news.cri.cn/20260417/33ea4361-2f08-893b-ff21-b39c4d9e5d60.html"
+      "id": "https://news.seehua.com/post/1470386",
+      "title": "勉励毕业生勿因未赴海外妄自菲薄 沈志强:本地教育体系具国际水平",
+      "summary": "(大山脚18日讯)企业发展及合作社部长沈志强指出,本地教育体系同样具备世界级水平,毕业生不应因未赴海外深造而妄 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-18",
+      "url": "https://news.seehua.com/post/1470386"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862722594336176814",
-      "title": "湖北:百里洲上“送考下乡” 宜昌车管服务“开”进心..",
-      "summary": "荆楚网(湖北日报网)讯(通讯员赵明镜陈思颖)江水环绕,汽渡往返。4月15日,长江中游最大的江心洲——枝江市百里洲镇三桥村村委会大院里,一排红色的桩考杆格外醒目,院坝里摩托车引擎声此起彼伏。这不是一场普...",
+      "id": "http://baijiahao.baidu.com/s?id=1862808482887268644",
+      "title": "一男子夜骑掉入三米深坑,北京消防紧急救援",
+      "summary": "夜间视线昏暗,骑行需格外谨慎。4月17日凌晨,在北京东城区一路口,一名骑电动自行车的男子,连人带车掉进路边正在施工的三米深坑内,情况危急。凌晨12:15分,消防救援指挥中心接到群众报警称,龙潭街道培新...",
       "source": "News_Baidu",
-      "date": "2026-04-17",
-      "url": "http://baijiahao.baidu.com/s?id=1862722594336176814"
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862808482887268644"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862720455923843268",
-      "title": "内部布局曝光!上海地铁22号线“紫金战车”来了,未..",
-      "summary": "4月16日上海轨道交通22号线(崇明线)22001号“紫金战车”下线据悉,上海轨道交通22号线(崇明线)计划将于2026年建成通车。作为快速联系崇明区与上海中心城区的轨道交通线路,途经浦东新区、长兴岛...",
+      "id": "https://www.ithome.com/0/940/754.htm",
+      "title": "哈弗猛龙 PLUS 开启预售:18.98~21.58 万元,搭载 Coffee Pilot 3 辅助驾驶系统",
+      "summary": "IT之家 4 月 18 日消息,哈弗品牌旗下中大型新能源 SUV—— 哈弗猛龙 PLUS 今晚正式开启预售。新车共推出 3 款配置车型,IT之家汇总如下: 195 Max 版预售价 18.98 万元 195 Max 领航版预售价 19.98 万元 255 Ultra 领航版预售价 21.58 万元 在外观方面,哈弗猛龙 PLUS 延续了猛龙家族经典的“方盒子”造型,并融入“方圆之道 · 棱角之美”...",
+      "source": "Ithome",
+      "date": "2026-04-18",
+      "url": "https://www.ithome.com/0/940/754.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862784300194179426",
+      "title": "15小时直播,挑战成功!雷军:很紧张,一说错话可能..",
+      "summary": "4月17日晚9时40分,雷军乘坐的长途续航测试新SU7抵达上海目的地,雷军发文:新SU7北京到上海长途续航挑战,圆满完成!此次测试从北京小米工厂出发前往上海,满电出发,中途只充一次电,实际测试路程13...",
       "source": "News_Baidu",
-      "date": "2026-04-17",
-      "url": "http://baijiahao.baidu.com/s?id=1862720455923843268"
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862784300194179426"
     },
     {
-      "id": "https://post.smzdm.com/p/anveo803/",
-      "title": "超20项全系标配重塑15万内价值标准,埃安N60预售11.58万起",
-      "summary": "4月16日,长沙梅溪湖艺术博物院,埃安以一场新能源汽车时尚大秀,正式发布全新品牌理念“Easy Life”, 并宣布全新重磅车型——智美都市SUV埃安N60,面向年轻人,没有复杂的选配清单与套路,而是以 “全系标配激光雷达辅助驾驶、全系标配副驾零重力座椅......",
-      "source": "Smzdm",
+      "id": "http://baijiahao.baidu.com/s?id=1862797694423630716",
+      "title": "itc保伦股份荣获“经济突出贡献企业”“公益爱心单..",
+      "summary": "3月17日,番禺区厂商会2026年会员代表大会暨企业家活动日圆满举办,企业家们齐聚一堂、共话发展、共绘企业高质量发展蓝图。省、市、区相关部门工作人员,会员企业及各镇街、各兄弟商会相关人员参加活动。为树...",
+      "source": "News_Baidu",
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862797694423630716"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862800954154154200",
+      "title": "道路王牌无人扫地车已出现?牌照背书合规上路的优选盘..",
+      "summary": "当前,无人环卫清扫车市场的竞争正向场景纵深、规模放量、回报周期等多维度全面展开,各厂商产品业已覆盖室内、封闭/半封闭、开放道路等全场景。据相关机构统计数据显示,2025年上半年无人驾驶清扫车在开放道路...",
+      "source": "News_Baidu",
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862800954154154200"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862792551172146748",
+      "title": "失物招领!您的重要物品,在奉贤区政务服务中心等您来..",
+      "summary": "失物招领近期,在奉贤区政务服务中心各大厅内,陆续拾获多件市民不慎遗落的物,包含多张身份证、银行卡、户口本及营业执照等。这些重要证件关乎日常出行与业务办理,为减少大家不必要的麻烦,我们集中整理失物信息进行公示,期待物品早日...",
+      "source": "News_Baidu",
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862792551172146748"
+    },
+    {
+      "id": "https://news.seehua.com/post/1470283",
+      "title": "陆交局对“幽灵”司机开罚单? 网民笑称马赛克技巧出神入化",
+      "summary": "(马六甲18日讯) 马六甲陆路交通局在社交媒体上传执法人员开罚单的照片,惟涉事的司机却“全身神隐”,令人哭笑不 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-18",
+      "url": "https://news.seehua.com/post/1470283"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862711742995877877",
+      "title": "特斯拉公司西区总经理黄磊:加码贵州 助力“黔”行无..",
+      "summary": "从2021年正式入黔以来,特斯拉持续深耕贵州市场,始终与“电动贵州”建设深度契合、同频共振,走出了独具贵州特色的发展道路。作为贵州绿色出行生态的建设者...",
+      "source": "News_Baidu",
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862711742995877877"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862697880548559973",
+      "title": "别让 “野蛮泼水” 毁了文旅金字招牌!",
+      "summary": "一年一度的云南西双版纳泼水节,再次上演了令人痛心的不文明一幕。据网民在社交平台发布视频反映,4月14日,自己和家人开车路过活动现场时,遭遇了极端滋扰:不仅车门、后备箱被人强行拉开,还遭到高压水枪的“野...",
+      "source": "News_Baidu",
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862697880548559973"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862813127838307295",
+      "title": "胡峥楠出任小米汽车首位CTO,原特斯拉厂长宋钢任参..",
+      "summary": "北京商报讯(记者蔺雨葳)4月18日,北京商报记者获悉,小米集团于4月17日发布内部邮件宣布两项重要人事任命:胡峥楠担任集团副总裁兼汽车部CTO(首席技术官),负责汽车业务技术规划和相关研发部门管理工作...",
+      "source": "News_Baidu",
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862813127838307295"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862794085156940067",
+      "title": "小米公布两项人事任命!雷军刚进行15小时直播......",
+      "summary": "4月17日晚间,媒体记者了解到,小米集团宣布两项人事任命:顺为投资合伙人兼小米汽车顾问胡峥楠正式加入小米,出任集团副总裁、汽车部CTO(首席技术官)。...",
+      "source": "News_Baidu",
+      "date": "2026-04-18",
+      "url": "http://baijiahao.baidu.com/s?id=1862794085156940067"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776501755129608.html",
+      "title": "家庭顶梁柱摘镜致谢,贵州爱尔 MDT 多学科护航,老视矫正更专业",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-18",
+      "url": "https://www.bjnews.com.cn/detail/1776501755129608.html"
+    },
+    {
+      "id": "https://www.thehindubusinessline.com/info-tech/ai-is-driving-shift-to-autonomous-zero-touch-operations-comviva-ceo/article70877554.ece",
+      "title": "AI is powering zero-touch operations and automation: Comviva CEO",
+      "summary": "Comviva CEO says AI is driving autonomous, zero-touch operations, boosting efficiency, cutting costs and accelerating digital transformation across telecom and industries....",
+      "source": "The Hindu Business Line",
+      "date": "2026-04-18",
+      "url": "https://www.thehindubusinessline.com/info-tech/ai-is-driving-shift-to-autonomous-zero-touch-operations-comviva-ceo/article70877554.ece"
+    },
+    {
+      "id": "https://wjla.com/news/local/self-driving-cars-vehicles-driverless-automated-deliveries-robotaxis-washington-dc-jobs-commute-waymo-zooc-beep-nuro-perrone-robotics-av-testing-research-report-shuttles-transit-tech",
+      "title": "Self-driving cars being tested in DC | What this means for the future of jobs, transit",
+      "summary": "A new report from the District Department of Transportation (DDOT) outlines how Washington, D.C., may prepare for the future of autonomous vehicles (AVs), as co...",
+      "source": "WJLA",
       "date": "2026-04-17",
-      "url": "https://post.smzdm.com/p/anveo803/"
+      "url": "https://wjla.com/news/local/self-driving-cars-vehicles-driverless-automated-deliveries-robotaxis-washington-dc-jobs-commute-waymo-zooc-beep-nuro-perrone-robotics-av-testing-research-report-shuttles-transit-tech"
     },
     {
       "id": "https://www.cambridge-news.co.uk/news/local-news/road-self-driving-vehicles-could-33783218",
@@ -221,22 +226,6 @@
       "source": "Metro.co.uk",
       "date": "2026-04-15",
       "url": "https://metro.co.uk/2026/04/15/waymos-robo-taxis-begin-driving-themselves-around-london-27984928/"
-    },
-    {
-      "id": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/",
-      "title": "Wayve bags AMD, Arm and Qualcomm cash as AV push accelerates",
-      "summary": "British autonomous driving firm Wayve has secured $60m from chip giants AMD, Arm, and Qualcomm Ventures, amid its AI driving push...",
-      "source": "City A.M.",
-      "date": "2026-04-15",
-      "url": "https://www.cityam.com/wayve-bags-amd-arm-and-qualcomm-cash-as-av-push-accelerates/"
-    },
-    {
-      "id": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership",
-      "title": "Pony AI Stock Rises After Uber, Lucid Expand Robotaxi Partnership",
-      "summary": "Pony AI Inc (NASDAQ:PONY) shares are rising on Tuesday after autonomous‑driving partner Uber Technologies Inc (NYSE:UBER) expanded its robotaxi collaboration with Lucid....",
-      "source": "Benzinga",
-      "date": "2026-04-14",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/04/51812626/pony-ai-stock-rises-after-uber-lucid-expand-robotaxi-partnership"
     }
   ]
 }
