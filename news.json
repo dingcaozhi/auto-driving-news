@@ -1,12 +1,13 @@
 {
-  "lastUpdated": "2026-04-19 03:37:30",
-  "totalCount": 26,
+  "lastUpdated": "2026-04-20 03:39:28",
+  "totalCount": 30,
   "sources": {
-    "Smzdm": 1,
-    "News_Baidu": 11,
-    "News_Seehua": 2,
-    "Ithome": 1,
-    "Bjnews": 1,
+    "Bilibili": 5,
+    "News_Baidu": 6,
+    "Bjnews": 2,
+    "Zaobao": 1,
+    "Ithome": 2,
+    "News_Seehua": 4,
     "The Hindu Business Line": 1,
     "WJLA": 1,
     "Cambridge Evening News": 1,
@@ -20,132 +21,164 @@
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/anve760v/",
-      "title": "20多万买奥迪R8 V10超跑?!二手R8使用感受、优缺点和通病分享",
-      "summary": "奥迪R8 V10作为中置引擎四驱超级跑车的代表,凭借其V10自然吸气发动机、AMT变速箱以及quattro四驱系统,在驾驶性能上具有显著优势。随着市场价格下探,20多万元的预算已具备购入早期二手R8 V10的可能性。然而,超跑的维修保养成本高昂,且特定年......",
-      "source": "Smzdm",
-      "date": "2026-04-18",
-      "url": "https://post.smzdm.com/p/anve760v/"
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-04-20",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862808482884235631",
-      "title": "2小时10多起!摩托车出行增多,北京严查这些行为",
-      "summary": "随着气温回暖,近期市民摩托车出行需求持续攀升。针对春季摩托车事故高发的特点,市公安交管部门已全面展开专项治理。记者今天(4月18日)上午跟随交警在京承高速的执法中注意到,摩托车走应急车道的现象较为突出...",
+      "id": "https://www.bilibili.com/video/BV1z5QEBjEtJ",
+      "title": "【B站】对话朱西产：自动驾驶的“最后一公里”究竟卡在哪？",
+      "summary": "独家对话资深汽车安全专家朱西产教授！深度拆解自动驾驶「最后一公里」究竟卡在哪，从行业痛点、技术瓶颈、安全权责到法规伦理，全面剖析 L3 落地难题、Robotaxi 真实困境与智驾产业化痛点。硬核解读行业底层逻辑、技术路线与商业化突围，汽车 / AI / 自动驾驶爱好者必看！关注 + 一键三连，评论区...",
+      "source": "Bilibili",
+      "date": "2026-04-20",
+      "url": "https://www.bilibili.com/video/BV1z5QEBjEtJ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
+      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
+      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
+      "source": "Bilibili",
+      "date": "2026-04-20",
+      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-04-20",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-04-20",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862911211959072810",
+      "title": "人形机器人半马观察:50分26秒!机器人打破人类半..",
+      "summary": "4月19日,2026北京亦庄半程马拉松鸣枪,超百支人形机器人队伍与1.2万名人类跑者同场竞技。荣耀齐天大圣队的“闪电”机器人以50分26秒夺冠——这个成绩,已快过人类半马世界纪录。▲冠军冲线今年的赛场...",
       "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862808482884235631"
+      "date": "2026-04-19",
+      "url": "http://baijiahao.baidu.com/s?id=1862911211959072810"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862811837417786270",
-      "title": "中国红牛回应雷军喝红牛",
-      "summary": "4月17日,雷军带团队驾驶新一代小米汽车,在北京到上海长达15小时的路程里全程直播续航实测,以最透明、无脚本的方式,旨在打消市场和消费者对纯电汽车续航的质疑。实测活动从早上6:35满电出发,平均时速约...",
+      "id": "http://baijiahao.baidu.com/s?id=1862906687847565071",
+      "title": "新疆机场集团以“硬核”姿态开启“十五五”新篇章",
+      "summary": "春回大地,天山南北吹响奋进号角;实干为先,空港发展涌动攻坚热潮。2026年1月1日,乌鲁木齐天山国际机场新年音乐会与创意集市年货节温情联动,用音乐与年味点亮旅途、温暖人心;2月3日,全国首家千万级机场...",
       "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862811837417786270"
+      "date": "2026-04-19",
+      "url": "http://baijiahao.baidu.com/s?id=1862906687847565071"
     },
     {
-      "id": "https://news.seehua.com/post/1470386",
-      "title": "勉励毕业生勿因未赴海外妄自菲薄 沈志强:本地教育体系具国际水平",
-      "summary": "(大山脚18日讯)企业发展及合作社部长沈志强指出,本地教育体系同样具备世界级水平,毕业生不应因未赴海外深造而妄 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-18",
-      "url": "https://news.seehua.com/post/1470386"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862808482887268644",
-      "title": "一男子夜骑掉入三米深坑,北京消防紧急救援",
-      "summary": "夜间视线昏暗,骑行需格外谨慎。4月17日凌晨,在北京东城区一路口,一名骑电动自行车的男子,连人带车掉进路边正在施工的三米深坑内,情况危急。凌晨12:15分,消防救援指挥中心接到群众报警称,龙潭街道培新...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862808482887268644"
-    },
-    {
-      "id": "https://www.ithome.com/0/940/754.htm",
-      "title": "哈弗猛龙 PLUS 开启预售:18.98~21.58 万元,搭载 Coffee Pilot 3 辅助驾驶系统",
-      "summary": "IT之家 4 月 18 日消息,哈弗品牌旗下中大型新能源 SUV—— 哈弗猛龙 PLUS 今晚正式开启预售。新车共推出 3 款配置车型,IT之家汇总如下: 195 Max 版预售价 18.98 万元 195 Max 领航版预售价 19.98 万元 255 Ultra 领航版预售价 21.58 万元 在外观方面,哈弗猛龙 PLUS 延续了猛龙家族经典的“方盒子”造型,并融入“方圆之道 · 棱角之美”...",
-      "source": "Ithome",
-      "date": "2026-04-18",
-      "url": "https://www.ithome.com/0/940/754.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862784300194179426",
-      "title": "15小时直播,挑战成功!雷军:很紧张,一说错话可能..",
-      "summary": "4月17日晚9时40分,雷军乘坐的长途续航测试新SU7抵达上海目的地,雷军发文:新SU7北京到上海长途续航挑战,圆满完成!此次测试从北京小米工厂出发前往上海,满电出发,中途只充一次电,实际测试路程13...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862784300194179426"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862797694423630716",
-      "title": "itc保伦股份荣获“经济突出贡献企业”“公益爱心单..",
-      "summary": "3月17日,番禺区厂商会2026年会员代表大会暨企业家活动日圆满举办,企业家们齐聚一堂、共话发展、共绘企业高质量发展蓝图。省、市、区相关部门工作人员,会员企业及各镇街、各兄弟商会相关人员参加活动。为树...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862797694423630716"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862800954154154200",
-      "title": "道路王牌无人扫地车已出现?牌照背书合规上路的优选盘..",
-      "summary": "当前,无人环卫清扫车市场的竞争正向场景纵深、规模放量、回报周期等多维度全面展开,各厂商产品业已覆盖室内、封闭/半封闭、开放道路等全场景。据相关机构统计数据显示,2025年上半年无人驾驶清扫车在开放道路...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862800954154154200"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862792551172146748",
-      "title": "失物招领!您的重要物品,在奉贤区政务服务中心等您来..",
-      "summary": "失物招领近期,在奉贤区政务服务中心各大厅内,陆续拾获多件市民不慎遗落的物,包含多张身份证、银行卡、户口本及营业执照等。这些重要证件关乎日常出行与业务办理,为减少大家不必要的麻烦,我们集中整理失物信息进行公示,期待物品早日...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862792551172146748"
-    },
-    {
-      "id": "https://news.seehua.com/post/1470283",
-      "title": "陆交局对“幽灵”司机开罚单? 网民笑称马赛克技巧出神入化",
-      "summary": "(马六甲18日讯) 马六甲陆路交通局在社交媒体上传执法人员开罚单的照片,惟涉事的司机却“全身神隐”,令人哭笑不 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-18",
-      "url": "https://news.seehua.com/post/1470283"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862711742995877877",
-      "title": "特斯拉公司西区总经理黄磊:加码贵州 助力“黔”行无..",
-      "summary": "从2021年正式入黔以来,特斯拉持续深耕贵州市场,始终与“电动贵州”建设深度契合、同频共振,走出了独具贵州特色的发展道路。作为贵州绿色出行生态的建设者...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862711742995877877"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862697880548559973",
-      "title": "别让 “野蛮泼水” 毁了文旅金字招牌!",
-      "summary": "一年一度的云南西双版纳泼水节,再次上演了令人痛心的不文明一幕。据网民在社交平台发布视频反映,4月14日,自己和家人开车路过活动现场时,遭遇了极端滋扰:不仅车门、后备箱被人强行拉开,还遭到高压水枪的“野...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862697880548559973"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862813127838307295",
-      "title": "胡峥楠出任小米汽车首位CTO,原特斯拉厂长宋钢任参..",
-      "summary": "北京商报讯(记者蔺雨葳)4月18日,北京商报记者获悉,小米集团于4月17日发布内部邮件宣布两项重要人事任命:胡峥楠担任集团副总裁兼汽车部CTO(首席技术官),负责汽车业务技术规划和相关研发部门管理工作...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862813127838307295"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862794085156940067",
-      "title": "小米公布两项人事任命!雷军刚进行15小时直播......",
-      "summary": "4月17日晚间,媒体记者了解到,小米集团宣布两项人事任命:顺为投资合伙人兼小米汽车顾问胡峥楠正式加入小米,出任集团副总裁、汽车部CTO(首席技术官)。...",
-      "source": "News_Baidu",
-      "date": "2026-04-18",
-      "url": "http://baijiahao.baidu.com/s?id=1862794085156940067"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1776501755129608.html",
-      "title": "家庭顶梁柱摘镜致谢,贵州爱尔 MDT 多学科护航,老视矫正更专业",
+      "id": "https://www.bjnews.com.cn/detail/1776601879168573.html",
+      "title": "比赛突然提前结束,张雪机车WSBK荷兰站第二回合正赛第七名",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-18",
-      "url": "https://www.bjnews.com.cn/detail/1776501755129608.html"
+      "date": "2026-04-19",
+      "url": "https://www.bjnews.com.cn/detail/1776601879168573.html"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/world/story20260419-8919337",
+      "title": "日本职场新现象:白领上班族转蓝领致富",
+      "summary": "由于体力劳动领域人力缺口大,日本蓝领工人的薪酬明显看涨。近年,日本出现一个蓝领工作的薪资高于白领员工的趋势。日本的职场也出现异变,不少中年白领上班族放下身段转做计程车司机和建筑工人。职业生涯转换跑道后,一些人还成了“蓝领富翁”。...",
+      "source": "Zaobao",
+      "date": "2026-04-19",
+      "url": "https://www.zaobao.com.sg/news/world/story20260419-8919337"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862899196699203095",
+      "title": "藏在荆楚路网里的“守护蓝”:湖北交通执法温情服务点..",
+      "summary": "极目新闻记者余皓清晨6点,天刚蒙蒙亮,鄂皖交界的武英高速英山收费站出口,湖北省交通运输综合行政执法局高速执法支队三大队队长王磊的身影,已出现在收费广场。他裹紧藏蓝色执法服,揉了揉熬夜处理案件后的双眼,...",
+      "source": "News_Baidu",
+      "date": "2026-04-19",
+      "url": "http://baijiahao.baidu.com/s?id=1862899196699203095"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862902620132951886",
+      "title": "山水为邻 民心做桥——2026中越边民大联欢掠影",
+      "summary": "春风浩荡,歌舞翩跹。4月18日晚,中越边境的广西崇左市大新县体育中心内灯火璀璨、乐声飞扬,2026中越边民大联欢晚会在此启幕。中越两国歌手联袂登台、放声高歌,将舞台化作一座宏大的“跨国歌圩”。随后,越...",
+      "source": "News_Baidu",
+      "date": "2026-04-19",
+      "url": "http://baijiahao.baidu.com/s?id=1862902620132951886"
+    },
+    {
+      "id": "https://www.ithome.com/0/940/939.htm",
+      "title": "华为靳玉志:乾崑智驾累计辅助驾驶总里程,率先在中国突破 100 亿公里",
+      "summary": "IT之家 4 月 19 日消息,华为智能汽车解决方案 BU CEO 靳玉志刚刚宣布: 华为乾崑智驾累计辅助驾驶总里程,率先在中国突破 100 亿公里! 华为乾崑智能汽车解决方案在 4 月 11 日公布数据:截止 2025 年底,华为乾崑智驾累计装载量达 140 万套。华为方面表示, 坚信 L3 级有条件自动驾驶是走向 L4 和 L5 完全自动驾驶的必经阶段 ,让数据持续积累、用户适应角色变化、法律...",
+      "source": "Ithome",
+      "date": "2026-04-19",
+      "url": "https://www.ithome.com/0/940/939.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776594682129236.html",
+      "title": "2026除甲醛产品,专家测评数据全公开",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-19",
+      "url": "https://www.bjnews.com.cn/detail/1776594682129236.html"
+    },
+    {
+      "id": "https://news.seehua.com/post/1470895",
+      "title": "从野狗到牛只都抓 华都牙也严打游荡动物",
+      "summary": "(华都牙也19日讯)游荡动物问题引发关注,华都牙也县议会近一个月半连续展开多项取缔行动,从野狗到牛只全面出击, [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-19",
+      "url": "https://news.seehua.com/post/1470895"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862894506368546241",
+      "title": "一年提速近两小时、从遥控到自主、跑赢人类!人形机器..",
+      "summary": "4月19日清晨,北京经开区通明湖畔,晨风裹着人声、脚步与机器人的电机嗡鸣交织在一起。人形机器人与人类跑者并肩站上起跑线,静待7时30分的发令枪响。枪声响起,仅仅50分26秒(净用时),荣耀“齐天大圣”...",
+      "source": "News_Baidu",
+      "date": "2026-04-19",
+      "url": "http://baijiahao.baidu.com/s?id=1862894506368546241"
+    },
+    {
+      "id": "https://news.seehua.com/post/1470903",
+      "title": "总检署拟设特别仲裁庭 处理罪案受害者赔偿机制",
+      "summary": "(吉隆坡19日讯)总检察长丹斯里莫哈末杜苏基表示,总检察署正考虑设立一个特别仲裁庭,以处理犯罪受害者及其家属的 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-19",
+      "url": "https://news.seehua.com/post/1470903"
+    },
+    {
+      "id": "https://www.ithome.com/0/940/934.htm",
+      "title": "158 吨载重、支持 L4 无人驾驶:全球首款角模块无人矿用卡车“双林 K7”现身",
+      "summary": "IT之家 4 月 19 日消息,据《科技日报》今天报道,双林今天在上海发布全球首款搭载分布式电驱动线控角模块技术的无人驾驶矿用卡车“双林 K7”, 支持 L4 级无人驾驶 ,为露天矿山运输提供全新智能化解决方案。 IT之家从报道中了解到,该车长宽高分别为 13.79*5.7*5.2m,额定载重 158 吨,最大总质量达 248 吨,采用 8x4 驱动布局,搭载与清华大学联合研发的分布式电驱动线控角...",
+      "source": "Ithome",
+      "date": "2026-04-19",
+      "url": "https://www.ithome.com/0/940/934.htm"
+    },
+    {
+      "id": "https://news.seehua.com/post/1470834",
+      "title": "无驾照、吸毒 男子载妹妹和女友闯路障被捕",
+      "summary": "(马六甲19日讯)因无牌驾驶,加上吸毒,一名男子载著两名女乘客强行强闯警方所设定路障,与警察展开追逐战,最终被 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-19",
+      "url": "https://news.seehua.com/post/1470834"
+    },
+    {
+      "id": "https://news.seehua.com/post/1470817",
+      "title": "午后暴雨甲洞泗岩沫多区淹水 部分路段严重积水交通缓慢",
+      "summary": "(吉隆坡19日讯)吉隆坡午后一场暴雨导致甲洞与泗岩沫多个地区出现闪电水灾,部分路段积水严重,交通一度行驶缓慢甚 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-19",
+      "url": "https://news.seehua.com/post/1470817"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862898001426533150",
+      "title": "西班牙埃尔切市代表团与广州南沙进行多议题沟通",
+      "summary": "中新网广州4月19日电(记者王坚)据广州市南沙区政府19日消息,在广州市委外事办指导、广州南沙开发区港澳办推动下,西班牙埃尔切市(Elche)市长帕布罗·鲁兹·比亚努埃瓦(PabloRuzVillan...",
+      "source": "News_Baidu",
+      "date": "2026-04-19",
+      "url": "http://baijiahao.baidu.com/s?id=1862898001426533150"
     },
     {
       "id": "https://www.thehindubusinessline.com/info-tech/ai-is-driving-shift-to-autonomous-zero-touch-operations-comviva-ceo/article70877554.ece",
