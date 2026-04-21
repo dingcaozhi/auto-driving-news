@@ -1,184 +1,178 @@
 {
-  "lastUpdated": "2026-04-20 03:39:28",
-  "totalCount": 30,
+  "lastUpdated": "2026-04-21 03:31:44",
+  "totalCount": 25,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 6,
+    "News_Seehua": 1,
+    "Chinanews": 1,
+    "News_Baidu": 3,
+    "Investing_Cn": 3,
+    "Prnasia": 1,
+    "Fx168News": 1,
     "Bjnews": 2,
-    "Zaobao": 1,
+    "Eeo": 2,
     "Ithome": 2,
-    "News_Seehua": 4,
+    "Devdiscourse": 1,
+    "Breitbart News Network": 1,
+    "Business Insider": 1,
     "The Hindu Business Line": 1,
     "WJLA": 1,
     "Cambridge Evening News": 1,
     "The Manila Times": 1,
     "The Japan Times ": 1,
-    "CBC.ca": 1,
-    "City A.M.": 1,
-    "Firstpost": 1,
-    "TechStartups.com": 1,
-    "Metro.co.uk": 1
+    "CBC.ca": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://news.seehua.com/post/1471489",
+      "title": "金马仑冷力闪电水灾 车辆受损无人伤亡",
+      "summary": "(金马仑20日讯)金马仑高原周一下午降下豪雨,导致冷力发生闪电水灾,主要道路被泥水淹没,多辆交通工具受损,所幸 [...]...",
+      "source": "News_Seehua",
       "date": "2026-04-20",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+      "url": "https://news.seehua.com/post/1471489"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1z5QEBjEtJ",
-      "title": "【B站】对话朱西产：自动驾驶的“最后一公里”究竟卡在哪？",
-      "summary": "独家对话资深汽车安全专家朱西产教授！深度拆解自动驾驶「最后一公里」究竟卡在哪，从行业痛点、技术瓶颈、安全权责到法规伦理，全面剖析 L3 落地难题、Robotaxi 真实困境与智驾产业化痛点。硬核解读行业底层逻辑、技术路线与商业化突围，汽车 / AI / 自动驾驶爱好者必看！关注 + 一键三连，评论区...",
-      "source": "Bilibili",
+      "id": "https://www.chinanews.com.cn/sh/2026/04-20/10607433.shtml",
+      "title": "(乡村行·看振兴)小山村逐梦航天 浙江云和乡村振兴连接“星辰大海”",
+      "summary": "中新网丽水4月20日电(傅飞扬)“从航天科普中心到研学体验课堂,从文创展示到互动实践,我看到航天真正走进了乡村、走近了孩子、走入了民众生活,这就是对‘两弹一星’精神最好的传承。航天事业需要一代又一代人接力奔跑,科普正是点燃梦想的第一颗火种。”...",
+      "source": "Chinanews",
       "date": "2026-04-20",
-      "url": "https://www.bilibili.com/video/BV1z5QEBjEtJ"
+      "url": "https://www.chinanews.com.cn/sh/2026/04-20/10607433.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
-      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
-      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
-      "source": "Bilibili",
-      "date": "2026-04-20",
-      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
-      "title": "【B站】【科普】自动驾驶分级及原理",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-04-20",
-      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
-      "date": "2026-04-20",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862911211959072810",
-      "title": "人形机器人半马观察:50分26秒!机器人打破人类半..",
-      "summary": "4月19日,2026北京亦庄半程马拉松鸣枪,超百支人形机器人队伍与1.2万名人类跑者同场竞技。荣耀齐天大圣队的“闪电”机器人以50分26秒夺冠——这个成绩,已快过人类半马世界纪录。▲冠军冲线今年的赛场...",
+      "id": "http://baijiahao.baidu.com/s?id=1862996493672660143",
+      "title": "腾讯云、滴滴、天齐锂业、恒瑞医药22家重点企业..",
+      "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-19",
-      "url": "http://baijiahao.baidu.com/s?id=1862911211959072810"
+      "date": "2026-04-20",
+      "url": "http://baijiahao.baidu.com/s?id=1862996493672660143"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862906687847565071",
-      "title": "新疆机场集团以“硬核”姿态开启“十五五”新篇章",
-      "summary": "春回大地,天山南北吹响奋进号角;实干为先,空港发展涌动攻坚热潮。2026年1月1日,乌鲁木齐天山国际机场新年音乐会与创意集市年货节温情联动,用音乐与年味点亮旅途、温暖人心;2月3日,全国首家千万级机场...",
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3319545",
+      "title": "摩根士丹利重申特斯拉评级,看好其自动驾驶出租车业务扩张",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-20",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3319545"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3319542",
+      "title": "Jefferies上调特斯拉目标价至350美元,看好增长前景",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-20",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3319542"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862974112543828655",
+      "title": "贵安这家企业,300多人指尖造“智”",
+      "summary": "贵阳网·贵阳新闻讯4月20日,记者走进瓴泓智能科技(贵州)有限公司(下称“瓴泓智能”)看到,办公区内鼠标点击声此起彼伏,300余名数据标注员端坐工位、专注操作,有条不紊地开展智能驾驶、电商平台、AI...",
       "source": "News_Baidu",
-      "date": "2026-04-19",
-      "url": "http://baijiahao.baidu.com/s?id=1862906687847565071"
+      "date": "2026-04-20",
+      "url": "http://baijiahao.baidu.com/s?id=1862974112543828655"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1776601879168573.html",
-      "title": "比赛突然提前结束,张雪机车WSBK荷兰站第二回合正赛第七名",
+      "id": "https://www.prnasia.com/story/529799-1.shtml",
+      "title": "华山A2000家族全新亮相,为物理AI时代构建算力底座",
+      "summary": "上海 2026年4月20日 /美通社/ -- 在近期举行的智能电动汽车高层发展论坛上,黑芝麻智能创始人兼CEO单记章正式发布了华山A2000家族的全新阵容。作为专为下一代AI模型设计的高算力芯片平台,A2000家族分别瞄准从座舱AI化到L4级Robotaxi的不同场景,覆盖了当前智能驾驶与物理AI对端侧推理算力的主要需求区间。 四档算力,精准覆盖不同场景 华山A2000家族包含四款芯片型号:A20...",
+      "source": "Prnasia",
+      "date": "2026-04-20",
+      "url": "https://www.prnasia.com/story/529799-1.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1017713",
+      "title": "随着汽车利润率下滑及税收抵免政策的取消,特斯拉能源存储业务将填补业绩缺口-FX168",
+      "summary": "来源:环球市场播报本周特斯拉发布季度财报时,其太阳能与能源业务有望表现优于这家电动汽车制造商处境艰难的核心业务,这一迹象体现出公司在逐步推进机器人及自动驾驶技术转型过程中的韧性。首席执行官埃隆?马斯克计划新建装配生产线并生产机器人,预计今年...",
+      "source": "Fx168News",
+      "date": "2026-04-20",
+      "url": "https://www.fx168news.com/article/1017713"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776685131129994.html",
+      "title": "定义3吨级无人清扫车新标准:具身智能机器人开启城市全域作业时代",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-19",
-      "url": "https://www.bjnews.com.cn/detail/1776601879168573.html"
+      "date": "2026-04-20",
+      "url": "https://www.bjnews.com.cn/detail/1776685131129994.html"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/world/story20260419-8919337",
-      "title": "日本职场新现象:白领上班族转蓝领致富",
-      "summary": "由于体力劳动领域人力缺口大,日本蓝领工人的薪酬明显看涨。近年,日本出现一个蓝领工作的薪资高于白领员工的趋势。日本的职场也出现异变,不少中年白领上班族放下身段转做计程车司机和建筑工人。职业生涯转换跑道后,一些人还成了“蓝领富翁”。...",
-      "source": "Zaobao",
-      "date": "2026-04-19",
-      "url": "https://www.zaobao.com.sg/news/world/story20260419-8919337"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862899196699203095",
-      "title": "藏在荆楚路网里的“守护蓝”:湖北交通执法温情服务点..",
-      "summary": "极目新闻记者余皓清晨6点,天刚蒙蒙亮,鄂皖交界的武英高速英山收费站出口,湖北省交通运输综合行政执法局高速执法支队三大队队长王磊的身影,已出现在收费广场。他裹紧藏蓝色执法服,揉了揉熬夜处理案件后的双眼,...",
-      "source": "News_Baidu",
-      "date": "2026-04-19",
-      "url": "http://baijiahao.baidu.com/s?id=1862899196699203095"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862902620132951886",
-      "title": "山水为邻 民心做桥——2026中越边民大联欢掠影",
-      "summary": "春风浩荡,歌舞翩跹。4月18日晚,中越边境的广西崇左市大新县体育中心内灯火璀璨、乐声飞扬,2026中越边民大联欢晚会在此启幕。中越两国歌手联袂登台、放声高歌,将舞台化作一座宏大的“跨国歌圩”。随后,越...",
-      "source": "News_Baidu",
-      "date": "2026-04-19",
-      "url": "http://baijiahao.baidu.com/s?id=1862902620132951886"
-    },
-    {
-      "id": "https://www.ithome.com/0/940/939.htm",
-      "title": "华为靳玉志:乾崑智驾累计辅助驾驶总里程,率先在中国突破 100 亿公里",
-      "summary": "IT之家 4 月 19 日消息,华为智能汽车解决方案 BU CEO 靳玉志刚刚宣布: 华为乾崑智驾累计辅助驾驶总里程,率先在中国突破 100 亿公里! 华为乾崑智能汽车解决方案在 4 月 11 日公布数据:截止 2025 年底,华为乾崑智驾累计装载量达 140 万套。华为方面表示, 坚信 L3 级有条件自动驾驶是走向 L4 和 L5 完全自动驾驶的必经阶段 ,让数据持续积累、用户适应角色变化、法律...",
-      "source": "Ithome",
-      "date": "2026-04-19",
-      "url": "https://www.ithome.com/0/940/939.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1776594682129236.html",
-      "title": "2026除甲醛产品,专家测评数据全公开",
+      "id": "https://www.bjnews.com.cn/detail/1776680298129885.html",
+      "title": "从疏解承接到共享智造,3200亿元技术合同从北京流向津冀",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-19",
-      "url": "https://www.bjnews.com.cn/detail/1776594682129236.html"
+      "date": "2026-04-20",
+      "url": "https://www.bjnews.com.cn/detail/1776680298129885.html"
     },
     {
-      "id": "https://news.seehua.com/post/1470895",
-      "title": "从野狗到牛只都抓 华都牙也严打游荡动物",
-      "summary": "(华都牙也19日讯)游荡动物问题引发关注,华都牙也县议会近一个月半连续展开多项取缔行动,从野狗到牛只全面出击, [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-19",
-      "url": "https://news.seehua.com/post/1470895"
+      "id": "http://www.eeo.com.cn/2026/0420/845684.shtml",
+      "title": "猛士汽车与华为乾崑合作升级 双方联合发布智能越野技术",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-04-20",
+      "url": "http://www.eeo.com.cn/2026/0420/845684.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862894506368546241",
-      "title": "一年提速近两小时、从遥控到自主、跑赢人类!人形机器..",
-      "summary": "4月19日清晨,北京经开区通明湖畔,晨风裹着人声、脚步与机器人的电机嗡鸣交织在一起。人形机器人与人类跑者并肩站上起跑线,静待7时30分的发令枪响。枪声响起,仅仅50分26秒(净用时),荣耀“齐天大圣”...",
+      "id": "http://www.eeo.com.cn/2026/0420/845637.shtml",
+      "title": "张雪机车夺冠后 重庆399元摩托车驾考培训卖爆了",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-04-20",
+      "url": "http://www.eeo.com.cn/2026/0420/845637.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862950218861582875",
+      "title": "重点中学高三学生被抓,微信零钱超20万元......特大案..",
+      "summary": "近日,广西钦州市公安局与海警局联合对外发布,破获了一起特大偷越国边境案件,彻底打掉2条海上偷渡通道,案件的最初是从一场惊心动魄的海上围堵开始的。2025年7月25日下午3点多,广西钦州海警局接到一条紧...",
       "source": "News_Baidu",
-      "date": "2026-04-19",
-      "url": "http://baijiahao.baidu.com/s?id=1862894506368546241"
+      "date": "2026-04-20",
+      "url": "http://baijiahao.baidu.com/s?id=1862950218861582875"
     },
     {
-      "id": "https://news.seehua.com/post/1470903",
-      "title": "总检署拟设特别仲裁庭 处理罪案受害者赔偿机制",
-      "summary": "(吉隆坡19日讯)总检察长丹斯里莫哈末杜苏基表示,总检察署正考虑设立一个特别仲裁庭,以处理犯罪受害者及其家属的 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-19",
-      "url": "https://news.seehua.com/post/1470903"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3318888",
+      "title": "海外研选日报0420 | 大摩:AI智能体将推动芯片需求从GPU扩展至CPU",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-20",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3318888"
     },
     {
-      "id": "https://www.ithome.com/0/940/934.htm",
-      "title": "158 吨载重、支持 L4 无人驾驶:全球首款角模块无人矿用卡车“双林 K7”现身",
-      "summary": "IT之家 4 月 19 日消息,据《科技日报》今天报道,双林今天在上海发布全球首款搭载分布式电驱动线控角模块技术的无人驾驶矿用卡车“双林 K7”, 支持 L4 级无人驾驶 ,为露天矿山运输提供全新智能化解决方案。 IT之家从报道中了解到,该车长宽高分别为 13.79*5.7*5.2m,额定载重 158 吨,最大总质量达 248 吨,采用 8x4 驱动布局,搭载与清华大学联合研发的分布式电驱动线控角...",
+      "id": "https://www.ithome.com/0/941/338.htm",
+      "title": "深蓝 S07 华为乾崑激光版上市:定位长续航智能中型 SUV,限时优惠价 15.99 万元起",
+      "summary": "IT之家 4 月 20 日消息,深蓝 S07 华为乾崑激光版今天上市,新车定位长续航智能中型 SUV, 升级华为乾崑 ADS 4 Pro 辅助驾驶系统 。 IT之家附该车各版本售价如下: 630Max+ 华为乾崑激光版:官方指导价 16.49 万元,限时优惠价 15.99 万元 630Ultra 华为乾崑激光版:官方指导价 17.49 万元,限时优惠价 16.99 万元 据介绍,深蓝 S07 华为...",
       "source": "Ithome",
-      "date": "2026-04-19",
-      "url": "https://www.ithome.com/0/940/934.htm"
+      "date": "2026-04-20",
+      "url": "https://www.ithome.com/0/941/338.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1470834",
-      "title": "无驾照、吸毒 男子载妹妹和女友闯路障被捕",
-      "summary": "(马六甲19日讯)因无牌驾驶,加上吸毒,一名男子载著两名女乘客强行强闯警方所设定路障,与警察展开追逐战,最终被 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-19",
-      "url": "https://news.seehua.com/post/1470834"
+      "id": "https://www.ithome.com/0/941/328.htm",
+      "title": "比亚迪全新海狮 05“双狮”汽车上市:天神之眼 B、闪充技术 + 第二代刀片电池,9.79 万元起",
+      "summary": "IT之家 4 月 20 日消息,比亚迪全新海狮 05“双狮”今晚正式上市。新车可选装激光雷达,支持天神之眼 B 辅助驾驶激光版(DiPilot 300),DM-i 版本百公里亏电油耗 3.1L(NEDC)、EV 版全系搭载第二代刀片电池与闪充技术, 上市指导价 9.79 万元起 。 全新海狮 05EV 540 领航版:上市指导价 11.99 万元 540 智航版:上市指导价 12.99 万元 63...",
+      "source": "Ithome",
+      "date": "2026-04-20",
+      "url": "https://www.ithome.com/0/941/328.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1470817",
-      "title": "午后暴雨甲洞泗岩沫多区淹水 部分路段严重积水交通缓慢",
-      "summary": "(吉隆坡19日讯)吉隆坡午后一场暴雨导致甲洞与泗岩沫多个地区出现闪电水灾,部分路段积水严重,交通一度行驶缓慢甚 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-19",
-      "url": "https://news.seehua.com/post/1470817"
+      "id": "https://www.devdiscourse.com/article/business/3880598-teslas-self-driving-triumph-navigating-amsterdams-bicycle-haven",
+      "title": "Tesla's Self-Driving Triumph: Navigating Amsterdam's Bicycle Haven",
+      "summary": "Tesla has gained approval for its full self-driving system in the Netherlands, making it the first European country to allow near-autonomous vehicles on city streets. The initiative has sparked debate...",
+      "source": "Devdiscourse",
+      "date": "2026-04-20",
+      "url": "https://www.devdiscourse.com/article/business/3880598-teslas-self-driving-triumph-navigating-amsterdams-bicycle-haven"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862898001426533150",
-      "title": "西班牙埃尔切市代表团与广州南沙进行多议题沟通",
-      "summary": "中新网广州4月19日电(记者王坚)据广州市南沙区政府19日消息,在广州市委外事办指导、广州南沙开发区港澳办推动下,西班牙埃尔切市(Elche)市长帕布罗·鲁兹·比亚努埃瓦(PabloRuzVillan...",
-      "source": "News_Baidu",
-      "date": "2026-04-19",
-      "url": "http://baijiahao.baidu.com/s?id=1862898001426533150"
+      "id": "https://www.breitbart.com/politics/2026/04/20/tesla-owners-launch-legal-revolt-over-elon-musks-unfulfilled-self-driving-promises/",
+      "title": "Tesla Owners Launch Legal Revolt over Elon Musk's Unfulfilled Self-Driving Promises",
+      "summary": "An international backlash is mounting against Elon Musk's Tesla as car owners allege the company charged thousands of dollars for autonomous driving technology that never materialized....",
+      "source": "Breitbart News Network",
+      "date": "2026-04-20",
+      "url": "https://www.breitbart.com/politics/2026/04/20/tesla-owners-launch-legal-revolt-over-elon-musks-unfulfilled-self-driving-promises/"
+    },
+    {
+      "id": "https://www.businessinsider.com/tesla-robotaxi-passenger-it-tried-to-pull-over-on-highway-2026-4",
+      "title": "Tesla Robotaxi Passenger Said Car Tried to Pull Over on Highway",
+      "summary": "\"I wouldn't recommend this for my grandmother,\" said Chris Ramos, who is still a believer in autonomous driving....",
+      "source": "Business Insider",
+      "date": "2026-04-20",
+      "url": "https://www.businessinsider.com/tesla-robotaxi-passenger-it-tried-to-pull-over-on-highway-2026-4"
     },
     {
       "id": "https://www.thehindubusinessline.com/info-tech/ai-is-driving-shift-to-autonomous-zero-touch-operations-comviva-ceo/article70877554.ece",
@@ -227,38 +221,6 @@
       "source": "CBC.ca",
       "date": "2026-04-15",
       "url": "https://www.cbc.ca/news/business/waymo-ontario-self-driving-cars-9.7163535"
-    },
-    {
-      "id": "https://www.cityam.com/wayve-lands-amd-arm-and-qualcomm-cash-as-uk-self-driving-push-gathers-pace/",
-      "title": "Wayve lands AMD, Arm and Qualcomm cash as UK self-driving push gathers pace",
-      "summary": "British autonomous driving firm Wayve has secured a further $60m (£44.2m) from chip giants AMD, Arm and Qualcomm Ventures...",
-      "source": "City A.M.",
-      "date": "2026-04-15",
-      "url": "https://www.cityam.com/wayve-lands-amd-arm-and-qualcomm-cash-as-uk-self-driving-push-gathers-pace/"
-    },
-    {
-      "id": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html",
-      "title": "Waymo launches robotaxi testing in London, advancing toward first major international rollout",
-      "summary": "Waymo has begun testing autonomous vehicles in London as it prepares for a potential 2026 robotaxi launch, expanding its global self-driving trials beyond the US...",
-      "source": "Firstpost",
-      "date": "2026-04-15",
-      "url": "https://www.firstpost.com/tech/waymo-launches-robotaxi-testing-in-london-advancing-toward-first-major-international-rollout-14000896.html"
-    },
-    {
-      "id": "https://techstartups.com/2026/04/15/wayve-raises-60m-from-chip-giants-qualcomm-amd-arm-to-challenge-waymo-with-mapless-autonomous-driving-ai/",
-      "title": "Wayve raises $60M from chip giants Qualcomm, AMD, Arm to challenge Waymo with mapless autonomous driving AI",
-      "summary": "Wayve just pulled more of the semiconductor world into its orbit—and it’s not a vanity move. The London-based autonomous driving startup said Wednesday it secured $60 million in fresh backing from Qua...",
-      "source": "TechStartups.com",
-      "date": "2026-04-15",
-      "url": "https://techstartups.com/2026/04/15/wayve-raises-60m-from-chip-giants-qualcomm-amd-arm-to-challenge-waymo-with-mapless-autonomous-driving-ai/"
-    },
-    {
-      "id": "https://metro.co.uk/2026/04/15/waymos-robo-taxis-begin-driving-themselves-around-london-27984928/",
-      "title": "Waymo's robotaxis are now driving themselves around London",
-      "summary": "Waymo autonomous taxis are now fully driving themselves around London after previously having a human in the drivers seat in case of emergency....",
-      "source": "Metro.co.uk",
-      "date": "2026-04-15",
-      "url": "https://metro.co.uk/2026/04/15/waymos-robo-taxis-begin-driving-themselves-around-london-27984928/"
     }
   ]
 }
