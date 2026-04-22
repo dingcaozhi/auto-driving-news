@@ -1,16 +1,13 @@
 {
-  "lastUpdated": "2026-04-21 03:31:44",
-  "totalCount": 25,
+  "lastUpdated": "2026-04-22 03:29:53",
+  "totalCount": 29,
   "sources": {
-    "News_Seehua": 1,
-    "Chinanews": 1,
-    "News_Baidu": 3,
-    "Investing_Cn": 3,
-    "Prnasia": 1,
-    "Fx168News": 1,
-    "Bjnews": 2,
-    "Eeo": 2,
-    "Ithome": 2,
+    "Bilibili": 5,
+    "News_Baidu": 2,
+    "Chinanews": 6,
+    "Bjnews": 3,
+    "Ithome": 3,
+    "Jiemian": 1,
     "Devdiscourse": 1,
     "Breitbart News Network": 1,
     "Business Insider": 1,
@@ -23,132 +20,164 @@
   },
   "news": [
     {
-      "id": "https://news.seehua.com/post/1471489",
-      "title": "金马仑冷力闪电水灾 车辆受损无人伤亡",
-      "summary": "(金马仑20日讯)金马仑高原周一下午降下豪雨,导致冷力发生闪电水灾,主要道路被泥水淹没,多辆交通工具受损,所幸 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-20",
-      "url": "https://news.seehua.com/post/1471489"
+      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
+      "title": "【B站】到底是自动驾驶还是自动送死？",
+      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
+      "source": "Bilibili",
+      "date": "2026-04-22",
+      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-20/10607433.shtml",
-      "title": "(乡村行·看振兴)小山村逐梦航天 浙江云和乡村振兴连接“星辰大海”",
-      "summary": "中新网丽水4月20日电(傅飞扬)“从航天科普中心到研学体验课堂,从文创展示到互动实践,我看到航天真正走进了乡村、走近了孩子、走入了民众生活,这就是对‘两弹一星’精神最好的传承。航天事业需要一代又一代人接力奔跑,科普正是点燃梦想的第一颗火种。”...",
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-04-22",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1xXdSBxEWt",
+      "title": "【B站】吹了那么多年的智驾，自动驾驶离我们到底还有多远？",
+      "summary": "有什么疑问请弹幕留言\n嗷！别忘了点赞三连\n———————————————\n\n从实验室的最高机密，到你指尖的触手可及，中国材料学经历了什么？BV1AVmEBVEiX\n为什么豪车都在标配四驱？普通人真的需要四驱么？BV14KYAzQE3i...",
+      "source": "Bilibili",
+      "date": "2026-04-22",
+      "url": "https://www.bilibili.com/video/BV1xXdSBxEWt"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
+      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
+      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
+      "source": "Bilibili",
+      "date": "2026-04-22",
+      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-04-22",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863070671628202482",
+      "title": "新石器无人车进驻批发市场 商户配送成本下降超五成",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-21",
+      "url": "http://baijiahao.baidu.com/s?id=1863070671628202482"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-21/10608139.shtml",
+      "title": "自然资源部:已建成省级以上绿色矿山5500余家",
+      "summary": "中新网北京4月21日电 (记者 庞无忌)自然资源部矿产资源保护监督司副司长董庆吉21日在北京介绍,我国已建成省级以上绿色矿山5500余家,成为美丽中国建设的生动实践。...",
       "source": "Chinanews",
-      "date": "2026-04-20",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-20/10607433.shtml"
+      "date": "2026-04-21",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-21/10608139.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862996493672660143",
-      "title": "腾讯云、滴滴、天齐锂业、恒瑞医药22家重点企业..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-20",
-      "url": "http://baijiahao.baidu.com/s?id=1862996493672660143"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3319545",
-      "title": "摩根士丹利重申特斯拉评级,看好其自动驾驶出租车业务扩张",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-20",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3319545"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3319542",
-      "title": "Jefferies上调特斯拉目标价至350美元,看好增长前景",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-20",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3319542"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862974112543828655",
-      "title": "贵安这家企业,300多人指尖造“智”",
-      "summary": "贵阳网·贵阳新闻讯4月20日,记者走进瓴泓智能科技(贵州)有限公司(下称“瓴泓智能”)看到,办公区内鼠标点击声此起彼伏,300余名数据标注员端坐工位、专注操作,有条不紊地开展智能驾驶、电商平台、AI...",
-      "source": "News_Baidu",
-      "date": "2026-04-20",
-      "url": "http://baijiahao.baidu.com/s?id=1862974112543828655"
-    },
-    {
-      "id": "https://www.prnasia.com/story/529799-1.shtml",
-      "title": "华山A2000家族全新亮相,为物理AI时代构建算力底座",
-      "summary": "上海 2026年4月20日 /美通社/ -- 在近期举行的智能电动汽车高层发展论坛上,黑芝麻智能创始人兼CEO单记章正式发布了华山A2000家族的全新阵容。作为专为下一代AI模型设计的高算力芯片平台,A2000家族分别瞄准从座舱AI化到L4级Robotaxi的不同场景,覆盖了当前智能驾驶与物理AI对端侧推理算力的主要需求区间。 四档算力,精准覆盖不同场景 华山A2000家族包含四款芯片型号:A20...",
-      "source": "Prnasia",
-      "date": "2026-04-20",
-      "url": "https://www.prnasia.com/story/529799-1.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1017713",
-      "title": "随着汽车利润率下滑及税收抵免政策的取消,特斯拉能源存储业务将填补业绩缺口-FX168",
-      "summary": "来源:环球市场播报本周特斯拉发布季度财报时,其太阳能与能源业务有望表现优于这家电动汽车制造商处境艰难的核心业务,这一迹象体现出公司在逐步推进机器人及自动驾驶技术转型过程中的韧性。首席执行官埃隆?马斯克计划新建装配生产线并生产机器人,预计今年...",
-      "source": "Fx168News",
-      "date": "2026-04-20",
-      "url": "https://www.fx168news.com/article/1017713"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1776685131129994.html",
-      "title": "定义3吨级无人清扫车新标准:具身智能机器人开启城市全域作业时代",
+      "id": "https://www.bjnews.com.cn/detail/1776773127129774.html",
+      "title": "4款新车全球首秀,大众汽车集团加速进入“AI定义汽车时代”",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-20",
-      "url": "https://www.bjnews.com.cn/detail/1776685131129994.html"
+      "date": "2026-04-21",
+      "url": "https://www.bjnews.com.cn/detail/1776773127129774.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1776680298129885.html",
-      "title": "从疏解承接到共享智造,3200亿元技术合同从北京流向津冀",
+      "id": "https://www.ithome.com/0/941/841.htm",
+      "title": "2026 款乐道 L90 上市:蔚来世界模型上车、超 70 项软硬件升级,电池租用方式购买 17.98 万元起",
+      "summary": "IT之家 4 月 21 日消息,2026 款蔚来乐道 L90 纯电大三排 SUV 今晚正式上市。新车拥有八大板块、超过 70 项软硬件升级, 整车购买 26.58 万元起、电池租用方式购买 17.98 万元起 。 6 座版整车购买:26.58 万-29.98 万元起; 6 座版电池租用:17.98 万-21.38 万元起; 7 座版整车购买:28.58 万-29.98 万元起; 7 座版电池租用:...",
+      "source": "Ithome",
+      "date": "2026-04-21",
+      "url": "https://www.ithome.com/0/941/841.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776764747129667.html",
+      "title": "中国农大胡标:机器人走进家庭需翻越稳定性、自主性和刚性结构关卡",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-20",
-      "url": "https://www.bjnews.com.cn/detail/1776680298129885.html"
+      "date": "2026-04-21",
+      "url": "https://www.bjnews.com.cn/detail/1776764747129667.html"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0420/845684.shtml",
-      "title": "猛士汽车与华为乾崑合作升级 双方联合发布智能越野技术",
+      "id": "https://www.bjnews.com.cn/detail/1776754039129458.html",
+      "title": "从赛场到工厂,再到家庭:人形机器人另一场“马拉松”加速奔跑",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-21",
+      "url": "https://www.bjnews.com.cn/detail/1776754039129458.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863086558210258337",
+      "title": "北京朝阳交警携手九号电动车 走进朝阳社区普及骑行安..",
       "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-04-20",
-      "url": "http://www.eeo.com.cn/2026/0420/845684.shtml"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0420/845637.shtml",
-      "title": "张雪机车夺冠后 重庆399元摩托车驾考培训卖爆了",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-04-20",
-      "url": "http://www.eeo.com.cn/2026/0420/845637.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862950218861582875",
-      "title": "重点中学高三学生被抓,微信零钱超20万元......特大案..",
-      "summary": "近日,广西钦州市公安局与海警局联合对外发布,破获了一起特大偷越国边境案件,彻底打掉2条海上偷渡通道,案件的最初是从一场惊心动魄的海上围堵开始的。2025年7月25日下午3点多,广西钦州海警局接到一条紧...",
       "source": "News_Baidu",
-      "date": "2026-04-20",
-      "url": "http://baijiahao.baidu.com/s?id=1862950218861582875"
+      "date": "2026-04-21",
+      "url": "http://baijiahao.baidu.com/s?id=1863086558210258337"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3318888",
-      "title": "海外研选日报0420 | 大摩:AI智能体将推动芯片需求从GPU扩展至CPU",
+      "id": "https://www.jiemian.com/article/14287217.html",
+      "title": "新兴产业“带火”深圳甲级写字楼市场,一季度空置率降至25.9%",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-20",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3318888"
+      "source": "Jiemian",
+      "date": "2026-04-21",
+      "url": "https://www.jiemian.com/article/14287217.html"
     },
     {
-      "id": "https://www.ithome.com/0/941/338.htm",
-      "title": "深蓝 S07 华为乾崑激光版上市:定位长续航智能中型 SUV,限时优惠价 15.99 万元起",
-      "summary": "IT之家 4 月 20 日消息,深蓝 S07 华为乾崑激光版今天上市,新车定位长续航智能中型 SUV, 升级华为乾崑 ADS 4 Pro 辅助驾驶系统 。 IT之家附该车各版本售价如下: 630Max+ 华为乾崑激光版:官方指导价 16.49 万元,限时优惠价 15.99 万元 630Ultra 华为乾崑激光版:官方指导价 17.49 万元,限时优惠价 16.99 万元 据介绍,深蓝 S07 华为...",
-      "source": "Ithome",
-      "date": "2026-04-20",
-      "url": "https://www.ithome.com/0/941/338.htm"
+      "id": "https://www.chinanews.com.cn/dwq/2026/04-21/10608046.shtml",
+      "title": "香港首批无人驾驶重卡正式投运 推动绿色智慧航运",
+      "summary": "中新社香港4月21日电 (记者 戴小橦)当岸桥的钢缆吊起蓝色集装箱,一辆无人驾驶重卡(AT)驶入,车顶LED屏同步显示作业状态;当集装箱装卸完成后,这些重卡随即自动驶向集装箱堆场。这是中新社记者21日在香港葵青货柜码头看到的一幕。...",
+      "source": "Chinanews",
+      "date": "2026-04-21",
+      "url": "https://www.chinanews.com.cn/dwq/2026/04-21/10608046.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/941/328.htm",
-      "title": "比亚迪全新海狮 05“双狮”汽车上市:天神之眼 B、闪充技术 + 第二代刀片电池,9.79 万元起",
-      "summary": "IT之家 4 月 20 日消息,比亚迪全新海狮 05“双狮”今晚正式上市。新车可选装激光雷达,支持天神之眼 B 辅助驾驶激光版(DiPilot 300),DM-i 版本百公里亏电油耗 3.1L(NEDC)、EV 版全系搭载第二代刀片电池与闪充技术, 上市指导价 9.79 万元起 。 全新海狮 05EV 540 领航版:上市指导价 11.99 万元 540 智航版:上市指导价 12.99 万元 63...",
+      "id": "https://www.chinanews.com.cn/gn/2026/04-21/10608062.shtml",
+      "title": "开局起步“十五五”:山东“四向发力”提升区域创新能力",
+      "summary": "中新网济南4月21日电(记者 李欣 梁犇)山东省省长周乃翔21日在济南表示,“十五五”时期,山东将在四个方面发力,深入实施科创能力攀登工程,打造中国重要的区域创新高地、人才集聚高地、科技创新策源地。...",
+      "source": "Chinanews",
+      "date": "2026-04-21",
+      "url": "https://www.chinanews.com.cn/gn/2026/04-21/10608062.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/941/842.htm",
+      "title": "特斯拉提交首批 Robotaxi 专用超充站建设计划,不对外开放",
+      "summary": "IT之家 4 月 21 日消息,据汽车媒体 electrek 今天报道,特斯拉已在美国亚利桑那州提交首批 Robotaxi 专用超级充电站建设计划。 据报道,特斯拉一共提交了两座超充站建设申请,第一座位于马里科帕县钱德勒市南罗斯福大道(South Roosevelt Avenue),第二座则在凤凰城梅萨市 5349 东主道(IT之家注:5349 E Main St),均配备 V4 充电桩。 值得注...",
       "source": "Ithome",
-      "date": "2026-04-20",
-      "url": "https://www.ithome.com/0/941/328.htm"
+      "date": "2026-04-21",
+      "url": "https://www.ithome.com/0/941/842.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-21/10608114.shtml",
+      "title": "黑龙江“智慧”春耕由南向北陆续展开",
+      "summary": "中新社黑龙江绥化4月21日电 (记者 王妮娜)十米多长的撒药机在田间伸展“双臂”,硕大的无人机在低空掠过,农业机器人穿梭作业......黑龙江省春耕现场会21日在绥化市举行,标志着全省春耕生产由南向北陆续展开。...",
+      "source": "Chinanews",
+      "date": "2026-04-21",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-21/10608114.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/04-21/10608064.shtml",
+      "title": "开局起步“十五五”:从智造跃升到民生提质 山东擘画“十五五”发展新蓝图",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-04-21",
+      "url": "https://www.chinanews.com.cn/gn/2026/04-21/10608064.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-21/10608051.shtml",
+      "title": "汽车测评创新大会暨C-NCAP二十周年活动在天津举行",
+      "summary": "中新网天津4月21日电 (陈昊星)4月20-21日,由中汽测评中心主办的汽车测评创新大会暨中国新车评价规程(C-NCAP)二十周年活动在天津成功举办。...",
+      "source": "Chinanews",
+      "date": "2026-04-21",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-21/10608051.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/941/844.htm",
+      "title": "24 个月完成开发:大众、小鹏合作第二款车型与众 09 亮相,下半年上市",
+      "summary": "IT之家 4 月 21 日消息,今天晚间,大众汽车集团媒体之夜在北京举行,来自大众汽车、捷达、AUDI 品牌的四款车型完成了全球首秀。 除了IT之家此前报道过的基于 CEA 电子电气架构、搭载酷睿程(CARIZON)高级驾驶辅助方案的 ID. AURA T6 ,捷达品牌面向入门级智能网联汽车市场的 纯电概念展车 JETTA X ,以及 AUDI 品牌专为中国市场打造的 第二款量产车型 E7X 外,...",
+      "source": "Ithome",
+      "date": "2026-04-21",
+      "url": "https://www.ithome.com/0/941/844.htm"
     },
     {
       "id": "https://www.devdiscourse.com/article/business/3880598-teslas-self-driving-triumph-navigating-amsterdams-bicycle-haven",
