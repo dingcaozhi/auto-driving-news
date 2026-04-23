@@ -1,183 +1,179 @@
 {
-  "lastUpdated": "2026-04-22 03:29:53",
-  "totalCount": 29,
+  "lastUpdated": "2026-04-23 03:33:26",
+  "totalCount": 26,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 2,
-    "Chinanews": 6,
-    "Bjnews": 3,
-    "Ithome": 3,
-    "Jiemian": 1,
+    "Zaobao": 1,
+    "Eeo": 2,
+    "Smzdm": 2,
+    "Investing_Cn": 2,
+    "Jiemian": 2,
+    "News_Baidu": 3,
+    "Cri_Cn": 1,
+    "Chinanews": 2,
+    "Bjnews": 1,
+    "Ithome": 1,
+    "PR Newswire UK": 1,
+    "South China Morning Post": 1,
     "Devdiscourse": 1,
     "Breitbart News Network": 1,
     "Business Insider": 1,
     "The Hindu Business Line": 1,
     "WJLA": 1,
     "Cambridge Evening News": 1,
-    "The Manila Times": 1,
-    "The Japan Times ": 1,
-    "CBC.ca": 1
+    "The Manila Times": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
-      "title": "【B站】到底是自动驾驶还是自动送死？",
-      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
-      "source": "Bilibili",
+      "id": "https://www.zaobao.com.sg/news/world/story20260422-8937653",
+      "title": "韩飞行员开战机空中拍照致撞机 被罚逾7万元",
+      "summary": "韩国一名战斗机飞行员因在驾驶过程中拍照而导致空中撞击事故,被勒令支付近6万美元(约7万6000新元)赔偿金。...",
+      "source": "Zaobao",
       "date": "2026-04-22",
-      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
+      "url": "https://www.zaobao.com.sg/news/world/story20260422-8937653"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
+      "id": "http://www.eeo.com.cn/2026/0422/848027.shtml",
+      "title": "全新坦克700上市售42.8万元起,同步发布高端社交平台“麒麟荟”",
+      "summary": "“麒麟荟”的发布,折射出长城汽车营销思路的转变——从传统的“销售汽车”转向“销售圈层文化与生活方式”。...",
+      "source": "Eeo",
       "date": "2026-04-22",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "url": "http://www.eeo.com.cn/2026/0422/848027.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1xXdSBxEWt",
-      "title": "【B站】吹了那么多年的智驾，自动驾驶离我们到底还有多远？",
-      "summary": "有什么疑问请弹幕留言\n嗷！别忘了点赞三连\n———————————————\n\n从实验室的最高机密，到你指尖的触手可及，中国材料学经历了什么？BV1AVmEBVEiX\n为什么豪车都在标配四驱？普通人真的需要四驱么？BV14KYAzQE3i...",
-      "source": "Bilibili",
+      "id": "http://www.eeo.com.cn/2026/0422/848022.shtml",
+      "title": "太行电驱+乾崑智驾:阿维塔06T依托三方优势开辟新战场",
+      "summary": "阿维塔06T依托三方技术生态,以“性能+智能+安全”组合破局,把超跑级驾控、华为高阶智驾、三方生态体系打包下放至20万—30万元区间,用技术整合能力打造差异化。...",
+      "source": "Eeo",
       "date": "2026-04-22",
-      "url": "https://www.bilibili.com/video/BV1xXdSBxEWt"
+      "url": "http://www.eeo.com.cn/2026/0422/848022.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
-      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
-      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/aomk9zl6/",
+      "title": "三星增产GDDR6供应特斯拉:自动驾驶算力需求引爆存储芯片新战场",
+      "summary": "2026年4月22日,全球半导体行业传来重磅消息——三星电子已从本月起正式启动增产,专门满足特斯拉对GDDR6存储芯片的紧急需求。据韩国媒体报道,三星对特斯拉8GB GDDR6 DRAM的月度供应量已提升至今年一季度的四倍,但即便如此仍无法完全满足特斯......",
+      "source": "Smzdm",
       "date": "2026-04-22",
-      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
+      "url": "https://post.smzdm.com/p/aomk9zl6/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/apq7v062/",
+      "title": "2026线控底盘:重塑汽车智能操控的时代引擎",
+      "summary": "2026年,线控底盘在中国汽车市场迎来规模化普及,成为汽车智能化进程中的关键里程碑。这一技术突破了传统机械底盘的局限,以电子信号传递替代机械连杆和液压管路,构建起线控转向、线控制动、线控悬挂三大模块协同的智能执行系统,为高阶自动驾驶和智能汽车竞争力奠定核......",
+      "source": "Smzdm",
       "date": "2026-04-22",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+      "url": "https://post.smzdm.com/p/apq7v062/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863070671628202482",
-      "title": "新石器无人车进驻批发市场 商户配送成本下降超五成",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3324278",
+      "title": "技术品牌“扩容” 鸿蒙智行集齐六大“王牌”迎L3商业化落地|北京车展季",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-21",
-      "url": "http://baijiahao.baidu.com/s?id=1863070671628202482"
+      "source": "Investing_Cn",
+      "date": "2026-04-22",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3324278"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-21/10608139.shtml",
-      "title": "自然资源部:已建成省级以上绿色矿山5500余家",
-      "summary": "中新网北京4月21日电 (记者 庞无忌)自然资源部矿产资源保护监督司副司长董庆吉21日在北京介绍,我国已建成省级以上绿色矿山5500余家,成为美丽中国建设的生动实践。...",
-      "source": "Chinanews",
-      "date": "2026-04-21",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-21/10608139.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1776773127129774.html",
-      "title": "4款新车全球首秀,大众汽车集团加速进入“AI定义汽车时代”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-21",
-      "url": "https://www.bjnews.com.cn/detail/1776773127129774.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/941/841.htm",
-      "title": "2026 款乐道 L90 上市:蔚来世界模型上车、超 70 项软硬件升级,电池租用方式购买 17.98 万元起",
-      "summary": "IT之家 4 月 21 日消息,2026 款蔚来乐道 L90 纯电大三排 SUV 今晚正式上市。新车拥有八大板块、超过 70 项软硬件升级, 整车购买 26.58 万元起、电池租用方式购买 17.98 万元起 。 6 座版整车购买:26.58 万-29.98 万元起; 6 座版电池租用:17.98 万-21.38 万元起; 7 座版整车购买:28.58 万-29.98 万元起; 7 座版电池租用:...",
-      "source": "Ithome",
-      "date": "2026-04-21",
-      "url": "https://www.ithome.com/0/941/841.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1776764747129667.html",
-      "title": "中国农大胡标:机器人走进家庭需翻越稳定性、自主性和刚性结构关卡",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-21",
-      "url": "https://www.bjnews.com.cn/detail/1776764747129667.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1776754039129458.html",
-      "title": "从赛场到工厂,再到家庭:人形机器人另一场“马拉松”加速奔跑",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-21",
-      "url": "https://www.bjnews.com.cn/detail/1776754039129458.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863086558210258337",
-      "title": "北京朝阳交警携手九号电动车 走进朝阳社区普及骑行安..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-21",
-      "url": "http://baijiahao.baidu.com/s?id=1863086558210258337"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14287217.html",
-      "title": "新兴产业“带火”深圳甲级写字楼市场,一季度空置率降至25.9%",
+      "id": "https://www.jiemian.com/article/14295743.html",
+      "title": "小米高管徐洁云辟谣库克加入小米汽车:乱P图不可取",
       "summary": "NewsData报道",
       "source": "Jiemian",
-      "date": "2026-04-21",
-      "url": "https://www.jiemian.com/article/14287217.html"
+      "date": "2026-04-22",
+      "url": "https://www.jiemian.com/article/14295743.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/dwq/2026/04-21/10608046.shtml",
-      "title": "香港首批无人驾驶重卡正式投运 推动绿色智慧航运",
-      "summary": "中新社香港4月21日电 (记者 戴小橦)当岸桥的钢缆吊起蓝色集装箱,一辆无人驾驶重卡(AT)驶入,车顶LED屏同步显示作业状态;当集装箱装卸完成后,这些重卡随即自动驶向集装箱堆场。这是中新社记者21日在香港葵青货柜码头看到的一幕。...",
+      "id": "http://baijiahao.baidu.com/s?id=1863175706469393942",
+      "title": "京青聚势 智领新程 青岛市专精特新中小企业融链固链..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-22",
+      "url": "http://baijiahao.baidu.com/s?id=1863175706469393942"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863179945274972745",
+      "title": "“顺子,你别去!”长沙一女子劝阻丈夫救火未果后发视..",
+      "summary": "“顺子,你别去!”4月20日,长沙松雅湖壹号小区地下车库充电桩突然起火,一男子一度抵近灭火,身后同行者试图劝阻。视频发布后,男子的救援行为受到网友关注和点赞。4月22日,潇湘晨报·晨视频记者了解到,视...",
+      "source": "News_Baidu",
+      "date": "2026-04-22",
+      "url": "http://baijiahao.baidu.com/s?id=1863179945274972745"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14296523.html",
+      "title": "鸿蒙智行一口气推出五款新车,尚界新车小订突破8万,肖战代言",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-04-22",
+      "url": "https://www.jiemian.com/article/14296523.html"
+    },
+    {
+      "id": "https://news.cri.cn/20260422/dffd4ad4-ce04-9d56-7d74-23465788f1c2.html",
+      "title": "工业经济向新向好稳中有进(权威发布)-国际在线",
+      "summary": "数据来源:工业和信息化部 制图:张芳曼 “一季度,规模以上工业增加值同比增长6.1%,31个省份全部实现正增长,行业增长面超八成,工业对经济增长的贡献率近四成...",
+      "source": "Cri_Cn",
+      "date": "2026-04-22",
+      "url": "https://news.cri.cn/20260422/dffd4ad4-ce04-9d56-7d74-23465788f1c2.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3324167",
+      "title": "智通港股解盘 | 美伊谈判搁浅后期再度不明朗 CPO巨头集体创出历史新高",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-22",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3324167"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/04-22/10608882.shtml",
+      "title": "雄安交出绿色发展成绩单 “九大典范”建设全面提能级",
+      "summary": "中新网雄安4月22日电 (王夏菲 韩冰)河北雄安新区22日召开新闻发布会通报雄安新区绿色发展城市典范建设情况,“强化绿色技术研发推广”“构建低碳智能交通网络”等“九大典范”建设全面提能级。...",
       "source": "Chinanews",
-      "date": "2026-04-21",
-      "url": "https://www.chinanews.com.cn/dwq/2026/04-21/10608046.shtml"
+      "date": "2026-04-22",
+      "url": "https://www.chinanews.com.cn/gn/2026/04-22/10608882.shtml"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/04-21/10608062.shtml",
-      "title": "开局起步“十五五”:山东“四向发力”提升区域创新能力",
-      "summary": "中新网济南4月21日电(记者 李欣 梁犇)山东省省长周乃翔21日在济南表示,“十五五”时期,山东将在四个方面发力,深入实施科创能力攀登工程,打造中国重要的区域创新高地、人才集聚高地、科技创新策源地。...",
-      "source": "Chinanews",
-      "date": "2026-04-21",
-      "url": "https://www.chinanews.com.cn/gn/2026/04-21/10608062.shtml"
+      "id": "http://baijiahao.baidu.com/s?id=1863178064325329378",
+      "title": "“绿动齐鲁·智充未来”电动重卡(船舶)充换电大会在..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-22",
+      "url": "http://baijiahao.baidu.com/s?id=1863178064325329378"
     },
     {
-      "id": "https://www.ithome.com/0/941/842.htm",
-      "title": "特斯拉提交首批 Robotaxi 专用超充站建设计划,不对外开放",
-      "summary": "IT之家 4 月 21 日消息,据汽车媒体 electrek 今天报道,特斯拉已在美国亚利桑那州提交首批 Robotaxi 专用超级充电站建设计划。 据报道,特斯拉一共提交了两座超充站建设申请,第一座位于马里科帕县钱德勒市南罗斯福大道(South Roosevelt Avenue),第二座则在凤凰城梅萨市 5349 东主道(IT之家注:5349 E Main St),均配备 V4 充电桩。 值得注...",
-      "source": "Ithome",
-      "date": "2026-04-21",
-      "url": "https://www.ithome.com/0/941/842.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-21/10608114.shtml",
-      "title": "黑龙江“智慧”春耕由南向北陆续展开",
-      "summary": "中新社黑龙江绥化4月21日电 (记者 王妮娜)十米多长的撒药机在田间伸展“双臂”,硕大的无人机在低空掠过,农业机器人穿梭作业......黑龙江省春耕现场会21日在绥化市举行,标志着全省春耕生产由南向北陆续展开。...",
-      "source": "Chinanews",
-      "date": "2026-04-21",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-21/10608114.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/04-21/10608064.shtml",
-      "title": "开局起步“十五五”:从智造跃升到民生提质 山东擘画“十五五”发展新蓝图",
+      "id": "https://www.chinanews.com.cn/cj/2026/04-22/10608844.shtml",
+      "title": "工业经济向新向好稳中有进(权威发布)",
       "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-04-21",
-      "url": "https://www.chinanews.com.cn/gn/2026/04-21/10608064.shtml"
+      "date": "2026-04-22",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-22/10608844.shtml"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-21/10608051.shtml",
-      "title": "汽车测评创新大会暨C-NCAP二十周年活动在天津举行",
-      "summary": "中新网天津4月21日电 (陈昊星)4月20-21日,由中汽测评中心主办的汽车测评创新大会暨中国新车评价规程(C-NCAP)二十周年活动在天津成功举办。...",
-      "source": "Chinanews",
-      "date": "2026-04-21",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-21/10608051.shtml"
+      "id": "https://www.bjnews.com.cn/detail/1776863783129691.html",
+      "title": "阿维塔科技总裁陈卓:与深蓝战略性整合不会影响IPO计划",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-22",
+      "url": "https://www.bjnews.com.cn/detail/1776863783129691.html"
     },
     {
-      "id": "https://www.ithome.com/0/941/844.htm",
-      "title": "24 个月完成开发:大众、小鹏合作第二款车型与众 09 亮相,下半年上市",
-      "summary": "IT之家 4 月 21 日消息,今天晚间,大众汽车集团媒体之夜在北京举行,来自大众汽车、捷达、AUDI 品牌的四款车型完成了全球首秀。 除了IT之家此前报道过的基于 CEA 电子电气架构、搭载酷睿程(CARIZON)高级驾驶辅助方案的 ID. AURA T6 ,捷达品牌面向入门级智能网联汽车市场的 纯电概念展车 JETTA X ,以及 AUDI 品牌专为中国市场打造的 第二款量产车型 E7X 外,...",
+      "id": "https://www.ithome.com/0/942/327.htm",
+      "title": "鸿蒙智行春季新品发布会谢幕视频曝光,四款新车同台后一起离场",
+      "summary": "IT之家 4 月 22 日消息,在今晚的鸿蒙智行春季新品发布会,华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东连发五车,包括尚界 Z7 / Z7T、问界 M6、智界 V9 以及问界 M9。 博主 @AIMIKKKK 刚刚分享了发布会结束后的视频。画面显示,鸿蒙智行最后还拿出了智界 V9 和问界 M9 两款 9 系旗舰新车的实车, 并与尚界 Z7 和问界 M6 一同下场 。 IT之家...",
       "source": "Ithome",
-      "date": "2026-04-21",
-      "url": "https://www.ithome.com/0/941/844.htm"
+      "date": "2026-04-22",
+      "url": "https://www.ithome.com/0/942/327.htm"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/einride-and-legato-merger-corp-iii-announce-public-filing-of-registration-statement-on-form-f-4-302750395.html",
+      "title": "Einride and Legato Merger Corp. III Announce Public Filing of Registration Statement on Form F-4",
+      "summary": "/PRNewswire/ -- Einride AB (publ) (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous freight......",
+      "source": "PR Newswire UK",
+      "date": "2026-04-22",
+      "url": "https://www.prnewswire.co.uk/news-releases/einride-and-legato-merger-corp-iii-announce-public-filing-of-registration-statement-on-form-f-4-302750395.html"
+    },
+    {
+      "id": "https://www.scmp.com/business/banking-finance/article/3351001/biotech-led-boom-8-china-firms-flock-hong-kongs-thriving-stock-market",
+      "title": "Biotech-led boom as 8 China firms flock to Hong Kong’s thriving stock market",
+      "summary": "AI-powered drug developer Metis TechBio leads group that includes developers of autonomous driving technology and industrial robots....",
+      "source": "South China Morning Post",
+      "date": "2026-04-22",
+      "url": "https://www.scmp.com/business/banking-finance/article/3351001/biotech-led-boom-8-china-firms-flock-hong-kongs-thriving-stock-market"
     },
     {
       "id": "https://www.devdiscourse.com/article/business/3880598-teslas-self-driving-triumph-navigating-amsterdams-bicycle-haven",
@@ -234,22 +230,6 @@
       "source": "The Manila Times",
       "date": "2026-04-17",
       "url": "https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/hyundai-mobis-develops-data-driven-validation-system-to-dramatically-cut-testing-time-for-sdvs/2322496"
-    },
-    {
-      "id": "https://www.japantimes.co.jp/business/2026/04/17/autonomous-vehicle-target/",
-      "title": "Japan targets 25% share of global autonomous vehicle market",
-      "summary": "The government aims to acquire an about 25% share of the global market in self-driving vehicle sales in the 2030s....",
-      "source": "The Japan Times ",
-      "date": "2026-04-17",
-      "url": "https://www.japantimes.co.jp/business/2026/04/17/autonomous-vehicle-target/"
-    },
-    {
-      "id": "https://www.cbc.ca/news/business/waymo-ontario-self-driving-cars-9.7163535",
-      "title": "Waymo is taking steps to get its robotaxis on Toronto streets. But roadblocks await",
-      "summary": "The autonomous taxi operator Waymo appears to be taking steps to break into the Canadian market, eyeing Toronto as a new testing ground for its self-driving fleet. But it may face technological, polit...",
-      "source": "CBC.ca",
-      "date": "2026-04-15",
-      "url": "https://www.cbc.ca/news/business/waymo-ontario-self-driving-cars-9.7163535"
     }
   ]
 }
