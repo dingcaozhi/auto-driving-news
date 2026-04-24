@@ -1,163 +1,258 @@
 {
-  "lastUpdated": "2026-04-23 03:33:26",
-  "totalCount": 26,
+  "lastUpdated": "2026-04-24 03:35:29",
+  "totalCount": 32,
   "sources": {
-    "Zaobao": 1,
-    "Eeo": 2,
-    "Smzdm": 2,
-    "Investing_Cn": 2,
-    "Jiemian": 2,
-    "News_Baidu": 3,
-    "Cri_Cn": 1,
-    "Chinanews": 2,
+    "Bilibili": 5,
+    "Ithome": 4,
+    "News_Baidu": 6,
+    "Investing_Cn": 1,
+    "Fx168News": 2,
     "Bjnews": 1,
-    "Ithome": 1,
+    "Cri_Cn": 1,
+    "Eeo": 1,
+    "Chinanews": 1,
+    "Reuters": 1,
+    "Digital Trends": 1,
+    "Bloomberg": 2,
+    "TechCrunch": 1,
+    "9to5Google": 1,
+    "CNBC": 1,
     "PR Newswire UK": 1,
     "South China Morning Post": 1,
-    "Devdiscourse": 1,
-    "Breitbart News Network": 1,
-    "Business Insider": 1,
-    "The Hindu Business Line": 1,
-    "WJLA": 1,
-    "Cambridge Evening News": 1,
-    "The Manila Times": 1
+    "Devdiscourse": 1
   },
   "news": [
     {
-      "id": "https://www.zaobao.com.sg/news/world/story20260422-8937653",
-      "title": "韩飞行员开战机空中拍照致撞机 被罚逾7万元",
-      "summary": "韩国一名战斗机飞行员因在驾驶过程中拍照而导致空中撞击事故,被勒令支付近6万美元(约7万6000新元)赔偿金。...",
-      "source": "Zaobao",
-      "date": "2026-04-22",
-      "url": "https://www.zaobao.com.sg/news/world/story20260422-8937653"
+      "id": "https://www.bilibili.com/video/BV1axoVBwEuF",
+      "title": "【B站】行汽车科技（Imotion）携手SAP Cloud ERP，打造自动驾驶领域研产供销一体化标杆",
+      "summary": "作为自动驾驶域控制器领域的领先企业，知行汽车科技（Imotion）在SAP公有云上成功实现了从研发到交付的全链路数字化，成为高科技制造行业数字化转型的标杆。\n公有云项目成功： 快速上线SAP Cloud ERP，仅4个月即实现系统稳定运行，展现了公有云在复杂制造场景中的高适配性与敏捷交付能力。\nBD...",
+      "source": "Bilibili",
+      "date": "2026-04-24",
+      "url": "https://www.bilibili.com/video/BV1axoVBwEuF"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0422/848027.shtml",
-      "title": "全新坦克700上市售42.8万元起,同步发布高端社交平台“麒麟荟”",
-      "summary": "“麒麟荟”的发布,折射出长城汽车营销思路的转变——从传统的“销售汽车”转向“销售圈层文化与生活方式”。...",
-      "source": "Eeo",
-      "date": "2026-04-22",
-      "url": "http://www.eeo.com.cn/2026/0422/848027.shtml"
+      "id": "https://www.bilibili.com/video/BV1rdoMBKEaZ",
+      "title": "【B站】华为ADS 5正式发布-为自动驾驶而来，L3、L4、L5自动驾驶，问界M9首发华为乾崑ADS5，问界M9小发布会",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-04-24",
+      "url": "https://www.bilibili.com/video/BV1rdoMBKEaZ"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0422/848022.shtml",
-      "title": "太行电驱+乾崑智驾:阿维塔06T依托三方优势开辟新战场",
-      "summary": "阿维塔06T依托三方技术生态,以“性能+智能+安全”组合破局,把超跑级驾控、华为高阶智驾、三方生态体系打包下放至20万—30万元区间,用技术整合能力打造差异化。...",
-      "source": "Eeo",
-      "date": "2026-04-22",
-      "url": "http://www.eeo.com.cn/2026/0422/848022.shtml"
+      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
+      "title": "【B站】到底是自动驾驶还是自动送死？",
+      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
+      "source": "Bilibili",
+      "date": "2026-04-24",
+      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
     },
     {
-      "id": "https://post.smzdm.com/p/aomk9zl6/",
-      "title": "三星增产GDDR6供应特斯拉:自动驾驶算力需求引爆存储芯片新战场",
-      "summary": "2026年4月22日,全球半导体行业传来重磅消息——三星电子已从本月起正式启动增产,专门满足特斯拉对GDDR6存储芯片的紧急需求。据韩国媒体报道,三星对特斯拉8GB GDDR6 DRAM的月度供应量已提升至今年一季度的四倍,但即便如此仍无法完全满足特斯......",
-      "source": "Smzdm",
-      "date": "2026-04-22",
-      "url": "https://post.smzdm.com/p/aomk9zl6/"
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-04-24",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
     },
     {
-      "id": "https://post.smzdm.com/p/apq7v062/",
-      "title": "2026线控底盘:重塑汽车智能操控的时代引擎",
-      "summary": "2026年,线控底盘在中国汽车市场迎来规模化普及,成为汽车智能化进程中的关键里程碑。这一技术突破了传统机械底盘的局限,以电子信号传递替代机械连杆和液压管路,构建起线控转向、线控制动、线控悬挂三大模块协同的智能执行系统,为高阶自动驾驶和智能汽车竞争力奠定核......",
-      "source": "Smzdm",
-      "date": "2026-04-22",
-      "url": "https://post.smzdm.com/p/apq7v062/"
+      "id": "https://www.bilibili.com/video/BV1adoaBWECZ",
+      "title": "【B站】『异环』自动驾驶不赖",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-04-24",
+      "url": "https://www.bilibili.com/video/BV1adoaBWECZ"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3324278",
-      "title": "技术品牌“扩容” 鸿蒙智行集齐六大“王牌”迎L3商业化落地|北京车展季",
+      "id": "https://www.ithome.com/0/942/832.htm",
+      "title": "马斯克 560 亿美元薪酬恢复后,特斯拉撤销其 290 亿美元临时薪酬方案",
+      "summary": "IT之家 4 月 23 日消息,据 Techcrunch 报道,特拉华州最高法院近日恢复了特斯拉首席执行官埃隆・马斯克 2018 年高达 560 亿美元(IT之家注:现汇率约合 3829.75 亿元人民币)的薪酬方案后,特斯拉已撤销去年向马斯克发放的价值 290 亿美元(现汇率约合 1983.26 亿元人民币)临时薪酬补偿计划。 2025 年 8 月,特斯拉向马斯克推出这份临时薪酬方案,以防特拉华...",
+      "source": "Ithome",
+      "date": "2026-04-23",
+      "url": "https://www.ithome.com/0/942/832.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/942/831.htm",
+      "title": "比亚迪腾势 N8L 闪充版汽车内饰公布:Nappa 云感舒压座椅、二排娱乐屏等",
+      "summary": "IT之家 4 月 23 日消息,比亚迪腾势汽车总经理李慧今日公开了腾势 N8L 闪充版汽车的内饰。据介绍,除了搭载第二代刀片电池和闪充技术外,新车内饰全面升级,有更豪华、更高级质感的色彩。 据介绍,比亚迪腾势 N8L 闪充版汽车采用六座布局,配备 Nappa 云感舒压座椅,并辅以超纤麂皮云绒顶棚。 新车车顶还搭载二排娱乐屏和天空音声道 。 另外, 腾势 N8L 闪充版还拥有霜云墨双色车身可选 。 ...",
+      "source": "Ithome",
+      "date": "2026-04-23",
+      "url": "https://www.ithome.com/0/942/831.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863272216587240939",
+      "title": "美团副总裁夏华夏离职,曾执掌无人车业务 运营派接棒..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-23",
+      "url": "http://baijiahao.baidu.com/s?id=1863272216587240939"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863259353975858186",
+      "title": "尉犁县市场监督管理局开展“五一”节前旅游景区特种设..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-23",
+      "url": "http://baijiahao.baidu.com/s?id=1863259353975858186"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3326869",
+      "title": "华尔街对特斯拉(TSLA.US)前景看法不一:多头最高看至600美元,空头警告现金流风险",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-04-22",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3324278"
+      "date": "2026-04-23",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3326869"
     },
     {
-      "id": "https://www.jiemian.com/article/14295743.html",
-      "title": "小米高管徐洁云辟谣库克加入小米汽车:乱P图不可取",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-04-22",
-      "url": "https://www.jiemian.com/article/14295743.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863175706469393942",
-      "title": "京青聚势 智领新程 青岛市专精特新中小企业融链固链..",
+      "id": "http://baijiahao.baidu.com/s?id=1863268949553007439",
+      "title": "140年奔驰不息 全新纯电GLC SUV、新一代S..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-22",
-      "url": "http://baijiahao.baidu.com/s?id=1863175706469393942"
+      "date": "2026-04-23",
+      "url": "http://baijiahao.baidu.com/s?id=1863268949553007439"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863179945274972745",
-      "title": "“顺子,你别去!”长沙一女子劝阻丈夫救火未果后发视..",
-      "summary": "“顺子,你别去!”4月20日,长沙松雅湖壹号小区地下车库充电桩突然起火,一男子一度抵近灭火,身后同行者试图劝阻。视频发布后,男子的救援行为受到网友关注和点赞。4月22日,潇湘晨报·晨视频记者了解到,视...",
-      "source": "News_Baidu",
-      "date": "2026-04-22",
-      "url": "http://baijiahao.baidu.com/s?id=1863179945274972745"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14296523.html",
-      "title": "鸿蒙智行一口气推出五款新车,尚界新车小订突破8万,肖战代言",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-04-22",
-      "url": "https://www.jiemian.com/article/14296523.html"
-    },
-    {
-      "id": "https://news.cri.cn/20260422/dffd4ad4-ce04-9d56-7d74-23465788f1c2.html",
-      "title": "工业经济向新向好稳中有进(权威发布)-国际在线",
-      "summary": "数据来源:工业和信息化部 制图:张芳曼 “一季度,规模以上工业增加值同比增长6.1%,31个省份全部实现正增长,行业增长面超八成,工业对经济增长的贡献率近四成...",
-      "source": "Cri_Cn",
-      "date": "2026-04-22",
-      "url": "https://news.cri.cn/20260422/dffd4ad4-ce04-9d56-7d74-23465788f1c2.html"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3324167",
-      "title": "智通港股解盘 | 美伊谈判搁浅后期再度不明朗 CPO巨头集体创出历史新高",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-22",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3324167"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/04-22/10608882.shtml",
-      "title": "雄安交出绿色发展成绩单 “九大典范”建设全面提能级",
-      "summary": "中新网雄安4月22日电 (王夏菲 韩冰)河北雄安新区22日召开新闻发布会通报雄安新区绿色发展城市典范建设情况,“强化绿色技术研发推广”“构建低碳智能交通网络”等“九大典范”建设全面提能级。...",
-      "source": "Chinanews",
-      "date": "2026-04-22",
-      "url": "https://www.chinanews.com.cn/gn/2026/04-22/10608882.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863178064325329378",
-      "title": "“绿动齐鲁·智充未来”电动重卡(船舶)充换电大会在..",
+      "id": "http://baijiahao.baidu.com/s?id=1863268376787809480",
+      "title": "央行超级周即将来袭,全球市场“冷落”中东迷局",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-22",
-      "url": "http://baijiahao.baidu.com/s?id=1863178064325329378"
+      "date": "2026-04-23",
+      "url": "http://baijiahao.baidu.com/s?id=1863268376787809480"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-22/10608844.shtml",
-      "title": "工业经济向新向好稳中有进(权威发布)",
+      "id": "http://baijiahao.baidu.com/s?id=1863257306895110283",
+      "title": "提醒!“五一”期间成都熊猫基地周边道路机动车预约通..",
       "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-04-22",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-22/10608844.shtml"
+      "source": "News_Baidu",
+      "date": "2026-04-23",
+      "url": "http://baijiahao.baidu.com/s?id=1863257306895110283"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1776863783129691.html",
-      "title": "阿维塔科技总裁陈卓:与深蓝战略性整合不会影响IPO计划",
+      "id": "http://baijiahao.baidu.com/s?id=1863261301990009280",
+      "title": "30名公交司机接力护送中风老人就医60余天:出门前..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-23",
+      "url": "http://baijiahao.baidu.com/s?id=1863261301990009280"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1020059",
+      "title": "特斯拉(TSLA)股票4月23日开盘下跌3.83%:投资者必看的核心信息-FX168",
+      "summary": "特斯拉 (TSLA) 开盘下跌3.83%, 所属行业汽车与零部件下跌2.51% ,公司涨幅跑输行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 下跌 3.83%;Quantumscape Corp (QS) 上涨 25.03%;小鹏汽车 (XPEV) 下跌 3.54%。 今日是什么导致了特斯拉(TSLA)股价下跌? 特斯拉(Tesla)股价在2026年4月23日盘中出现显著波动并走低,这似乎主要...",
+      "source": "Fx168News",
+      "date": "2026-04-23",
+      "url": "https://www.fx168news.com/article/1020059"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776948758169281.html",
+      "title": "停车场出口卷帘门砸坏小客车车顶天线,大厦物业被判赔偿",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-22",
-      "url": "https://www.bjnews.com.cn/detail/1776863783129691.html"
+      "date": "2026-04-23",
+      "url": "https://www.bjnews.com.cn/detail/1776948758169281.html"
     },
     {
-      "id": "https://www.ithome.com/0/942/327.htm",
-      "title": "鸿蒙智行春季新品发布会谢幕视频曝光,四款新车同台后一起离场",
-      "summary": "IT之家 4 月 22 日消息,在今晚的鸿蒙智行春季新品发布会,华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东连发五车,包括尚界 Z7 / Z7T、问界 M6、智界 V9 以及问界 M9。 博主 @AIMIKKKK 刚刚分享了发布会结束后的视频。画面显示,鸿蒙智行最后还拿出了智界 V9 和问界 M9 两款 9 系旗舰新车的实车, 并与尚界 Z7 和问界 M6 一同下场 。 IT之家...",
+      "id": "https://news.cri.cn/20260423/45416a4a-4c1e-2b81-eba0-b426449b15a6.html",
+      "title": "绿润丝路 沙海生金——全球荒漠化治理的中国智慧-国际在线",
+      "summary": "4月22日是第57个世界地球日。荒漠化被称为“地球的癌症”,威胁着全球110多个国家和地区、15亿多人口的生存和发展。作为世界上荒漠化程度最为严重的国家之一,我国持续推进荒漠化综合防治和&ld...",
+      "source": "Cri_Cn",
+      "date": "2026-04-23",
+      "url": "https://news.cri.cn/20260423/45416a4a-4c1e-2b81-eba0-b426449b15a6.html"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0423/849208.shtml",
+      "title": "乐道L90上市仅9个月就推新款,李斌:快速迭代是生存必需",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-04-23",
+      "url": "http://www.eeo.com.cn/2026/0423/849208.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1020039",
+      "title": "英特尔代工业务迎来“大咖级”客户,特斯拉成为14A技术首个主要客户-FX168",
+      "summary": "TradingKey - 4月23日,英特尔(INTC.US)股价在盘前交易中一度上涨2%,后有所回落。此前,特斯拉首席执行官埃隆·马斯克宣布,特斯拉(TSLA)将在其Terafab项目中使用英特尔先进的14A制造工艺来生产AI芯片,使特斯拉成为英特尔14A技术的第一个主要客户。 马斯克在特斯拉2026年第一季度财报电话会议上宣布了这一合作。Terafab项目于2026年3月首次官宣,落户美国得州...",
+      "source": "Fx168News",
+      "date": "2026-04-23",
+      "url": "https://www.fx168news.com/article/1020039"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-23/10609605.shtml",
+      "title": "动态场景高质量重建 西安光机所在计算成像领域取得新突破",
+      "summary": "中新网西安4月23日电 (记者 阿琳娜)记者23日从中国科学院西安光机所获悉,该所光谱成像技术研究室王荃研究员团队在计算成像领域取得重要研究进展。...",
+      "source": "Chinanews",
+      "date": "2026-04-23",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-23/10609605.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/942/814.htm",
+      "title": "华为乾崑发布车载黑科技汇总:WEWA 2.0 架构领衔 10 大核心技术",
+      "summary": "IT之家 4 月 23 日消息,2026 年华为乾崑技术大会在北京举行。会上,华为正式发布了华为乾崑智驾 ADS 5 及鸿蒙座舱 HarmonySpace 6 等系统,涵盖了 10 项车载核心技术。本次发布涉及底层架构、操作系统、车辆控制、安全系统及座舱软硬件等多个维度。小编将这些黑科技汇总梳理如下。 乾崑智驾 ADS 5 核心技术发布汇总 1、WEWA 2.0 架构升级:面向自动驾驶的 AI 智...",
       "source": "Ithome",
+      "date": "2026-04-23",
+      "url": "https://www.ithome.com/0/942/814.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/942/812.htm",
+      "title": "华为靳玉志:算力,是自动驾驶持续发展的基石",
+      "summary": "IT之家 4 月 23 日消息,在刚刚结束的华为乾崑技术大会上,华为智能汽车解决方案 BU CEO 靳玉志正式发布了鸿蒙座舱 HarmonySpace 5 和乾崑智驾 ADS 5。 据介绍,华为乾崑的算力规模已从 2023 年的 2.8 EFLOPS 增长至现在的 60 EFLOPS,29 个月增长了 21 倍。 2026 年,华为乾崑预计将在智驾领域研发投入超 180 亿元人民币 ,算力部分投入...",
+      "source": "Ithome",
+      "date": "2026-04-23",
+      "url": "https://www.ithome.com/0/942/812.htm"
+    },
+    {
+      "id": "https://www.reuters.com/world/china/chinas-aito-targeting-1-million-annual-vehicle-sales-by-2030-2026-04-23/",
+      "title": "China's Aito targeting 1 million annual vehicle sales by 2030",
+      "summary": "Huawei-backed Chinese electric vehicle brand Aito aims to more than double its annual sales to 1 million vehicles by 2030, banking ​on a push into overseas markets, cutting-edge autonomous driving tec...",
+      "source": "Reuters",
+      "date": "2026-04-23",
+      "url": "https://www.reuters.com/world/china/chinas-aito-targeting-1-million-annual-vehicle-sales-by-2030-2026-04-23/"
+    },
+    {
+      "id": "https://www.digitaltrends.com/cars/autonomous-cars-were-supposed-to-free-us-from-traffic-hell-research-says-otherwise/",
+      "title": "Autonomous cars were supposed to free us from traffic hell. Research says otherwise",
+      "summary": "Research suggests self-driving cars could make traffic significantly worse, not better, and the evidence on the streets is already starting to back that up....",
+      "source": "Digital Trends",
+      "date": "2026-04-23",
+      "url": "https://www.digitaltrends.com/cars/autonomous-cars-were-supposed-to-free-us-from-traffic-hell-research-says-otherwise/"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-04-23/musk-s-hardware-3-mea-culpa-means-tesla-micro-factories-fix",
+      "title": "Musk Offers Amends for Teslas Lacking the Ability to Self-Drive",
+      "summary": "Countless Tesla Inc. customers who paid thousands of dollars for autonomous-driving capability lack the necessary hardware in their vehicles, leading Elon Musk to outline options for redress that like...",
+      "source": "Bloomberg",
+      "date": "2026-04-23",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/musk-s-hardware-3-mea-culpa-means-tesla-micro-factories-fix"
+    },
+    {
+      "id": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+      "title": "Elon Musk admits millions of Tesla owners need upgrades for true 'Full Self-Driving'",
+      "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars....",
+      "source": "TechCrunch",
       "date": "2026-04-22",
-      "url": "https://www.ithome.com/0/942/327.htm"
+      "url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/"
+    },
+    {
+      "id": "https://9to5google.com/2026/04/22/waymo-new-cities-features/",
+      "title": "Waymo: Where it’s available, upcoming cities, and new features [April 2026]",
+      "summary": "Waymo autonomous vehicles date back to Google’s self-driving car project that started in 2009. As of today, you can get......",
+      "source": "9to5Google",
+      "date": "2026-04-22",
+      "url": "https://9to5google.com/2026/04/22/waymo-new-cities-features/"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/04/22/tesla-earnings-dont-really-matter-to-the-stock-anymore-what-wall-street-is-watching-for.html",
+      "title": "Tesla earnings don't really matter to the stock anymore. What Wall Street is watching for",
+      "summary": "Signals on energy storage, autonomous driving and robotaxis are top of mind for investors...",
+      "source": "CNBC",
+      "date": "2026-04-22",
+      "url": "https://www.cnbc.com/2026/04/22/tesla-earnings-dont-really-matter-to-the-stock-anymore-what-wall-street-is-watching-for.html"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-04-22/rivian-ceo-sees-new-electric-suv-as-key-milestone-for-ai-tech",
+      "title": "Rivian CEO Sees New Electric SUV as Key Milestone for AI Tech",
+      "summary": "Rivian Automotive Inc. is betting its next-generation R2 SUV will do more than boost sales. The higher-volume vehicle is key to unlocking the EV maker’s autonomous driving future, Chief Executive Offi...",
+      "source": "Bloomberg",
+      "date": "2026-04-22",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/rivian-ceo-sees-new-electric-suv-as-key-milestone-for-ai-tech"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/einride-and-legato-merger-corp-iii-announce-public-filing-of-registration-statement-on-form-f-4-302750395.html",
@@ -166,70 +261,6 @@
       "source": "PR Newswire UK",
       "date": "2026-04-22",
       "url": "https://www.prnewswire.co.uk/news-releases/einride-and-legato-merger-corp-iii-announce-public-filing-of-registration-statement-on-form-f-4-302750395.html"
-    },
-    {
-      "id": "https://www.scmp.com/business/banking-finance/article/3351001/biotech-led-boom-8-china-firms-flock-hong-kongs-thriving-stock-market",
-      "title": "Biotech-led boom as 8 China firms flock to Hong Kong’s thriving stock market",
-      "summary": "AI-powered drug developer Metis TechBio leads group that includes developers of autonomous driving technology and industrial robots....",
-      "source": "South China Morning Post",
-      "date": "2026-04-22",
-      "url": "https://www.scmp.com/business/banking-finance/article/3351001/biotech-led-boom-8-china-firms-flock-hong-kongs-thriving-stock-market"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/business/3880598-teslas-self-driving-triumph-navigating-amsterdams-bicycle-haven",
-      "title": "Tesla's Self-Driving Triumph: Navigating Amsterdam's Bicycle Haven",
-      "summary": "Tesla has gained approval for its full self-driving system in the Netherlands, making it the first European country to allow near-autonomous vehicles on city streets. The initiative has sparked debate...",
-      "source": "Devdiscourse",
-      "date": "2026-04-20",
-      "url": "https://www.devdiscourse.com/article/business/3880598-teslas-self-driving-triumph-navigating-amsterdams-bicycle-haven"
-    },
-    {
-      "id": "https://www.breitbart.com/politics/2026/04/20/tesla-owners-launch-legal-revolt-over-elon-musks-unfulfilled-self-driving-promises/",
-      "title": "Tesla Owners Launch Legal Revolt over Elon Musk's Unfulfilled Self-Driving Promises",
-      "summary": "An international backlash is mounting against Elon Musk's Tesla as car owners allege the company charged thousands of dollars for autonomous driving technology that never materialized....",
-      "source": "Breitbart News Network",
-      "date": "2026-04-20",
-      "url": "https://www.breitbart.com/politics/2026/04/20/tesla-owners-launch-legal-revolt-over-elon-musks-unfulfilled-self-driving-promises/"
-    },
-    {
-      "id": "https://www.businessinsider.com/tesla-robotaxi-passenger-it-tried-to-pull-over-on-highway-2026-4",
-      "title": "Tesla Robotaxi Passenger Said Car Tried to Pull Over on Highway",
-      "summary": "\"I wouldn't recommend this for my grandmother,\" said Chris Ramos, who is still a believer in autonomous driving....",
-      "source": "Business Insider",
-      "date": "2026-04-20",
-      "url": "https://www.businessinsider.com/tesla-robotaxi-passenger-it-tried-to-pull-over-on-highway-2026-4"
-    },
-    {
-      "id": "https://www.thehindubusinessline.com/info-tech/ai-is-driving-shift-to-autonomous-zero-touch-operations-comviva-ceo/article70877554.ece",
-      "title": "AI is powering zero-touch operations and automation: Comviva CEO",
-      "summary": "Comviva CEO says AI is driving autonomous, zero-touch operations, boosting efficiency, cutting costs and accelerating digital transformation across telecom and industries....",
-      "source": "The Hindu Business Line",
-      "date": "2026-04-18",
-      "url": "https://www.thehindubusinessline.com/info-tech/ai-is-driving-shift-to-autonomous-zero-touch-operations-comviva-ceo/article70877554.ece"
-    },
-    {
-      "id": "https://wjla.com/news/local/self-driving-cars-vehicles-driverless-automated-deliveries-robotaxis-washington-dc-jobs-commute-waymo-zooc-beep-nuro-perrone-robotics-av-testing-research-report-shuttles-transit-tech",
-      "title": "Self-driving cars being tested in DC | What this means for the future of jobs, transit",
-      "summary": "A new report from the District Department of Transportation (DDOT) outlines how Washington, D.C., may prepare for the future of autonomous vehicles (AVs), as co...",
-      "source": "WJLA",
-      "date": "2026-04-17",
-      "url": "https://wjla.com/news/local/self-driving-cars-vehicles-driverless-automated-deliveries-robotaxis-washington-dc-jobs-commute-waymo-zooc-beep-nuro-perrone-robotics-av-testing-research-report-shuttles-transit-tech"
-    },
-    {
-      "id": "https://www.cambridge-news.co.uk/news/local-news/road-self-driving-vehicles-could-33783218",
-      "title": "Road for self-driving vehicles could form part of science park transport plans",
-      "summary": "The government has provided funding for a year-long study into electric autonomous vehicles...",
-      "source": "Cambridge Evening News",
-      "date": "2026-04-17",
-      "url": "https://www.cambridge-news.co.uk/news/local-news/road-self-driving-vehicles-could-33783218"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/hyundai-mobis-develops-data-driven-validation-system-to-dramatically-cut-testing-time-for-sdvs/2322496",
-      "title": "Hyundai Mobis Develops Data-Driven Validation System to Dramatically Cut Testing Time for SDVs",
-      "summary": "**media[1017246]**The new system collects real-world driving data and replicates various driving scenarios in the lab using simulators directly connected to ECUsIt performs large-scale validation more...",
-      "source": "The Manila Times",
-      "date": "2026-04-17",
-      "url": "https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/hyundai-mobis-develops-data-driven-validation-system-to-dramatically-cut-testing-time-for-sdvs/2322496"
     }
   ]
 }
