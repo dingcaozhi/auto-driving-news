@@ -1,125 +1,196 @@
 {
-  "lastUpdated": "2026-04-26 03:41:58",
-  "totalCount": 23,
+  "lastUpdated": "2026-04-27 03:48:03",
+  "totalCount": 31,
   "sources": {
-    "News_Baidu": 5,
-    "Smzdm": 1,
-    "Fx168News": 1,
-    "Ithome": 1,
-    "Bjnews": 3,
-    "Chinanews": 1,
+    "Smzdm": 2,
+    "News_Baidu": 9,
+    "Investing_Cn": 3,
+    "Jiemian": 2,
+    "Ithome": 2,
     "News_Seehua": 1,
+    "Bjnews": 2,
+    "The Manila Times": 6,
     "Benzinga": 1,
-    "The Manila Times": 5,
     "WJLA": 1,
     "The Washington Post": 1,
-    "Business Today": 1,
-    "South China Morning Post": 1
+    "Business Today": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863434251845371481",
-      "title": "小马智行发布新一代自动驾驶域控制器 赋能L4级无人..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-25",
-      "url": "http://baijiahao.baidu.com/s?id=1863434251845371481"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863454668693368241",
-      "title": "2050大会上,爸爸带娃种下“星空种子”,太空计算..",
-      "summary": "潮新闻客户端记者张云山甘居鹏陈晓驰通讯员陈航周立超火箭模型甘居鹏摄在2050大会现场,摆着1:1还原的嫦娥6号模型,不远处一个二十几米长的火箭,不停吸引观众拍照打卡。在大会探索空间“人类离太空只有10...",
-      "source": "News_Baidu",
-      "date": "2026-04-25",
-      "url": "http://baijiahao.baidu.com/s?id=1863454668693368241"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad75ogdp/",
-      "title": "为信任,诚信奔赴十年有余:淘车岛2025年终总结",
-      "summary": "2025年,中国汽车市场迎来关键转折点,新能源汽车渗透率首次突破50%,标志着每两辆新车中即有一辆为新能源,L3级有条件自动驾驶也在年末获得准入许可。在二手车领域,市场结构随之发生深刻变化,新能源车型加速流通,同时传统燃油车依然保持稳定的市场份额。面对行......",
+      "id": "https://post.smzdm.com/p/a2626r0n/",
+      "title": "转向新国标对 L3 级以上自动驾驶普及意味着什么?",
+      "summary": "GB17675-2025 新国标的发布为 L3 级及以上自动驾驶的普及奠定了重要的法规与安全基础。该标准在转向技术领域实现了关键突破,取消了转向系统机械连接的强制要求,为线控转向技术的规模化应用铺平了道路。这一变革不仅优化了车辆控制性能与座舱空间设计,更......",
       "source": "Smzdm",
-      "date": "2026-04-25",
-      "url": "https://post.smzdm.com/p/ad75ogdp/"
+      "date": "2026-04-26",
+      "url": "https://post.smzdm.com/p/a2626r0n/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863406506884493952",
-      "title": "小马智行规模化的下一步:L4级无人驾驶轻卡和更便宜..",
+      "id": "https://post.smzdm.com/p/arz4z70g/",
+      "title": "不止于包馆!比亚迪携尖端技术矩阵亮相北京车展",
+      "summary": "4月24日,2026北京国际车展盛大启幕。本届车展展台各具特色,而比亚迪展台凭借硬核技术实力出圈,现场人气领跑全场。品牌独占E3整馆,集结王朝丨海洋、方程豹、腾势、仰望全品牌矩阵,专设天神之眼与闪充技术专区,全方位展现智能驾驶与电动化领域的前沿自研成果,......",
+      "source": "Smzdm",
+      "date": "2026-04-26",
+      "url": "https://post.smzdm.com/p/arz4z70g/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863544009146874118",
+      "title": "时隔六个月 英伟达市值重返5万亿美元",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-25",
-      "url": "http://baijiahao.baidu.com/s?id=1863406506884493952"
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863544009146874118"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863452686403888997",
-      "title": "“不诱于誉,不恐于诽”!DeepSeek致谢近30..",
+      "id": "http://baijiahao.baidu.com/s?id=1863432616461750422",
+      "title": "信号、数据与电力传输巨头维智捷看好中国:将深化本地..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-25",
-      "url": "http://baijiahao.baidu.com/s?id=1863452686403888997"
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863432616461750422"
     },
     {
-      "id": "https://www.fx168news.com/article/1021306",
-      "title": "2026年特斯拉值得买入吗?为什么人工智能和无人驾驶出租车现已定义TSLA’s $1.5T 估值-FX168",
-      "summary": "TradingKey - 围绕特斯拉(Tesla Inc.)(TSLA)的叙事已经发生了根本性的转变。截至2026年4月23日,特斯拉不再仅仅被视为一家汽车制造商;它已成为一家处于物理人工智能、可再生能源和自动驾驶出行交汇点的垂直整合巨头。在传统制造商和造车新势力苦于利润空间收窄及市场饱和之际,特斯拉的“生态系统锁定”策略依然是其核心竞争护城河,使其估值逻辑与简单的硬件交付指标脱钩。 特斯拉是什么...",
-      "source": "Fx168News",
-      "date": "2026-04-25",
-      "url": "https://www.fx168news.com/article/1021306"
+      "id": "http://baijiahao.baidu.com/s?id=1863543727258143225",
+      "title": "「出行提示」大风黄色预警 周一早高峰交通压力大 请..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863543727258143225"
     },
     {
-      "id": "https://www.ithome.com/0/943/525.htm",
-      "title": "过度依赖智能辅助驾驶:男子高速逆行险酿事故,罚款 200 记 12 分",
-      "summary": "IT之家 4 月 25 日消息,据央视报道,湖南省高速公路交通警察局通报了一起因过度依赖智能辅助驾驶功能而引发的惊险交通违法案件。 4 月 19 日 21 时许,驾驶员周某在位于邵阳市的呼北高速金石桥服务区为车辆充电后开启辅助驾驶模式,结果车辆并未按照规范路线驶入高速,反而沿着服务区入口匝道逆向驶入了高速公路主干道,险些与迎面驶来的车辆发生正面碰撞。所幸对向车辆及时避让,事故未造成人员伤亡,但整个...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3330655",
+      "title": "PCB厂商Q1业绩普增背后:制造耗材订单溢出、产业链密集押注高端产能",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-26",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3330655"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863542865412921133",
+      "title": "高质量发展一线调研|华首重工:从“零”到“整” 首..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863542865412921133"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3330652",
+      "title": "合资品牌“回归”、自主品牌“冲高” 北京车展上演“诸神之战”|北京车展季",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-26",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3330652"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863541223706369150",
+      "title": "车百会研究院理事长张永伟:自动驾驶竞争下半场 比拼..",
+      "summary": "本报记者刘钊4月25日,在车百会研究院主办的第二届自动驾驶产业发展论坛上,车百会研究院理事长张永伟围绕中国自动驾驶的进展与方向作出研判。他表示,经过多年技术迭代、产业协同和市场...",
+      "source": "News_Baidu",
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863541223706369150"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14326227.html",
+      "title": "造谣“雷军被堵车内维权”,小米:李某华被行拘10日",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-04-26",
+      "url": "https://www.jiemian.com/article/14326227.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863510563025487242",
+      "title": "士说心语丨大山深处那片“海”",
+      "summary": "大山深处那片“海”■何辉十九年前,怀揣着对万里海疆的憧憬,我从家乡奔赴军营。启程之际,脑海中翻涌的是战舰驰骋的景象,心中勾勒的是建功深蓝的豪情。...",
+      "source": "News_Baidu",
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863510563025487242"
+    },
+    {
+      "id": "https://www.ithome.com/0/943/732.htm",
+      "title": "多伦多警方破获加拿大首起伪基站诈骗案:被攻击设备无法拨打紧急电话,造成 1300 万次网络中断",
+      "summary": "IT之家 4 月 26 日消息,据科技媒体 Tom's Hardware 今天报道,多伦多警方逮捕三名犯罪嫌疑人。三名人士在市中心驾驶安装伪基站的车辆,并向不知情的公众发送欺诈短信。 多伦多警方在案情发布会中表示,本起案件是加拿大首次发现“伪基站”诈骗手法。调查显示,犯罪分子通过伪基站攻击入侵数万台移动设备,共计造成 1300 万次网络中断。 受影响设备无法正常访问移动数据网络 , 甚至无法拨打紧...",
       "source": "Ithome",
-      "date": "2026-04-25",
-      "url": "https://www.ithome.com/0/943/525.htm"
+      "date": "2026-04-26",
+      "url": "https://www.ithome.com/0/943/732.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1777103713129982.html",
-      "title": "陶熙:雄安具备培育消费新业态的独特优势,能够大胆先行",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-25",
-      "url": "https://www.bjnews.com.cn/detail/1777103713129982.html"
+      "id": "https://news.seehua.com/post/1474408",
+      "title": "白宫记协晚宴枪击案 特朗普自比林肯:被暗杀的全是大人物",
+      "summary": "(华盛顿26日讯)美国总统特朗普当地时间周六(25日)在华盛顿的一场媒体晚宴上遭遇枪击后,发表了一番颇具哲理的 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-26",
+      "url": "https://news.seehua.com/post/1474408"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1777112432129059.html",
-      "title": "补能焦虑、数据权属、行业监管,对话小马智行彭军",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-25",
-      "url": "https://www.bjnews.com.cn/detail/1777112432129059.html"
+      "id": "https://www.ithome.com/0/943/726.htm",
+      "title": "引望智能李文广:华为乾崑智驾 ADS 事故率远低于人驾,自动泊车 30 万次仅 1 次碰撞",
+      "summary": "IT之家 4 月 26 日消息,第二届自动驾驶产业发展论坛 4 月 25 日在京召开,主题为“加速自动驾驶产业发展凝聚自动驾驶安全共识”。引望智能驾驶产品线总裁李文广发表演讲。 截至目前,搭载华为乾崑智驾 ADS 的车辆已达 170 万辆,预计到今年年底将增至 300 万辆。2025 年,辅助驾驶累计里程增至 100 亿公里,预计到 2026 年底将达 200 亿公里。 据介绍,中国道路环境下平均...",
+      "source": "Ithome",
+      "date": "2026-04-26",
+      "url": "https://www.ithome.com/0/943/726.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-25/10610905.shtml",
-      "title": "品牌力与技术力双驱动:比亚迪包场E3馆闪耀北京车展",
-      "summary": "4月24日,2026北京国际汽车展览会盛大启幕。比亚迪全品牌齐聚北京车展,在E3馆包馆打造品牌独立展,王朝|海洋、方程豹、腾势、仰望四大业务板块统一布局、集中展示,同时专门设置“天神之眼”和闪充技术专区,彰显比亚迪在智能辅助驾驶与电动化领域的前沿技术成果。...",
-      "source": "Chinanews",
-      "date": "2026-04-25",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-25/10610905.shtml"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3330616",
+      "title": "产业聚合加剧、“权力”结构重塑 供应链企业从“本土”走向“全球”|北京车展季",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-26",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3330616"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863354696975615578",
-      "title": "中国加入太空算力争夺战,阳光充能、宇宙散热,突破地..",
+      "id": "http://baijiahao.baidu.com/s?id=1863531653656119768",
+      "title": "全球媒体聚焦丨美国博主:我在中国圆了美好生活之梦",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-25",
-      "url": "http://baijiahao.baidu.com/s?id=1863354696975615578"
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863531653656119768"
     },
     {
-      "id": "https://news.seehua.com/post/1473925",
-      "title": "MyJPJ转型超级应用程式 茜蒂诺哈丽莎任道路安全大使",
-      "summary": "(威南25日讯)交通部长陆兆福宣布,马来西亚陆路交通局(JPJ)正全面强化数码化转型,正式推出功能升级的全新版 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-25",
-      "url": "https://news.seehua.com/post/1473925"
+      "id": "http://baijiahao.baidu.com/s?id=1863531689528108688",
+      "title": "外媒看广州丨 “体验感太真实了!”外媒记者在..",
+      "summary": "4月24日起,一个由16位来自APEC各经济体外媒记者组成的媒体团在广州开启参访之旅。26日上午,外媒记者一行走进海心沙智能体验中心,现场观摩亿航智能旗下EH216-S无人驾驶载人航空器的飞行演示,并...",
+      "source": "News_Baidu",
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863531689528108688"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1777112109168696.html",
-      "title": "奇瑞与高通签约,在智能座舱、智能驾驶等领域拓展合作",
+      "id": "http://baijiahao.baidu.com/s?id=1863528639979104728",
+      "title": "轻舟智航于骞:打破模块割裂 智能融合演绎智能出行新..",
+      "summary": "本报记者冯雨瑶4月23日下午,2026年证券市场年会行业分会——汽车资本大会在北京临空皇冠假日酒店举行。此次大会由《证券日报》社主办,国联民生证券股份有限公司协办,上海轩元私募基金管理...",
+      "source": "News_Baidu",
+      "date": "2026-04-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863528639979104728"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14325226.html",
+      "title": "大众在华电动化攻势升温,重回牌桌还缺一场胜仗 | 2026北京车展",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-04-26",
+      "url": "https://www.jiemian.com/article/14325226.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777203213129481.html",
+      "title": "人形机器人半马选手“走进”政务大厅,市民零距离感受科技魅力",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-25",
-      "url": "https://www.bjnews.com.cn/detail/1777112109168696.html"
+      "date": "2026-04-26",
+      "url": "https://www.bjnews.com.cn/detail/1777203213129481.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777201715169339.html",
+      "title": "车展访谈|卢放:岚图汽车没有走偏,核心技术自主掌控",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-26",
+      "url": "https://www.bjnews.com.cn/detail/1777201715169339.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/04/26/tmt-newswire/pr-newswire/nexteers-global-first-steer-by-wire-goes-into-production/2328711",
+      "title": "Nexteer's Global First Steer-by-Wire Goes into Production",
+      "summary": "**media[1029504]**BEIJING, April 26, 2026 /PRNewswire/ -- Nexteer Automotive helped a leading Chinese new energy vehicle (NEV) manufacturer bring the world's first production passenger vehicle with a ...",
+      "source": "The Manila Times",
+      "date": "2026-04-26",
+      "url": "https://www.manilatimes.net/2026/04/26/tmt-newswire/pr-newswire/nexteers-global-first-steer-by-wire-goes-into-production/2328711"
     },
     {
       "id": "https://www.benzinga.com/markets/equities/26/04/52050953/pony-ai-advances-l4-ambitions-with-nvidia-based-autonomous-driving-controller",
@@ -184,22 +255,6 @@
       "source": "Business Today",
       "date": "2026-04-24",
       "url": "https://www.businesstoday.in/technology/story/elon-musk-shares-first-cybercab-production-footage-robotaxi-push-intensifies-527332-2026-04-24"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/24/tmt-newswire/pr-newswire/ponyai-drives-commercialization-at-scale-with-lower-cost-robotaxis-and-new-l4-light-truck/2327775",
-      "title": "Pony.ai Drives Commercialization at Scale with Lower-Cost Robotaxis and New L4 Light Truck",
-      "summary": "At Auto China 2026, Pony.ai outlined new steps to advance Robotaxi commercialization through lower-cost Gen-7 vehicles and an upgraded world model to improve 'Virtual Driver' training efficiency.The t...",
-      "source": "The Manila Times",
-      "date": "2026-04-24",
-      "url": "https://www.manilatimes.net/2026/04/24/tmt-newswire/pr-newswire/ponyai-drives-commercialization-at-scale-with-lower-cost-robotaxis-and-new-l4-light-truck/2327775"
-    },
-    {
-      "id": "https://www.scmp.com/business/china-business/article/3351242/huawei-doubles-down-autonomous-driving-earmarking-us117b-autopilot-training",
-      "title": "Huawei doubles down on autonomous driving, earmarking US$11.7b for autopilot training",
-      "summary": "Company claims it will outspend all rivals combined to boost computing power, which is essential to enhance advanced driving systems....",
-      "source": "South China Morning Post",
-      "date": "2026-04-24",
-      "url": "https://www.scmp.com/business/china-business/article/3351242/huawei-doubles-down-autonomous-driving-earmarking-us117b-autopilot-training"
     }
   ]
 }
