@@ -1,188 +1,181 @@
 {
-  "lastUpdated": "2026-04-27 03:48:03",
-  "totalCount": 31,
+  "lastUpdated": "2026-04-28 03:52:47",
+  "totalCount": 26,
   "sources": {
-    "Smzdm": 2,
-    "News_Baidu": 9,
-    "Investing_Cn": 3,
-    "Jiemian": 2,
+    "Orientaldaily": 1,
+    "News_Baidu": 4,
+    "Investing_Cn": 2,
+    "Zaobao": 1,
+    "Businesswire": 1,
     "Ithome": 2,
-    "News_Seehua": 1,
-    "Bjnews": 2,
-    "The Manila Times": 6,
-    "Benzinga": 1,
-    "WJLA": 1,
-    "The Washington Post": 1,
-    "Business Today": 1
+    "Bjnews": 4,
+    "Fx168News": 1,
+    "Benzinga": 3,
+    "Caixin": 1,
+    "Markets Insider": 1,
+    "The Manila Times": 4,
+    "WJLA": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/a2626r0n/",
-      "title": "转向新国标对 L3 级以上自动驾驶普及意味着什么?",
-      "summary": "GB17675-2025 新国标的发布为 L3 级及以上自动驾驶的普及奠定了重要的法规与安全基础。该标准在转向技术领域实现了关键突破,取消了转向系统机械连接的强制要求,为线控转向技术的规模化应用铺平了道路。这一变革不仅优化了车辆控制性能与座舱空间设计,更......",
-      "source": "Smzdm",
-      "date": "2026-04-26",
-      "url": "https://post.smzdm.com/p/a2626r0n/"
+      "id": "https://www.orientaldaily.com.my/news/society/2026/04/27/814455",
+      "title": "失控轿车撞罗里 3死3伤",
+      "summary": "(马六甲27日讯)4名男女共乘的轿车疑失控闯入反方向车道,并与罗里迎面相撞,意外导致3名男子身亡!上述严重交通意外是于昨日下午约3是40分,在乌丹必佳路发生。亚罗牙也警区主任阿末阿布峇卡说,一名24岁的轿车后座男乘客(销售员,来自柔佛昔加末)当场毙命。“至于23岁的男轿车司机与另一名24岁男乘客则送院后不治身亡,车上的唯一一名23岁女乘客目前正在接受治疗。”他表示,警方初步调查显示,4人乘坐的本田...",
+      "source": "Orientaldaily",
+      "date": "2026-04-27",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/04/27/814455"
     },
     {
-      "id": "https://post.smzdm.com/p/arz4z70g/",
-      "title": "不止于包馆!比亚迪携尖端技术矩阵亮相北京车展",
-      "summary": "4月24日,2026北京国际车展盛大启幕。本届车展展台各具特色,而比亚迪展台凭借硬核技术实力出圈,现场人气领跑全场。品牌独占E3整馆,集结王朝丨海洋、方程豹、腾势、仰望全品牌矩阵,专设天神之眼与闪充技术专区,全方位展现智能驾驶与电动化领域的前沿自研成果,......",
-      "source": "Smzdm",
-      "date": "2026-04-26",
-      "url": "https://post.smzdm.com/p/arz4z70g/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863544009146874118",
-      "title": "时隔六个月 英伟达市值重返5万亿美元",
+      "id": "http://baijiahao.baidu.com/s?id=1863626946642170829",
+      "title": "北京劳动者之歌|宋娟:以创新匠心铺就车网互联智慧新..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863544009146874118"
+      "date": "2026-04-27",
+      "url": "http://baijiahao.baidu.com/s?id=1863626946642170829"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863432616461750422",
-      "title": "信号、数据与电力传输巨头维智捷看好中国:将深化本地..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863432616461750422"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863543727258143225",
-      "title": "「出行提示」大风黄色预警 周一早高峰交通压力大 请..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863543727258143225"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3330655",
-      "title": "PCB厂商Q1业绩普增背后:制造耗材订单溢出、产业链密集押注高端产能",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3332139",
+      "title": "15家A股上市车企披露2025年业绩:超九成营收同比增长 商用车板块整体复苏",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-04-26",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3330655"
+      "date": "2026-04-27",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3332139"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863542865412921133",
-      "title": "高质量发展一线调研|华首重工:从“零”到“整” 首..",
+      "id": "http://baijiahao.baidu.com/s?id=1863627598961849613",
+      "title": "二十年戍边铸军魂 雪域高原写忠诚——记边防某团三级..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863542865412921133"
+      "date": "2026-04-27",
+      "url": "http://baijiahao.baidu.com/s?id=1863627598961849613"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3330652",
-      "title": "合资品牌“回归”、自主品牌“冲高” 北京车展上演“诸神之战”|北京车展季",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260427-8960733",
+      "title": "建筑内资信设施准则拟修订 确保地下停车场不断网 自驾车机器人自如行",
+      "summary": "一进大楼内的地下层停车场手机突然连不上网,导致外卖送不到、网约车联系不上,这是很多人都有过的窘境。资讯通信媒体发展局拟议修改相关准则,确保建筑业主提前规划网络设施,才能让地下停车场不断网,居民新入伙即享受到可靠的移动网络。...",
+      "source": "Zaobao",
+      "date": "2026-04-27",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260427-8960733"
+    },
+    {
+      "id": "http://www.businesswire.com/news/home/20260426062338/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+      "title": "日本首笔企业量子计算机采购:IQM 将为 TOYO Corporation 部署系统",
+      "summary": "东京 & 埃斯波(芬兰)--(BUSINESS WIRE)--(美国商业资讯)-- IQM Quantum Computers 是全球超导量子计算机领域的领导者,该公司今日宣布了 TOYO Corporation 采购了 IQM 全栈式 20-量子比特量子计算机,这标志着日本迎来首台企业级量子系统部署。 这套 Radiance 20-量子比特系统将支持本地部署与云端使用,并于 2026 年底前交付...",
+      "source": "Businesswire",
+      "date": "2026-04-27",
+      "url": "http://www.businesswire.com/news/home/20260426062338/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3332044",
+      "title": "净利同比增长11.53倍!1200亿光芯片龙头发布一季报|盘后公告集锦",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-04-26",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3330652"
+      "date": "2026-04-27",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3332044"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863541223706369150",
-      "title": "车百会研究院理事长张永伟:自动驾驶竞争下半场 比拼..",
-      "summary": "本报记者刘钊4月25日,在车百会研究院主办的第二届自动驾驶产业发展论坛上,车百会研究院理事长张永伟围绕中国自动驾驶的进展与方向作出研判。他表示,经过多年技术迭代、产业协同和市场...",
-      "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863541223706369150"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14326227.html",
-      "title": "造谣“雷军被堵车内维权”,小米:李某华被行拘10日",
+      "id": "http://baijiahao.baidu.com/s?id=1863623031510916437",
+      "title": "年度进度完成过半,北京中心城区新增停车位1万余个",
       "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-04-26",
-      "url": "https://www.jiemian.com/article/14326227.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863510563025487242",
-      "title": "士说心语丨大山深处那片“海”",
-      "summary": "大山深处那片“海”■何辉十九年前,怀揣着对万里海疆的憧憬,我从家乡奔赴军营。启程之际,脑海中翻涌的是战舰驰骋的景象,心中勾勒的是建功深蓝的豪情。...",
       "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863510563025487242"
+      "date": "2026-04-27",
+      "url": "http://baijiahao.baidu.com/s?id=1863623031510916437"
     },
     {
-      "id": "https://www.ithome.com/0/943/732.htm",
-      "title": "多伦多警方破获加拿大首起伪基站诈骗案:被攻击设备无法拨打紧急电话,造成 1300 万次网络中断",
-      "summary": "IT之家 4 月 26 日消息,据科技媒体 Tom's Hardware 今天报道,多伦多警方逮捕三名犯罪嫌疑人。三名人士在市中心驾驶安装伪基站的车辆,并向不知情的公众发送欺诈短信。 多伦多警方在案情发布会中表示,本起案件是加拿大首次发现“伪基站”诈骗手法。调查显示,犯罪分子通过伪基站攻击入侵数万台移动设备,共计造成 1300 万次网络中断。 受影响设备无法正常访问移动数据网络 , 甚至无法拨打紧...",
+      "id": "http://baijiahao.baidu.com/s?id=1863623442387402442",
+      "title": "K155路绿色纪念涂装唤醒城市记忆,七处复古站牌邀..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-27",
+      "url": "http://baijiahao.baidu.com/s?id=1863623442387402442"
+    },
+    {
+      "id": "https://www.ithome.com/0/944/143.htm",
+      "title": "蔚来乐道 L80 大五座 SUV 更多官图公布:明起预售,全球旗舰级智能软硬件上车",
+      "summary": "IT之家 4 月 27 日消息,蔚来旗下乐道汽车今天公布了新车 —— 乐道 L80 的更多官图。此前信息显示,新车将于 4 月 28 日(IT之家注:明天)开启预售,定位智能双舱大五座旗舰 SUV,与乐道 L90 组成乐道旗舰双子星,并将拥有 全球旗舰级智能软硬件 。 外观方面,新车延续 L90 的设计。上方灯光提供了智能交互功能,下方大灯部分具备 ADB 自适应功能,包含自适应远光、动态弯道照明...",
       "source": "Ithome",
-      "date": "2026-04-26",
-      "url": "https://www.ithome.com/0/943/732.htm"
+      "date": "2026-04-27",
+      "url": "https://www.ithome.com/0/944/143.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1474408",
-      "title": "白宫记协晚宴枪击案 特朗普自比林肯:被暗杀的全是大人物",
-      "summary": "(华盛顿26日讯)美国总统特朗普当地时间周六(25日)在华盛顿的一场媒体晚宴上遭遇枪击后,发表了一番颇具哲理的 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-26",
-      "url": "https://news.seehua.com/post/1474408"
-    },
-    {
-      "id": "https://www.ithome.com/0/943/726.htm",
-      "title": "引望智能李文广:华为乾崑智驾 ADS 事故率远低于人驾,自动泊车 30 万次仅 1 次碰撞",
-      "summary": "IT之家 4 月 26 日消息,第二届自动驾驶产业发展论坛 4 月 25 日在京召开,主题为“加速自动驾驶产业发展凝聚自动驾驶安全共识”。引望智能驾驶产品线总裁李文广发表演讲。 截至目前,搭载华为乾崑智驾 ADS 的车辆已达 170 万辆,预计到今年年底将增至 300 万辆。2025 年,辅助驾驶累计里程增至 100 亿公里,预计到 2026 年底将达 200 亿公里。 据介绍,中国道路环境下平均...",
+      "id": "https://www.ithome.com/0/944/198.htm",
+      "title": "奥迪在美召回近 2 万辆 E-Tron 纯电 SUV:制动存在严重问题,踏板可能脱落",
+      "summary": "IT之家 4 月 27 日消息,据外媒 insideevs 今晚报道,奥迪将在美国召回 18853 辆 E-Tron 电动 SUV。召回原因相当严重:制动踏板 可能从制动助力器上脱开 ,导致车辆的行车制动无法正常工作。 美国国家公路交通安全管理局发布的文件并没有要求车主“禁止驾驶”。文件给出的建议是,如果驾驶员 发现踩下制动踏板没有反应,应使用应急制动把车停下来 。 据IT之家了解,此次召回涉及 ...",
       "source": "Ithome",
-      "date": "2026-04-26",
-      "url": "https://www.ithome.com/0/943/726.htm"
+      "date": "2026-04-27",
+      "url": "https://www.ithome.com/0/944/198.htm"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3330616",
-      "title": "产业聚合加剧、“权力”结构重塑 供应链企业从“本土”走向“全球”|北京车展季",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-26",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3330616"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863531653656119768",
-      "title": "全球媒体聚焦丨美国博主:我在中国圆了美好生活之梦",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863531653656119768"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863531689528108688",
-      "title": "外媒看广州丨 “体验感太真实了!”外媒记者在..",
-      "summary": "4月24日起,一个由16位来自APEC各经济体外媒记者组成的媒体团在广州开启参访之旅。26日上午,外媒记者一行走进海心沙智能体验中心,现场观摩亿航智能旗下EH216-S无人驾驶载人航空器的飞行演示,并...",
-      "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863531689528108688"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863528639979104728",
-      "title": "轻舟智航于骞:打破模块割裂 智能融合演绎智能出行新..",
-      "summary": "本报记者冯雨瑶4月23日下午,2026年证券市场年会行业分会——汽车资本大会在北京临空皇冠假日酒店举行。此次大会由《证券日报》社主办,国联民生证券股份有限公司协办,上海轩元私募基金管理...",
-      "source": "News_Baidu",
-      "date": "2026-04-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863528639979104728"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14325226.html",
-      "title": "大众在华电动化攻势升温,重回牌桌还缺一场胜仗 | 2026北京车展",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-04-26",
-      "url": "https://www.jiemian.com/article/14325226.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1777203213129481.html",
-      "title": "人形机器人半马选手“走进”政务大厅,市民零距离感受科技魅力",
+      "id": "https://www.bjnews.com.cn/detail/1777277509169354.html",
+      "title": "景区游客遭洒药:无人机“乱喷”谁来管 | 新京报快评",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-26",
-      "url": "https://www.bjnews.com.cn/detail/1777203213129481.html"
+      "date": "2026-04-27",
+      "url": "https://www.bjnews.com.cn/detail/1777277509169354.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1777201715169339.html",
-      "title": "车展访谈|卢放:岚图汽车没有走偏,核心技术自主掌控",
+      "id": "https://www.bjnews.com.cn/detail/1777289130129374.html",
+      "title": "“华为智擎”品牌正式起航,构筑新能源汽车“用能之核心、运动之要义、安全之基石”",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
+      "date": "2026-04-27",
+      "url": "https://www.bjnews.com.cn/detail/1777289130129374.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1022195",
+      "title": "千里科技递表港交所,汽车、摩托车、智能驾驶三线并进-FX168",
+      "summary": "新时空讯:重庆千里科技股份有限公司于4月27日递表港交所,中金公司担任独家保荐人。公司是中国知名的汽车制造商,按2024年销量计,在B端新能源汽车市场排名第八;按2024年摩托车出口量计,在中国摩托车制造商中排名第九。公司已开始开发及商业化智能驾驶解决方案,2025年技术解决方案收入约3.5亿元人民...",
+      "source": "Fx168News",
+      "date": "2026-04-27",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1022195"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777285112129285.html",
+      "title": "埃安焕新,“新”在哪里?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-27",
+      "url": "https://www.bjnews.com.cn/detail/1777285112129285.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777288264168734.html",
+      "title": "依托“交管12123”APP,北京实现车驾管业务“高效办”",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-27",
+      "url": "https://www.bjnews.com.cn/detail/1777288264168734.html"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/52058166/pony-ai-stock-rises-after-nvidia-powered-tech-reveal",
+      "title": "What's Going On With Pony AI Stock Monday?",
+      "summary": "Pony AI accelerates L4 autonomous driving with its new NVIDIA-powered compute platform, enhancing safety and commercial scalability....",
+      "source": "Benzinga",
+      "date": "2026-04-27",
+      "url": "https://www.benzinga.com/markets/tech/26/04/52058166/pony-ai-stock-rises-after-nvidia-powered-tech-reveal"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/52053954/deeproute-ai-300000-cars-assisted-driving-system-china-alibaba-backed",
+      "title": "Alibaba-Backed DeepRoute.ai Says More Than 300,000 Cars Now Use Its Assisted-Driving System Across Chines",
+      "summary": "Alibaba-backed DeepRoute.ai has over 300,000 cars with its autonomous driving system on Chinese roads, aiming for 1 million this year....",
+      "source": "Benzinga",
+      "date": "2026-04-27",
+      "url": "https://www.benzinga.com/markets/tech/26/04/52053954/deeproute-ai-300000-cars-assisted-driving-system-china-alibaba-backed"
+    },
+    {
+      "id": "https://www.caixinglobal.com/2026-04-27/tech-brief-april-27-china-tightens-algorithm-governance-to-protect-gig-workers-102438338.html",
+      "title": "Tech Brief (April 27): China Tightens Algorithm Governance to Protect Gig Workers",
+      "summary": "Tech Brief (April 27): China Tightens Algorithm Governance to Protect Gig Workers - Pony.ai unveils Nvidia-powered autonomous driving domain controller, Moore Threads posts 155% revenue jump in first ...",
+      "source": "Caixin",
+      "date": "2026-04-27",
+      "url": "https://www.caixinglobal.com/2026-04-27/tech-brief-april-27-china-tightens-algorithm-governance-to-protect-gig-workers-102438338.html"
+    },
+    {
+      "id": "https://markets.businessinsider.com/news/stocks/pony-ai-announces-compute-platform-built-on-nvidia-drive-hyperion-1036063180",
+      "title": "Pony AI announces compute platform built on Nvidia Drive Hyperion",
+      "summary": "Pony AI (PONY) announced its new generation autonomous driving domain controller, a compute system designed for both Pony.ai’s L4 autonomous dri......",
+      "source": "Markets Insider",
       "date": "2026-04-26",
-      "url": "https://www.bjnews.com.cn/detail/1777201715169339.html"
+      "url": "https://markets.businessinsider.com/news/stocks/pony-ai-announces-compute-platform-built-on-nvidia-drive-hyperion-1036063180"
     },
     {
       "id": "https://www.manilatimes.net/2026/04/26/tmt-newswire/pr-newswire/nexteers-global-first-steer-by-wire-goes-into-production/2328711",
@@ -231,30 +224,6 @@
       "source": "WJLA",
       "date": "2026-04-24",
       "url": "https://wjla.com/news/local/robotaxi-autonomous-vehicles-dc-law-driverless-self-driving-cars-authorization-amendment-councilmember-charles-allen-av-metro-tranist-rideshare-washington-bill-workers-travel"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/24/tmt-newswire/globenewswire/weride-wrd-30-unlocks-multi-chip-platform-compatibility-driving-adas-democratization/2327971",
-      "title": "WeRide WRD 3.0 Unlocks Multi-Chip Platform Compatibility, Driving ADAS Democratization",
-      "summary": "BEIJING, April 24, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD, HKEX: 0800), a global leader in autonomous driving technology, announced that WeRide Driving (WRD 3.0), its one-stage end-to-end ADAS (...",
-      "source": "The Manila Times",
-      "date": "2026-04-24",
-      "url": "https://www.manilatimes.net/2026/04/24/tmt-newswire/globenewswire/weride-wrd-30-unlocks-multi-chip-platform-compatibility-driving-adas-democratization/2327971"
-    },
-    {
-      "id": "https://www.washingtonpost.com/dc-md-va/2026/04/24/robotaxis-dc-bill-charles-allen/",
-      "title": "Self-driving taxis in D.C.? They could soon be legal under new bill.",
-      "summary": "A D.C. Council proposal lays out the rules for autonomous vehicles that could provide a robot-powered alternative to Ubers, Lyfts or traditional taxis....",
-      "source": "The Washington Post",
-      "date": "2026-04-24",
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/04/24/robotaxis-dc-bill-charles-allen/"
-    },
-    {
-      "id": "https://www.businesstoday.in/technology/story/elon-musk-shares-first-cybercab-production-footage-robotaxi-push-intensifies-527332-2026-04-24",
-      "title": "Elon Musk shares first Cybercab production footage, robotaxi push intensifies",
-      "summary": "The 38-second video gives a glimpse into Tesla’s vision of a fully autonomous ride-hailing experience. In a separate post, Musk also shared footage of multiple gold-coloured Cybercabs driving in forma...",
-      "source": "Business Today",
-      "date": "2026-04-24",
-      "url": "https://www.businesstoday.in/technology/story/elon-musk-shares-first-cybercab-production-footage-robotaxi-push-intensifies-527332-2026-04-24"
     }
   ]
 }
