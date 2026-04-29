@@ -1,149 +1,213 @@
 {
-  "lastUpdated": "2026-04-28 03:52:47",
-  "totalCount": 26,
+  "lastUpdated": "2026-04-29 03:49:52",
+  "totalCount": 32,
   "sources": {
-    "Orientaldaily": 1,
-    "News_Baidu": 4,
-    "Investing_Cn": 2,
+    "Bilibili": 5,
+    "Imobile": 1,
+    "Bjnews": 2,
+    "News_Baidu": 8,
+    "Prnasia": 1,
     "Zaobao": 1,
-    "Businesswire": 1,
-    "Ithome": 2,
-    "Bjnews": 4,
+    "Eeo": 2,
     "Fx168News": 1,
-    "Benzinga": 3,
-    "Caixin": 1,
-    "Markets Insider": 1,
+    "Ithome": 1,
     "The Manila Times": 4,
-    "WJLA": 1
+    "Caixin": 2,
+    "Benzinga": 3,
+    "Markets Insider": 1
   },
   "news": [
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/04/27/814455",
-      "title": "失控轿车撞罗里 3死3伤",
-      "summary": "(马六甲27日讯)4名男女共乘的轿车疑失控闯入反方向车道,并与罗里迎面相撞,意外导致3名男子身亡!上述严重交通意外是于昨日下午约3是40分,在乌丹必佳路发生。亚罗牙也警区主任阿末阿布峇卡说,一名24岁的轿车后座男乘客(销售员,来自柔佛昔加末)当场毙命。“至于23岁的男轿车司机与另一名24岁男乘客则送院后不治身亡,车上的唯一一名23岁女乘客目前正在接受治疗。”他表示,警方初步调查显示,4人乘坐的本田...",
-      "source": "Orientaldaily",
-      "date": "2026-04-27",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/04/27/814455"
+      "id": "https://www.bilibili.com/video/BV1USo2B9EG1",
+      "title": "【B站】扫地机的“自动驾驶”时代来了！ 1066536280",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-04-29",
+      "url": "https://www.bilibili.com/video/BV1USo2B9EG1"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863626946642170829",
-      "title": "北京劳动者之歌|宋娟:以创新匠心铺就车网互联智慧新..",
+      "id": "https://www.bilibili.com/video/BV1KD92BVEYP",
+      "title": "【B站】自动驾驶路径规划算法EMplanner C 版  火基于动态规划  二次规划，EMplanner C 实现，轻量高效！  本代码提供 精简版 EMpl",
+      "summary": "自动驾驶路径规划算法EMplanner C 版\n\n火基于动态规划  二次规划，EMplanner C 实现，轻量高效！\n\n本代码提供 精简版 EMplanner C 实现，结合 动态规划  二次规划算法，实现 静态障碍物避让，适用于自动驾驶路径规划领域。代码带有详细注释，逻辑清晰，特别适合 初学者入...",
+      "source": "Bilibili",
+      "date": "2026-04-29",
+      "url": "https://www.bilibili.com/video/BV1KD92BVEYP"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1xXdSBxEWt",
+      "title": "【B站】吹了那么多年的智驾，自动驾驶离我们到底还有多远？",
+      "summary": "有什么疑问请弹幕留言\n嗷！别忘了点赞三连\n———————————————\n\n从实验室的最高机密，到你指尖的触手可及，中国材料学经历了什么？BV1AVmEBVEiX\n为什么豪车都在标配四驱？普通人真的需要四驱么？BV14KYAzQE3i...",
+      "source": "Bilibili",
+      "date": "2026-04-29",
+      "url": "https://www.bilibili.com/video/BV1xXdSBxEWt"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-04-29",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-04-29",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0428/234309.shtml",
+      "title": "极狐问道V9预售补贴价21.99万起",
+      "summary": "问到了!极狐问道 V9真的来了,实力与诚意“夯爆”了。4月28日,极狐问道系列发布暨问道V9预售发布会盛大启幕,北汽极狐旗下首个高端产品系列“问道”正式面世,专为大型旗舰车型而生的泰岳平台同场发布。与此同时,作为泰岳平台赋能的“问道”系列首款产品,全域舒享旗舰MPV问道V9正式开启预售,共推出1250 Max 、 1250Max+ 、 1330Ultra 、 1330Ultra +共4款版型,预售...",
+      "source": "Imobile",
+      "date": "2026-04-28",
+      "url": "http://news.imobile.com.cn/articles/2026/0428/234309.shtml"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777381154169391.html",
+      "title": "车展访谈|日产汽车首席执行官:中国对日产全球未来至关重要",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-28",
+      "url": "https://www.bjnews.com.cn/detail/1777381154169391.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863711179699263254",
+      "title": "“曹家小驿”落地山城重庆,曹操出行为司机筑起“路上..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-27",
-      "url": "http://baijiahao.baidu.com/s?id=1863626946642170829"
+      "date": "2026-04-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863711179699263254"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3332139",
-      "title": "15家A股上市车企披露2025年业绩:超九成营收同比增长 商用车板块整体复苏",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-27",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3332139"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863627598961849613",
-      "title": "二十年戍边铸军魂 雪域高原写忠诚——记边防某团三级..",
+      "id": "http://baijiahao.baidu.com/s?id=1863724817411844206",
+      "title": "民生+科技双向发力!宜都这些机器人到底能做什么?",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-27",
-      "url": "http://baijiahao.baidu.com/s?id=1863627598961849613"
+      "date": "2026-04-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863724817411844206"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260427-8960733",
-      "title": "建筑内资信设施准则拟修订 确保地下停车场不断网 自驾车机器人自如行",
-      "summary": "一进大楼内的地下层停车场手机突然连不上网,导致外卖送不到、网约车联系不上,这是很多人都有过的窘境。资讯通信媒体发展局拟议修改相关准则,确保建筑业主提前规划网络设施,才能让地下停车场不断网,居民新入伙即享受到可靠的移动网络。...",
+      "id": "http://baijiahao.baidu.com/s?id=1863703255016993123",
+      "title": "官宣+2!延庆这两条乡村路被认证为“北京市最美”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863703255016993123"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863724821192513778",
+      "title": "科技感拉满 武汉12号线全自动驾驶列车亮相",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863724821192513778"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863211754827924906",
+      "title": "新域新质战场上的“探路先锋”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863211754827924906"
+    },
+    {
+      "id": "https://www.prnasia.com/story/531114-1.shtml",
+      "title": "月内连融两轮,晨昏线科技发布 GCWM1 目标因果世界模型:以\"因果思考\"重构具身智能",
+      "summary": "北京、深圳和上海 2026年4月28日 /美通社/ -- 今日,具身智能大脑科技公司晨昏线科技(TermiTech)正式发布\"目标因果世界模型(Goal-conditioned Causal World Model) GCWM1\"。 在行业还在讨论世界模型应该是\"生成式\"还是\"表征式\"时,晨昏线科技选择了一条更接近物理本质的道路:让机器人在采取行动之前,先在\"脑海\"中推演以目标为关注点的物理世界的...",
+      "source": "Prnasia",
+      "date": "2026-04-28",
+      "url": "https://www.prnasia.com/story/531114-1.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863721334035601983",
+      "title": "无人车驶向全球、给机器人“立规矩”、用微创治愈顽疾..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863721334035601983"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863722504953819929",
+      "title": "活力重庆|藏在南岸的科技密码 “AI+脑科学”双双..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863722504953819929"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863711579827852322",
+      "title": "武汉洪山:人间四月天,“警”色暖心扉",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863711579827852322"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260428-8966805",
+      "title": "涉驾驶已注销或无保车辆 九年轻男子被调查",
+      "summary": "NewsData报道",
       "source": "Zaobao",
-      "date": "2026-04-27",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260427-8960733"
+      "date": "2026-04-28",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260428-8966805"
     },
     {
-      "id": "http://www.businesswire.com/news/home/20260426062338/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
-      "title": "日本首笔企业量子计算机采购:IQM 将为 TOYO Corporation 部署系统",
-      "summary": "东京 & 埃斯波(芬兰)--(BUSINESS WIRE)--(美国商业资讯)-- IQM Quantum Computers 是全球超导量子计算机领域的领导者,该公司今日宣布了 TOYO Corporation 采购了 IQM 全栈式 20-量子比特量子计算机,这标志着日本迎来首台企业级量子系统部署。 这套 Radiance 20-量子比特系统将支持本地部署与云端使用,并于 2026 年底前交付...",
-      "source": "Businesswire",
-      "date": "2026-04-27",
-      "url": "http://www.businesswire.com/news/home/20260426062338/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
+      "id": "http://www.eeo.com.cn/2026/0428/856475.shtml",
+      "title": "Unit中国发布3D空间座舱方案,汽车座舱空间化转型再添技术方案",
+      "summary": "座舱交互正从2D界面向3D HMI升级,AI智能体完成意图识别与任务编排,团结引擎提供3D化呈现,将分散应用界面整合为连续交互空间。...",
+      "source": "Eeo",
+      "date": "2026-04-28",
+      "url": "http://www.eeo.com.cn/2026/0428/856475.shtml"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3332044",
-      "title": "净利同比增长11.53倍!1200亿光芯片龙头发布一季报|盘后公告集锦",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-04-27",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3332044"
+      "id": "http://www.eeo.com.cn/2026/0428/856474.shtml",
+      "title": "别克“急行军”:至境发布仅一年 三款车型集结北京车展",
+      "summary": "别克的“急行军”,既是为了跟上中国新能源汽车迭代速度越来越快的现实,也是为了尽快验证新合作模式的效率。...",
+      "source": "Eeo",
+      "date": "2026-04-28",
+      "url": "http://www.eeo.com.cn/2026/0428/856474.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863623031510916437",
-      "title": "年度进度完成过半,北京中心城区新增停车位1万余个",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-27",
-      "url": "http://baijiahao.baidu.com/s?id=1863623031510916437"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863623442387402442",
-      "title": "K155路绿色纪念涂装唤醒城市记忆,七处复古站牌邀..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-27",
-      "url": "http://baijiahao.baidu.com/s?id=1863623442387402442"
-    },
-    {
-      "id": "https://www.ithome.com/0/944/143.htm",
-      "title": "蔚来乐道 L80 大五座 SUV 更多官图公布:明起预售,全球旗舰级智能软硬件上车",
-      "summary": "IT之家 4 月 27 日消息,蔚来旗下乐道汽车今天公布了新车 —— 乐道 L80 的更多官图。此前信息显示,新车将于 4 月 28 日(IT之家注:明天)开启预售,定位智能双舱大五座旗舰 SUV,与乐道 L90 组成乐道旗舰双子星,并将拥有 全球旗舰级智能软硬件 。 外观方面,新车延续 L90 的设计。上方灯光提供了智能交互功能,下方大灯部分具备 ADB 自适应功能,包含自适应远光、动态弯道照明...",
-      "source": "Ithome",
-      "date": "2026-04-27",
-      "url": "https://www.ithome.com/0/944/143.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/944/198.htm",
-      "title": "奥迪在美召回近 2 万辆 E-Tron 纯电 SUV:制动存在严重问题,踏板可能脱落",
-      "summary": "IT之家 4 月 27 日消息,据外媒 insideevs 今晚报道,奥迪将在美国召回 18853 辆 E-Tron 电动 SUV。召回原因相当严重:制动踏板 可能从制动助力器上脱开 ,导致车辆的行车制动无法正常工作。 美国国家公路交通安全管理局发布的文件并没有要求车主“禁止驾驶”。文件给出的建议是,如果驾驶员 发现踩下制动踏板没有反应,应使用应急制动把车停下来 。 据IT之家了解,此次召回涉及 ...",
-      "source": "Ithome",
-      "date": "2026-04-27",
-      "url": "https://www.ithome.com/0/944/198.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1777277509169354.html",
-      "title": "景区游客遭洒药:无人机“乱喷”谁来管 | 新京报快评",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-27",
-      "url": "https://www.bjnews.com.cn/detail/1777277509169354.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1777289130129374.html",
-      "title": "“华为智擎”品牌正式起航,构筑新能源汽车“用能之核心、运动之要义、安全之基石”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-27",
-      "url": "https://www.bjnews.com.cn/detail/1777289130129374.html"
-    },
-    {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1022195",
-      "title": "千里科技递表港交所,汽车、摩托车、智能驾驶三线并进-FX168",
-      "summary": "新时空讯:重庆千里科技股份有限公司于4月27日递表港交所,中金公司担任独家保荐人。公司是中国知名的汽车制造商,按2024年销量计,在B端新能源汽车市场排名第八;按2024年摩托车出口量计,在中国摩托车制造商中排名第九。公司已开始开发及商业化智能驾驶解决方案,2025年技术解决方案收入约3.5亿元人民...",
+      "id": "https://www.fx168news.com/article/1023202",
+      "title": "曹操出行CEO龚昕接受路透社专访:2030年中国Robotaxi公司将仅存3-4家-FX168",
+      "summary": "近日,路透社在北京车展期间对曹操出行CEO龚昕进行了专访。采访中,龚昕首次对外披露了中国首款原生开发Robotaxi——Eva Cab的成本情况及量产部署节奏,并就行业格局做出前瞻性判断。在2026北京国际汽车展览会上首次亮相的Eva Cab,是曹操出行深度参与产品定义和研发的R...",
       "source": "Fx168News",
-      "date": "2026-04-27",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1022195"
+      "date": "2026-04-28",
+      "url": "https://www.fx168news.com/article/1023202"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1777285112129285.html",
-      "title": "埃安焕新,“新”在哪里?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-27",
-      "url": "https://www.bjnews.com.cn/detail/1777285112129285.html"
+      "id": "https://www.ithome.com/0/944/688.htm",
+      "title": "预售价 24.58 万元起,蔚来乐道 L80 大五座 SUV 开启预售",
+      "summary": "IT之家 4 月 28 日消息,蔚来旗下乐道汽车全新车型乐道 L80 今日开启预售,新车定位智能双舱大五座旗舰 SUV,与乐道 L90 组成乐道旗舰双子星,并将拥有全球旗舰级智能软硬件。乐道 L80 整车购买预售价 24.58 万元起,电池租用方式购买 15.98 万元起。乐道 L80 展车现已到达全国展厅,5 月 1 日将全面开启试驾体验,5 月 15 日正式上市。 IT之家注意到,外观方面,新...",
+      "source": "Ithome",
+      "date": "2026-04-28",
+      "url": "https://www.ithome.com/0/944/688.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1777288264168734.html",
-      "title": "依托“交管12123”APP,北京实现车驾管业务“高效办”",
+      "id": "https://www.bjnews.com.cn/detail/1777381101168772.html",
+      "title": "车展访谈丨上汽大众陶海龙:从不追求“零接管”“长脱手”噱头",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-27",
-      "url": "https://www.bjnews.com.cn/detail/1777288264168734.html"
+      "date": "2026-04-28",
+      "url": "https://www.bjnews.com.cn/detail/1777381101168772.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/roamly-launches-worlds-first-real-time-insurance-for-autonomous-fleets-with-a-50-discount/2330611",
+      "title": "Roamly Launches World’s First Real-Time Insurance for Autonomous Fleets with a 50% Discount",
+      "summary": "Solving an autonomous fleet pain point, the new Roamly FSD (Full Self Driving) insurance dynamically adjusts insurance cost by the mile when vehicle is in FSD mode...",
+      "source": "The Manila Times",
+      "date": "2026-04-28",
+      "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/roamly-launches-worlds-first-real-time-insurance-for-autonomous-fleets-with-a-50-discount/2330611"
+    },
+    {
+      "id": "https://www.caixinglobal.com/2026-04-28/in-depth-chinas-auto-industry-bets-self-driving-cars-will-lead-to-embodied-ai-102438916.html",
+      "title": "In Depth: China’s Auto Industry Bets Self",
+      "summary": "In Depth: China’s Auto Industry Bets Self-Driving Cars Will Lead to Embodied AI - Along with a series of autonomous driving announcements, industry executives are hyping the technology’s potential for...",
+      "source": "Caixin",
+      "date": "2026-04-28",
+      "url": "https://www.caixinglobal.com/2026-04-28/in-depth-chinas-auto-industry-bets-self-driving-cars-will-lead-to-embodied-ai-102438916.html"
     },
     {
       "id": "https://www.benzinga.com/markets/tech/26/04/52058166/pony-ai-stock-rises-after-nvidia-powered-tech-reveal",
@@ -192,38 +256,6 @@
       "source": "Benzinga",
       "date": "2026-04-25",
       "url": "https://www.benzinga.com/markets/equities/26/04/52050953/pony-ai-advances-l4-ambitions-with-nvidia-based-autonomous-driving-controller"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/25/tmt-newswire/pr-newswire/ponyai-announces-new-generation-autonomous-driving-compute-platform-built-on-nvidia-drive-hyperion/2328479",
-      "title": "Pony.ai Announces New Generation Autonomous Driving Compute Platform Built on NVIDIA DRIVE Hyperion",
-      "summary": "GUANGZHOU, China, April 25, 2026 /PRNewswire/ -- Pony AI Inc. ('Pony.ai') (NASDAQ: PONY; HKEX: 2026) today announced its new generation autonomous driving domain controller, a high-performance compute...",
-      "source": "The Manila Times",
-      "date": "2026-04-25",
-      "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/pr-newswire/ponyai-announces-new-generation-autonomous-driving-compute-platform-built-on-nvidia-drive-hyperion/2328479"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/25/tmt-newswire/pr-newswire/silicon-valley-stars-gather-for-dreames-san-francisco-debut/2328457",
-      "title": "Silicon Valley Stars Gather for Dreame's San Francisco Debut",
-      "summary": "SAN FRANCISCO, April 25, 2026 /PRNewswire/ -- Dreame Technology, a global high-end technology company, confirmed the guest lineup for DREAME NEXT, the company's largest-ever international launch event...",
-      "source": "The Manila Times",
-      "date": "2026-04-25",
-      "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/pr-newswire/silicon-valley-stars-gather-for-dreames-san-francisco-debut/2328457"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/25/tmt-newswire/globenewswire/chinas-first-purpose-built-robotaxi-customized-for-caocao-debuts-at-auto-china-2026-with-mass-production-planned-for-2027/2328437",
-      "title": "China’s First Purpose-Built Robotaxi Customized for CaoCao Debuts at Auto China 2026, with Mass Production Planned for 2027",
-      "summary": "HangZhou, China, April 24, 2026 (GLOBE NEWSWIRE) -- On April 24, China’s first purpose-built Robotaxi, the Eva Cab, made its official debut at Auto China 2026. Developed from the ground up exclusively...",
-      "source": "The Manila Times",
-      "date": "2026-04-25",
-      "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/globenewswire/chinas-first-purpose-built-robotaxi-customized-for-caocao-debuts-at-auto-china-2026-with-mass-production-planned-for-2027/2328437"
-    },
-    {
-      "id": "https://wjla.com/news/local/robotaxi-autonomous-vehicles-dc-law-driverless-self-driving-cars-authorization-amendment-councilmember-charles-allen-av-metro-tranist-rideshare-washington-bill-workers-travel",
-      "title": "Councilmember proposes legislation to bring self-driving cars to DC",
-      "summary": "A small but growing number of companies are testing autonomous vehicles, like robotaxis, in Washington, D.C....",
-      "source": "WJLA",
-      "date": "2026-04-24",
-      "url": "https://wjla.com/news/local/robotaxi-autonomous-vehicles-dc-law-driverless-self-driving-cars-authorization-amendment-councilmember-charles-allen-av-metro-tranist-rideshare-washington-bill-workers-travel"
     }
   ]
 }
