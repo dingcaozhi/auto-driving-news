@@ -1,197 +1,224 @@
 {
-  "lastUpdated": "2026-04-29 03:49:52",
-  "totalCount": 32,
+  "lastUpdated": "2026-04-30 03:50:46",
+  "totalCount": 30,
   "sources": {
     "Bilibili": 5,
-    "Imobile": 1,
+    "News_Baidu": 4,
+    "Ithome": 3,
     "Bjnews": 2,
-    "News_Baidu": 8,
-    "Prnasia": 1,
-    "Zaobao": 1,
-    "Eeo": 2,
+    "Chinanews": 3,
+    "News_Seehua": 1,
     "Fx168News": 1,
-    "Ithome": 1,
-    "The Manila Times": 4,
+    "Eeo": 1,
+    "The Verge": 1,
+    "The Economic Times": 1,
+    "The Straits Times": 1,
+    "MarketScreener": 1,
+    "Barchart": 1,
+    "The Manila Times": 1,
     "Caixin": 2,
-    "Benzinga": 3,
-    "Markets Insider": 1
+    "Benzinga": 2
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1USo2B9EG1",
-      "title": "【B站】扫地机的“自动驾驶”时代来了！ 1066536280",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV19r9tBiET1",
+      "title": "【B站】电动车也有自动驾驶？",
+      "summary": "买车吗老板...",
       "source": "Bilibili",
-      "date": "2026-04-29",
-      "url": "https://www.bilibili.com/video/BV1USo2B9EG1"
+      "date": "2026-04-30",
+      "url": "https://www.bilibili.com/video/BV19r9tBiET1"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1KD92BVEYP",
-      "title": "【B站】自动驾驶路径规划算法EMplanner C 版  火基于动态规划  二次规划，EMplanner C 实现，轻量高效！  本代码提供 精简版 EMpl",
-      "summary": "自动驾驶路径规划算法EMplanner C 版\n\n火基于动态规划  二次规划，EMplanner C 实现，轻量高效！\n\n本代码提供 精简版 EMplanner C 实现，结合 动态规划  二次规划算法，实现 静态障碍物避让，适用于自动驾驶路径规划领域。代码带有详细注释，逻辑清晰，特别适合 初学者入...",
+      "id": "https://www.bilibili.com/video/BV1ga9hB3Edd",
+      "title": "【B站】新能源电站要迈向“自动驾驶”？这事儿到底现实吗？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-04-29",
-      "url": "https://www.bilibili.com/video/BV1KD92BVEYP"
+      "date": "2026-04-30",
+      "url": "https://www.bilibili.com/video/BV1ga9hB3Edd"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RJ9bB6Eqy",
+      "title": "【B站】Redis企业版，释放自动驾驶数据潜能",
+      "summary": "如何释放数据潜能、构建AI驱动的自动驾驶实时数据处理与智能筛选平台？Redis企业版，不仅作为缓存，更是实时数据加速层+智能处理中枢，将数据在产生的同时就纳入可计算、可分析、可筛选的体系中，驱动自动驾驶数据闭环。...",
+      "source": "Bilibili",
+      "date": "2026-04-30",
+      "url": "https://www.bilibili.com/video/BV1RJ9bB6Eqy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1B4rsBKE48",
+      "title": "【B站】2026年本科机械毕业设计选题分享：汽车线控转向系统设计电子转向执行器/L3级自动驾驶转向模块/路感模拟反馈装置/转向异响抑制机构/X-by-Wire线控底盘核",
+      "summary": "视频简介：\n3000+机械毕设资源库，覆盖全领域！ 车辆工程/机械自动化专业同学注意！持续更新 开题报告+论文+CAD/三维模型 全套资源（含 传统机械、智能网联汽车、机器人系统），一键三连+关注 解锁宝藏！往期热门选题：固态电池热管理、太阳能跟踪机构、机床排屑装置、驾驶室防滚翻系统、履带机器人.....",
+      "source": "Bilibili",
+      "date": "2026-04-30",
+      "url": "https://www.bilibili.com/video/BV1B4rsBKE48"
     },
     {
       "id": "https://www.bilibili.com/video/BV1xXdSBxEWt",
       "title": "【B站】吹了那么多年的智驾，自动驾驶离我们到底还有多远？",
       "summary": "有什么疑问请弹幕留言\n嗷！别忘了点赞三连\n———————————————\n\n从实验室的最高机密，到你指尖的触手可及，中国材料学经历了什么？BV1AVmEBVEiX\n为什么豪车都在标配四驱？普通人真的需要四驱么？BV14KYAzQE3i...",
       "source": "Bilibili",
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "url": "https://www.bilibili.com/video/BV1xXdSBxEWt"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
+      "id": "http://baijiahao.baidu.com/s?id=1863816491484942329",
+      "title": "现代自动驾驶汽车之父塞巴斯蒂安·特龙:未来5至10..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
       "date": "2026-04-29",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "url": "http://baijiahao.baidu.com/s?id=1863816491484942329"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-04-29",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0428/234309.shtml",
-      "title": "极狐问道V9预售补贴价21.99万起",
-      "summary": "问到了!极狐问道 V9真的来了,实力与诚意“夯爆”了。4月28日,极狐问道系列发布暨问道V9预售发布会盛大启幕,北汽极狐旗下首个高端产品系列“问道”正式面世,专为大型旗舰车型而生的泰岳平台同场发布。与此同时,作为泰岳平台赋能的“问道”系列首款产品,全域舒享旗舰MPV问道V9正式开启预售,共推出1250 Max 、 1250Max+ 、 1330Ultra 、 1330Ultra +共4款版型,预售...",
-      "source": "Imobile",
-      "date": "2026-04-28",
-      "url": "http://news.imobile.com.cn/articles/2026/0428/234309.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1777381154169391.html",
-      "title": "车展访谈|日产汽车首席执行官:中国对日产全球未来至关重要",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-28",
-      "url": "https://www.bjnews.com.cn/detail/1777381154169391.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863711179699263254",
-      "title": "“曹家小驿”落地山城重庆,曹操出行为司机筑起“路上..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-28",
-      "url": "http://baijiahao.baidu.com/s?id=1863711179699263254"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863724817411844206",
-      "title": "民生+科技双向发力!宜都这些机器人到底能做什么?",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-28",
-      "url": "http://baijiahao.baidu.com/s?id=1863724817411844206"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863703255016993123",
-      "title": "官宣+2!延庆这两条乡村路被认证为“北京市最美”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-28",
-      "url": "http://baijiahao.baidu.com/s?id=1863703255016993123"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863724821192513778",
-      "title": "科技感拉满 武汉12号线全自动驾驶列车亮相",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-28",
-      "url": "http://baijiahao.baidu.com/s?id=1863724821192513778"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863211754827924906",
-      "title": "新域新质战场上的“探路先锋”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-28",
-      "url": "http://baijiahao.baidu.com/s?id=1863211754827924906"
-    },
-    {
-      "id": "https://www.prnasia.com/story/531114-1.shtml",
-      "title": "月内连融两轮,晨昏线科技发布 GCWM1 目标因果世界模型:以\"因果思考\"重构具身智能",
-      "summary": "北京、深圳和上海 2026年4月28日 /美通社/ -- 今日,具身智能大脑科技公司晨昏线科技(TermiTech)正式发布\"目标因果世界模型(Goal-conditioned Causal World Model) GCWM1\"。 在行业还在讨论世界模型应该是\"生成式\"还是\"表征式\"时,晨昏线科技选择了一条更接近物理本质的道路:让机器人在采取行动之前,先在\"脑海\"中推演以目标为关注点的物理世界的...",
-      "source": "Prnasia",
-      "date": "2026-04-28",
-      "url": "https://www.prnasia.com/story/531114-1.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863721334035601983",
-      "title": "无人车驶向全球、给机器人“立规矩”、用微创治愈顽疾..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-28",
-      "url": "http://baijiahao.baidu.com/s?id=1863721334035601983"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863722504953819929",
-      "title": "活力重庆|藏在南岸的科技密码 “AI+脑科学”双双..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-28",
-      "url": "http://baijiahao.baidu.com/s?id=1863722504953819929"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863711579827852322",
-      "title": "武汉洪山:人间四月天,“警”色暖心扉",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-28",
-      "url": "http://baijiahao.baidu.com/s?id=1863711579827852322"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260428-8966805",
-      "title": "涉驾驶已注销或无保车辆 九年轻男子被调查",
-      "summary": "NewsData报道",
-      "source": "Zaobao",
-      "date": "2026-04-28",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260428-8966805"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0428/856475.shtml",
-      "title": "Unit中国发布3D空间座舱方案,汽车座舱空间化转型再添技术方案",
-      "summary": "座舱交互正从2D界面向3D HMI升级,AI智能体完成意图识别与任务编排,团结引擎提供3D化呈现,将分散应用界面整合为连续交互空间。...",
-      "source": "Eeo",
-      "date": "2026-04-28",
-      "url": "http://www.eeo.com.cn/2026/0428/856475.shtml"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0428/856474.shtml",
-      "title": "别克“急行军”:至境发布仅一年 三款车型集结北京车展",
-      "summary": "别克的“急行军”,既是为了跟上中国新能源汽车迭代速度越来越快的现实,也是为了尽快验证新合作模式的效率。...",
-      "source": "Eeo",
-      "date": "2026-04-28",
-      "url": "http://www.eeo.com.cn/2026/0428/856474.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1023202",
-      "title": "曹操出行CEO龚昕接受路透社专访:2030年中国Robotaxi公司将仅存3-4家-FX168",
-      "summary": "近日,路透社在北京车展期间对曹操出行CEO龚昕进行了专访。采访中,龚昕首次对外披露了中国首款原生开发Robotaxi——Eva Cab的成本情况及量产部署节奏,并就行业格局做出前瞻性判断。在2026北京国际汽车展览会上首次亮相的Eva Cab,是曹操出行深度参与产品定义和研发的R...",
-      "source": "Fx168News",
-      "date": "2026-04-28",
-      "url": "https://www.fx168news.com/article/1023202"
-    },
-    {
-      "id": "https://www.ithome.com/0/944/688.htm",
-      "title": "预售价 24.58 万元起,蔚来乐道 L80 大五座 SUV 开启预售",
-      "summary": "IT之家 4 月 28 日消息,蔚来旗下乐道汽车全新车型乐道 L80 今日开启预售,新车定位智能双舱大五座旗舰 SUV,与乐道 L90 组成乐道旗舰双子星,并将拥有全球旗舰级智能软硬件。乐道 L80 整车购买预售价 24.58 万元起,电池租用方式购买 15.98 万元起。乐道 L80 展车现已到达全国展厅,5 月 1 日将全面开启试驾体验,5 月 15 日正式上市。 IT之家注意到,外观方面,新...",
+      "id": "https://www.ithome.com/0/945/234.htm",
+      "title": "倍耐力买下 Univrses 30% 股份,加码 AI 轮胎技术",
+      "summary": "IT之家 4 月 29 日消息,意大利轮胎制造商倍耐力于当地时间周三与瑞典公司 Univrses 签署合作协议,收购后者 30% 的股份,并拥有增持至控股多数股权的选择权,旨在将人工智能计算机视觉技术整合至其智能轮胎(Cyber Tyre)系统中。 此次合作将 Univrses 的三维人工智能技术与倍耐力搭载传感器的轮胎系统相结合,既能提升车辆安全性能与自动驾驶能力,也可为交通管理部门提供实时道路...",
       "source": "Ithome",
-      "date": "2026-04-28",
-      "url": "https://www.ithome.com/0/944/688.htm"
+      "date": "2026-04-29",
+      "url": "https://www.ithome.com/0/945/234.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1777381101168772.html",
-      "title": "车展访谈丨上汽大众陶海龙:从不追求“零接管”“长脱手”噱头",
+      "id": "http://baijiahao.baidu.com/s?id=1863813722223155456",
+      "title": "惠、汕、深三地多部门联合开展跨区域海上巡航执法行动",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-29",
+      "url": "http://baijiahao.baidu.com/s?id=1863813722223155456"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777442871129834.html",
+      "title": "航天岛太空科创中心正式发布依托中国首部商业航天员标准与太空育种项目,打造青少年航天探索新地标",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
+      "date": "2026-04-29",
+      "url": "https://www.bjnews.com.cn/detail/1777442871129834.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/945/227.htm",
+      "title": "法拉利“FUV”Purosangue 新增操控套件,令驾驶体验更犀利",
+      "summary": "IT之家 4 月 29 日消息,据外媒 motor1 北京时间今晚报道,法拉利推出了一套全新的操控升级套件,让“FUV”车型 Purosangue 开起来更犀利。 这套升级套件名为 Handling Speciale。重点不在于彻底改变 Purosangue 的性格,而是在保留 GT 长途旅行能力的基础上, 进一步强化性能表现 。简单说,就是让车辆 反应更快、动态更紧绷 。 据IT之家了解,法拉利...",
+      "source": "Ithome",
+      "date": "2026-04-29",
+      "url": "https://www.ithome.com/0/945/227.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/945/217.htm",
+      "title": "以天津为原型城市,国产开放世界驾驶游戏《全速以赴》将于明天公布发售日",
+      "summary": "IT之家 4 月 29 日消息,开发商 AZGames 发文,宣布将于明天中午 12 点公布开放世界驾驶游戏《全速以赴》发售日,本作以天津市为原型,玩家需施展高超的驾驶技术,探索城市的每一条街道,发掘最快的驾驶路线,为自己的客户争取宝贵的时间。 这款游戏目前已经上线 Steam 平台,游戏价格暂未公布。据介绍,这是一款“带有角色扮演与模拟经营元素的开放世界驾驶游戏”,号称地图以天津为原型。官方截图...",
+      "source": "Ithome",
+      "date": "2026-04-29",
+      "url": "https://www.ithome.com/0/945/217.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-29/10613382.shtml",
+      "title": "逐“智”而上破局生长 解码浙江制造“创新方程式”",
+      "summary": "中新网嘉兴4月29日电(黄彦君)AGV小车穿梭自如,AI质检员“眼光如炬”,“工业大脑”在云端实时调度......走进浙江的一处处现代化工厂车间,机器轰鸣、人声鼎沸的传统场景正悄然退场。...",
+      "source": "Chinanews",
+      "date": "2026-04-29",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-29/10613382.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863791199005239550",
+      "title": "沪游简报|当专业课变成一款游戏,学生再也不逃课了",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-29",
+      "url": "http://baijiahao.baidu.com/s?id=1863791199005239550"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863809410938387225",
+      "title": "以匠心铸就“智”造标杆——苏州金龙刘明春荣获全国五..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-29",
+      "url": "http://baijiahao.baidu.com/s?id=1863809410938387225"
+    },
+    {
+      "id": "https://news.seehua.com/post/1476182",
+      "title": "警方展开综合防罪行动 34警员出动开23张罚单",
+      "summary": "(美里29日讯)美里警方展开综合防范罪案行动,共出动34名警员,在区内多个地点同步进行路障检查、巡逻及娱乐场所 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-29",
+      "url": "https://news.seehua.com/post/1476182"
+    },
+    {
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1024305",
+      "title": "拿森智能递表港交所,中国首家L4级无人驾驶线控制动商业化企业-FX168",
+      "summary": "新时空讯:拿森智能科技(浙江)股份有限公司于4月29日递表港交所,海通国际及中银国际担任联席保荐人。公司是专注于线控技术的中国智能驾驶运动控制领导者,是中国首家将电控制动助力解决方案应用于L4级无人驾驶汽车商业化运营的企业。以2024年销量计,公司为中国前三大内资线控制动解决方案供应商之一,且在前五...",
+      "source": "Fx168News",
+      "date": "2026-04-29",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1024305"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777435344129671.html",
+      "title": "中国新能源汽车跨境穿越集结赛(中国段) 新闻发布会在京召开",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-29",
+      "url": "https://www.bjnews.com.cn/detail/1777435344129671.html"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0429/857820.shtml",
+      "title": "直击电混SUV长续航刚需 吉利银河M7远航家来袭",
+      "summary": "对吉利银河而言,M7远航家成为继M9之后的又一款M系列产品,随着产品矩阵的丰富,银河品牌对家用SUV市场的覆盖度进一步扩大。...",
+      "source": "Eeo",
+      "date": "2026-04-29",
+      "url": "http://www.eeo.com.cn/2026/0429/857820.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-29/10613303.shtml",
+      "title": "(投资中国)欧摩威中国区总裁:中国自主品牌汽车已从“跟随者”变为“技术定义者”",
+      "summary": "中新社北京4月29日电 (记者 刘文文)“中国自主品牌汽车已逐渐从‘跟随者’转变为‘技术的定义者’。”欧摩威集团中国区总裁兼首席执行官汤恩在2026(第十九届)北京国际汽车展览会期间接受中新社记者专访时如是说。...",
+      "source": "Chinanews",
+      "date": "2026-04-29",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-29/10613303.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-29/10613273.shtml",
+      "title": "六部委联合发布绿色算力设施榜单 大同绿色算力迈入国家第一梯队",
+      "summary": "中新网大同4月29日电 (胡健 马静波 宋佳烨)记者29日从山西省大同市新闻中心获悉,近期,工业和信息化部、国家发改委等六部委联合发布2025年度国家绿色算力设施榜单,抖音—中联绿色大数据产业基地6号楼入选,跻身全国60个顶尖绿色算力示范项目,标志着大同市的绿色算力基础设施建设、低碳运维能力迈入全国第一梯队。...",
+      "source": "Chinanews",
+      "date": "2026-04-29",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-29/10613273.shtml"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/920437/california-oks-heavy-duty-self-driving-trucks",
+      "title": "California OKs heavy-duty self-driving trucks.",
+      "summary": "For the first time, the state’s Department of Motor Vehicles approved new regulations allowing for the testing and deployment of heavy-duty autonomous trucks. The agency also expanded its current rule...",
+      "source": "The Verge",
+      "date": "2026-04-29",
+      "url": "https://www.theverge.com/transportation/920437/california-oks-heavy-duty-self-driving-trucks"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/tech/technology/china-suspends-new-autonomous-vehicle-permits-after-baidu-outage-report/articleshow/130597669.cms",
+      "title": "China suspends new autonomous vehicle permits after Baidu outage: Report",
+      "summary": "China has pressed the brakes on new permits for self-driving vehicles, marking a pivotal shift in the landscape of autonomous transportation. This decision follows Baidu's unprecedented suspension of ...",
+      "source": "The Economic Times",
+      "date": "2026-04-29",
+      "url": "https://economictimes.indiatimes.com/tech/technology/china-suspends-new-autonomous-vehicle-permits-after-baidu-outage-report/articleshow/130597669.cms"
+    },
+    {
+      "id": "https://www.straitstimes.com/asia/east-asia/china-suspends-new-autonomous-driving-permits-after-baidu-outage",
+      "title": "China suspends new autonomous driving permits after Baidu outage",
+      "summary": "The suspension prevents self-driving companies from adding new robotaxis to their fleets. Read more at straitstimes.com....",
+      "source": "The Straits Times",
+      "date": "2026-04-29",
+      "url": "https://www.straitstimes.com/asia/east-asia/china-suspends-new-autonomous-driving-permits-after-baidu-outage"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/china-suspends-new-autonomous-driving-permits-after-baidu-outage-bloomberg-news-ce7f59d3db8cf222",
+      "title": "China suspends new autonomous driving permits after Baidu outage - Bloomberg News",
+      "summary": "April 28 -\nChina suspends new autonomous driving permits after Baidu outage - Bloomberg News\n......",
+      "source": "MarketScreener",
+      "date": "2026-04-29",
+      "url": "https://www.marketscreener.com/news/china-suspends-new-autonomous-driving-permits-after-baidu-outage-bloomberg-news-ce7f59d3db8cf222"
+    },
+    {
+      "id": "https://www.barchart.com/story/news/1566795/as-pony-ai-unveils-a-new-autonomous-driving-system-should-you-buy-sell-or-hold-pony-stock-here",
+      "title": "As Pony AI Unveils a New Autonomous Driving System, Should You Buy, Sell, or Hold PONY Stock Here?",
+      "summary": "With the rollout of a next-gen autonomous system powered by Nvidia, is PONY a buy, sell, or hold now?...",
+      "source": "Barchart",
       "date": "2026-04-28",
-      "url": "https://www.bjnews.com.cn/detail/1777381101168772.html"
+      "url": "https://www.barchart.com/story/news/1566795/as-pony-ai-unveils-a-new-autonomous-driving-system-should-you-buy-sell-or-hold-pony-stock-here"
     },
     {
       "id": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/roamly-launches-worlds-first-real-time-insurance-for-autonomous-fleets-with-a-50-discount/2330611",
@@ -232,30 +259,6 @@
       "source": "Caixin",
       "date": "2026-04-27",
       "url": "https://www.caixinglobal.com/2026-04-27/tech-brief-april-27-china-tightens-algorithm-governance-to-protect-gig-workers-102438338.html"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/stocks/pony-ai-announces-compute-platform-built-on-nvidia-drive-hyperion-1036063180",
-      "title": "Pony AI announces compute platform built on Nvidia Drive Hyperion",
-      "summary": "Pony AI (PONY) announced its new generation autonomous driving domain controller, a compute system designed for both Pony.ai’s L4 autonomous dri......",
-      "source": "Markets Insider",
-      "date": "2026-04-26",
-      "url": "https://markets.businessinsider.com/news/stocks/pony-ai-announces-compute-platform-built-on-nvidia-drive-hyperion-1036063180"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/26/tmt-newswire/pr-newswire/nexteers-global-first-steer-by-wire-goes-into-production/2328711",
-      "title": "Nexteer's Global First Steer-by-Wire Goes into Production",
-      "summary": "**media[1029504]**BEIJING, April 26, 2026 /PRNewswire/ -- Nexteer Automotive helped a leading Chinese new energy vehicle (NEV) manufacturer bring the world's first production passenger vehicle with a ...",
-      "source": "The Manila Times",
-      "date": "2026-04-26",
-      "url": "https://www.manilatimes.net/2026/04/26/tmt-newswire/pr-newswire/nexteers-global-first-steer-by-wire-goes-into-production/2328711"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/equities/26/04/52050953/pony-ai-advances-l4-ambitions-with-nvidia-based-autonomous-driving-controller",
-      "title": "Pony AI Advances L4 Ambitions With Nvidia-Based Autonomous Driving Controller",
-      "summary": "Pony AI Inc. shares edged higher after unveiling a next-gen Nvidia-powered L4 autonomous driving controller, signaling continued tech progress despite mixed momentum signals....",
-      "source": "Benzinga",
-      "date": "2026-04-25",
-      "url": "https://www.benzinga.com/markets/equities/26/04/52050953/pony-ai-advances-l4-ambitions-with-nvidia-based-autonomous-driving-controller"
     }
   ]
 }
