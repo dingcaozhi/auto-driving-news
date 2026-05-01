@@ -1,184 +1,203 @@
 {
-  "lastUpdated": "2026-04-30 03:50:46",
+  "lastUpdated": "2026-05-01 04:02:10",
   "totalCount": 30,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 4,
-    "Ithome": 3,
-    "Bjnews": 2,
-    "Chinanews": 3,
-    "News_Seehua": 1,
+    "Investing_Cn": 2,
+    "Ithome": 2,
+    "Bjnews": 3,
+    "Prnasia": 1,
+    "News_Baidu": 8,
+    "Chinanews": 1,
     "Fx168News": 1,
-    "Eeo": 1,
+    "News_Seehua": 1,
+    "Jiemian": 1,
+    "GlobeNewswire": 1,
+    "Digital Trends": 1,
     "The Verge": 1,
     "The Economic Times": 1,
     "The Straits Times": 1,
     "MarketScreener": 1,
     "Barchart": 1,
     "The Manila Times": 1,
-    "Caixin": 2,
-    "Benzinga": 2
+    "Caixin": 1,
+    "Benzinga": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV19r9tBiET1",
-      "title": "【B站】电动车也有自动驾驶？",
-      "summary": "买车吗老板...",
-      "source": "Bilibili",
-      "date": "2026-04-30",
-      "url": "https://www.bilibili.com/video/BV19r9tBiET1"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1ga9hB3Edd",
-      "title": "【B站】新能源电站要迈向“自动驾驶”？这事儿到底现实吗？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-04-30",
-      "url": "https://www.bilibili.com/video/BV1ga9hB3Edd"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RJ9bB6Eqy",
-      "title": "【B站】Redis企业版，释放自动驾驶数据潜能",
-      "summary": "如何释放数据潜能、构建AI驱动的自动驾驶实时数据处理与智能筛选平台？Redis企业版，不仅作为缓存，更是实时数据加速层+智能处理中枢，将数据在产生的同时就纳入可计算、可分析、可筛选的体系中，驱动自动驾驶数据闭环。...",
-      "source": "Bilibili",
-      "date": "2026-04-30",
-      "url": "https://www.bilibili.com/video/BV1RJ9bB6Eqy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1B4rsBKE48",
-      "title": "【B站】2026年本科机械毕业设计选题分享：汽车线控转向系统设计电子转向执行器/L3级自动驾驶转向模块/路感模拟反馈装置/转向异响抑制机构/X-by-Wire线控底盘核",
-      "summary": "视频简介：\n3000+机械毕设资源库，覆盖全领域！ 车辆工程/机械自动化专业同学注意！持续更新 开题报告+论文+CAD/三维模型 全套资源（含 传统机械、智能网联汽车、机器人系统），一键三连+关注 解锁宝藏！往期热门选题：固态电池热管理、太阳能跟踪机构、机床排屑装置、驾驶室防滚翻系统、履带机器人.....",
-      "source": "Bilibili",
-      "date": "2026-04-30",
-      "url": "https://www.bilibili.com/video/BV1B4rsBKE48"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1xXdSBxEWt",
-      "title": "【B站】吹了那么多年的智驾，自动驾驶离我们到底还有多远？",
-      "summary": "有什么疑问请弹幕留言\n嗷！别忘了点赞三连\n———————————————\n\n从实验室的最高机密，到你指尖的触手可及，中国材料学经历了什么？BV1AVmEBVEiX\n为什么豪车都在标配四驱？普通人真的需要四驱么？BV14KYAzQE3i...",
-      "source": "Bilibili",
-      "date": "2026-04-30",
-      "url": "https://www.bilibili.com/video/BV1xXdSBxEWt"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863816491484942329",
-      "title": "现代自动驾驶汽车之父塞巴斯蒂安·特龙:未来5至10..",
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3341674",
+      "title": "赫兹股价因与优步自动驾驶车队合作而飙升21%",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-29",
-      "url": "http://baijiahao.baidu.com/s?id=1863816491484942329"
+      "source": "Investing_Cn",
+      "date": "2026-04-30",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3341674"
     },
     {
-      "id": "https://www.ithome.com/0/945/234.htm",
-      "title": "倍耐力买下 Univrses 30% 股份,加码 AI 轮胎技术",
-      "summary": "IT之家 4 月 29 日消息,意大利轮胎制造商倍耐力于当地时间周三与瑞典公司 Univrses 签署合作协议,收购后者 30% 的股份,并拥有增持至控股多数股权的选择权,旨在将人工智能计算机视觉技术整合至其智能轮胎(Cyber Tyre)系统中。 此次合作将 Univrses 的三维人工智能技术与倍耐力搭载传感器的轮胎系统相结合,既能提升车辆安全性能与自动驾驶能力,也可为交通管理部门提供实时道路...",
+      "id": "https://www.ithome.com/0/945/750.htm",
+      "title": "加州新规:警察能给无人驾驶汽车开罚单了",
+      "summary": "IT之家 4 月 30 日消息,据外媒 The Verge 报道,今年 7 月 1 日起,自动驾驶车辆在加州也不能再免罚了。 加州机动车辆管理局本周公布新规,今后如果自动驾驶汽车出现交通违法,执法部门可以 向车企发出“自动驾驶车辆违规通知” 。据IT之家了解,适用情形包括 闯红灯、遇到校车未按规定停车 等。 这项新规出台前,自动驾驶出租车已经多次因为交通违法视频引发关注,也卷入过多起安全调查。特斯...",
       "source": "Ithome",
-      "date": "2026-04-29",
-      "url": "https://www.ithome.com/0/945/234.htm"
+      "date": "2026-04-30",
+      "url": "https://www.ithome.com/0/945/750.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863813722223155456",
-      "title": "惠、汕、深三地多部门联合开展跨区域海上巡航执法行动",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-04-29",
-      "url": "http://baijiahao.baidu.com/s?id=1863813722223155456"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1777442871129834.html",
-      "title": "航天岛太空科创中心正式发布依托中国首部商业航天员标准与太空育种项目,打造青少年航天探索新地标",
+      "id": "https://www.bjnews.com.cn/detail/1777561456169470.html",
+      "title": "车展访谈丨浩思动力赵福成:推动中国供应链走向海外",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-04-29",
-      "url": "https://www.bjnews.com.cn/detail/1777442871129834.html"
+      "date": "2026-04-30",
+      "url": "https://www.bjnews.com.cn/detail/1777561456169470.html"
     },
     {
-      "id": "https://www.ithome.com/0/945/227.htm",
-      "title": "法拉利“FUV”Purosangue 新增操控套件,令驾驶体验更犀利",
-      "summary": "IT之家 4 月 29 日消息,据外媒 motor1 北京时间今晚报道,法拉利推出了一套全新的操控升级套件,让“FUV”车型 Purosangue 开起来更犀利。 这套升级套件名为 Handling Speciale。重点不在于彻底改变 Purosangue 的性格,而是在保留 GT 长途旅行能力的基础上, 进一步强化性能表现 。简单说,就是让车辆 反应更快、动态更紧绷 。 据IT之家了解,法拉利...",
-      "source": "Ithome",
-      "date": "2026-04-29",
-      "url": "https://www.ithome.com/0/945/227.htm"
+      "id": "https://www.bjnews.com.cn/detail/1777521261129604.html",
+      "title": "2025年我国民用无人机整机总产值1761亿元",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-30",
+      "url": "https://www.bjnews.com.cn/detail/1777521261129604.html"
     },
     {
-      "id": "https://www.ithome.com/0/945/217.htm",
-      "title": "以天津为原型城市,国产开放世界驾驶游戏《全速以赴》将于明天公布发售日",
-      "summary": "IT之家 4 月 29 日消息,开发商 AZGames 发文,宣布将于明天中午 12 点公布开放世界驾驶游戏《全速以赴》发售日,本作以天津市为原型,玩家需施展高超的驾驶技术,探索城市的每一条街道,发掘最快的驾驶路线,为自己的客户争取宝贵的时间。 这款游戏目前已经上线 Steam 平台,游戏价格暂未公布。据介绍,这是一款“带有角色扮演与模拟经营元素的开放世界驾驶游戏”,号称地图以天津为原型。官方截图...",
-      "source": "Ithome",
-      "date": "2026-04-29",
-      "url": "https://www.ithome.com/0/945/217.htm"
+      "id": "https://www.bjnews.com.cn/detail/1777554391169456.html",
+      "title": "外卖骑手送餐被撞致一级伤残,法院判决职业伤害与侵权赔偿可兼得",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-30",
+      "url": "https://www.bjnews.com.cn/detail/1777554391169456.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-29/10613382.shtml",
-      "title": "逐“智”而上破局生长 解码浙江制造“创新方程式”",
-      "summary": "中新网嘉兴4月29日电(黄彦君)AGV小车穿梭自如,AI质检员“眼光如炬”,“工业大脑”在云端实时调度......走进浙江的一处处现代化工厂车间,机器轰鸣、人声鼎沸的传统场景正悄然退场。...",
+      "id": "https://www.prnasia.com/story/531582-1.shtml",
+      "title": "2026FE电动方程式柏林站:重返传奇的滕珀尔霍夫机场赛道",
+      "summary": "德国柏林 2026年4月30日 /美通社/ -- ABB国际汽联电动方程式世界锦标赛本周末重返标志性的滕珀尔霍夫机场,迎来2025/26赛季第7轮和第8轮的较量。20位世界级车手将再次驾驶GEN3 Evo赛车在这条赛道上飞驰,这项电动单座赛车锦标赛也将连续第十二年回到德国首都。 FE重返柏林滕珀尔霍夫机场赛道 凭借在柏林十多年的办赛历史,20位车手将力争重现过去在德国首都举行的20场比赛中的精彩瞬...",
+      "source": "Prnasia",
+      "date": "2026-04-30",
+      "url": "https://www.prnasia.com/story/531582-1.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863905230418698184",
+      "title": "神仙工作?浙江月薪八千招聘“驻岛护獭”,工作人员:..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-30",
+      "url": "http://baijiahao.baidu.com/s?id=1863905230418698184"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/04-30/10614113.shtml",
+      "title": "荣誉映初心 奋进新征程——回访2025年全国劳动模范",
+      "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-04-29",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-29/10613382.shtml"
+      "date": "2026-04-30",
+      "url": "https://www.chinanews.com.cn/gn/2026/04-30/10614113.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863791199005239550",
-      "title": "沪游简报|当专业课变成一款游戏,学生再也不逃课了",
+      "id": "http://baijiahao.baidu.com/s?id=1863898736598618649",
+      "title": "五一出行必看!上海之鱼停车提示及游览车路线表请查收..",
+      "summary": "五一小长假将至,不少市民计划前往上海之鱼休闲游玩、踏青赏景。在此温馨提醒广大游客,出行前务必了解最新交通管理规定、环上海之鱼游览车安排及周边停车信息,文明出行、顺畅游玩,度过舒适愉快的假期。五一小长假期间前往上海之鱼游玩...",
+      "source": "News_Baidu",
+      "date": "2026-04-30",
+      "url": "http://baijiahao.baidu.com/s?id=1863898736598618649"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863900566113041885",
+      "title": "具身智能“中联方案”领秀顶级盛会!中联重科亮相20..",
+      "summary": "2026汉诺威工业博览会近期在德国汉诺威展览中心盛大开幕。在这场全球工业技术领域极具影响力的顶级盛会上,中联重科旗下中科云谷自主研发的具身智能操作系统RobotOps、新款人形机器人及AI原生的智能制...",
+      "source": "News_Baidu",
+      "date": "2026-04-30",
+      "url": "http://baijiahao.baidu.com/s?id=1863900566113041885"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863890319401314625",
+      "title": "5月1日起 民用无人驾驶航空器等1071项国标开始..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-04-29",
-      "url": "http://baijiahao.baidu.com/s?id=1863791199005239550"
+      "date": "2026-04-30",
+      "url": "http://baijiahao.baidu.com/s?id=1863890319401314625"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863809410938387225",
-      "title": "以匠心铸就“智”造标杆——苏州金龙刘明春荣获全国五..",
-      "summary": "NewsData报道",
+      "id": "http://baijiahao.baidu.com/s?id=1863901729215579092",
+      "title": "追光的你|获得“最美职工”的她,用热爱与终身学习拥..",
+      "summary": "在“五一”国际劳动节来临之际,中央宣传部、全国总工会向全社会发布2026年“最美职工”先进事迹,星逻人工智能技术(上海)有限公司首席科学家肖素枝光荣入选。得知消息后,她十分平静:“我只是把每个任务、把工作做好,在快速变化...",
       "source": "News_Baidu",
-      "date": "2026-04-29",
-      "url": "http://baijiahao.baidu.com/s?id=1863809410938387225"
+      "date": "2026-04-30",
+      "url": "http://baijiahao.baidu.com/s?id=1863901729215579092"
     },
     {
-      "id": "https://news.seehua.com/post/1476182",
-      "title": "警方展开综合防罪行动 34警员出动开23张罚单",
-      "summary": "(美里29日讯)美里警方展开综合防范罪案行动,共出动34名警员,在区内多个地点同步进行路障检查、巡逻及娱乐场所 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-29",
-      "url": "https://news.seehua.com/post/1476182"
-    },
-    {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1024305",
-      "title": "拿森智能递表港交所,中国首家L4级无人驾驶线控制动商业化企业-FX168",
-      "summary": "新时空讯:拿森智能科技(浙江)股份有限公司于4月29日递表港交所,海通国际及中银国际担任联席保荐人。公司是专注于线控技术的中国智能驾驶运动控制领导者,是中国首家将电控制动助力解决方案应用于L4级无人驾驶汽车商业化运营的企业。以2024年销量计,公司为中国前三大内资线控制动解决方案供应商之一,且在前五...",
+      "id": "https://www.fx168news.com/article/1025388",
+      "title": "今日晚间重要公告抢先看——五粮液调整2025年前三季财报,全年净利降超七成;巨人网络因关联交易被出具警示函;江淮汽车称拟投资引望智能技术有限公司-FX168",
+      "summary": "今日晚间重要公告抢先看——五粮液:2025年净利润89.54亿元 同比下降71.89% 拟10派25.78元;巨人网络:收到重庆证监局行政监管措施决定书;江淮汽车:拟投资引望智能技术有限公司 后者主要股东华为持股80%;中芯国际:上交所并购重组审核委员会定于5月11日审议公司发行股...",
       "source": "Fx168News",
-      "date": "2026-04-29",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1024305"
+      "date": "2026-04-30",
+      "url": "https://www.fx168news.com/article/1025388"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1777435344129671.html",
-      "title": "中国新能源汽车跨境穿越集结赛(中国段) 新闻发布会在京召开",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-29",
-      "url": "https://www.bjnews.com.cn/detail/1777435344129671.html"
+      "id": "https://news.seehua.com/post/1476839",
+      "title": "逆向驾驶案被告今早判刑 中国籍董事午后突告不治",
+      "summary": "(双溪大年30日讯)因逆向行驶被控危险驾驶并于今早认罪判刑的中国籍公司董事鹿讯,在完成法庭程序后不久突告不治。 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-30",
+      "url": "https://news.seehua.com/post/1476839"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0429/857820.shtml",
-      "title": "直击电混SUV长续航刚需 吉利银河M7远航家来袭",
-      "summary": "对吉利银河而言,M7远航家成为继M9之后的又一款M系列产品,随着产品矩阵的丰富,银河品牌对家用SUV市场的覆盖度进一步扩大。...",
-      "source": "Eeo",
-      "date": "2026-04-29",
-      "url": "http://www.eeo.com.cn/2026/0429/857820.shtml"
+      "id": "http://baijiahao.baidu.com/s?id=1863899545464424320",
+      "title": "大方县八堡乡:“四个到位”筑牢学生上下学交通安全防..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-30",
+      "url": "http://baijiahao.baidu.com/s?id=1863899545464424320"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-29/10613303.shtml",
-      "title": "(投资中国)欧摩威中国区总裁:中国自主品牌汽车已从“跟随者”变为“技术定义者”",
-      "summary": "中新社北京4月29日电 (记者 刘文文)“中国自主品牌汽车已逐渐从‘跟随者’转变为‘技术的定义者’。”欧摩威集团中国区总裁兼首席执行官汤恩在2026(第十九届)北京国际汽车展览会期间接受中新社记者专访时如是说。...",
-      "source": "Chinanews",
-      "date": "2026-04-29",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-29/10613303.shtml"
+      "id": "http://baijiahao.baidu.com/s?id=1863872263373463624",
+      "title": "麻武高速隧道群提质升级,全力护航“五一”平安出行",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-04-30",
+      "url": "http://baijiahao.baidu.com/s?id=1863872263373463624"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-29/10613273.shtml",
-      "title": "六部委联合发布绿色算力设施榜单 大同绿色算力迈入国家第一梯队",
-      "summary": "中新网大同4月29日电 (胡健 马静波 宋佳烨)记者29日从山西省大同市新闻中心获悉,近期,工业和信息化部、国家发改委等六部委联合发布2025年度国家绿色算力设施榜单,抖音—中联绿色大数据产业基地6号楼入选,跻身全国60个顶尖绿色算力示范项目,标志着大同市的绿色算力基础设施建设、低碳运维能力迈入全国第一梯队。...",
-      "source": "Chinanews",
+      "id": "https://www.jiemian.com/article/14332201.html",
+      "title": "【深度】被挤占的人行道,被忽视的行人路权:城市规划应优先谁?",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-04-30",
+      "url": "https://www.jiemian.com/article/14332201.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3341035",
+      "title": "突发!600亿游戏股及董事长等被出具警示函|盘后公告集锦",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-04-30",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3341035"
+    },
+    {
+      "id": "https://www.ithome.com/0/945/705.htm",
+      "title": "高通称年内将向大型云服务商出货数据中心芯片,股价大涨 16%",
+      "summary": "IT之家 4 月 30 日消息,周三盘后,高通股价上演惊天逆转。首席执行官安蒙(Cristiano Amon)在财报电话会议上表示,公司将在本年度内开始向一家大型超大规模云服务商出货数据中心芯片。 IT之家注意到,这家芯片制造商公布的第二季度财报利润超出华尔街预期,但未来业绩指引不及市场预期,导致其股价起初一度暴跌 7%。 安蒙并未透露这家客户的具体身份,但表示更多细节将在 6 月举办的高通投资者...",
+      "source": "Ithome",
+      "date": "2026-04-30",
+      "url": "https://www.ithome.com/0/945/705.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863895158060596445",
+      "title": "商汤打响物理智能第一枪:SenseNova U1性..",
+      "summary": "商汤科技近日发布并开源日日新SenseNovaU1系列原生理解生成统一模型。SenseNovaU1基于商汤在今年3月自主研发的NEO-unify架构,在单一模型架构上统一了多模态理解、推理与生成。...",
+      "source": "News_Baidu",
+      "date": "2026-04-30",
+      "url": "http://baijiahao.baidu.com/s?id=1863895158060596445"
+    },
+    {
+      "id": "https://www.globenewswire.com/news-release/2026/04/30/3284574/0/en/weride-to-report-first-quarter-2026-financial-results-on-wednesday-may-13-2026.html",
+      "title": "WeRide to Report First Quarter 2026 Financial Results on",
+      "summary": "NEW YORK, April 30, 2026 (GLOBE NEWSWIRE) -- WeRide Inc. (“WeRide” or the “Company”) (Nasdaq: WRD; HKEX: 0800), a global leader in autonomous driving......",
+      "source": "GlobeNewswire",
+      "date": "2026-04-30",
+      "url": "https://www.globenewswire.com/news-release/2026/04/30/3284574/0/en/weride-to-report-first-quarter-2026-financial-results-on-wednesday-may-13-2026.html"
+    },
+    {
+      "id": "https://www.digitaltrends.com/cars/tesla-promises-hw3-owners-a-lite-version-of-fsd-but-its-months-away/",
+      "title": "Tesla promises HW3 owners a lite version of FSD, but its months away",
+      "summary": "Tesla's HW3 owners paid up to €6,400 for autonomous driving. Seven years later, what's on offer is a supervised, stripped-down update that still requires a human behind the wheel....",
+      "source": "Digital Trends",
       "date": "2026-04-29",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-29/10613273.shtml"
+      "url": "https://www.digitaltrends.com/cars/tesla-promises-hw3-owners-a-lite-version-of-fsd-but-its-months-away/"
     },
     {
       "id": "https://www.theverge.com/transportation/920437/california-oks-heavy-duty-self-driving-trucks",
@@ -243,22 +262,6 @@
       "source": "Benzinga",
       "date": "2026-04-27",
       "url": "https://www.benzinga.com/markets/tech/26/04/52058166/pony-ai-stock-rises-after-nvidia-powered-tech-reveal"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/52053954/deeproute-ai-300000-cars-assisted-driving-system-china-alibaba-backed",
-      "title": "Alibaba-Backed DeepRoute.ai Says More Than 300,000 Cars Now Use Its Assisted-Driving System Across Chines",
-      "summary": "Alibaba-backed DeepRoute.ai has over 300,000 cars with its autonomous driving system on Chinese roads, aiming for 1 million this year....",
-      "source": "Benzinga",
-      "date": "2026-04-27",
-      "url": "https://www.benzinga.com/markets/tech/26/04/52053954/deeproute-ai-300000-cars-assisted-driving-system-china-alibaba-backed"
-    },
-    {
-      "id": "https://www.caixinglobal.com/2026-04-27/tech-brief-april-27-china-tightens-algorithm-governance-to-protect-gig-workers-102438338.html",
-      "title": "Tech Brief (April 27): China Tightens Algorithm Governance to Protect Gig Workers",
-      "summary": "Tech Brief (April 27): China Tightens Algorithm Governance to Protect Gig Workers - Pony.ai unveils Nvidia-powered autonomous driving domain controller, Moore Threads posts 155% revenue jump in first ...",
-      "source": "Caixin",
-      "date": "2026-04-27",
-      "url": "https://www.caixinglobal.com/2026-04-27/tech-brief-april-27-china-tightens-algorithm-governance-to-protect-gig-workers-102438338.html"
     }
   ]
 }
