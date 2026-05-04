@@ -1,17 +1,15 @@
 {
-  "lastUpdated": "2026-05-03 03:57:41",
+  "lastUpdated": "2026-05-04 03:54:36",
   "totalCount": 30,
   "sources": {
-    "Imobile": 1,
-    "News_Baidu": 10,
-    "Mixvale": 1,
-    "Bjnews": 1,
     "Chinanews": 2,
-    "Orientaldaily": 1,
-    "News_Seehua": 1,
+    "Zaobao": 2,
+    "News_Baidu": 10,
+    "Ithome": 1,
+    "Cri_Cn": 2,
     "Rfi_Fr": 1,
-    "Eeo": 1,
-    "Newscase": 1,
+    "Smzdm": 1,
+    "Jiemian": 1,
     "India Today": 1,
     "Benzinga": 1,
     "The Manila Times": 1,
@@ -25,164 +23,164 @@
   },
   "news": [
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0502/234340.shtml",
-      "title": "倍耐力将强化道路网络监测及自动驾驶领域的解决方案",
-      "summary": "2026年4月30日 —— 倍耐力与瑞典公司 Univrses签署协议,将基于人工智能的计算机视觉技术整合 至 倍耐力 Cyber TM轮胎 系统。根据该协议,倍耐力已收购这家瑞典公司 30%的股权(并有权增持至多数股权),Univrses的3DAITM 技术将被集成到倍耐力CyberTM 轮胎 系统解决方案中。 Univrses与倍耐力双方技术的结合将带来更安全、性能 表现更好 的车辆,在高级驾...",
-      "source": "Imobile",
-      "date": "2026-05-02",
-      "url": "http://news.imobile.com.cn/articles/2026/0502/234340.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864035495136576245",
-      "title": "跨界资本加速涌入,具身智能数据采集成风口",
-      "summary": "为了保证数据采集的进度,王会军的公司在五一假期仍然照常开工。王会军从事数据采集已经10年了,承接过安防、自动驾驶等多类订单。去年年底,察觉到具身智能数据需求的爆发,他立即决定组建团队进入这一赛道。到了...",
-      "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864035495136576245"
-    },
-    {
-      "id": "https://www.mixvale.com.br/2026/05/02/%E5%85%B0%E5%A4%9A%C2%B7%E8%AF%BA%E9%87%8C%E6%96%AF-lando-norris-%E5%9C%A8%E8%BF%88%E9%98%BF%E5%AF%86%E5%A4%A7%E5%A5%96%E8%B5%9B%E5%86%B2%E5%88%BA%E8%B5%9B%E4%B8%AD%E5%8F%96%E5%BE%97%E6%9D%86-zh-cn/",
-      "title": "兰多·诺里斯 (Lando Norris) 在迈阿密大奖赛冲刺赛中取得杆位并确定发车位置",
-      "summary": "2026 年一级方程式赛季第四赛段将于本周末在美国举行。兰多·诺里斯(Lando Norris)在周五的排位赛后获得了冲刺赛的杆位。巴西人加布里埃尔·博尔托莱托 (Gabriel Bortoleto) 将从第 11 名起步。 迈阿密国际赛道将于本周六举办这场比赛。短程赛共 19 圈,为争夺冠军提供额外积分。周日比赛的主要排位赛将于今天下午晚些时候举行。 冲刺起跑排位让迈凯伦领先 兰多·诺里斯的成绩...",
-      "source": "Mixvale",
-      "date": "2026-05-02",
-      "url": "https://www.mixvale.com.br/2026/05/02/%E5%85%B0%E5%A4%9A%C2%B7%E8%AF%BA%E9%87%8C%E6%96%AF-lando-norris-%E5%9C%A8%E8%BF%88%E9%98%BF%E5%AF%86%E5%A4%A7%E5%A5%96%E8%B5%9B%E5%86%B2%E5%88%BA%E8%B5%9B%E4%B8%AD%E5%8F%96%E5%BE%97%E6%9D%86-zh-cn/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864080556512617985",
-      "title": "藏族动车司机能周尼玛:川青铁路铺到我的家乡,也铺进..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864080556512617985"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864073897681427740",
-      "title": "“累是累一点,但很开心”,湘潭女白领辞职进山飞无人..",
-      "summary": "“吊猪上山理论上是可行的,但生猪会晃动,作业难度会更高,尽量不要吊运生猪,安全第一。”说起前阵子很火的用无人机将整只猪吊运上山视频,湘潭“85后”女飞手陈芮宁这样说。...",
-      "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864073897681427740"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1777724087169486.html",
-      "title": "现在流行边玩边看车,汽车品牌店假期客流量与成交量攀升",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-02",
-      "url": "https://www.bjnews.com.cn/detail/1777724087169486.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864070002804052213",
-      "title": "后怕!男子酒后开智驾在马路中央睡着,双手完全脱离方..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864070002804052213"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-02/10614944.shtml",
-      "title": "重庆会展经济观察:一个展馆 双面“五一” 多元消费",
-      "summary": "NewsData报道",
+      "id": "https://www.chinanews.com.cn/ty/2026/05-03/10615303.shtml",
+      "title": "世界超级摩托车锦标赛匈牙利站:张雪机车两回合正赛共获一冠",
+      "summary": "中新社北京5月3日电 当地时间5月3日,2026赛季世界超级摩托车锦标赛(WSBK)匈牙利站WorldSSP组别完赛。当日的第二回合正赛中,中国摩托车制造商“张雪机车”的法国车手瓦伦丁·德比斯退赛。“张雪机车”在匈牙利站共收获一冠。...",
       "source": "Chinanews",
-      "date": "2026-05-02",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-02/10614944.shtml"
+      "date": "2026-05-03",
+      "url": "https://www.chinanews.com.cn/ty/2026/05-03/10615303.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1864077932935898327",
-      "title": "普法 | 假期多“诱惑” 守法不踩坑",
-      "summary": "来源 | 静安检察五一假期欢乐开启!踏青出游、宅家网购、美食聚餐热度升温,各类安全隐患和法律风险也随之暗藏。静安区检察院聚焦出行游玩、景区打卡、餐饮安全、线上购物热门场景,结合办理的真实案件,贴心送上假期法治安全提醒,以...",
-      "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864077932935898327"
+      "id": "https://www.zaobao.com.sg/news/sports/story20260503-8991426",
+      "title": "前F1赛车手兼残奥四金传奇 扎纳尔迪去世",
+      "summary": "(罗马法新电)意大利前一级方程式(F1)赛车手、在事故中失去双腿后成为残奥会冠军的亚历克斯·扎纳尔迪(Alex Zanardi)于星期五(5月1日)去世,终年59岁。...",
+      "source": "Zaobao",
+      "date": "2026-05-03",
+      "url": "https://www.zaobao.com.sg/news/sports/story20260503-8991426"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/05/02/815625",
-      "title": "疑遭皮卡撞后逃 28岁骑士伤重不治",
-      "summary": "(民都鲁2日讯)男子骑摩哆途中,疑遭一辆不明皮卡从后撞击,导致重伤送院后不治,警方目前正全力追查涉案车辆下落。这起死亡车祸于昨天晚上7时许,在民美路14哩发生,死者被证实为现年28岁的伊班裔男子詹姆斯。据了解,事发时男子独自骑行摩哆,朝美里方向行驶,途中疑遭一辆皮卡车从后方撞击,导致重伤。伤者随后被紧急送往民都鲁医院抢救,惟于当晚9时许伤重不治。男子被抬上救护车后送往医院抢救。警方表示,目前仍在追...",
-      "source": "Orientaldaily",
-      "date": "2026-05-02",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/05/02/815625"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864076923783846904",
-      "title": "大庆交警假期坚守不停歇 最美“警”色暖心守护出行路",
+      "id": "http://baijiahao.baidu.com/s?id=1863990888438065418",
+      "title": "全国首位C919女机长顺利完成首飞",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864076923783846904"
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1863990888438065418"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863881386264856791",
-      "title": "智云上海智惠应用点亮上海“模都”新图景",
+      "id": "http://baijiahao.baidu.com/s?id=1864172019637574885",
+      "title": "践行“枫桥经验” 守护辖区平安——记三都公安都江派..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1863881386264856791"
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864172019637574885"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-02/10614882.shtml",
-      "title": "记者体验动车模拟驾驶:一个“小白”的忙乱与背后的“差之毫厘”",
+      "id": "http://baijiahao.baidu.com/s?id=1864156450289419525",
+      "title": "日均流量170万辆,杭州公安交警发布“五一”返程提..",
       "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-05-02",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-02/10614882.shtml"
+      "source": "News_Baidu",
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864156450289419525"
     },
     {
-      "id": "https://news.seehua.com/post/1477720",
-      "title": "陆路交通局公布一位与两位数车牌竞标结果",
-      "summary": "(汶莱斯市2日讯)陆路交通局谨此通知公众,通过NomborKu:Click-and-Bid投标的一位与两位数车 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-02",
-      "url": "https://news.seehua.com/post/1477720"
+      "id": "http://baijiahao.baidu.com/s?id=1864161717663204221",
+      "title": "公交车厢生日送温情 劳模爱心护航少年成长",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864161717663204221"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260502-%E7%BE%8E%E8%8F%B2-%E8%82%A9%E5%B9%B6%E8%82%A9-%E5%86%9B%E6%BC%94nmesis%E5%8F%8D%E8%88%B0%E5%AF%BC%E5%BC%B9%E8%BF%9B%E9%A9%BB%E5%B7%B4%E4%B8%B9%E7%BE%A4%E5%B2%9B-%E8%B7%9D%E5%8F%B0160%E5%85%AC%E9%87%8C",
-      "title": "美菲“肩并肩”军演NMESIS反舰导弹进驻巴丹群岛 距台160公里",
-      "summary": "菲美两国军队周六在靠近台湾的菲律宾北部巴丹群岛省举行年度军事演习期间,展示了“海军-海军陆战队远征舰船拦截系统”(NMESIS)反舰导弹系统。...",
+      "id": "http://baijiahao.baidu.com/s?id=1864048930618278394",
+      "title": "视频丨撕开岸滩防线!两栖突击车战斗力加速生成",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864048930618278394"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1864158397335008514",
+      "title": "追风的青春——走近空军与清华大学联合培养“双学籍”..",
+      "summary": "空军与清华大学联合培养“双学籍”飞行学员 新华社北京5月3日电题:追风的青春——走近空军与清华大学联合培养“双学籍”飞行学员新华社记者高玉娇春风拂过清华园。天空与大地急速交替,唐晓峰紧攥把手,在旋梯...",
+      "source": "News_Baidu",
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864158397335008514"
+    },
+    {
+      "id": "https://www.ithome.com/0/946/141.htm",
+      "title": "通用汽车称数字订阅服务被严重低估:Super Cruise 辅助驾驶续订率近 40%,每用户平均贡献 20 美元月营收",
+      "summary": "IT之家 5 月 3 日消息,对于如今的各大车企而言,仅将精力集中在整车制造方面已远远不够,部分车企只计算硬件收入甚至处于亏损状态。这也促使更多车企不断从“卖车即交割”转变为“全生命周期服务”,加强供应链整合、汽车金融、售后、周边、基础充电设施及数字订阅服务的核心优先级。 据分析师估算,如果车企从生产一辆汽车中获得的净利润约为 10%,那么通过互联功能和辅助驾驶技术,其毛利率则可能超过 70%,这...",
+      "source": "Ithome",
+      "date": "2026-05-03",
+      "url": "https://www.ithome.com/0/946/141.htm"
+    },
+    {
+      "id": "https://news.cri.cn/20260503/99abd9ac-7b55-9b05-7bf6-1a4b79f02b2b.html",
+      "title": "科创青年说丨“旧秤砣”变身“电子秤”:看这支青年突击队的“空中创新”-国际在线",
+      "summary": "直升机舱内,操纵系统测试人员将刚度间隙测试仪固定在操纵杆上,推动测试仪的受力部位,指针微微晃动。他将眼睛对准孔径,观察两个仪表盘上的数值——力的大小和因此而产生的角位移。 刚度间隙测试仪是为了测量驾驶员对操纵杆施加的力与对应操纵杆角位...",
+      "source": "Cri_Cn",
+      "date": "2026-05-03",
+      "url": "https://news.cri.cn/20260503/99abd9ac-7b55-9b05-7bf6-1a4b79f02b2b.html"
+    },
+    {
+      "id": "https://news.cri.cn/20260503/205fa3fc-7a83-49b3-8bff-1e310a172df5.html",
+      "title": "记者手记|从开普敦酒庄到中国餐桌——“零关税”东风下南非葡萄酒迎来“新酿时刻”-国际在线",
+      "summary": "新华社开普敦5月3日电(记者王雷 王晓梅 邓冰雪)南半球初秋的清晨,在距离南非立法首都开普敦市中心约30公里的黛眉斯多酒庄内,装瓶生产线发出低沉的轰鸣声。收获季刚刚结束,但酒庄依然在紧锣密鼓地运转着。空瓶被叉车运送到生产线清洗并灌装新鲜...",
+      "source": "Cri_Cn",
+      "date": "2026-05-03",
+      "url": "https://news.cri.cn/20260503/205fa3fc-7a83-49b3-8bff-1e310a172df5.html"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260503-%E4%B8%AD%E6%96%B9%E6%8C%875%E5%90%8D%E8%8F%B2%E4%BA%BA%E5%91%98%E7%99%BB%E4%B8%8A%E9%93%81%E7%BA%BF%E7%A4%81%E6%B4%BB%E5%8A%A8%E9%81%AD%E5%A4%84%E7%BD%AE-%E8%8F%B2%E6%B5%B7%E8%AD%A6%E7%A7%B0%E7%9B%91%E6%B5%8B%E9%A9%B1%E7%A6%BB%E4%B8%AD%E5%9B%BD%E7%A7%91%E8%80%83%E8%88%B9",
+      "title": "中方指5名菲人员登上铁线礁活动遭处置 菲海警称监测驱离中国科考船",
+      "summary": "周日,中国海警指责菲律宾派遣人员登陆南中国海争议岛礁。同日,菲律宾海岸警卫队称,发现四艘中国科考船在菲水域附近活动,并认定这些科考船未经菲方许可进行“非法海洋科学研究”。...",
       "source": "Rfi_Fr",
-      "date": "2026-05-02",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260502-%E7%BE%8E%E8%8F%B2-%E8%82%A9%E5%B9%B6%E8%82%A9-%E5%86%9B%E6%BC%94nmesis%E5%8F%8D%E8%88%B0%E5%AF%BC%E5%BC%B9%E8%BF%9B%E9%A9%BB%E5%B7%B4%E4%B8%B9%E7%BE%A4%E5%B2%9B-%E8%B7%9D%E5%8F%B0160%E5%85%AC%E9%87%8C"
+      "date": "2026-05-03",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260503-%E4%B8%AD%E6%96%B9%E6%8C%875%E5%90%8D%E8%8F%B2%E4%BA%BA%E5%91%98%E7%99%BB%E4%B8%8A%E9%93%81%E7%BA%BF%E7%A4%81%E6%B4%BB%E5%8A%A8%E9%81%AD%E5%A4%84%E7%BD%AE-%E8%8F%B2%E6%B5%B7%E8%AD%A6%E7%A7%B0%E7%9B%91%E6%B5%8B%E9%A9%B1%E7%A6%BB%E4%B8%AD%E5%9B%BD%E7%A7%91%E8%80%83%E8%88%B9"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1864052481217660714",
-      "title": "「云边路」在森林的郊区|甫跃辉",
+      "id": "http://baijiahao.baidu.com/s?id=1864172054911091520",
+      "title": "“五一”去哪?沈阳法库“飞机工程2.0航空科技营”..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864052481217660714"
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864172054911091520"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0502/861770.shtml",
-      "title": "独立供应商抢滩智能汽车技术底座 | 车展观察",
-      "summary": "随着整零关系的重构,由独立科技供应商定义智能体验并与车企共创,已成为不可逆的趋势。关于成本、效率与全球化能力的系统级对决也将全面展开,对全球汽车产业格局的影响将以超越预期的速度显现。...",
-      "source": "Eeo",
-      "date": "2026-05-02",
-      "url": "http://www.eeo.com.cn/2026/0502/861770.shtml"
+      "id": "http://baijiahao.baidu.com/s?id=1864148457677464688",
+      "title": "记者手记|从开普敦酒庄到中国餐桌——“零关税”东风..",
+      "summary": "新华社开普敦5月3日电(记者王雷 王晓梅 邓冰雪)南半球初秋的清晨,在距离南非立法首都开普敦市中心约30公里的黛眉斯多酒庄内,装瓶生产线发出低沉的轰鸣声。收获季刚刚结束,但酒庄依然在紧锣密鼓地运转着。...",
+      "source": "News_Baidu",
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864148457677464688"
     },
     {
-      "id": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%A4%A7%E5%94%90%E6%95%91%E8%B5%8E%EF%BC%9A60%E5%B0%8F%E6%97%B6%E8%AE%A2%E5%8D%95%E7%A0%B46%E4%B8%87%EF%BC%8C%E4%BD%86%E5%88%A9%E6%B6%A6/",
-      "title": "比亚迪的“大唐”救赎:60小时订单破6万,但利润下滑的阴影仍未散去",
-      "summary": "一边是净利润同比暴跌55%至40.8亿元人民币,一边是全新旗舰SUV“大唐”在48小时内斩获约6万张订单——比亚迪正经历着近年来最极端的“冰火两重天”。这家中国新能源汽车巨头在2026年第一季度的财报中交出了一份令市场错愕的成绩单,而紧随其后的北京车展却用火爆的预购数据,为其注入了一剂强心针。 价格战下的利润“失血” 比亚迪的盈利困境并非一日之寒。这已是该公司连续第四个季度出现净利润下滑。在竞争对...",
-      "source": "Newscase",
-      "date": "2026-05-02",
-      "url": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%A4%A7%E5%94%90%E6%95%91%E8%B5%8E%EF%BC%9A60%E5%B0%8F%E6%97%B6%E8%AE%A2%E5%8D%95%E7%A0%B46%E4%B8%87%EF%BC%8C%E4%BD%86%E5%88%A9%E6%B6%A6/"
+      "id": "https://www.zaobao.com.sg/news/china/story20260503-8986798",
+      "title": "北京车展智能车声势高涨 强内卷下中国车企积极海外求生",
+      "summary": "NewsData报道",
+      "source": "Zaobao",
+      "date": "2026-05-03",
+      "url": "https://www.zaobao.com.sg/news/china/story20260503-8986798"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1864061428069171053",
-      "title": "注意:你遇到的不一定是“真交警”",
+      "id": "https://www.chinanews.com.cn/sh/2026/05-03/10615189.shtml",
+      "title": "“旧秤砣”变身“电子秤”:看这支青年突击队的“空中创新”",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-05-03",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-03/10615189.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1864132731962878454",
+      "title": "强军擎旗有来人——全军青年官兵凝心铸魂勇担时代重任",
+      "summary": "强军擎旗有来人——全军青年官兵凝心铸魂勇担时代重任■解放军报记者刘建伟陈典宏李建文彭冰洁国家的希望在青年,民族的未来在青年。推进强军事业,需要一批又一批有志青年接续奋斗。...",
+      "source": "News_Baidu",
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864132731962878454"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863880946532883842",
+      "title": "科技赋能破难题!镇扬交科双产业协同保五一畅行",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864061428069171053"
+      "date": "2026-05-03",
+      "url": "http://baijiahao.baidu.com/s?id=1863880946532883842"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1864063932434092869",
-      "title": "紫牛热点—酒后开启“智能驾驶”就可以减轻责任?驾驶..",
+      "id": "https://post.smzdm.com/p/al35mvm8/",
+      "title": "智能汽车进入“系统时代”,谁在定义新规则?",
+      "summary": "过去三年,智能辅助驾驶从规则驱动走向端到端大模型,智能座舱从语音助手进化为多模态交互系统,算力平台在芯片迭代中不断突破性能边界。然而,即便具备高阶辅助驾驶、智能座舱和大算力芯片,不同车型之间的体验差异依然显著。这表明决定体验的核心已不再是单点技术能力,而......",
+      "source": "Smzdm",
+      "date": "2026-05-03",
+      "url": "https://post.smzdm.com/p/al35mvm8/"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14380959.html",
+      "title": "一周新车盘点 | 大众首发ID系列首款小型车 乐道全尺寸SUV下探至16万元以下",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864063932434092869"
+      "source": "Jiemian",
+      "date": "2026-05-03",
+      "url": "https://www.jiemian.com/article/14380959.html"
     },
     {
       "id": "https://www.indiatoday.in/technology/news/story/uber-to-use-car-drivers-as-data-machines-for-self-driving-ai-companies-company-reveals-why-2904823-2026-05-02",
