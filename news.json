@@ -1,15 +1,20 @@
 {
-  "lastUpdated": "2026-05-04 03:54:36",
-  "totalCount": 30,
+  "lastUpdated": "2026-05-05 03:35:58",
+  "totalCount": 33,
   "sources": {
-    "Chinanews": 2,
-    "Zaobao": 2,
-    "News_Baidu": 10,
-    "Ithome": 1,
-    "Cri_Cn": 2,
-    "Rfi_Fr": 1,
+    "Bilibili": 5,
     "Smzdm": 1,
+    "Cri_Cn": 2,
+    "Chinanews": 2,
+    "Ithome": 1,
     "Jiemian": 1,
+    "Newscase": 1,
+    "Investing_Cn": 3,
+    "News_Baidu": 2,
+    "Rfi_Fr": 1,
+    "Zaobao": 1,
+    "Bjnews": 2,
+    "Fx168News": 1,
     "India Today": 1,
     "Benzinga": 1,
     "The Manila Times": 1,
@@ -23,164 +28,188 @@
   },
   "news": [
     {
-      "id": "https://www.chinanews.com.cn/ty/2026/05-03/10615303.shtml",
-      "title": "世界超级摩托车锦标赛匈牙利站:张雪机车两回合正赛共获一冠",
-      "summary": "中新社北京5月3日电 当地时间5月3日,2026赛季世界超级摩托车锦标赛(WSBK)匈牙利站WorldSSP组别完赛。当日的第二回合正赛中,中国摩托车制造商“张雪机车”的法国车手瓦伦丁·德比斯退赛。“张雪机车”在匈牙利站共收获一冠。...",
-      "source": "Chinanews",
-      "date": "2026-05-03",
-      "url": "https://www.chinanews.com.cn/ty/2026/05-03/10615303.shtml"
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-05-05",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sports/story20260503-8991426",
-      "title": "前F1赛车手兼残奥四金传奇 扎纳尔迪去世",
-      "summary": "(罗马法新电)意大利前一级方程式(F1)赛车手、在事故中失去双腿后成为残奥会冠军的亚历克斯·扎纳尔迪(Alex Zanardi)于星期五(5月1日)去世,终年59岁。...",
-      "source": "Zaobao",
-      "date": "2026-05-03",
-      "url": "https://www.zaobao.com.sg/news/sports/story20260503-8991426"
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-05-05",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863990888438065418",
-      "title": "全国首位C919女机长顺利完成首飞",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1863990888438065418"
+      "id": "https://www.bilibili.com/video/BV1BpRzBGEtV",
+      "title": "【B站】10号线自动驾驶",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-05-05",
+      "url": "https://www.bilibili.com/video/BV1BpRzBGEtV"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1864172019637574885",
-      "title": "践行“枫桥经验” 守护辖区平安——记三都公安都江派..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1864172019637574885"
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-05-05",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1864156450289419525",
-      "title": "日均流量170万辆,杭州公安交警发布“五一”返程提..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1864156450289419525"
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-05-05",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1864161717663204221",
-      "title": "公交车厢生日送温情 劳模爱心护航少年成长",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1864161717663204221"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864048930618278394",
-      "title": "视频丨撕开岸滩防线!两栖突击车战斗力加速生成",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1864048930618278394"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864158397335008514",
-      "title": "追风的青春——走近空军与清华大学联合培养“双学籍”..",
-      "summary": "空军与清华大学联合培养“双学籍”飞行学员 新华社北京5月3日电题:追风的青春——走近空军与清华大学联合培养“双学籍”飞行学员新华社记者高玉娇春风拂过清华园。天空与大地急速交替,唐晓峰紧攥把手,在旋梯...",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1864158397335008514"
-    },
-    {
-      "id": "https://www.ithome.com/0/946/141.htm",
-      "title": "通用汽车称数字订阅服务被严重低估:Super Cruise 辅助驾驶续订率近 40%,每用户平均贡献 20 美元月营收",
-      "summary": "IT之家 5 月 3 日消息,对于如今的各大车企而言,仅将精力集中在整车制造方面已远远不够,部分车企只计算硬件收入甚至处于亏损状态。这也促使更多车企不断从“卖车即交割”转变为“全生命周期服务”,加强供应链整合、汽车金融、售后、周边、基础充电设施及数字订阅服务的核心优先级。 据分析师估算,如果车企从生产一辆汽车中获得的净利润约为 10%,那么通过互联功能和辅助驾驶技术,其毛利率则可能超过 70%,这...",
-      "source": "Ithome",
-      "date": "2026-05-03",
-      "url": "https://www.ithome.com/0/946/141.htm"
-    },
-    {
-      "id": "https://news.cri.cn/20260503/99abd9ac-7b55-9b05-7bf6-1a4b79f02b2b.html",
-      "title": "科创青年说丨“旧秤砣”变身“电子秤”:看这支青年突击队的“空中创新”-国际在线",
-      "summary": "直升机舱内,操纵系统测试人员将刚度间隙测试仪固定在操纵杆上,推动测试仪的受力部位,指针微微晃动。他将眼睛对准孔径,观察两个仪表盘上的数值——力的大小和因此而产生的角位移。 刚度间隙测试仪是为了测量驾驶员对操纵杆施加的力与对应操纵杆角位...",
-      "source": "Cri_Cn",
-      "date": "2026-05-03",
-      "url": "https://news.cri.cn/20260503/99abd9ac-7b55-9b05-7bf6-1a4b79f02b2b.html"
-    },
-    {
-      "id": "https://news.cri.cn/20260503/205fa3fc-7a83-49b3-8bff-1e310a172df5.html",
-      "title": "记者手记|从开普敦酒庄到中国餐桌——“零关税”东风下南非葡萄酒迎来“新酿时刻”-国际在线",
-      "summary": "新华社开普敦5月3日电(记者王雷 王晓梅 邓冰雪)南半球初秋的清晨,在距离南非立法首都开普敦市中心约30公里的黛眉斯多酒庄内,装瓶生产线发出低沉的轰鸣声。收获季刚刚结束,但酒庄依然在紧锣密鼓地运转着。空瓶被叉车运送到生产线清洗并灌装新鲜...",
-      "source": "Cri_Cn",
-      "date": "2026-05-03",
-      "url": "https://news.cri.cn/20260503/205fa3fc-7a83-49b3-8bff-1e310a172df5.html"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260503-%E4%B8%AD%E6%96%B9%E6%8C%875%E5%90%8D%E8%8F%B2%E4%BA%BA%E5%91%98%E7%99%BB%E4%B8%8A%E9%93%81%E7%BA%BF%E7%A4%81%E6%B4%BB%E5%8A%A8%E9%81%AD%E5%A4%84%E7%BD%AE-%E8%8F%B2%E6%B5%B7%E8%AD%A6%E7%A7%B0%E7%9B%91%E6%B5%8B%E9%A9%B1%E7%A6%BB%E4%B8%AD%E5%9B%BD%E7%A7%91%E8%80%83%E8%88%B9",
-      "title": "中方指5名菲人员登上铁线礁活动遭处置 菲海警称监测驱离中国科考船",
-      "summary": "周日,中国海警指责菲律宾派遣人员登陆南中国海争议岛礁。同日,菲律宾海岸警卫队称,发现四艘中国科考船在菲水域附近活动,并认定这些科考船未经菲方许可进行“非法海洋科学研究”。...",
-      "source": "Rfi_Fr",
-      "date": "2026-05-03",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260503-%E4%B8%AD%E6%96%B9%E6%8C%875%E5%90%8D%E8%8F%B2%E4%BA%BA%E5%91%98%E7%99%BB%E4%B8%8A%E9%93%81%E7%BA%BF%E7%A4%81%E6%B4%BB%E5%8A%A8%E9%81%AD%E5%A4%84%E7%BD%AE-%E8%8F%B2%E6%B5%B7%E8%AD%A6%E7%A7%B0%E7%9B%91%E6%B5%8B%E9%A9%B1%E7%A6%BB%E4%B8%AD%E5%9B%BD%E7%A7%91%E8%80%83%E8%88%B9"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864172054911091520",
-      "title": "“五一”去哪?沈阳法库“飞机工程2.0航空科技营”..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1864172054911091520"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864148457677464688",
-      "title": "记者手记|从开普敦酒庄到中国餐桌——“零关税”东风..",
-      "summary": "新华社开普敦5月3日电(记者王雷 王晓梅 邓冰雪)南半球初秋的清晨,在距离南非立法首都开普敦市中心约30公里的黛眉斯多酒庄内,装瓶生产线发出低沉的轰鸣声。收获季刚刚结束,但酒庄依然在紧锣密鼓地运转着。...",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1864148457677464688"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/china/story20260503-8986798",
-      "title": "北京车展智能车声势高涨 强内卷下中国车企积极海外求生",
-      "summary": "NewsData报道",
-      "source": "Zaobao",
-      "date": "2026-05-03",
-      "url": "https://www.zaobao.com.sg/news/china/story20260503-8986798"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-03/10615189.shtml",
-      "title": "“旧秤砣”变身“电子秤”:看这支青年突击队的“空中创新”",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-05-03",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-03/10615189.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864132731962878454",
-      "title": "强军擎旗有来人——全军青年官兵凝心铸魂勇担时代重任",
-      "summary": "强军擎旗有来人——全军青年官兵凝心铸魂勇担时代重任■解放军报记者刘建伟陈典宏李建文彭冰洁国家的希望在青年,民族的未来在青年。推进强军事业,需要一批又一批有志青年接续奋斗。...",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1864132731962878454"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863880946532883842",
-      "title": "科技赋能破难题!镇扬交科双产业协同保五一畅行",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-03",
-      "url": "http://baijiahao.baidu.com/s?id=1863880946532883842"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al35mvm8/",
-      "title": "智能汽车进入“系统时代”,谁在定义新规则?",
-      "summary": "过去三年,智能辅助驾驶从规则驱动走向端到端大模型,智能座舱从语音助手进化为多模态交互系统,算力平台在芯片迭代中不断突破性能边界。然而,即便具备高阶辅助驾驶、智能座舱和大算力芯片,不同车型之间的体验差异依然显著。这表明决定体验的核心已不再是单点技术能力,而......",
+      "id": "https://post.smzdm.com/p/ak8e64e4/",
+      "title": "马自达EZ-6试驾:新能源时代的魂动设计与驾驶质感",
+      "summary": "马自达EZ-6作为品牌在新能源时代的战略车型,延续了魂动设计语言,并引入了电动化动力系统。本次试驾围绕车型背景、静态体验、动态驾驶及总结建议展开,重点考察其驾驶质感与能耗表现。01车型背景与定位马自达EZ-6是基于长安EPA混动平台打造的中型新能源轿车,......",
       "source": "Smzdm",
-      "date": "2026-05-03",
-      "url": "https://post.smzdm.com/p/al35mvm8/"
+      "date": "2026-05-04",
+      "url": "https://post.smzdm.com/p/ak8e64e4/"
     },
     {
-      "id": "https://www.jiemian.com/article/14380959.html",
-      "title": "一周新车盘点 | 大众首发ID系列首款小型车 乐道全尺寸SUV下探至16万元以下",
+      "id": "https://news.cri.cn/20260504/7403ebf5-50e1-d68d-157a-a812fe4ad1d6.html",
+      "title": "交通更有序 出行更从容——从三个场景看“五一”出行服务新升级-国际在线",
+      "summary": "旅游、探亲、休闲叠加,“五一”假期,出行“热力”十足—— 陆上,铁路、公路迎来客流高峰;水上,珠江夜游、三峡游等特色项目不断升温;空中,旅游城市航线需求保持高位&...",
+      "source": "Cri_Cn",
+      "date": "2026-05-04",
+      "url": "https://news.cri.cn/20260504/7403ebf5-50e1-d68d-157a-a812fe4ad1d6.html"
+    },
+    {
+      "id": "https://news.cri.cn/20260504/e7f527d2-e3ef-7755-37c6-883e2d2eccdb.html",
+      "title": "以不懈奋斗书写青春华章——2026年度中国青年五四奖章暨新时代青年先锋奖获奖者速写-国际在线",
+      "summary": "青春逢盛世,奋斗正当时。 2026年度中国青年五四奖章暨新时代青年先锋奖评选结果日前揭晓。作为当代青年的杰出代表,他们当中有守护万家平安的忠诚卫士,有攻克科技难题的创新尖兵,有扎根基层一线的实干先锋......他们...",
+      "source": "Cri_Cn",
+      "date": "2026-05-04",
+      "url": "https://news.cri.cn/20260504/e7f527d2-e3ef-7755-37c6-883e2d2eccdb.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/05-04/10615633.shtml",
+      "title": "以不懈奋斗书写青春华章",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-05-04",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-04/10615633.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/946/314.htm",
+      "title": "迈凯伦推出“VIP 专供”MCL-HY GTR 赛车:720 马力 2.9 升双涡轮 V6 引擎加持,车主能亲自下赛道",
+      "summary": "IT之家 5 月 4 日消息,迈凯伦为 2027 年 FIA WEC Hypercar 组别打造了全新 MCL-HY 耐力赛车,并 衍生出一款客户版车型 :富有买家可以买到的 MCL-HY GTR, 不过只能用于赛道,不能合法上路 。 MCL-HY GTR 也不是勒芒赛车的简单复刻。专供“迈凯伦 VIP 客户”的 MCL-HY GTR 取消了混动系统,动力来自一台 2.9 升双涡轮增压 V6 发动...",
+      "source": "Ithome",
+      "date": "2026-05-04",
+      "url": "https://www.ithome.com/0/946/314.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/05-04/10615630.shtml",
+      "title": "交通更有序 出行更从容——从三个场景看“五一”出行服务新升级",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-05-04",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-04/10615630.shtml"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14382836.html",
+      "title": "核载6人、实载21人,辽宁丹东客车单方交通事故致8死13伤",
       "summary": "NewsData报道",
       "source": "Jiemian",
-      "date": "2026-05-03",
-      "url": "https://www.jiemian.com/article/14380959.html"
+      "date": "2026-05-04",
+      "url": "https://www.jiemian.com/article/14382836.html"
+    },
+    {
+      "id": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E7%AA%81%E5%9B%B4%EF%BC%9A%E5%BE%B7%E7%B4%AF%E6%96%AF%E9%A1%BF%E5%B7%A5%E5%8E%82%E4%B8%8E%E5%8C%88%E7%89%99/",
+      "title": "比亚迪的“欧洲制造”突围:德累斯顿工厂与匈牙利劳工风波下的双重博弈",
+      "summary": "中国新能源汽车巨头比亚迪正面临一场“冰与火”的考验。一边是海外出口的狂飙突进,另一边是国内利润的急剧萎缩。在27%的欧盟惩罚性关税重压下,这家公司正试图通过“欧洲制造”的标签打开新局面,但随之而来的劳工争议却为这场远征蒙上阴影。 德累斯顿的“玻璃工厂”新使命 比亚迪与大众汽车就德累斯顿的“玻璃工厂”展开初步谈判,这一动向引发市场高度关注。这座自2025年底已停产的工厂,有望成为比亚迪在欧洲的首个生...",
+      "source": "Newscase",
+      "date": "2026-05-04",
+      "url": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E7%AA%81%E5%9B%B4%EF%BC%9A%E5%BE%B7%E7%B4%AF%E6%96%AF%E9%A1%BF%E5%B7%A5%E5%8E%82%E4%B8%8E%E5%8C%88%E7%89%99/"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3344787",
+      "title": "美银重申优步股票买入评级,看好自动驾驶汽车业务前景",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-04",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3344787"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1864229020219464935",
+      "title": "技能逐梦正青春丨“手搓”机器人 续写世赛荣光",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-05-04",
+      "url": "http://baijiahao.baidu.com/s?id=1864229020219464935"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260504-%E5%BE%B7%E5%9B%BD%E7%AD%89%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B6%E9%99%8D%E4%BD%8E%E7%87%83%E6%B2%B9%E7%A8%8E-%E6%B3%95%E5%9B%BD%E4%B8%8B%E8%B0%83%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E9%A2%84%E6%B5%8B",
+      "title": "德国等欧洲国家降低燃油税 法国下调经济增长预测",
+      "summary": "法国政府今天下调经济增长预测并公布了政府新的专项补贴具体细节,另外2026年2月美国和以色列联合打击伊朗,引发霍尔木兹海峡关闭导致全球油价飙升,让欧盟燃油价格平均上涨了13.5%,继西班牙和意大利之后,德国也于5月2日起降低燃油税。...",
+      "source": "Rfi_Fr",
+      "date": "2026-05-04",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260504-%E5%BE%B7%E5%9B%BD%E7%AD%89%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B6%E9%99%8D%E4%BD%8E%E7%87%83%E6%B2%B9%E7%A8%8E-%E6%B3%95%E5%9B%BD%E4%B8%8B%E8%B0%83%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E9%A2%84%E6%B5%8B"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/sea/story20260504-8995906",
+      "title": "马新跨境德士新政策开跑 司机欢迎但乘客嫌贵",
+      "summary": "马新跨境德士新政策开跑首日,持牌跨境德士司机普遍给予好评,认为新措施大幅提升载客效率,但部分乘客仍尚未熟悉指定乘车点,也有乘客认为乘车费用不亲民。...",
+      "source": "Zaobao",
+      "date": "2026-05-04",
+      "url": "https://www.zaobao.com.sg/news/sea/story20260504-8995906"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1864246858564461903",
+      "title": "这一张张朝气蓬勃的青春面孔,太帅了!你知道他(她)..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-05-04",
+      "url": "http://baijiahao.baidu.com/s?id=1864246858564461903"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3345152",
+      "title": "Vanda推出40年来首款晕动症新药",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-04",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3345152"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777881591129199.html",
+      "title": "小鹏集团:4月共交付新车31011辆",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-04",
+      "url": "https://www.bjnews.com.cn/detail/1777881591129199.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1025901",
+      "title": "天鸽互动(01980.HK):十年AI布局,一个正在兑现的“AI资产包”-FX168",
+      "summary": "NewsData报道",
+      "source": "Fx168News",
+      "date": "2026-05-04",
+      "url": "https://www.fx168news.com/article/1025901"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1777858004168873.html",
+      "title": "5个关键字,看2026北京国际车展的精彩",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-04",
+      "url": "https://www.bjnews.com.cn/detail/1777858004168873.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3344533",
+      "title": "港股异动 | 科网股表现强势 带动恒生科技指数涨超3.5% 互联网龙头企业业绩展望积极",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-04",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3344533"
     },
     {
       "id": "https://www.indiatoday.in/technology/news/story/uber-to-use-car-drivers-as-data-machines-for-self-driving-ai-companies-company-reveals-why-2904823-2026-05-02",
@@ -237,30 +266,6 @@
       "source": "The Verge",
       "date": "2026-04-29",
       "url": "https://www.theverge.com/transportation/920437/california-oks-heavy-duty-self-driving-trucks"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/tech/technology/china-suspends-new-autonomous-vehicle-permits-after-baidu-outage-report/articleshow/130597669.cms",
-      "title": "China suspends new autonomous vehicle permits after Baidu outage: Report",
-      "summary": "China has pressed the brakes on new permits for self-driving vehicles, marking a pivotal shift in the landscape of autonomous transportation. This decision follows Baidu's unprecedented suspension of ...",
-      "source": "The Economic Times",
-      "date": "2026-04-29",
-      "url": "https://economictimes.indiatimes.com/tech/technology/china-suspends-new-autonomous-vehicle-permits-after-baidu-outage-report/articleshow/130597669.cms"
-    },
-    {
-      "id": "https://www.straitstimes.com/asia/east-asia/china-suspends-new-autonomous-driving-permits-after-baidu-outage",
-      "title": "China suspends new autonomous driving permits after Baidu outage",
-      "summary": "The suspension prevents self-driving companies from adding new robotaxis to their fleets. Read more at straitstimes.com....",
-      "source": "The Straits Times",
-      "date": "2026-04-29",
-      "url": "https://www.straitstimes.com/asia/east-asia/china-suspends-new-autonomous-driving-permits-after-baidu-outage"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/china-suspends-new-autonomous-driving-permits-after-baidu-outage-bloomberg-news-ce7f59d3db8cf222",
-      "title": "China suspends new autonomous driving permits after Baidu outage - Bloomberg News",
-      "summary": "April 28 -\nChina suspends new autonomous driving permits after Baidu outage - Bloomberg News\n......",
-      "source": "MarketScreener",
-      "date": "2026-04-29",
-      "url": "https://www.marketscreener.com/news/china-suspends-new-autonomous-driving-permits-after-baidu-outage-bloomberg-news-ce7f59d3db8cf222"
     }
   ]
 }
