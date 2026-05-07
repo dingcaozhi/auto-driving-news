@@ -1,28 +1,24 @@
 {
-  "lastUpdated": "2026-05-06 03:51:24",
-  "totalCount": 32,
+  "lastUpdated": "2026-05-07 03:50:17",
+  "totalCount": 33,
   "sources": {
     "Bilibili": 5,
-    "Theportugalnews": 1,
-    "Fx168News": 1,
-    "Ithome": 4,
-    "Chinanews": 2,
+    "Smzdm": 4,
+    "Investing_Cn": 4,
+    "Fx168News": 2,
+    "Bjnews": 3,
+    "Ithome": 3,
     "Prnasia": 1,
-    "Orientaldaily": 1,
-    "Investing_Cn": 2,
-    "Rfi_Fr": 1,
-    "Zaobao": 1,
-    "Smzdm": 3,
+    "Jiemian": 1,
+    "CNBC": 1,
+    "The Manila Times": 2,
+    "MarketScreener": 1,
     "PR Newswire UK": 1,
     "Devdiscourse": 1,
     "CNA": 1,
     "India Today": 1,
     "Benzinga": 1,
-    "The Manila Times": 1,
-    "Morningstar": 1,
-    "GlobeNewswire": 1,
-    "Digital Trends": 1,
-    "The Verge": 1
+    "Morningstar": 1
   },
   "news": [
     {
@@ -30,7 +26,7 @@
       "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
@@ -38,168 +34,200 @@
       "title": "【B站】【BeamNG】自动驾驶模组展示分享",
       "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
       "source": "Bilibili",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1DyRCBCEb6",
-      "title": "【B站】想发自动驾驶论文无从下手？保姆级全程带教，小白也能顺利出成果！",
-      "summary": "配套专属福利：\n✅ 自动驾驶热门可发论文选题清单、创新点思路库、论文标准写作模板\n✅ 常用数据集、仿真平台教程、实验图表模板、论文句式素材可直接复用\n✅ 人工智能零基础系统化学习大纲，规划从入门到自动驾驶科研进阶完整路线\n✅ 全方向定制辅导：自动驾驶论文选题、创新点打磨、实验复现、写作润色、投稿返修...",
+      "id": "https://www.bilibili.com/video/BV1uE9eB2Evk",
+      "title": "【B站】怪不得FSD进不来！乘坐特斯拉无人驾驶出租车，到底什么体验？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-06",
-      "url": "https://www.bilibili.com/video/BV1DyRCBCEb6"
+      "date": "2026-05-07",
+      "url": "https://www.bilibili.com/video/BV1uE9eB2Evk"
     },
     {
-      "id": "https://www.bilibili.com/video/BV13ugczaEbo",
-      "title": "【B站】不到8万的辅助驾驶，凑合能用还是真好用？「比亚迪海鸥」",
-      "summary": "比亚迪海鸥，作为最便宜的天神之眼C车型，和秦L等车型实际体验一样吗？@智能车研究所Alex  Alex试过后发现，实际体验还是有差异？具体大家看视频吧。...",
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-06",
-      "url": "https://www.bilibili.com/video/BV13ugczaEbo"
+      "date": "2026-05-07",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1dwDWY4EKj",
-      "title": "【B站】10分钟带你学会调教A320自动驾驶",
-      "summary": "老费只是键盘飞友，如有错漏欢迎指出，共同进步...",
+      "id": "https://www.bilibili.com/video/BV1fV411x72a",
+      "title": "【B站】【自制】我把自行车做成了 自 动 驾 驶 ！！【硬核】",
+      "summary": "终于填坑了，巨！累！\n\n这个项目应该我最近做的最硬核的一个了，研发过程断断续续花了四个月（虽然基本只有周末有空），期间遇到非常多的坑，视频时长原因有些内容并没有放到视频里，看了下素材已经拍了将近200G了...大家喜欢的话记得三连啦~\n\n视频中提到的开源仓库地址：https://github.com...",
       "source": "Bilibili",
-      "date": "2026-05-06",
-      "url": "https://www.bilibili.com/video/BV1dwDWY4EKj"
+      "date": "2026-05-07",
+      "url": "https://www.bilibili.com/video/BV1fV411x72a"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-05-05/amusement-park-in-madrid-announces-new-features-for-the-upcoming-season/1017446",
-      "title": "马德里游乐园宣布下一季度的新特色",
+      "id": "https://post.smzdm.com/p/a2632zwp/",
+      "title": "新灯王再登场,蔚来ES9是如何做到让灯拐弯的?",
+      "summary": "汽车灯光系统正从单一的照明工具向智能化、主动化的安全交互系统演进。蔚来ES9在灯光技术上实现了新的突破,通过采用MicroLED技术与自研算法,推出了行业首发的S形领航变道光毯。这一技术旨在超越传统照明的物理限制,将灯光与智能辅助驾驶系统深度融合,提升夜......",
+      "source": "Smzdm",
+      "date": "2026-05-06",
+      "url": "https://post.smzdm.com/p/a2632zwp/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a4qn2wv7/",
+      "title": "百度AI的发展现状:技术实力与商业化挑战的深度剖析",
+      "summary": "当前国内人工智能大模型领域竞争激烈,DeepSeek、通义千问、Kimi、智谱GLM及MiniMax等品牌频繁发布新版本或在资本市场获得大额融资。相比之下,作为最早布局AI的互联网巨头,百度的文心一言及自动驾驶业务“萝卜快跑”在公众视野中的声量似乎有所减......",
+      "source": "Smzdm",
+      "date": "2026-05-06",
+      "url": "https://post.smzdm.com/p/a4qn2wv7/"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3350834",
+      "title": "优步股价今日为何大涨?",
       "summary": "NewsData报道",
-      "source": "Theportugalnews",
-      "date": "2026-05-05",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-05-05/amusement-park-in-madrid-announces-new-features-for-the-upcoming-season/1017446"
+      "source": "Investing_Cn",
+      "date": "2026-05-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3350834"
     },
     {
-      "id": "https://www.fx168news.com/article/1026100",
-      "title": "Bitget 推出“比特币披萨日”简历投递活动,庆祝 Blockchain4Youth 成立三周年-FX168",
-      "summary": "塞舌尔维多利亚, May 05, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 宣布推出全球活动 Boxed for Opportunity,旨在连接新兴 Web3 人才与实际行业机遇,以此庆祝 Blockchain4Youth 计划成立三周年。本次活动结合“比特币披萨日”的文化内涵,以创新形式发掘人才:将优秀简历和作品集印在披萨盒上,直接投递至...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3350457",
+      "title": "﻿优步(UBER.US)Q1营业利润大增57% 加速推进“Robotaxi增长叙事”",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3350457"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1026789",
+      "title": "美股盘前要点 | 中东停战预期升温,国际油价暴跌,欧股大涨!美国4月“小非农”超预期-FX168",
+      "summary": "苹果在线商店下架多款高性能Mac设备;谷歌与Anthropic签订2000亿美元算力大单;英伟达与康宁建立长期合作伙伴关系。...",
       "source": "Fx168News",
-      "date": "2026-05-05",
-      "url": "https://www.fx168news.com/article/1026100"
+      "date": "2026-05-06",
+      "url": "https://www.fx168news.com/article/1026789"
     },
     {
-      "id": "https://www.ithome.com/0/946/464.htm",
-      "title": "消息称特斯拉 FSD 欧洲审批遇阻,监管机构质疑其安全性与命名误导",
-      "summary": "IT之家 5 月 5 日消息,据路透社报道,特斯拉首席执行官埃隆・马斯克此前表示,他有信心欧盟很快会批准该车企的 FSD 辅助驾驶系统,但欧洲部分监管机构的邮件显示,各方对这项技术及其宣称的安全效益抱有明显质疑态度。 据IT之家了解,特斯拉监督版 FSD 已于 4 月获得荷兰道路运输局(RDW)的批准。目前荷兰道路运输局正为 FSD 申请欧盟整体认证,一个关键委员会的听证会定于当地时间本周二举行。...",
+      "id": "https://www.bjnews.com.cn/detail/1778063853129032.html",
+      "title": "荣膺双料大奖!全棉时代获2026爱思奖“中国供应链转型变革先锋”殊荣",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-06",
+      "url": "https://www.bjnews.com.cn/detail/1778063853129032.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778053133129843.html",
+      "title": "ASTROX全球首发,开创未来出行机器人自动驾驶新范式",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-06",
+      "url": "https://www.bjnews.com.cn/detail/1778053133129843.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/946/975.htm",
+      "title": "宝马承诺:纯电 M3 将忠于 BMW M 的 DNA",
+      "summary": "IT之家 5 月 6 日消息,据外媒 Autocar 当地时间 4 日报道,将于 2027 年推出的宝马 M3 纯电版,以及下一代燃油版 M3,将成为宝马 M 阵容中的“双生车型”。两款车价格也会接近,处在同一水平区间。 据IT之家了解,新车将基于近期发布的 i3 打造,并采用全新的纯电 Neue Klasse 新世代架构。其将配备 4 台电机,分别驱动 4 个车轮, 最大功率接近 746 千瓦 ...",
       "source": "Ithome",
-      "date": "2026-05-05",
-      "url": "https://www.ithome.com/0/946/464.htm"
+      "date": "2026-05-06",
+      "url": "https://www.ithome.com/0/946/975.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-05/10615930.shtml",
-      "title": "谨记骑乘电动车戴牢头盔 北京明日各主要路口路段将增设执勤警力",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-05-05",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-05/10615930.shtml"
+      "id": "https://www.ithome.com/0/946/972.htm",
+      "title": "江苏盐城积极引入无人机空中执法:预判当地易堵节点、全天候自动识别违停占道",
+      "summary": "IT之家 5 月 6 日消息,据“江苏警方”公众号,江苏盐城近年来积极引入警用无人机参与交通管理工作,在城市部署大疆机场 3 打造“空地一体、全域覆盖”智慧警务体系,可实现“分钟级”处警、“主动式”预警。 IT之家参考报道获悉,目前盐城公安交管部门将市区全域划分为 44 个飞控网格,每个网格配备 1 套自动机场,另配备便携式 4G 无人机 75 架,单机勤务半径达 7 公里,总覆盖里程超 150 ...",
+      "source": "Ithome",
+      "date": "2026-05-06",
+      "url": "https://www.ithome.com/0/946/972.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-05/10615853.shtml",
-      "title": "(走进中国乡村)福建建宁:手机种田 稻种出海",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-05-05",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-05/10615853.shtml"
+      "id": "https://www.ithome.com/0/946/970.htm",
+      "title": "鸿蒙智行问界汽车发布 2026 五一假期出行报告:总行驶行程达 4.3 亿公里、辅助驾驶占比 46.9%",
+      "summary": "IT之家 5 月 6 日消息,鸿蒙智行问界现已发布 2026 年度五一出行报告,数据统计周期为 2026 年 5 月 1 日至 2026 年 5 月 5 日。 五一期间,问界车主总行驶里程 4.3 亿公里,其中充电行驶里程 2.9 亿公里,占比 67.7%,总碳减排 7.2 万吨,相当于植树 639 万棵,其中出行超 1000 公里的车辆达 91369 辆。 其中,辅助驾驶行驶里程 1.7 亿公里...",
+      "source": "Ithome",
+      "date": "2026-05-06",
+      "url": "https://www.ithome.com/0/946/970.htm"
     },
     {
-      "id": "https://www.prnasia.com/story/531822-1.shtml",
-      "title": "2026 劳力士中国海帆船赛",
-      "summary": "香港 2026年5月5日 /美通社/ -- 亚洲最具代表性的离岸帆船赛事——2026 劳力士中国海帆船赛——于 3 月 4 日在香港维多利亚港扬帆启航。二十艘参赛帆船从维港出发,展开长达 565 海里,由香港驶往菲律宾苏碧湾的经典航程。整个比赛期间,参赛选手回报风力达25–28海里、风高浪急,令在这一届赛事被公认为近年速度最快、挑战性最高的中国海帆船赛。 这项两年一度盛事再次吸引国际劲旅到来,包括...",
+      "id": "https://www.bjnews.com.cn/detail/1778064281129042.html",
+      "title": "艾瑞咨询预计中国无人城配车今年销量达近9万辆,五年内超百万辆",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-06",
+      "url": "https://www.bjnews.com.cn/detail/1778064281129042.html"
+    },
+    {
+      "id": "https://www.prnasia.com/story/531996-1.shtml",
+      "title": "Moulton 莫顿自行车呈现品牌中国首展----《空间与旅程》",
+      "summary": "上海 2026年5月6日 /美通社/ -- 备受全球骑行爱好者与设计界瞩目的 Moulton 莫顿自行车,于上海现所正式开启其进入中国后的首次官方大展——《空间与旅程》(Space and Journey)。本次展览不仅完整呈现了这一传奇品牌跨越半个多世纪的设计演变,更迎来了新作车型 NS RAPIDE 的全球首发。 颠覆传统的开创者:从汽车悬挂之父到空间桁架之王 自1960年代问世以来,Moul...",
       "source": "Prnasia",
-      "date": "2026-05-05",
-      "url": "https://www.prnasia.com/story/531822-1.shtml"
+      "date": "2026-05-06",
+      "url": "https://www.prnasia.com/story/531996-1.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/946/432.htm",
-      "title": "特斯拉奥斯汀 Robotaxi 开启夜间无安全员运营",
-      "summary": "IT之家 5 月 5 日消息,特斯拉自动驾驶出租车 Robotaxi 服务自去年夏天起已在奥斯汀投入运营,但特斯拉坦言,在新技术落地推广过程中,为优先保障安全,公司在地理围栏范围、车队规模及其他配套细节的扩张节奏上有所延后。 而随着相关运营限制被逐步解除,这些发展阻碍正被逐一打破。 IT之家注意到,特斯拉已在 Robotaxi 项目上取得重大进展。截至 5 月 4 日,得克萨斯州奥斯汀的 Robo...",
-      "source": "Ithome",
-      "date": "2026-05-05",
-      "url": "https://www.ithome.com/0/946/432.htm"
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1026727",
+      "title": "全球非公路宽体自卸车连续三年第一!临工重机港股IPO失效-FX168",
+      "summary": "新时空讯:临工重机股份有限公司于2025年11月6日递表港交所的上市申请,因届满6个月,目前已处于失效状态。公司是全球领先的矿山设备和高空作业设备企业,自成立以来仅用十年实现年营收超百亿元。根据弗若斯特沙利文报告,以2022年至2024年各年收入计,公司在全球非公路宽体自卸车领域排名第一;以2024...",
+      "source": "Fx168News",
+      "date": "2026-05-06",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1026727"
     },
     {
-      "id": "https://www.ithome.com/0/946/423.htm",
-      "title": "《极限竞速:地平线 6》官宣开发完成已送厂压盘,游戏将提供色盲滤镜 / 屏幕朗读等无障碍功能",
-      "summary": "IT之家 5 月 5 日消息,极限竞速官方发文,确认《极限竞速:地平线 6》开发完成,现已送厂压盘。目前这款游戏已在 PC 和 Xbox 开启预载,将于 5 月 19 日发售。 官方同步介绍了游戏的辅助功能、游戏将包含自动驾驶、近距离雷达(可帮助识别盲区车辆)以及高对比度模式(可帮助玩家更轻松地辨别物体)等功能。还将提供完整的控制器按键映射、屏幕朗读、字幕、色盲滤镜、离线游戏速度调整等特性,便于障...",
-      "source": "Ithome",
-      "date": "2026-05-05",
-      "url": "https://www.ithome.com/0/946/423.htm"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/international/2026/05/05/816307",
-      "title": "德国莱比锡汽车冲撞人群 2死多伤",
-      "summary": "(莱比锡5日讯)德国东部城市莱比锡当地时间周一发生汽车冲入人群的事件,当局表示有2人死亡,多人受伤。法新社报导,肇事司机是一名33岁的德国男子,当场被捕,官员称其犯案动机不明。近年来,德国发生了一系列汽车冲撞事件,其中包括2024年在马格德堡圣诞市集发生的袭击事件,以及在首都柏林和慕尼黑发生的类似事件。在莱比锡发生的最新事件中,一辆大众(Volkswagen)Taigo汽车从旧城区的一个主要广场冲...",
-      "source": "Orientaldaily",
-      "date": "2026-05-05",
-      "url": "https://www.orientaldaily.com.my/news/international/2026/05/05/816307"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3346567",
-      "title": "假期要闻汇总:林园投资被查,事出违规打新;豆包将推出付费订阅版本",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3349836",
+      "title": "“四方格局”已现!比亚迪、华为带热“超充”赛道 特斯拉向行业开放近四成超充电站",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-05-05",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3346567"
+      "date": "2026-05-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3349836"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260505-%E5%A4%A7%E5%8D%AB%E5%AF%B9%E6%88%98%E6%AD%8C%E5%88%A9%E4%BA%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E5%8D%97%E7%BA%BF%E7%AA%81%E5%9B%B4%E8%BF%94%E5%8F%B0%E6%8D%8D%E5%8D%AB-%E4%B8%8E%E4%B8%96%E7%95%8C%E5%BB%BA%E7%AB%8B%E8%81%94%E7%B3%BB%E7%9A%84%E6%9D%83%E5%88%A9",
-      "title": "“大卫对战歌利亚”:赖清德南线突围返台捍卫“与世界建立联系的权利”",
-      "summary": "台湾总统赖清德周二结束对非洲友邦斯威士兰(台称史瓦帝尼)的访问返台。他在桃园国际机场向媒体表示:“台湾人是世界公民,台湾有权与世界建立联系,我们不会在压力面前退缩。”...",
-      "source": "Rfi_Fr",
-      "date": "2026-05-05",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260505-%E5%A4%A7%E5%8D%AB%E5%AF%B9%E6%88%98%E6%AD%8C%E5%88%A9%E4%BA%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E5%8D%97%E7%BA%BF%E7%AA%81%E5%9B%B4%E8%BF%94%E5%8F%B0%E6%8D%8D%E5%8D%AB-%E4%B8%8E%E4%B8%96%E7%95%8C%E5%BB%BA%E7%AB%8B%E8%81%94%E7%B3%BB%E7%9A%84%E6%9D%83%E5%88%A9"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260505-9000650",
-      "title": "林景小学外967号巴士突起火 乘客紧急疏散无人伤",
-      "summary": "NewsData报道",
-      "source": "Zaobao",
-      "date": "2026-05-05",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260505-9000650"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avge8ewn/",
-      "title": "岚图泰山含华量真的有点儿高,用了好多华为的东西...## 拜托了飞哥的微博视频",
-      "summary": "岚图泰山作为一款全新旗舰SUV,其核心亮点在于深度集成了华为的多项智能技术,并搭载了华系首搭的三腔空气悬挂系统。该车型在智能驾驶、座舱交互以及底盘操控等方面进行了全面升级,旨在提供具备科技感的驾乘体验。以下基于现有信息,对其关键配置与技术细节进行梳理。0......",
-      "source": "Smzdm",
-      "date": "2026-05-05",
-      "url": "https://post.smzdm.com/p/avge8ewn/"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3346854",
-      "title": "Sensify制动系统投产,Brembo股价大涨",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3349834",
+      "title": "海外研选日报0506 | 高盛:韩国存储芯片出口持续保持三位数增长",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-05-05",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3346854"
+      "date": "2026-05-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3349834"
     },
     {
-      "id": "https://post.smzdm.com/p/a6zg3e5e/",
-      "title": "阿维塔06T上市 两套智能驾驶辅助方案 零百加速2.78秒",
-      "summary": "阿维塔06T已正式上市。作为一款高性能车型,该车在动力性能与智能驾驶辅助系统方面进行了重点配置,旨在满足市场对极致加速体验与多样化智驾方案的需求。01核心性能表现在动力性能方面,阿维塔06T展现了强劲的加速实力。根据官方数据,该车的零百加速时间仅需2.7......",
+      "id": "https://www.jiemian.com/article/14388279.html",
+      "title": "地方新闻精选 | 浏阳烟花厂爆炸事故已完成5轮搜救 重庆动物园通报“大熊猫食用竹子发霉”",
+      "summary": "今天有哪些地方新闻值得关注?三亚通报“一海鲜店被指价格过高”:已启动先行赔付机制;女子体验瀑布秋千坠亡,当地称“事故方与家属达成赔偿协议”;山西交警通报“白车高速逆行”:司机路况不熟,罚款200元记12分。...",
+      "source": "Jiemian",
+      "date": "2026-05-06",
+      "url": "https://www.jiemian.com/article/14388279.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a2632epq/",
+      "title": "魏牌V9X试驾体验:40万级豪华旗舰SUV的驾驶质感解析",
+      "summary": "魏牌V9X定位为9系列豪华旗舰SUV,目前处于预售阶段,价格区间在37万至42万元左右。作为一款车长超过5.2米的大型SUV,该车在动力系统上采用插电式混动方案,并配备了空悬、后轮转向等高端配置。以下将从产品参数、驾驶质感、智能体验及内饰用料等方面,对该......",
       "source": "Smzdm",
-      "date": "2026-05-05",
-      "url": "https://post.smzdm.com/p/a6zg3e5e/"
+      "date": "2026-05-06",
+      "url": "https://post.smzdm.com/p/a2632epq/"
     },
     {
-      "id": "https://www.ithome.com/0/946/430.htm",
-      "title": "最后一天:新一代小米 SU7 汽车首销期今日截止,最高送 6.9 万元权益",
-      "summary": "IT之家 5 月 5 日消息,雷军在微博发文,称今天(5 月 5 日)是新一代小米 SU7 首销期权益最后一天,新一代小米 SU7 首销权益将于今晚 24 点正式结束。 具体来看,标准版和 Pro 版可享受价值 4.4 万元的购车权益,包括免费副驾零重力座椅、电动前备箱、后排移动控制屏、25 扬声器豪华音响系统,以及全套 Xiaomi HAD 辅助驾驶功能。顶配 Max 版在标准版 / Pro 版...",
-      "source": "Ithome",
-      "date": "2026-05-05",
-      "url": "https://www.ithome.com/0/946/430.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg0k2qm/",
-      "title": "北京车展上,风云A9开启小订,599元能抵四重礼。这台车给我印象最深的是不搞选择焦虑:全系标配70kWh电池、猎鹰700...",
-      "summary": "在北京车展上,风云A9正式开启小订,预订价格为599元,可抵四重礼。作为一款瞄准纯电轿跑市场的车型,该车在设计、空间、智能驾驶及电池配置等方面均采取了“入门即高配”的策略,试图通过全系标配的核心配置减少消费者的选择焦虑。01外观设计风云A9在外观设计上采......",
+      "id": "https://post.smzdm.com/p/ad73538k/",
+      "title": "零跑D19真实试驾体验:家用6座选择,续航扎实还省心",
+      "summary": "随着家庭出行需求的增加,6座车型成为不少用户的选择。零跑D19 2026款增程500智尊版作为一款面向家用的6座SUV,在空间布局、续航表现及智能化配置方面进行了针对性设计。以下基于实际试驾体验,从车型参数、驾驶模式、空间舒适性、外观内饰及智能科技等方面......",
       "source": "Smzdm",
-      "date": "2026-05-05",
-      "url": "https://post.smzdm.com/p/agg0k2qm/"
+      "date": "2026-05-06",
+      "url": "https://post.smzdm.com/p/ad73538k/"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
+      "title": "Berkshire Hathaway's McLane deploying autonomous big rigs with Aurora",
+      "summary": "Berkshire Hathaway-owned McLane, one of America's biggest distribution companies, is deploying self-driving big rigs with Aurora for its restaurants business....",
+      "source": "CNBC",
+      "date": "2026-05-06",
+      "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/05/06/tmt-newswire/pr-newswire/stradvision-observes-growing-demand-for-globally-scalable-and-production-ready-adas-solutions-at-auto-china-2026/2336716",
+      "title": "STRADVISION Observes Growing Demand for Globally Scalable and Production-Ready ADAS Solutions at Auto China 2026",
+      "summary": "**media[1044337]**China OEMs shift focus from peak performance competition toward scalable and cost-efficient ADAS deploymentSEOUL, South Korea, May 6, 2026 /PRNewswire/ -- STRADVISION, a provider of ...",
+      "source": "The Manila Times",
+      "date": "2026-05-06",
+      "url": "https://www.manilatimes.net/2026/05/06/tmt-newswire/pr-newswire/stradvision-observes-growing-demand-for-globally-scalable-and-production-ready-adas-solutions-at-auto-china-2026/2336716"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/rivian-automotive-is-considering-making-its-lidar-sensors-for-autonomous-driving-ceo-says-ce7f58dddb8af226",
+      "title": "Rivian Automotive is considering making its lidar sensors for autonomous driving, CEO says",
+      "summary": "Exclusive-Rivian Automotive is considering making its lidar sensors for autonomous driving, CEO says\n......",
+      "source": "MarketScreener",
+      "date": "2026-05-06",
+      "url": "https://www.marketscreener.com/news/rivian-automotive-is-considering-making-its-lidar-sensors-for-autonomous-driving-ceo-says-ce7f58dddb8af226"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/einride-to-co-lead-development-of-a-dual-use-autonomous-all-terrain-vehicle-for-swedish-resilience-initiative-302762578.html",
@@ -232,38 +260,6 @@
       "source": "India Today",
       "date": "2026-05-02",
       "url": "https://www.indiatoday.in/technology/news/story/uber-to-use-car-drivers-as-data-machines-for-self-driving-ai-companies-company-reveals-why-2904823-2026-05-02"
-    },
-    {
-      "id": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/05/52223521/robotaxis-set-to-explode-into-54-billion-market-by-2035-analyst",
-      "title": "Robotaxis Set To Explode Into $54 Billion Market By 2035: Analyst",
-      "summary": "Global robotaxi sales to hit $54B by 2035 as L4 fleets scale across US, China and Europe, driving a new era of autonomous mobility....",
-      "source": "Benzinga",
-      "date": "2026-05-01",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/05/52223521/robotaxis-set-to-explode-into-54-billion-market-by-2035-analyst"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/05/01/tmt-newswire/pr-newswire/dreame-next-concludes-dreame-technology-caps-four-day-silicon-valley-showcase-with-science-forum-and-ten-year-vision/2333543",
-      "title": "DREAME NEXT Concludes: Dreame Technology Caps Four-Day Silicon Valley Showcase with Science Forum and Ten-Year Vision",
-      "summary": "SAN FRANCISCO, May 1, 2026 /PRNewswire/ -- Dreame Technology today concluded DREAME NEXT, the company's largest international launch event to date, following four days in San Francisco that saw the de...",
-      "source": "The Manila Times",
-      "date": "2026-05-01",
-      "url": "https://www.manilatimes.net/2026/05/01/tmt-newswire/pr-newswire/dreame-next-concludes-dreame-technology-caps-four-day-silicon-valley-showcase-with-science-forum-and-ten-year-vision/2333543"
-    },
-    {
-      "id": "https://www.morningstar.com/company-reports/1478729-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software",
-      "title": "Rivian Poised for Growth From Shift to Lower-Priced Vehicles and Autonomous Driving Software",
-      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
-      "source": "Morningstar",
-      "date": "2026-05-01",
-      "url": "https://www.morningstar.com/company-reports/1478729-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
-    },
-    {
-      "id": "https://www.globenewswire.com/news-release/2026/04/30/3284574/0/en/weride-to-report-first-quarter-2026-financial-results-on-wednesday-may-13-2026.html",
-      "title": "WeRide to Report First Quarter 2026 Financial Results on",
-      "summary": "NEW YORK, April 30, 2026 (GLOBE NEWSWIRE) -- WeRide Inc. (“WeRide” or the “Company”) (Nasdaq: WRD; HKEX: 0800), a global leader in autonomous driving......",
-      "source": "GlobeNewswire",
-      "date": "2026-04-30",
-      "url": "https://www.globenewswire.com/news-release/2026/04/30/3284574/0/en/weride-to-report-first-quarter-2026-financial-results-on-wednesday-may-13-2026.html"
     }
   ]
 }
