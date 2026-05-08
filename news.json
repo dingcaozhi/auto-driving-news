@@ -1,209 +1,219 @@
 {
-  "lastUpdated": "2026-05-07 03:50:17",
-  "totalCount": 33,
+  "lastUpdated": "2026-05-08 03:40:54",
+  "totalCount": 32,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 4,
-    "Investing_Cn": 4,
-    "Fx168News": 2,
-    "Bjnews": 3,
-    "Ithome": 3,
     "Prnasia": 1,
-    "Jiemian": 1,
+    "Smzdm": 2,
+    "Bjnews": 6,
+    "Chinanews": 1,
+    "Ithome": 4,
+    "Fx168News": 1,
+    "Cri_Cn": 1,
+    "Investing_Cn": 1,
+    "The New York Times": 1,
+    "Firstpost": 1,
     "CNBC": 1,
-    "The Manila Times": 2,
+    "The Manila Times": 1,
     "MarketScreener": 1,
     "PR Newswire UK": 1,
     "Devdiscourse": 1,
     "CNA": 1,
     "India Today": 1,
-    "Benzinga": 1,
-    "Morningstar": 1
+    "Benzinga": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
+      "title": "【B站】到底是自动驾驶还是自动送死？",
+      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
       "source": "Bilibili",
-      "date": "2026-05-07",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
-      "date": "2026-05-07",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1uE9eB2Evk",
-      "title": "【B站】怪不得FSD进不来！乘坐特斯拉无人驾驶出租车，到底什么体验？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-07",
-      "url": "https://www.bilibili.com/video/BV1uE9eB2Evk"
+      "date": "2026-05-08",
+      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
     },
     {
       "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
       "title": "【B站】死亡搁浅2 如和开启自动驾驶",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1fV411x72a",
-      "title": "【B站】【自制】我把自行车做成了 自 动 驾 驶 ！！【硬核】",
-      "summary": "终于填坑了，巨！累！\n\n这个项目应该我最近做的最硬核的一个了，研发过程断断续续花了四个月（虽然基本只有周末有空），期间遇到非常多的坑，视频时长原因有些内容并没有放到视频里，看了下素材已经拍了将近200G了...大家喜欢的话记得三连啦~\n\n视频中提到的开源仓库地址：https://github.com...",
+      "id": "https://www.bilibili.com/video/BV1XzdKBLE2z",
+      "title": "【B站】L3自动驾驶要来了！重庆出台L3自动驾驶细则，而且还要考试，华为乾崑能否满足这个要求呢？",
+      "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-05-07",
-      "url": "https://www.bilibili.com/video/BV1fV411x72a"
+      "date": "2026-05-08",
+      "url": "https://www.bilibili.com/video/BV1XzdKBLE2z"
     },
     {
-      "id": "https://post.smzdm.com/p/a2632zwp/",
-      "title": "新灯王再登场,蔚来ES9是如何做到让灯拐弯的?",
-      "summary": "汽车灯光系统正从单一的照明工具向智能化、主动化的安全交互系统演进。蔚来ES9在灯光技术上实现了新的突破,通过采用MicroLED技术与自研算法,推出了行业首发的S形领航变道光毯。这一技术旨在超越传统照明的物理限制,将灯光与智能辅助驾驶系统深度融合,提升夜......",
-      "source": "Smzdm",
-      "date": "2026-05-06",
-      "url": "https://post.smzdm.com/p/a2632zwp/"
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-05-08",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
     },
     {
-      "id": "https://post.smzdm.com/p/a4qn2wv7/",
-      "title": "百度AI的发展现状:技术实力与商业化挑战的深度剖析",
-      "summary": "当前国内人工智能大模型领域竞争激烈,DeepSeek、通义千问、Kimi、智谱GLM及MiniMax等品牌频繁发布新版本或在资本市场获得大额融资。相比之下,作为最早布局AI的互联网巨头,百度的文心一言及自动驾驶业务“萝卜快跑”在公众视野中的声量似乎有所减......",
-      "source": "Smzdm",
-      "date": "2026-05-06",
-      "url": "https://post.smzdm.com/p/a4qn2wv7/"
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-05-08",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3350834",
-      "title": "优步股价今日为何大涨?",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-06",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3350834"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3350457",
-      "title": "﻿优步(UBER.US)Q1营业利润大增57% 加速推进“Robotaxi增长叙事”",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-06",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3350457"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1026789",
-      "title": "美股盘前要点 | 中东停战预期升温,国际油价暴跌,欧股大涨!美国4月“小非农”超预期-FX168",
-      "summary": "苹果在线商店下架多款高性能Mac设备;谷歌与Anthropic签订2000亿美元算力大单;英伟达与康宁建立长期合作伙伴关系。...",
-      "source": "Fx168News",
-      "date": "2026-05-06",
-      "url": "https://www.fx168news.com/article/1026789"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778063853129032.html",
-      "title": "荣膺双料大奖!全棉时代获2026爱思奖“中国供应链转型变革先锋”殊荣",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-06",
-      "url": "https://www.bjnews.com.cn/detail/1778063853129032.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778053133129843.html",
-      "title": "ASTROX全球首发,开创未来出行机器人自动驾驶新范式",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-06",
-      "url": "https://www.bjnews.com.cn/detail/1778053133129843.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/946/975.htm",
-      "title": "宝马承诺:纯电 M3 将忠于 BMW M 的 DNA",
-      "summary": "IT之家 5 月 6 日消息,据外媒 Autocar 当地时间 4 日报道,将于 2027 年推出的宝马 M3 纯电版,以及下一代燃油版 M3,将成为宝马 M 阵容中的“双生车型”。两款车价格也会接近,处在同一水平区间。 据IT之家了解,新车将基于近期发布的 i3 打造,并采用全新的纯电 Neue Klasse 新世代架构。其将配备 4 台电机,分别驱动 4 个车轮, 最大功率接近 746 千瓦 ...",
-      "source": "Ithome",
-      "date": "2026-05-06",
-      "url": "https://www.ithome.com/0/946/975.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/946/972.htm",
-      "title": "江苏盐城积极引入无人机空中执法:预判当地易堵节点、全天候自动识别违停占道",
-      "summary": "IT之家 5 月 6 日消息,据“江苏警方”公众号,江苏盐城近年来积极引入警用无人机参与交通管理工作,在城市部署大疆机场 3 打造“空地一体、全域覆盖”智慧警务体系,可实现“分钟级”处警、“主动式”预警。 IT之家参考报道获悉,目前盐城公安交管部门将市区全域划分为 44 个飞控网格,每个网格配备 1 套自动机场,另配备便携式 4G 无人机 75 架,单机勤务半径达 7 公里,总覆盖里程超 150 ...",
-      "source": "Ithome",
-      "date": "2026-05-06",
-      "url": "https://www.ithome.com/0/946/972.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/946/970.htm",
-      "title": "鸿蒙智行问界汽车发布 2026 五一假期出行报告:总行驶行程达 4.3 亿公里、辅助驾驶占比 46.9%",
-      "summary": "IT之家 5 月 6 日消息,鸿蒙智行问界现已发布 2026 年度五一出行报告,数据统计周期为 2026 年 5 月 1 日至 2026 年 5 月 5 日。 五一期间,问界车主总行驶里程 4.3 亿公里,其中充电行驶里程 2.9 亿公里,占比 67.7%,总碳减排 7.2 万吨,相当于植树 639 万棵,其中出行超 1000 公里的车辆达 91369 辆。 其中,辅助驾驶行驶里程 1.7 亿公里...",
-      "source": "Ithome",
-      "date": "2026-05-06",
-      "url": "https://www.ithome.com/0/946/970.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778064281129042.html",
-      "title": "艾瑞咨询预计中国无人城配车今年销量达近9万辆,五年内超百万辆",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-06",
-      "url": "https://www.bjnews.com.cn/detail/1778064281129042.html"
-    },
-    {
-      "id": "https://www.prnasia.com/story/531996-1.shtml",
-      "title": "Moulton 莫顿自行车呈现品牌中国首展----《空间与旅程》",
-      "summary": "上海 2026年5月6日 /美通社/ -- 备受全球骑行爱好者与设计界瞩目的 Moulton 莫顿自行车,于上海现所正式开启其进入中国后的首次官方大展——《空间与旅程》(Space and Journey)。本次展览不仅完整呈现了这一传奇品牌跨越半个多世纪的设计演变,更迎来了新作车型 NS RAPIDE 的全球首发。 颠覆传统的开创者:从汽车悬挂之父到空间桁架之王 自1960年代问世以来,Moul...",
+      "id": "https://www.prnasia.com/story/532238-1.shtml",
+      "title": "三一集团以电动化、无人化与AI赋能解决方案,扩展全球智能设备产品组合",
+      "summary": "上海 2026年5月7日 /美通社/ -- 三一集团第1000台电动挖掘机正式下线,标志着行业向电动化转型迈出了重要一步。其5G遥控挖掘机已实现商业化部署,无人驾驶压路机车队已投入使用,用于港口和矿山的集成智能解决方案也已投入运营。三一每年研发投入超过60亿元人民币,正加速从传统制造商向以机器人为核心、AI赋能的公司转型。 &amp;amp;amp;amp;amp;nbsp; Meet SANY'...",
       "source": "Prnasia",
-      "date": "2026-05-06",
-      "url": "https://www.prnasia.com/story/531996-1.shtml"
+      "date": "2026-05-07",
+      "url": "https://www.prnasia.com/story/532238-1.shtml"
     },
     {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1026727",
-      "title": "全球非公路宽体自卸车连续三年第一!临工重机港股IPO失效-FX168",
-      "summary": "新时空讯:临工重机股份有限公司于2025年11月6日递表港交所的上市申请,因届满6个月,目前已处于失效状态。公司是全球领先的矿山设备和高空作业设备企业,自成立以来仅用十年实现年营收超百亿元。根据弗若斯特沙利文报告,以2022年至2024年各年收入计,公司在全球非公路宽体自卸车领域排名第一;以2024...",
+      "id": "https://post.smzdm.com/p/apqppqz7/",
+      "title": "本田车防碰撞预警功能开启指南与设置详解",
+      "summary": "本田车的防碰撞预警系统是一项重要的主动安全配置,能够在车辆探测到前方障碍物且驾驶员未采取制动措施时,发出警告并自动实施刹车。为了确保该功能正常发挥作用,需要正确设置车机系统中的相关选项。以下将详细介绍开启该功能的具体操作步骤及其作用机制。01功能设置操作......",
+      "source": "Smzdm",
+      "date": "2026-05-07",
+      "url": "https://post.smzdm.com/p/apqppqz7/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778159971169547.html",
+      "title": "享界、极狐双品牌出击,北汽蓝谷锚定2030年销售突破百万辆",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-07",
+      "url": "https://www.bjnews.com.cn/detail/1778159971169547.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-07/10617137.shtml",
+      "title": "宁夏探索夜间公共服务新模式:青年有去处 就业有出路",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-05-07",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-07/10617137.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/947/436.htm",
+      "title": "L4 级自动驾驶需 10000 公里累计安全测试里程,重庆出台智能汽车高速公路测试新规",
+      "summary": "IT之家 5 月 7 日消息,重庆市经济信息委今日联合重庆市公安局、市交委共同印发《重庆市智能网联汽车高速公路测试管理细则(试行)》,进一步补齐高阶自动驾驶高速场景测试制度短板, 规范 L3 级及以上智能网联汽车高速道路测试全流程管理 ,以安全可控、规范有序助力当地智能网联新能源汽车产业高质量发展,加速自动驾驶技术落地商业化应用。 《细则》旨在推动智能网联汽车技术进步,加速智能网联汽车商业化进程,...",
+      "source": "Ithome",
+      "date": "2026-05-07",
+      "url": "https://www.ithome.com/0/947/436.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778158089168919.html",
+      "title": "网购电动车电池自燃烧毁邻居车辆,法院:违规用电池引火灾须担责",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-07",
+      "url": "https://www.bjnews.com.cn/detail/1778158089168919.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1027365",
+      "title": "今日晚间重要公告抢先看——5天4板永杉锂业筹划在四川南充建设锂盐项目;未来一年内没有注入计划 海川智能澄清信越半导体不实传闻;ST洲际控股股东被申请破产清算-FX168",
+      "summary": "今日晚间重要公告抢先看——永杉锂业:正在筹划与四川南充经济开发区管理委员会签署《锂盐项目投资协议》;海川智能:实控人未来12个月内没有将信越注入公司的计划;ST洲际:控股股东被申请破产清算;中大力德:控股股东及其一致行动人拟合计减持不超3%股份。【...",
       "source": "Fx168News",
-      "date": "2026-05-06",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1026727"
+      "date": "2026-05-07",
+      "url": "https://www.fx168news.com/article/1027365"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3349836",
-      "title": "“四方格局”已现!比亚迪、华为带热“超充”赛道 特斯拉向行业开放近四成超充电站",
+      "id": "https://news.cri.cn/20260507/2ea7533b-9630-837a-96bd-85cfba48ad1f.html",
+      "title": "大漠油城“转”出新天地-国际在线",
+      "summary": "5月6日,在位于克拉玛依高新技术产业开发区的新疆金石钻采设备有限公司,技术人员检查即将出厂的油气井口装置。作为国内领先的高压井口装备制造企业,该公司可年产成套井口装置2000套、阀门5000套,以硬核技术支撑油气装备国产化升级。闵勇摄...",
+      "source": "Cri_Cn",
+      "date": "2026-05-07",
+      "url": "https://news.cri.cn/20260507/2ea7533b-9630-837a-96bd-85cfba48ad1f.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/947/413.htm",
+      "title": "Manthey 套件加持,保时捷 Taycan Turbo GT 重回纽北最速量产电动车宝座",
+      "summary": "IT之家 5 月 7 日消息,保时捷 Taycan Turbo GT 在原有 Weissach 轻量化套件基础上,新增了 Manthey 改装套件,化身赛道猛兽。由保时捷试车手拉尔斯・克恩驾驶,在纽博格林北环赛道跑出了 6 分 55 秒 553 的惊人圈速。 IT之家注意到,这一亮眼圈速比普通版 Taycan Turbo GT 快了 12 秒,同时比比亚迪仰望 U9 Xtreme (6 分 59 ...",
+      "source": "Ithome",
+      "date": "2026-05-07",
+      "url": "https://www.ithome.com/0/947/413.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778150724129743.html",
+      "title": "北京双桥地铁站周边闲置边角地变身非机动车停放区",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-07",
+      "url": "https://www.bjnews.com.cn/detail/1778150724129743.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778157752169541.html",
+      "title": "蛇出没频繁扰民,大兴消防提醒市民保持冷静切勿主动攻击或捕捉",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-07",
+      "url": "https://www.bjnews.com.cn/detail/1778157752169541.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778150494129736.html",
+      "title": "新闻8点见丨上山捡垃圾的年轻人;豆包付费,一个月68块多难收?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-07",
+      "url": "https://www.bjnews.com.cn/detail/1778150494129736.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778150657129739.html",
+      "title": "网传“5月1日起驾考科目加项,难度翻倍”不实(2026·05·07)",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-07",
+      "url": "https://www.bjnews.com.cn/detail/1778150657129739.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/947/387.htm",
+      "title": "击败本田思域 Type-R,大众高尔夫 GTI 登顶纽北最快量产前驱车",
+      "summary": "IT之家 5 月 7 日消息,据外媒 motor1 今日报道,开发车手本杰明 · 洛伊希特驾驶大众高尔夫 GTI Edition 50 在纽北赛道跑出 7 分 44.52 秒 的圈速成绩,超过本田思域 Type R 在 2023 年创下的 7 分 44.88 秒。 至此,高尔夫 GTI Edition 50 加冕 纽博格林最快量产前驱车 。第三名是雷诺梅甘娜 RS Trophy-R,曾以 7 分 ...",
+      "source": "Ithome",
+      "date": "2026-05-07",
+      "url": "https://www.ithome.com/0/947/387.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3353427",
+      "title": "Truist将优步目标股价上调至$112,看好出行业务增长",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-05-06",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3349836"
+      "date": "2026-05-07",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3353427"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3349834",
-      "title": "海外研选日报0506 | 高盛:韩国存储芯片出口持续保持三位数增长",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-06",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3349834"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14388279.html",
-      "title": "地方新闻精选 | 浏阳烟花厂爆炸事故已完成5轮搜救 重庆动物园通报“大熊猫食用竹子发霉”",
-      "summary": "今天有哪些地方新闻值得关注?三亚通报“一海鲜店被指价格过高”:已启动先行赔付机制;女子体验瀑布秋千坠亡,当地称“事故方与家属达成赔偿协议”;山西交警通报“白车高速逆行”:司机路况不熟,罚款200元记12分。...",
-      "source": "Jiemian",
-      "date": "2026-05-06",
-      "url": "https://www.jiemian.com/article/14388279.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a2632epq/",
-      "title": "魏牌V9X试驾体验:40万级豪华旗舰SUV的驾驶质感解析",
-      "summary": "魏牌V9X定位为9系列豪华旗舰SUV,目前处于预售阶段,价格区间在37万至42万元左右。作为一款车长超过5.2米的大型SUV,该车在动力系统上采用插电式混动方案,并配备了空悬、后轮转向等高端配置。以下将从产品参数、驾驶质感、智能体验及内饰用料等方面,对该......",
+      "id": "https://post.smzdm.com/p/avgeerpn/",
+      "title": "星途ET5 HSD 1.6版本更新:新增8项功能,优化8项体验",
+      "summary": "星途ET5 HSD 1.6版本更新已推送,本次升级涉及智能驾驶辅助、安全配置、人机交互及舒适性功能等多个方面。系统共新增了8项功能,并对8项现有功能进行了优化升级,旨在提升车辆的主动安全能力与用户使用体验。01新增功能自动转向避让(AES)监测车辆前后方......",
       "source": "Smzdm",
-      "date": "2026-05-06",
-      "url": "https://post.smzdm.com/p/a2632epq/"
+      "date": "2026-05-07",
+      "url": "https://post.smzdm.com/p/avgeerpn/"
     },
     {
-      "id": "https://post.smzdm.com/p/ad73538k/",
-      "title": "零跑D19真实试驾体验:家用6座选择,续航扎实还省心",
-      "summary": "随着家庭出行需求的增加,6座车型成为不少用户的选择。零跑D19 2026款增程500智尊版作为一款面向家用的6座SUV,在空间布局、续航表现及智能化配置方面进行了针对性设计。以下基于实际试驾体验,从车型参数、驾驶模式、空间舒适性、外观内饰及智能科技等方面......",
-      "source": "Smzdm",
+      "id": "https://www.ithome.com/0/947/402.htm",
+      "title": "别克至境 E7 汽车上市两周累计交付突破 5000 台,置换权益价 15.49 万起",
+      "summary": "IT之家 5 月 7 日消息,别克汽车透露,截至 5 月 5 日,别克至境 E7 上市两周累计交付量突破 5000 台,其中“有孩家庭”占比超过 80%。系列车型于 4 月 22 日上市,共推出 3 款车型,售价区间 15.99-19.99 万元,置换权益价 15.49-19.49 万元。 外观方面,至境 E7 延续了至境 SUV 先导车的飞翼造型,采用新能源车型常见的封闭式前脸,配备分体式大灯,...",
+      "source": "Ithome",
+      "date": "2026-05-07",
+      "url": "https://www.ithome.com/0/947/402.htm"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/07/business/autonomous-vehicles-technology-other-uses.html",
+      "title": "After Stumbles, Technology Meant for Self-Driving Cars Finds a Second Act",
+      "summary": "After a crush of promises in 2016 that autonomous cars would soon rule the road, companies whose tech underpinned them have shifted to other industries, like managing shipyards and city traffic....",
+      "source": "The New York Times",
+      "date": "2026-05-07",
+      "url": "https://www.nytimes.com/2026/05/07/business/autonomous-vehicles-technology-other-uses.html"
+    },
+    {
+      "id": "https://www.firstpost.com/auto/driverless-trucks-to-roll-out-across-us-sun-belt-as-mclane-deploys-auroras-self-driving-rigs-14008317.html",
+      "title": "Driverless trucks to roll out across US sun belt as McLane deploys Aurora self-driving rigs",
+      "summary": "McLane is expanding its partnership with Aurora Innovation to scale autonomous trucking operations across Texas and the U.S. Sun Belt...",
+      "source": "Firstpost",
       "date": "2026-05-06",
-      "url": "https://post.smzdm.com/p/ad73538k/"
+      "url": "https://www.firstpost.com/auto/driverless-trucks-to-roll-out-across-us-sun-belt-as-mclane-deploys-auroras-self-driving-rigs-14008317.html"
     },
     {
       "id": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
@@ -252,14 +262,6 @@
       "source": "CNA",
       "date": "2026-05-05",
       "url": "https://www.channelnewsasia.com/east-asia/ponyai-robotaxi-artificial-intelligence-auto-china-6099966"
-    },
-    {
-      "id": "https://www.indiatoday.in/technology/news/story/uber-to-use-car-drivers-as-data-machines-for-self-driving-ai-companies-company-reveals-why-2904823-2026-05-02",
-      "title": "Uber to use car drivers as data machines for self-driving AI companies, company reveals why",
-      "summary": "Uber said it plans to use drivers and their trips to gather data for self-driving AI companies. The move shows how regular ride operations may support autonomous system development....",
-      "source": "India Today",
-      "date": "2026-05-02",
-      "url": "https://www.indiatoday.in/technology/news/story/uber-to-use-car-drivers-as-data-machines-for-self-driving-ai-companies-company-reveals-why-2904823-2026-05-02"
     }
   ]
 }
