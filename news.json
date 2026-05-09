@@ -1,203 +1,162 @@
 {
-  "lastUpdated": "2026-05-08 03:40:54",
-  "totalCount": 32,
+  "lastUpdated": "2026-05-09 03:41:57",
+  "totalCount": 25,
   "sources": {
-    "Bilibili": 5,
-    "Prnasia": 1,
-    "Smzdm": 2,
-    "Bjnews": 6,
-    "Chinanews": 1,
     "Ithome": 4,
-    "Fx168News": 1,
-    "Cri_Cn": 1,
+    "Chinanews": 2,
+    "Fx168News": 2,
+    "Cri_Cn": 2,
+    "Imobile": 1,
+    "Rfi_Fr": 1,
     "Investing_Cn": 1,
+    "Jiemian": 1,
+    "Smzdm": 1,
+    "The Manila Times": 2,
+    "Free Press Journal": 1,
     "The New York Times": 1,
     "Firstpost": 1,
     "CNBC": 1,
-    "The Manila Times": 1,
     "MarketScreener": 1,
     "PR Newswire UK": 1,
     "Devdiscourse": 1,
-    "CNA": 1,
-    "India Today": 1,
-    "Benzinga": 1
+    "CNA": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
-      "title": "【B站】到底是自动驾驶还是自动送死？",
-      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
-      "source": "Bilibili",
+      "id": "https://www.ithome.com/0/947/976.htm",
+      "title": "小米汽车详解“OTA 首批体验招募活动”:后续新版本将重新开放招募",
+      "summary": "IT之家 5 月 8 日消息,小米汽车官微今天晚间发布第 240 集答网友问,详细介绍了“OTA 首批体验招募活动”:此次活动覆盖第一代小米 SU7、YU7 及 SU7 Ultra 车型。报名成功且版本具备推送条件后,入选用户将作为 首批体验用户 ,第一时间收到 OTA 更新推送。 IT之家整理此次问答内容如下: 新一代小米 SU7 的「25 扬声器豪华音响系统」和标配的「14 扬声器」有什么区别...",
+      "source": "Ithome",
       "date": "2026-05-08",
-      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
+      "url": "https://www.ithome.com/0/947/976.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-08",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1XzdKBLE2z",
-      "title": "【B站】L3自动驾驶要来了！重庆出台L3自动驾驶细则，而且还要考试，华为乾崑能否满足这个要求呢？",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-05-08",
-      "url": "https://www.bilibili.com/video/BV1XzdKBLE2z"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
-      "date": "2026-05-08",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-08",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://www.prnasia.com/story/532238-1.shtml",
-      "title": "三一集团以电动化、无人化与AI赋能解决方案,扩展全球智能设备产品组合",
-      "summary": "上海 2026年5月7日 /美通社/ -- 三一集团第1000台电动挖掘机正式下线,标志着行业向电动化转型迈出了重要一步。其5G遥控挖掘机已实现商业化部署,无人驾驶压路机车队已投入使用,用于港口和矿山的集成智能解决方案也已投入运营。三一每年研发投入超过60亿元人民币,正加速从传统制造商向以机器人为核心、AI赋能的公司转型。 &amp;amp;amp;amp;amp;nbsp; Meet SANY'...",
-      "source": "Prnasia",
-      "date": "2026-05-07",
-      "url": "https://www.prnasia.com/story/532238-1.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqppqz7/",
-      "title": "本田车防碰撞预警功能开启指南与设置详解",
-      "summary": "本田车的防碰撞预警系统是一项重要的主动安全配置,能够在车辆探测到前方障碍物且驾驶员未采取制动措施时,发出警告并自动实施刹车。为了确保该功能正常发挥作用,需要正确设置车机系统中的相关选项。以下将详细介绍开启该功能的具体操作步骤及其作用机制。01功能设置操作......",
-      "source": "Smzdm",
-      "date": "2026-05-07",
-      "url": "https://post.smzdm.com/p/apqppqz7/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778159971169547.html",
-      "title": "享界、极狐双品牌出击,北汽蓝谷锚定2030年销售突破百万辆",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-07",
-      "url": "https://www.bjnews.com.cn/detail/1778159971169547.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-07/10617137.shtml",
-      "title": "宁夏探索夜间公共服务新模式:青年有去处 就业有出路",
-      "summary": "NewsData报道",
+      "id": "https://www.chinanews.com.cn/cj/2026/05-08/10617770.shtml",
+      "title": "多展项首次亮相 “超高清视听科技展”启幕",
+      "summary": "中新网北京5月8日电 (记者 高凯)5月8日至10日,第二十八届中国北京国际科技产业博览会在京举行。作为本届科博会的重要组成部分,由北京市广电局主办的“超高清视听科技展”于今日正式开幕。...",
       "source": "Chinanews",
-      "date": "2026-05-07",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-07/10617137.shtml"
+      "date": "2026-05-08",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-08/10617770.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/947/436.htm",
-      "title": "L4 级自动驾驶需 10000 公里累计安全测试里程,重庆出台智能汽车高速公路测试新规",
-      "summary": "IT之家 5 月 7 日消息,重庆市经济信息委今日联合重庆市公安局、市交委共同印发《重庆市智能网联汽车高速公路测试管理细则(试行)》,进一步补齐高阶自动驾驶高速场景测试制度短板, 规范 L3 级及以上智能网联汽车高速道路测试全流程管理 ,以安全可控、规范有序助力当地智能网联新能源汽车产业高质量发展,加速自动驾驶技术落地商业化应用。 《细则》旨在推动智能网联汽车技术进步,加速智能网联汽车商业化进程,...",
+      "id": "https://www.ithome.com/0/947/972.htm",
+      "title": "全球首座无人车“来电岛”在青岛启用,三年内落地百城",
+      "summary": "IT之家 5 月 8 日消息,今日,新石器无人车与特来电发布全球首个无人车自动充电及运营中心 —— 来电岛。同日,双方宣布: 3 年内,在全球超百座城市落地来电岛 。配合充电网络建设,支撑的无人车数量可达数十万辆级别。 据官方介绍,来电岛并非普通的充电桩,而是一个自动化运营枢纽。一座来电岛 = 100 个车位 + 自动充电终端,支持 立体泊车、1 小时充满 90 辆车;1 座来电岛 + 10 座 ...",
       "source": "Ithome",
-      "date": "2026-05-07",
-      "url": "https://www.ithome.com/0/947/436.htm"
+      "date": "2026-05-08",
+      "url": "https://www.ithome.com/0/947/972.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778158089168919.html",
-      "title": "网购电动车电池自燃烧毁邻居车辆,法院:违规用电池引火灾须担责",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-07",
-      "url": "https://www.bjnews.com.cn/detail/1778158089168919.html"
+      "id": "https://www.chinanews.com.cn/cj/2026/05-08/10617759.shtml",
+      "title": "无人车全链路补能体系在山东青岛发布 可实现自动泊车、充电",
+      "summary": "中新网青岛5月8日电 (王禹)面向无人驾驶领域的全链路自动充电与无人运营体系“来电岛1号”8日在山东青岛发布。该体系通过充电机器人、泊车机器人与AI智能体的融合技术架构,实现无人驾驶车辆从泊车、补能到运维的全流程无人化闭环,为无人驾驶产业规模化落地提供系统性的解决方案。...",
+      "source": "Chinanews",
+      "date": "2026-05-08",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-08/10617759.shtml"
     },
     {
-      "id": "https://www.fx168news.com/article/1027365",
-      "title": "今日晚间重要公告抢先看——5天4板永杉锂业筹划在四川南充建设锂盐项目;未来一年内没有注入计划 海川智能澄清信越半导体不实传闻;ST洲际控股股东被申请破产清算-FX168",
-      "summary": "今日晚间重要公告抢先看——永杉锂业:正在筹划与四川南充经济开发区管理委员会签署《锂盐项目投资协议》;海川智能:实控人未来12个月内没有将信越注入公司的计划;ST洲际:控股股东被申请破产清算;中大力德:控股股东及其一致行动人拟合计减持不超3%股份。【...",
+      "id": "https://www.fx168news.com/article/1027949",
+      "title": "维峰电子:5月8日召开业绩说明会,投资者参与-FX168",
+      "summary": "证券之星消息,2026年5月8日维峰电子(301328)发布公告称公司于2026年5月8日召开业绩说明会。 具体内容如下: 交流的主要问题与回复:问:讲一下 25 年公司的主业情况。答:2025年公司实现营业收入 71,292.04万元,较上年同期增长 33.46%;归属于母公司所有者的净利润为 9,882.92 万元,较上年同期增长 15.64%。工业控制领域业务维持稳健基本盘,依托长期积累的客...",
       "source": "Fx168News",
-      "date": "2026-05-07",
-      "url": "https://www.fx168news.com/article/1027365"
+      "date": "2026-05-08",
+      "url": "https://www.fx168news.com/article/1027949"
     },
     {
-      "id": "https://news.cri.cn/20260507/2ea7533b-9630-837a-96bd-85cfba48ad1f.html",
-      "title": "大漠油城“转”出新天地-国际在线",
-      "summary": "5月6日,在位于克拉玛依高新技术产业开发区的新疆金石钻采设备有限公司,技术人员检查即将出厂的油气井口装置。作为国内领先的高压井口装备制造企业,该公司可年产成套井口装置2000套、阀门5000套,以硬核技术支撑油气装备国产化升级。闵勇摄...",
+      "id": "https://news.cri.cn/20260508/5fb1273f-8615-c66e-506a-80f3f0501823.html",
+      "title": "为什么要“较真”一顶头盔?-国际在线",
+      "summary": "“就骑一小段路,不用戴吧?”“天太热了,戴头盔闷得慌。”“我骑车技术好,不会出事的。”......这些话,你是不是经常听到,甚至自己也说过?&e...",
       "source": "Cri_Cn",
-      "date": "2026-05-07",
-      "url": "https://news.cri.cn/20260507/2ea7533b-9630-837a-96bd-85cfba48ad1f.html"
+      "date": "2026-05-08",
+      "url": "https://news.cri.cn/20260508/5fb1273f-8615-c66e-506a-80f3f0501823.html"
     },
     {
-      "id": "https://www.ithome.com/0/947/413.htm",
-      "title": "Manthey 套件加持,保时捷 Taycan Turbo GT 重回纽北最速量产电动车宝座",
-      "summary": "IT之家 5 月 7 日消息,保时捷 Taycan Turbo GT 在原有 Weissach 轻量化套件基础上,新增了 Manthey 改装套件,化身赛道猛兽。由保时捷试车手拉尔斯・克恩驾驶,在纽博格林北环赛道跑出了 6 分 55 秒 553 的惊人圈速。 IT之家注意到,这一亮眼圈速比普通版 Taycan Turbo GT 快了 12 秒,同时比比亚迪仰望 U9 Xtreme (6 分 59 ...",
-      "source": "Ithome",
-      "date": "2026-05-07",
-      "url": "https://www.ithome.com/0/947/413.htm"
+      "id": "https://news.cri.cn/20260508/ed16ce77-a202-faf0-5791-1b9e3b991566.html",
+      "title": "从“传统农业”到“智慧农业” 科技助力希望的田野解锁“丰产密码”-国际在线",
+      "summary": "央视网消息:立夏过后,河南南部的水稻进入了忙碌的插秧季,目前,水稻主产区的插秧作业已经全面展开。当地的插秧作业进行得怎么样了?今年插秧跟往年有什么新变化? 眼下,河南8500万亩冬小麦已经进入灌浆期,再过两个星期就要陆续进入麦收。而在...",
+      "source": "Cri_Cn",
+      "date": "2026-05-08",
+      "url": "https://news.cri.cn/20260508/ed16ce77-a202-faf0-5791-1b9e3b991566.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778150724129743.html",
-      "title": "北京双桥地铁站周边闲置边角地变身非机动车停放区",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-07",
-      "url": "https://www.bjnews.com.cn/detail/1778150724129743.html"
+      "id": "http://news.imobile.com.cn/articles/2026/0508/234371.shtml",
+      "title": "风冷和水冷双散热架构加持 红魔11S Pro定档5月18日",
+      "summary": "红魔11S Pro今日正式官宣定档5月18日。从官网海报来看,本次新机的slogan为“风生水起、超频领先”,预示着散热与性能层面将带来不小的惊喜。 作为电竞手机领域的标杆,红魔11S Pro在延续传统风冷系统的同时,首次引入更为先进的水冷方案,形成“风冷+水冷”双重散热架构。据悉,新机将搭载脉动水冷引擎,机身内部注入特制冷却液。这种冷却液具备极高的稳定性和防导电、抗低温特性,即便在零下60度至1...",
+      "source": "Imobile",
+      "date": "2026-05-08",
+      "url": "http://news.imobile.com.cn/articles/2026/0508/234371.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778157752169541.html",
-      "title": "蛇出没频繁扰民,大兴消防提醒市民保持冷静切勿主动攻击或捕捉",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-07",
-      "url": "https://www.bjnews.com.cn/detail/1778157752169541.html"
+      "id": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260508-%E7%BE%8E%E5%9B%BD%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D-%E9%A9%BE%E9%A9%B6%E8%88%B1%E5%86%85%E5%8F%91%E7%94%9F%E8%BF%87%E6%90%8F%E6%96%97",
+      "title": "美国数据显示中国东航客机坠毁前 驾驶舱内发生过搏斗",
+      "summary": "美国国家运输安全委员会(NTSB)的数据显示,2022年中国飞机坠毁事故发生前,两台发动机均已关闭,驾驶舱内发生了搏斗。...",
+      "source": "Rfi_Fr",
+      "date": "2026-05-08",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260508-%E7%BE%8E%E5%9B%BD%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D-%E9%A9%BE%E9%A9%B6%E8%88%B1%E5%86%85%E5%8F%91%E7%94%9F%E8%BF%87%E6%90%8F%E6%96%97"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778150494129736.html",
-      "title": "新闻8点见丨上山捡垃圾的年轻人;豆包付费,一个月68块多难收?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-07",
-      "url": "https://www.bjnews.com.cn/detail/1778150494129736.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778150657129739.html",
-      "title": "网传“5月1日起驾考科目加项,难度翻倍”不实(2026·05·07)",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-07",
-      "url": "https://www.bjnews.com.cn/detail/1778150657129739.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/947/387.htm",
-      "title": "击败本田思域 Type-R,大众高尔夫 GTI 登顶纽北最快量产前驱车",
-      "summary": "IT之家 5 月 7 日消息,据外媒 motor1 今日报道,开发车手本杰明 · 洛伊希特驾驶大众高尔夫 GTI Edition 50 在纽北赛道跑出 7 分 44.52 秒 的圈速成绩,超过本田思域 Type R 在 2023 年创下的 7 分 44.88 秒。 至此,高尔夫 GTI Edition 50 加冕 纽博格林最快量产前驱车 。第三名是雷诺梅甘娜 RS Trophy-R,曾以 7 分 ...",
-      "source": "Ithome",
-      "date": "2026-05-07",
-      "url": "https://www.ithome.com/0/947/387.htm"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3353427",
-      "title": "Truist将优步目标股价上调至$112,看好出行业务增长",
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3356690",
+      "title": "Robo.ai斥资$1亿收购Neurovia,股价盘前暴涨70%",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-05-07",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3353427"
+      "date": "2026-05-08",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3356690"
     },
     {
-      "id": "https://post.smzdm.com/p/avgeerpn/",
-      "title": "星途ET5 HSD 1.6版本更新:新增8项功能,优化8项体验",
-      "summary": "星途ET5 HSD 1.6版本更新已推送,本次升级涉及智能驾驶辅助、安全配置、人机交互及舒适性功能等多个方面。系统共新增了8项功能,并对8项现有功能进行了优化升级,旨在提升车辆的主动安全能力与用户使用体验。01新增功能自动转向避让(AES)监测车辆前后方......",
-      "source": "Smzdm",
-      "date": "2026-05-07",
-      "url": "https://post.smzdm.com/p/avgeerpn/"
+      "id": "https://www.fx168news.com/article/1027914",
+      "title": "Bitget 推出奖池高达 100,000 USDT 的“粉丝故事:你眼中的 UEX”活动-FX168",
+      "summary": "塞舌尔维多利亚, May 08, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 今日推出全新社区活动“Bitget 粉丝故事:你眼中的 UEX”(Bitget Fan Story: UEX Through Your Eyes),诚邀全球符合条件的用户在社交媒体上分享自己的 Bitget 使用经历,即有机会瓜分最高可达 100,000 USDT 的...",
+      "source": "Fx168News",
+      "date": "2026-05-08",
+      "url": "https://www.fx168news.com/article/1027914"
     },
     {
-      "id": "https://www.ithome.com/0/947/402.htm",
-      "title": "别克至境 E7 汽车上市两周累计交付突破 5000 台,置换权益价 15.49 万起",
-      "summary": "IT之家 5 月 7 日消息,别克汽车透露,截至 5 月 5 日,别克至境 E7 上市两周累计交付量突破 5000 台,其中“有孩家庭”占比超过 80%。系列车型于 4 月 22 日上市,共推出 3 款车型,售价区间 15.99-19.99 万元,置换权益价 15.49-19.49 万元。 外观方面,至境 E7 延续了至境 SUV 先导车的飞翼造型,采用新能源车型常见的封闭式前脸,配备分体式大灯,...",
+      "id": "https://www.jiemian.com/article/14393486.html",
+      "title": "一名民航飞行员的诞生:“百万年薪”职业光环的B面",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-05-08",
+      "url": "https://www.jiemian.com/article/14393486.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/947/983.htm",
+      "title": "上汽 MG 07“莫雷洛紫”官图发布:轿跑造型,预计定位 15-20 万元级",
+      "summary": "IT之家 5 月 8 日消息,上汽 MG 今日公布 MG 07 车型“莫雷洛紫”配色官图,新车预计定位 15-20 万元级市场,并于年内上市。 外观层面,MG07 采用轿跑标志性的 大溜背造型 ,从 A 柱、车顶延展至车尾形成一气呵成的顺滑溜背线条,塑造出低趴宽体的运动姿态,搭配犀利灯组与主动式进气格栅。 车身侧面,流畅的曲面肌理勾勒出层次分明的腰、肩、臀体态。同时,新车搭载无框车门、翼子板空气动...",
       "source": "Ithome",
-      "date": "2026-05-07",
-      "url": "https://www.ithome.com/0/947/402.htm"
+      "date": "2026-05-08",
+      "url": "https://www.ithome.com/0/947/983.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anvp4wzp/",
+      "title": "2026年选电车如何避免被背刺?问界M6与朝阳一号技术解析",
+      "summary": "在2026年北京国际车展上,全新问界M6正式亮相。作为问界系列的最新成员,该车型定位为智能运动型SUV,主打年轻化市场。针对新能源消费者普遍关注的“技术快速迭代导致被背刺”的痛点,问界M6在智能驾驶、底盘结构、电池技术以及轮胎配套等方面进行了全面升级,试......",
+      "source": "Smzdm",
+      "date": "2026-05-08",
+      "url": "https://post.smzdm.com/p/anvp4wzp/"
+    },
+    {
+      "id": "https://www.ithome.com/0/947/955.htm",
+      "title": "吉利博越十周年冠军版 SUV 将于 5 月 9 日上市:搭载专属时光蓝车色、新增多处专属纪念徽标",
+      "summary": "IT之家 5 月 8 日消息,吉利汽车宣布旗下全新博越十周年冠军版车型将于 5 月 9 日(明天)上市,新款车型主要引入专属时光蓝车色,同时在汽车内外增加多处十周年专属纪念徽标。 该车延续在售现款车型设计,配套全新的“时光蓝”专属车色。车内外多处搭载十周年专属纪念徽标。匹配 Flyme Auto 智能座舱,提供 L2 级辅助驾驶系统。 规格方面,IT之家获悉新车长宽高分别为 4549/1865/1...",
+      "source": "Ithome",
+      "date": "2026-05-08",
+      "url": "https://www.ithome.com/0/947/955.htm"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/ponyai-labor-day-holiday-robotaxi-paid-orders-surge-more-than-sixfold/2339444",
+      "title": "Pony.ai Labor Day Holiday Robotaxi Paid Orders Surge More Than Sixfold",
+      "summary": "GUANGZHOU, China, May 8, 2026 /PRNewswire/ -- Pony AI Inc. ('Pony.ai') (NASDAQ: PONY; HKEX: 2026), a global leader in the large-scale commercialization of autonomous driving technology, reported a sha...",
+      "source": "The Manila Times",
+      "date": "2026-05-08",
+      "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/ponyai-labor-day-holiday-robotaxi-paid-orders-surge-more-than-sixfold/2339444"
+    },
+    {
+      "id": "https://www.freepressjournal.in/business/kpit-technologies-founder-chairman-ravi-pandit-passes-away-at-71",
+      "title": "KPIT Technologies Founder & Chairman Ravi Pandit Passes Away At 71",
+      "summary": "Dr. Ravi Pandit, founder and Chairman of KPIT Technologies, passed away in Pune on Friday at the age of 71. A key figure in building the company into a global leader in automotive software, autonomous...",
+      "source": "Free Press Journal",
+      "date": "2026-05-08",
+      "url": "https://www.freepressjournal.in/business/kpit-technologies-founder-chairman-ravi-pandit-passes-away-at-71"
     },
     {
       "id": "https://www.nytimes.com/2026/05/07/business/autonomous-vehicles-technology-other-uses.html",
