@@ -1,13 +1,18 @@
 {
-  "lastUpdated": "2026-05-10 03:58:57",
-  "totalCount": 29,
+  "lastUpdated": "2026-05-11 04:10:04",
+  "totalCount": 28,
   "sources": {
-    "Chinanews": 3,
-    "Hypebeast_Cn": 1,
-    "Bjnews": 6,
-    "News_Seehua": 3,
-    "Ithome": 5,
+    "Fx168News": 1,
+    "Ithome": 2,
     "Newscase": 1,
+    "Theportugalnews": 1,
+    "Smzdm": 2,
+    "Jiemian": 1,
+    "Chinanews": 3,
+    "News_Seehua": 4,
+    "Orientaldaily": 1,
+    "Bjnews": 1,
+    "Eeo": 1,
     "GlobeNewswire": 1,
     "The Manila Times": 2,
     "Free Press Journal": 1,
@@ -20,156 +25,148 @@
   },
   "news": [
     {
-      "id": "https://www.chinanews.com.cn/gj/2026/05-09/10618390.shtml",
-      "title": "俄举行胜利日红场阅兵 普京强调铭记历史",
-      "summary": "中新社莫斯科5月9日电 (记者 田冰)俄罗斯纪念卫国战争胜利81周年阅兵活动9日在莫斯科红场举行。俄罗斯总统普京表示,铭记二战真实历史是义不容辞的责任。...",
-      "source": "Chinanews",
-      "date": "2026-05-09",
-      "url": "https://www.chinanews.com.cn/gj/2026/05-09/10618390.shtml"
+      "id": "https://www.fx168news.com/article/1028273",
+      "title": "美光会是下一个英伟达吗?为什么2026年的“存储紧缺”使MU股票成为顶级AI买入标的-FX168",
+      "summary": "TradingKey - 过去两年,半导体行业格局发生了翻天覆地的变化。尽管2024年和2025年由逻辑型AI加速器的爆发式增长所主导,但2026年正迎来“存储紧缩”。随着人工智能模型向日益复杂的智能体系统和自主架构转型,业界的关注点已从GPU的处理能力转向存储解决方案至关重要的数据传输能力。 在这一转型过程中,处于领先地位的是美光科技 (MU)。美光科技曾被视为存储芯片行业的“二流角色”,如今已...",
+      "source": "Fx168News",
+      "date": "2026-05-10",
+      "url": "https://www.fx168news.com/article/1028273"
     },
     {
-      "id": "https://hypebeast.cn/2026/5/silver-arrow-reborn-audi-tradition-unveils-record-breaking-recreation-1935-auto-union-lucca",
-      "title": "银箭重生:Audi Tradition 发表全新复刻 1935 年 Auto Union Lucca",
-      "summary": "在 1930 年代,对极速的追逐是一股席卷全球的狂热,推动了汽车史上一些最为大胆的工程壮举。如今,Audi Tradition 正将那个极端年代的一颗皇冠明珠重新带回世人眼前。作为对车名本身的致敬,品牌特地前往意大利城市 Lucca,发表以极高完成度重现的 1935 年 Auto Union Lucca。这款当年被称为「Rennlimousine」(赛车房车)的银箭,如今被从历史长河中悉心唤醒,再...",
-      "source": "Hypebeast_Cn",
-      "date": "2026-05-09",
-      "url": "https://hypebeast.cn/2026/5/silver-arrow-reborn-audi-tradition-unveils-record-breaking-recreation-1935-auto-union-lucca"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778327093169581.html",
-      "title": "对话上汽奥迪谢施奇:品牌发展不能同质化,要情感链接打动用户",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-09",
-      "url": "https://www.bjnews.com.cn/detail/1778327093169581.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-09/10618283.shtml",
-      "title": "应用场景多样 中国自动驾驶拓展海外市场",
-      "summary": "中新社北京5月9日电 (记者 陈杭)正在北京举行的第二十八届中国北京国际科技产业博览会(简称“北京科博会”)上,多家企业同台竞技,展现自动驾驶“下田”“入矿”等多样应用场景。...",
-      "source": "Chinanews",
-      "date": "2026-05-09",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-09/10618283.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778317697129203.html",
-      "title": "北京交警发布下周交通预报及出行提示",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-09",
-      "url": "https://www.bjnews.com.cn/detail/1778317697129203.html"
-    },
-    {
-      "id": "https://news.seehua.com/post/1481624",
-      "title": "法拉利失控起火受困火海 两新加坡男女丧命",
-      "summary": "(哥打丁宜9日讯)新山往丰盛港路段今日上午发生一起夺命车祸,一辆法拉利跑车失控发生意外,导致车内一对新加坡籍男 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-09",
-      "url": "https://news.seehua.com/post/1481624"
-    },
-    {
-      "id": "https://news.seehua.com/post/1481612",
-      "title": "森首4个月逾1万宗车祸夺134命 摩哆死亡率占88人最严重",
-      "summary": "(芙蓉9日讯)根据森州警方公布数据,今年首4个月,森美兰州共发生1万195宗道路交通事故,其中126宗为致命车 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-09",
-      "url": "https://news.seehua.com/post/1481612"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-09/10618231.shtml",
-      "title": "《道路交通事故处理程序规定》将修改 公开征求意见→",
-      "summary": "为进一步适应道路交通事故处理工作新形势、新发展,优化道路交通事故处理程序,提升道路交通事故现场勘查效率,近日,公安部就关于修改《道路交通事故处理程序规定》的决定(征求意见稿)公开征求意见。...",
-      "source": "Chinanews",
-      "date": "2026-05-09",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-09/10618231.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/948/312.htm",
-      "title": "《道路交通事故处理程序规定》征求意见:公安机关可调取汽车行驶记录仪、自动驾驶数据记录系统等电子数据作为证据材料",
-      "summary": "IT之家 5 月 9 日消息,为进一步适应道路交通事故处理工作新形势、新发展,优化道路交通事故处理程序,提升道路交通事故现场勘查效率,5 月 8 日,公安部就关于修改《道路交通事故处理程序规定》的决定(征求意见稿)公开征求意见。 IT之家注意到,《道路交通事故处理程序规定》共 114 条,拟修改 9 条,主要包括: 一是调整机动车检验合格标志或保险标志要求 。适应已全面推行的机动车检验合格标识和保...",
+      "id": "https://www.ithome.com/0/948/551.htm",
+      "title": "中国赛车 + 车手再夺世界冠军,吉利星瑞 TCR 首战即登顶",
+      "summary": "IT之家 5 月 10 日消息,吉利汽车运动今日宣布,中国车手马青骅驾驶吉利星瑞 TCR 赛车获得 2026 FIA TCR 世界巡回赛意大利站冠军。 IT之家从官方介绍获悉,5 月 8 日-10 日,2026 赛季 FIA TCR 世界巡回赛揭幕战将在意大利米萨诺赛道打响。吉利中国星车队(Geely Cyan Racing)携星瑞 TCR 赛车开启全新世界征程,车手包括来自中国的马青骅(Ma Q...",
       "source": "Ithome",
-      "date": "2026-05-09",
-      "url": "https://www.ithome.com/0/948/312.htm"
+      "date": "2026-05-10",
+      "url": "https://www.ithome.com/0/948/551.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778312823129082.html",
-      "title": "排队开飞机、围观机器人踢球......北京科博会成“硬核游乐场”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-09",
-      "url": "https://www.bjnews.com.cn/detail/1778312823129082.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778308042129982.html",
-      "title": "责任引领高质量发展,T3出行的可持续发展实践",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-09",
-      "url": "https://www.bjnews.com.cn/detail/1778308042129982.html"
-    },
-    {
-      "id": "https://news.seehua.com/post/1481536",
-      "title": "马拉端警雷厉执法行动 取缔非法改装及违规摩托",
-      "summary": "(民丹莪9日讯)针对日益严重的摩托车非法改装及噪音滋扰问题,马拉端县警方日前在民丹莪地区展开雷厉执法行动,成功 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-09",
-      "url": "https://news.seehua.com/post/1481536"
-    },
-    {
-      "id": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%94%90%E7%B3%BB%E5%88%97%E5%BC%BA%E5%8A%BF%E5%9B%9E%E5%BD%92%EF%BC%8C%E7%99%BE%E5%A4%A9%E9%A2%84%E5%94%AE%E7%A0%B410%E4%B8%87%EF%BC%8C%E8%83%BD%E5%90%A6/",
-      "title": "比亚迪“唐”系列强势回归,百天预售破10万,能否扭转国内颓势?",
-      "summary": "比亚迪正经历着冰火两重天的考验。一边是全新旗舰SUV“唐”系列在预售开启后不到两周便斩获超过10万张订单,另一边却是国内销量连续第八个月下滑,净利润在第一季度惨遭腰斩。这家中国新能源汽车巨头,正试图用一款技术拉满的“救市之作”,来弥合全球野心与本土现实之间的巨大鸿沟。 新“唐”的救赎:从月销1800到10万订单 比亚迪销售公司总经理吕天在5月7日确认,全新一代“唐”系列SUV的预订量已突破10万辆...",
+      "id": "https://www.newscase.com/%E5%B0%8F%E7%B1%B3%E7%9A%84%E6%AC%A7%E6%B4%B2%E6%94%BB%E5%8A%BF%EF%BC%9A%E4%BB%8E%E6%85%95%E5%B0%BC%E9%BB%91%E7%A0%94%E5%8F%91%E5%88%B0%E5%BE%B7%E5%9B%BD%E9%A6%96%E5%8F%91%EF%BC%8C%E7%94%B5/",
+      "title": "小米的”欧洲攻势”:从慕尼黑研发到德国首发,电动车战略全面提速",
+      "summary": "中国科技巨头小米正以前所未有的速度推进其电动车全球化布局。这家以智能手机起家的公司,不仅在德国慕尼黑设立了拥有超过100名工程师的研发中心,更计划于2027年下半年以德国为起点,开启”城市对城市”的欧洲扩张模式。这一系列动作背后,是小米对汽车业务长达十年的百亿美元投资承诺。 管理层重组与人才争夺战 小米正在为其全球汽车战略搭建核心班底。公司副总裁于立国已正式接管海外业务筹备工作,直接向CEO雷军汇...",
       "source": "Newscase",
-      "date": "2026-05-09",
-      "url": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%94%90%E7%B3%BB%E5%88%97%E5%BC%BA%E5%8A%BF%E5%9B%9E%E5%BD%92%EF%BC%8C%E7%99%BE%E5%A4%A9%E9%A2%84%E5%94%AE%E7%A0%B410%E4%B8%87%EF%BC%8C%E8%83%BD%E5%90%A6/"
+      "date": "2026-05-10",
+      "url": "https://www.newscase.com/%E5%B0%8F%E7%B1%B3%E7%9A%84%E6%AC%A7%E6%B4%B2%E6%94%BB%E5%8A%BF%EF%BC%9A%E4%BB%8E%E6%85%95%E5%B0%BC%E9%BB%91%E7%A0%94%E5%8F%91%E5%88%B0%E5%BE%B7%E5%9B%BD%E9%A6%96%E5%8F%91%EF%BC%8C%E7%94%B5/"
     },
     {
-      "id": "https://www.ithome.com/0/948/365.htm",
-      "title": "上汽大众 ID. ERA 系列首款轿车 5S 申报图公布",
-      "summary": "IT之家 5 月 9 日消息,工信部今晚发布第 407 批《道路机动车辆生产企业及产品公告》新产品公示,上汽大众 ID. ERA 系列首款轿车 5S 现身。 IT之家从申报信息获悉,该车尺寸为长 4836mm、宽 1880mm、高 1505mm, 轴距为 2766mm ,采用插电式混合动力。 动力方面,新车将搭载 1.5T 插电混动系统,其中发动机最大净功率为 77kW,驱动电机额定功率为 57....",
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-05-10/the-peugeot-2008-portugals-favourite-car/1018652",
+      "title": "标致 2008:葡萄牙最受欢迎的汽车",
+      "summary": "NewsData报道",
+      "source": "Theportugalnews",
+      "date": "2026-05-10",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-05-10/the-peugeot-2008-portugals-favourite-car/1018652"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomrr0dr/",
+      "title": "美国给自动驾驶踩刹车,却给特斯拉开了绿灯",
+      "summary": "编者按:这可能是特斯拉近期收到的最奇怪的好消息。5月7日,NHTSA宣布2026款Model Y成为全球首款通过全新ADAS安全基准测试的量产车型——行人AEB、盲区预警+干预、车道保持辅助,四项全过。然而就在几周前,同一个NHTSA还在调查特斯拉的FS......",
+      "source": "Smzdm",
+      "date": "2026-05-10",
+      "url": "https://post.smzdm.com/p/aomrr0dr/"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14405803.html",
+      "title": "一周新车盘点 | AUDI预售第二款产品 雷克萨斯亮相纯电SUV旗舰",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-05-10",
+      "url": "https://www.jiemian.com/article/14405803.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/948/492.htm",
+      "title": "全新长轴距版宝马 X5 将于明年登陆中国,搭载与毫末智行联合研发的辅助驾驶系统",
+      "summary": "IT之家 5 月 10 日消息,近期北京国际车展上,宝马多款新车重磅首发,三款全新车型成为焦点。除即将登陆全球市场的宝马 7 系 /i7 改款车型外,专为中国市场打造的长轴距 i3 与 iX3 两款新世代纯电车型也正式首发。后续还有更多新车规划,下一代宝马 X5 也将为宝马最大的单一市场推出专属版本。 在季度财报电话会议后的问答环节中,宝马首席财务官瓦尔特・默特尔宣布,中国专属版 X5 将于 20...",
       "source": "Ithome",
-      "date": "2026-05-09",
-      "url": "https://www.ithome.com/0/948/365.htm"
+      "date": "2026-05-10",
+      "url": "https://www.ithome.com/0/948/492.htm"
     },
     {
-      "id": "https://www.ithome.com/0/948/346.htm",
-      "title": "吉利全新博越十周年冠军版上市:搭载 Flyme Auto 智能座舱,限时价 8.79 万元",
-      "summary": "IT之家 5 月 9 日消息,今天晚间,吉利全新博越十周年冠军版正式上市,上市指导价 9.69 万元, 限时价 8.79 万元 ,6 月 30 日前购买用户限时赠送价值 2199 元的十周年冠军套装。 目前,吉利全新博越车型共包含 5 款配置,限时价区间为 7.69 万-9.79 万元。 新车采用专属 时光蓝车色 ,内饰多处增加十周年专属纪念徽标,并搭载 Flyme Auto 智能座舱,通过 GE...",
-      "source": "Ithome",
-      "date": "2026-05-09",
-      "url": "https://www.ithome.com/0/948/346.htm"
+      "id": "https://www.chinanews.com.cn/dwq/2026/05-10/10618613.shtml",
+      "title": "中阿诗人羊城共话诗情 科技与文学交织启新程",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-05-10",
+      "url": "https://www.chinanews.com.cn/dwq/2026/05-10/10618613.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/948/311.htm",
-      "title": "蔚来 2026 款乐道 L90 开启全国交付,整车购买 26.58 万元起",
-      "summary": "IT之家 5 月 9 日消息,今日蔚来旗下乐道汽车宣布,2026 款乐道 L90 正式开启全国交付。乐道 L90 001 号车主,知名演员沙溢 & 胡可一家增购 2026 款乐道 L90,成为乐道 L90 双车主。 IT之家注意到,2026 款蔚来乐道 L90 纯电大三排 SUV 于 4 月 21 日晚正式上市。新车拥有八大板块、超过 70 项软硬件升级, 整车购买 26.58 万元起、电池租用方...",
-      "source": "Ithome",
-      "date": "2026-05-09",
-      "url": "https://www.ithome.com/0/948/311.htm"
+      "id": "https://news.seehua.com/post/1482001",
+      "title": "汽车炸弹袭击 巴基斯坦警察检查站15死",
+      "summary": "(白沙瓦10日讯)巴基斯坦官员周日表示,超过100名武装分子在巴基斯坦西北部的一个检查站引爆了一辆汽车炸弹,并 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-10",
+      "url": "https://news.seehua.com/post/1482001"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778316301129146.html",
-      "title": "博格华纳扭矩矢量技术详解:原理、优势与搭载车型全盘点",
+      "id": "https://www.chinanews.com.cn/sh/2026/05-10/10618774.shtml",
+      "title": "男子加油逃单同行人对监控比耶",
+      "summary": "近日,广东梅州丰顺县发生一起加油逃单事件。一辆轿车在加满价值640元的油后,司机未付款便强行逃离现场,同行人员还在逃窜过程中对着监控摄像头嚣张“比耶”。...",
+      "source": "Chinanews",
+      "date": "2026-05-10",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-10/10618774.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/05-10/10618766.shtml",
+      "title": "优存量拓增量提效能,加快建设交通强国",
+      "summary": "此次国务院常务会议从基础设施、管理服务、改革创新三个维度作出系统部署,既立足当前解决突出问题,又着眼长远为交通强国建设勾勒路线图。...",
+      "source": "Chinanews",
+      "date": "2026-05-10",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-10/10618766.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/05/10/817583",
+      "title": "凌晨骑摩哆失控 17岁少年伤重亡",
+      "summary": "(东甲10日讯) 一名17岁巫裔中学生于昨日凌晨骑乘摩哆途经东甲锡兰路(Jalan Seilan)时,疑因失控导致翻覆意外,不幸伤重身亡。东甲警区主任罗斯兰证实,警方是在昨日凌晨1时13分接获投报,指在东甲锡兰路第7公里处发生交通意外。初步调查显示,该起事故仅涉及一辆摩哆,并无其他车辆卷入其中。死者证实为一名来自东甲县内某中学的17岁少年,他在事发后因伤势过重而不治。警方目前援引1987年陆路交通...",
+      "source": "Orientaldaily",
+      "date": "2026-05-10",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/05/10/817583"
+    },
+    {
+      "id": "https://news.seehua.com/post/1481993",
+      "title": "瓜冷警方深夜取缔青少年飙车党 55人无驾照接罚单6摩哆被充公",
+      "summary": "(瓜拉冷岳10日讯)瓜拉冷岳警方本周五晚上在当地展开突击行动,成功拦截多名无驾照的青少年及学生,并充公多辆非法 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-10",
+      "url": "https://news.seehua.com/post/1481993"
+    },
+    {
+      "id": "https://news.seehua.com/post/1481966",
+      "title": "阿邦佐:未来人与机器人并肩工作 砂拉越须靠“理性计算”拥抱高科技经济",
+      "summary": "(古晋10日讯)“以前我提倡氢能时,有人笑我、有人呱呱叫。现在你们看,柴油越来越贵了!” 砂总理拿督巴丁宜丹斯 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-10",
+      "url": "https://news.seehua.com/post/1481966"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778414681129765.html",
+      "title": "政银企共推购车热潮,广发银行以金融活水润泽羊城消费",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-09",
-      "url": "https://www.bjnews.com.cn/detail/1778316301129146.html"
+      "date": "2026-05-10",
+      "url": "https://www.bjnews.com.cn/detail/1778414681129765.html"
     },
     {
-      "id": "https://www.ithome.com/0/948/241.htm",
-      "title": "上汽通用五菱与华为合作首车上市,华境品牌独立筹备工作仍在推进中",
-      "summary": "IT之家 5 月 9 日消息,5 月 8 日晚间,上汽通用五菱与华为深化战略合作的首款旗舰车型 —— 华境 S 正式上市并开启交付,超级置换价区间为 14.98 万 ~19.38 万元。上汽通用五菱相关负责人在接受《每日经济新闻》记者采访时表示, 目前华境品牌独立工作正在稳步推进,公司将适时宣布华境品牌独立的消息 。 IT之家注意到,2025 年 9 月,上汽通用五菱与华为宣布深化合作,全面升级战...",
-      "source": "Ithome",
-      "date": "2026-05-09",
-      "url": "https://www.ithome.com/0/948/241.htm"
+      "id": "https://post.smzdm.com/p/ae60rz64/",
+      "title": "江淮瑞风RF8悦享系列静态评测:20万级新能源MPV的新优选",
+      "summary": "江淮瑞风RF8悦享系列定位为20万级插混MPV,主打“好开又好坐”的产品理念。该车基于25年MPV制造经验打造,在尺寸、智能、舒适及安全方面进行了全面升级,旨在解决传统MPV驾驶笨重与后排乘坐不适的痛点。以下是对该车型核心亮点与配置的详细梳理。01外观内......",
+      "source": "Smzdm",
+      "date": "2026-05-10",
+      "url": "https://post.smzdm.com/p/ae60rz64/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778311177129045.html",
-      "title": "百年老字号遇上AI咖啡师,科博会东城展区可看、可玩、可体验",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-09",
-      "url": "https://www.bjnews.com.cn/detail/1778311177129045.html"
+      "id": "http://www.eeo.com.cn/2026/0510/870897.shtml",
+      "title": "五菱打出“华为牌”:14.98万的大六座华境S,能否逆转局势?",
+      "summary": "华境S作为最新落地的战略产品,能否在15万元级大六座SUV市场打开局面,将直接决定上汽通用五菱能否开启新一轮增长通道。...",
+      "source": "Eeo",
+      "date": "2026-05-10",
+      "url": "http://www.eeo.com.cn/2026/0510/870897.shtml"
+    },
+    {
+      "id": "https://news.seehua.com/post/1481988",
+      "title": "男子污言骚扰多名女子 巴士司机“神转弯”直送警局:得保护我的乘客",
+      "summary": "(天津10日讯)中国天津发生一宗巴士女乘客遭骚扰案件,一名男子在车上以淫秽言语连续骚扰多名女乘客,令车上陷入荒 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-10",
+      "url": "https://news.seehua.com/post/1481988"
     },
     {
       "id": "https://www.globenewswire.com/news-release/2026/05/08/3291352/0/en/weride-inc-to-hold-annual-general-meeting-on-june-26-2026.html",
