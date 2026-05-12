@@ -1,18 +1,14 @@
 {
-  "lastUpdated": "2026-05-11 04:10:04",
-  "totalCount": 28,
+  "lastUpdated": "2026-05-12 03:53:57",
+  "totalCount": 25,
   "sources": {
-    "Fx168News": 1,
+    "Bjnews": 3,
+    "Chinanews": 5,
     "Ithome": 2,
-    "Newscase": 1,
-    "Theportugalnews": 1,
-    "Smzdm": 2,
-    "Jiemian": 1,
-    "Chinanews": 3,
-    "News_Seehua": 4,
+    "Rfi_Fr": 1,
+    "Investing_Cn": 2,
+    "Vietnamplus": 1,
     "Orientaldaily": 1,
-    "Bjnews": 1,
-    "Eeo": 1,
     "GlobeNewswire": 1,
     "The Manila Times": 2,
     "Free Press Journal": 1,
@@ -25,148 +21,124 @@
   },
   "news": [
     {
-      "id": "https://www.fx168news.com/article/1028273",
-      "title": "美光会是下一个英伟达吗?为什么2026年的“存储紧缺”使MU股票成为顶级AI买入标的-FX168",
-      "summary": "TradingKey - 过去两年,半导体行业格局发生了翻天覆地的变化。尽管2024年和2025年由逻辑型AI加速器的爆发式增长所主导,但2026年正迎来“存储紧缩”。随着人工智能模型向日益复杂的智能体系统和自主架构转型,业界的关注点已从GPU的处理能力转向存储解决方案至关重要的数据传输能力。 在这一转型过程中,处于领先地位的是美光科技 (MU)。美光科技曾被视为存储芯片行业的“二流角色”,如今已...",
-      "source": "Fx168News",
-      "date": "2026-05-10",
-      "url": "https://www.fx168news.com/article/1028273"
-    },
-    {
-      "id": "https://www.ithome.com/0/948/551.htm",
-      "title": "中国赛车 + 车手再夺世界冠军,吉利星瑞 TCR 首战即登顶",
-      "summary": "IT之家 5 月 10 日消息,吉利汽车运动今日宣布,中国车手马青骅驾驶吉利星瑞 TCR 赛车获得 2026 FIA TCR 世界巡回赛意大利站冠军。 IT之家从官方介绍获悉,5 月 8 日-10 日,2026 赛季 FIA TCR 世界巡回赛揭幕战将在意大利米萨诺赛道打响。吉利中国星车队(Geely Cyan Racing)携星瑞 TCR 赛车开启全新世界征程,车手包括来自中国的马青骅(Ma Q...",
-      "source": "Ithome",
-      "date": "2026-05-10",
-      "url": "https://www.ithome.com/0/948/551.htm"
-    },
-    {
-      "id": "https://www.newscase.com/%E5%B0%8F%E7%B1%B3%E7%9A%84%E6%AC%A7%E6%B4%B2%E6%94%BB%E5%8A%BF%EF%BC%9A%E4%BB%8E%E6%85%95%E5%B0%BC%E9%BB%91%E7%A0%94%E5%8F%91%E5%88%B0%E5%BE%B7%E5%9B%BD%E9%A6%96%E5%8F%91%EF%BC%8C%E7%94%B5/",
-      "title": "小米的”欧洲攻势”:从慕尼黑研发到德国首发,电动车战略全面提速",
-      "summary": "中国科技巨头小米正以前所未有的速度推进其电动车全球化布局。这家以智能手机起家的公司,不仅在德国慕尼黑设立了拥有超过100名工程师的研发中心,更计划于2027年下半年以德国为起点,开启”城市对城市”的欧洲扩张模式。这一系列动作背后,是小米对汽车业务长达十年的百亿美元投资承诺。 管理层重组与人才争夺战 小米正在为其全球汽车战略搭建核心班底。公司副总裁于立国已正式接管海外业务筹备工作,直接向CEO雷军汇...",
-      "source": "Newscase",
-      "date": "2026-05-10",
-      "url": "https://www.newscase.com/%E5%B0%8F%E7%B1%B3%E7%9A%84%E6%AC%A7%E6%B4%B2%E6%94%BB%E5%8A%BF%EF%BC%9A%E4%BB%8E%E6%85%95%E5%B0%BC%E9%BB%91%E7%A0%94%E5%8F%91%E5%88%B0%E5%BE%B7%E5%9B%BD%E9%A6%96%E5%8F%91%EF%BC%8C%E7%94%B5/"
-    },
-    {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-05-10/the-peugeot-2008-portugals-favourite-car/1018652",
-      "title": "标致 2008:葡萄牙最受欢迎的汽车",
-      "summary": "NewsData报道",
-      "source": "Theportugalnews",
-      "date": "2026-05-10",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-05-10/the-peugeot-2008-portugals-favourite-car/1018652"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomrr0dr/",
-      "title": "美国给自动驾驶踩刹车,却给特斯拉开了绿灯",
-      "summary": "编者按:这可能是特斯拉近期收到的最奇怪的好消息。5月7日,NHTSA宣布2026款Model Y成为全球首款通过全新ADAS安全基准测试的量产车型——行人AEB、盲区预警+干预、车道保持辅助,四项全过。然而就在几周前,同一个NHTSA还在调查特斯拉的FS......",
-      "source": "Smzdm",
-      "date": "2026-05-10",
-      "url": "https://post.smzdm.com/p/aomrr0dr/"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14405803.html",
-      "title": "一周新车盘点 | AUDI预售第二款产品 雷克萨斯亮相纯电SUV旗舰",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-05-10",
-      "url": "https://www.jiemian.com/article/14405803.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/948/492.htm",
-      "title": "全新长轴距版宝马 X5 将于明年登陆中国,搭载与毫末智行联合研发的辅助驾驶系统",
-      "summary": "IT之家 5 月 10 日消息,近期北京国际车展上,宝马多款新车重磅首发,三款全新车型成为焦点。除即将登陆全球市场的宝马 7 系 /i7 改款车型外,专为中国市场打造的长轴距 i3 与 iX3 两款新世代纯电车型也正式首发。后续还有更多新车规划,下一代宝马 X5 也将为宝马最大的单一市场推出专属版本。 在季度财报电话会议后的问答环节中,宝马首席财务官瓦尔特・默特尔宣布,中国专属版 X5 将于 20...",
-      "source": "Ithome",
-      "date": "2026-05-10",
-      "url": "https://www.ithome.com/0/948/492.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/dwq/2026/05-10/10618613.shtml",
-      "title": "中阿诗人羊城共话诗情 科技与文学交织启新程",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-05-10",
-      "url": "https://www.chinanews.com.cn/dwq/2026/05-10/10618613.shtml"
-    },
-    {
-      "id": "https://news.seehua.com/post/1482001",
-      "title": "汽车炸弹袭击 巴基斯坦警察检查站15死",
-      "summary": "(白沙瓦10日讯)巴基斯坦官员周日表示,超过100名武装分子在巴基斯坦西北部的一个检查站引爆了一辆汽车炸弹,并 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-10",
-      "url": "https://news.seehua.com/post/1482001"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-10/10618774.shtml",
-      "title": "男子加油逃单同行人对监控比耶",
-      "summary": "近日,广东梅州丰顺县发生一起加油逃单事件。一辆轿车在加满价值640元的油后,司机未付款便强行逃离现场,同行人员还在逃窜过程中对着监控摄像头嚣张“比耶”。...",
-      "source": "Chinanews",
-      "date": "2026-05-10",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-10/10618774.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-10/10618766.shtml",
-      "title": "优存量拓增量提效能,加快建设交通强国",
-      "summary": "此次国务院常务会议从基础设施、管理服务、改革创新三个维度作出系统部署,既立足当前解决突出问题,又着眼长远为交通强国建设勾勒路线图。...",
-      "source": "Chinanews",
-      "date": "2026-05-10",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-10/10618766.shtml"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/05/10/817583",
-      "title": "凌晨骑摩哆失控 17岁少年伤重亡",
-      "summary": "(东甲10日讯) 一名17岁巫裔中学生于昨日凌晨骑乘摩哆途经东甲锡兰路(Jalan Seilan)时,疑因失控导致翻覆意外,不幸伤重身亡。东甲警区主任罗斯兰证实,警方是在昨日凌晨1时13分接获投报,指在东甲锡兰路第7公里处发生交通意外。初步调查显示,该起事故仅涉及一辆摩哆,并无其他车辆卷入其中。死者证实为一名来自东甲县内某中学的17岁少年,他在事发后因伤势过重而不治。警方目前援引1987年陆路交通...",
-      "source": "Orientaldaily",
-      "date": "2026-05-10",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/05/10/817583"
-    },
-    {
-      "id": "https://news.seehua.com/post/1481993",
-      "title": "瓜冷警方深夜取缔青少年飙车党 55人无驾照接罚单6摩哆被充公",
-      "summary": "(瓜拉冷岳10日讯)瓜拉冷岳警方本周五晚上在当地展开突击行动,成功拦截多名无驾照的青少年及学生,并充公多辆非法 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-10",
-      "url": "https://news.seehua.com/post/1481993"
-    },
-    {
-      "id": "https://news.seehua.com/post/1481966",
-      "title": "阿邦佐:未来人与机器人并肩工作 砂拉越须靠“理性计算”拥抱高科技经济",
-      "summary": "(古晋10日讯)“以前我提倡氢能时,有人笑我、有人呱呱叫。现在你们看,柴油越来越贵了!” 砂总理拿督巴丁宜丹斯 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-10",
-      "url": "https://news.seehua.com/post/1481966"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778414681129765.html",
-      "title": "政银企共推购车热潮,广发银行以金融活水润泽羊城消费",
+      "id": "https://www.bjnews.com.cn/detail/1778512115129552.html",
+      "title": "北京将数据出境负面清单拓展至全市域,覆盖九大领域",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-10",
-      "url": "https://www.bjnews.com.cn/detail/1778414681129765.html"
+      "date": "2026-05-11",
+      "url": "https://www.bjnews.com.cn/detail/1778512115129552.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ae60rz64/",
-      "title": "江淮瑞风RF8悦享系列静态评测:20万级新能源MPV的新优选",
-      "summary": "江淮瑞风RF8悦享系列定位为20万级插混MPV,主打“好开又好坐”的产品理念。该车基于25年MPV制造经验打造,在尺寸、智能、舒适及安全方面进行了全面升级,旨在解决传统MPV驾驶笨重与后排乘坐不适的痛点。以下是对该车型核心亮点与配置的详细梳理。01外观内......",
-      "source": "Smzdm",
-      "date": "2026-05-10",
-      "url": "https://post.smzdm.com/p/ae60rz64/"
+      "id": "https://www.chinanews.com.cn/sh/2026/05-11/10619367.shtml",
+      "title": "探访杭州“未来学校”:AI赋能下的教育新图景",
+      "summary": "中新网杭州5月11日电(林波)“你看,纹样生成的速度是不是很快?”5月11日,杭州市春晖小学的“非遗蓝染工坊”里,五年级学生苗翾熟练地在平板电脑上输入几个关键词,几秒钟后,绚丽而个性的蓝染纹样便呈现在大家眼前。...",
+      "source": "Chinanews",
+      "date": "2026-05-11",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-11/10619367.shtml"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0510/870897.shtml",
-      "title": "五菱打出“华为牌”:14.98万的大六座华境S,能否逆转局势?",
-      "summary": "华境S作为最新落地的战略产品,能否在15万元级大六座SUV市场打开局面,将直接决定上汽通用五菱能否开启新一轮增长通道。...",
-      "source": "Eeo",
-      "date": "2026-05-10",
-      "url": "http://www.eeo.com.cn/2026/0510/870897.shtml"
+      "id": "https://www.ithome.com/0/949/018.htm",
+      "title": "因出售车主驾驶行为数据,通用汽车在加州被罚 1275 万美元",
+      "summary": "IT之家 5 月 11 日消息,通用汽车将向加州支付 1275 万美元(现汇率约合 8679.4 万元人民币)民事罚款,以了结出售驾驶员数据相关指控。此前,通用汽车被曝把车主位置和驾驶行为数据出售给第三方数据经纪商。加州也成为美国首个就此事与通用汽车达成和解的州。 和解协议仍需法院批准。协议还规定,通用汽车未来 5 年 不得向任何消费者报告机构出售驾驶数据 。通用汽车必须删除已获取的信息,并要求曾...",
+      "source": "Ithome",
+      "date": "2026-05-11",
+      "url": "https://www.ithome.com/0/949/018.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1481988",
-      "title": "男子污言骚扰多名女子 巴士司机“神转弯”直送警局:得保护我的乘客",
-      "summary": "(天津10日讯)中国天津发生一宗巴士女乘客遭骚扰案件,一名男子在车上以淫秽言语连续骚扰多名女乘客,令车上陷入荒 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-10",
-      "url": "https://news.seehua.com/post/1481988"
+      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260511-%E6%AC%A7%E7%9B%9F%E8%A7%84%E5%88%92%E9%AB%98%E7%BA%A7%E4%B8%93%E5%91%98%E5%8D%9A%E7%BA%B3%E5%91%BC%E5%90%81%E5%8A%A0%E5%BF%AB%E5%8F%91%E5%B1%95%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6-%E4%B8%8D%E6%84%BF%E8%90%BD%E5%90%8E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD",
+      "title": "欧盟规划高级专员博纳呼吁加快发展自动驾驶 不愿落后于中国和美国",
+      "summary": "欧盟战略与规划高级专员克莱蒙·博纳(Clément Beaune)于5月11日星期一指出目前所有自动驾驶车型都只有美国或中国制造,并呼吁欧洲层面采取应对措施进行改变,“以免错过这场技术革命”。...",
+      "source": "Rfi_Fr",
+      "date": "2026-05-11",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260511-%E6%AC%A7%E7%9B%9F%E8%A7%84%E5%88%92%E9%AB%98%E7%BA%A7%E4%B8%93%E5%91%98%E5%8D%9A%E7%BA%B3%E5%91%BC%E5%90%81%E5%8A%A0%E5%BF%AB%E5%8F%91%E5%B1%95%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6-%E4%B8%8D%E6%84%BF%E8%90%BD%E5%90%8E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3359709",
+      "title": "Cantor Fitzgerald下调柯迪亚克人工智能(Kodiak AI)股票目标价",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-11",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3359709"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/05-11/10619283.shtml",
+      "title": "北京推进数据跨境流动便利化改革 负面清单机制惠及全市企业",
+      "summary": "中新网北京5月11日电 (记者 陈杭)11日,《中国(北京)自由贸易试验区、国家服务业扩大开放综合示范区数据出境管理清单(负面清单)(2025版)》及配套管理办法发布,在全国范围内首批将数据出境负面清单管理机制由自贸区拓展至省级行政区全域,数据出境安全管理制度的稳定性、清晰度和便利度进一步提升,标志着北京数据跨境流动便利化改革实现了从“试点探索”到“全域治理”的系统性跃升。...",
+      "source": "Chinanews",
+      "date": "2026-05-11",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-11/10619283.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/05-11/10619277.shtml",
+      "title": "北京数据出境负面清单拓展至全市域 新增自动驾驶等4个领域",
+      "summary": "中新社北京5月11日电 (记者 陈杭)记者11日从中国(北京)自由贸易试验区、国家服务业扩大开放综合示范区数据出境负面清单政策新闻发布会上获悉,北京数据出境负面清单新增自动驾驶(智能网联汽车)等4个领域,适用范围扩展至全市域。该政策系全国首批。...",
+      "source": "Chinanews",
+      "date": "2026-05-11",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-11/10619277.shtml"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778500232169612.html",
+      "title": "地下作坊“手搓汽车”,公共安全绝无侥幸可言 | 新京报快评",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-11",
+      "url": "https://www.bjnews.com.cn/detail/1778500232169612.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/948/982.htm",
+      "title": "极氪 9X & 焕新极氪 001 OTA7.2 开启推送:新增人工收费站轻松过、导航终点靠边停等",
+      "summary": "IT之家 5 月 11 日消息,极氪 9X & 焕新极氪 001 今日正式开启 OTA 7.2 推送,从辅助驾驶到智能座舱,多项核心能力全面升级。 IT之家整理如下: 千里浩瀚 G-ASD4.0 体验全面升级 新增人工收费站轻松过:提前选择 ETC / 人工通道偏好,辅助驾驶系统会根据选择识别场景,减速入道、识别抬杆放行,通行不断点。 优化乡村小路放心开:实时识别路沿边界,平稳通过颠簸路面,石墩、...",
+      "source": "Ithome",
+      "date": "2026-05-11",
+      "url": "https://www.ithome.com/0/948/982.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-11/10619249.shtml",
+      "title": "北京二环夜景将“点亮” 8.5公里光影长卷拟下半年亮相",
+      "summary": "中新网北京5月11日电 (陈杭 张颖)夜幕降临,站在雍和宫桥东的天桥上远眺,北京北二环沿线建筑的轮廓在灯光映衬下清晰舒展,与雍和宫、地坛公园的静谧古韵和谐共生,吸引了许多市民与游客驻足观赏。...",
+      "source": "Chinanews",
+      "date": "2026-05-11",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-11/10619249.shtml"
+    },
+    {
+      "id": "https://zh.vietnamplus.vn/article-post260334.vnp",
+      "title": "黎明兴总理:力促科技、创新和数字化转型见实效、出实绩",
+      "summary": "越南政府总理,政府发展科技、创新和数字化转型及《2022-2025 年发展人口数据库、身份识别和电子认证应用程序和2030年愿景提案》(第6号提案)指导委员会主任黎明兴5月11日下午主持召开指导委员会2026年第三次会议。 越南政府总理黎明兴会见日本山梨县知事长崎幸太郎 政府总理黎明兴致电祝贺鲁门·拉德夫当选保加利亚总理 政府总理黎明兴:司法部重任在肩 须助推法律与体制真正成为战略突破口...",
+      "source": "Vietnamplus",
+      "date": "2026-05-11",
+      "url": "https://zh.vietnamplus.vn/article-post260334.vnp"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778492505129284.html",
+      "title": "2026北京汽车贴膜店横评:隐形车衣隔热膜漆面保护膜推荐",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-11",
+      "url": "https://www.bjnews.com.cn/detail/1778492505129284.html"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/international/2026/05/11/817901",
+      "title": "美军加强侦察古巴 与对委内瑞拉和伊朗动武前相似",
+      "summary": "(华盛顿11日讯)美军侦察机显著增加了在古巴附近的飞行频次,情况与美国对委内瑞拉和伊朗动武前相似。中国新华社报导,美国有线电视新闻网(CNN)周日在分析从公开渠道所获飞机飞行数据后称,2月4日以来,美军P-8A和RC-135C有人驾驶飞机以及MQ-4C无人机在古巴近海上空飞行了至少25次,多数靠近古巴最大的两座城市、即首都哈瓦那和圣地亚哥,有时距离古巴海岸不足64公里。这些飞机主要执行侦察、监视或...",
+      "source": "Orientaldaily",
+      "date": "2026-05-11",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/05/11/817901"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3359412",
+      "title": "Canaccord下调Lyft目标价,对自动驾驶出租车前景表示担忧",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-11",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3359412"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/05-11/10619226.shtml",
+      "title": "北斗导航“上岗” 插秧苗 我国“北大仓”进入春播季",
+      "summary": "中新网哈尔滨5月11日电(王妮娜 高鹏飞 王浩)五月的北大荒集团建三江分公司(以下简称“建三江”)阡陌如镜,机声隆隆,一台台插秧机穿行于波光之间,所过之处,嫩绿的秧苗整齐落泥。随着插秧工作全面启动,11日,建三江百万亩水稻正式进入春播季。...",
+      "source": "Chinanews",
+      "date": "2026-05-11",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-11/10619226.shtml"
     },
     {
       "id": "https://www.globenewswire.com/news-release/2026/05/08/3291352/0/en/weride-inc-to-hold-annual-general-meeting-on-june-26-2026.html",
