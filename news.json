@@ -1,271 +1,244 @@
 {
-  "lastUpdated": "2026-05-13 04:02:24",
-  "totalCount": 31,
+  "lastUpdated": "2026-05-14 04:01:00",
+  "totalCount": 28,
   "sources": {
     "Bilibili": 5,
-    "Ithome": 2,
+    "Zaobao": 2,
+    "Investing_Cn": 4,
     "Eeo": 1,
-    "Bjnews": 1,
-    "Investing_Cn": 1,
-    "Rfi_Fr": 1,
-    "Chinanews": 1,
-    "Prnasia": 2,
-    "Jiemian": 1,
-    "Fx168News": 1,
-    "Globenewswire_Fr": 1,
-    "News_Seehua": 2,
-    "Smzdm": 1,
-    "Zaobao": 1,
-    "The Manila Times": 2,
-    "MarketScreener": 1,
-    "NDTV.com": 1,
-    "The Sunday Times": 1,
-    "GlobeNewswire": 1,
-    "Free Press Journal": 1,
-    "The New York Times": 1,
-    "Firstpost": 1,
-    "CNBC": 1
+    "Bjnews": 5,
+    "Imobile": 1,
+    "Ithome": 5,
+    "Orientaldaily": 1,
+    "Devdiscourse": 1,
+    "The Manila Times": 1,
+    "NBC 5 Chicago": 1,
+    "Ventura County Star": 1
   },
   "news": [
-    {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
-      "date": "2026-05-13",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
-    },
     {
       "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
       "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "https://www.bilibili.com/video/BV147RsBJEPB",
-      "title": "【B站】研究完华为乾崑ADS 5 ，我感觉自动驾驶真来了【X.PIN】",
-      "summary": "北京车展前，华为乾崑智驾从ADS 4.1直接跨代发布了ADS 5，说是从避免撞别人到避免被别人撞，还喊出了“为自动驾驶而来”的口号。不儿，突然这么猛了吗？那这期视频，我们就来看看ADS 5都新上了啥。...",
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
       "source": "Bilibili",
-      "date": "2026-05-13",
-      "url": "https://www.bilibili.com/video/BV147RsBJEPB"
+      "date": "2026-05-14",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1mf526JETE",
+      "title": "【B站】自动驾驶露出底牌，AI 觉醒早已开始",
+      "summary": "自动驾驶露出底牌，AI 觉醒早已开始...",
+      "source": "Bilibili",
+      "date": "2026-05-14",
+      "url": "https://www.bilibili.com/video/BV1mf526JETE"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Ji4y137tN",
+      "title": "【B站】被吹上天的特斯拉自动辅助驾驶AP在高速上能有多省力？",
+      "summary": "上一个视频里我测试了特斯拉自动辅助驾驶在上海晚高峰高架的效果，可以说是非常令人满意。从那以后我就一直想了解\n同样一套系统在高速上的表现如何。今天的视频就是要回答这个问题，同时也分享一些特斯拉Model3开高速相关的体验。\n\n上期回顾：\n特斯拉自动辅助驾驶(AP)在上海晚高峰能撑多久？\nhttps:/...",
+      "source": "Bilibili",
+      "date": "2026-05-14",
+      "url": "https://www.bilibili.com/video/BV1Ji4y137tN"
     },
     {
       "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
       "title": "【B站】死亡搁浅2 如和开启自动驾驶",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1dwDWY4EKj",
-      "title": "【B站】10分钟带你学会调教A320自动驾驶",
-      "summary": "老费只是键盘飞友，如有错漏欢迎指出，共同进步...",
-      "source": "Bilibili",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260513-9042040",
+      "title": "陆交局查逾120起违法使用报废车辆案 充公55辆车",
+      "summary": "违法使用报废车辆的案件近年呈上升趋势,陆路交通管理局今年已调查超过120起案件,充公55辆涉案车辆,另有三人将被控上法庭。...",
+      "source": "Zaobao",
       "date": "2026-05-13",
-      "url": "https://www.bilibili.com/video/BV1dwDWY4EKj"
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260513-9042040"
     },
     {
-      "id": "https://www.ithome.com/0/949/520.htm",
-      "title": "因驶入无法通行的积水路段,Waymo 首次召回其第六代自动驾驶系统",
-      "summary": "IT之家 5 月 12 日消息,Waymo 正在召回其一款自动驾驶软件,该软件曾允许旗下车辆在积水路段行驶。本次召回涉及 3791 辆搭载 Waymo 第五代和第六代自动驾驶系统的车辆。 在提交给美国国家公路交通安全管理局的文件中,这家隶属于 Alphabet 集团的公司表示,一辆无人驾驶的 Waymo 自动驾驶出租车,在一条限速 40 英里(IT之家注:约 64.4 公里) / 小时的道路上,驶...",
-      "source": "Ithome",
-      "date": "2026-05-12",
-      "url": "https://www.ithome.com/0/949/520.htm"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0512/873587.shtml",
-      "title": "百家AI创始人画像报告:平均年龄不到40岁",
-      "summary": "《报告》发现,不同赛道的创始人年龄分布存在差异,机器人及智能驾驶、通用大模型、机器视觉等赛道的创始人呈现年轻化态势, 创始人平均年龄不到40岁。而AI垂直应用领域的企业创始人相对“年长”,但平均年龄也在45岁以下。...",
-      "source": "Eeo",
-      "date": "2026-05-12",
-      "url": "http://www.eeo.com.cn/2026/0512/873587.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778581696129131.html",
-      "title": "BBA与新势力行情出炉,天天拍车:车展热度延续!5月迎来二手车置换窗口期",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-12",
-      "url": "https://www.bjnews.com.cn/detail/1778581696129131.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/949/503.htm",
-      "title": "2026 款广汽传祺 M6 MAX MPV 将于 5 月 15 日上市,升级全新直瀑式前脸",
-      "summary": "IT之家 5 月 12 日消息,广汽传祺宣布 2026 款传祺 M6 MAX MPV 将于 5 月 15 日上市,该车主要在外观方面进行改进,前脸换用全新直瀑式设计,大灯组造型与在售车型基本一致。 作为比较,目前在售的广汽传祺 M6 MAX 系列尺寸为 4793 × 1837 × 1730mm,轴距 2810mm,采用 7 座设计,车内配有 7 英寸全彩液晶组合仪表 + 10.25 英寸全彩液晶中...",
-      "source": "Ithome",
-      "date": "2026-05-12",
-      "url": "https://www.ithome.com/0/949/503.htm"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3362544",
-      "title": "Waymo召回3,791辆自动驾驶出租车,修复洪水检测软件缺陷",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3366068",
+      "title": "AI成腾讯阿里财报重点 阿里云外部商业化收入AI占三成 Hy3 preview调用量超上一代10倍",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-05-12",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3362544"
+      "date": "2026-05-13",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3366068"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260512-%E8%B4%B9%E5%8A%A0%E7%BD%97-%E4%B8%AD%E5%9B%BD%E5%BA%94%E8%83%BD%E5%8A%A9%E5%8A%9B%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E4%BC%8A%E6%9C%97%E5%9B%B0%E5%B1%80",
-      "title": "费加罗:中国应能助力特朗普走出伊朗困局",
-      "summary": "在五名从邮轮“洪迪乌斯”号撤离的法国旅客中发现一名汉坦病毒感染者后,法国加强了隔离措施。 法国政府正高度警惕安第斯型汉坦病毒可能引发的持续性疫情。相关议题是周二各主要报纸重点报道的内容。纷纷配发多篇文章,多角度介绍医学对病毒的了解,其传播和发病及目前各国应对的情况。...",
-      "source": "Rfi_Fr",
-      "date": "2026-05-12",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260512-%E8%B4%B9%E5%8A%A0%E7%BD%97-%E4%B8%AD%E5%9B%BD%E5%BA%94%E8%83%BD%E5%8A%A9%E5%8A%9B%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E4%BC%8A%E6%9C%97%E5%9B%B0%E5%B1%80"
+      "id": "http://www.eeo.com.cn/2026/0513/874949.shtml",
+      "title": "跳过L3直达L4?麦肯锡:智驾分级是“旧尺子”,技术比路线重要",
+      "summary": "近九成受访者认为,私家车将在2035年前实现L4级自动驾驶,表明高阶自动驾驶具备明确的用户需求和市场前景。...",
+      "source": "Eeo",
+      "date": "2026-05-13",
+      "url": "http://www.eeo.com.cn/2026/0513/874949.shtml"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/05-12/10619781.shtml",
-      "title": "从样板到全域 智慧农业激活三湘良田新动能",
-      "summary": "中新网长沙5月12日电 (胡语桐)5月,湖南长沙湘江新区云盖村,岳麓智慧农场里的水稻已由插秧转入田间管理。田埂边,一架多光谱无人机腾空而起,沿着预设航线掠过连片稻田,20多分钟便完成780亩农田巡检。中联智慧农业农场管理平台上,苗情变化、长势差异、地块分布一一显现,哪里需要查漏补缺,哪里需要进一步管护,系统很快给出提示。...",
-      "source": "Chinanews",
-      "date": "2026-05-12",
-      "url": "https://www.chinanews.com.cn/gn/2026/05-12/10619781.shtml"
+      "id": "https://www.bjnews.com.cn/detail/1778676713129904.html",
+      "title": "财报会释放重要信号,吴泳铭解读阿里AI商业化如何加速",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-13",
+      "url": "https://www.bjnews.com.cn/detail/1778676713129904.html"
     },
     {
-      "id": "https://www.prnasia.com/story/532697-1.shtml",
-      "title": "\"2026 AI Partner•北京亦庄AI+产业大会\"开幕在即 为AI落地提供亦庄路径",
-      "summary": "北京 2026年5月12日 /美通社/ -- 如果说过去两年,我们还在争论AI的能力边界,那么2026年的资本市场与产业端已经给出了最直接的回答:AI正经历着一场严苛的\"前线压力测试\"。 从资本市场用真金白银为应用层投票,到全球科技界重新校准AI的价值尺度,聚光灯正从晦涩的参数竞赛,转向了真实的生产生活。当行业洗牌加速,所有人都在寻找那个能将技术兑换为价值的确定性坐标。 在这样的关键时刻,北京经开...",
-      "source": "Prnasia",
-      "date": "2026-05-12",
-      "url": "https://www.prnasia.com/story/532697-1.shtml"
+      "id": "http://news.imobile.com.cn/articles/2026/0513/234413.shtml",
+      "title": "方程豹豹8豹5闪充版上市,首搭首发比亚迪云辇-P Ultra",
+      "summary": "5月13日,方程豹豹8闪充版、豹5云辇闪充版正式上市,首搭首发比亚迪云辇-P Ultra,全球首款“全场景智能液压车身控制系统”,开创新能源高端越野全新品类。 豹8闪充版售价41.98万元(限时下定惊喜价40.98万元),有五座版和七座版可选,加8000元可选六座版;选装上有三个可选,分别是21英寸轮毂、拖车装置,以及五座版只需加16968元便可选装灵鸢·比亚迪智能车载无人机系统。 豹5售价25....",
+      "source": "Imobile",
+      "date": "2026-05-13",
+      "url": "http://news.imobile.com.cn/articles/2026/0513/234413.shtml"
     },
     {
-      "id": "https://www.prnasia.com/story/532695-1.shtml",
-      "title": "以全链路互连赋能智电新程 中航光电2026北京车展圆满收官",
-      "summary": "北京 2026年5月12日 /美通社/ -- 5月3日,2026(第十九届)北京国际汽车展览会圆满落下帷幕。在这场为期10天的全球汽车盛会上,中航光电科技股份有限公司(以下简称\"中航光电\")以\"智见新境、连动未来\"为主题,携车载动力系统、智能网联系统、Busbar、充换电系统等全系列汽车互连产品重磅亮相。展会期间,通过线下展台、线上直播、技术宣讲等多元形式,中航光电全面展示了高压互连\"以铝代铜\"规...",
-      "source": "Prnasia",
-      "date": "2026-05-12",
-      "url": "https://www.prnasia.com/story/532695-1.shtml"
+      "id": "https://www.bjnews.com.cn/detail/1778671286129858.html",
+      "title": "阿里AI正式赚钱了,云外部商业收入增40%",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-13",
+      "url": "https://www.bjnews.com.cn/detail/1778671286129858.html"
     },
     {
-      "id": "https://www.jiemian.com/article/14417498.html",
-      "title": "直通部委|平台发布短视频必选6类标签 全国农村自来水普及率达96%",
-      "summary": "今天有哪些部委新闻值得关注?公安部交管局:夜间高速行车要集中精力谨慎驾驶;4月全国受理网络违法和不良信息举报1686.1万件;工信部:已开放智能网联汽车测试道路5.7万多公里。...",
-      "source": "Jiemian",
-      "date": "2026-05-12",
-      "url": "https://www.jiemian.com/article/14417498.html"
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3365817",
+      "title": "TD Cowen维持Alphabet股票买入评级,看好Waymo自动驾驶业务增长",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-13",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3365817"
     },
     {
-      "id": "https://www.fx168news.com/article/1029491",
-      "title": "Bitget 在代币化热潮中下调期货交易费率,以深化流动性-FX168",
-      "summary": "塞舌尔维多利亚, May 12, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 今日宣布,下调机构做市商交易股票、金属、大宗商品和指数期货的吃单费率,以加强其不断扩展的多资产衍生品业务的流动性。 更新后的费率为 0.0065%,将于 2026 年 5 月 1 日至 6 月 30 日期间生效。 此次调整正值交易活动持续从加密原生资产向代币化股票、大...",
-      "source": "Fx168News",
-      "date": "2026-05-12",
-      "url": "https://www.fx168news.com/article/1029491"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3365562",
+      "title": "与英伟达不存在任何业务关系!330亿光纤概念股发布澄清公告|盘后公告集锦",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-13",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3365562"
     },
     {
-      "id": "https://www.globenewswire.com/fr/news-release/2026/05/12/3292809/0/zh-hans/Bitget-%E5%9C%A8%E4%BB%A3%E5%B8%81%E5%8C%96%E7%83%AD%E6%BD%AE%E4%B8%AD%E4%B8%8B%E8%B0%83%E6%9C%9F%E8%B4%A7%E4%BA%A4%E6%98%93%E8%B4%B9%E7%8E%87-%E4%BB%A5%E6%B7%B1%E5%8C%96%E6%B5%81%E5%8A%A8%E6%80%A7.html",
-      "title": "Bitget 在代币化热潮中下调期货交易费率,以深化流动性",
-      "summary": "塞舌尔维多利亚, May 12, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 今日宣布,下调机构做市商交易股票、金属、大宗商品和指数期货的吃单费率,以加强其不断扩展的多资产衍生品业务的流动性。 更新后的费率为 0.0065%,将于 2026 年 5 月 1 日至 6 月 30 日期间生效。...",
-      "source": "Globenewswire_Fr",
-      "date": "2026-05-12",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/05/12/3292809/0/zh-hans/Bitget-%E5%9C%A8%E4%BB%A3%E5%B8%81%E5%8C%96%E7%83%AD%E6%BD%AE%E4%B8%AD%E4%B8%8B%E8%B0%83%E6%9C%9F%E8%B4%A7%E4%BA%A4%E6%98%93%E8%B4%B9%E7%8E%87-%E4%BB%A5%E6%B7%B1%E5%8C%96%E6%B5%81%E5%8A%A8%E6%80%A7.html"
+      "id": "https://www.ithome.com/0/950/042.htm",
+      "title": "过这村就没这店了,萨博最后 7 辆原厂 9-3 新车将被公开拍卖",
+      "summary": "IT之家 5 月 13 日消息,据外媒 motor1 今日报道,5 月 21 日起,一批萨博历史遗产将被公开拍卖。 随着 NEVS 正式进入破产程序,其位于瑞典特罗尔海坦工厂的最后几辆汽车将对外出售,共计 8 辆, 其中 7 辆为萨博 9-3 。 这批车辆包括 4 辆 2014 年试制阶段的 9-3 车型, 其中两辆为 Aero 版本 ;另有一辆增程原型车。另外 3 辆 9-3 来自 2018 年...",
+      "source": "Ithome",
+      "date": "2026-05-13",
+      "url": "https://www.ithome.com/0/950/042.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1483082",
-      "title": "依兹汉:马航曾考虑破产 “反问敦马是否有勇气力挺,不然就关掉”",
-      "summary": "(吉隆坡12日讯)马来西亚航空集团前董事经理拿督依兹汉依斯迈透露,在马航重组过程中,除了借鉴其他国际航空公司的 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-12",
-      "url": "https://news.seehua.com/post/1483082"
-    },
-    {
-      "id": "https://news.seehua.com/post/1483077",
-      "title": "依兹汉有华人血统 母亲来自广州",
-      "summary": "(吉隆坡12日讯)马来西亚航空集团前董事经理拿督依兹汉依斯迈拥有华人血统,母亲来自广州,而他出身于一个贫寒家庭 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-12",
-      "url": "https://news.seehua.com/post/1483077"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a034dglw/",
-      "title": "我们给启境GT7提了三个问题",
-      "summary": "启境GT7作为华为“乾境”字辈的首款车型,定位为智能猎装车。该车在设计上力求脱离传统SUV的审美路径,通过修长的车身比例与宽体造型,结合华为最新的智能驾驶技术与座舱系统,展现出其作为AI时代“Dream Car”的产品特质。以下将从车身尺寸、外观设计细节......",
-      "source": "Smzdm",
-      "date": "2026-05-12",
-      "url": "https://post.smzdm.com/p/a034dglw/"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/china/story20260512-9037918",
-      "title": "宇树科技发布全球首款量产版载人机甲 可作为民用交通工具",
-      "summary": "(北京/上海综合讯)中国机器人企业宇树科技发布全球首款量产版载人变形机甲GD01,支持人形直立行走与四足爬行双模式,售价390万元人民币(73万新元)起。...",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260513-9042904",
+      "title": "开舢板载六人偷渡入境 有前科印尼男判监打鞭",
+      "summary": "一名印度尼西亚男子因逾期逗留被判刑及驱逐出境后,在接下来五年内又四次非法入境新加坡被判刑,他过后不仅没有收敛,还收费开舢板载六名同乡非法入境。...",
       "source": "Zaobao",
-      "date": "2026-05-12",
-      "url": "https://www.zaobao.com.sg/news/china/story20260512-9037918"
+      "date": "2026-05-13",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260513-9042904"
     },
     {
-      "id": "https://www.manilatimes.net/2026/05/12/tmt-newswire/pr-newswire/teco-debuts-high-payload-commercial-uav-powertrain-systems-and-robotic-joint-modules-in-north-america-expanding-into-north-americas-uav-and-robotics-markets/2342031",
-      "title": "TECO Debuts High-Payload Commercial UAV Powertrain Systems and Robotic Joint Modules in North America Expanding into North America's UAV and Robotics Markets",
-      "summary": "DETROIT, May 12, 2026 /PRNewswire/ -- TECO Electric & Machinery Co. (TWSE: 1504), together with U.S. subsidiary TECO-Westinghouse Motor Company, participate in XPONENTIAL 2026, North America's premier...",
+      "id": "https://www.bjnews.com.cn/detail/1778671074129855.html",
+      "title": "中国民航局低空安全司正式设立,职责包括建设低空飞行服务站体系",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-13",
+      "url": "https://www.bjnews.com.cn/detail/1778671074129855.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/950/041.htm",
+      "title": "宝马官宣纯电动版 M3 明年首发,路试谍照曝光",
+      "summary": "IT之家 5 月 13 日消息,距离奥利弗・齐普塞以宝马首席执行官身份结束最新一场演讲仅过去短短数小时,在第 106 届年度股东大会上,这位全球最大豪华汽车制造商的前任掌门人证实,纯电动版宝马 M3 将于明年正式首发亮相。与此同时,该车的多款原型车被拍到正在纽博格林赛道进行路试。 随着量产版车型距离全球首发越来越近,该车已经用上最终版车身套件。不过测试整车依旧采用全覆盖伪装,试图遮掩宽大外扩的轮拱...",
+      "source": "Ithome",
+      "date": "2026-05-13",
+      "url": "https://www.ithome.com/0/950/041.htm"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/north/2026/05/13/818460",
+      "title": "69岁老翁U转误踩油门 轿车失控撞入店面",
+      "summary": "(加央13日讯)一名69岁老翁驾车进行U转时,疑误踩油门导致轿车失控,先撞上一辆第二国产车灵鹿轿车后,再冲入柏斯里甘榜达叻一间商业店面,所幸事故未造成严重伤亡。巴东勿刹警区主任莫哈末苏克里表示,巴东勿刹警区总部交通调查及执法组(BSPT)于今日上午10时20分接获相关交通事故投报。他今日发文告指出,初步调查显示,事故涉及一辆由本地69岁男子驾驶的福士伟根Polo轿车,而涉事司机相信是在尝试进行U转...",
+      "source": "Orientaldaily",
+      "date": "2026-05-13",
+      "url": "https://www.orientaldaily.com.my/news/north/2026/05/13/818460"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3365314",
+      "title": "美股前瞻 | 三大股指期货涨跌不一 芯片股盘前普涨 4月PPI今晚揭晓",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-13",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3365314"
+    },
+    {
+      "id": "https://www.ithome.com/0/950/030.htm",
+      "title": "大版本来袭:第一代小米 SU7 汽车 OTA 1.16 开推,新增语音控车、疲劳分心下应急停车辅助功能等",
+      "summary": "IT之家 5 月 13 日消息,小米汽车官方今日宣布, 第一代 SU7 的 OTA 1.16 已经开始陆续推送 。据介绍,本次更新看齐新 SU7 重点功能,拉齐第一代 SU7 功能体验,会陆续推送给所有车主。 IT之家附第一代小米 SU7 OTA 1.16 更新内容如下: 01 辅助驾驶 1.1 行车辅助 新增语音控车(Beta),可以通过语音实现车辆横向和纵向的控制,更便捷地满足用户如变道、调速...",
+      "source": "Ithome",
+      "date": "2026-05-13",
+      "url": "https://www.ithome.com/0/950/030.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/950/028.htm",
+      "title": "央视曝光低速代步电动车“老头乐”生产乱象:无资质作坊、使用淘汰电机及废旧电池...",
+      "summary": "IT之家 5 月 13 日消息,近年来,低速代步电动车(俗称“老头乐”)因出行便捷、低成本,成为部分老年群体短途出行的首选,然而这些车型本身存在较大安全隐患,同时部分驾驶者素质不佳,经常导致重大交通事故。近期央视记者便潜入了这些“老头乐”生产商进行调查。 IT之家参考报道获悉,部分老头乐厂商对外宣称的“源头工厂”,实则是无任何机动车生产资质的私人组装小作坊,这些作坊从周边无资质车壳厂采购薄铁皮车壳...",
+      "source": "Ithome",
+      "date": "2026-05-13",
+      "url": "https://www.ithome.com/0/950/028.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778666398169660.html",
+      "title": "教育观察|从一所小学到一个产业,世界数字教育大会上的杭州答案",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-13",
+      "url": "https://www.bjnews.com.cn/detail/1778666398169660.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778666761129785.html",
+      "title": "阿里云外部收入增长40%创新高,AI收入占比首破30%",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-13",
+      "url": "https://www.bjnews.com.cn/detail/1778666761129785.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/950/023.htm",
+      "title": "“玛界”来袭:消息称鸿蒙智行、江淮汽车、斯特兰蒂斯正洽谈打造玛莎拉蒂新能源车",
+      "summary": "IT之家 5 月 13 日消息,据云见 Insight 报道,华为鸿蒙智行、江淮汽车、斯特兰蒂斯集团(Stellantis)及旗下玛莎拉蒂品牌,正就共同打造玛莎拉蒂品牌的新能源车展开洽谈。 按照规划,四方合作模式与鸿蒙智行“五界”高度相似:华为主导产品定义、提供核心技术,江淮联合研发并负责生产制造,玛莎拉蒂提供造型设计与品牌背书。合作车型将分为国内和海外版本,国内版归属于尊界品牌,海外版将挂玛莎拉...",
+      "source": "Ithome",
+      "date": "2026-05-13",
+      "url": "https://www.ithome.com/0/950/023.htm"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/business/3906820-teslas-new-autonomous-adventure-testing-in-flanders",
+      "title": "Tesla's New Autonomous Adventure: Testing in Flanders",
+      "summary": "Tesla has been authorized to test its self-driving software in Flanders, Belgium. This follows preliminary approval in the Netherlands, marking an EU first. Successful tests may expedite a European ty...",
+      "source": "Devdiscourse",
+      "date": "2026-05-13",
+      "url": "https://www.devdiscourse.com/article/business/3906820-teslas-new-autonomous-adventure-testing-in-flanders"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/05/13/tmt-newswire/pr-newswire/tier-iv-launches-mp-camera-series-optimized-for-commercial-scale-level-4-autonomous-driving/2342537",
+      "title": "TIER IV launches MP camera series optimized for commercial-scale Level 4 autonomous driving",
+      "summary": "**media[1054595]**TOKYO, May 13, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has launched the MP camera series, an automotive-grade lineup en...",
       "source": "The Manila Times",
+      "date": "2026-05-13",
+      "url": "https://www.manilatimes.net/2026/05/13/tmt-newswire/pr-newswire/tier-iv-launches-mp-camera-series-optimized-for-commercial-scale-level-4-autonomous-driving/2342537"
+    },
+    {
+      "id": "https://www.nbcchicago.com/news/local/waymo-recalls-nearly-4000-autonomous-taxis-over-risk-of-driving-into-flooded-roads/3935242/",
+      "title": "Nearly 4K Waymos recalled for risk of driving into flooded roads",
+      "summary": "Nearly 4,000 of Waymo autonomous taxis were recalled after software may have allowed the vehicles to drive into flooded roads, according to NHTSA....",
+      "source": "NBC 5 Chicago",
+      "date": "2026-05-13",
+      "url": "https://www.nbcchicago.com/news/local/waymo-recalls-nearly-4000-autonomous-taxis-over-risk-of-driving-into-flooded-roads/3935242/"
+    },
+    {
+      "id": "https://www.vcstar.com/story/cars/recalls/2026/05/12/waymo-car-recall/90042845007/",
+      "title": "Thousands of Waymo autonomous driving cars recalled. Here's why",
+      "summary": "Waymo issued a recall for thousands of its vehicles after a car drove into a flooded area in April....",
+      "source": "Ventura County Star",
       "date": "2026-05-12",
-      "url": "https://www.manilatimes.net/2026/05/12/tmt-newswire/pr-newswire/teco-debuts-high-payload-commercial-uav-powertrain-systems-and-robotic-joint-modules-in-north-america-expanding-into-north-americas-uav-and-robotics-markets/2342031"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/waymo-recalls-certain-vehicles-over-concerns-they-may-drive-onto-flooded-roadways-ce7f5bdedc81f52d",
-      "title": "Waymo Recalls Certain Vehicles Over Concerns They May Drive Onto Flooded Roadways",
-      "summary": "By Connor Hart\nWaymo is recalling a group of vehicles over concerns that its autonomous-driving software may allow its cars to slow and then drive into standing water on higher-speed roadways.\n......",
-      "source": "MarketScreener",
-      "date": "2026-05-12",
-      "url": "https://www.marketscreener.com/news/waymo-recalls-certain-vehicles-over-concerns-they-may-drive-onto-flooded-roadways-ce7f5bdedc81f52d"
-    },
-    {
-      "id": "https://www.ndtv.com/offbeat/self-driving-cars-shoreditch-waymo-google-cars-london-11481914",
-      "title": "\"It's My First Day\": Waymo Driver's Excuse As Autonomous Car Traps Itself In London Lane",
-      "summary": "Residents of a historic London street are protesting against Google's self-driving car unit, Waymo, after its vehicles repeatedly got stuck in a dead-end road....",
-      "source": "NDTV.com",
-      "date": "2026-05-12",
-      "url": "https://www.ndtv.com/offbeat/self-driving-cars-shoreditch-waymo-google-cars-london-11481914"
-    },
-    {
-      "id": "https://www.thetimes.com/uk/london/article/self-driving-cars-shoreditch-waymo-7ss7nrw2n",
-      "title": "Boy racers? No, it’s self-driving cars keeping us up at night",
-      "summary": "Waymo’s autonomous Jaguars are being tested in London — but residents are being driven to distraction by attempts to reverse out of a cul-de-sac in Shoreditch...",
-      "source": "The Sunday Times",
-      "date": "2026-05-11",
-      "url": "https://www.thetimes.com/uk/london/article/self-driving-cars-shoreditch-waymo-7ss7nrw2n"
-    },
-    {
-      "id": "https://www.globenewswire.com/news-release/2026/05/08/3291352/0/en/weride-inc-to-hold-annual-general-meeting-on-june-26-2026.html",
-      "title": "WeRide Inc. to Hold Annual General Meeting on June 26,",
-      "summary": "NEW YORK, May 08, 2026 (GLOBE NEWSWIRE) -- WeRide Inc. (“WeRide” or the “Company”) (Nasdaq: WRD; HKEX: 0800), a global leader in autonomous driving......",
-      "source": "GlobeNewswire",
-      "date": "2026-05-08",
-      "url": "https://www.globenewswire.com/news-release/2026/05/08/3291352/0/en/weride-inc-to-hold-annual-general-meeting-on-june-26-2026.html"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/ponyai-labor-day-holiday-robotaxi-paid-orders-surge-more-than-sixfold/2339444",
-      "title": "Pony.ai Labor Day Holiday Robotaxi Paid Orders Surge More Than Sixfold",
-      "summary": "GUANGZHOU, China, May 8, 2026 /PRNewswire/ -- Pony AI Inc. ('Pony.ai') (NASDAQ: PONY; HKEX: 2026), a global leader in the large-scale commercialization of autonomous driving technology, reported a sha...",
-      "source": "The Manila Times",
-      "date": "2026-05-08",
-      "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/ponyai-labor-day-holiday-robotaxi-paid-orders-surge-more-than-sixfold/2339444"
-    },
-    {
-      "id": "https://www.freepressjournal.in/business/kpit-technologies-founder-chairman-ravi-pandit-passes-away-at-71",
-      "title": "KPIT Technologies Founder & Chairman Ravi Pandit Passes Away At 71",
-      "summary": "Dr. Ravi Pandit, founder and Chairman of KPIT Technologies, passed away in Pune on Friday at the age of 71. A key figure in building the company into a global leader in automotive software, autonomous...",
-      "source": "Free Press Journal",
-      "date": "2026-05-08",
-      "url": "https://www.freepressjournal.in/business/kpit-technologies-founder-chairman-ravi-pandit-passes-away-at-71"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/05/07/business/autonomous-vehicles-technology-other-uses.html",
-      "title": "After Stumbles, Technology Meant for Self-Driving Cars Finds a Second Act",
-      "summary": "After a crush of promises in 2016 that autonomous cars would soon rule the road, companies whose tech underpinned them have shifted to other industries, like managing shipyards and city traffic....",
-      "source": "The New York Times",
-      "date": "2026-05-07",
-      "url": "https://www.nytimes.com/2026/05/07/business/autonomous-vehicles-technology-other-uses.html"
-    },
-    {
-      "id": "https://www.firstpost.com/auto/driverless-trucks-to-roll-out-across-us-sun-belt-as-mclane-deploys-auroras-self-driving-rigs-14008317.html",
-      "title": "Driverless trucks to roll out across US sun belt as McLane deploys Aurora self-driving rigs",
-      "summary": "McLane is expanding its partnership with Aurora Innovation to scale autonomous trucking operations across Texas and the U.S. Sun Belt...",
-      "source": "Firstpost",
-      "date": "2026-05-06",
-      "url": "https://www.firstpost.com/auto/driverless-trucks-to-roll-out-across-us-sun-belt-as-mclane-deploys-auroras-self-driving-rigs-14008317.html"
+      "url": "https://www.vcstar.com/story/cars/recalls/2026/05/12/waymo-car-recall/90042845007/"
     }
   ]
 }
