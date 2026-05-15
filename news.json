@@ -1,212 +1,218 @@
 {
-  "lastUpdated": "2026-05-14 04:01:00",
+  "lastUpdated": "2026-05-15 04:06:13",
   "totalCount": 28,
   "sources": {
     "Bilibili": 5,
+    "Bjnews": 2,
+    "Ithome": 2,
+    "Fx168News": 1,
+    "Chinanews": 2,
+    "Cri_Cn": 1,
     "Zaobao": 2,
-    "Investing_Cn": 4,
-    "Eeo": 1,
-    "Bjnews": 5,
-    "Imobile": 1,
-    "Ithome": 5,
-    "Orientaldaily": 1,
+    "Prnasia": 2,
+    "Ign_Cn": 1,
+    "News_Seehua": 2,
+    "Smzdm": 1,
+    "The Star": 1,
+    "Portal Mix Vale": 1,
+    "SFGATE": 1,
     "Devdiscourse": 1,
     "The Manila Times": 1,
     "NBC 5 Chicago": 1,
-    "Ventura County Star": 1
+    "Providence Journal (Projo)": 1
   },
   "news": [
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-14",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
     {
       "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
       "title": "【B站】【BeamNG】自动驾驶模组展示分享",
       "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
       "source": "Bilibili",
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1mf526JETE",
-      "title": "【B站】自动驾驶露出底牌，AI 觉醒早已开始",
-      "summary": "自动驾驶露出底牌，AI 觉醒早已开始...",
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-14",
-      "url": "https://www.bilibili.com/video/BV1mf526JETE"
+      "date": "2026-05-15",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1oJ5s6iEKi",
+      "title": "【B站】6代的自动驾驶也太舒服了吧",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-05-15",
+      "url": "https://www.bilibili.com/video/BV1oJ5s6iEKi"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-05-15",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
     },
     {
       "id": "https://www.bilibili.com/video/BV1Ji4y137tN",
       "title": "【B站】被吹上天的特斯拉自动辅助驾驶AP在高速上能有多省力？",
       "summary": "上一个视频里我测试了特斯拉自动辅助驾驶在上海晚高峰高架的效果，可以说是非常令人满意。从那以后我就一直想了解\n同样一套系统在高速上的表现如何。今天的视频就是要回答这个问题，同时也分享一些特斯拉Model3开高速相关的体验。\n\n上期回顾：\n特斯拉自动辅助驾驶(AP)在上海晚高峰能撑多久？\nhttps:/...",
       "source": "Bilibili",
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "url": "https://www.bilibili.com/video/BV1Ji4y137tN"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1778745188129310.html",
+      "title": "清华经管高管教育中心:为企业家与接班人打造的全方位成长平台",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-05-14",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+      "url": "https://www.bjnews.com.cn/detail/1778745188129310.html"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260513-9042040",
-      "title": "陆交局查逾120起违法使用报废车辆案 充公55辆车",
-      "summary": "违法使用报废车辆的案件近年呈上升趋势,陆路交通管理局今年已调查超过120起案件,充公55辆涉案车辆,另有三人将被控上法庭。...",
+      "id": "https://www.ithome.com/0/950/638.htm",
+      "title": "212 皮卡将出口德国,填补当地硬派越野市场部分空白",
+      "summary": "IT之家 5 月 14 日消息,据外媒 Carscoops 今日报道,德国进口商 Indimo Automotive 将把北京汽车制造厂的全新 BAW 212 引入欧洲,试图填补硬派越野皮卡市场的空白,面向 需要高越野能力、可靠技术和日常实用性的用户 。 212 皮卡配备圆形 LED 大灯、雨量感应雨刷、侧踏板和 18 英寸合金轮圈。车尾采用圆形尾灯,货厢长度为 1555 毫米。 尺寸方面,212...",
+      "source": "Ithome",
+      "date": "2026-05-14",
+      "url": "https://www.ithome.com/0/950/638.htm"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1030697",
+      "title": "小米、特斯拉、比亚迪等新能源车企相继调价;童超当选东方嘉富人寿董事长;一季度九成险企综合退保率低于1%|5.14保险晚餐-FX168",
+      "summary": "保险晚餐今日速览监管之声国家医保局印发《五年行动计划》,将维护医保基金安全作为首要任务人事变动东方嘉富人寿:董事会选举童超为公司董事长海保人寿原总经理李高峰获批出任财务负责人机构动态富德生命人寿减持重庆银行29.8万股,最新持股比12.98%穆迪授予泰康...",
+      "source": "Fx168News",
+      "date": "2026-05-14",
+      "url": "https://www.fx168news.com/article/1030697"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/aseaninfo/2026/05-14/10621352.shtml",
+      "title": "广西启用新版无人机适飞空域加快发展低空经济",
+      "summary": "中新网南宁5月14日电(俞靖)广西壮族自治区交通运输厅14日介绍,广西当日启用新版无人驾驶航空器适飞空域。经调整后,广西适飞空域面积约为20.02万平方公里,较调整前新增空域面积约5.82万平方公里。...",
+      "source": "Chinanews",
+      "date": "2026-05-14",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/05-14/10621352.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260514/7fd8fe77-58b3-fbdb-9574-124f40c2fcab.html",
+      "title": "焦点访谈丨让过程更高效、更智慧 生产性服务业赋能高质量发展-国际在线",
+      "summary": "今年以来,服务业的战略地位被提升到了新的高度。4月初,全国服务业大会召开,两周后,国务院印发《关于推进服务业扩能提质的意见》,以顶层设计擘画服务业高质量发展的路线图。除了大家熟悉的餐饮、旅游等生活性服务业,《意见》还把生产性服务业放到更...",
+      "source": "Cri_Cn",
+      "date": "2026-05-14",
+      "url": "https://news.cri.cn/20260514/7fd8fe77-58b3-fbdb-9574-124f40c2fcab.html"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260514-9050260",
+      "title": "许宝琨:职场不再“一职到底” 员工须终身学习掌握职涯主动权",
+      "summary": "科技进步和商业模式改变,意味着人们不再一辈子只打一份工;他们不仅要秉持终身学习的精神,也要有能力定期自我检讨职业生涯规划,把主动权掌握在自己手里。...",
       "source": "Zaobao",
-      "date": "2026-05-13",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260513-9042040"
+      "date": "2026-05-14",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260514-9050260"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3366068",
-      "title": "AI成腾讯阿里财报重点 阿里云外部商业化收入AI占三成 Hy3 preview调用量超上一代10倍",
+      "id": "https://www.chinanews.com.cn/gn/2026/05-14/10621289.shtml",
+      "title": "23国驻华外交官在北京感知“创新中国”",
+      "summary": "中新社北京5月14日电 (记者 陈杭)2026年“春华秋实”驻华外交官与北京友协理事联谊活动14日在北京举办,来自意大利、塞浦路斯、厄瓜多尔、格林纳达等23个国家的32名外交官,感受北京人形机器人、自动驾驶等前沿科技的创新魅力。...",
+      "source": "Chinanews",
+      "date": "2026-05-14",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-14/10621289.shtml"
+    },
+    {
+      "id": "https://www.prnasia.com/story/533082-1.shtml",
+      "title": "三一重工发布2025年度可持续发展报告",
+      "summary": "报告披露该公司在产品电动化、环境管理和ESG治理等方面的进展 香港 2026年5月14日 /美通社/ -- 三一重工(600031.SH,06031.HK)近日发布《2025年可持续发展报告》,披露ESG治理、创新发展、绿色低碳、人才培养与社会责任等方面的关键进展。2025年,公司研发投入达7.24亿美元,环保投入3900万美元,全年通过节能降耗项目累计节约1000万美元,各项ESG关键绩效指标取...",
+      "source": "Prnasia",
+      "date": "2026-05-14",
+      "url": "https://www.prnasia.com/story/533082-1.shtml"
+    },
+    {
+      "id": "https://www.ign.com.cn/forza-horizon-6/60042/ign-zhong-guo-ji-xian-jing-su-di-ping-xian-6-ping-ce-cong-ling-kai-shi-de-jdm-sheng-huo",
+      "title": "IGN 中国《极限竞速:地平线 6》评测:从零开始的 JDM 生活",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-13",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3366068"
+      "source": "Ign_Cn",
+      "date": "2026-05-14",
+      "url": "https://www.ign.com.cn/forza-horizon-6/60042/ign-zhong-guo-ji-xian-jing-su-di-ping-xian-6-ping-ce-cong-ling-kai-shi-de-jdm-sheng-huo"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0513/874949.shtml",
-      "title": "跳过L3直达L4?麦肯锡:智驾分级是“旧尺子”,技术比路线重要",
-      "summary": "近九成受访者认为,私家车将在2035年前实现L4级自动驾驶,表明高阶自动驾驶具备明确的用户需求和市场前景。...",
-      "source": "Eeo",
-      "date": "2026-05-13",
-      "url": "http://www.eeo.com.cn/2026/0513/874949.shtml"
+      "id": "https://www.prnasia.com/story/533046-1.shtml",
+      "title": "黑芝麻智能华山A2000U、A2000X获ISO 26262 ASIL-D最高功能安全认证",
+      "summary": "上海 2026年5月14日 /美通社/ -- 近日,智能汽车计算芯片引领者黑芝麻智能宣布,旗下面向全场景通识智驾的华山A2000U及A2000X高性能计算芯片,率先通过国际知名认证机构SGS-TÜV Saar颁发的ISO 26262:2018 ASIL-D功能安全产品认证。ISO 26262是全球公认的汽车功能安全标准,也是电子零部件供应商进入汽车行业的 核心准入门槛 之一。ASIL分为A至D四...",
+      "source": "Prnasia",
+      "date": "2026-05-14",
+      "url": "https://www.prnasia.com/story/533046-1.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778676713129904.html",
-      "title": "财报会释放重要信号,吴泳铭解读阿里AI商业化如何加速",
+      "id": "https://news.seehua.com/post/1484256",
+      "title": "休旅车与载油棕果拖格罗里相撞 司机夹毙女乘客受伤",
+      "summary": "(古来14日讯) 一辆运载油棕果的拖格罗里与休旅车相撞后,翻覆横躺公路,油棕果跌落满地,这起意外也造成休旅车男 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-14",
+      "url": "https://news.seehua.com/post/1484256"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778742579168049.html",
+      "title": "2026首都视听节目春交会开幕式暨主论坛启幕,共筑产业新生态",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-13",
-      "url": "https://www.bjnews.com.cn/detail/1778676713129904.html"
+      "date": "2026-05-14",
+      "url": "https://www.bjnews.com.cn/detail/1778742579168049.html"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0513/234413.shtml",
-      "title": "方程豹豹8豹5闪充版上市,首搭首发比亚迪云辇-P Ultra",
-      "summary": "5月13日,方程豹豹8闪充版、豹5云辇闪充版正式上市,首搭首发比亚迪云辇-P Ultra,全球首款“全场景智能液压车身控制系统”,开创新能源高端越野全新品类。 豹8闪充版售价41.98万元(限时下定惊喜价40.98万元),有五座版和七座版可选,加8000元可选六座版;选装上有三个可选,分别是21英寸轮毂、拖车装置,以及五座版只需加16968元便可选装灵鸢·比亚迪智能车载无人机系统。 豹5售价25....",
-      "source": "Imobile",
-      "date": "2026-05-13",
-      "url": "http://news.imobile.com.cn/articles/2026/0513/234413.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778671286129858.html",
-      "title": "阿里AI正式赚钱了,云外部商业收入增40%",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-13",
-      "url": "https://www.bjnews.com.cn/detail/1778671286129858.html"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3365817",
-      "title": "TD Cowen维持Alphabet股票买入评级,看好Waymo自动驾驶业务增长",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-13",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3365817"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3365562",
-      "title": "与英伟达不存在任何业务关系!330亿光纤概念股发布澄清公告|盘后公告集锦",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-13",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3365562"
-    },
-    {
-      "id": "https://www.ithome.com/0/950/042.htm",
-      "title": "过这村就没这店了,萨博最后 7 辆原厂 9-3 新车将被公开拍卖",
-      "summary": "IT之家 5 月 13 日消息,据外媒 motor1 今日报道,5 月 21 日起,一批萨博历史遗产将被公开拍卖。 随着 NEVS 正式进入破产程序,其位于瑞典特罗尔海坦工厂的最后几辆汽车将对外出售,共计 8 辆, 其中 7 辆为萨博 9-3 。 这批车辆包括 4 辆 2014 年试制阶段的 9-3 车型, 其中两辆为 Aero 版本 ;另有一辆增程原型车。另外 3 辆 9-3 来自 2018 年...",
+      "id": "https://www.ithome.com/0/950/584.htm",
+      "title": "京东物流切入商业航天场景,为蓝箭航天朱雀二号改进型遥五运载火箭运输团队提供完整保障方案",
+      "summary": "IT之家 5 月 14 日消息,蓝箭航天朱雀二号改进型遥五运载火箭(ZQ-2E Y5) 于今天成功发射 ,这也是朱雀二号“进化版”的首次亮相。 IT之家参考“京东物流黑板报”公众号,在本次发射任务中京东物流与蓝箭航天展开合作,首次面向火箭运输团队提供完整物流保障方案,相应火箭上也清晰印有“京东快递”标志。 据京东物流介绍,本次任务中,京东物流参与了火箭从浙江到东风商业航天创新试验区的跨区域转运保障...",
       "source": "Ithome",
-      "date": "2026-05-13",
-      "url": "https://www.ithome.com/0/950/042.htm"
+      "date": "2026-05-14",
+      "url": "https://www.ithome.com/0/950/584.htm"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260513-9042904",
-      "title": "开舢板载六人偷渡入境 有前科印尼男判监打鞭",
-      "summary": "一名印度尼西亚男子因逾期逗留被判刑及驱逐出境后,在接下来五年内又四次非法入境新加坡被判刑,他过后不仅没有收敛,还收费开舢板载六名同乡非法入境。...",
+      "id": "https://www.zaobao.com.sg/news/china/story20260514-9049257",
+      "title": "小鹏汽车据报计划收购欧洲工厂 承接大众汽车过剩产能",
+      "summary": "(伦敦讯)中国电动汽车制造商小鹏汽车,据报正与大众汽车集团及其他汽车制造商洽谈,拟收购位于欧洲的一座工厂,以拓展国际销售。...",
       "source": "Zaobao",
-      "date": "2026-05-13",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260513-9042904"
+      "date": "2026-05-14",
+      "url": "https://www.zaobao.com.sg/news/china/story20260514-9049257"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778671074129855.html",
-      "title": "中国民航局低空安全司正式设立,职责包括建设低空飞行服务站体系",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-13",
-      "url": "https://www.bjnews.com.cn/detail/1778671074129855.html"
+      "id": "https://news.seehua.com/post/1484301",
+      "title": "砂拖欠顾问公司款项 张健仁质疑ART工程乱象",
+      "summary": "(古晋14日讯)古晋智轨列车(ART)工程乱象频生,加上砂政府长期拖欠工程顾问费,引发外界对砂政府工程管理与财 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-14",
+      "url": "https://news.seehua.com/post/1484301"
     },
     {
-      "id": "https://www.ithome.com/0/950/041.htm",
-      "title": "宝马官宣纯电动版 M3 明年首发,路试谍照曝光",
-      "summary": "IT之家 5 月 13 日消息,距离奥利弗・齐普塞以宝马首席执行官身份结束最新一场演讲仅过去短短数小时,在第 106 届年度股东大会上,这位全球最大豪华汽车制造商的前任掌门人证实,纯电动版宝马 M3 将于明年正式首发亮相。与此同时,该车的多款原型车被拍到正在纽博格林赛道进行路试。 随着量产版车型距离全球首发越来越近,该车已经用上最终版车身套件。不过测试整车依旧采用全覆盖伪装,试图遮掩宽大外扩的轮拱...",
-      "source": "Ithome",
-      "date": "2026-05-13",
-      "url": "https://www.ithome.com/0/950/041.htm"
+      "id": "https://post.smzdm.com/p/agg08lr6/",
+      "title": "5G+V2X T-BOX:看星创易联 SV910 如何为高阶智能驾驶铺路",
+      "summary": "智能驾驶走到今天,大家都在谈激光雷达、大算力、AI 算法,却很少有人真正拆开那台决定车辆 “能不能联网、敢不敢协同、稳不稳运行” 的核心设备 ——5G+V2X T-BOX。它不是简单的 “上网模块”,而是智能车的数字神经中枢。今天我们就以星创易联 SV9......",
+      "source": "Smzdm",
+      "date": "2026-05-14",
+      "url": "https://post.smzdm.com/p/agg08lr6/"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/north/2026/05/13/818460",
-      "title": "69岁老翁U转误踩油门 轿车失控撞入店面",
-      "summary": "(加央13日讯)一名69岁老翁驾车进行U转时,疑误踩油门导致轿车失控,先撞上一辆第二国产车灵鹿轿车后,再冲入柏斯里甘榜达叻一间商业店面,所幸事故未造成严重伤亡。巴东勿刹警区主任莫哈末苏克里表示,巴东勿刹警区总部交通调查及执法组(BSPT)于今日上午10时20分接获相关交通事故投报。他今日发文告指出,初步调查显示,事故涉及一辆由本地69岁男子驾驶的福士伟根Polo轿车,而涉事司机相信是在尝试进行U转...",
-      "source": "Orientaldaily",
-      "date": "2026-05-13",
-      "url": "https://www.orientaldaily.com.my/news/north/2026/05/13/818460"
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/05/14/robots-kill-off-production-of-flagship-tesla-electric-cars",
+      "title": "Robots kill off production of flagship Tesla electric cars",
+      "summary": "Tesla has officially ended production of its game-changing Model S saloon and the gull-wing Model X SUV to make way for Optimus humanoid robots and autonomous driving technology....",
+      "source": "The Star",
+      "date": "2026-05-14",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/05/14/robots-kill-off-production-of-flagship-tesla-electric-cars"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3365314",
-      "title": "美股前瞻 | 三大股指期货涨跌不一 芯片股盘前普涨 4月PPI今晚揭晓",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-13",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3365314"
+      "id": "https://www.mixvale.com.br/2026/05/14/waymo-initiates-voluntary-recall-of-thousands-of-robotaxis-after-creek-immersion-in-texas/",
+      "title": "Waymo initiates voluntary recall of thousands of robotaxis after creek immersion in Texas",
+      "summary": "Waymo initiates voluntary recall of thousands of robotaxis after creek immersion in Texas Waymo, a prominent developer of autonomous driving technology, has issued a voluntary recall affecting thousan...",
+      "source": "Portal Mix Vale",
+      "date": "2026-05-14",
+      "url": "https://www.mixvale.com.br/2026/05/14/waymo-initiates-voluntary-recall-of-thousands-of-robotaxis-after-creek-immersion-in-texas/"
     },
     {
-      "id": "https://www.ithome.com/0/950/030.htm",
-      "title": "大版本来袭:第一代小米 SU7 汽车 OTA 1.16 开推,新增语音控车、疲劳分心下应急停车辅助功能等",
-      "summary": "IT之家 5 月 13 日消息,小米汽车官方今日宣布, 第一代 SU7 的 OTA 1.16 已经开始陆续推送 。据介绍,本次更新看齐新 SU7 重点功能,拉齐第一代 SU7 功能体验,会陆续推送给所有车主。 IT之家附第一代小米 SU7 OTA 1.16 更新内容如下: 01 辅助驾驶 1.1 行车辅助 新增语音控车(Beta),可以通过语音实现车辆横向和纵向的控制,更便捷地满足用户如变道、调速...",
-      "source": "Ithome",
+      "id": "https://www.sfgate.com/news/bayarea/article/regional-waymo-issued-voluntary-recall-notice-22257942.php",
+      "title": "Regional: Waymo Issued Voluntary Recall Notice For Software After Self-Driving Car Drove Into Flood Water",
+      "summary": "The autonomous ride company Waymo voluntarily recalled its entire fleet's software last month after one of the vehicles drove into a flooded lane in San Antonio, Texas....",
+      "source": "SFGATE",
       "date": "2026-05-13",
-      "url": "https://www.ithome.com/0/950/030.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/950/028.htm",
-      "title": "央视曝光低速代步电动车“老头乐”生产乱象:无资质作坊、使用淘汰电机及废旧电池...",
-      "summary": "IT之家 5 月 13 日消息,近年来,低速代步电动车(俗称“老头乐”)因出行便捷、低成本,成为部分老年群体短途出行的首选,然而这些车型本身存在较大安全隐患,同时部分驾驶者素质不佳,经常导致重大交通事故。近期央视记者便潜入了这些“老头乐”生产商进行调查。 IT之家参考报道获悉,部分老头乐厂商对外宣称的“源头工厂”,实则是无任何机动车生产资质的私人组装小作坊,这些作坊从周边无资质车壳厂采购薄铁皮车壳...",
-      "source": "Ithome",
-      "date": "2026-05-13",
-      "url": "https://www.ithome.com/0/950/028.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778666398169660.html",
-      "title": "教育观察|从一所小学到一个产业,世界数字教育大会上的杭州答案",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-13",
-      "url": "https://www.bjnews.com.cn/detail/1778666398169660.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778666761129785.html",
-      "title": "阿里云外部收入增长40%创新高,AI收入占比首破30%",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-13",
-      "url": "https://www.bjnews.com.cn/detail/1778666761129785.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/950/023.htm",
-      "title": "“玛界”来袭:消息称鸿蒙智行、江淮汽车、斯特兰蒂斯正洽谈打造玛莎拉蒂新能源车",
-      "summary": "IT之家 5 月 13 日消息,据云见 Insight 报道,华为鸿蒙智行、江淮汽车、斯特兰蒂斯集团(Stellantis)及旗下玛莎拉蒂品牌,正就共同打造玛莎拉蒂品牌的新能源车展开洽谈。 按照规划,四方合作模式与鸿蒙智行“五界”高度相似:华为主导产品定义、提供核心技术,江淮联合研发并负责生产制造,玛莎拉蒂提供造型设计与品牌背书。合作车型将分为国内和海外版本,国内版归属于尊界品牌,海外版将挂玛莎拉...",
-      "source": "Ithome",
-      "date": "2026-05-13",
-      "url": "https://www.ithome.com/0/950/023.htm"
+      "url": "https://www.sfgate.com/news/bayarea/article/regional-waymo-issued-voluntary-recall-notice-22257942.php"
     },
     {
       "id": "https://www.devdiscourse.com/article/business/3906820-teslas-new-autonomous-adventure-testing-in-flanders",
@@ -233,12 +239,12 @@
       "url": "https://www.nbcchicago.com/news/local/waymo-recalls-nearly-4000-autonomous-taxis-over-risk-of-driving-into-flooded-roads/3935242/"
     },
     {
-      "id": "https://www.vcstar.com/story/cars/recalls/2026/05/12/waymo-car-recall/90042845007/",
+      "id": "https://www.providencejournal.com/story/cars/recalls/2026/05/12/waymo-car-recall/90042845007/",
       "title": "Thousands of Waymo autonomous driving cars recalled. Here's why",
       "summary": "Waymo issued a recall for thousands of its vehicles after a car drove into a flooded area in April....",
-      "source": "Ventura County Star",
+      "source": "Providence Journal (Projo)",
       "date": "2026-05-12",
-      "url": "https://www.vcstar.com/story/cars/recalls/2026/05/12/waymo-car-recall/90042845007/"
+      "url": "https://www.providencejournal.com/story/cars/recalls/2026/05/12/waymo-car-recall/90042845007/"
     }
   ]
 }
