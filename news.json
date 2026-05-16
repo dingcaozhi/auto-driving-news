@@ -1,250 +1,189 @@
 {
-  "lastUpdated": "2026-05-15 04:06:13",
-  "totalCount": 28,
+  "lastUpdated": "2026-05-16 03:48:43",
+  "totalCount": 21,
   "sources": {
-    "Bilibili": 5,
-    "Bjnews": 2,
-    "Ithome": 2,
-    "Fx168News": 1,
-    "Chinanews": 2,
-    "Cri_Cn": 1,
-    "Zaobao": 2,
+    "Ithome": 6,
+    "Fx168News": 2,
+    "Rfi_Fr": 1,
     "Prnasia": 2,
-    "Ign_Cn": 1,
-    "News_Seehua": 2,
+    "Chinanews": 2,
+    "Orientaldaily": 1,
+    "Jiemian": 1,
+    "Eeo": 1,
     "Smzdm": 1,
-    "The Star": 1,
-    "Portal Mix Vale": 1,
-    "SFGATE": 1,
-    "Devdiscourse": 1,
-    "The Manila Times": 1,
-    "NBC 5 Chicago": 1,
-    "Providence Journal (Projo)": 1
+    "Bjnews": 1,
+    "Imobile": 1,
+    "Newsweek": 1,
+    "Boulder Daily Camera": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
-      "date": "2026-05-15",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-15",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1oJ5s6iEKi",
-      "title": "【B站】6代的自动驾驶也太舒服了吧",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-15",
-      "url": "https://www.bilibili.com/video/BV1oJ5s6iEKi"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
-      "title": "【B站】【科普】自动驾驶分级及原理",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-15",
-      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Ji4y137tN",
-      "title": "【B站】被吹上天的特斯拉自动辅助驾驶AP在高速上能有多省力？",
-      "summary": "上一个视频里我测试了特斯拉自动辅助驾驶在上海晚高峰高架的效果，可以说是非常令人满意。从那以后我就一直想了解\n同样一套系统在高速上的表现如何。今天的视频就是要回答这个问题，同时也分享一些特斯拉Model3开高速相关的体验。\n\n上期回顾：\n特斯拉自动辅助驾驶(AP)在上海晚高峰能撑多久？\nhttps:/...",
-      "source": "Bilibili",
-      "date": "2026-05-15",
-      "url": "https://www.bilibili.com/video/BV1Ji4y137tN"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1778745188129310.html",
-      "title": "清华经管高管教育中心:为企业家与接班人打造的全方位成长平台",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-14",
-      "url": "https://www.bjnews.com.cn/detail/1778745188129310.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/950/638.htm",
-      "title": "212 皮卡将出口德国,填补当地硬派越野市场部分空白",
-      "summary": "IT之家 5 月 14 日消息,据外媒 Carscoops 今日报道,德国进口商 Indimo Automotive 将把北京汽车制造厂的全新 BAW 212 引入欧洲,试图填补硬派越野皮卡市场的空白,面向 需要高越野能力、可靠技术和日常实用性的用户 。 212 皮卡配备圆形 LED 大灯、雨量感应雨刷、侧踏板和 18 英寸合金轮圈。车尾采用圆形尾灯,货厢长度为 1555 毫米。 尺寸方面,212...",
+      "id": "https://www.ithome.com/0/951/141.htm",
+      "title": "首款纯电 GTI 车型来了:大众 ID.Polo GTI 发布,零百加速 6.8 秒",
+      "summary": "IT之家 5 月 15 日消息,大众首次把经典的 GTI 名号用在一辆纯电车型上,ID. Polo GTI 今天正式在纽博格林 24 小时耐力赛期间亮相,距离初代高尔夫 GTI 诞生正好过去 50 年。 新车整体延续普通版纯电 Polo 的设计,并强化了运动化风格,带来重新设计的 前后保险杠、分体式尾翼,以及 GTI 专属的纵向日间行车灯 。矩阵式 LED 大灯下方的红色饰条和可点亮前贯穿灯带,也...",
       "source": "Ithome",
-      "date": "2026-05-14",
-      "url": "https://www.ithome.com/0/950/638.htm"
+      "date": "2026-05-15",
+      "url": "https://www.ithome.com/0/951/141.htm"
     },
     {
-      "id": "https://www.fx168news.com/article/1030697",
-      "title": "小米、特斯拉、比亚迪等新能源车企相继调价;童超当选东方嘉富人寿董事长;一季度九成险企综合退保率低于1%|5.14保险晚餐-FX168",
-      "summary": "保险晚餐今日速览监管之声国家医保局印发《五年行动计划》,将维护医保基金安全作为首要任务人事变动东方嘉富人寿:董事会选举童超为公司董事长海保人寿原总经理李高峰获批出任财务负责人机构动态富德生命人寿减持重庆银行29.8万股,最新持股比12.98%穆迪授予泰康...",
+      "id": "https://www.fx168news.com/article/1031188",
+      "title": "特斯拉(TSLA)股票5月15日盘中下跌3.73%:投资者必看的核心信息-FX168",
+      "summary": "特斯拉 (TSLA) 盘中下跌3.73%, 所属行业汽车与零部件下跌2.98% ,公司涨幅跑输行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 下跌 3.73%;Ford Motor Co (F) 下跌 8.01%;Rivian Automotive Inc (RIVN) 下跌 5.85%。 今日是什么导致了特斯拉(TSLA)股价下跌? 特斯拉 (TSLA) 股价今日走低,受公司特定消息和整体市...",
       "source": "Fx168News",
-      "date": "2026-05-14",
-      "url": "https://www.fx168news.com/article/1030697"
+      "date": "2026-05-15",
+      "url": "https://www.fx168news.com/article/1031188"
     },
     {
-      "id": "https://www.chinanews.com.cn/aseaninfo/2026/05-14/10621352.shtml",
-      "title": "广西启用新版无人机适飞空域加快发展低空经济",
-      "summary": "中新网南宁5月14日电(俞靖)广西壮族自治区交通运输厅14日介绍,广西当日启用新版无人驾驶航空器适飞空域。经调整后,广西适飞空域面积约为20.02万平方公里,较调整前新增空域面积约5.82万平方公里。...",
-      "source": "Chinanews",
-      "date": "2026-05-14",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/05-14/10621352.shtml"
+      "id": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260515-%E5%8F%A4%E5%B7%B4%E5%9B%A0%E7%BE%8E%E5%9B%BD%E5%B0%81%E9%94%81%E6%B7%B1%E9%99%B7%E8%83%BD%E6%BA%90%E5%8D%B1%E6%9C%BA%E4%B9%8B%E9%99%85%EF%BC%8C%E7%BE%8E%E4%B8%AD%E6%83%85%E5%B1%80%E5%B1%80%E9%95%BF%E8%B5%B4%E5%93%88%E7%93%A6%E9%82%A3%E4%BC%9A%E8%B0%88",
+      "title": "古巴因美国封锁深陷能源危机之际,美中情局局长赴哈瓦那会谈",
+      "summary": "古巴因特朗普政府加大封锁措施力度而不断恶化的能源危机正引爆社会不满之际,美国中情局局长约翰·拉特克里夫(John Ratcliffe)14日在哈瓦那与古巴高层负责人举行会议。中情局没有披露这次会谈的具体内容,古巴当局则表示,会谈旨在推动政治对话。与此同时,有美国媒体报道称,美方有意起诉古巴前国家主席劳尔-卡斯特罗。...",
+      "source": "Rfi_Fr",
+      "date": "2026-05-15",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260515-%E5%8F%A4%E5%B7%B4%E5%9B%A0%E7%BE%8E%E5%9B%BD%E5%B0%81%E9%94%81%E6%B7%B1%E9%99%B7%E8%83%BD%E6%BA%90%E5%8D%B1%E6%9C%BA%E4%B9%8B%E9%99%85%EF%BC%8C%E7%BE%8E%E4%B8%AD%E6%83%85%E5%B1%80%E5%B1%80%E9%95%BF%E8%B5%B4%E5%93%88%E7%93%A6%E9%82%A3%E4%BC%9A%E8%B0%88"
     },
     {
-      "id": "https://news.cri.cn/20260514/7fd8fe77-58b3-fbdb-9574-124f40c2fcab.html",
-      "title": "焦点访谈丨让过程更高效、更智慧 生产性服务业赋能高质量发展-国际在线",
-      "summary": "今年以来,服务业的战略地位被提升到了新的高度。4月初,全国服务业大会召开,两周后,国务院印发《关于推进服务业扩能提质的意见》,以顶层设计擘画服务业高质量发展的路线图。除了大家熟悉的餐饮、旅游等生活性服务业,《意见》还把生产性服务业放到更...",
-      "source": "Cri_Cn",
-      "date": "2026-05-14",
-      "url": "https://news.cri.cn/20260514/7fd8fe77-58b3-fbdb-9574-124f40c2fcab.html"
+      "id": "https://www.ithome.com/0/951/129.htm",
+      "title": "蔚来乐道 L80 大五座 SUV 上市:24.28 万-27.98 万元,租电 15.68 万-19.38 万元",
+      "summary": "IT之家 5 月 15 日消息,蔚来旗下乐道汽车全新车型 L80 今晚正式上市,新车定位智能双舱大五座旗舰 SUV,售价为 24.28 万-27.98 万元,租电方案的售价区间为 15.68 万-19.38 万元。 IT之家汇总新车主要信息如下: 乐道 L80 共有 6 种车身颜色搭配:岩脊棕、辰辉银、静岳黑、雪峰白、凝夜紫,以及专属的全新颜色「层峰绿」。内饰方面,新车提供桂庭黄、云缦米、曜夜黑、...",
+      "source": "Ithome",
+      "date": "2026-05-15",
+      "url": "https://www.ithome.com/0/951/129.htm"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260514-9050260",
-      "title": "许宝琨:职场不再“一职到底” 员工须终身学习掌握职涯主动权",
-      "summary": "科技进步和商业模式改变,意味着人们不再一辈子只打一份工;他们不仅要秉持终身学习的精神,也要有能力定期自我检讨职业生涯规划,把主动权掌握在自己手里。...",
-      "source": "Zaobao",
-      "date": "2026-05-14",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260514-9050260"
+      "id": "https://www.ithome.com/0/951/127.htm",
+      "title": "特斯拉拟建 Cybercab 大型洗车站:提供清洁、充电、维护一条龙服务",
+      "summary": "IT之家 5 月 15 日消息,据外媒 Teslarati 今晚报道,特斯拉正在内华达州克拉克县靠近拉斯维加斯的地方,为 Cybercab 建设一座专用洗车设施。该设施面积约 3345 平方米,项目形态相当特殊,将服务于特斯拉未来 Robotaxi 车队。 文件显示,特斯拉此前已悄悄提交 Cybercab 洗车设施建设计划。5 月 12 日,特斯拉又提交了许可申请,准备启动“特斯拉中心 Cyber...",
+      "source": "Ithome",
+      "date": "2026-05-15",
+      "url": "https://www.ithome.com/0/951/127.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/05-14/10621289.shtml",
-      "title": "23国驻华外交官在北京感知“创新中国”",
-      "summary": "中新社北京5月14日电 (记者 陈杭)2026年“春华秋实”驻华外交官与北京友协理事联谊活动14日在北京举办,来自意大利、塞浦路斯、厄瓜多尔、格林纳达等23个国家的32名外交官,感受北京人形机器人、自动驾驶等前沿科技的创新魅力。...",
-      "source": "Chinanews",
-      "date": "2026-05-14",
-      "url": "https://www.chinanews.com.cn/gn/2026/05-14/10621289.shtml"
-    },
-    {
-      "id": "https://www.prnasia.com/story/533082-1.shtml",
-      "title": "三一重工发布2025年度可持续发展报告",
-      "summary": "报告披露该公司在产品电动化、环境管理和ESG治理等方面的进展 香港 2026年5月14日 /美通社/ -- 三一重工(600031.SH,06031.HK)近日发布《2025年可持续发展报告》,披露ESG治理、创新发展、绿色低碳、人才培养与社会责任等方面的关键进展。2025年,公司研发投入达7.24亿美元,环保投入3900万美元,全年通过节能降耗项目累计节约1000万美元,各项ESG关键绩效指标取...",
+      "id": "https://www.prnasia.com/story/533215-1.shtml",
+      "title": "AION V再创佳绩:4月全球销量增长179%,荣膺J.D. Power紧凑型纯电SUV魅力指数第一",
+      "summary": "广州 2026年5月15日 /美通社/ -- 今年4月,AION V全球销量同比增长179%,延续强劲增长势头。目前,AION V已在中国香港、泰国、新加坡、澳大利亚等全球多个国家和地区上市,下一步还将进入英国、西班牙、法国等市场。AION V能在全球多个市场持续热销,源于其过硬的产品品质与扎实的用户口碑。 出色的口碑在权威调研中得到了充分印证。在全球领先的消费者洞察与市场研究机构J.D. Pow...",
       "source": "Prnasia",
-      "date": "2026-05-14",
-      "url": "https://www.prnasia.com/story/533082-1.shtml"
+      "date": "2026-05-15",
+      "url": "https://www.prnasia.com/story/533215-1.shtml"
     },
     {
-      "id": "https://www.ign.com.cn/forza-horizon-6/60042/ign-zhong-guo-ji-xian-jing-su-di-ping-xian-6-ping-ce-cong-ling-kai-shi-de-jdm-sheng-huo",
-      "title": "IGN 中国《极限竞速:地平线 6》评测:从零开始的 JDM 生活",
+      "id": "https://www.fx168news.com/article/1031162",
+      "title": "不想直接购买 CBRS?获取间接敞口的 4 类美股 ETF-FX168",
+      "summary": "TradingKey - 2026年5月14日,Cerebras Systems (CBRS) 作为 Nasdaq 上的一家 AI 芯片竞争对手,收盘大涨 68%,且盘中波动率超过 100%。购买 CBRS 股票需要开立美股证券账户、进行资金划转,并具备承受单只股票剧烈波动风险的能力。 通过 ETF 进行投资可间接配置 AI 芯片板块公司,在把握 AI 芯片股大趋势的同时提供风险分散的途径。截至 ...",
+      "source": "Fx168News",
+      "date": "2026-05-15",
+      "url": "https://www.fx168news.com/article/1031162"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-15/10621906.shtml",
+      "title": "(乡村行·看振兴)山西晋城:田畴沃野农事忙 科技赋能绘“丰”景",
       "summary": "NewsData报道",
-      "source": "Ign_Cn",
-      "date": "2026-05-14",
-      "url": "https://www.ign.com.cn/forza-horizon-6/60042/ign-zhong-guo-ji-xian-jing-su-di-ping-xian-6-ping-ce-cong-ling-kai-shi-de-jdm-sheng-huo"
+      "source": "Chinanews",
+      "date": "2026-05-15",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-15/10621906.shtml"
     },
     {
-      "id": "https://www.prnasia.com/story/533046-1.shtml",
-      "title": "黑芝麻智能华山A2000U、A2000X获ISO 26262 ASIL-D最高功能安全认证",
-      "summary": "上海 2026年5月14日 /美通社/ -- 近日,智能汽车计算芯片引领者黑芝麻智能宣布,旗下面向全场景通识智驾的华山A2000U及A2000X高性能计算芯片,率先通过国际知名认证机构SGS-TÜV Saar颁发的ISO 26262:2018 ASIL-D功能安全产品认证。ISO 26262是全球公认的汽车功能安全标准,也是电子零部件供应商进入汽车行业的 核心准入门槛 之一。ASIL分为A至D四...",
+      "id": "https://www.prnasia.com/story/533213-1.shtml",
+      "title": "TÜV莱茵为全新理想L9 Livis颁发高性能汽车5G平台及成长关怀认证证书",
+      "summary": "北京 2026年5月15日 /美通社/ -- 5月14日,国际独立第三方检测、检验和认证机构德国莱茵TÜV大中华区(简称\"TÜV莱茵\")为 全新理想L9 Livis 车型颁发了\"高性能汽车5G平台\"(High Performance Automotive 5G Platform)认证及车载显示屏\"成长关怀\"(Youth Care)认证证书。这两项认证重点评估汽车产品在车载网络性能与家庭友好型座...",
       "source": "Prnasia",
-      "date": "2026-05-14",
-      "url": "https://www.prnasia.com/story/533046-1.shtml"
+      "date": "2026-05-15",
+      "url": "https://www.prnasia.com/story/533213-1.shtml"
     },
     {
-      "id": "https://news.seehua.com/post/1484256",
-      "title": "休旅车与载油棕果拖格罗里相撞 司机夹毙女乘客受伤",
-      "summary": "(古来14日讯) 一辆运载油棕果的拖格罗里与休旅车相撞后,翻覆横躺公路,油棕果跌落满地,这起意外也造成休旅车男 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-14",
-      "url": "https://news.seehua.com/post/1484256"
+      "id": "https://www.orientaldaily.com.my/news/society/2026/05/15/818962",
+      "title": "【4兄弟妹共骑遇车祸】截肢保命7岁女童 身体情况好转",
+      "summary": "(哥打峇鲁15日讯)一名14岁中学生周一骑摩哆载著3名弟弟妹妹上学途中,与轿车发生碰撞,造成4人受伤,其中伤势最严重的7岁女童为保命被迫截除右腿,大腿以下需截肢,但目前情况稳定。这名女童名叫马丝西蒂罗斯娜,目前仍留医在位于古邦阁亮马来西亚理科大学专科医院(HPUSM)的重症监护室接受密切观察。据女童的伯父,即51岁的纳兹里阿都拉表示,女童在家中14名兄弟姐妹中排行最小,随著女童周二接受截肢手术两天...",
+      "source": "Orientaldaily",
+      "date": "2026-05-15",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/05/15/818962"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1778742579168049.html",
-      "title": "2026首都视听节目春交会开幕式暨主论坛启幕,共筑产业新生态",
+      "id": "https://www.chinanews.com.cn/sh/2026/05-15/10621938.shtml",
+      "title": "“中国薯都”核心区:农机补贴加速跑 绘就沃野新图景",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-05-15",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-15/10621938.shtml"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14434532.html",
+      "title": "直通部委|十部门严打中医违法违规行为 两部门部署应对今年首轮大范围降雨",
+      "summary": "今天有哪些部委新闻值得关注?4月份网约车监管交互系统收到订单信息9.24亿单;去年来警方破获跨境涉毒犯罪案件29起,抓获157人;创新药试验数据有了“护身符”,最长保护期可达6年。...",
+      "source": "Jiemian",
+      "date": "2026-05-15",
+      "url": "https://www.jiemian.com/article/14434532.html"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0515/877498.shtml",
+      "title": "在线音频还是不是一门好生意",
+      "summary": "对投资者而言,音频已不是那个能讲出千亿故事的好赛道了;但对于那些愿意接受“慢生意”逻辑的经营者来说,音频仍然可以是一门体面且持续的生意。...",
+      "source": "Eeo",
+      "date": "2026-05-15",
+      "url": "http://www.eeo.com.cn/2026/0515/877498.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/951/032.htm",
+      "title": "消息称长安拟入股千里科技,千里智驾正与奥迪、奇瑞等车企推进合作",
+      "summary": "IT之家 5 月 15 日消息,“36 氪汽车”今天援引产业人士消息称,千里科技正积极与长安、奥迪、奇瑞等车企洽谈智能化合作。其中,长安不仅 有意向搭载千里科技辅助驾驶方案 ,还计划 入股千里科技 ,双方原定今年年初完成股权变更,然而知情人士称该计划暂无实质性进展。 目前,北汽已经成为千里科技 最具确定性的外部客户 ,双方计划年内成立合资公司,未来将发布 5 款车型:包含一款轿车、一款越野车、一款...",
+      "source": "Ithome",
+      "date": "2026-05-15",
+      "url": "https://www.ithome.com/0/951/032.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkv62od/",
+      "title": "2026年中国无人驾驶出租车商业化拐点:市场现状与未来趋势",
+      "summary": "2026年成为中国Robotaxi(无人驾驶出租车)从技术验证迈向规模化商业化的关键拐点。在政策松绑、技术降本及用户接受度提升三重共振下,行业正式告别烧钱试错阶段,迈入单程盈利与车队扩张的新周期。截至2026年3月,全国已有26座城市获批全无人商业化运营......",
+      "source": "Smzdm",
+      "date": "2026-05-15",
+      "url": "https://post.smzdm.com/p/axkv62od/"
+    },
+    {
+      "id": "https://www.ithome.com/0/951/028.htm",
+      "title": "IT之家采访联发科:智能体无缝跨端协同,从这三个层面入手",
+      "summary": "IT之家 5 月 15 日消息,5 月 13 日,联发科在上海举办了以“全域芯智能,体验新无界”为主题的天玑开发者大会 2026(MDDC 2026),在大会上,联发科正式发布天玑 AI 智能体化引擎 2.0,推出升级后的天玑 AI 开发套件 3.0,同时公布了与 OPPO、小米、传音等厂商合作的系统原生 Claw 成果。 IT之家作为受邀媒体也参加了本次 MDDC 2026,并在会后参与了联发科...",
+      "source": "Ithome",
+      "date": "2026-05-15",
+      "url": "https://www.ithome.com/0/951/028.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/951/113.htm",
+      "title": "高通:理想 L9 Livis 是中国首搭第二代骁龙汽车 5G 调制解调器及射频平台的车型",
+      "summary": "IT之家 5 月 15 日消息,高通中国公众号今天晚间发文称:理想汽车发布了全新理想 L9 Livis,并宣布其成为中国首款搭载高通技术公司 支持双卡双通的第二代骁龙汽车 5G 调制解调器及射频平台(骁龙 525M)的量产车型 。 根据介绍,基于这款骁龙 5G 芯片,理想与高通针对真实环境中的车辆通信进行优化,提升数据交换效率、优化无线通信系统设计,并增强车载网联性能。此次双方的成果支持全新理想 ...",
+      "source": "Ithome",
+      "date": "2026-05-15",
+      "url": "https://www.ithome.com/0/951/113.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1778838768129196.html",
+      "title": "鸿蒙智行首款旗舰MPV智界V9正式上市,6月初开启交付",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
+      "date": "2026-05-15",
+      "url": "https://www.bjnews.com.cn/detail/1778838768129196.html"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0515/234443.shtml",
+      "title": "王力宏官宣代言腾势汽车,5月18日N9闪充版发布会不见不散",
+      "summary": "5月15日,腾势汽车正式宣布,华语乐坛著名音乐人王力宏成为腾势汽车品牌全球代言人,其将出席5月18日腾势N9闪充版的上市发布会,携手共启中国新能源豪华出行全新篇章。 作为享誉全球的华语流行乐男歌手、音乐制作人、演员、导演,王力宏自出道以来,凭借多元化的音乐风格以及出色的现场表演能力而受到广泛认可。王力宏深耕东方文化、融合国际潮流,气质儒雅沉稳、格调高级内敛,受众覆盖跨世代高净值精英、商务名流与城市...",
+      "source": "Imobile",
+      "date": "2026-05-15",
+      "url": "http://news.imobile.com.cn/articles/2026/0515/234443.shtml"
+    },
+    {
+      "id": "https://www.newsweek.com/bicyclist-suing-crash-delivery-robot-new-jersey-lawsuit-11952852",
+      "title": "Bicyclist to Sue After Crash With Robot That Allegedly Tried to Flee",
+      "summary": "A New Jersey man plans to sue Uber and an autonomous vehicle company after crashing into a self-driving robot while riding his bike home late last year....",
+      "source": "Newsweek",
+      "date": "2026-05-15",
+      "url": "https://www.newsweek.com/bicyclist-suing-crash-delivery-robot-new-jersey-lawsuit-11952852"
+    },
+    {
+      "id": "https://www.dailycamera.com/2026/05/14/waymo-recalls-autonomous-taxis-software-defect-flooded-roadways/",
+      "title": "Waymo recalls 3,791 autonomous taxis over flood risk defect",
+      "summary": "Waymo recalled 3,791 self-driving vehicles after a defect was found that causes them to enter flooded roads....",
+      "source": "Boulder Daily Camera",
       "date": "2026-05-14",
-      "url": "https://www.bjnews.com.cn/detail/1778742579168049.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/950/584.htm",
-      "title": "京东物流切入商业航天场景,为蓝箭航天朱雀二号改进型遥五运载火箭运输团队提供完整保障方案",
-      "summary": "IT之家 5 月 14 日消息,蓝箭航天朱雀二号改进型遥五运载火箭(ZQ-2E Y5) 于今天成功发射 ,这也是朱雀二号“进化版”的首次亮相。 IT之家参考“京东物流黑板报”公众号,在本次发射任务中京东物流与蓝箭航天展开合作,首次面向火箭运输团队提供完整物流保障方案,相应火箭上也清晰印有“京东快递”标志。 据京东物流介绍,本次任务中,京东物流参与了火箭从浙江到东风商业航天创新试验区的跨区域转运保障...",
-      "source": "Ithome",
-      "date": "2026-05-14",
-      "url": "https://www.ithome.com/0/950/584.htm"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/china/story20260514-9049257",
-      "title": "小鹏汽车据报计划收购欧洲工厂 承接大众汽车过剩产能",
-      "summary": "(伦敦讯)中国电动汽车制造商小鹏汽车,据报正与大众汽车集团及其他汽车制造商洽谈,拟收购位于欧洲的一座工厂,以拓展国际销售。...",
-      "source": "Zaobao",
-      "date": "2026-05-14",
-      "url": "https://www.zaobao.com.sg/news/china/story20260514-9049257"
-    },
-    {
-      "id": "https://news.seehua.com/post/1484301",
-      "title": "砂拖欠顾问公司款项 张健仁质疑ART工程乱象",
-      "summary": "(古晋14日讯)古晋智轨列车(ART)工程乱象频生,加上砂政府长期拖欠工程顾问费,引发外界对砂政府工程管理与财 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-14",
-      "url": "https://news.seehua.com/post/1484301"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg08lr6/",
-      "title": "5G+V2X T-BOX:看星创易联 SV910 如何为高阶智能驾驶铺路",
-      "summary": "智能驾驶走到今天,大家都在谈激光雷达、大算力、AI 算法,却很少有人真正拆开那台决定车辆 “能不能联网、敢不敢协同、稳不稳运行” 的核心设备 ——5G+V2X T-BOX。它不是简单的 “上网模块”,而是智能车的数字神经中枢。今天我们就以星创易联 SV9......",
-      "source": "Smzdm",
-      "date": "2026-05-14",
-      "url": "https://post.smzdm.com/p/agg08lr6/"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/05/14/robots-kill-off-production-of-flagship-tesla-electric-cars",
-      "title": "Robots kill off production of flagship Tesla electric cars",
-      "summary": "Tesla has officially ended production of its game-changing Model S saloon and the gull-wing Model X SUV to make way for Optimus humanoid robots and autonomous driving technology....",
-      "source": "The Star",
-      "date": "2026-05-14",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/05/14/robots-kill-off-production-of-flagship-tesla-electric-cars"
-    },
-    {
-      "id": "https://www.mixvale.com.br/2026/05/14/waymo-initiates-voluntary-recall-of-thousands-of-robotaxis-after-creek-immersion-in-texas/",
-      "title": "Waymo initiates voluntary recall of thousands of robotaxis after creek immersion in Texas",
-      "summary": "Waymo initiates voluntary recall of thousands of robotaxis after creek immersion in Texas Waymo, a prominent developer of autonomous driving technology, has issued a voluntary recall affecting thousan...",
-      "source": "Portal Mix Vale",
-      "date": "2026-05-14",
-      "url": "https://www.mixvale.com.br/2026/05/14/waymo-initiates-voluntary-recall-of-thousands-of-robotaxis-after-creek-immersion-in-texas/"
-    },
-    {
-      "id": "https://www.sfgate.com/news/bayarea/article/regional-waymo-issued-voluntary-recall-notice-22257942.php",
-      "title": "Regional: Waymo Issued Voluntary Recall Notice For Software After Self-Driving Car Drove Into Flood Water",
-      "summary": "The autonomous ride company Waymo voluntarily recalled its entire fleet's software last month after one of the vehicles drove into a flooded lane in San Antonio, Texas....",
-      "source": "SFGATE",
-      "date": "2026-05-13",
-      "url": "https://www.sfgate.com/news/bayarea/article/regional-waymo-issued-voluntary-recall-notice-22257942.php"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/business/3906820-teslas-new-autonomous-adventure-testing-in-flanders",
-      "title": "Tesla's New Autonomous Adventure: Testing in Flanders",
-      "summary": "Tesla has been authorized to test its self-driving software in Flanders, Belgium. This follows preliminary approval in the Netherlands, marking an EU first. Successful tests may expedite a European ty...",
-      "source": "Devdiscourse",
-      "date": "2026-05-13",
-      "url": "https://www.devdiscourse.com/article/business/3906820-teslas-new-autonomous-adventure-testing-in-flanders"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/05/13/tmt-newswire/pr-newswire/tier-iv-launches-mp-camera-series-optimized-for-commercial-scale-level-4-autonomous-driving/2342537",
-      "title": "TIER IV launches MP camera series optimized for commercial-scale Level 4 autonomous driving",
-      "summary": "**media[1054595]**TOKYO, May 13, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has launched the MP camera series, an automotive-grade lineup en...",
-      "source": "The Manila Times",
-      "date": "2026-05-13",
-      "url": "https://www.manilatimes.net/2026/05/13/tmt-newswire/pr-newswire/tier-iv-launches-mp-camera-series-optimized-for-commercial-scale-level-4-autonomous-driving/2342537"
-    },
-    {
-      "id": "https://www.nbcchicago.com/news/local/waymo-recalls-nearly-4000-autonomous-taxis-over-risk-of-driving-into-flooded-roads/3935242/",
-      "title": "Nearly 4K Waymos recalled for risk of driving into flooded roads",
-      "summary": "Nearly 4,000 of Waymo autonomous taxis were recalled after software may have allowed the vehicles to drive into flooded roads, according to NHTSA....",
-      "source": "NBC 5 Chicago",
-      "date": "2026-05-13",
-      "url": "https://www.nbcchicago.com/news/local/waymo-recalls-nearly-4000-autonomous-taxis-over-risk-of-driving-into-flooded-roads/3935242/"
-    },
-    {
-      "id": "https://www.providencejournal.com/story/cars/recalls/2026/05/12/waymo-car-recall/90042845007/",
-      "title": "Thousands of Waymo autonomous driving cars recalled. Here's why",
-      "summary": "Waymo issued a recall for thousands of its vehicles after a car drove into a flooded area in April....",
-      "source": "Providence Journal (Projo)",
-      "date": "2026-05-12",
-      "url": "https://www.providencejournal.com/story/cars/recalls/2026/05/12/waymo-car-recall/90042845007/"
+      "url": "https://www.dailycamera.com/2026/05/14/waymo-recalls-autonomous-taxis-software-defect-flooded-roadways/"
     }
   ]
 }
