@@ -1,194 +1,224 @@
 {
-  "lastUpdated": "2026-05-19 04:14:11",
-  "totalCount": 29,
+  "lastUpdated": "2026-05-20 04:15:08",
+  "totalCount": 37,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 1,
-    "Ithome": 5,
-    "Chinanews": 2,
-    "Bjnews": 2,
+    "Bjnews": 3,
+    "Fx168News": 4,
+    "Chinanews": 6,
+    "Investing_Cn": 1,
+    "Imobile": 1,
+    "Ithome": 1,
+    "Zaobao": 1,
     "News_Seehua": 1,
-    "Prnasia": 1,
-    "Newscase": 1,
-    "Orientaldaily": 1,
-    "Investing_Cn": 2,
+    "Smzdm": 1,
+    "The Manila Times": 2,
+    "Seeking Alpha": 2,
+    "Interesting Engineering": 1,
+    "South China Morning Post": 1,
     "PR Newswire UK": 1,
     "MarketScreener": 1,
     "Business Insider": 1,
     "The Economic Times": 1,
+    "The Sunday Times": 1,
     "The Financial Express": 1,
     "Breitbart News Network": 1,
-    "Newsweek": 1,
-    "Norfolk Virginian-Pilot": 1
+    "Firstpost": 1,
+    "NDTV Profit": 1,
+    "TNW": 2,
+    "The Verge": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-19",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
-      "date": "2026-05-19",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
-      "title": "【B站】【科普】自动驾驶分级及原理",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-19",
-      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1sNLH6VEye",
-      "title": "【B站】以防你不知道自动驾驶和一脚油门可以轻松三星码头压力赛【极限竞速：地平线6】",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-19",
-      "url": "https://www.bilibili.com/video/BV1sNLH6VEye"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1XC4y1G7TE",
-      "title": "【B站】东风2004d全程自动驾驶犁地作业，磕磕绊绊终于下地了",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-05-19",
-      "url": "https://www.bilibili.com/video/BV1XC4y1G7TE"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzg8qxg/",
-      "title": "海豹06智驾版实测:高速能减负,但离“真智能”还差激光雷达",
-      "summary": "截至2026年5月,海豹06智驾版搭载的天神之眼C系统在高速场景下能有效缓解疲劳,但在变道策略、施工识别和极端天气应对上仍存在明显短板,远未达到“类人驾驶”水平。1很多用户误以为“智驾版”等于“自动驾驶”,实则不然。海豹06 DM-i智驾版全系标配的是L......",
-      "source": "Smzdm",
-      "date": "2026-05-18",
-      "url": "https://post.smzdm.com/p/arzg8qxg/"
-    },
-    {
-      "id": "https://www.ithome.com/0/952/038.htm",
-      "title": "何小鹏:小鹏 Robotaxi 将在广州开启示范运营",
-      "summary": "IT之家 5 月 18 日消息,今天,小鹏首台量产的 Robotaxi 在广州工厂下线了。小鹏集团董事长、CEO 何小鹏今日宣布, 未来几个月,小鹏 Robotaxi 会在广州开启示范运营 。 IT之家从官方介绍获悉,作为中国首款全栈自研、前装量产的 Robotaxi, 基于小鹏旗舰车型 GX 打造 ,车内搭载 4 颗自研图灵 AI 芯片,有效算力达 3000TOPS,为全球车端最高算力,搭载小鹏...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/952/038.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-18/10623781.shtml",
-      "title": "零下40度修轻轨 中亚首条“中国标准”轻轨如何建成?",
-      "summary": "中新网北京5月18日电 (记者 徐文欣)当地时间5月16日,哈萨克斯坦阿斯塔纳轻轨一期工程正式通车运营。作为共建“一带一路”的重点项目,这条全长约22.4公里的轻轨线路,是中亚地区首条全部采用中国标准、中国技术、中国装备建设的轨道交通项目,也是中亚地区首条全自动无人驾驶智能轨道交通线。...",
-      "source": "Chinanews",
-      "date": "2026-05-18",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-18/10623781.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1779104322129914.html",
-      "title": "新闻8点见丨驾校“文盲包过”的秘密;“娜塔莎”娃娃爆火背后",
+      "id": "https://www.bjnews.com.cn/detail/1779201603129836.html",
+      "title": "平谷区试点开通跨区定制通勤公交,单程耗时缩短约一小时",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-18",
-      "url": "https://www.bjnews.com.cn/detail/1779104322129914.html"
+      "date": "2026-05-19",
+      "url": "https://www.bjnews.com.cn/detail/1779201603129836.html"
     },
     {
-      "id": "https://news.seehua.com/post/1486497",
-      "title": "车疑闯红灯撞人撞车致死58岁妇 疑似肇事司机竖拇指引众怒",
-      "summary": "(新加坡18日讯)一辆轿车被指闯红灯后撞飞路人,也把另一辆车撞到原地转半圈,58岁妇女送院后不治。 《新明日报 [...]...",
+      "id": "https://www.fx168news.com/article/1032551",
+      "title": "特斯拉(TSLA)股票5月19日盘中下跌3.19%:真相来了-FX168",
+      "summary": "特斯拉 (TSLA) 盘中下跌3.19%, 所属行业汽车与零部件下跌2.57% ,公司涨幅跑输行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 下跌 3.19%;Rivian Automotive Inc (RIVN) 下跌 3.93%;Cummins Inc (CMI) 下跌 3.99%。 今日是什么导致了特斯拉(TSLA)股价下跌? 特斯拉股价今日面临下行压力,受到包括投资者关注点转移、持续...",
+      "source": "Fx168News",
+      "date": "2026-05-19",
+      "url": "https://www.fx168news.com/article/1032551"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-19/10624615.shtml",
+      "title": "近期多地持续降雨 出行如何避免安全隐患",
+      "summary": "根据中央气象台发布的消息,预计到19日,大范围较强降雨过程将逐渐东移南压,华北、黄淮、江汉、江南、华南等地部分地区有暴雨灾害风险。...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-19/10624615.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-19/10624540.shtml",
+      "title": "“世界唐卡艺术之都”青海同仁推出文旅主题活动 探寻人文山水",
+      "summary": "中新网青海黄南5月19日电 (祁绣娟)5月19日中国旅游日,“清清黄河”旅游带热贡文化长廊“骑云游德隆·隆务溯汉唐·同心宴锅庄”系列文旅主题活动在青海省黄南藏族自治州同仁市隆务河畔精彩上演,邀请八方游客畅游“清清黄河”、探秘千年热贡、邂逅高原诗意。...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-19/10624540.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-19/10624570.shtml",
+      "title": "扎根桂乡 洋媳妇读懂中国烟火与温情",
+      "summary": "中新网南宁5月19日电(俞靖)“在中国生活,要心存接纳,才能融入并读懂中国的美好。”意大利姑娘柯恣娅19日在广西南宁受访时表示。...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-19/10624570.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-19/10624508.shtml",
+      "title": "马来西亚入境旅行团抵穗开启“精彩广东”之旅",
+      "summary": "中新网广州5月19日电 (记者 程景伟)一个马来西亚入境旅行团19日飞抵广州白云国际机场,开启为期6天5晚的“精彩广东”之旅。...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-19/10624508.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3375806",
+      "title": "Lucid Group Inc股价触及52周低点$5.61,全年表现承压",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-19",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3375806"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1779190457129678.html",
+      "title": "北京市政府立法工作计划已印发,共安排立法项目25项",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-19",
+      "url": "https://www.bjnews.com.cn/detail/1779190457129678.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1779195040129796.html",
+      "title": "2026年第一季度“丰台好人”评选榜单发布",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-19",
+      "url": "https://www.bjnews.com.cn/detail/1779195040129796.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1032514",
+      "title": "禾赛:割肉死守,“龙一” 压力山大?-FX168",
+      "summary": "NewsData报道",
+      "source": "Fx168News",
+      "date": "2026-05-19",
+      "url": "https://www.fx168news.com/article/1032514"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0519/234474.shtml",
+      "title": "腾势N9闪充版正式上市 以五大旗舰科技重划大型豪华SUV价值边界",
+      "summary": "2026年5月18日,腾势汽车在深圳总部正式推出科技驾控旗舰SUV——腾势N9闪充版。新车共推出闪充尊荣型、闪充尊越型与闪充旗舰型三款配置,官方指导价为40.98万元至46.98万元。相比此前发布的预售区间,起售价下调超过4万元,使高端旗舰的准入门槛进一步亲民化。即日起下订的用户,还可限时享受至高价值11万元的购车权益礼包,覆盖至高7万元选装权益、至高约2万元金融贴息、至高2万元置换补贴,以及1年...",
+      "source": "Imobile",
+      "date": "2026-05-19",
+      "url": "http://news.imobile.com.cn/articles/2026/0519/234474.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/05-19/10624463.shtml",
+      "title": "20万级满配运动SUV昊铂S600开启预售,权益价18.89万起",
+      "summary": "5月17日,广汽昊铂新豪华智慧运动SUV昊铂S600预售发布会正式举行,新车推出纯电660Max、纯电660Max+、增程230Max、增程215四驱Ultra+四款配置版本,官方预售价为20.99-22.99万元,预售权益价18.89-20.89万元。昊铂S600在性能、智能辅助驾驶、智舱、安全、舒适、权益上全面拉满,以六大满配实力重新定义20万级满配运动SUV价值标杆。现场,昊铂S600优雅代...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-19/10624463.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/952/477.htm",
+      "title": "亿咖通进军 Robotaxi 领域,与美企 May Mobility 达成合作",
+      "summary": "IT之家 5 月 19 日消息,亿咖通科技今日宣布与美国企业 May Mobility 达成战略框架协议,将 向后者的自动驾驶出租车车队提供智能驾驶全栈解决方案 。亿咖通也由此进军 Robotaxi 领域。 在这份合作关系中,亿咖通将向 May Mobility 交付数万套定制 L4 级中央计算平台和传感器硬件组合 ,整个项目周期的总价值预计约为 7.5 亿美元(IT之家注:现汇率约合 51.09...",
+      "source": "Ithome",
+      "date": "2026-05-19",
+      "url": "https://www.ithome.com/0/952/477.htm"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1032500",
+      "title": "Bitget 推出 UEX Jumpstart 计划,总奖池达 43 万 USDT-FX168",
+      "summary": "塞舌尔维多利亚, May 19, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget,正式推出 UEX Jumpstart 计划。该多产品入驻计划奖池总额达 43 万 USDT,覆盖加密货币期货、贵金属、股票及差价合约 (CFD)。 该计划于 5 月至 6 月期间开展,旨在通过将四大主要产品线活动整合至统一框架下,向新用户介绍 Bitget 不断扩展的...",
+      "source": "Fx168News",
+      "date": "2026-05-19",
+      "url": "https://www.fx168news.com/article/1032500"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/china/story20260519-9073580",
+      "title": "百度营收超预期 寻求在AI行业重新洗牌中突围",
+      "summary": "(北京彭博电)中国网络搜索巨头百度营收超出预期,为它争取更多时间在人工智能(AI)服务领域追赶阿里巴巴集团等竞争对手。...",
+      "source": "Zaobao",
+      "date": "2026-05-19",
+      "url": "https://www.zaobao.com.sg/news/china/story20260519-9073580"
+    },
+    {
+      "id": "https://news.seehua.com/post/1486944",
+      "title": "新航SQ321乱流事故调查报告出炉 不排除气象雷达系统异常",
+      "summary": "(新加坡19日讯)新加坡交通安全调查局今日公布,两年前发生的新航SQ321航班遇乱流事故调查结果。报告指出,鉴 [...]...",
       "source": "News_Seehua",
-      "date": "2026-05-18",
-      "url": "https://news.seehua.com/post/1486497"
+      "date": "2026-05-19",
+      "url": "https://news.seehua.com/post/1486944"
     },
     {
-      "id": "https://www.ithome.com/0/952/015.htm",
-      "title": "34.98 万元起,长城魏牌 V9X AI 豪华六座旗舰上市",
-      "summary": "IT之家 5 月 18 日消息,长城汽车旗下魏牌 V9X 现已上市,新车共推出 3 款车型,售价 34.98 万元起。此次上市车型均为超级 Hi4 插电混动版本,在今年晚些时候魏牌 V9X 还会进一步推出 HEV(油电混动版本)和 EV(纯电动版本)。 据IT之家了解,作为长城汽车归元 S 平台的首款量产车型,魏牌 V9X 以“AI 豪华六座旗舰”为产品定位,新车诞生于长城汽车全新归元 S 平台。...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/952/015.htm"
+      "id": "https://www.fx168news.com/article/1032479",
+      "title": "Bitget 完成 SAT 与 UIF 注册,正式进入墨西哥市场-FX168",
+      "summary": "塞舌尔维多利亚, May 19, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 已成功完成在墨西哥的关键注册,获准在该国现行虚拟资产框架内运营。 随着这些注册的完成,Bitget 现正计划向中美洲和拉丁美洲扩张,而墨西哥是该公司在该区域最重要的市场之一。 Bitget 已获得墨西哥税务管理局 (SAT) 的高风险活动注册,并完成了墨西哥金融情报组...",
+      "source": "Fx168News",
+      "date": "2026-05-19",
+      "url": "https://www.fx168news.com/article/1032479"
     },
     {
-      "id": "https://www.ithome.com/0/952/008.htm",
-      "title": "老款车型无法支持无监督 FSD,车主起诉特斯拉虚假宣传胜诉",
-      "summary": "IT之家 5 月 18 日消息,多年来,特斯拉一直以车辆终将实现全自动驾驶为卖点售卖车型。然而就在上月,首席执行官埃隆 · 马斯克向投资者抛出重磅消息:部分老旧款特斯拉车型若不进行大规模硬件升级,将无法启用无需人为监督的 FSD 功能。 这一消息让众多老车主失望、倍感气愤,其中不少人早已斥资数千美元,苦等多年却未盼来真正的 FSD 功能。 甲骨文公司软件工程总监本 · 高伊瑟决定主动维权。今年早些...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/952/008.htm"
+      "id": "https://post.smzdm.com/p/al32673o/",
+      "title": "智界V9四款配置怎么选?核心差异与选购建议全解析",
+      "summary": "智界V9上市后热度持续走高,面对Max、Max+、Ultra、Ultra+四款配置,用户往往在选择上存在纠结。这四款配置在智能驾驶硬件、舒适豪华配置以及影音系统等方面存在明显差异。针对华为智能科技、家庭舒适出行、商务接待以及顶奢体验等不同需求,各配置版本......",
+      "source": "Smzdm",
+      "date": "2026-05-19",
+      "url": "https://post.smzdm.com/p/al32673o/"
     },
     {
-      "id": "https://www.prnasia.com/story/533402-1.shtml",
-      "title": "双赛激战碰撞频发,摩纳哥周末星光熠熠",
-      "summary": "摩纳哥 2026年5月18日 /美通社/ -- 随着2025/26赛季赛程过半,FE电动方程式重返最具传奇色彩的舞台之一——摩纳哥街道赛道,于5月16日和17日进行了第十二赛季的第9回合与第10回合比赛。 FE摩纳哥站,碰撞不断 多年来,摩纳哥始终是赛车世界中最特别的名字之一。蔚蓝海岸的阳光再次洒落蒙特卡洛港湾,这条承载无数荣耀与遗憾的经典赛道,在上周末奉献了极为激烈的角逐,20位车手为全球车迷带...",
-      "source": "Prnasia",
-      "date": "2026-05-18",
-      "url": "https://www.prnasia.com/story/533402-1.shtml"
-    },
-    {
-      "id": "https://www.newscase.com/%E8%85%BE%E5%8A%BF%E7%A0%B4%E4%BA%94%E5%8D%81%E4%B8%87%E8%BE%86%E5%8D%B4%E9%81%87%E6%97%97%E8%88%B0%E6%BB%91%E5%9D%A1%EF%BC%8C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B1%AA%E5%8D%8E%E6%88%98%E7%95%A5%E8%83%BD/",
-      "title": "腾势破五十万辆却遇旗舰滑坡,比亚迪豪华战略能否借闪充与出口破局?",
-      "summary": "比亚迪旗下豪华品牌腾势正经历冰火两重天。一方面,第50万辆新车正式下线,标志着品牌自2021年重组以来迈入新阶段;另一方面,旗舰SUV腾势N9在华月销量从去年4月超过5000辆骤降至不足1000辆,迫使比亚迪火速推出技术升级版以求逆转颓势。 N9“闪充版”于5月18日正式上市,预售价区间为45万至50万元人民币。新车搭载第二代刀片电池,容量约75千瓦时,CLTC工况续航达420公里,并配备e3平台...",
-      "source": "Newscase",
-      "date": "2026-05-18",
-      "url": "https://www.newscase.com/%E8%85%BE%E5%8A%BF%E7%A0%B4%E4%BA%94%E5%8D%81%E4%B8%87%E8%BE%86%E5%8D%B4%E9%81%87%E6%97%97%E8%88%B0%E6%BB%91%E5%9D%A1%EF%BC%8C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B1%AA%E5%8D%8E%E6%88%98%E7%95%A5%E8%83%BD/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1779094235169733.html",
-      "title": "驾校放话“文盲包过”,是给“马路杀手”开绿灯 | 新京报快评",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-18",
-      "url": "https://www.bjnews.com.cn/detail/1779094235169733.html"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/central/2026/05/18/819710",
-      "title": "严谴危险“快闪骚动”事件 方贵伦促警方尽快追查逮捕涉及者",
-      "summary": "(吉隆坡18日讯)武吉免登区国会议员方贵伦严厉谴责日前在武吉免登发生的危险“快闪骚动”事件,并对有关人士罔顾公共安全、目无法纪的行为感到愤怒与失望。他今日发出文告说,武吉免登是吉隆坡重要旅游区,也是国内外游客聚集的地点,涉案人士在公共道路上进行危险驾驶、燃放照明弹及扰乱秩序的行为,不仅危及道路使用者及公众安全,也严重破坏我国首都的形象。“我要求警方采取严厉行动,尽快追查并逮捕所有涉及人士,绝不能让...",
-      "source": "Orientaldaily",
-      "date": "2026-05-18",
-      "url": "https://www.orientaldaily.com.my/news/central/2026/05/18/819710"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3373300",
-      "title": "马斯克再画蓝图:全无人驾驶年内全美普及 十年后九成里程由AI掌控",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-18",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3373300"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3372890",
-      "title": "小鹏汽车在广州启动首款无人驾驶出租车量产",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-18",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3372890"
-    },
-    {
-      "id": "https://www.ithome.com/0/951/959.htm",
-      "title": "百度 2026 财年第一财季净利润 34.45 亿元,同比下降 55.36%",
-      "summary": "IT之家 5 月 18 日消息,百度今日发布 2026 财年(2026 年 1 月 1 日~2026 年 12 月 31 日)第一财季(2026 年 1 月 1 日~2026 年 3 月 31 日)业绩快报报告: 营业总收入 : 320.75 亿元,同比下降 1.16% 归母净利润 : 34.45 亿元,同比下降 55.36% 经营现金流 : 27 亿元 基本每股收益 :1.17 元 / 股 稀释...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/951/959.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/05-18/10623503.shtml",
-      "title": "最高检联合中国残联发布残疾未成年人权益保护典型案例",
-      "summary": "中新网5月18日电 据最高检网站消息,近日,最高人民检察院联合中国残疾人联合会发布一批残疾未成年人权益保护典型案例。...",
+      "id": "https://www.chinanews.com.cn/cj/2026/05-19/10624462.shtml",
+      "title": "40.98万元起,标配第二代刀片电池及闪充技术,腾势N9闪充版上市",
+      "summary": "5月18日,科技驾控旗舰SUV——腾势N9闪充版上市,推出闪充尊荣型、闪充尊越型、闪充旗舰型三款车型,官方指导价40.98万元—46.98万元。华语乐坛巨星王力宏,成为腾势汽车第50万辆车主,也是腾势N9闪充版首位车主。新车全系标配第二代刀片电池及闪充技术、易三方、云辇-A闭式双腔空悬、天神之眼5.0辅助驾驶系统、全新一代AI智能座舱等科技豪华配置,并带来五大旗舰升级。腾势N9闪充版,以科技旗舰,...",
       "source": "Chinanews",
-      "date": "2026-05-18",
-      "url": "https://www.chinanews.com.cn/gn/2026/05-18/10623503.shtml"
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-19/10624462.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/952/022.htm",
-      "title": "比亚迪腾势 N9 闪充版 SUV 上市:CLTC 纯电续航 420km,40.98 万元起",
-      "summary": "IT之家 5 月 18 日消息,比亚迪腾势 N9 闪充版今晚上市,定位“科技驾控旗舰 SUV”,共推出三款车型,售价 40.98 万元起。 IT之家从发布会获悉,腾势 N9 闪充版搭载第二代刀片电池, CLTC 纯电续航达到 420km ,综合续航达 1520km。10%-70% 充电时间 5 分钟,10%-97% 充电时间 9 分钟。到 2026 年年底,闪充站覆盖范围:一二线城市范围 3 公里...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/952/022.htm"
+      "id": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ezgo-technologies-signed-three-party-strategic-framework-agreement-with-autotraxai-and-zhejiang-hengyuan-to-build-a-us-assembled-autonomous-vehicle-platform-powered-by-lithium-battery-and-ichassis-technology/2347234",
+      "title": "EZGO Technologies Signed Three-Party Strategic Framework Agreement with Autotrax.ai and Zhejiang Hengyuan to Build a U.S.-Assembled Autonomous Vehicle Platform Powered by Lithium Battery and iChassis",
+      "summary": "Three-party alliance integrating EZGO's high-performance lithium battery and vehicle control system (VCS) technology, Zhejiang Hengyuan's iChassis platform, and Autotrax.ai's U.S.-based autonomous dri...",
+      "source": "The Manila Times",
+      "date": "2026-05-19",
+      "url": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ezgo-technologies-signed-three-party-strategic-framework-agreement-with-autotraxai-and-zhejiang-hengyuan-to-build-a-us-assembled-autonomous-vehicle-platform-powered-by-lithium-battery-and-ichassis-technology/2347234"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ecarx-and-may-mobility-to-scale-autonomous-ride-hail-fleet/2347032",
+      "title": "ECARX and May Mobility to Scale Autonomous Ride-Hail Fleet",
+      "summary": "Strategic Framework Alliance to Power Next-Generation Turnkey Autonomous Vehicle DevelopmentECARX to Develop High Performance AI Compute System for May MobilityFuture Compute System to Utilize ECARX S...",
+      "source": "The Manila Times",
+      "date": "2026-05-19",
+      "url": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ecarx-and-may-mobility-to-scale-autonomous-ride-hail-fleet/2347032"
+    },
+    {
+      "id": "https://seekingalpha.com/article/4906474-tesla-why-it-refuses-to-crash-no-matter-what-i-think-upgrade",
+      "title": "Tesla: Why It Refuses To Crash No Matter What I Think (Upgrade)",
+      "summary": "Upgrade Tesla, Inc. to Buy: AI-driven upside from robotaxi, FSD & Optimus plus SpaceX IPO synergy. Click for this TSLA update....",
+      "source": "Seeking Alpha",
+      "date": "2026-05-19",
+      "url": "https://seekingalpha.com/article/4906474-tesla-why-it-refuses-to-crash-no-matter-what-i-think-upgrade"
+    },
+    {
+      "id": "https://interestingengineering.com/transportation/xpeng-launches-chinas-first-mass-produced-robotaxi",
+      "title": "Xpeng challenges Tesla’s FSD with launch of mass",
+      "summary": "XPENG's newly unveiled Robotaxi is China's first production-ready, pre-assembled L4 autonomous vehicle developed entirely with proprietary, in-house technology....",
+      "source": "Interesting Engineering",
+      "date": "2026-05-19",
+      "url": "https://interestingengineering.com/transportation/xpeng-launches-chinas-first-mass-produced-robotaxi"
+    },
+    {
+      "id": "https://www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race",
+      "title": "Chinese firm Xpeng builds driverless cabs, likely to challenge Tesla’s FSD software in AI race",
+      "summary": "The EV maker has embarked on mass production of the robotaxis using its own chips and plans to trial the tech before the end of the year....",
+      "source": "South China Morning Post",
+      "date": "2026-05-19",
+      "url": "https://www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/einride-ab-and-legato-merger-corp-iii-announce-effectiveness-of-registration-statement-ahead-of-planned-business-combination-and-nasdaq-listing-302774603.html",
@@ -223,36 +253,20 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/uber-open-to-teaming-up-with-travis-kalanick-on-autonomous-vehicles-ceo-dara-khosrowshahi/articleshow/131167455.cms"
     },
     {
+      "id": "https://www.thetimes.com/business/entrepreneurs/article/britains-autonomous-vehicle-pioneer-gains-ground-overseas-enterprise-network-37dts8zbv",
+      "title": "It’s mad that our self-driving technology is being exported",
+      "summary": "Paul Newman, chief executive of Oxa, says ‘gargantuan’ savings from its autonomous industrial vehicles will start overseas because UK adoption is too cautious...",
+      "source": "The Sunday Times",
+      "date": "2026-05-18",
+      "url": "https://www.thetimes.com/business/entrepreneurs/article/britains-autonomous-vehicle-pioneer-gains-ground-overseas-enterprise-network-37dts8zbv"
+    },
+    {
       "id": "https://www.financialexpress.com/shorts/technology/ai-moves-from-chatbots-to-machines-4243480/",
       "title": "AI moves from chatbots to machines",
       "summary": "AI is gaining momentum in the physical world, with companies and investors investing in autonomous machines for driving, warehousing, and factory inspections. This shift, known as physical AI, is gain...",
       "source": "The Financial Express",
       "date": "2026-05-17",
       "url": "https://www.financialexpress.com/shorts/technology/ai-moves-from-chatbots-to-machines-4243480/"
-    },
-    {
-      "id": "https://www.breitbart.com/politics/2026/05/17/robotaxi-rebellion-50-waymo-self-driving-cars-circle-atlanta-neighborhood-for-hours-at-a-time/",
-      "title": "Robotaxi Rebellion: 50 Waymo Self-Driving Cars Circle Atlanta Neighborhood for Hours at a Time",
-      "summary": "Approximately 50 autonomous Waymo robotaxis have been circling a residential cul-de-sac in northwest Atlanta for hours at a time, raising safety concerns among local families and disrupting daily life...",
-      "source": "Breitbart News Network",
-      "date": "2026-05-17",
-      "url": "https://www.breitbart.com/politics/2026/05/17/robotaxi-rebellion-50-waymo-self-driving-cars-circle-atlanta-neighborhood-for-hours-at-a-time/"
-    },
-    {
-      "id": "https://www.newsweek.com/bicyclist-suing-crash-delivery-robot-new-jersey-lawsuit-11952852",
-      "title": "Bicyclist to Sue After Crash With Robot That Allegedly Tried to Flee",
-      "summary": "A New Jersey man plans to sue Uber and an autonomous vehicle company after crashing into a self-driving robot while riding his bike home late last year....",
-      "source": "Newsweek",
-      "date": "2026-05-15",
-      "url": "https://www.newsweek.com/bicyclist-suing-crash-delivery-robot-new-jersey-lawsuit-11952852"
-    },
-    {
-      "id": "https://www.pilotonline.com/2026/05/14/waymo-recalls-autonomous-taxis-software-defect-flooded-roadways/",
-      "title": "Waymo recalls 3,791 autonomous taxis over flood risk defect",
-      "summary": "Waymo recalled 3,791 self-driving vehicles after a defect was found that causes them to enter flooded roads....",
-      "source": "Norfolk Virginian-Pilot",
-      "date": "2026-05-14",
-      "url": "https://www.pilotonline.com/2026/05/14/waymo-recalls-autonomous-taxis-software-defect-flooded-roadways/"
     }
   ]
 }
