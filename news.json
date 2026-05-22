@@ -1,194 +1,184 @@
 {
-  "lastUpdated": "2026-05-21 04:23:05",
-  "totalCount": 30,
+  "lastUpdated": "2026-05-22 04:18:18",
+  "totalCount": 28,
   "sources": {
     "Bilibili": 5,
-    "Fx168News": 2,
-    "Bjnews": 2,
-    "Cri_Cn": 1,
+    "Zaobao": 2,
+    "Imobile": 2,
     "Ithome": 2,
-    "Theportugalnews": 1,
-    "Chinanews": 3,
-    "Eeo": 2,
-    "News_Seehua": 2,
-    "Investing_Cn": 1,
+    "Bjnews": 4,
+    "Chinanews": 1,
+    "Cri_Cn": 1,
+    "Rfi_Fr": 1,
+    "News_Seehua": 1,
+    "MarketScreener": 2,
     "Euronews": 1,
     "Wallstreet Online": 1,
     "The Manila Times": 2,
     "PR Newswire UK": 1,
-    "MarketScreener": 1,
     "Business Insider": 1,
-    "The Economic Times": 1,
-    "The Sunday Times": 1
+    "The Economic Times": 1
   },
   "news": [
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-21",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
     {
       "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
       "title": "【B站】【科普】自动驾驶分级及原理",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "id": "https://www.bilibili.com/video/BV1LmLa6sEjD",
+      "title": "【B站】行业精选：特斯拉FSD完全体入华，鲶鱼效应有望引爆自动驾驶，国内7家核心企业解析！#德赛西威 #特斯拉 #自动驾驶",
+      "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-05-21",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+      "date": "2026-05-22",
+      "url": "https://www.bilibili.com/video/BV1LmLa6sEjD"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-05-22",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
       "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
       "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
       "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
       "source": "Bilibili",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
     },
     {
-      "id": "https://www.bilibili.com/video/BV17DLB62Enf",
-      "title": "【B站】【Zc/趣事】水无月的车能够自动驾驶倒车入库？别人停车他装B，Zc：这也太帅了吧！",
-      "summary": "尊贵的水无月正在炫耀他的智能泊车\n\n素材内容为2026.5.19晚直播切片\n\n主播： @魔法Zc目录  \n魔法Zc目录直播间：https://live.bilibili.com/721\n魔法Zc目录个人空间：https://space.bilibili.com/13164144/\nZc呀Zc我们爱你...",
+      "id": "https://www.bilibili.com/video/BV1xXdSBxEWt",
+      "title": "【B站】吹了那么多年的智驾，自动驾驶离我们到底还有多远？",
+      "summary": "有什么疑问请弹幕留言\n嗷！别忘了点赞三连\n———————————————\n\n从实验室的最高机密，到你指尖的触手可及，中国材料学经历了什么？BV1AVmEBVEiX\n为什么豪车都在标配四驱？普通人真的需要四驱么？BV14KYAzQE3i...",
       "source": "Bilibili",
+      "date": "2026-05-22",
+      "url": "https://www.bilibili.com/video/BV1xXdSBxEWt"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/world/story20260521-9087745",
+      "title": "法国法院:法航空客在2009年空难中犯“过失杀人”罪",
+      "summary": "法国巴黎上诉法院裁定,法国航空公司和空中客车两家企业在2009年法航AF447航班空难中“过失杀人”罪名成立。...",
+      "source": "Zaobao",
       "date": "2026-05-21",
-      "url": "https://www.bilibili.com/video/BV17DLB62Enf"
+      "url": "https://www.zaobao.com.sg/news/world/story20260521-9087745"
     },
     {
-      "id": "https://www.fx168news.com/article/%E4%BC%81%E4%B8%9A%E5%8A%A8%E6%80%81-1033140",
-      "title": "日系车神话失速:斯巴鲁利润暴跌90%,全球汽车产业格局生变-FX168",
-      "summary": "日本车企 Subaru Corporation 近日公布2025财年财报,虽然营收同比增长2.1%至4.785万亿日元,但营业利润却暴跌90%,净利润下滑73%,暴露出严重的“增收不增利”问题。公司全球销量与产量双双下滑,同时受到美国加征汽车关税、原材料涨价、物流成本上升等外部压力冲击。其中,美国市场占斯巴鲁全球销量约七成,关税政策直接造成超过2200亿日元利润损失。另一方面,斯巴鲁电动化转型缓慢...",
-      "source": "Fx168News",
-      "date": "2026-05-20",
-      "url": "https://www.fx168news.com/article/%E4%BC%81%E4%B8%9A%E5%8A%A8%E6%80%81-1033140"
+      "id": "http://news.imobile.com.cn/articles/2026/0521/234505.shtml",
+      "title": "23.35万元起!雷军重磅发布YU7 GT、YU7标准版",
+      "summary": "5月21日,小米人车家全生态新品发布会在北京举办,小米集团创始人、董事长兼CEO雷军正式发布全新小米YU7家族,新增小米YU7 GT、YU7 标准版两大车型。同场发布的还有小米17 Max旗舰手机、小米耳夹式耳机、小米手环10 Pro及米家扫拖机器人6 Max、米家空气净化器6 Max、米家空调强劲风Pro系列、米家冰箱Pro法式平嵌、小米电视S Mini LED 2026等多款人车家全生态新品。...",
+      "source": "Imobile",
+      "date": "2026-05-21",
+      "url": "http://news.imobile.com.cn/articles/2026/0521/234505.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1779288582129740.html",
-      "title": "中华人民共和国和俄罗斯联邦关于进一步加强全面战略协作、深化睦邻友好合作的联合声明",
+      "id": "http://news.imobile.com.cn/articles/2026/0521/234509.shtml",
+      "title": "更轻薄更强大,全新小米手环10 Pro发布",
+      "summary": "2026年5月21日,在小米公司举行的人车家全生态新品布会上,除了备受关注的YU7 GT以及小米17 Max发布之外,小米手环产品线也迎来了全面升级的小米手环10 Pro。 相比上代,小米手环10 Pro不仅更轻薄耐用,保证全天候无感舒适佩戴的同时,整体功能也变得更强大,拥有媲美旗舰手表的运动健康体验,更精准更专业,还拥有21天超长续航,并且全面适配iOS生态。 更轻薄更可靠,全天佩戴舒适又好看 ...",
+      "source": "Imobile",
+      "date": "2026-05-21",
+      "url": "http://news.imobile.com.cn/articles/2026/0521/234509.shtml"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260521-9085307",
+      "title": "AI时代来临 萧振祥:政府保障的是人不是岗位",
+      "summary": "随着经济发展、劳动队伍日益老化,新加坡更须借助人工智能(AI)等科技,提高生产与竞争力。但AI也会重塑就业市场,政府因此要保障的,不是每一份工作都不受影响,而是确保人民在转型过程中仍有良好机会。...",
+      "source": "Zaobao",
+      "date": "2026-05-21",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260521-9085307"
+    },
+    {
+      "id": "https://www.ithome.com/0/953/661.htm",
+      "title": "自动驾驶车辆被困洪水,Waymo 暂停亚特兰大地区 Robotaxi 服务",
+      "summary": "IT之家 5 月 21 日消息,据外媒 TechCrunch 今晚报道,Waymo 宣布暂停亚特兰大和圣安东尼奥的 Robotaxi 运营服务,原因是无人驾驶出租车目前仍 难以稳定应对暴雨和道路积水问题 。 当地时间周三,一辆 Waymo 无人驾驶出租车在亚特兰大 一处严重积水路段行驶后被困 ,车辆最终在现场停留约一小时后才被拖离。Waymo 方面确认,涉事车辆当时并未载客,目前已经完成回收。在找...",
+      "source": "Ithome",
+      "date": "2026-05-21",
+      "url": "https://www.ithome.com/0/953/661.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1779362418129432.html",
+      "title": "新岗位缺人、旧培训脱节?北京探索新模式为新兴领域培养人才",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-20",
-      "url": "https://www.bjnews.com.cn/detail/1779288582129740.html"
+      "date": "2026-05-21",
+      "url": "https://www.bjnews.com.cn/detail/1779362418129432.html"
     },
     {
-      "id": "https://news.cri.cn/20260520/fb0c9c71-2e6c-ceb7-478d-e6b87e5f7ce6.html",
-      "title": "中华人民共和国和俄罗斯联邦关于进一步加强全面战略协作、深化睦邻友好合作的联合声明-国际在线",
-      "summary": "中华人民共和国和俄罗斯联邦关于进一步加强全面战略协作、深化睦邻友好合作的联合声明 应中华人民共和国主席习近平邀请,俄罗斯联邦总统普京于2026年5月19日至20日对中华人民共和国进行国事访问。两国元首在北京举行正式会谈,并共同出席2026...",
-      "source": "Cri_Cn",
-      "date": "2026-05-20",
-      "url": "https://news.cri.cn/20260520/fb0c9c71-2e6c-ceb7-478d-e6b87e5f7ce6.html"
+      "id": "https://www.bjnews.com.cn/detail/1779368850129511.html",
+      "title": "防蚊神器、“树木X光机”,来北京园林绿化科技周看最新成果",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-21",
+      "url": "https://www.bjnews.com.cn/detail/1779368850129511.html"
     },
     {
-      "id": "https://www.ithome.com/0/953/083.htm",
-      "title": "小米汽车:跑纽北是为了验证车辆在各种极端环境中的稳定性,打磨各种弯道性能",
-      "summary": "IT之家 5 月 20 日消息,小米汽车官方今晚发布小米汽车答网友问(第 242 集),就即将发布的小米 YU7 GT 和小米汽车 OTA 等相关问题作出回答。 IT之家整理如下: 小米 YU7 GT 为什么要跑纽北?获得纽北最速 SUV 成绩的 YU7 GT 是哪个版本? 纽博格林北环赛道是全球验证弯道性能和极限稳定性的最佳试验场,路面有着大量起伏颠簸,如高速飞坡、连续抛跳等,这会放大车辆驾驶中...",
-      "source": "Ithome",
-      "date": "2026-05-20",
-      "url": "https://www.ithome.com/0/953/083.htm"
+      "id": "https://www.bjnews.com.cn/detail/1779365994129478.html",
+      "title": "2026年壹米滴答快运:网络、产品、加盟全解析",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-21",
+      "url": "https://www.bjnews.com.cn/detail/1779365994129478.html"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-05-20/vehicles-inspection-rules-to-change-in-portugal/1024972",
-      "title": "葡萄牙将改变车辆检查规则",
-      "summary": "欧盟正在准备对车辆检查规则进行重大修订,这些建议将为驾驶者提供更多便利,加强道路安全,并针对当今日益复杂的汽车进行现代化检查。...",
-      "source": "Theportugalnews",
-      "date": "2026-05-20",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-05-20/vehicles-inspection-rules-to-change-in-portugal/1024972"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-20/10625295.shtml",
-      "title": "从兄长探路到全家追随 巴基斯坦家庭组团来华“追中医”",
-      "summary": "中新网合肥5月20日电(记者 赵强)2025年10月,巴基斯坦青年开西(Kashif)、丽雅(Maira)和他们的侄女妮妮(Naima),跨越千山万水来到安徽省合肥市,成为安徽中医药大学药学专业留学生。这一家庭组团式的求学背后,离不开开西的兄长马吉德·阿卜杜勒(Abdul Majid)的牵线引路。...",
-      "source": "Chinanews",
-      "date": "2026-05-20",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-20/10625295.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-20/10625282.shtml",
-      "title": "中外儿童看大海 浙江温州举办海事文化主题交流活动",
-      "summary": "中新网温州5月20日电(胡丰盛 徐镔淇)浙江温州,作为古代海上丝绸之路的重要节点城市,历来是中外商贸互通、文明交融的重要枢纽。5月20日,温州海事局举办“中外儿童看大海,海润童心向未来”主题活动,邀请了来自11个国家和地区共26名中外少年儿童共赴蔚蓝之约,以海洋为媒绘就民心相通的美好画卷。...",
-      "source": "Chinanews",
-      "date": "2026-05-20",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-20/10625282.shtml"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0520/884272.shtml",
-      "title": "Anthropic人才济济,OpenAI前员工纷纷加盟",
-      "summary": "作为全球AI学术界与产业界的“顶流”科学家,卡帕斯的这一选择,不仅标志着他在游学和创办AI教育公司Eureka Labs两年后正式重回一线大厂,更将OpenAI与Anthropic之间关于顶级人才、技术路线以及AI工程化效率的正面肉搏,推向了一个新高潮。...",
-      "source": "Eeo",
-      "date": "2026-05-20",
-      "url": "http://www.eeo.com.cn/2026/0520/884272.shtml"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0520/884266.shtml",
-      "title": "接连官宣与两大欧洲车企合作,禾赛科技一季度“量增价减”",
-      "summary": "短短两日,禾赛科技接连敲定两大欧洲车企合作,既是其全球化布局的重要突破,也折射出这家激光雷达龙头在行业内卷背景下的战略突围思路。...",
-      "source": "Eeo",
-      "date": "2026-05-20",
-      "url": "http://www.eeo.com.cn/2026/0520/884266.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-20/10625428.shtml",
-      "title": "广东持续强降雨 有民众被困及时获救",
-      "summary": "中新网广州5月20日电 (记者 王坚)广东20日持续遭遇强降雨。阳江阳春市河口镇下双站出现24小时943毫米的极端强降雨。...",
-      "source": "Chinanews",
-      "date": "2026-05-20",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-20/10625428.shtml"
-    },
-    {
-      "id": "https://news.seehua.com/post/1487526",
-      "title": "Rapid Rail分阶段提升格拉那再也线 2030年更换26新列车",
-      "summary": "(梳邦20日讯)为解决轻快铁格拉那再也线频频故障的问题,快捷通轨道有限公司(Rapid Rail)将分阶段落实 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-20",
-      "url": "https://news.seehua.com/post/1487526"
-    },
-    {
-      "id": "https://www.ithome.com/0/953/053.htm",
-      "title": "小鹏 GX 旗舰 SUV 正式上市,限时折扣后 26.98 万-34.98 万元",
-      "summary": "IT之家 5 月 20 日消息,小鹏 GX 旗舰 SUV 今晚正式上市,新车提供纯电、增程两种不同动力,售价区间为 27.98 万-35.98 万元,6 月 30 日 24 时前下定还可 限时减免 1 万元 。 小鹏 GX 外观设计汲取了游艇灵感,拥有 5265mm x 1999mm x 1800mm 尺寸和 3115mm 的轴距,配备 22 英寸超宽鸳鸯胎;提供珠峰白、极地黑、峡湾灰、丹霞红、云...",
-      "source": "Ithome",
-      "date": "2026-05-20",
-      "url": "https://www.ithome.com/0/953/053.htm"
-    },
-    {
-      "id": "https://news.seehua.com/post/1487524",
-      "title": "2个月连夺两命 水泥车执照吊销半年",
-      "summary": "(古晋20日讯)针对今年4月21日发生的一宗水泥搅拌车撞死39岁男子的严重夺命车祸,砂拉越商用车辆注册局主席江 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-20",
-      "url": "https://news.seehua.com/post/1487524"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1033100",
-      "title": "Bitget 面向所有用户推出机构级稳定币收益产品 USDGO,年化收益率最高可达 4.3%-FX168",
-      "summary": "塞舌尔维多利亚, May 20, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 推出 USDGO, GO Uncapped 被动收益计划。用户只需在平台现货或合约账户中持有 USDGO,无需质押、无锁定期、无需手动申购、无需额外操作,即可赚取最高可达 4.3% 的年化收益率。 持有期计算时间为 2026 年 5 月 18 日 16:00 (UTC...",
-      "source": "Fx168News",
-      "date": "2026-05-20",
-      "url": "https://www.fx168news.com/article/1033100"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3378100",
-      "title": "特斯拉完全自动驾驶软件正式登陆立陶宛",
+      "id": "https://www.chinanews.com.cn/cj/2026/05-21/10626168.shtml",
+      "title": "从汽车、机器人到大飞机,还有什么是长三角不能造的?",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-20",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3378100"
+      "source": "Chinanews",
+      "date": "2026-05-21",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-21/10626168.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1779271419129480.html",
-      "title": "“两长”相约A股:半导体又被点燃,9只个股年内已涨超200%",
+      "id": "https://news.cri.cn/20260521/08d5ab1b-6ebc-4e37-abdb-2262865d8e36.html",
+      "title": "从汽车、机器人到大飞机,还有什么是长三角不能造的?-国际在线",
+      "summary": "以产业链为纽带,长三角的市场主体正在不断“串珠成链”,编织出一张精密的协同网络。 长三角一体化发展的大背景下,长三角区域内科技创新和产业创新的跨区域协同近年来不断加强。产业集群发展、技术联合攻关、资源高效流动,作为我国制造业重镇的长三...",
+      "source": "Cri_Cn",
+      "date": "2026-05-21",
+      "url": "https://news.cri.cn/20260521/08d5ab1b-6ebc-4e37-abdb-2262865d8e36.html"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260521-%E7%AC%AC%E5%8D%81%E5%B1%8A%E4%B8%96%E7%95%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A4%A7%E4%BC%9A%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%B9%95",
+      "title": "第十届世界无人机大会在深圳开幕",
+      "summary": "2026 5月21日至23日,2026第十届世界无人机大会暨国际低空经济与无人系统博览会在深圳开幕。在三天的时间里,全球100多个国家的1200多家企业在这里展示上万款无人飞行器或衍生产品。深圳再次成为世界无人机之都。...",
+      "source": "Rfi_Fr",
+      "date": "2026-05-21",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260521-%E7%AC%AC%E5%8D%81%E5%B1%8A%E4%B8%96%E7%95%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A4%A7%E4%BC%9A%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%B9%95"
+    },
+    {
+      "id": "https://news.seehua.com/post/1488029",
+      "title": "司机疑心脏病发仍强撑驾驶 紧急驶入分隔岛避伤亡",
+      "summary": "(槟城21日讯)一名老司机驾驶豪华七人车载送雇主家人外出途中,疑突发心脏病导致呼吸困难,但他在失去意识前,仍强 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-21",
+      "url": "https://news.seehua.com/post/1488029"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1779369817129529.html",
+      "title": "雷军发布两大车型,小米YU7 家族完整亮相",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-20",
-      "url": "https://www.bjnews.com.cn/detail/1779271419129480.html"
+      "date": "2026-05-21",
+      "url": "https://www.bjnews.com.cn/detail/1779369817129529.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/953/645.htm",
+      "title": "小米新品发布会一文汇总:YU7 GT 正式上市,手机 / 耳机 / 手环联袂登场",
+      "summary": "就在今天(5 月 21 日)19:00,小米人车家全生态新品发布会如期举行。 在本场发布会中,人车家全生态新品同场发布: YU7 GT、YU7 标准版、17 Max、首款耳夹式耳机、手环 10 Pro、科技家电联袂登场。 说起最为重磅的新品,无疑是新车 YU7 GT,但与此同时,新手机、新耳机和新手环也都看点十足。 关于小米本场发布会的情况,IT之家小编这就带大家回顾一番 ~ 一、 小米 17 M...",
+      "source": "Ithome",
+      "date": "2026-05-21",
+      "url": "https://www.ithome.com/0/953/645.htm"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/stellantis-wayve-target-2028-driver-assist-launch-ce7f5adedd80f522",
+      "title": "Stellantis, Wayve target 2028 driver-assist launch",
+      "summary": "Stellantis and British autonomous driving startup Wayve said on Thursday they had formed a strategic partnership to bring Wayve's artificial intelligence driving software into the carmaker's STLA......",
+      "source": "MarketScreener",
+      "date": "2026-05-21",
+      "url": "https://www.marketscreener.com/news/stellantis-wayve-target-2028-driver-assist-launch-ce7f5adedd80f522"
     },
     {
       "id": "https://www.euronews.com/next/2026/05/20/is-elon-musks-driverless-future-timeline-realistic",
@@ -253,14 +243,6 @@
       "source": "The Economic Times",
       "date": "2026-05-18",
       "url": "https://economictimes.indiatimes.com/tech/technology/uber-open-to-teaming-up-with-travis-kalanick-on-autonomous-vehicles-ceo-dara-khosrowshahi/articleshow/131167455.cms"
-    },
-    {
-      "id": "https://www.thetimes.com/business/entrepreneurs/article/britains-autonomous-vehicle-pioneer-gains-ground-overseas-enterprise-network-37dts8zbv",
-      "title": "It’s mad that our self-driving technology is being exported",
-      "summary": "Paul Newman, chief executive of Oxa, says ‘gargantuan’ savings from its autonomous industrial vehicles will start overseas because UK adoption is too cautious...",
-      "source": "The Sunday Times",
-      "date": "2026-05-18",
-      "url": "https://www.thetimes.com/business/entrepreneurs/article/britains-autonomous-vehicle-pioneer-gains-ground-overseas-enterprise-network-37dts8zbv"
     }
   ]
 }
