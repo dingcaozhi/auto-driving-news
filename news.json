@@ -1,16 +1,19 @@
 {
-  "lastUpdated": "2026-05-23 03:56:37",
-  "totalCount": 28,
+  "lastUpdated": "2026-05-24 04:16:56",
+  "totalCount": 33,
   "sources": {
-    "Fx168News": 4,
-    "Eeo": 2,
-    "Chinanews": 3,
-    "Prnasia": 1,
+    "Bilibili": 5,
+    "Imobile": 1,
+    "Cri_Cn": 1,
     "Ithome": 4,
-    "Zaobao": 2,
-    "Bjnews": 1,
-    "Newscase": 1,
-    "News_Seehua": 1,
+    "Jiemian": 1,
+    "Chinanews": 4,
+    "Smzdm": 1,
+    "Mixvale": 1,
+    "Bjnews": 3,
+    "Rfi_Fr": 1,
+    "Zaobao": 1,
+    "Theportugalnews": 1,
     "Gizmodo": 1,
     "Engadget": 1,
     "MarketScreener": 2,
@@ -21,156 +24,196 @@
   },
   "news": [
     {
-      "id": "https://www.fx168news.com/article/1034358",
-      "title": "特斯拉(TSLA)股票5月22日盘中上涨3.05%:关键驱动因素揭晓-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.05%, 所属行业汽车与零部件上涨2.37% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.05%;Ford Motor Co (F) 上涨 7.39%;NIO Inc (NIO) 下跌 7.05%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉今日盘中经历剧烈波动,最终收涨。尽管面临一些现有挑战,但这一积极转变似乎主要受到战...",
-      "source": "Fx168News",
-      "date": "2026-05-22",
-      "url": "https://www.fx168news.com/article/1034358"
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-05-24",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0522/886982.shtml",
-      "title": "上汽一亿用户背后,智己贡献约2‰",
-      "summary": "上汽的一亿辆,是工业光环。智己的2‰,更像光环边缘的一点反光,它可以被看见,但还远照不亮自己,更照不亮行业。...",
-      "source": "Eeo",
-      "date": "2026-05-22",
-      "url": "http://www.eeo.com.cn/2026/0522/886982.shtml"
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-05-24",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-22/10626947.shtml",
-      "title": "业界在京共论人形机器人全生命周期管理",
-      "summary": "中新网北京5月22日电 人形机器人全生命周期管理服务平台工作推进会22日在北京经济技术开发区召开。推进会旨在通过标准牵引,建立符合产业发展需求的全生命周期管理机制,解决安全、管理、治理等核心问题,加速人形机器人应用落地。...",
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-05-24",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1fV411x72a",
+      "title": "【B站】【自制】我把自行车做成了 自 动 驾 驶 ！！【硬核】",
+      "summary": "终于填坑了，巨！累！\n\n这个项目应该我最近做的最硬核的一个了，研发过程断断续续花了四个月（虽然基本只有周末有空），期间遇到非常多的坑，视频时长原因有些内容并没有放到视频里，看了下素材已经拍了将近200G了...大家喜欢的话记得三连啦~\n\n视频中提到的开源仓库地址：https://github.com...",
+      "source": "Bilibili",
+      "date": "2026-05-24",
+      "url": "https://www.bilibili.com/video/BV1fV411x72a"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Y7Gb6qEgN",
+      "title": "【B站】FSD终于来了！全程0接管，一镜到底，100%无剪辑真实记录：北京下班智能辅助驾驶！智能驾驶系列公开课：使用智驾前必看！",
+      "summary": "FSD终于来了！\n全程0接管，一镜到底，\n100%无剪辑真实记录：\n北京下班智能辅助驾驶！\n99%的人都不知道的：\n很多智能驾驶的细节！\n北京真实日常上下班：\n全网最深入的智能驾驶视频讲解！\n智能驾驶系列公开课：\n使用智驾前必看！...",
+      "source": "Bilibili",
+      "date": "2026-05-24",
+      "url": "https://www.bilibili.com/video/BV1Y7Gb6qEgN"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0523/234523.shtml",
+      "title": "东风奕派M8首秀,搭载华为乾崑技术",
+      "summary": "风起云展,智美天成。5月23日,东风奕派M8全球首秀活动在武汉举行。作为东风奕派品牌进阶的全新战略车型,“华派黄金标准大六座”东风奕派M8汇聚东风汽车、华为乾崑、宁德时代三方顶级资源,搭载华为乾崑技术,满配智能6件套,以颜值黄金标准、舒适黄金标准、安全黄金标准,为悦己悦家的“生活严选家”,打造开得上、开得好、开得安心的大六座SUV理想选择。 首秀现场,武汉经开区工委委员、管委会副主任杨波,东风奕派...",
+      "source": "Imobile",
+      "date": "2026-05-23",
+      "url": "http://news.imobile.com.cn/articles/2026/0523/234523.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260523/2ff01016-88b1-418e-9df7-3a073a116b69.html",
+      "title": "发射“零窗口”、火箭用“遥”编号、航天员类别......航天科普↓-国际在线",
+      "summary": "央视网消息:神舟二十三号飞船瞄准5月24日23时08分发射,这个发射窗口是如何确定的?火箭发射为何需要发射窗口? 火箭要在一个特定的时间来发射才能圆满完成任务,这是为什么? 大家想象一下,地球每24小时自转一圈,发射场所在的位置也就...",
+      "source": "Cri_Cn",
+      "date": "2026-05-23",
+      "url": "https://news.cri.cn/20260523/2ff01016-88b1-418e-9df7-3a073a116b69.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/954/453.htm",
+      "title": "地平线:大众与众 06/07 车型年底将推出酷睿程高阶辅助驾驶版本",
+      "summary": "IT之家 5 月 23 日消息,今日,大众汽车集团迎旗下焕新与众 06、全新与众 07 双车正式上市并启动交付,两款车型将率先搭载基于征程 ® 6M 芯片的行云智行智能辅助驾驶系统。 据官方介绍,该方案由大众汽车集团旗下 CARIAD 与地平线合资公司 —— 酷睿程量身打造, 标志着酷睿程智驾方案实现首次量产落地 ,也意味着地平线与大众汽车集团正式迈入成果落地与商业闭环阶段。 与众 06、与众 0...",
+      "source": "Ithome",
+      "date": "2026-05-23",
+      "url": "https://www.ithome.com/0/954/453.htm"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14464513.html",
+      "title": "靠10万元级车型撑起销量后,小鹏用GX重答高端化难题",
+      "summary": "当小鹏GX切入30万元级市场,它真正的对手不是问界M8,也不是乐道L90,而是消费者心中那个已经固化的“小鹏”——一个以性价比和科技普惠为标签的品牌。...",
+      "source": "Jiemian",
+      "date": "2026-05-23",
+      "url": "https://www.jiemian.com/article/14464513.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/05-23/10627397.shtml",
+      "title": "发射“零窗口”、火箭用“遥”编号、航天员类别......航天科普↓",
+      "summary": "央视网消息:神舟二十三号飞船瞄准5月24日23时08分发射,这个发射窗口是如何确定的?火箭发射为何需要发射窗口?...",
       "source": "Chinanews",
-      "date": "2026-05-22",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-22/10626947.shtml"
+      "date": "2026-05-23",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-23/10627397.shtml"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/05-22/10626964.shtml",
-      "title": "尺素金声 | 年产值突破6000亿元,卫星导航从“天边”来到“身边”",
-      "summary": "近日发布的《2026中国北斗时空产业发展白皮书》显示,2025年,我国卫星导航产业产值达6290亿元,同比增长9.24%;融合其他新兴领域发展形成的北斗时空产业总体产值突破1.3万亿元。...",
-      "source": "Chinanews",
-      "date": "2026-05-22",
-      "url": "https://www.chinanews.com.cn/gn/2026/05-22/10626964.shtml"
-    },
-    {
-      "id": "https://www.prnasia.com/story/534178-1.shtml",
-      "title": "dashmoto ®和Atlassian Williams F1车队正式推出DASH 3 Williams版高性能电动滑板车",
-      "summary": "旧金山 2026年5月22日 /美通社/ -- dashmoto ® ( www.dashmoto.co ) 今日宣布 DASH 3 Williams版 正式上市,这款高性能电动滑板车的设计灵感来自 Atlassian Williams F1车队 。 新车型代表了dashmoto ®与F1最具传奇色彩的车队之一合作的下一阶段,将受赛车运动启发的工程学带入个人电动出行领域。 DASHMOTO ®创始...",
-      "source": "Prnasia",
-      "date": "2026-05-22",
-      "url": "https://www.prnasia.com/story/534178-1.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1034349",
-      "title": "德州仪器(TXN)股票5月22日盘中上涨4.69%:原因全解读-FX168",
-      "summary": "德州仪器 (TXN) 盘中上涨4.69%, 所属行业科技设备上涨0.85% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 英伟达 (NVDA) 下跌 0.87%;美光科技 (MU) 下跌 1.29%;超威半导体 (AMD) 上涨 3.39%。 今日是什么导致了德州仪器(TXN)股价上涨? 德州仪器(Texas Instruments)股价今日表现强劲,主要受到公司基本面改善及市场情绪回暖等多重利好因...",
-      "source": "Fx168News",
-      "date": "2026-05-22",
-      "url": "https://www.fx168news.com/article/1034349"
-    },
-    {
-      "id": "https://www.ithome.com/0/954/209.htm",
-      "title": "特斯拉 FSD 再次更名,中文名变为“特斯拉辅助驾驶”",
-      "summary": "感谢IT之家网友 Sandboxcn 的线索投递! IT之家 5 月 22 日消息,据IT之家网友反馈,特斯拉中国官网将 FSD 功能的中文名称调整为“特斯拉辅助驾驶”,价格依旧为 6.4 万元。 据官方介绍,该功能包括「基础辅助驾驶」和「增强辅助驾驶」套件的全部功能。 稍后推出特斯拉辅助驾驶功能 。未来车辆将能够:在驾驶员极少干预的情况下完成绝大多数的驾驶任务。 IT之家注意到,这并不是特斯拉 ...",
-      "source": "Ithome",
-      "date": "2026-05-22",
-      "url": "https://www.ithome.com/0/954/209.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/954/204.htm",
-      "title": "吉利银河星耀 7 正式上市:MAX 车型标配 e-AWD 智电四驱,10.88 万-13.98 万元",
-      "summary": "IT之家 5 月 22 日消息,吉利银河星耀 7 今晚正式上市,新车在此前预售安排的版型基础上将多款配置升级为 MAX 四驱 ,售价区间为 10.88 万-13.98 万元。 230km 两驱远航版:10.88 万元(IT之家注:限时优惠价在此基础上再减 1 万元,下同) 220km 四驱远航版:11.68 万元 220km 四驱领航版:12.68 万元 220km 四驱探索 + 版:13.28 ...",
-      "source": "Ithome",
-      "date": "2026-05-22",
-      "url": "https://www.ithome.com/0/954/204.htm"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/world/story20260522-9092077",
-      "title": "美情报指伊朗军事重建快于预期 美军损耗迅速引盟友担忧",
-      "summary": "(华盛顿/伦敦综合电)消息人士透露,美伊六周停火期间,伊朗已重启部分无人机生产,且军事重建速度远超预期,最早可能在半年内完全重建无人机攻击能力。...",
-      "source": "Zaobao",
-      "date": "2026-05-22",
-      "url": "https://www.zaobao.com.sg/news/world/story20260522-9092077"
-    },
-    {
-      "id": "https://www.ithome.com/0/954/185.htm",
-      "title": "Stellantis 与高通扩大合作,下代车辆将搭载骁龙数字底盘 SoC",
-      "summary": "IT之家 5 月 22 日消息,Stellantis 与高通当地时间本月 21 日宣布扩大双方的多年技术合作, 前者的下一代车辆将配备骁龙数字底盘 SoC 。 此次扩展合作将骁龙数字底盘解决方案与 Stellantis 的电子软件平台 STLA Brain 整合,从而提升驾驶舱、互联功能、ADAS 的性能。 Stellantis 也将 在数百万台车辆上部署高通的骁龙 Ride Pilot ADAS...",
-      "source": "Ithome",
-      "date": "2026-05-22",
-      "url": "https://www.ithome.com/0/954/185.htm"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/sea/story20260522-9093111",
-      "title": "高油价冲击东南亚渔业 渔民陷生计困境",
-      "summary": "(新加坡彭博电)中东战争导致霍尔木兹海峡长期受阻,国际油价居高不下,东南亚渔民被推向生计崩溃的边缘。...",
-      "source": "Zaobao",
-      "date": "2026-05-22",
-      "url": "https://www.zaobao.com.sg/news/sea/story20260522-9093111"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0522/886965.shtml",
-      "title": "经济观察报 第1272期",
-      "summary": "银行收紧大宗商品信贷审批陈植当险资规模超过公募基金姜鑫扎堆买公募基金 银行理财“借道”增厚收益陈植厘清“孤独死”中民政责任:管理遗产但不包办丧事克鲜期待更多疫苗进入医保支付白名单梁嘉琳特斯拉FSD即将落地国内车企接得住吗远山京沪高铁再涨价,打工人还坐不坐?刘亚宁新技术要敬畏制造业,敬畏制造业的复杂性 宋笛长鑫的朋友郑晨烨沃什难题欧阳晓红上海松绑原研药是值得鼓励的尝试“苏妈”上海行:Agent时代C...",
-      "source": "Eeo",
-      "date": "2026-05-22",
-      "url": "http://www.eeo.com.cn/2026/0522/886965.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1034329",
-      "title": "八部门重拳整治跨境券商,怎么看?-FX168",
-      "summary": "NewsData报道",
-      "source": "Fx168News",
-      "date": "2026-05-22",
-      "url": "https://www.fx168news.com/article/1034329"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-22/10626822.shtml",
-      "title": "(经济观察)从西洽会看中国西部制造业的“智变”与“质变”",
+      "id": "https://www.chinanews.com.cn/dwq/2026/05-23/10627375.shtml",
+      "title": "舆论:香港同胞深度参与国家航天事业是“一国两制”优势生动实践",
       "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-05-22",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-22/10626822.shtml"
+      "date": "2026-05-23",
+      "url": "https://www.chinanews.com.cn/dwq/2026/05-23/10627375.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1779443550129142.html",
-      "title": "智驾卫星导航市场:导远科技居首,中国企业全球前六占其四",
+      "id": "https://www.chinanews.com.cn/gn/2026/05-23/10627337.shtml",
+      "title": "航天员张志远:最艰难的不是训练,挑战是怎样面对落选",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-05-23",
+      "url": "https://www.chinanews.com.cn/gn/2026/05-23/10627337.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/954/433.htm",
+      "title": "11.98 万元起,蔚来 firefly 萤火虫迎来第 6 万台交付",
+      "summary": "IT之家 5 月 23 日消息,蔚来今日宣布,firefly 萤火虫迎来第 6 万台交付。该车自 2025 年 4 月 29 日开启首批交付,并于今年 4 月推出 firefly 萤火虫焕新升级款, 整车购买售价 11.98-12.58 万元 ,BaaS 租电方案售价 7.98-8.58 万元。 IT之家注意到,该车延续标志性“三重奏”大灯设计,提供全新的星轨双色合金轮圈。车尾方匹配双色定制下包围...",
+      "source": "Ithome",
+      "date": "2026-05-23",
+      "url": "https://www.ithome.com/0/954/433.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkeelq2/",
+      "title": "特斯拉FSD入华,国产智驾谁更懂中国路况?",
+      "summary": "特斯拉说FSD能自动变道,但国内用户发现高速上它连匝道都不敢进。2026年5月21日,特斯拉正式官宣监督版FSD(FSD Supervised)在中国“可用”,引发广泛关注。然而,这套系统目前仍被严格定义为L2级辅助驾驶——驾驶员必须全程专注、双手随时准......",
+      "source": "Smzdm",
+      "date": "2026-05-23",
+      "url": "https://post.smzdm.com/p/axkeelq2/"
+    },
+    {
+      "id": "https://www.mixvale.com.br/2026/05/23/%E9%9B%AA%E4%BD%9B%E5%85%B0trax%E4%B8%8E%E6%97%A5%E4%BA%A7kicks-2026%E5%8A%A0%E5%89%A7%E5%85%A5%E9%97%A8%E7%BA%A7%E7%B4%A7%E5%87%91%E5%9E%8Bsuv%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89-zh-cn/",
+      "title": "雪佛兰Trax与日产Kicks 2026加剧入门级紧凑型SUV市场竞争",
+      "summary": "随着两款更新车型的到来,北美汽车市场的入门级 SUV 市场正在发生激烈的变化。 2026 款雪佛兰 Trax 和 2026 款日产 Kicks 抵达经销商,旨在以低于 23,000 美元的起价提供多功能性和技术。这两款车旨在吸引比传统掀背车需要更多空间但购买新车预算有限的消费者。两者都克服了基本跨界车的旧形象,现在拥有现代的线条,掩盖了它们实惠的价格。 尽管它们具有相同的类别和相似的价格范围,但 ...",
+      "source": "Mixvale",
+      "date": "2026-05-23",
+      "url": "https://www.mixvale.com.br/2026/05/23/%E9%9B%AA%E4%BD%9B%E5%85%B0trax%E4%B8%8E%E6%97%A5%E4%BA%A7kicks-2026%E5%8A%A0%E5%89%A7%E5%85%A5%E9%97%A8%E7%BA%A7%E7%B4%A7%E5%87%91%E5%9E%8Bsuv%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89-zh-cn/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1779506824129608.html",
+      "title": "“无证驾驶”彻底凉了!富途、老虎等遭重罚,多少存量客户受影响?",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-22",
-      "url": "https://www.bjnews.com.cn/detail/1779443550129142.html"
+      "date": "2026-05-23",
+      "url": "https://www.bjnews.com.cn/detail/1779506824129608.html"
     },
     {
-      "id": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%EF%BC%9A%E5%8D%B0%E5%B0%BC%E9%80%82%E9%85%8D%E6%B7%B7%E5%8A%A8%EF%BC%8C%E5%9B%BD%E5%86%85%E5%8A%9B%E6%8E%A8%E9%97%AA%E5%85%85/",
-      "title": "比亚迪因地制宜:印尼适配混动,国内力推闪充",
-      "summary": "比亚迪正上演一场精彩的双线战术。在东南亚岛国印尼,这家中国汽车巨头首次引入插电混动车型,以应对充电设施的短板;而在本土市场,它却将原本属于高端车的闪充技术下放到大众车型,试图扭转连续八个月的销量下滑。同一天内,两条截然不同的消息折射出比亚迪在全球布局中的灵活应变。 印尼市场迎来首款比亚迪混动车——M6 DM。这款多功能车并未在中国销售,专为当地群岛地形量身打造。它搭载第五代DM混动系统,馈电状态下...",
-      "source": "Newscase",
-      "date": "2026-05-22",
-      "url": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%EF%BC%9A%E5%8D%B0%E5%B0%BC%E9%80%82%E9%85%8D%E6%B7%B7%E5%8A%A8%EF%BC%8C%E5%9B%BD%E5%86%85%E5%8A%9B%E6%8E%A8%E9%97%AA%E5%85%85/"
+      "id": "https://www.bjnews.com.cn/detail/1779512170129652.html",
+      "title": "神舟二十三号载人飞行任务即将执行,8大焦点关注发布会",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-23",
+      "url": "https://www.bjnews.com.cn/detail/1779512170129652.html"
     },
     {
-      "id": "https://news.seehua.com/post/1488423",
-      "title": "参与武吉免登“快闪”骚动面控 7人认罪被判罚款",
-      "summary": "(吉隆坡22日讯)包括服装店业主在内的7名参与武吉免登“快闪”骚动的男子,今日在推事庭上面控不同罪名后,皆已认 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-22",
-      "url": "https://news.seehua.com/post/1488423"
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260523-%E6%96%AF%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E5%80%9F%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81-%E6%B6%88%E5%8C%96-%E6%AC%A7%E6%B4%B2%E8%BF%87%E5%89%A9%E4%BA%A7%E8%83%BD%EF%BC%8C%E4%BB%A5%E5%87%8F%E5%B0%91%E5%9C%A8%E6%AC%A7%E5%85%B3%E5%8E%82%E5%8E%8B%E5%8A%9B",
+      "title": "斯特兰蒂斯借中国车企“消化”欧洲过剩产能,以减少在欧关厂压力",
+      "summary": "各位好,2026年5月23日出刊的法国主流日刊中,经济类回声报刊登了两则有关中国的报道。我们在本期法国报纸摘要节目当中为您综述相关报道。...",
+      "source": "Rfi_Fr",
+      "date": "2026-05-23",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260523-%E6%96%AF%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E5%80%9F%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81-%E6%B6%88%E5%8C%96-%E6%AC%A7%E6%B4%B2%E8%BF%87%E5%89%A9%E4%BA%A7%E8%83%BD%EF%BC%8C%E4%BB%A5%E5%87%8F%E5%B0%91%E5%9C%A8%E6%AC%A7%E5%85%B3%E5%8E%82%E5%8E%8B%E5%8A%9B"
     },
     {
-      "id": "https://www.ithome.com/0/954/220.htm",
-      "title": "鸿蒙智行全新一代问界 M9 系列旗舰 SUV 选配信息大公开,Ultimate 领世加长版大满配价格逼近百万",
-      "summary": "IT之家 5 月 22 日消息,华为官网再放“猛料”, 公开了鸿蒙智行全新一代问界 M9 系列旗舰 SUV 选配信息 。普通问界 M9 Max+ / Ultra 与问界 M9 Ultimate 独立开选,共计三款车型,并分五座、六座两种布局和增程、纯电两种动力(均为四驱)。 ▲ 图源:华为官网截图 | 问界 M9 Max+ / Ultra ▲ 图源:华为官网截图 | 问界 M9 Ultimate ...",
+      "id": "https://www.zaobao.com.sg/news/sports/story20260523-9095401",
+      "title": "拉塞尔夺F1加拿大赛冲刺杆位 安东内利紧随其后",
+      "summary": "(蒙特利尔路透电)拉塞尔(Russell)星期五(5月22日)在一级方程式(F1)加拿大大奖赛中夺下冲刺赛杆位。他的马赛地队友、车手积分榜领跑者安东内利(Antonelli)将与他一同在前排发车。...",
+      "source": "Zaobao",
+      "date": "2026-05-23",
+      "url": "https://www.zaobao.com.sg/news/sports/story20260523-9095401"
+    },
+    {
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-05-23/the-rise-of-the-machine-the-tale-of-the-mighty-american-pickup-truck/1025865",
+      "title": "机器的崛起强大的美国皮卡车的故事",
+      "summary": "NewsData报道",
+      "source": "Theportugalnews",
+      "date": "2026-05-23",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-05-23/the-rise-of-the-machine-the-tale-of-the-mighty-american-pickup-truck/1025865"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/05-23/10627240.shtml",
+      "title": "泛大湾区交通行业可信数据空间联盟在广州成立",
+      "summary": "中新网广州5月23日电 (记者 蔡敏婕)泛大湾区交通行业可信数据空间联盟23日在广州成立。该联盟汇聚广东、湖南、广西、福建、江西、海南六省区60余家单位,旨在打破省界数据壁垒,在安全合规前提下推动跨省(区)出行信息实时共享与预警响应协同,从根本上解决信息不连贯、标准不统一等长期影响公众出行的痛点问题。...",
+      "source": "Chinanews",
+      "date": "2026-05-23",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-23/10627240.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/954/385.htm",
+      "title": "奔驰智能辅助驾驶年底登陆德国老家,剑指明年“全德国都能开”",
+      "summary": "IT之家 5 月 23 日消息,据路透社 22 日报道,梅赛德斯-奔驰计划从今年年底开始,在德国正式推进城市“点到点”辅助驾驶系统落地,希望成为欧洲最早将这一技术带入城市道路的车企之一。 目前,欧洲车企与科技公司正加速争夺城市自动驾驶市场。除了奔驰之外,宝马和特斯拉也都在推进类似系统的欧洲部署。梅赛德斯-奔驰首席技术官约尔格 · 布尔策透露,奔驰的 MB.DRIVE ASSIST PRO 系统预计...",
       "source": "Ithome",
-      "date": "2026-05-22",
-      "url": "https://www.ithome.com/0/954/220.htm"
+      "date": "2026-05-23",
+      "url": "https://www.ithome.com/0/954/385.htm"
     },
     {
-      "id": "https://www.fx168news.com/article/1034355",
-      "title": "高通(QCOM)股票5月22日盘中上涨5.93%:真相来了-FX168",
-      "summary": "高通 (QCOM) 盘中上涨5.93%, 所属行业科技设备上涨0.85% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 英伟达 (NVDA) 下跌 0.87%;美光科技 (MU) 下跌 1.29%;超威半导体 (AMD) 上涨 3.39%。 今日是什么导致了高通(QCOM)股价上涨? 高通(Qualcomm)股价今日显著上涨,受到其战略增长领域多项积极进展的共同推动。投资者的乐观情绪主要源于该公司在...",
-      "source": "Fx168News",
-      "date": "2026-05-22",
-      "url": "https://www.fx168news.com/article/1034355"
+      "id": "https://www.ithome.com/0/954/365.htm",
+      "title": "大众安徽新款与众 06 上市:限时权益价 13.49 万-14.49 万元,528km 续航",
+      "summary": "IT之家 5 月 23 日消息,今天下午,大众汽车(安徽)有限公司发布了新款与众 06。新车提供两款不同配置,Pure 版限时权益价 13.49 万元,Pure SE 版限时权益价 14.49 万元。 IT之家汇总新车主要信息如下: 新车相比现款与众 06 外观变化不大,主要针对内饰、配置、动力、电池、续航等多方面进行升级,长宽高分别为 4663mm/1860mm/1617mm,轴距为 2766m...",
+      "source": "Ithome",
+      "date": "2026-05-23",
+      "url": "https://www.ithome.com/0/954/365.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1779494857129447.html",
+      "title": "岚图汽车战略车型泰山X8上市",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-23",
+      "url": "https://www.bjnews.com.cn/detail/1779494857129447.html"
     },
     {
       "id": "https://gizmodo.com/jeep-ram-and-dodge-vehicles-could-soon-come-equipped-with-wayves-self-driving-tech-2000762218",
@@ -219,30 +262,6 @@
       "source": "The Manila Times",
       "date": "2026-05-19",
       "url": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ezgo-technologies-signed-three-party-strategic-framework-agreement-with-autotraxai-and-zhejiang-hengyuan-to-build-a-us-assembled-autonomous-vehicle-platform-powered-by-lithium-battery-and-ichassis-technology/2347234"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ecarx-and-may-mobility-to-scale-autonomous-ride-hail-fleet/2347032",
-      "title": "ECARX and May Mobility to Scale Autonomous Ride-Hail Fleet",
-      "summary": "Strategic Framework Alliance to Power Next-Generation Turnkey Autonomous Vehicle DevelopmentECARX to Develop High Performance AI Compute System for May MobilityFuture Compute System to Utilize ECARX S...",
-      "source": "The Manila Times",
-      "date": "2026-05-19",
-      "url": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ecarx-and-may-mobility-to-scale-autonomous-ride-hail-fleet/2347032"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/einride-ab-and-legato-merger-corp-iii-announce-effectiveness-of-registration-statement-ahead-of-planned-business-combination-and-nasdaq-listing-302774603.html",
-      "title": "Einride AB and Legato Merger Corp. III Announce Effectiveness of Registration Statement Ahead of Planned Business Combination and Nasdaq Listing",
-      "summary": "/PRNewswire/ -- Einride AB (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous freight, and......",
-      "source": "PR Newswire UK",
-      "date": "2026-05-18",
-      "url": "https://www.prnewswire.co.uk/news-releases/einride-ab-and-legato-merger-corp-iii-announce-effectiveness-of-registration-statement-ahead-of-planned-business-combination-and-nasdaq-listing-302774603.html"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/tesla-expects-wider-us-use-of-fully-self-driving-cars-by-year-end-ce7f5adada8ef223",
-      "title": "Tesla Expects Wider US Use of Fully Self-Driving Cars by Year-End",
-      "summary": "Tesla chief Elon Musk said he expects fully self-driving cars without human safety monitors to become more widely used in the US later this year, marking an expansion of the company's autonomous......",
-      "source": "MarketScreener",
-      "date": "2026-05-18",
-      "url": "https://www.marketscreener.com/news/tesla-expects-wider-us-use-of-fully-self-driving-cars-by-year-end-ce7f5adada8ef223"
     }
   ]
 }
