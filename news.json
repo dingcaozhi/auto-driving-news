@@ -1,46 +1,57 @@
 {
-  "lastUpdated": "2026-05-29 04:19:28",
-  "totalCount": 30,
+  "lastUpdated": "2026-05-30 04:04:37",
+  "totalCount": 27,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 2,
-    "Ithome": 5,
+    "Bjnews": 1,
+    "Ithome": 2,
     "Imobile": 2,
-    "Investing_Cn": 1,
-    "Eeo": 2,
-    "Fx168News": 1,
-    "Chinanews": 2,
+    "Fx168News": 3,
+    "News_Seehua": 1,
+    "Chinanews": 1,
+    "Cri_Cn": 2,
+    "TechCrunch": 1,
+    "Morningstar": 1,
+    "WJLA": 1,
+    "MarketScreener": 1,
     "Los Angeles Times": 1,
-    "Devdiscourse": 2,
+    "Devdiscourse": 1,
     "Seeking Alpha": 1,
     "PR Newswire UK": 1,
-    "The Manila Times": 3,
-    "Barchart": 1,
-    "Reuters": 1
+    "The Manila Times": 1,
+    "Barchart": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "id": "https://www.bilibili.com/video/BV1DDGX6AEVy",
+      "title": "【B站】海特洛天黑了 异环1.1自动驾驶模式自动变绿灯！半速行驶超适合都市兜风",
+      "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-05-29",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+      "date": "2026-05-30",
+      "url": "https://www.bilibili.com/video/BV1DDGX6AEVy"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "id": "https://www.bilibili.com/video/BV1szG96bEEe",
+      "title": "【B站】异环智能驾驶初体验！",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-29",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+      "date": "2026-05-30",
+      "url": "https://www.bilibili.com/video/BV1szG96bEEe"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV191Vb63E7o",
+      "title": "【B站】FSD终于来了！几乎0接管，一镜到底，100%无剪辑真实记录：北京下班智能辅助驾驶！智能驾驶系列公开课：使用智驾前必看！",
+      "summary": "FSD终于来了！\n几乎0接管，一镜到底，\n100%无剪辑真实记录：\n北京下班智能辅助驾驶！\n99%的人都不知道的：\n很多智能驾驶的细节！\n北京真实日常上下班：\n全网最深入的智能驾驶视频讲解！\n智能驾驶系列公开课：\n使用智驾前必看！...",
+      "source": "Bilibili",
+      "date": "2026-05-30",
+      "url": "https://www.bilibili.com/video/BV191Vb63E7o"
     },
     {
       "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
       "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
@@ -48,136 +59,136 @@
       "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
       "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
       "source": "Bilibili",
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1szG96bEEe",
-      "title": "【B站】异环智能驾驶初体验！",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1780065719168400.html",
+      "title": "贝壳车评丨加码物理AI,小鹏的科技叙事该如何讲下去?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-05-29",
-      "url": "https://www.bilibili.com/video/BV1szG96bEEe"
+      "url": "https://www.bjnews.com.cn/detail/1780065719168400.html"
     },
     {
-      "id": "https://post.smzdm.com/p/awwezvxp/",
-      "title": "比亚迪智驾真相:L2+能用什么、别碰什么",
-      "summary": "别被‘L3/L4自动驾驶’的宣传字眼迷惑了——你现在手里的比亚迪璇玑A3,在公开道路上能用的所有功能,法律上仍属于L2+或有条件L3范畴,驾驶员永远是安全第一责任人。系统再聪明,也不能在施工路段、电动车乱窜的小巷或暴雨天替你扛责。这篇指南不讲参数,只说清......",
-      "source": "Smzdm",
-      "date": "2026-05-28",
-      "url": "https://post.smzdm.com/p/awwezvxp/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5r7o433/",
-      "title": "马自达三剑客操控大比拼:谁才是真·人马一体?",
-      "summary": "在2026年这个电动化浪潮席卷、智能配置堆叠成风的汽车市场,仍有少数品牌坚守“驾驶乐趣”这一看似过时却历久弥新的核心价值。马自达便是其中最执着的一位。如果你是那种‘怕选错、怕后悔’的谨慎型用户——既不想为华而不实的屏幕买单,又担心牺牲操控换来虚假舒适;既......",
-      "source": "Smzdm",
-      "date": "2026-05-28",
-      "url": "https://post.smzdm.com/p/a5r7o433/"
-    },
-    {
-      "id": "https://www.ithome.com/0/956/821.htm",
-      "title": "华为余承东:全新途灵龙行平台首创全域融合架构、全链路八大冗余设计,为 L3 时代做好了准备",
-      "summary": "IT之家 5 月 28 日消息, 鸿蒙 智行全新一代问界 M9 已于昨日正式发布,新车全系首发搭载华为乾崑智驾 ADS 5,定价 47.98 万元起。 IT之家注意到,在昨天发布会的现场,余承东还谈及了新车全新华为途灵龙行平台首创的全域融合架构和全链路八大冗余设计, 并表示其就是为 L3 时代做好了准备 。 余承东直言, 就等国家 L3 牌照的发放 ,期待国内的 L3、L4 早点到来。 据IT之家...",
+      "id": "https://www.ithome.com/0/957/387.htm",
+      "title": "10 名车主诉特斯拉 FSD 欺诈案国内开庭,索赔 395 万余元",
+      "summary": "IT之家 5 月 29 日消息,据新京报报道,近日,一起针对特斯拉 FSD(完全自动驾驶)功能的集体诉讼案在北京市大兴区人民法院一审开庭。5 月 29 日,记者从原告律师王有银处获悉,10 名中国车主以虚假宣传、消费欺诈为由,将特斯拉告上法庭, 索赔金额合计 395 万余元 。特斯拉方对此案暂无回应。 原告方代理律师、北京圣运律师事务所创始人王有银律师透露,庭审中双方聚焦特斯拉 FSD 功能是否达...",
       "source": "Ithome",
-      "date": "2026-05-28",
-      "url": "https://www.ithome.com/0/956/821.htm"
+      "date": "2026-05-29",
+      "url": "https://www.ithome.com/0/957/387.htm"
     },
     {
-      "id": "https://www.ithome.com/0/956/820.htm",
-      "title": "极氪制造,Waymo 首款 robotaxi 专用车“Ojai”上路服务",
-      "summary": "IT之家 5 月 28 日消息,当地时间 28 日,Waymo 开始向部分用户开放新款 Ojai Robotaxi 试乘服务,并在旧金山、洛杉矶和凤凰城 率先部署第六代 Waymo Driver 硬件 。试乘将在限定时间内免费。 Ojai 是 Waymo Robotaxi 业务的重要一步。Waymo 目前已经在 11 座城市完成超过 2000 万次全自动驾驶行程,规模仍远超其他竞争对手。 Ojai...",
+      "id": "https://www.ithome.com/0/957/382.htm",
+      "title": "一汽大众 ID. AURA T6 登陆粤港澳车展,龙船特别版同步亮相",
+      "summary": "IT之家 5 月 29 日消息,今日,2026 粤港澳大湾区车展开幕,一汽-大众 ID. AURA T6 登陆车展现场,并带来龙船特别版。 据介绍,本次同步展出的 ID. AURA T6 龙船特别版,主色调取自木棉花的橘红底色,搭配龙船文化的金龙纹样,打造专属视觉效果。 IT之家注意到,一汽-大众 ID.AURA 序列首款车型 ID.AURA T6 于 4 月 21 日正式亮相,该车是一款“全新五...",
       "source": "Ithome",
-      "date": "2026-05-28",
-      "url": "https://www.ithome.com/0/956/820.htm"
+      "date": "2026-05-29",
+      "url": "https://www.ithome.com/0/957/382.htm"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0528/234578.shtml",
-      "title": "比亚迪重磅发布中国首款4nm制程智驾芯片 布局高等级自动驾驶",
-      "summary": "2026年5月28日,比亚迪召开“敢为”智能化战略发布会,董事长王传福表示:“电动化上半场看电池,智能化下半场看芯片。”由此,比亚迪重磅发布中国首款4nm制程智驾芯片——璇玑A3,加速推进智能化下半场进程,引领全球汽车行业智能化变革。 此外,继为智能泊车安全兜底后,比亚迪再次率先承诺为城市领航安全兜底1年,并宣布全系车型均可搭载天神之眼B 辅助驾驶激光版,选装价格12000元,开创全民城市领航时代...",
+      "id": "http://news.imobile.com.cn/articles/2026/0529/234595.shtml",
+      "title": "“华派黄金标准大六座”东风奕派M8亮相粤港澳车展",
+      "summary": "奕起热爱,智领未来。5月29日,东风奕派M8技术发布会于2026粤港澳大湾区车展举行。聚光灯下,奕派M8万众瞩目,以绝对主角之姿惊艳全场,同步亮相华为乾崑展台。作为东风奕派与华为乾崑战略合作升级的首款车型,奕派M8在全球首秀的舞台上,为都市年轻家庭交出了一份大六座SUV的黄金标准答案。本次发布会,奕派M8进一步展示技术底牌,以华为乾崑技术,满配智能六件套,打开智能上限,以东风汽车央企造车底蕴,筑牢...",
       "source": "Imobile",
-      "date": "2026-05-28",
-      "url": "http://news.imobile.com.cn/articles/2026/0528/234578.shtml"
+      "date": "2026-05-29",
+      "url": "http://news.imobile.com.cn/articles/2026/0529/234595.shtml"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3390634",
-      "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福:持续投入超千亿研发资金",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-28",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3390634"
-    },
-    {
-      "id": "https://www.ithome.com/0/956/810.htm",
-      "title": "赵长江:智界 V9 将首批升级华为乾崑智驾 ADS 5,该系统采用面向自动驾驶的 WEWA 2.0 架构",
-      "summary": "IT之家 5 月 28 日消息,智界汽车执行董事及执行副总裁赵长江针对网友关于智界 V9 的提问,挑选了几个有代表性的问题进行了统一回答。 IT之家附重点内容如下: 智界 V9 在智能驾驶方面,相较于同级车型,有哪些明显的领先优势? 这位朋友问到了核心。智界 V9 的智驾核心优势首先体现在华为乾崑智驾 ADS 5 高阶智驾能力 —— 智界 V9 将作为首批升级华为乾崑智驾 ADS 5 的车型, 这...",
-      "source": "Ithome",
-      "date": "2026-05-28",
-      "url": "https://www.ithome.com/0/956/810.htm"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0528/894201.shtml",
-      "title": "资本竞逐新能源重卡赛道 ,2026年以来累计融资超80亿元",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-05-28",
-      "url": "http://www.eeo.com.cn/2026/0528/894201.shtml"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0528/234577.shtml",
-      "title": "2026年最值得买的B级插混SUV 宋Ultra DM-i上市12.99万元起",
-      "summary": "2026年5月28日,B级插混SUV比亚迪宋Ultra DM-i正式上市,共5款车型,含205公里、310公里两个纯电续航版本,上市价格12.99—15.99万元。 新车CLTC纯电续航310公里,中级插混SUV也可享受纯电出行自由,搭载第五代DM技术,NEDC百公里亏电油耗低至3.3L,满油满电综合续航1845公里,可选天神之眼B辅助驾驶激光版,选装后,可享一年城市领航兜底。 宋Ultra DM...",
-      "source": "Imobile",
-      "date": "2026-05-28",
-      "url": "http://news.imobile.com.cn/articles/2026/0528/234577.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/956/800.htm",
-      "title": "比亚迪“天神之眼”辅助驾驶系统迎来四大升级,架构、传感器、算法与数据全面进化",
-      "summary": "IT之家 5 月 28 日消息,今晚比亚迪在深圳召开“敢为”智能化战略发布会。发布会现场,比亚迪宣布行业首个“整车智能”辅助驾驶系统天神之眼迎来四大升级,此次升级覆盖架构、传感器、算法以及数据四大层面。此外,比亚迪宣布全系车型均可搭载天神之眼 B 辅助驾驶激光版,选装价格为 12000 元。 首先,在架构层面,天神之眼升级为“璇玑架构 2.0”。比亚迪表示,新架构采用全栈自研中央大脑与“舱驾电合一...",
-      "source": "Ithome",
-      "date": "2026-05-28",
-      "url": "https://www.ithome.com/0/956/800.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/956/790.htm",
-      "title": "比亚迪宋 Ultra DM-i 上市:搭载“迪迪虾”,售 12.99 万元起",
-      "summary": "IT之家 5 月 28 日消息,今晚比亚迪在深圳召开“敢为”智能化战略发布会。发布会现场,定位 B 级插混 SUV 的宋 Ultra DM-i 正式上市。新车主打智能座舱、长续航、大空间与舒适配置,并首次将 310 公里纯电续航带入 13 万元级别插混 SUV 市场。 IT之家注意到,比亚迪称这是王朝首款搭载“迪迪虾”智能体系统的车型。官方表示,该系统并非传统被动式语音助手,而是具备主动交互能力的...",
-      "source": "Ithome",
-      "date": "2026-05-28",
-      "url": "https://www.ithome.com/0/956/790.htm"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1036899",
-      "title": "小鹏:拐点已现,“东方特斯拉 “故事还能舞?-FX168",
-      "summary": "NewsData报道",
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1037494",
+      "title": "佑驾创新(02431.HK):2500万元收购通图科技50%股权,加速L4自动驾驶商业化落地-FX168",
+      "summary": "新时空(newtimespace.com)讯:佑驾创新(2431.HK)拟以2500万元收购通图科技50%股权,其中2000万元以每股9.81港元发行股份支付。目标公司主营智能无人车运营,卖方系中通关联实体,交易有助集团加速L4自动驾驶在智慧物流领域商业化。...",
       "source": "Fx168News",
-      "date": "2026-05-28",
-      "url": "https://www.fx168news.com/article/1036899"
+      "date": "2026-05-29",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1037494"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-28/10630464.shtml",
-      "title": "港航业拥抱具身智能浪潮 如何跨越“最后一公里”?",
-      "summary": "中新网宁波5月28日电(蓝伊旎)“具身智能发展的浪潮已然到来,深入的技术应用将为港航业注入更强的韧性。”5月28日,2026第十届海丝港口合作论坛的数字与智能专题分论坛会议上,宇树科技股份有限公司副总经理方晗峰的这番话,引发与会者共鸣。...",
-      "source": "Chinanews",
-      "date": "2026-05-28",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-28/10630464.shtml"
+      "id": "https://news.seehua.com/post/1492104",
+      "title": "女子骑摩哆返家遭追尾撞飞 肇祸司机无牌驾驶路税过期",
+      "summary": "(新山29日讯)一名在新加坡工作的女子,凌晨下班骑摩哆返回新山途中,遭到一辆从后方驶来的第二国产车迈威轿车猛烈 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-29",
+      "url": "https://news.seehua.com/post/1492104"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/05-28/10630468.shtml",
-      "title": "北京人社部门筑牢权益“保障网” 锻造就业“新引擎”",
-      "summary": "中新网北京5月28日电 (记者 吕少威)就业是最大的民生工程,也是发展的坚实根基。在首都北京,就业工作始终被摆在突出位置。面对新业态蓬勃发展、新质生产力加速演进的形势,北京紧扣稳就业、促增收、强技能、护权益的工作主线,以制度创新和数字赋能为双轮驱动,将零工人员的权益保障做细做实,将职业技能培训的场景革命推向纵深,交出了一份有温度、有力度的稳就业答卷。...",
-      "source": "Chinanews",
-      "date": "2026-05-28",
-      "url": "https://www.chinanews.com.cn/sh/2026/05-28/10630468.shtml"
+      "id": "https://www.fx168news.com/article/1037479",
+      "title": "16.99万元起,领克10+和领克10正式上市,以全维实力重塑中大型运动纯电体验-FX168",
+      "summary": "【2026年5月29日,上海】作为领克面向中大型运动纯电轿车市场打造的重磅产品,领克10+和领克10正式上市发售。以纯粹运动造型、进阶三电技术、人车合一底盘调校、全维智能科技与超纲安全体系,回应用户对高品质运动纯电的更高期待。领克10共推出3个版型,领克10 701长...",
+      "source": "Fx168News",
+      "date": "2026-05-29",
+      "url": "https://www.fx168news.com/article/1037479"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0528/894202.shtml",
-      "title": "上汽集团累销达亿级 旗下上汽大众ID.ERA 9X交付第7000辆车",
+      "id": "https://www.chinanews.com.cn/cj/2026/05-29/10631169.shtml",
+      "title": "2026世界智能产业博览会|聚“智”谋发展,让世界共享智能新机遇",
       "summary": "NewsData报道",
-      "source": "Eeo",
+      "source": "Chinanews",
+      "date": "2026-05-29",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-29/10631169.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1037475",
+      "title": "九号2026新品发布会:4款硬核产品重磅亮相 重新定义“好车标准”-FX168",
+      "summary": "5月29日,九号公司2026新品发布会在线上直播举行,一口气连发四款全新车型——N1、M1、全新M3以及Fz5,并正式官宣N1无畏契约联名款。这是九号电动车在智能两轮电动车领域,今年阵容最强大的一次新产品发布,也被视为倡导行业回归“好车本质”的宣言,用更扎实的底盘...",
+      "source": "Fx168News",
+      "date": "2026-05-29",
+      "url": "https://www.fx168news.com/article/1037475"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0529/234594.shtml",
+      "title": "面向科技与未来 一汽丰田精彩亮相粤港澳大湾区车展",
+      "summary": "5月29日,2026第三十届粤港澳大湾区车展正式拉开帷幕,一汽丰田携旗下全新荣放、bZ3智享家、bZ5、普拉多、格瑞维亚、亚洲龙、卡罗拉、卡罗拉锐放、皇冠陆放、全新皇冠等全系产品精彩亮相,充分展现了多元化的产品矩阵和面向未来的智电体系实力。 深圳是一汽丰田的销售重点区域,这里的用户热爱一汽丰田,而一汽丰田也始终在以最大的诚意回馈用户的厚爱。本次深圳车展,除了常规布展外,一汽丰田就特别打造了体验感十...",
+      "source": "Imobile",
+      "date": "2026-05-29",
+      "url": "http://news.imobile.com.cn/articles/2026/0529/234594.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260529/58f9e106-e974-5aea-cea7-8ef1ce2513ee.html",
+      "title": "2026世界智能产业博览会|聚“智”谋发展,让世界共享智能新机遇-国际在线",
+      "summary": "——2026世界智能产业博览会系列网评之二 5月28日,以“智行天下能动未来”为主题的2026世界智能产业博览会在天津拉开帷幕。作为世界智能大会与中国国际智能产业博览会合并更名后成功举办...",
+      "source": "Cri_Cn",
+      "date": "2026-05-29",
+      "url": "https://news.cri.cn/20260529/58f9e106-e974-5aea-cea7-8ef1ce2513ee.html"
+    },
+    {
+      "id": "https://news.cri.cn/20260529/8555e47a-41ab-872c-7c5b-5161a60f2708.html",
+      "title": "千里援疆路上的多项创新-国际在线",
+      "summary": "【情满天山援疆印记】 天山网-新疆日报记者魏永贵 5月24日清晨,哈密市伊吾县,晨光刚漫过县城,一辆氢能公交车平稳驶出停车场。 车厢里欢声笑语。伊吾县伊顺公共交通服务有限责任公司驾驶员乌斯曼·条良手握方向盘,稳稳地驾...",
+      "source": "Cri_Cn",
+      "date": "2026-05-29",
+      "url": "https://news.cri.cn/20260529/8555e47a-41ab-872c-7c5b-5161a60f2708.html"
+    },
+    {
+      "id": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas....",
+      "source": "TechCrunch",
+      "date": "2026-05-29",
+      "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/"
+    },
+    {
+      "id": "https://www.morningstar.com/company-reports/1483763-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology",
+      "title": "Leading NEV Manufacturer With Advanced In-House Autonomous Driving Technology",
+      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
+      "source": "Morningstar",
+      "date": "2026-05-29",
+      "url": "https://www.morningstar.com/company-reports/1483763-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology"
+    },
+    {
+      "id": "https://wjla.com/news/local/waymo-self-driving-testing-automatic-northern-virginia-mapping-driverless",
+      "title": "Self-driving service Waymo launches testing in Northern Virginia",
+      "summary": "Waymo has confirmed it is testing its autonomous ride-hailing vehicles in Northern Virginia.While fully driverless vehicles are currently illegal in the state,...",
+      "source": "WJLA",
       "date": "2026-05-28",
-      "url": "http://www.eeo.com.cn/2026/0528/894202.shtml"
+      "url": "https://wjla.com/news/local/waymo-self-driving-testing-automatic-northern-virginia-mapping-driverless"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/waymo-rolls-out-new-self-driving-car-made-with-china-s-zeekr-ce7f5ddadf8df321",
+      "title": "Waymo Rolls Out New Self-Driving Car Made With China's Zeekr",
+      "summary": "By Dean Seal\nGoogle's self-driving startup Waymo is launching a new autonomous vehicle that it designed in partnership with the Chinese EV maker Zeekr.\nWaymo said Thursday that public riders......",
+      "source": "MarketScreener",
+      "date": "2026-05-28",
+      "url": "https://www.marketscreener.com/news/waymo-rolls-out-new-self-driving-car-made-with-china-s-zeekr-ce7f5ddadf8df321"
     },
     {
       "id": "https://www.latimes.com/0000019e-6bae-defa-afbf-efff5aef0000-123",
@@ -226,38 +237,6 @@
       "source": "Barchart",
       "date": "2026-05-26",
       "url": "https://www.barchart.com/story/news/2134691/fully-self-driving-technology-positions-tesla-stock-for-another-wave-of-value-creation"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/business/3922596-tram-collision-raises-concerns-over-autonomous-buses-in-gothenburg",
-      "title": "Tram Collision Raises Concerns Over Autonomous Buses in Gothenburg",
-      "summary": "A self-driving bus made by Turkey's Karsan was hit by a tram in Gothenburg, Sweden, shortly after starting service. No injuries were reported, but the collision sparks discussions on integrating auton...",
-      "source": "Devdiscourse",
-      "date": "2026-05-26",
-      "url": "https://www.devdiscourse.com/article/business/3922596-tram-collision-raises-concerns-over-autonomous-buses-in-gothenburg"
-    },
-    {
-      "id": "https://www.reuters.com/world/asia-pacific/chinas-ponyai-says-it-is-unaffected-by-self-driving-car-safety-review-2026-05-26/",
-      "title": "China's Pony.ai says it is unaffected by self-driving car safety review",
-      "summary": "Chinese autonomous driving company Pony.ai has not been affected by a national safety review following a robotaxi outage involving rival Baidu's Apollo Go, and is pushing ahead with expansion into mor...",
-      "source": "Reuters",
-      "date": "2026-05-26",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-ponyai-says-it-is-unaffected-by-self-driving-car-safety-review-2026-05-26/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/05/26/tmt-newswire/globenewswire/pony-ai-inc-reports-first-quarter-2026-financial-results-with-continued-growth-in-robotaxi-revenues-and-expanding-fleet-deployment/2351454",
-      "title": "PONY AI Inc. Reports First Quarter 2026 Financial Results with Continued Growth in Robotaxi Revenues and Expanding Fleet Deployment",
-      "summary": "Robotaxi revenues growth - Robotaxi revenues grew by 395.4% year-over-year in Q1, with fare-charging revenues rising by 456.5%.Updating 2026 growth targets - We raise our 2026 Robotaxi revenues target...",
-      "source": "The Manila Times",
-      "date": "2026-05-26",
-      "url": "https://www.manilatimes.net/2026/05/26/tmt-newswire/globenewswire/pony-ai-inc-reports-first-quarter-2026-financial-results-with-continued-growth-in-robotaxi-revenues-and-expanding-fleet-deployment/2351454"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/05/26/tmt-newswire/globenewswire/share-price-surges-caocao-accelerates-robotaxi-commercialization-with-driverless-testing-shanghai-deployment-and-global-expansion-strategy/2351357",
-      "title": "Share Price Surges, CaoCao Accelerates Robotaxi Commercialization with Driverless Testing, Shanghai Deployment and Global Expansion Strategy",
-      "summary": "HangZhou, China, May 26, 2026 (GLOBE NEWSWIRE) -- CaoCao Inc. (02643.HK) is accelerating the commercialization of its Robotaxi business, marking a major step in its transformation from a traditional m...",
-      "source": "The Manila Times",
-      "date": "2026-05-26",
-      "url": "https://www.manilatimes.net/2026/05/26/tmt-newswire/globenewswire/share-price-surges-caocao-accelerates-robotaxi-commercialization-with-driverless-testing-shanghai-deployment-and-global-expansion-strategy/2351357"
     }
   ]
 }
