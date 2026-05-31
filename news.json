@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-30 04:04:37",
+  "lastUpdated": "2026-05-31 04:40:01",
   "totalCount": 27,
   "sources": {
-    "Bilibili": 5,
-    "Bjnews": 1,
-    "Ithome": 2,
-    "Imobile": 2,
-    "Fx168News": 3,
+    "Imobile": 1,
+    "Bjnews": 3,
+    "Investing_Cn": 7,
     "News_Seehua": 1,
-    "Chinanews": 1,
-    "Cri_Cn": 2,
+    "Cri_Cn": 1,
+    "Mixvale": 1,
+    "Smzdm": 2,
+    "Ithome": 1,
     "TechCrunch": 1,
     "Morningstar": 1,
     "WJLA": 1,
@@ -23,140 +23,140 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1DDGX6AEVy",
-      "title": "【B站】海特洛天黑了 异环1.1自动驾驶模式自动变绿灯！半速行驶超适合都市兜风",
-      "summary": "-...",
-      "source": "Bilibili",
+      "id": "http://news.imobile.com.cn/articles/2026/0530/234602.shtml",
+      "title": "顶流集结,奕境X9定义家庭“智慧出行”新标杆",
+      "summary": "NewsData报道",
+      "source": "Imobile",
       "date": "2026-05-30",
-      "url": "https://www.bilibili.com/video/BV1DDGX6AEVy"
+      "url": "http://news.imobile.com.cn/articles/2026/0530/234602.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1szG96bEEe",
-      "title": "【B站】异环智能驾驶初体验！",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-30",
-      "url": "https://www.bilibili.com/video/BV1szG96bEEe"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV191Vb63E7o",
-      "title": "【B站】FSD终于来了！几乎0接管，一镜到底，100%无剪辑真实记录：北京下班智能辅助驾驶！智能驾驶系列公开课：使用智驾前必看！",
-      "summary": "FSD终于来了！\n几乎0接管，一镜到底，\n100%无剪辑真实记录：\n北京下班智能辅助驾驶！\n99%的人都不知道的：\n很多智能驾驶的细节！\n北京真实日常上下班：\n全网最深入的智能驾驶视频讲解！\n智能驾驶系列公开课：\n使用智驾前必看！...",
-      "source": "Bilibili",
-      "date": "2026-05-30",
-      "url": "https://www.bilibili.com/video/BV191Vb63E7o"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-05-30",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
-      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
-      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
-      "source": "Bilibili",
-      "date": "2026-05-30",
-      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780065719168400.html",
-      "title": "贝壳车评丨加码物理AI,小鹏的科技叙事该如何讲下去?",
+      "id": "https://www.bjnews.com.cn/detail/1780145442129668.html",
+      "title": "北京全力建设人工智能第一城,“科幻场景已成为市民生活日常”",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-29",
-      "url": "https://www.bjnews.com.cn/detail/1780065719168400.html"
+      "date": "2026-05-30",
+      "url": "https://www.bjnews.com.cn/detail/1780145442129668.html"
     },
     {
-      "id": "https://www.ithome.com/0/957/387.htm",
-      "title": "10 名车主诉特斯拉 FSD 欺诈案国内开庭,索赔 395 万余元",
-      "summary": "IT之家 5 月 29 日消息,据新京报报道,近日,一起针对特斯拉 FSD(完全自动驾驶)功能的集体诉讼案在北京市大兴区人民法院一审开庭。5 月 29 日,记者从原告律师王有银处获悉,10 名中国车主以虚假宣传、消费欺诈为由,将特斯拉告上法庭, 索赔金额合计 395 万余元 。特斯拉方对此案暂无回应。 原告方代理律师、北京圣运律师事务所创始人王有银律师透露,庭审中双方聚焦特斯拉 FSD 功能是否达...",
-      "source": "Ithome",
-      "date": "2026-05-29",
-      "url": "https://www.ithome.com/0/957/387.htm"
+      "id": "https://www.bjnews.com.cn/detail/1780058270129179.html",
+      "title": "从焊接电子琴到无人驾驶小车,北京联合大学应用科技学院校园文化周亮出“硬核”技能",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-30",
+      "url": "https://www.bjnews.com.cn/detail/1780058270129179.html"
     },
     {
-      "id": "https://www.ithome.com/0/957/382.htm",
-      "title": "一汽大众 ID. AURA T6 登陆粤港澳车展,龙船特别版同步亮相",
-      "summary": "IT之家 5 月 29 日消息,今日,2026 粤港澳大湾区车展开幕,一汽-大众 ID. AURA T6 登陆车展现场,并带来龙船特别版。 据介绍,本次同步展出的 ID. AURA T6 龙船特别版,主色调取自木棉花的橘红底色,搭配龙船文化的金龙纹样,打造专属视觉效果。 IT之家注意到,一汽-大众 ID.AURA 序列首款车型 ID.AURA T6 于 4 月 21 日正式亮相,该车是一款“全新五...",
-      "source": "Ithome",
-      "date": "2026-05-29",
-      "url": "https://www.ithome.com/0/957/382.htm"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0529/234595.shtml",
-      "title": "“华派黄金标准大六座”东风奕派M8亮相粤港澳车展",
-      "summary": "奕起热爱,智领未来。5月29日,东风奕派M8技术发布会于2026粤港澳大湾区车展举行。聚光灯下,奕派M8万众瞩目,以绝对主角之姿惊艳全场,同步亮相华为乾崑展台。作为东风奕派与华为乾崑战略合作升级的首款车型,奕派M8在全球首秀的舞台上,为都市年轻家庭交出了一份大六座SUV的黄金标准答案。本次发布会,奕派M8进一步展示技术底牌,以华为乾崑技术,满配智能六件套,打开智能上限,以东风汽车央企造车底蕴,筑牢...",
-      "source": "Imobile",
-      "date": "2026-05-29",
-      "url": "http://news.imobile.com.cn/articles/2026/0529/234595.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1037494",
-      "title": "佑驾创新(02431.HK):2500万元收购通图科技50%股权,加速L4自动驾驶商业化落地-FX168",
-      "summary": "新时空(newtimespace.com)讯:佑驾创新(2431.HK)拟以2500万元收购通图科技50%股权,其中2000万元以每股9.81港元发行股份支付。目标公司主营智能无人车运营,卖方系中通关联实体,交易有助集团加速L4自动驾驶在智慧物流领域商业化。...",
-      "source": "Fx168News",
-      "date": "2026-05-29",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1037494"
-    },
-    {
-      "id": "https://news.seehua.com/post/1492104",
-      "title": "女子骑摩哆返家遭追尾撞飞 肇祸司机无牌驾驶路税过期",
-      "summary": "(新山29日讯)一名在新加坡工作的女子,凌晨下班骑摩哆返回新山途中,遭到一辆从后方驶来的第二国产车迈威轿车猛烈 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-29",
-      "url": "https://news.seehua.com/post/1492104"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1037479",
-      "title": "16.99万元起,领克10+和领克10正式上市,以全维实力重塑中大型运动纯电体验-FX168",
-      "summary": "【2026年5月29日,上海】作为领克面向中大型运动纯电轿车市场打造的重磅产品,领克10+和领克10正式上市发售。以纯粹运动造型、进阶三电技术、人车合一底盘调校、全维智能科技与超纲安全体系,回应用户对高品质运动纯电的更高期待。领克10共推出3个版型,领克10 701长...",
-      "source": "Fx168News",
-      "date": "2026-05-29",
-      "url": "https://www.fx168news.com/article/1037479"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-29/10631169.shtml",
-      "title": "2026世界智能产业博览会|聚“智”谋发展,让世界共享智能新机遇",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3393653",
+      "title": "华金证券:6月A股继续震荡偏强 科技主线不变",
       "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-05-29",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-29/10631169.shtml"
+      "source": "Investing_Cn",
+      "date": "2026-05-30",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3393653"
     },
     {
-      "id": "https://www.fx168news.com/article/1037475",
-      "title": "九号2026新品发布会:4款硬核产品重磅亮相 重新定义“好车标准”-FX168",
-      "summary": "5月29日,九号公司2026新品发布会在线上直播举行,一口气连发四款全新车型——N1、M1、全新M3以及Fz5,并正式官宣N1无畏契约联名款。这是九号电动车在智能两轮电动车领域,今年阵容最强大的一次新产品发布,也被视为倡导行业回归“好车本质”的宣言,用更扎实的底盘...",
-      "source": "Fx168News",
-      "date": "2026-05-29",
-      "url": "https://www.fx168news.com/article/1037475"
+      "id": "https://news.seehua.com/post/1492556",
+      "title": "云顶下山路段两旅游巴士与SUV相撞 巴士翻覆7外国游客受轻伤",
+      "summary": "(文冬30日讯)云顶高原下山路段今日傍晚发生涉及两辆旅游巴士及一辆多用途休旅车的交通事故,其中一辆旅游巴士翻覆 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-30",
+      "url": "https://news.seehua.com/post/1492556"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0529/234594.shtml",
-      "title": "面向科技与未来 一汽丰田精彩亮相粤港澳大湾区车展",
-      "summary": "5月29日,2026第三十届粤港澳大湾区车展正式拉开帷幕,一汽丰田携旗下全新荣放、bZ3智享家、bZ5、普拉多、格瑞维亚、亚洲龙、卡罗拉、卡罗拉锐放、皇冠陆放、全新皇冠等全系产品精彩亮相,充分展现了多元化的产品矩阵和面向未来的智电体系实力。 深圳是一汽丰田的销售重点区域,这里的用户热爱一汽丰田,而一汽丰田也始终在以最大的诚意回馈用户的厚爱。本次深圳车展,除了常规布展外,一汽丰田就特别打造了体验感十...",
-      "source": "Imobile",
-      "date": "2026-05-29",
-      "url": "http://news.imobile.com.cn/articles/2026/0529/234594.shtml"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3393647",
+      "title": "原奶行业回温:周期拐点将至 牧场的春天还有多远?",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-30",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3393647"
     },
     {
-      "id": "https://news.cri.cn/20260529/58f9e106-e974-5aea-cea7-8ef1ce2513ee.html",
-      "title": "2026世界智能产业博览会|聚“智”谋发展,让世界共享智能新机遇-国际在线",
-      "summary": "——2026世界智能产业博览会系列网评之二 5月28日,以“智行天下能动未来”为主题的2026世界智能产业博览会在天津拉开帷幕。作为世界智能大会与中国国际智能产业博览会合并更名后成功举办...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3393646",
+      "title": "新股前瞻|四大红利助推业绩释放加速,北京君正(300223.SZ)赴港能否重新定价“稀缺性”?",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-30",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3393646"
+    },
+    {
+      "id": "https://cn.investing.com/news/economy-news/article-3393652",
+      "title": "中国警告:若欧盟实施新贸易限制措施,将采取反制行动",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-30",
+      "url": "https://cn.investing.com/news/economy-news/article-3393652"
+    },
+    {
+      "id": "https://news.cri.cn/20260530/57fc84c4-25cc-4e50-8d65-0b307f65f6ea.html",
+      "title": "德国市长:自动驾驶将彻底改变历史名城的交通格局-国际在线",
+      "summary": "当历史悠久的欧洲老城遭遇现代交通拥堵,解药在哪里?德国施特拉尔松德市市长亚历山大·巴德罗表示,汽车自动驾驶技术的飞速进步将深刻重塑未来的城市交通面貌,为历史城区提供全新的出行可能。...",
       "source": "Cri_Cn",
-      "date": "2026-05-29",
-      "url": "https://news.cri.cn/20260529/58f9e106-e974-5aea-cea7-8ef1ce2513ee.html"
+      "date": "2026-05-30",
+      "url": "https://news.cri.cn/20260530/57fc84c4-25cc-4e50-8d65-0b307f65f6ea.html"
     },
     {
-      "id": "https://news.cri.cn/20260529/8555e47a-41ab-872c-7c5b-5161a60f2708.html",
-      "title": "千里援疆路上的多项创新-国际在线",
-      "summary": "【情满天山援疆印记】 天山网-新疆日报记者魏永贵 5月24日清晨,哈密市伊吾县,晨光刚漫过县城,一辆氢能公交车平稳驶出停车场。 车厢里欢声笑语。伊吾县伊顺公共交通服务有限责任公司驾驶员乌斯曼·条良手握方向盘,稳稳地驾...",
-      "source": "Cri_Cn",
-      "date": "2026-05-29",
-      "url": "https://news.cri.cn/20260529/8555e47a-41ab-872c-7c5b-5161a60f2708.html"
+      "id": "https://cn.investing.com/news/investment-ideas/article-93CH-3393645",
+      "title": "公允价值模型发现投资良机,Algoma Steel大涨63%",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-30",
+      "url": "https://cn.investing.com/news/investment-ideas/article-93CH-3393645"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780139636168422.html",
+      "title": "渔船沉没大堡礁,中国货轮深夜营救两人一狗获澳方致谢",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-30",
+      "url": "https://www.bjnews.com.cn/detail/1780139636168422.html"
+    },
+    {
+      "id": "https://www.mixvale.com.br/2026/05/30/%E4%B9%98%E5%AE%A2%E8%AF%95%E5%9B%BE%E9%97%AF%E5%85%A5%E9%A9%BE%E9%A9%B6%E8%88%B1%EF%BC%8C%E8%BF%AB%E4%BD%BF%E7%BE%8E%E8%81%94%E8%88%AA%E8%88%AA%E7%8F%AD%E6%94%B9%E9%81%93%E9%A3%9E%E5%BE%80%E9%BA%A6-z/",
+      "title": "乘客试图闯入驾驶舱,迫使美联航航班改道飞往麦迪逊",
+      "summary": "周五晚上,联合航空一架从芝加哥飞往明尼阿波利斯-圣保罗的航班改道飞往威斯康星州麦迪逊市的戴恩县地区机场。事件发生在一名乘客试图闯入飞机驾驶舱后。机场的录音表明机上情况的严重性。 飞行路线的中断动员了麦迪逊机场的联邦和地方当局。位于麦迪逊的联邦调查局驻地机构与执法合作伙伴对该事件迅速做出反应,确保其他乘客和机组人员的安全。该航空公司将该事件描述为“与不守规矩的乘客有关的安全问题”。 2005 年联合...",
+      "source": "Mixvale",
+      "date": "2026-05-30",
+      "url": "https://www.mixvale.com.br/2026/05/30/%E4%B9%98%E5%AE%A2%E8%AF%95%E5%9B%BE%E9%97%AF%E5%85%A5%E9%A9%BE%E9%A9%B6%E8%88%B1%EF%BC%8C%E8%BF%AB%E4%BD%BF%E7%BE%8E%E8%81%94%E8%88%AA%E8%88%AA%E7%8F%AD%E6%94%B9%E9%81%93%E9%A3%9E%E5%BE%80%E9%BA%A6-z/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03e3n0r/",
+      "title": "特斯拉纯视觉VS百度多传感器,谁才是你该选的无人驾驶出租车?",
+      "summary": "2026年5月,无人驾驶出租车(Robotaxi)已从概念走向现实。特斯拉Cybercab于4月正式量产,而百度“萝卜快跑”早在2022年就开启全无人商业化运营。面对这两款代表中美技术路线的主流产品,许多用户陷入选择困境:是相信特斯拉的纯视觉AI潜力,还......",
+      "source": "Smzdm",
+      "date": "2026-05-30",
+      "url": "https://post.smzdm.com/p/a03e3n0r/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a95z5vz5/",
+      "title": "2026无人机还能飞吗?一文说清禁飞新规与避坑指南",
+      "summary": "2026年5月30日,无人机早已不是“买来就能飞”的玩具。随着《民用无人驾驶航空器实名登记和激活要求》《民用无人驾驶航空器系统运行识别规范》两项强制性国家标准于5月1日正式实施,叠加2026年1月1日生效的新《治安管理处罚法》,全国无人机监管进入“史上最......",
+      "source": "Smzdm",
+      "date": "2026-05-30",
+      "url": "https://post.smzdm.com/p/a95z5vz5/"
+    },
+    {
+      "id": "https://www.ithome.com/0/957/662.htm",
+      "title": "2026 款吉利牛仔上市:新增“武士黑”配色,限时 7.59 万-8.49 万元",
+      "summary": "IT之家 5 月 30 日消息,2026 款吉利牛仔今晚正式上市,新车提供寻川版、逐岳版、观野版三种不同配置,指导价区间为 8.19 万-9.09 万元, 限时优享价为 7.59 万-8.49 万元 。 IT之家从官方介绍获悉,新车外观基本沿用现款车型设计,提供全新“武士黑”车色,更显跨界硬派风格。其拥有大尺寸保险杠和下包围、车顶行李架、探照灯组,采用越野 AT 胎,并配有“小书包”储物空间。其长...",
+      "source": "Ithome",
+      "date": "2026-05-30",
+      "url": "https://www.ithome.com/0/957/662.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3393644",
+      "title": "Immunome公布韦加西司他治疗硬纤维瘤的三期临床试验结果",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-30",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3393644"
+    },
+    {
+      "id": "https://cn.investing.com/news/investment-ideas/article-93CH-3393643",
+      "title": "InvestingPro模型提前六个月预警Mirion Technologies股价暴跌38%",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-05-30",
+      "url": "https://cn.investing.com/news/investment-ideas/article-93CH-3393643"
     },
     {
       "id": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
