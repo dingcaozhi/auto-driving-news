@@ -1,15 +1,17 @@
 {
-  "lastUpdated": "2026-05-31 04:40:01",
+  "lastUpdated": "2026-06-01 05:01:22",
   "totalCount": 27,
   "sources": {
-    "Imobile": 1,
-    "Bjnews": 3,
-    "Investing_Cn": 7,
-    "News_Seehua": 1,
+    "Orientaldaily": 3,
+    "Ithome": 3,
+    "Vietnamplus": 1,
+    "Jiemian": 3,
+    "Smzdm": 1,
+    "Bjnews": 1,
+    "News_Seehua": 2,
+    "Eeo": 1,
+    "News_Baidu": 1,
     "Cri_Cn": 1,
-    "Mixvale": 1,
-    "Smzdm": 2,
-    "Ithome": 1,
     "TechCrunch": 1,
     "Morningstar": 1,
     "WJLA": 1,
@@ -23,140 +25,140 @@
   },
   "news": [
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0530/234602.shtml",
-      "title": "顶流集结,奕境X9定义家庭“智慧出行”新标杆",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-05-30",
-      "url": "http://news.imobile.com.cn/articles/2026/0530/234602.shtml"
+      "id": "https://www.orientaldaily.com.my/news/north/2026/05/31/822616",
+      "title": "独自出门后失联 69岁华裔老翁被发现毙命车内",
+      "summary": "(槟城31日讯)槟岛再发生车内命案,一名69岁华裔老翁今早独自驾车外出后突然失联,家属苦寻约12小时无果,最终在海客园一带寻获其轿车时,惊见老翁已倒毙在驾驶座上。死者为王文生,生前居住在乔治市一带。据了解,死者今早约8时独自驾车离家后便失去联络,家人多次尝试联系未果,担心发生意外,于傍晚约6时透过治安队协助发布寻人消息,希望公众协助寻找下落。不料,寻人启事发布后约一小时,即有民众在海客园一带发现一...",
+      "source": "Orientaldaily",
+      "date": "2026-05-31",
+      "url": "https://www.orientaldaily.com.my/news/north/2026/05/31/822616"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780145442129668.html",
-      "title": "北京全力建设人工智能第一城,“科幻场景已成为市民生活日常”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-30",
-      "url": "https://www.bjnews.com.cn/detail/1780145442129668.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780058270129179.html",
-      "title": "从焊接电子琴到无人驾驶小车,北京联合大学应用科技学院校园文化周亮出“硬核”技能",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-30",
-      "url": "https://www.bjnews.com.cn/detail/1780058270129179.html"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3393653",
-      "title": "华金证券:6月A股继续震荡偏强 科技主线不变",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-30",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3393653"
-    },
-    {
-      "id": "https://news.seehua.com/post/1492556",
-      "title": "云顶下山路段两旅游巴士与SUV相撞 巴士翻覆7外国游客受轻伤",
-      "summary": "(文冬30日讯)云顶高原下山路段今日傍晚发生涉及两辆旅游巴士及一辆多用途休旅车的交通事故,其中一辆旅游巴士翻覆 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-30",
-      "url": "https://news.seehua.com/post/1492556"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3393647",
-      "title": "原奶行业回温:周期拐点将至 牧场的春天还有多远?",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-30",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3393647"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3393646",
-      "title": "新股前瞻|四大红利助推业绩释放加速,北京君正(300223.SZ)赴港能否重新定价“稀缺性”?",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-30",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3393646"
-    },
-    {
-      "id": "https://cn.investing.com/news/economy-news/article-3393652",
-      "title": "中国警告:若欧盟实施新贸易限制措施,将采取反制行动",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-30",
-      "url": "https://cn.investing.com/news/economy-news/article-3393652"
-    },
-    {
-      "id": "https://news.cri.cn/20260530/57fc84c4-25cc-4e50-8d65-0b307f65f6ea.html",
-      "title": "德国市长:自动驾驶将彻底改变历史名城的交通格局-国际在线",
-      "summary": "当历史悠久的欧洲老城遭遇现代交通拥堵,解药在哪里?德国施特拉尔松德市市长亚历山大·巴德罗表示,汽车自动驾驶技术的飞速进步将深刻重塑未来的城市交通面貌,为历史城区提供全新的出行可能。...",
-      "source": "Cri_Cn",
-      "date": "2026-05-30",
-      "url": "https://news.cri.cn/20260530/57fc84c4-25cc-4e50-8d65-0b307f65f6ea.html"
-    },
-    {
-      "id": "https://cn.investing.com/news/investment-ideas/article-93CH-3393645",
-      "title": "公允价值模型发现投资良机,Algoma Steel大涨63%",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-30",
-      "url": "https://cn.investing.com/news/investment-ideas/article-93CH-3393645"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780139636168422.html",
-      "title": "渔船沉没大堡礁,中国货轮深夜营救两人一狗获澳方致谢",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-05-30",
-      "url": "https://www.bjnews.com.cn/detail/1780139636168422.html"
-    },
-    {
-      "id": "https://www.mixvale.com.br/2026/05/30/%E4%B9%98%E5%AE%A2%E8%AF%95%E5%9B%BE%E9%97%AF%E5%85%A5%E9%A9%BE%E9%A9%B6%E8%88%B1%EF%BC%8C%E8%BF%AB%E4%BD%BF%E7%BE%8E%E8%81%94%E8%88%AA%E8%88%AA%E7%8F%AD%E6%94%B9%E9%81%93%E9%A3%9E%E5%BE%80%E9%BA%A6-z/",
-      "title": "乘客试图闯入驾驶舱,迫使美联航航班改道飞往麦迪逊",
-      "summary": "周五晚上,联合航空一架从芝加哥飞往明尼阿波利斯-圣保罗的航班改道飞往威斯康星州麦迪逊市的戴恩县地区机场。事件发生在一名乘客试图闯入飞机驾驶舱后。机场的录音表明机上情况的严重性。 飞行路线的中断动员了麦迪逊机场的联邦和地方当局。位于麦迪逊的联邦调查局驻地机构与执法合作伙伴对该事件迅速做出反应,确保其他乘客和机组人员的安全。该航空公司将该事件描述为“与不守规矩的乘客有关的安全问题”。 2005 年联合...",
-      "source": "Mixvale",
-      "date": "2026-05-30",
-      "url": "https://www.mixvale.com.br/2026/05/30/%E4%B9%98%E5%AE%A2%E8%AF%95%E5%9B%BE%E9%97%AF%E5%85%A5%E9%A9%BE%E9%A9%B6%E8%88%B1%EF%BC%8C%E8%BF%AB%E4%BD%BF%E7%BE%8E%E8%81%94%E8%88%AA%E8%88%AA%E7%8F%AD%E6%94%B9%E9%81%93%E9%A3%9E%E5%BE%80%E9%BA%A6-z/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03e3n0r/",
-      "title": "特斯拉纯视觉VS百度多传感器,谁才是你该选的无人驾驶出租车?",
-      "summary": "2026年5月,无人驾驶出租车(Robotaxi)已从概念走向现实。特斯拉Cybercab于4月正式量产,而百度“萝卜快跑”早在2022年就开启全无人商业化运营。面对这两款代表中美技术路线的主流产品,许多用户陷入选择困境:是相信特斯拉的纯视觉AI潜力,还......",
-      "source": "Smzdm",
-      "date": "2026-05-30",
-      "url": "https://post.smzdm.com/p/a03e3n0r/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a95z5vz5/",
-      "title": "2026无人机还能飞吗?一文说清禁飞新规与避坑指南",
-      "summary": "2026年5月30日,无人机早已不是“买来就能飞”的玩具。随着《民用无人驾驶航空器实名登记和激活要求》《民用无人驾驶航空器系统运行识别规范》两项强制性国家标准于5月1日正式实施,叠加2026年1月1日生效的新《治安管理处罚法》,全国无人机监管进入“史上最......",
-      "source": "Smzdm",
-      "date": "2026-05-30",
-      "url": "https://post.smzdm.com/p/a95z5vz5/"
-    },
-    {
-      "id": "https://www.ithome.com/0/957/662.htm",
-      "title": "2026 款吉利牛仔上市:新增“武士黑”配色,限时 7.59 万-8.49 万元",
-      "summary": "IT之家 5 月 30 日消息,2026 款吉利牛仔今晚正式上市,新车提供寻川版、逐岳版、观野版三种不同配置,指导价区间为 8.19 万-9.09 万元, 限时优享价为 7.59 万-8.49 万元 。 IT之家从官方介绍获悉,新车外观基本沿用现款车型设计,提供全新“武士黑”车色,更显跨界硬派风格。其拥有大尺寸保险杠和下包围、车顶行李架、探照灯组,采用越野 AT 胎,并配有“小书包”储物空间。其长...",
+      "id": "https://www.ithome.com/0/957/896.htm",
+      "title": "《极限竞速:地平线 6》中赛车可肆意碾压水稻田,日本玩家破防",
+      "summary": "IT之家 5 月 31 日消息,《极限竞速:地平线 6》于 2026 年 5 月 19 日正式登陆 Xbox Series X|S 和 PC 平台,PS5 版本则计划在年内晚些时候推出。 这是该系列首次将开放世界舞台设定在日本,地图规模为系列之最,涵盖东京霓虹街区、富士山脚蜿蜒山路、古色古香的寺庙区域以及四季更迭的乡村田园。 游戏发售后收获媒体一致好评,在 Metacritic 上斩获 92 分的...",
       "source": "Ithome",
-      "date": "2026-05-30",
-      "url": "https://www.ithome.com/0/957/662.htm"
+      "date": "2026-05-31",
+      "url": "https://www.ithome.com/0/957/896.htm"
     },
     {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3393644",
-      "title": "Immunome公布韦加西司他治疗硬纤维瘤的三期临床试验结果",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-30",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3393644"
+      "id": "https://zh.vietnamplus.vn/article-post261266.vnp",
+      "title": "越共中央总书记、国家主席苏林在菲律宾会见部分组织和企业领导人",
+      "summary": "越通社特派记者报道,在对菲律宾进行国事访问期间,当地时间5月31日下午,越共中央总书记、国家主席苏林会见了在菲律宾的部分组织和企业领导人。 越共中央总书记、国家主席苏林会见驻菲律宾大使馆工作人员及旅菲越侨代表 越共中央总书记、国家主席苏林在菲律宾向胡志明主席雕像敬献花圈 越共中央总书记、国家主席苏林和夫人抵达马尼拉 开始对菲律宾的国事访问...",
+      "source": "Vietnamplus",
+      "date": "2026-05-31",
+      "url": "https://zh.vietnamplus.vn/article-post261266.vnp"
     },
     {
-      "id": "https://cn.investing.com/news/investment-ideas/article-93CH-3393643",
-      "title": "InvestingPro模型提前六个月预警Mirion Technologies股价暴跌38%",
+      "id": "https://www.jiemian.com/article/14510124.html",
+      "title": "造车新势力一季报折射消费偏好改变,纯电重回高端SUV主场",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-05-30",
-      "url": "https://cn.investing.com/news/investment-ideas/article-93CH-3393643"
+      "source": "Jiemian",
+      "date": "2026-05-31",
+      "url": "https://www.jiemian.com/article/14510124.html"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14509361.html",
+      "title": "比亚迪想靠自研的智驾芯片,补上智能化下半场的课",
+      "summary": "比亚迪已经把智能化推向战略高度。它能否像当年普及DM混动技术一样,取决于这些智能化功能可否变成用户日常感知的体验优势。...",
+      "source": "Jiemian",
+      "date": "2026-05-31",
+      "url": "https://www.jiemian.com/article/14509361.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al3grze8/",
+      "title": "智能驾驶路线之争:跳过L3直攻L4成行业热议焦点",
+      "summary": "01智能驾驶路线分歧:跳过L3直攻L4成行业热议焦点近两年智能驾驶技术迭代速度超出市场预期,原本行业普遍遵循的“L2→L3→L4”渐进式发展路线正遭遇挑战。小鹏、英伟达、比亚迪等多家头部企业先后宣布将跳过L3阶段直接布局L4级自动驾驶,而华为、长安等企业......",
+      "source": "Smzdm",
+      "date": "2026-05-31",
+      "url": "https://post.smzdm.com/p/al3grze8/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780219992129964.html",
+      "title": "沃尔沃EX90 & 沃尔沃ES90正式上市",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-31",
+      "url": "https://www.bjnews.com.cn/detail/1780219992129964.html"
+    },
+    {
+      "id": "https://news.seehua.com/post/1492753",
+      "title": "【玛丽娜退出政坛】 前上司郑凯聪:尊重她的决定",
+      "summary": "(新山31日讯) 行动党士姑来州议员玛丽娜突宣布退出政坛,前上司兼行动党柔州政治教育主任郑凯聪在面子书发文,回 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-31",
+      "url": "https://news.seehua.com/post/1492753"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0531/897691.shtml",
+      "title": "天瞳威视二次递表港交所:L4高增L2缩水,海外业务明显回落",
+      "summary": "天瞳威视此次冲刺港股IPO,募集资金拟重点投向城市NOA和高速NOA技术提升,优化L4级自动驾驶解决方案,在海外建立办事处和运维团队,以及在河北唐山建厂。...",
+      "source": "Eeo",
+      "date": "2026-05-31",
+      "url": "http://www.eeo.com.cn/2026/0531/897691.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/05/31/822607",
+      "title": "超车不遂撞反向摩哆 2青年骑士伤重身亡",
+      "summary": "(新山31日讯)一名22岁青年骑乘摩哆时,疑尝试超越前方轿车未果,迎面撞及反方向车道的另一辆摩哆后再遭轿车复撞,最终造成两名骑士双双重伤不治。斯里亚南警区主任莫哈末索海米今日发出文告证实,上述事故是在昨晚9时15分许,在地不佬垦殖区往双溪地南路段发生,并涉及两辆摩哆以及一辆第二国产迈薇轿车。初步调查显示,一名22岁男子骑乘雅马哈Ego Avantiz摩哆,从乌鲁地南市区前往乌鲁地不佬垦殖区途中,途...",
+      "source": "Orientaldaily",
+      "date": "2026-05-31",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/05/31/822607"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/05/31/822527",
+      "title": "取缔街头飙车开209罚单 森警方充公19摩哆捕4男",
+      "summary": "(芙蓉31日讯)警方昨晚起在森州新那旺1路(Jalan Persiaran Senawang 1)展开“摩哆综合取缔行动”(Ops Bersepadu Motosikal),针对交通工具及个人涉及的各类违规行为,共开出209张罚单。芙蓉警区主任莫哈末雅丁表示,在昨晚10时开始,历时超过6小时的行动中,警方共进行了322检查结果,并联合多个执法机构,重点针对涉嫌成为街头飙车活动据点的地区展开执法。他...",
+      "source": "Orientaldaily",
+      "date": "2026-05-31",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/05/31/822527"
+    },
+    {
+      "id": "https://news.seehua.com/post/1492695",
+      "title": "美里警方展开“醉驾行动” 25张罚单开出 1男子涉酒驾被捕",
+      "summary": "(美里31日讯)美里警方持续严打酒后驾驶及各类交通违法行为,在日前展开的“醉驾行动”中,共发出25张交通罚单, [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-31",
+      "url": "https://news.seehua.com/post/1492695"
+    },
+    {
+      "id": "https://www.ithome.com/0/957/802.htm",
+      "title": "比亚迪城市领航兜底首例赔付落地:24 小时内完成技术判定,腾势 Z9GT 事故获确认",
+      "summary": "IT之家 5 月 31 日消息,比亚迪董事长兼总裁王传福在 5 月 28 日晚的发布会上宣布,比亚迪在继智能泊车安全兜底后,再次率先承诺为城市领航安全兜底 1 年。 5 月 29 日晚间,即比亚迪宣布城市领航安全兜底政策的第二天,腾势 Z9GT 车主“娜妮可真星”在小红书上发帖称,自己开启城市领航功能后发生了一起交通事故。 据介绍,该车为今年 3 月上市的腾势 Z9GT 闪充版,事故前已升级至天神...",
+      "source": "Ithome",
+      "date": "2026-05-31",
+      "url": "https://www.ithome.com/0/957/802.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/957/788.htm",
+      "title": "奕境曾清林谈辅助驾驶“智驾险”和“兜底承诺”差异,点赞比亚迪城市领航兜底“独一无二”",
+      "summary": "IT之家 5 月 31 日消息,奕境汽车品牌总经理曾清林在 5 月 29 日凌晨发文谈及了汽车辅助驾驶的“智驾险”。他表示, 华为的乾崑智驾应该是行业最先做的 ,搭载华为乾崑智驾的各品牌(比如鸿蒙智行和岚图等),也是行业最先赠送免费一年的智驾险的。 但最初,他并未理清辅助驾驶“智驾险”和“兜底承诺”之间的差异,误以为比亚迪的“兜底承诺”也是一种免费的一年智驾险,从而引发争议。随后,他也在自己的微博...",
+      "source": "Ithome",
+      "date": "2026-05-31",
+      "url": "https://www.ithome.com/0/957/788.htm"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14510185.html",
+      "title": "一周新车盘点|宋Ultra DM-i引入城市领航兜底 领克10+提供925马力输出",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-05-31",
+      "url": "https://www.jiemian.com/article/14510185.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863963962080283058",
+      "title": "以“契约”为主题亮相北京车展,长城汽车力促“生态出..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-05-31",
+      "url": "http://baijiahao.baidu.com/s?id=1863963962080283058"
+    },
+    {
+      "id": "https://news.cri.cn/20260531/d0ce34e4-87d4-4af3-8300-1d5cf41a0564.html",
+      "title": "科技未来照进现实 生活温度更有“智”感-国际在线",
+      "summary": "央广网天津5月31日消息(记者周思杨见习记者杨辉实习记者路婧纯蔺子贤)当机器人烹制烟火三餐、AI眼镜重构学习场景、全屋智能实现“无人家务”、智慧康养守护全龄健康......5月28日,记者在天津举办的2026世界智能产业博览会上看到,前沿科技褪...",
+      "source": "Cri_Cn",
+      "date": "2026-05-31",
+      "url": "https://news.cri.cn/20260531/d0ce34e4-87d4-4af3-8300-1d5cf41a0564.html"
     },
     {
       "id": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
