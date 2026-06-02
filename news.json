@@ -1,244 +1,269 @@
 {
-  "lastUpdated": "2026-06-01 05:01:22",
-  "totalCount": 27,
+  "lastUpdated": "2026-06-02 04:48:00",
+  "totalCount": 38,
   "sources": {
-    "Orientaldaily": 3,
+    "Bilibili": 5,
+    "Bjnews": 5,
     "Ithome": 3,
-    "Vietnamplus": 1,
-    "Jiemian": 3,
-    "Smzdm": 1,
-    "Bjnews": 1,
-    "News_Seehua": 2,
-    "Eeo": 1,
-    "News_Baidu": 1,
-    "Cri_Cn": 1,
+    "Orientaldaily": 1,
+    "Investing_Cn": 1,
+    "Prnasia": 1,
+    "Chinanews": 5,
+    "Fx168News": 1,
+    "Theportugalnews": 1,
+    "Smzdm": 2,
+    "Cnblogs": 2,
+    "Epochtimes": 1,
+    "Firstpost": 1,
+    "The Manila Times": 1,
+    "MarketScreener": 2,
+    "South China Morning Post": 1,
     "TechCrunch": 1,
     "Morningstar": 1,
     "WJLA": 1,
-    "MarketScreener": 1,
     "Los Angeles Times": 1,
-    "Devdiscourse": 1,
-    "Seeking Alpha": 1,
-    "PR Newswire UK": 1,
-    "The Manila Times": 1,
-    "Barchart": 1
+    "Devdiscourse": 1
   },
   "news": [
     {
-      "id": "https://www.orientaldaily.com.my/news/north/2026/05/31/822616",
-      "title": "独自出门后失联 69岁华裔老翁被发现毙命车内",
-      "summary": "(槟城31日讯)槟岛再发生车内命案,一名69岁华裔老翁今早独自驾车外出后突然失联,家属苦寻约12小时无果,最终在海客园一带寻获其轿车时,惊见老翁已倒毙在驾驶座上。死者为王文生,生前居住在乔治市一带。据了解,死者今早约8时独自驾车离家后便失去联络,家人多次尝试联系未果,担心发生意外,于傍晚约6时透过治安队协助发布寻人消息,希望公众协助寻找下落。不料,寻人启事发布后约一小时,即有民众在海客园一带发现一...",
-      "source": "Orientaldaily",
-      "date": "2026-05-31",
-      "url": "https://www.orientaldaily.com.my/news/north/2026/05/31/822616"
+      "id": "https://www.bilibili.com/video/BV1DqVn6yEBG",
+      "title": "【B站】自动驾驶最要命的路口，谁能让你活下来？",
+      "summary": "视频原创者@大胡L5...",
+      "source": "Bilibili",
+      "date": "2026-06-02",
+      "url": "https://www.bilibili.com/video/BV1DqVn6yEBG"
     },
     {
-      "id": "https://www.ithome.com/0/957/896.htm",
-      "title": "《极限竞速:地平线 6》中赛车可肆意碾压水稻田,日本玩家破防",
-      "summary": "IT之家 5 月 31 日消息,《极限竞速:地平线 6》于 2026 年 5 月 19 日正式登陆 Xbox Series X|S 和 PC 平台,PS5 版本则计划在年内晚些时候推出。 这是该系列首次将开放世界舞台设定在日本,地图规模为系列之最,涵盖东京霓虹街区、富士山脚蜿蜒山路、古色古香的寺庙区域以及四季更迭的乡村田园。 游戏发售后收获媒体一致好评,在 Metacritic 上斩获 92 分的...",
-      "source": "Ithome",
-      "date": "2026-05-31",
-      "url": "https://www.ithome.com/0/957/896.htm"
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-06-02",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "https://zh.vietnamplus.vn/article-post261266.vnp",
-      "title": "越共中央总书记、国家主席苏林在菲律宾会见部分组织和企业领导人",
-      "summary": "越通社特派记者报道,在对菲律宾进行国事访问期间,当地时间5月31日下午,越共中央总书记、国家主席苏林会见了在菲律宾的部分组织和企业领导人。 越共中央总书记、国家主席苏林会见驻菲律宾大使馆工作人员及旅菲越侨代表 越共中央总书记、国家主席苏林在菲律宾向胡志明主席雕像敬献花圈 越共中央总书记、国家主席苏林和夫人抵达马尼拉 开始对菲律宾的国事访问...",
-      "source": "Vietnamplus",
-      "date": "2026-05-31",
-      "url": "https://zh.vietnamplus.vn/article-post261266.vnp"
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-06-02",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.jiemian.com/article/14510124.html",
-      "title": "造车新势力一季报折射消费偏好改变,纯电重回高端SUV主场",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-05-31",
-      "url": "https://www.jiemian.com/article/14510124.html"
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-02",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
-      "id": "https://www.jiemian.com/article/14509361.html",
-      "title": "比亚迪想靠自研的智驾芯片,补上智能化下半场的课",
-      "summary": "比亚迪已经把智能化推向战略高度。它能否像当年普及DM混动技术一样,取决于这些智能化功能可否变成用户日常感知的体验优势。...",
-      "source": "Jiemian",
-      "date": "2026-05-31",
-      "url": "https://www.jiemian.com/article/14509361.html"
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-02",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "https://post.smzdm.com/p/al3grze8/",
-      "title": "智能驾驶路线之争:跳过L3直攻L4成行业热议焦点",
-      "summary": "01智能驾驶路线分歧:跳过L3直攻L4成行业热议焦点近两年智能驾驶技术迭代速度超出市场预期,原本行业普遍遵循的“L2→L3→L4”渐进式发展路线正遭遇挑战。小鹏、英伟达、比亚迪等多家头部企业先后宣布将跳过L3阶段直接布局L4级自动驾驶,而华为、长安等企业......",
-      "source": "Smzdm",
-      "date": "2026-05-31",
-      "url": "https://post.smzdm.com/p/al3grze8/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780219992129964.html",
-      "title": "沃尔沃EX90 & 沃尔沃ES90正式上市",
+      "id": "https://www.bjnews.com.cn/detail/1780320143129796.html",
+      "title": "某综艺节目里嘉宾乘车时安全带均为后期P图 公安部交管局发布提醒",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-31",
-      "url": "https://www.bjnews.com.cn/detail/1780219992129964.html"
+      "date": "2026-06-01",
+      "url": "https://www.bjnews.com.cn/detail/1780320143129796.html"
     },
     {
-      "id": "https://news.seehua.com/post/1492753",
-      "title": "【玛丽娜退出政坛】 前上司郑凯聪:尊重她的决定",
-      "summary": "(新山31日讯) 行动党士姑来州议员玛丽娜突宣布退出政坛,前上司兼行动党柔州政治教育主任郑凯聪在面子书发文,回 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-31",
-      "url": "https://news.seehua.com/post/1492753"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0531/897691.shtml",
-      "title": "天瞳威视二次递表港交所:L4高增L2缩水,海外业务明显回落",
-      "summary": "天瞳威视此次冲刺港股IPO,募集资金拟重点投向城市NOA和高速NOA技术提升,优化L4级自动驾驶解决方案,在海外建立办事处和运维团队,以及在河北唐山建厂。...",
-      "source": "Eeo",
-      "date": "2026-05-31",
-      "url": "http://www.eeo.com.cn/2026/0531/897691.shtml"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/05/31/822607",
-      "title": "超车不遂撞反向摩哆 2青年骑士伤重身亡",
-      "summary": "(新山31日讯)一名22岁青年骑乘摩哆时,疑尝试超越前方轿车未果,迎面撞及反方向车道的另一辆摩哆后再遭轿车复撞,最终造成两名骑士双双重伤不治。斯里亚南警区主任莫哈末索海米今日发出文告证实,上述事故是在昨晚9时15分许,在地不佬垦殖区往双溪地南路段发生,并涉及两辆摩哆以及一辆第二国产迈薇轿车。初步调查显示,一名22岁男子骑乘雅马哈Ego Avantiz摩哆,从乌鲁地南市区前往乌鲁地不佬垦殖区途中,途...",
-      "source": "Orientaldaily",
-      "date": "2026-05-31",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/05/31/822607"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/05/31/822527",
-      "title": "取缔街头飙车开209罚单 森警方充公19摩哆捕4男",
-      "summary": "(芙蓉31日讯)警方昨晚起在森州新那旺1路(Jalan Persiaran Senawang 1)展开“摩哆综合取缔行动”(Ops Bersepadu Motosikal),针对交通工具及个人涉及的各类违规行为,共开出209张罚单。芙蓉警区主任莫哈末雅丁表示,在昨晚10时开始,历时超过6小时的行动中,警方共进行了322检查结果,并联合多个执法机构,重点针对涉嫌成为街头飙车活动据点的地区展开执法。他...",
-      "source": "Orientaldaily",
-      "date": "2026-05-31",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/05/31/822527"
-    },
-    {
-      "id": "https://news.seehua.com/post/1492695",
-      "title": "美里警方展开“醉驾行动” 25张罚单开出 1男子涉酒驾被捕",
-      "summary": "(美里31日讯)美里警方持续严打酒后驾驶及各类交通违法行为,在日前展开的“醉驾行动”中,共发出25张交通罚单, [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-31",
-      "url": "https://news.seehua.com/post/1492695"
-    },
-    {
-      "id": "https://www.ithome.com/0/957/802.htm",
-      "title": "比亚迪城市领航兜底首例赔付落地:24 小时内完成技术判定,腾势 Z9GT 事故获确认",
-      "summary": "IT之家 5 月 31 日消息,比亚迪董事长兼总裁王传福在 5 月 28 日晚的发布会上宣布,比亚迪在继智能泊车安全兜底后,再次率先承诺为城市领航安全兜底 1 年。 5 月 29 日晚间,即比亚迪宣布城市领航安全兜底政策的第二天,腾势 Z9GT 车主“娜妮可真星”在小红书上发帖称,自己开启城市领航功能后发生了一起交通事故。 据介绍,该车为今年 3 月上市的腾势 Z9GT 闪充版,事故前已升级至天神...",
+      "id": "https://www.ithome.com/0/958/436.htm",
+      "title": "长安启源回应“追尾致 3 死事故”:A07 事故车无激光雷达,建议以通报及调查结论为准",
+      "summary": "IT之家 6 月 1 日消息,江西赣州市应急管理局近日公布《赣州瑞金济广高速“10·2”较大道路交通事故调查报告》。2025 年 10 月 2 日 4 时许,在赣州瑞金市境内济广高速公路 1408km+721m 处,一辆小型轿车撞上一辆重型货车,造成一起死亡 3 人的较大道路交通事故。 《报告》显示,10 月 2 日 3 时 59 分 34 秒, 驾驶员主动激活 IACC 功能 (进入智能驾驶辅助...",
       "source": "Ithome",
-      "date": "2026-05-31",
-      "url": "https://www.ithome.com/0/957/802.htm"
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/436.htm"
     },
     {
-      "id": "https://www.ithome.com/0/957/788.htm",
-      "title": "奕境曾清林谈辅助驾驶“智驾险”和“兜底承诺”差异,点赞比亚迪城市领航兜底“独一无二”",
-      "summary": "IT之家 5 月 31 日消息,奕境汽车品牌总经理曾清林在 5 月 29 日凌晨发文谈及了汽车辅助驾驶的“智驾险”。他表示, 华为的乾崑智驾应该是行业最先做的 ,搭载华为乾崑智驾的各品牌(比如鸿蒙智行和岚图等),也是行业最先赠送免费一年的智驾险的。 但最初,他并未理清辅助驾驶“智驾险”和“兜底承诺”之间的差异,误以为比亚迪的“兜底承诺”也是一种免费的一年智驾险,从而引发争议。随后,他也在自己的微博...",
+      "id": "https://www.bjnews.com.cn/detail/1780294526129403.html",
+      "title": "九号2026新品发布会连发4款新车 重新定义“好车标准”",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-01",
+      "url": "https://www.bjnews.com.cn/detail/1780294526129403.html"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/international/2026/06/01/822754",
+      "title": "招不到司机回聘8旬翁 闯红灯撞死2路人后逃逸",
+      "summary": "(东京1日讯)日本爱知县名古屋市一名85岁游泳学校接驳车司机驾驶车辆经过路口时,疑似闯红灯撞上两名路人,造成对方重伤不治。事发后,肇事司机一度离开现场,随后被警方逮捕,并坦承犯行。涉事游泳学校事后回应称,该司机原本已经退休离职,但由于长期招募不到新司机,才重新以兼职形式返聘回岗位,未料最终发生严重事故。日媒报导,这起事故发生于5月29日下午5点。85岁的酒井照驾驶一辆游泳学校接驳巴士行经名古屋市南...",
+      "source": "Orientaldaily",
+      "date": "2026-06-01",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/06/01/822754"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780300082169025.html",
+      "title": "新能源汽车安全隐患排查进行时,动力电池、辅助驾驶是重点",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-01",
+      "url": "https://www.bjnews.com.cn/detail/1780300082169025.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3395348",
+      "title": "美股前瞻 | 三大股指期货齐涨 英伟达(NVDA.US)进军PC芯片市场引爆产业链",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-01",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3395348"
+    },
+    {
+      "id": "https://www.prnasia.com/story/535372-1.shtml",
+      "title": "Mobileye获评沙利文2026全球乘用车ADAS行业年度企业",
+      "summary": "获评沙利文颁发的行业最高殊荣,彰显了 Mobileye 在具有可扩展性的 ADAS 解决方案领域的全球领先市场地位 上海 2026年6月1日 /美通社/ -- Mobileye(纳斯达克股票代码:MBLY)宣布公司荣获弗若斯特沙利文(Frost & Sullivan,以下简称\"沙利文\")2026年度全球乘用车高级驾驶辅助系统(ADAS)行业卓越实践类年度企业。这一殊荣肯定了Mobileye在人工智...",
+      "source": "Prnasia",
+      "date": "2026-06-01",
+      "url": "https://www.prnasia.com/story/535372-1.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/06-01/10632392.shtml",
+      "title": "新疆伊昭公路正式恢复通车",
+      "summary": "中新网新疆察布查尔6月1日电 (张璐 赵金秀)6月1日,素有“小独库”之称的新疆伊昭公路正式恢复季节性通车,贯通伊宁市、察布查尔锡伯自治县(简称“察布查尔县”)至昭苏县的百里景观公路全线迎客。...",
+      "source": "Chinanews",
+      "date": "2026-06-01",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-01/10632392.shtml"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780299686169024.html",
+      "title": "进企业、入校园、守路口,北京顺义警方多维度开展交通安全宣传",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-01",
+      "url": "https://www.bjnews.com.cn/detail/1780299686169024.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1038231",
+      "title": "太平洋:给予比亚迪买入评级-FX168",
+      "summary": "太平洋证券股份有限公司刘虹辰近期对比亚迪进行研究并发布了研究报告《比亚迪的CNOA时刻》,给予比亚迪买入评级。 比亚迪(002594) 事件:比亚迪智能化战略发布会,继智能泊车安全兜底后再次率先承诺为城市领航CNOA安全兜底,开启比亚迪智能化下半场。 比亚迪智能化下半场。比亚迪继智能泊车安全兜底后再次率先承诺为城市领航安全兜底,全球唯一“城市领航+智能泊车”双兜底。比亚迪天神之眼,开创全民城市领航...",
+      "source": "Fx168News",
+      "date": "2026-06-01",
+      "url": "https://www.fx168news.com/article/1038231"
+    },
+    {
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-06-01/a-guide-to-understand-the-rules-new-system-of-iuc-payment-in-portugal/1032273",
+      "title": "了解葡萄牙 IUC 支付新系统规则的指南",
+      "summary": "葡萄牙提醒车主,IUC(Imposto Único de Circulação)的变更尚未实施,目前的支付系统在整个 2026 年仍将完全有效。...",
+      "source": "Theportugalnews",
+      "date": "2026-06-01",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-06-01/a-guide-to-understand-the-rules-new-system-of-iuc-payment-in-portugal/1032273"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/tp/2026/06-01/10632502.shtml",
+      "title": "浙江桐乡:小麦丰收 秸秆变废为宝",
+      "summary": "6月1日,农机手驾驶农机将秸秆打捆回收。眼下,正值三夏时节,浙江桐乡乌镇的万亩麦田进入成熟收获期,抢收与秸秆离田工作同步推进。近年来,当地通过离田、收集、加工、生产等环节,推动秸秆实现肥料化、能源化、饲料化。(无人机照片)中新社记者 孙杨洋 摄 6月1日,农机手驾驶农机将秸秆打捆回收。眼下,正值三夏时节,浙江桐乡乌镇的万亩麦田进入成熟收获期,抢收与秸秆离田工作同步推进。近年来,当地通过离田、收集、...",
+      "source": "Chinanews",
+      "date": "2026-06-01",
+      "url": "https://www.chinanews.com.cn/tp/2026/06-01/10632502.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5r7lzrx/",
+      "title": "在埃及自驾,这些规则不懂等于冒险",
+      "summary": "一、核心风险预判1、三大高危路段黑名单开罗解放广场周边道路禁止驶入,该区域人车混行严重、无明确车道线,摩托车与行人随时横穿,极易引发碰撞。亚历山大港沿海高速极度不推荐通行,横风强烈叠加本地司机普遍超速,小型车辆易失控。西奈半岛北部边境区域严禁自驾进入,不......",
+      "source": "Smzdm",
+      "date": "2026-06-01",
+      "url": "https://post.smzdm.com/p/a5r7lzrx/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780309522129658.html",
+      "title": "“限制网约车司机驾驶时间”是对新规的误读",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-01",
+      "url": "https://www.bjnews.com.cn/detail/1780309522129658.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/tp/2026/06-01/10632380.shtml",
+      "title": "“鲁南粮仓”滕州开镰收麦 田间“铁牛”奔忙",
+      "summary": "图为农机手驾驶收割机在滕州市羊庄镇的麦田里收割小麦。孙杨 摄 图为农机手驾驶收割机在滕州市羊庄镇的麦田里收割小麦。孙杨 摄 图为滕州市羊庄镇农民将收获的小麦装车。(无人机照片)孙杨 摄...",
+      "source": "Chinanews",
+      "date": "2026-06-01",
+      "url": "https://www.chinanews.com.cn/tp/2026/06-01/10632380.shtml"
+    },
+    {
+      "id": "https://www.cnblogs.com/hynews/p/20256409",
+      "title": "2026年6月长沙无人机培训/长沙无人机执照/长沙无人机考证/长沙CAAC无人机培训/长沙CAAC无人机考证专业评估选型指南深度解析值得参考航界低空科技(湖南)有限公司",
+      "summary": "本篇将回答的核心问题 在长沙考取无人机执照,如何选择一家真正靠谱、高效的培训机构? 2026年,长沙无人机培训市场有哪些新变化和值得关注的趋势? 除了基础的考证服务,一家优秀的无人机培训公司还能提供哪些附加价值? 评估一家无人机培训机构的专业度,应该看哪些硬指标? 结论摘要 基于对2026年6月长沙...",
+      "source": "Cnblogs",
+      "date": "2026-06-01",
+      "url": "https://www.cnblogs.com/hynews/p/20256409"
+    },
+    {
+      "id": "https://www.cnblogs.com/hynews/p/20256316",
+      "title": "2026年6月长沙无人机培训/长沙无人机执照/长沙无人机考证/长沙CAAC无人机培训/长沙CAAC无人机考证选型指南实力推荐值得参考航界低空科技(湖南)有限公司",
+      "summary": "随着低空经济被正式确立为国家战略性新兴产业,无人机应用正以前所未有的速度渗透至测绘、安防、农业、文旅、物流等众多领域。专业、合规的无人机驾驶员(飞手)成为市场紧缺人才,选择一家靠谱的培训机构,是踏入这一朝阳行业的第一步。这不仅关乎一本证书的获取,更关系到未来职业发展的根基与安全飞行的保障。在2026...",
+      "source": "Cnblogs",
+      "date": "2026-06-01",
+      "url": "https://www.cnblogs.com/hynews/p/20256316"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axker624/",
+      "title": "2026新规:开太慢竟也违法?高速“龟速车”小心被罚!",
+      "summary": "2026年,随着智能交通系统全面铺开和执法标准细化,“龟速车”已不再是被忽视的驾驶陋习,而是明确列入严管范畴的违法行为。许多谨慎型车主担心:开慢点是不是更安全?会不会因“不敢提速”反而违法?本文基于现行法规、真实事故数据与多地执法实践,从法律合规性、安全......",
+      "source": "Smzdm",
+      "date": "2026-06-01",
+      "url": "https://post.smzdm.com/p/axker624/"
+    },
+    {
+      "id": "https://www.epochtimes.com/b5/26/5/31/n14778999.htm",
+      "title": "中國車傾銷全球 品質短板浮現 各國築高牆",
+      "summary": "2025年4月27日,比亞迪電動車正在等待裝載到「比亞迪深圳號」汽車運輸船上,該船將從中國東部江蘇省蘇州市的太倉港駛往巴西。 (STR/AFP via Getty Images)...",
+      "source": "Epochtimes",
+      "date": "2026-06-01",
+      "url": "https://www.epochtimes.com/b5/26/5/31/n14778999.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/06-01/10632526.shtml",
+      "title": "(乡村行·看振兴)山西临汾近300万亩冬小麦开镰 夏收不停夏播不断",
+      "summary": "中新网临汾6月1日电 (李庭耀 张春茂 尹娜)6月1日,在山西临汾侯马市上马街道办事处西阳呈村、张少村等地的麦田里,一辆辆小麦联合收割机驶入麦田,在金色的麦浪里往返作业,把成熟的麦穗变成金色的麦粒,拉开了临汾市近300万亩冬小麦收获的序幕。...",
+      "source": "Chinanews",
+      "date": "2026-06-01",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-01/10632526.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/958/423.htm",
+      "title": "阿维塔 5 月交付量达 7336 辆,07L 新车官宣首批搭载华为乾崑智驾 ADS 5",
+      "summary": "IT之家 6 月 1 日消息,阿维塔官方微博刚刚宣布, 阿维塔 5 月交付量为 7336 辆 。目前,阿维塔 07L 已亮相工信部公告。据阿维塔官方透露, 这款 新车 将首批搭载华为乾崑智驾 ADS 5 。 另外, 阿维塔汽车已开启 AVATR.OS 5.1.2 系统版本推送 ,主要升级华为乾崑智驾 ADS 4.1.5,新增人驾急弯防御性驾驶、后向 VRU 提前预警等功能。 据IT之家此前报道,工...",
       "source": "Ithome",
-      "date": "2026-05-31",
-      "url": "https://www.ithome.com/0/957/788.htm"
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/423.htm"
     },
     {
-      "id": "https://www.jiemian.com/article/14510185.html",
-      "title": "一周新车盘点|宋Ultra DM-i引入城市领航兜底 领克10+提供925马力输出",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-05-31",
-      "url": "https://www.jiemian.com/article/14510185.html"
+      "id": "https://www.chinanews.com.cn/cj/2026/06-01/10632416.shtml",
+      "title": "上海前瞻布局服务业新兴赛道",
+      "summary": "中新社上海6月1日电 (记者 郑莹莹)“开局起步‘十五五’”系列主题上海市政府新闻发布会于6月1日举行。上海多部门介绍了《上海市服务业发展“十五五”规划》的有关情况。该规划指出,上海前瞻布局服务业新兴赛道,挖掘未来发展新潜力。...",
+      "source": "Chinanews",
+      "date": "2026-06-01",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-01/10632416.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863963962080283058",
-      "title": "以“契约”为主题亮相北京车展,长城汽车力促“生态出..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-05-31",
-      "url": "http://baijiahao.baidu.com/s?id=1863963962080283058"
+      "id": "https://www.ithome.com/0/958/402.htm",
+      "title": "鸿蒙智行焕新升级款尚界 H5 汽车选配信息公开,预售价 16.98 万元起",
+      "summary": "IT之家 6 月 1 日消息,鸿蒙智行尚界汽车已在 5 月底(5 月 28 日)宣布,尚界 H5 焕新升级款正式预售, 预售价 16.98 万元起 。 华为官网目前已公布焕新升级款尚界 H5 的选配信息,IT之家整理详情如下: 版本 尚界 H5 Pro 预售:增程 16.98 万元起、纯电 17.58 万元起; 鸿蒙座舱 | 纯电最高 535km | 增程最高 1360km; 副驾准零重力 | 座...",
+      "source": "Ithome",
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/402.htm"
     },
     {
-      "id": "https://news.cri.cn/20260531/d0ce34e4-87d4-4af3-8300-1d5cf41a0564.html",
-      "title": "科技未来照进现实 生活温度更有“智”感-国际在线",
-      "summary": "央广网天津5月31日消息(记者周思杨见习记者杨辉实习记者路婧纯蔺子贤)当机器人烹制烟火三餐、AI眼镜重构学习场景、全屋智能实现“无人家务”、智慧康养守护全龄健康......5月28日,记者在天津举办的2026世界智能产业博览会上看到,前沿科技褪...",
-      "source": "Cri_Cn",
-      "date": "2026-05-31",
-      "url": "https://news.cri.cn/20260531/d0ce34e4-87d4-4af3-8300-1d5cf41a0564.html"
+      "id": "https://www.firstpost.com/tech/nvidia-expands-global-robotaxi-push-partners-with-foxconn-and-uber-on-level-4-autonomous-vehicles-14017647.html",
+      "title": "Nvidia expands global robotaxi push, partners with Foxconn and Uber on level 4 autonomous vehicles",
+      "summary": "Nvidia is expanding its Drive Hyperion platform and partnering with global automakers and Foxconn to accelerate the rollout of Level 4 autonomous robotaxis and self-driving EVs...",
+      "source": "Firstpost",
+      "date": "2026-06-01",
+      "url": "https://www.firstpost.com/tech/nvidia-expands-global-robotaxi-push-partners-with-foxconn-and-uber-on-level-4-autonomous-vehicles-14017647.html"
     },
     {
-      "id": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas....",
-      "source": "TechCrunch",
-      "date": "2026-05-29",
-      "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/"
-    },
-    {
-      "id": "https://www.morningstar.com/company-reports/1483763-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology",
-      "title": "Leading NEV Manufacturer With Advanced In-House Autonomous Driving Technology",
-      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
-      "source": "Morningstar",
-      "date": "2026-05-29",
-      "url": "https://www.morningstar.com/company-reports/1483763-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology"
-    },
-    {
-      "id": "https://wjla.com/news/local/waymo-self-driving-testing-automatic-northern-virginia-mapping-driverless",
-      "title": "Self-driving service Waymo launches testing in Northern Virginia",
-      "summary": "Waymo has confirmed it is testing its autonomous ride-hailing vehicles in Northern Virginia.While fully driverless vehicles are currently illegal in the state,...",
-      "source": "WJLA",
-      "date": "2026-05-28",
-      "url": "https://wjla.com/news/local/waymo-self-driving-testing-automatic-northern-virginia-mapping-driverless"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/waymo-rolls-out-new-self-driving-car-made-with-china-s-zeekr-ce7f5ddadf8df321",
-      "title": "Waymo Rolls Out New Self-Driving Car Made With China's Zeekr",
-      "summary": "By Dean Seal\nGoogle's self-driving startup Waymo is launching a new autonomous vehicle that it designed in partnership with the Chinese EV maker Zeekr.\nWaymo said Thursday that public riders......",
-      "source": "MarketScreener",
-      "date": "2026-05-28",
-      "url": "https://www.marketscreener.com/news/waymo-rolls-out-new-self-driving-car-made-with-china-s-zeekr-ce7f5ddadf8df321"
-    },
-    {
-      "id": "https://www.latimes.com/0000019e-6bae-defa-afbf-efff5aef0000-123",
-      "title": "Waymo to launch new, bigger vehicle with its latest self-driving tech",
-      "summary": "Waymo is rolling out a new autonomous taxi that will help the company expand to more cities and tackle tougher driving conditions such as snowy roads, the company announced Wednesday....",
-      "source": "Los Angeles Times",
-      "date": "2026-05-28",
-      "url": "https://www.latimes.com/0000019e-6bae-defa-afbf-efff5aef0000-123"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3924602-teslas-full-self-driving-behind-the-scenes-of-autonomous-ambitions",
-      "title": "Tesla’s Full Self-Driving: Behind the Scenes of Autonomous Ambitions",
-      "summary": "Tesla's Full Self-Driving (FSD) system faces scrutiny over its autonomous claims as workers in Utah analyze video footage to improve AI capabilities. Despite high-profile displays touting safety, the ...",
-      "source": "Devdiscourse",
-      "date": "2026-05-28",
-      "url": "https://www.devdiscourse.com/article/technology/3924602-teslas-full-self-driving-behind-the-scenes-of-autonomous-ambitions"
-    },
-    {
-      "id": "https://seekingalpha.com/news/4597562-lockheed-martin-sees-rising-demand-for-missile-defense-sustainment-autonomous-systems",
-      "title": "Lockheed Martin sees rising demand for missile defense, sustainment, autonomous systems",
-      "summary": "Lockheed Martin sees rising missile defense demand, autonomy and F-35 sustainment driving growth as conflicts reshape priorities—get key takeaways now....",
-      "source": "Seeking Alpha",
-      "date": "2026-05-27",
-      "url": "https://seekingalpha.com/news/4597562-lockheed-martin-sees-rising-demand-for-missile-defense-sustainment-autonomous-systems"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/einride-teams-up-with-tuv-sud-for-independent-verification-of-first-autonomous-safety-management-governance-framework-302783053.html",
-      "title": "Einride Teams up with TÜV SÜD for Independent Verification of First Autonomous Safety Management Governance Framework",
-      "summary": "/PRNewswire/ -- Einride AB (publ) (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous freight......",
-      "source": "PR Newswire UK",
-      "date": "2026-05-27",
-      "url": "https://www.prnewswire.co.uk/news-releases/einride-teams-up-with-tuv-sud-for-independent-verification-of-first-autonomous-safety-management-governance-framework-302783053.html"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/05/27/tmt-newswire/globenewswire/einride-a-leading-digital-electric-and-autonomous-freight-technology-company-to-go-public-via-a-business-combination-with-legato-merger-corp-iii-at-a-18-billion-valuation/2352418",
-      "title": "Einride, a Leading Digital, Electric and Autonomous Freight Technology Company, to Go Public via a Business Combination with Legato Merger Corp. III at a $1.8 Billion Valuation",
-      "summary": "The business combination further strengthens Einride’s unique positioning to lead the transition to autonomous freight operations in a $4.6 trillion global road freight market.Sweden-based Einride has...",
+      "id": "https://www.manilatimes.net/2026/06/01/tmt-newswire/pr-newswire/foretellix-unveils-reference-solution-integrating-nvidia-alpamayo-to-scale-ai-autonomous-vehicle-development/2355619",
+      "title": "Foretellix Unveils Reference Solution Integrating NVIDIA Alpamayo to Scale AI Autonomous Vehicle Development",
+      "summary": "SUNNYVALE, Calif., June 1, 2026 /PRNewswire/ -- Foretellix, provider of safety and data infrastructure for physical AI, today announced its Reference Solution for the NVIDIA Alpamayo ecosystem. Forete...",
       "source": "The Manila Times",
-      "date": "2026-05-27",
-      "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/globenewswire/einride-a-leading-digital-electric-and-autonomous-freight-technology-company-to-go-public-via-a-business-combination-with-legato-merger-corp-iii-at-a-18-billion-valuation/2352418"
-    },
-    {
-      "id": "https://www.barchart.com/story/news/2134691/fully-self-driving-technology-positions-tesla-stock-for-another-wave-of-value-creation",
-      "title": "Fully Self-Driving Technology Positions Tesla Stock for Another Wave of Value Creation",
-      "summary": "Tesla’s fully self-driving ambitions could unlock a new phase of long-term value creation as advances in autonomous technology, robotaxis, and AI-driven mobility reshape the company’s growth outlook....",
-      "source": "Barchart",
-      "date": "2026-05-26",
-      "url": "https://www.barchart.com/story/news/2134691/fully-self-driving-technology-positions-tesla-stock-for-another-wave-of-value-creation"
+      "date": "2026-06-01",
+      "url": "https://www.manilatimes.net/2026/06/01/tmt-newswire/pr-newswire/foretellix-unveils-reference-solution-integrating-nvidia-alpamayo-to-scale-ai-autonomous-vehicle-development/2355619"
     }
   ]
 }
