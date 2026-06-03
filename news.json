@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-02 04:48:00",
-  "totalCount": 38,
+  "lastUpdated": "2026-06-03 04:57:56",
+  "totalCount": 34,
   "sources": {
     "Bilibili": 5,
-    "Bjnews": 5,
-    "Ithome": 3,
-    "Orientaldaily": 1,
+    "Fx168News": 2,
     "Investing_Cn": 1,
-    "Prnasia": 1,
-    "Chinanews": 5,
-    "Fx168News": 1,
-    "Theportugalnews": 1,
-    "Smzdm": 2,
-    "Cnblogs": 2,
-    "Epochtimes": 1,
+    "Ithome": 3,
+    "Smzdm": 3,
+    "News_Baidu": 2,
+    "Bjnews": 4,
+    "Chinanews": 1,
+    "Orientaldaily": 1,
+    "Eeo": 1,
+    "Newscase": 1,
+    "Zee News": 1,
     "Firstpost": 1,
     "The Manila Times": 1,
     "MarketScreener": 2,
@@ -21,233 +21,208 @@
     "TechCrunch": 1,
     "Morningstar": 1,
     "WJLA": 1,
-    "Los Angeles Times": 1,
-    "Devdiscourse": 1
+    "Los Angeles Times": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1DqVn6yEBG",
-      "title": "【B站】自动驾驶最要命的路口，谁能让你活下来？",
-      "summary": "视频原创者@大胡L5...",
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
       "source": "Bilibili",
-      "date": "2026-06-02",
-      "url": "https://www.bilibili.com/video/BV1DqVn6yEBG"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-06-02",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-06-02",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-06-02",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+      "date": "2026-06-03",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
     },
     {
       "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
       "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780320143129796.html",
-      "title": "某综艺节目里嘉宾乘车时安全带均为后期P图 公安部交管局发布提醒",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-01",
-      "url": "https://www.bjnews.com.cn/detail/1780320143129796.html"
+      "id": "https://www.bilibili.com/video/BV118Vy6qEAt",
+      "title": "【B站】双手脱管酿成惨剧！江西高速惨烈车祸，撕开“自动驾驶”的遮羞布",
+      "summary": "双手脱管酿成惨剧！江西高速惨烈车祸，撕开“自动驾驶”的遮羞布...",
+      "source": "Bilibili",
+      "date": "2026-06-03",
+      "url": "https://www.bilibili.com/video/BV118Vy6qEAt"
     },
     {
-      "id": "https://www.ithome.com/0/958/436.htm",
-      "title": "长安启源回应“追尾致 3 死事故”:A07 事故车无激光雷达,建议以通报及调查结论为准",
-      "summary": "IT之家 6 月 1 日消息,江西赣州市应急管理局近日公布《赣州瑞金济广高速“10·2”较大道路交通事故调查报告》。2025 年 10 月 2 日 4 时许,在赣州瑞金市境内济广高速公路 1408km+721m 处,一辆小型轿车撞上一辆重型货车,造成一起死亡 3 人的较大道路交通事故。 《报告》显示,10 月 2 日 3 时 59 分 34 秒, 驾驶员主动激活 IACC 功能 (进入智能驾驶辅助...",
-      "source": "Ithome",
-      "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/436.htm"
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-06-03",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780294526129403.html",
-      "title": "九号2026新品发布会连发4款新车 重新定义“好车标准”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-01",
-      "url": "https://www.bjnews.com.cn/detail/1780294526129403.html"
+      "id": "https://www.bilibili.com/video/BV1XndzBqE3f",
+      "title": "【B站】1.16自动驾驶数据怎么标？点云+图像联合标注一次讲透！",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-03",
+      "url": "https://www.bilibili.com/video/BV1XndzBqE3f"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/international/2026/06/01/822754",
-      "title": "招不到司机回聘8旬翁 闯红灯撞死2路人后逃逸",
-      "summary": "(东京1日讯)日本爱知县名古屋市一名85岁游泳学校接驳车司机驾驶车辆经过路口时,疑似闯红灯撞上两名路人,造成对方重伤不治。事发后,肇事司机一度离开现场,随后被警方逮捕,并坦承犯行。涉事游泳学校事后回应称,该司机原本已经退休离职,但由于长期招募不到新司机,才重新以兼职形式返聘回岗位,未料最终发生严重事故。日媒报导,这起事故发生于5月29日下午5点。85岁的酒井照驾驶一辆游泳学校接驳巴士行经名古屋市南...",
-      "source": "Orientaldaily",
-      "date": "2026-06-01",
-      "url": "https://www.orientaldaily.com.my/news/international/2026/06/01/822754"
+      "id": "https://www.fx168news.com/article/1038870",
+      "title": "国内熟透、海外猛投,滴滴未来看 “国际滴”?-FX168",
+      "summary": "网约车龙头$滴滴出行(DIDIY.US) ,6/2 日美股盘前公布了 2026 年的第一季的财报。整体来看,也属于绝对表现不算好 -- 高投入下整体 adj.EBITA 仍不足 2 亿;但预期差角度有不少亮点—首先是核心的国内业务利润释放大超预期,另外海外业务高增长的同时亏损额也比预期稍少。具体来看:1、国内出行增长稳健:本季滴滴国内 GTV 为 858 亿,同比增速为 10%,环比稍有放缓(约 ...",
+      "source": "Fx168News",
+      "date": "2026-06-02",
+      "url": "https://www.fx168news.com/article/1038870"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780300082169025.html",
-      "title": "新能源汽车安全隐患排查进行时,动力电池、辅助驾驶是重点",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-01",
-      "url": "https://www.bjnews.com.cn/detail/1780300082169025.html"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3395348",
-      "title": "美股前瞻 | 三大股指期货齐涨 英伟达(NVDA.US)进军PC芯片市场引爆产业链",
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3397960",
+      "title": "空客完成澳航首架A350-1000ULR超远程客机在法国的首飞",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-01",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3395348"
+      "date": "2026-06-02",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3397960"
     },
     {
-      "id": "https://www.prnasia.com/story/535372-1.shtml",
-      "title": "Mobileye获评沙利文2026全球乘用车ADAS行业年度企业",
-      "summary": "获评沙利文颁发的行业最高殊荣,彰显了 Mobileye 在具有可扩展性的 ADAS 解决方案领域的全球领先市场地位 上海 2026年6月1日 /美通社/ -- Mobileye(纳斯达克股票代码:MBLY)宣布公司荣获弗若斯特沙利文(Frost & Sullivan,以下简称\"沙利文\")2026年度全球乘用车高级驾驶辅助系统(ADAS)行业卓越实践类年度企业。这一殊荣肯定了Mobileye在人工智...",
-      "source": "Prnasia",
-      "date": "2026-06-01",
-      "url": "https://www.prnasia.com/story/535372-1.shtml"
+      "id": "https://www.ithome.com/0/958/987.htm",
+      "title": "奇瑞瑞虎 8 PLUS / PRO 非凡冠军版上市:搭载鲲鹏 1.6TGDI 发动机,10.19~12.19 万元",
+      "summary": "IT之家 6 月 2 日消息,在 2026 环塔拉力赛落幕之际,奇瑞汽车今日正式推出了瑞虎 8 PLUS 非凡冠军版与瑞虎 8 PRO 非凡冠军版车型。 瑞虎 8 PLUS 非凡冠军版官方指导价为 12.99 万至 14.49 万元,上市限时价 10.69 万至 12.19 万元;瑞虎 8 PRO 非凡冠军版官方指导价 12.99 万元,上市限时价 10.19 万元。 与此同时,第五代瑞虎 8 也...",
+      "source": "Ithome",
+      "date": "2026-06-02",
+      "url": "https://www.ithome.com/0/958/987.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-01/10632392.shtml",
-      "title": "新疆伊昭公路正式恢复通车",
-      "summary": "中新网新疆察布查尔6月1日电 (张璐 赵金秀)6月1日,素有“小独库”之称的新疆伊昭公路正式恢复季节性通车,贯通伊宁市、察布查尔锡伯自治县(简称“察布查尔县”)至昭苏县的百里景观公路全线迎客。...",
-      "source": "Chinanews",
-      "date": "2026-06-01",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-01/10632392.shtml"
+      "id": "https://post.smzdm.com/p/a4q7zpwl/",
+      "title": "BRZ自动挡真能替代手动挡?拨片背后的驾驶真相",
+      "summary": "2026年,斯巴鲁BRZ依然是30万元区间少有的纯正后驱跑车。面对自动挡(带换挡拨片)与手动挡两个版本,许多谨慎型用户陷入纠结:自动挡操作轻松、日常友好,但会不会牺牲驾驶乐趣?手动挡操控纯粹,可通勤是否太累?尤其当厂商强调“自动版通过换挡拨片也能实现高性......",
+      "source": "Smzdm",
+      "date": "2026-06-02",
+      "url": "https://post.smzdm.com/p/a4q7zpwl/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780299686169024.html",
-      "title": "进企业、入校园、守路口,北京顺义警方多维度开展交通安全宣传",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-01",
-      "url": "https://www.bjnews.com.cn/detail/1780299686169024.html"
+      "id": "http://baijiahao.baidu.com/s?id=1864172019637574885",
+      "title": "践行“枫桥经验” 守护辖区平安——记三都公安都江派..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-02",
+      "url": "http://baijiahao.baidu.com/s?id=1864172019637574885"
     },
     {
-      "id": "https://www.fx168news.com/article/1038231",
-      "title": "太平洋:给予比亚迪买入评级-FX168",
-      "summary": "太平洋证券股份有限公司刘虹辰近期对比亚迪进行研究并发布了研究报告《比亚迪的CNOA时刻》,给予比亚迪买入评级。 比亚迪(002594) 事件:比亚迪智能化战略发布会,继智能泊车安全兜底后再次率先承诺为城市领航CNOA安全兜底,开启比亚迪智能化下半场。 比亚迪智能化下半场。比亚迪继智能泊车安全兜底后再次率先承诺为城市领航安全兜底,全球唯一“城市领航+智能泊车”双兜底。比亚迪天神之眼,开创全民城市领航...",
+      "id": "https://www.fx168news.com/article/1038831",
+      "title": "复旦微电:东方证券、嘉实基金等多家机构于5月25日调研我司-FX168",
+      "summary": "证券之星消息,2026年6月2日复旦微电(688385)发布公告称东方证券、嘉实基金、东北证券、兴业证券、中泰证券、中信建投证券、交银施罗德基金、银华基金、国信自营、泰康资产于2026年5月25日调研我司。 具体内容如下:问:怎么看待FPGA在AI领域的应用?答:FPG凭借其高灵活性、高并行和低延时的特点,在人工智能和I边缘推理领域具有广泛应用。公司采用SoC+FPG+NPU融合架构的FPI产品,...",
       "source": "Fx168News",
-      "date": "2026-06-01",
-      "url": "https://www.fx168news.com/article/1038231"
+      "date": "2026-06-02",
+      "url": "https://www.fx168news.com/article/1038831"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-06-01/a-guide-to-understand-the-rules-new-system-of-iuc-payment-in-portugal/1032273",
-      "title": "了解葡萄牙 IUC 支付新系统规则的指南",
-      "summary": "葡萄牙提醒车主,IUC(Imposto Único de Circulação)的变更尚未实施,目前的支付系统在整个 2026 年仍将完全有效。...",
-      "source": "Theportugalnews",
-      "date": "2026-06-01",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-06-01/a-guide-to-understand-the-rules-new-system-of-iuc-payment-in-portugal/1032273"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/tp/2026/06-01/10632502.shtml",
-      "title": "浙江桐乡:小麦丰收 秸秆变废为宝",
-      "summary": "6月1日,农机手驾驶农机将秸秆打捆回收。眼下,正值三夏时节,浙江桐乡乌镇的万亩麦田进入成熟收获期,抢收与秸秆离田工作同步推进。近年来,当地通过离田、收集、加工、生产等环节,推动秸秆实现肥料化、能源化、饲料化。(无人机照片)中新社记者 孙杨洋 摄 6月1日,农机手驾驶农机将秸秆打捆回收。眼下,正值三夏时节,浙江桐乡乌镇的万亩麦田进入成熟收获期,抢收与秸秆离田工作同步推进。近年来,当地通过离田、收集、...",
-      "source": "Chinanews",
-      "date": "2026-06-01",
-      "url": "https://www.chinanews.com.cn/tp/2026/06-01/10632502.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5r7lzrx/",
-      "title": "在埃及自驾,这些规则不懂等于冒险",
-      "summary": "一、核心风险预判1、三大高危路段黑名单开罗解放广场周边道路禁止驶入,该区域人车混行严重、无明确车道线,摩托车与行人随时横穿,极易引发碰撞。亚历山大港沿海高速极度不推荐通行,横风强烈叠加本地司机普遍超速,小型车辆易失控。西奈半岛北部边境区域严禁自驾进入,不......",
-      "source": "Smzdm",
-      "date": "2026-06-01",
-      "url": "https://post.smzdm.com/p/a5r7lzrx/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780309522129658.html",
-      "title": "“限制网约车司机驾驶时间”是对新规的误读",
+      "id": "https://www.bjnews.com.cn/detail/1780400176129471.html",
+      "title": "滴滴中国出行Q1日均3940万单 程维:加大线下服务体系建设",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-01",
-      "url": "https://www.bjnews.com.cn/detail/1780309522129658.html"
+      "date": "2026-06-02",
+      "url": "https://www.bjnews.com.cn/detail/1780400176129471.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/tp/2026/06-01/10632380.shtml",
-      "title": "“鲁南粮仓”滕州开镰收麦 田间“铁牛”奔忙",
-      "summary": "图为农机手驾驶收割机在滕州市羊庄镇的麦田里收割小麦。孙杨 摄 图为农机手驾驶收割机在滕州市羊庄镇的麦田里收割小麦。孙杨 摄 图为滕州市羊庄镇农民将收获的小麦装车。(无人机照片)孙杨 摄...",
+      "id": "https://www.bjnews.com.cn/detail/1780399066169064.html",
+      "title": "“明星安全带全靠P”,综艺别拿安全当演戏 | 新京报快评",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-02",
+      "url": "https://www.bjnews.com.cn/detail/1780399066169064.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780372790129073.html",
+      "title": "千曙科技与福田卡文汽车开展深度合作 即将落地全球首个定制无人新能源重卡生态解决方案",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-02",
+      "url": "https://www.bjnews.com.cn/detail/1780372790129073.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/06-02/10633092.shtml",
+      "title": "网暴抗洪救灾村支书的涉事人员被查处(2026·06·02)",
+      "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-06-01",
-      "url": "https://www.chinanews.com.cn/tp/2026/06-01/10632380.shtml"
+      "date": "2026-06-02",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-02/10633092.shtml"
     },
     {
-      "id": "https://www.cnblogs.com/hynews/p/20256409",
-      "title": "2026年6月长沙无人机培训/长沙无人机执照/长沙无人机考证/长沙CAAC无人机培训/长沙CAAC无人机考证专业评估选型指南深度解析值得参考航界低空科技(湖南)有限公司",
-      "summary": "本篇将回答的核心问题 在长沙考取无人机执照,如何选择一家真正靠谱、高效的培训机构? 2026年,长沙无人机培训市场有哪些新变化和值得关注的趋势? 除了基础的考证服务,一家优秀的无人机培训公司还能提供哪些附加价值? 评估一家无人机培训机构的专业度,应该看哪些硬指标? 结论摘要 基于对2026年6月长沙...",
-      "source": "Cnblogs",
-      "date": "2026-06-01",
-      "url": "https://www.cnblogs.com/hynews/p/20256409"
+      "id": "https://www.orientaldaily.com.my/news/international/2026/06/02/823052",
+      "title": "柬埔寨惊爆水泥封井双尸案 1中国籍嫌犯落网",
+      "summary": "(金边2日讯)柬埔寨首都金边发生一起骇人双尸命案。两名受害人失踪近10天后,昨日(1日)被发现陈尸在一处空地的排水井内。两人的遗体遭掩埋在井中,而井口更被浇筑水泥封死。警方调查后循线拘捕一名中国籍嫌疑人,另有一名中国籍嫌疑人仍在逃。警方怀疑,此案不排除还有其他人员参与,目前正持续追查相关线索,并全力缉捕潜在共犯。据《柬中时报》报导,两名死者分别为38岁的出租车司机艾金顺,以及36岁的跨性别女子唐西...",
+      "source": "Orientaldaily",
+      "date": "2026-06-02",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/06/02/823052"
     },
     {
-      "id": "https://www.cnblogs.com/hynews/p/20256316",
-      "title": "2026年6月长沙无人机培训/长沙无人机执照/长沙无人机考证/长沙CAAC无人机培训/长沙CAAC无人机考证选型指南实力推荐值得参考航界低空科技(湖南)有限公司",
-      "summary": "随着低空经济被正式确立为国家战略性新兴产业,无人机应用正以前所未有的速度渗透至测绘、安防、农业、文旅、物流等众多领域。专业、合规的无人机驾驶员(飞手)成为市场紧缺人才,选择一家靠谱的培训机构,是踏入这一朝阳行业的第一步。这不仅关乎一本证书的获取,更关系到未来职业发展的根基与安全飞行的保障。在2026...",
-      "source": "Cnblogs",
-      "date": "2026-06-01",
-      "url": "https://www.cnblogs.com/hynews/p/20256316"
+      "id": "http://baijiahao.baidu.com/s?id=1864172054911091520",
+      "title": "“五一”去哪?沈阳法库“飞机工程2.0航空科技营”..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-02",
+      "url": "http://baijiahao.baidu.com/s?id=1864172054911091520"
     },
     {
-      "id": "https://post.smzdm.com/p/axker624/",
-      "title": "2026新规:开太慢竟也违法?高速“龟速车”小心被罚!",
-      "summary": "2026年,随着智能交通系统全面铺开和执法标准细化,“龟速车”已不再是被忽视的驾驶陋习,而是明确列入严管范畴的违法行为。许多谨慎型车主担心:开慢点是不是更安全?会不会因“不敢提速”反而违法?本文基于现行法规、真实事故数据与多地执法实践,从法律合规性、安全......",
+      "id": "https://www.bjnews.com.cn/detail/1780376837169055.html",
+      "title": "一次出警两场救援,怀柔消防先破拆救人再洒水给生猪降温",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-02",
+      "url": "https://www.bjnews.com.cn/detail/1780376837169055.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8594l8/",
+      "title": "25公斤以上无人机明年起必须持三证一照,否则最高罚10万!",
+      "summary": "自2026年11月1日起,最大起飞重量超过25千克的中型民用无人驾驶航空器将被纳入强制持证运营范畴。根据中国民用航空局(CAAC)最新监管要求,此类无人机在任何空域执行飞行任务前,必须依法取得型号合格证(TC)、生产许可证(PC)及单机适航证(AC),并......",
       "source": "Smzdm",
-      "date": "2026-06-01",
-      "url": "https://post.smzdm.com/p/axker624/"
+      "date": "2026-06-02",
+      "url": "https://post.smzdm.com/p/ak8594l8/"
     },
     {
-      "id": "https://www.epochtimes.com/b5/26/5/31/n14778999.htm",
-      "title": "中國車傾銷全球 品質短板浮現 各國築高牆",
-      "summary": "2025年4月27日,比亞迪電動車正在等待裝載到「比亞迪深圳號」汽車運輸船上,該船將從中國東部江蘇省蘇州市的太倉港駛往巴西。 (STR/AFP via Getty Images)...",
-      "source": "Epochtimes",
-      "date": "2026-06-01",
-      "url": "https://www.epochtimes.com/b5/26/5/31/n14778999.htm"
+      "id": "http://www.eeo.com.cn/2026/0602/900311.shtml",
+      "title": "专访乔・韦曼:大模型收费是个好的商业模式吗?",
+      "summary": "乔.韦曼说:“所有的商业模式本质上都一样:你必须卖出一些东西。有一句话很经典‘如果你不付费,那你就是产品’。如果用了大量免费服务,这些免费服务总要面临一个‘清算时刻’”。...",
+      "source": "Eeo",
+      "date": "2026-06-02",
+      "url": "http://www.eeo.com.cn/2026/0602/900311.shtml"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-01/10632526.shtml",
-      "title": "(乡村行·看振兴)山西临汾近300万亩冬小麦开镰 夏收不停夏播不断",
-      "summary": "中新网临汾6月1日电 (李庭耀 张春茂 尹娜)6月1日,在山西临汾侯马市上马街道办事处西阳呈村、张少村等地的麦田里,一辆辆小麦联合收割机驶入麦田,在金色的麦浪里往返作业,把成熟的麦穗变成金色的麦粒,拉开了临汾市近300万亩冬小麦收获的序幕。...",
-      "source": "Chinanews",
-      "date": "2026-06-01",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-01/10632526.shtml"
+      "id": "https://post.smzdm.com/p/aqr6orrv/",
+      "title": "30万vs60万,理想L7和宝马X5的HUD谁更懂谨慎型司机?",
+      "summary": "在智能座舱配置日益同质化的今天,HUD(抬头显示)已成为衡量一辆车是否真正“以驾驶者为中心”的关键指标。尤其对注重安全、讨厌分心的谨慎型用户而言,一套清晰、稳定、信息合理的HUD系统,能显著降低长途或复杂路况下的决策负担。然而,并非所有HUD都值得信赖—......",
+      "source": "Smzdm",
+      "date": "2026-06-02",
+      "url": "https://post.smzdm.com/p/aqr6orrv/"
     },
     {
-      "id": "https://www.ithome.com/0/958/423.htm",
-      "title": "阿维塔 5 月交付量达 7336 辆,07L 新车官宣首批搭载华为乾崑智驾 ADS 5",
-      "summary": "IT之家 6 月 1 日消息,阿维塔官方微博刚刚宣布, 阿维塔 5 月交付量为 7336 辆 。目前,阿维塔 07L 已亮相工信部公告。据阿维塔官方透露, 这款 新车 将首批搭载华为乾崑智驾 ADS 5 。 另外, 阿维塔汽车已开启 AVATR.OS 5.1.2 系统版本推送 ,主要升级华为乾崑智驾 ADS 4.1.5,新增人驾急弯防御性驾驶、后向 VRU 提前预警等功能。 据IT之家此前报道,工...",
+      "id": "https://www.ithome.com/0/958/955.htm",
+      "title": "消息称鸿蒙智行 2024 款问界 M9 汽车硬件升级服务落地,提供两种方案可选",
+      "summary": "IT之家 6 月 2 日消息,据多位博主今日分享,鸿蒙智行 2024 款问界 M9 汽车硬件升级服务已落地,提供两种方案可选: 方案一(辅助驾驶系统) 含辅助驾驶指示灯、固态激光雷达、4D 毫米波雷达、辅助驾驶域控制器等 ;5 万元(含零件、工时、运费);车辆需运送至指定地点,周期约 35 天;已加装指示灯费用会扣减 7500 元 方案二(辅助驾驶系统、星河通讯、智能座舱) 含辅助驾驶系统服务方案...",
       "source": "Ithome",
-      "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/423.htm"
+      "date": "2026-06-02",
+      "url": "https://www.ithome.com/0/958/955.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/06-01/10632416.shtml",
-      "title": "上海前瞻布局服务业新兴赛道",
-      "summary": "中新社上海6月1日电 (记者 郑莹莹)“开局起步‘十五五’”系列主题上海市政府新闻发布会于6月1日举行。上海多部门介绍了《上海市服务业发展“十五五”规划》的有关情况。该规划指出,上海前瞻布局服务业新兴赛道,挖掘未来发展新潜力。...",
-      "source": "Chinanews",
-      "date": "2026-06-01",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-01/10632416.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/958/402.htm",
-      "title": "鸿蒙智行焕新升级款尚界 H5 汽车选配信息公开,预售价 16.98 万元起",
-      "summary": "IT之家 6 月 1 日消息,鸿蒙智行尚界汽车已在 5 月底(5 月 28 日)宣布,尚界 H5 焕新升级款正式预售, 预售价 16.98 万元起 。 华为官网目前已公布焕新升级款尚界 H5 的选配信息,IT之家整理详情如下: 版本 尚界 H5 Pro 预售:增程 16.98 万元起、纯电 17.58 万元起; 鸿蒙座舱 | 纯电最高 535km | 增程最高 1360km; 副驾准零重力 | 座...",
+      "id": "https://www.ithome.com/0/958/941.htm",
+      "title": "东风天元智驾 T200 辅助驾驶城市 NOA 发布,在行业内首次采用依托国产芯片的端到端无图方案",
+      "summary": "IT之家 6 月 2 日消息,东风汽车研发总院今日宣布, 天元智驾 T200 辅助驾驶城市 NOA 发布 ,已在奕派 007+ 汽车近日的 OTA 升级中正式上线。 据介绍, 天元智驾 T200 辅助驾驶在行业内首次采用依托国产芯片的端到端无图方案 ,车辆搭载的控制器和感知部件具备前向 200m 的探测识别距离、±5cm 的探测精度;配备 4 颗环视摄像头 + 12 颗超声波雷达,支持车身 360...",
       "source": "Ithome",
-      "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/402.htm"
+      "date": "2026-06-02",
+      "url": "https://www.ithome.com/0/958/941.htm"
+    },
+    {
+      "id": "https://www.newscase.com/%E8%8A%B1%E6%97%9730%E5%A4%A9%E8%A7%82%E5%AF%9F%E7%AA%97%E5%8F%A3%E5%BC%80%E5%90%AF%EF%BC%9Abyd%E5%87%BA%E5%8F%A3%E7%88%86%E5%8F%91%E4%B8%8E%E6%99%BA%E9%A9%BE%E5%85%A8%E8%B4%A3%E8%B5%94%E5%81%BF/",
+      "title": "花旗30天观察窗口开启:BYD出口爆发与智驾全责赔偿双线布局",
+      "summary": "港股开盘后,比亚迪(BYD)股价跳空高开,盘中一度触及96.55港元,较前一日收盘大涨逾6%。这股涨势的催化剂来自两份消息:5月出口数据创下新高,以及一份来自花旗研究的积极研判。在此之前,该股已在91港元附近横盘多日,距离52周低点88.50港元仅一步之遥。 花旗上调Q2利润预期,出口贡献近九成 花旗研究团队启动了一项为期30天的“正面催化剂观察”,认为比亚迪5月的批发数据超出市场预期,可能意味着...",
+      "source": "Newscase",
+      "date": "2026-06-02",
+      "url": "https://www.newscase.com/%E8%8A%B1%E6%97%9730%E5%A4%A9%E8%A7%82%E5%AF%9F%E7%AA%97%E5%8F%A3%E5%BC%80%E5%90%AF%EF%BC%9Abyd%E5%87%BA%E5%8F%A3%E7%88%86%E5%8F%91%E4%B8%8E%E6%99%BA%E9%A9%BE%E5%85%A8%E8%B4%A3%E8%B5%94%E5%81%BF/"
+    },
+    {
+      "id": "https://zeenews.india.com/industry-updates/from-rural-indian-roads-to-next-generation-transportation-indian-origin-entrepreneur-builds-technology-for-safer-mobility-3052251.html",
+      "title": "From Rural Indian roads to next-generation transportation: Indian-Origin entrepreneur builds technology for safer mobility",
+      "summary": "Harsh Singh’s ETECHSTARS develops DriveNoggin AI for safer, affordable autonomous driving, inspired by real-world road challenges and human perception....",
+      "source": "Zee News",
+      "date": "2026-06-02",
+      "url": "https://zeenews.india.com/industry-updates/from-rural-indian-roads-to-next-generation-transportation-indian-origin-entrepreneur-builds-technology-for-safer-mobility-3052251.html"
     },
     {
       "id": "https://www.firstpost.com/tech/nvidia-expands-global-robotaxi-push-partners-with-foxconn-and-uber-on-level-4-autonomous-vehicles-14017647.html",
@@ -264,6 +239,30 @@
       "source": "The Manila Times",
       "date": "2026-06-01",
       "url": "https://www.manilatimes.net/2026/06/01/tmt-newswire/pr-newswire/foretellix-unveils-reference-solution-integrating-nvidia-alpamayo-to-scale-ai-autonomous-vehicle-development/2355619"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/uber-chooses-munich-as-ai-robotaxi-testing-ground-ce7f5dd8d180fe2d",
+      "title": "Uber Chooses Munich as AI Robotaxi Testing Ground",
+      "summary": "By Mauro Orru\nUber Technologies plans to launch a robotaxi program in the German city of Munich, marking the latest effort from the ride-hailing group to bring autonomous driving to the streets......",
+      "source": "MarketScreener",
+      "date": "2026-06-01",
+      "url": "https://www.marketscreener.com/news/uber-chooses-munich-as-ai-robotaxi-testing-ground-ce7f5dd8d180fe2d"
+    },
+    {
+      "id": "https://www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley",
+      "title": "Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley",
+      "summary": "Carmakers redirect resources to autonomous driving upgrades, hoping AI can deliver growth beyond subsidy-driven sales....",
+      "source": "South China Morning Post",
+      "date": "2026-05-31",
+      "url": "https://www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley"
+    },
+    {
+      "id": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas....",
+      "source": "TechCrunch",
+      "date": "2026-05-29",
+      "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/"
     }
   ]
 }
