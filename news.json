@@ -1,220 +1,204 @@
 {
-  "lastUpdated": "2026-06-03 04:57:56",
-  "totalCount": 34,
+  "lastUpdated": "2026-06-04 04:51:03",
+  "totalCount": 30,
   "sources": {
     "Bilibili": 5,
-    "Fx168News": 2,
-    "Investing_Cn": 1,
-    "Ithome": 3,
-    "Smzdm": 3,
-    "News_Baidu": 2,
-    "Bjnews": 4,
-    "Chinanews": 1,
+    "Chinanews": 2,
+    "Ithome": 2,
+    "Bjnews": 2,
+    "Fx168News": 1,
+    "Zaobao": 1,
+    "Businesswire": 1,
     "Orientaldaily": 1,
-    "Eeo": 1,
-    "Newscase": 1,
+    "News_Baidu": 4,
+    "Smzdm": 1,
+    "Hartford Courant": 1,
+    "TechRadar": 1,
     "Zee News": 1,
     "Firstpost": 1,
+    "Bloomberg": 1,
     "The Manila Times": 1,
-    "MarketScreener": 2,
+    "MarketScreener": 1,
     "South China Morning Post": 1,
     "TechCrunch": 1,
-    "Morningstar": 1,
-    "WJLA": 1,
-    "Los Angeles Times": 1
+    "Morningstar": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
-      "date": "2026-06-03",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-06-03",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV118Vy6qEAt",
-      "title": "【B站】双手脱管酿成惨剧！江西高速惨烈车祸，撕开“自动驾驶”的遮羞布",
-      "summary": "双手脱管酿成惨剧！江西高速惨烈车祸，撕开“自动驾驶”的遮羞布...",
-      "source": "Bilibili",
-      "date": "2026-06-03",
-      "url": "https://www.bilibili.com/video/BV118Vy6qEAt"
+      "date": "2026-06-04",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
       "id": "https://www.bilibili.com/video/BV182GnzRERu",
       "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
       "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1XndzBqE3f",
-      "title": "【B站】1.16自动驾驶数据怎么标？点云+图像联合标注一次讲透！",
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-06-04",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-06-03",
-      "url": "https://www.bilibili.com/video/BV1XndzBqE3f"
+      "date": "2026-06-04",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
     },
     {
-      "id": "https://www.fx168news.com/article/1038870",
-      "title": "国内熟透、海外猛投,滴滴未来看 “国际滴”?-FX168",
-      "summary": "网约车龙头$滴滴出行(DIDIY.US) ,6/2 日美股盘前公布了 2026 年的第一季的财报。整体来看,也属于绝对表现不算好 -- 高投入下整体 adj.EBITA 仍不足 2 亿;但预期差角度有不少亮点—首先是核心的国内业务利润释放大超预期,另外海外业务高增长的同时亏损额也比预期稍少。具体来看:1、国内出行增长稳健:本季滴滴国内 GTV 为 858 亿,同比增速为 10%,环比稍有放缓(约 ...",
-      "source": "Fx168News",
-      "date": "2026-06-02",
-      "url": "https://www.fx168news.com/article/1038870"
+      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
+      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
+      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
+      "source": "Bilibili",
+      "date": "2026-06-04",
+      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3397960",
-      "title": "空客完成澳航首架A350-1000ULR超远程客机在法国的首飞",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-02",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3397960"
-    },
-    {
-      "id": "https://www.ithome.com/0/958/987.htm",
-      "title": "奇瑞瑞虎 8 PLUS / PRO 非凡冠军版上市:搭载鲲鹏 1.6TGDI 发动机,10.19~12.19 万元",
-      "summary": "IT之家 6 月 2 日消息,在 2026 环塔拉力赛落幕之际,奇瑞汽车今日正式推出了瑞虎 8 PLUS 非凡冠军版与瑞虎 8 PRO 非凡冠军版车型。 瑞虎 8 PLUS 非凡冠军版官方指导价为 12.99 万至 14.49 万元,上市限时价 10.69 万至 12.19 万元;瑞虎 8 PRO 非凡冠军版官方指导价 12.99 万元,上市限时价 10.19 万元。 与此同时,第五代瑞虎 8 也...",
-      "source": "Ithome",
-      "date": "2026-06-02",
-      "url": "https://www.ithome.com/0/958/987.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4q7zpwl/",
-      "title": "BRZ自动挡真能替代手动挡?拨片背后的驾驶真相",
-      "summary": "2026年,斯巴鲁BRZ依然是30万元区间少有的纯正后驱跑车。面对自动挡(带换挡拨片)与手动挡两个版本,许多谨慎型用户陷入纠结:自动挡操作轻松、日常友好,但会不会牺牲驾驶乐趣?手动挡操控纯粹,可通勤是否太累?尤其当厂商强调“自动版通过换挡拨片也能实现高性......",
-      "source": "Smzdm",
-      "date": "2026-06-02",
-      "url": "https://post.smzdm.com/p/a4q7zpwl/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1864172019637574885",
-      "title": "践行“枫桥经验” 守护辖区平安——记三都公安都江派..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864172019637574885"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1038831",
-      "title": "复旦微电:东方证券、嘉实基金等多家机构于5月25日调研我司-FX168",
-      "summary": "证券之星消息,2026年6月2日复旦微电(688385)发布公告称东方证券、嘉实基金、东北证券、兴业证券、中泰证券、中信建投证券、交银施罗德基金、银华基金、国信自营、泰康资产于2026年5月25日调研我司。 具体内容如下:问:怎么看待FPGA在AI领域的应用?答:FPG凭借其高灵活性、高并行和低延时的特点,在人工智能和I边缘推理领域具有广泛应用。公司采用SoC+FPG+NPU融合架构的FPI产品,...",
-      "source": "Fx168News",
-      "date": "2026-06-02",
-      "url": "https://www.fx168news.com/article/1038831"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780400176129471.html",
-      "title": "滴滴中国出行Q1日均3940万单 程维:加大线下服务体系建设",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-02",
-      "url": "https://www.bjnews.com.cn/detail/1780400176129471.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780399066169064.html",
-      "title": "“明星安全带全靠P”,综艺别拿安全当演戏 | 新京报快评",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-02",
-      "url": "https://www.bjnews.com.cn/detail/1780399066169064.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780372790129073.html",
-      "title": "千曙科技与福田卡文汽车开展深度合作 即将落地全球首个定制无人新能源重卡生态解决方案",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-02",
-      "url": "https://www.bjnews.com.cn/detail/1780372790129073.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-02/10633092.shtml",
-      "title": "网暴抗洪救灾村支书的涉事人员被查处(2026·06·02)",
+      "id": "https://www.chinanews.com.cn/gn/2026/06-03/10633919.shtml",
+      "title": "全国小麦收获进度已过三成半 各地智慧农机显身手",
       "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-06-02",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-02/10633092.shtml"
+      "date": "2026-06-03",
+      "url": "https://www.chinanews.com.cn/gn/2026/06-03/10633919.shtml"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/international/2026/06/02/823052",
-      "title": "柬埔寨惊爆水泥封井双尸案 1中国籍嫌犯落网",
-      "summary": "(金边2日讯)柬埔寨首都金边发生一起骇人双尸命案。两名受害人失踪近10天后,昨日(1日)被发现陈尸在一处空地的排水井内。两人的遗体遭掩埋在井中,而井口更被浇筑水泥封死。警方调查后循线拘捕一名中国籍嫌疑人,另有一名中国籍嫌疑人仍在逃。警方怀疑,此案不排除还有其他人员参与,目前正持续追查相关线索,并全力缉捕潜在共犯。据《柬中时报》报导,两名死者分别为38岁的出租车司机艾金顺,以及36岁的跨性别女子唐西...",
-      "source": "Orientaldaily",
-      "date": "2026-06-02",
-      "url": "https://www.orientaldaily.com.my/news/international/2026/06/02/823052"
+      "id": "https://www.ithome.com/0/959/562.htm",
+      "title": "小米汽车:升级 HyperOS 1.16 版本后,YU7 Pro / Max / 长续航版均搭载 XLA 认知大模型",
+      "summary": "IT之家 6 月 3 日消息,小米汽车官方今日继续更新答网友问,目前已连载至第 252 集。本集针对 YU7 GT 如何调节舒适和长续航、YU7 其他配置的辅助驾驶是否搭载 XLA 大模型等问题进行了解答。 IT之家附本集答网友问重点内容如下: YU7 GT 怎么调节舒适和长续航? 在日常通勤时,建议使用「舒适模式」或「经济模式」 ,在舒适模式下,动力输出线性平缓,悬架舒适能吸收路面的大部分震动;...",
+      "source": "Ithome",
+      "date": "2026-06-03",
+      "url": "https://www.ithome.com/0/959/562.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1864172054911091520",
-      "title": "“五一”去哪?沈阳法库“飞机工程2.0航空科技营”..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-02",
-      "url": "http://baijiahao.baidu.com/s?id=1864172054911091520"
+      "id": "https://www.chinanews.com.cn/cj/2026/06-03/10633836.shtml",
+      "title": "京鲁共筑科创“苗圃” 硬科技赋能新质生产力培育",
+      "summary": "中新网济南6月3日电(陈宛婷)企业孵化器是助力初创公司成长的“专业管家”,为创业者提供办公场地,对接资金、技术、导师和市场资源,成为连接创意与市场、实验室与产业的关键枢纽。为探索孵化器跨区域协作新模式,实现从“拼数量”向“拼质量”、从综合性服务向专业化赋能转型,一场以“创新创业 共创未来”“卓越领航聚合力 京鲁联孵启新程”为主题的京鲁孵化器协同联动交流活动3日在济南举行。...",
+      "source": "Chinanews",
+      "date": "2026-06-03",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-03/10633836.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780376837169055.html",
-      "title": "一次出警两场救援,怀柔消防先破拆救人再洒水给生猪降温",
+      "id": "https://www.bjnews.com.cn/detail/1780490683129215.html",
+      "title": "消灭对账,从“银”开始丨日清月结,用友发布首款AI原生服务——“银账通”对账全托管服务",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-02",
-      "url": "https://www.bjnews.com.cn/detail/1780376837169055.html"
+      "date": "2026-06-03",
+      "url": "https://www.bjnews.com.cn/detail/1780490683129215.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8594l8/",
-      "title": "25公斤以上无人机明年起必须持三证一照,否则最高罚10万!",
-      "summary": "自2026年11月1日起,最大起飞重量超过25千克的中型民用无人驾驶航空器将被纳入强制持证运营范畴。根据中国民用航空局(CAAC)最新监管要求,此类无人机在任何空域执行飞行任务前,必须依法取得型号合格证(TC)、生产许可证(PC)及单机适航证(AC),并......",
-      "source": "Smzdm",
-      "date": "2026-06-02",
-      "url": "https://post.smzdm.com/p/ak8594l8/"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0602/900311.shtml",
-      "title": "专访乔・韦曼:大模型收费是个好的商业模式吗?",
-      "summary": "乔.韦曼说:“所有的商业模式本质上都一样:你必须卖出一些东西。有一句话很经典‘如果你不付费,那你就是产品’。如果用了大量免费服务,这些免费服务总要面临一个‘清算时刻’”。...",
-      "source": "Eeo",
-      "date": "2026-06-02",
-      "url": "http://www.eeo.com.cn/2026/0602/900311.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqr6orrv/",
-      "title": "30万vs60万,理想L7和宝马X5的HUD谁更懂谨慎型司机?",
-      "summary": "在智能座舱配置日益同质化的今天,HUD(抬头显示)已成为衡量一辆车是否真正“以驾驶者为中心”的关键指标。尤其对注重安全、讨厌分心的谨慎型用户而言,一套清晰、稳定、信息合理的HUD系统,能显著降低长途或复杂路况下的决策负担。然而,并非所有HUD都值得信赖—......",
-      "source": "Smzdm",
-      "date": "2026-06-02",
-      "url": "https://post.smzdm.com/p/aqr6orrv/"
-    },
-    {
-      "id": "https://www.ithome.com/0/958/955.htm",
-      "title": "消息称鸿蒙智行 2024 款问界 M9 汽车硬件升级服务落地,提供两种方案可选",
-      "summary": "IT之家 6 月 2 日消息,据多位博主今日分享,鸿蒙智行 2024 款问界 M9 汽车硬件升级服务已落地,提供两种方案可选: 方案一(辅助驾驶系统) 含辅助驾驶指示灯、固态激光雷达、4D 毫米波雷达、辅助驾驶域控制器等 ;5 万元(含零件、工时、运费);车辆需运送至指定地点,周期约 35 天;已加装指示灯费用会扣减 7500 元 方案二(辅助驾驶系统、星河通讯、智能座舱) 含辅助驾驶系统服务方案...",
+      "id": "https://www.ithome.com/0/959/535.htm",
+      "title": "何小鹏回应 GX 海外热度:未公布定价已获中东千辆盲订,全球 L3 自动驾驶明年 Q1 实施",
+      "summary": "IT之家 6 月 3 日消息,今日晚间,小鹏集团董事长、CEO 何小鹏现身小鹏 GX 智造工厂直播间,就新车上市及交付等相关问题与网友进行交流。 在直播中,何小鹏透露,小鹏 GX 在海外市场的关注度超出预期,自北京车展首次公开亮相以来,该车型在未公布任何海外定价的情况下,已获得来自以中东为代表的海外市场共计 1000 笔盲订订单。 何小鹏表示,海外至少四大区域都对这款车型存在需求,当前的重点是做好...",
       "source": "Ithome",
-      "date": "2026-06-02",
-      "url": "https://www.ithome.com/0/958/955.htm"
+      "date": "2026-06-03",
+      "url": "https://www.ithome.com/0/959/535.htm"
     },
     {
-      "id": "https://www.ithome.com/0/958/941.htm",
-      "title": "东风天元智驾 T200 辅助驾驶城市 NOA 发布,在行业内首次采用依托国产芯片的端到端无图方案",
-      "summary": "IT之家 6 月 2 日消息,东风汽车研发总院今日宣布, 天元智驾 T200 辅助驾驶城市 NOA 发布 ,已在奕派 007+ 汽车近日的 OTA 升级中正式上线。 据介绍, 天元智驾 T200 辅助驾驶在行业内首次采用依托国产芯片的端到端无图方案 ,车辆搭载的控制器和感知部件具备前向 200m 的探测识别距离、±5cm 的探测精度;配备 4 颗环视摄像头 + 12 颗超声波雷达,支持车身 360...",
-      "source": "Ithome",
-      "date": "2026-06-02",
-      "url": "https://www.ithome.com/0/958/941.htm"
+      "id": "https://www.fx168news.com/article/1039455",
+      "title": "激光概念迎来强势反弹,久之洋、锐科激光、必创科技、华是科技、长进光子、炬光科技、长光华芯、联创光电,概念相关企业整理-FX168",
+      "summary": "今日激光概念迎来强势反弹,久之洋、锐科激光、必创科技、华是科技、长进光子、炬光科技、长光华芯、联创光电,概念相关企业整理如下:久之洋(300516.SZ)最新股价:39.54元日涨幅:+20.00%(首板)公司专注于信息激光并有限拓展能量激光;信息激光方面,公司专注于...",
+      "source": "Fx168News",
+      "date": "2026-06-03",
+      "url": "https://www.fx168news.com/article/1039455"
     },
     {
-      "id": "https://www.newscase.com/%E8%8A%B1%E6%97%9730%E5%A4%A9%E8%A7%82%E5%AF%9F%E7%AA%97%E5%8F%A3%E5%BC%80%E5%90%AF%EF%BC%9Abyd%E5%87%BA%E5%8F%A3%E7%88%86%E5%8F%91%E4%B8%8E%E6%99%BA%E9%A9%BE%E5%85%A8%E8%B4%A3%E8%B5%94%E5%81%BF/",
-      "title": "花旗30天观察窗口开启:BYD出口爆发与智驾全责赔偿双线布局",
-      "summary": "港股开盘后,比亚迪(BYD)股价跳空高开,盘中一度触及96.55港元,较前一日收盘大涨逾6%。这股涨势的催化剂来自两份消息:5月出口数据创下新高,以及一份来自花旗研究的积极研判。在此之前,该股已在91港元附近横盘多日,距离52周低点88.50港元仅一步之遥。 花旗上调Q2利润预期,出口贡献近九成 花旗研究团队启动了一项为期30天的“正面催化剂观察”,认为比亚迪5月的批发数据超出市场预期,可能意味着...",
-      "source": "Newscase",
-      "date": "2026-06-02",
-      "url": "https://www.newscase.com/%E8%8A%B1%E6%97%9730%E5%A4%A9%E8%A7%82%E5%AF%9F%E7%AA%97%E5%8F%A3%E5%BC%80%E5%90%AF%EF%BC%9Abyd%E5%87%BA%E5%8F%A3%E7%88%86%E5%8F%91%E4%B8%8E%E6%99%BA%E9%A9%BE%E5%85%A8%E8%B4%A3%E8%B5%94%E5%81%BF/"
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260603-9148724",
+      "title": "市建局展出AI创新方案 打造更安全城市环境",
+      "summary": "人行道和坡道不平整,可能为年长者出行带来风险。新加坡—瑞士苏黎世联邦科技大学研究中心展开一项研究,让参与者佩戴轻便设备收集数据,通过人工智能(AI)分析哪些路面需要改善,以打造更安全的城市环境空间。...",
+      "source": "Zaobao",
+      "date": "2026-06-03",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260603-9148724"
+    },
+    {
+      "id": "http://www.businesswire.com/news/home/20260602570820/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+      "title": "Kinaxis推出前置部署工程服务,助力企业将决策转化为实际成果",
+      "summary": "拉斯维加斯--(BUSINESS WIRE)--(美国商业资讯)-- 供应链规划与协同领域的全球领导者Kinaxis® Inc. (TSX:KXS)今日推出“前置部署工程”(Forward Deployed Engineering, FDE)。这种全新的合作模式旨在帮助企业将AI投入实际运营,并将决策转化为可衡量的业务成果。FDE体现了Kinaxis更宏大的运营协同愿景,这种方法能够以足够快的速度...",
+      "source": "Businesswire",
+      "date": "2026-06-03",
+      "url": "http://www.businesswire.com/news/home/20260602570820/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/03/823246",
+      "title": "象群拦路 皮卡“夹困”有惊无险",
+      "summary": "(卡拉巴干3日讯)一段拍摄于卡拉巴干公路的视频近日在社交媒体广泛流传,画面显示一群婆罗洲小矮象带著幼象横跨道路,并一度在桥梁路段停留,与一辆皮卡车靠得非常近,所幸司机保持冷静停车等待,最终象群安全离开,未酿成任何意外事故。根据网络流传的视频及照片,当时约有5头大象及数头幼象集体穿越公路。由于幼象位于象群中央,成年大象分别守护在前后及两侧,形成天然保护圈,确保幼象安全通过道路。从画面可见,一辆白色皮...",
+      "source": "Orientaldaily",
+      "date": "2026-06-03",
+      "url": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/03/823246"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1864140382477583664",
+      "title": "湖北:电力数据“涨”声不断,托起文旅消费“漫山红遍..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864140382477583664"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780486214169088.html",
+      "title": "“十五五”农业机械化超80%,意味着什么?| 新京报专栏",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-03",
+      "url": "https://www.bjnews.com.cn/detail/1780486214169088.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1864148457347926296",
+      "title": "记者手记|从开普敦酒庄到中国餐桌——“零关税”东风..",
+      "summary": "新华社开普敦5月3日电(记者王雷 王晓梅 邓冰雪)南半球初秋的清晨,在距离南非立法首都开普敦市中心约30公里的黛眉斯多酒庄内,装瓶生产线发出低沉的轰鸣声。收获季刚刚结束,但酒庄依然在紧锣密鼓地运转着。...",
+      "source": "News_Baidu",
+      "date": "2026-06-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864148457347926296"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1864229020219464935",
+      "title": "技能逐梦正青春丨“手搓”机器人 续写世赛荣光",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864229020219464935"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1864237071926206929",
+      "title": "拦下百万转账,劝和路怒司机......这位社区“扫地僧”3..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-03",
+      "url": "http://baijiahao.baidu.com/s?id=1864237071926206929"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg6mlkw/",
+      "title": "激光雷达vs纯视觉:雨夜雾天谁更靠谱?选错智驾方案真会出事",
+      "summary": "2026年6月,智能驾驶已从“新奇功能”变为购车核心考量项。但对谨慎型用户而言,“选错智驾方案可能带来安全隐患”的担忧始终存在——尤其在雨夜、浓雾等复杂场景下,不同技术路线的表现差异显著。本文聚焦当前主流的两大智驾感知方案:激光雷达融合方案与纯视觉方案,......",
+      "source": "Smzdm",
+      "date": "2026-06-03",
+      "url": "https://post.smzdm.com/p/agg6mlkw/"
+    },
+    {
+      "id": "https://www.courant.com/2026/06/03/china-catching-up-to-us-on-autonomous-driving-tech-experts-warn-2/",
+      "title": "China catching up to US on autonomous driving tech, experts warn",
+      "summary": "Market conditions in China, regulatory changes there and its brands' speedy vehicle development threaten to put the United States behind in developing autonomous driving technologies, experts say. Dir...",
+      "source": "Hartford Courant",
+      "date": "2026-06-03",
+      "url": "https://www.courant.com/2026/06/03/china-catching-up-to-us-on-autonomous-driving-tech-experts-warn-2/"
+    },
+    {
+      "id": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/rivian-boss-says-level-4-autonomous-driving-is-much-closer-than-people-think-but-tesla-is-struggling-to-convince-its-own-employees-that-the-technology-is-reliable",
+      "title": "Rivian boss says Level 4 autonomous driving is \"much closer than people think\", but Tesla is struggling to convince its own employees that the technology is reliable",
+      "summary": "Tesla staffers claim the company isn't close to safely delivering autonomous vehicles at scale...",
+      "source": "TechRadar",
+      "date": "2026-06-03",
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/rivian-boss-says-level-4-autonomous-driving-is-much-closer-than-people-think-but-tesla-is-struggling-to-convince-its-own-employees-that-the-technology-is-reliable"
     },
     {
       "id": "https://zeenews.india.com/industry-updates/from-rural-indian-roads-to-next-generation-transportation-indian-origin-entrepreneur-builds-technology-for-safer-mobility-3052251.html",
@@ -231,6 +215,14 @@
       "source": "Firstpost",
       "date": "2026-06-01",
       "url": "https://www.firstpost.com/tech/nvidia-expands-global-robotaxi-push-partners-with-foxconn-and-uber-on-level-4-autonomous-vehicles-14017647.html"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-06-01/think-robotaxis-are-disruptive-wait-until-everyone-buys-their-own-avs",
+      "title": "The AV Future Might Not Be Shared",
+      "summary": "Right now, self-driving cars are used only for shared fleets of autonomous robotaxis. What happens when anyone can buy their own?...",
+      "source": "Bloomberg",
+      "date": "2026-06-01",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/think-robotaxis-are-disruptive-wait-until-everyone-buys-their-own-avs"
     },
     {
       "id": "https://www.manilatimes.net/2026/06/01/tmt-newswire/pr-newswire/foretellix-unveils-reference-solution-integrating-nvidia-alpamayo-to-scale-ai-autonomous-vehicle-development/2355619",
@@ -263,6 +255,14 @@
       "source": "TechCrunch",
       "date": "2026-05-29",
       "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/"
+    },
+    {
+      "id": "https://www.morningstar.com/company-reports/1483763-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology",
+      "title": "Leading NEV Manufacturer With Advanced In-House Autonomous Driving Technology",
+      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
+      "source": "Morningstar",
+      "date": "2026-05-29",
+      "url": "https://www.morningstar.com/company-reports/1483763-leading-nev-manufacturer-with-advanced-in-house-autonomous-driving-technology"
     }
   ]
 }
