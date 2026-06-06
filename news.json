@@ -1,187 +1,202 @@
 {
-  "lastUpdated": "2026-06-05 04:25:59",
-  "totalCount": 30,
+  "lastUpdated": "2026-06-06 04:08:20",
+  "totalCount": 28,
   "sources": {
+    "Bilibili": 5,
+    "Investing_Cn": 1,
     "Bjnews": 3,
-    "Cri_Cn": 2,
-    "Ithome": 5,
+    "Cri_Cn": 1,
+    "Chinanews": 1,
+    "Smzdm": 3,
+    "Ithome": 2,
     "Fx168News": 2,
-    "Smzdm": 1,
-    "News_Seehua": 1,
-    "Newscase": 1,
-    "Jiemian": 3,
-    "Chinanews": 2,
+    "Vietnamplus": 1,
+    "PR Newswire UK": 1,
+    "Reuters": 1,
+    "Devdiscourse": 1,
     "Forbes": 1,
     "Hartford Courant": 1,
     "TechRadar": 1,
     "Zee News": 1,
     "Firstpost": 1,
-    "Bloomberg": 1,
-    "The Manila Times": 1,
-    "MarketScreener": 1,
-    "South China Morning Post": 1,
-    "TechCrunch": 1
+    "Bloomberg": 1
   },
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1780571938129752.html",
-      "title": "汽车工程学会郑亚莉:AI大模型推动汽车向“超级智能体”加速演进",
+      "id": "https://www.bilibili.com/video/BV1ti7C6JEe6",
+      "title": "【B站】FSD终于来了！几乎0接管？结尾被挤入医院+地库：一镜到底！北京下班智能辅助驾驶！智能驾驶系列公开课：使用智驾前必看！",
+      "summary": "FSD终于来了！\n几乎0接管？一镜到底！\n结尾被挤入医院+地库！\n100%无剪辑真实记录：\n北京下班智能辅助驾驶！\n99%的人都不知道的：\n很多智能驾驶的细节！\n北京真实日常上下班：\n全网最深入的智能驾驶视频讲解！\n智能驾驶系列公开课：\n使用智驾前必看！...",
+      "source": "Bilibili",
+      "date": "2026-06-06",
+      "url": "https://www.bilibili.com/video/BV1ti7C6JEe6"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-06-06",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
+      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
+      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
+      "source": "Bilibili",
+      "date": "2026-06-06",
+      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-06-06",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-06",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3404296",
+      "title": "摩根大通更换覆盖特斯拉的分析师 新人起手将目标价翻了3倍",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-05",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3404296"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780646222129217.html",
+      "title": "从青年学堂到汽车变革:清华经管三大课程",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-04",
-      "url": "https://www.bjnews.com.cn/detail/1780571938129752.html"
+      "date": "2026-06-05",
+      "url": "https://www.bjnews.com.cn/detail/1780646222129217.html"
     },
     {
-      "id": "https://news.cri.cn/20260604/c2d435c0-a605-d025-353b-55515f787465.html",
-      "title": "新华网国际看点|美伊谈判关键时刻,以色列为何来“搅局”?-国际在线",
-      "summary": "新华网北京6月4日电题:美伊谈判关键时刻,以色列为何来“搅局”? 新华网记者李雪梅余申芳吴轶楠 近日,美伊谈判再添新变数。在接近达成协议的关键节点,...",
+      "id": "https://news.cri.cn/20260605/68e1a9be-fb92-4c22-89e1-a61baf91789d.html",
+      "title": "数据标注员、无人驾驶集控员、新型创业主体...... 新质生产力孕育就业新机遇(经济新方位·新质生产力创造就业新空间)-国际在线",
+      "summary": "记者邱超奕苏滨赵景锋 习近平总书记强调:“因地制宜发展新质生产力,改造提升传统产业,培育壮大新兴产业,布局建设未来产业,完善现代化产业体系,努力创造更多高质量就业岗位。”国务院就业促进和劳动保护工作领导小组日前印发的《稳岗扩容提质...",
       "source": "Cri_Cn",
-      "date": "2026-06-04",
-      "url": "https://news.cri.cn/20260604/c2d435c0-a605-d025-353b-55515f787465.html"
+      "date": "2026-06-05",
+      "url": "https://news.cri.cn/20260605/68e1a9be-fb92-4c22-89e1-a61baf91789d.html"
     },
     {
-      "id": "https://www.ithome.com/0/960/166.htm",
-      "title": "挪威电动汽车夏测结果出炉:宝马新世代 iX3 以 781 公里拔得续航头筹",
-      "summary": "IT之家 6 月 4 日消息,宝马 iX3 50 xDrive 在《Motor》杂志和挪威汽车联合会(NAF)举行的夏季纯电续航测试中跑出 781 公里,击败其他参赛车型,成为本次夏测中续航最长的纯电车型。 iX3 50 xDrive 是宝马首款新世代纯电车型。宝马此前表示,全新 iX3 将带来明显升级,续航提升 30%,充电速度也提升 30%。 此次取得的这一成绩,尚未超过 Lucid Air ...",
-      "source": "Ithome",
-      "date": "2026-06-04",
-      "url": "https://www.ithome.com/0/960/166.htm"
+      "id": "https://www.chinanews.com.cn/ll/2026/06-05/10635209.shtml",
+      "title": "【好评中国】从挥镰汗淌到农机轰鸣,“三夏”抢收有了新底气",
+      "summary": "仲夏麦浪翻滚,三夏抢收由南向北次第铺开。早先农家收麦全靠人工,割捆、碾场、扬晒一环不能少,忙活多日才能把麦子晒干入仓。现如今,新型智能联合收割机将收割、脱粒、清选、秸秆粉碎还田等工序一次性完成,一台收割机开过去,几分钟就能收完一大片。现代化农机作业效率上去了,跑粮漏粮少了,收获质量也更有保障。...",
+      "source": "Chinanews",
+      "date": "2026-06-05",
+      "url": "https://www.chinanews.com.cn/ll/2026/06-05/10635209.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/960/162.htm",
-      "title": "英国一工厂与宾利联手复刻 1929 年老爷车:纯电动力、手工打造、原车 85% 大小",
-      "summary": "IT之家 6 月 4 日消息,宾利首款量产电动汽车预计明年到来。不过,在宾利的老家英国,一家名叫 Hedley Studios 的独立小工作室已经开始另辟蹊径,“抢先一步”打造纯电宾利。 据外媒 Insideevs 今晚报道,Hedley Studios 的最新作品来自美国演员杰森 · 莫玛的委托。莫玛想要一辆足够特别的车,不想淹没在一众圆润臃肿的电车之中。 于是,Hedley Studios 以...",
-      "source": "Ithome",
-      "date": "2026-06-04",
-      "url": "https://www.ithome.com/0/960/162.htm"
-    },
-    {
-      "id": "https://news.cri.cn/20260604/925fa982-c595-aa07-9f70-987d22d34219.html",
-      "title": "海外博主看中国|“这究竟是地铁站,还是未来空间站?”-国际在线",
-      "summary": "古都西安以其悠久的历史和丰富的文化遗产吸引着世界各地的游客。 来自英国的视频博主杰森最近探访了这座城市,但与大多数外国游客不同,他更关注西安现代化的一面:自动驾驶地铁、高科技基础设施、城墙上的机器人外骨骼,以及令人惊叹的夜晚灯光秀。...",
-      "source": "Cri_Cn",
-      "date": "2026-06-04",
-      "url": "https://news.cri.cn/20260604/925fa982-c595-aa07-9f70-987d22d34219.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/960/128.htm",
-      "title": "重庆车企首家:长安汽车自研大模型获国家生成式 AI 备案审批",
-      "summary": "IT之家 6 月 4 日消息,长安汽车今日宣布,其全栈自研的长安天枢大模型已正式通过国家网信办“生成式人工智能服务”备案审批, 成为重庆首家通过国家级备案的车企 ,标志着长安科技自主研发的“天枢大模型”作为独立训练、运营的生成式 AI 大模型服务或产品可面向公众提供服务。 根据长安汽车官方介绍,长安天枢大模型以语音、语言、视觉多模等模态数据为特征,具备感知、理解、推理、生成等技术能力,后续将作为基...",
-      "source": "Ithome",
-      "date": "2026-06-04",
-      "url": "https://www.ithome.com/0/960/128.htm"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1040029",
-      "title": "美股盘前要点 | SpaceX拟定IPO发行价135美元!博通AI营收指引逊预期,盘前大跌超14%-FX168",
-      "summary": "特斯拉在奥斯汀全面推出Robotaxi服务;Meta拟面向普通消费者推出AI智能体;台积电预期今年销售额将增长超30%。...",
-      "source": "Fx168News",
-      "date": "2026-06-04",
-      "url": "https://www.fx168news.com/article/1040029"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avg24g0n/",
-      "title": "2026还在玩手动后驱?GR86、BRZ、MX-5到底谁更值得买",
-      "summary": "在电动化浪潮席卷全球的2026年,仍有一群人执着于手动挡、后驱布局与自然吸气发动机带来的纯粹驾驶乐趣。如果你正犹豫于2026款丰田GR86、斯巴鲁BRZ或马自达MX-5之间,担心选错、怕后期后悔,本文将从动力性能、操控特性、日常实用性、用车成本四大维度,......",
+      "id": "https://post.smzdm.com/p/aqr4gm9x/",
+      "title": "华为乾崑VS比亚迪天神之眼:谁的智驾更靠谱?关键看这三点",
+      "summary": "2026年,智能驾驶辅助系统已从“锦上添花”变为购车核心考量。但面对宣传中“全场景覆盖”“自动避险”的承诺,谨慎型用户最关心的不是功能多炫,而是关键时刻能不能刹得住、出事了谁来兜底。尤其在L2级仍是主流的当下4,5,系统可靠性与责任边界直接决定用车安心程......",
       "source": "Smzdm",
-      "date": "2026-06-04",
-      "url": "https://post.smzdm.com/p/avg24g0n/"
+      "date": "2026-06-05",
+      "url": "https://post.smzdm.com/p/aqr4gm9x/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780558257129516.html",
-      "title": "高考期间北京铁骑交警将随车携带备用头盔,随时做好送考准备",
+      "id": "https://www.bjnews.com.cn/detail/1780666666129579.html",
+      "title": "六大配置全域焕新,九号M3100凭硬核实力诠释“高质价比”",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-04",
-      "url": "https://www.bjnews.com.cn/detail/1780558257129516.html"
+      "date": "2026-06-05",
+      "url": "https://www.bjnews.com.cn/detail/1780666666129579.html"
     },
     {
-      "id": "https://www.ithome.com/0/960/105.htm",
-      "title": "中国汽车工程学会:预计 2030 年新能源车型占乘用车新车销量超七成",
-      "summary": "IT之家 6 月 4 日消息,据澎湃新闻,在 3 日召开的第 33 届中国汽车工程学会年会暨展览会和汽车创新技术展新闻发布会上,中国汽车工程学会副理事长兼秘书长侯福深表示,“十五五”是我国汽车产业由规模扩张迈向全面高质量发展的关键阶段。 侯福深预计,未来五年,产业将呈现 电动化技术加速升级迭代、数智变革向全产业链拓展、中外汽车产业竞合格局深度重塑 等趋势。预计到 2030 年,新能源车型在乘用车新...",
+      "id": "https://www.ithome.com/0/960/742.htm",
+      "title": "十部门:2028 年底前,高速公路服务区新建、改建 60kW 以上功率充电设施 3 万个",
+      "summary": "IT之家 6 月 5 日消息,交通运输部等十部门于 6 月 1 日印发《促进小微型客车租赁高质量发展三年行动方案》,方案提出,完善停车充电等配套服务设施。 具体来看,方案提到,鼓励租赁企业投放新能源汽车。加快推动高速公路服务区充电设施建设,2028 年底前高速公路服务区 新建改建 60 千瓦以上功率电动汽车充电设施 3 万个 ,围绕旅游公路、国省干线、“四好农村路”等规划布局充换电设施。引导民航机...",
       "source": "Ithome",
-      "date": "2026-06-04",
-      "url": "https://www.ithome.com/0/960/105.htm"
+      "date": "2026-06-05",
+      "url": "https://www.ithome.com/0/960/742.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1493999",
-      "title": "【玻州议会】通过提案促联邦对酒驾者 实施更严厉刑罚",
-      "summary": "(加央4日讯)玻璃市州立法议会周四一致通过一项提案,促请联邦政府对酒后驾驶(DUI)违规者施加更严厉的强制性刑 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-04",
-      "url": "https://news.seehua.com/post/1493999"
-    },
-    {
-      "id": "https://www.ithome.com/0/960/104.htm",
-      "title": "奕境曾清林谈“武汉首例醉酒辅助驾驶司机被判刑”:事件本质是醉驾,不是智驾",
-      "summary": "IT之家 6 月 4 日消息,去年 10 月,一司机醉酒后驾驶开启辅助驾驶的车辆上路,最后停在武汉光谷一条主干道上酣睡不醒。目前,武汉东湖新技术开发区人民检察院以危险驾驶罪对王某提起公诉,司机被判处拘役一个月十五日,并处罚金三千元。 该案也是武汉市首例因利用辅助驾驶系统实施醉驾行为而被判刑的案件 。 该案件结果宣判后引起了网友讨论,汽车博主 @吴佩 认为这件事真的有很大的信息偏差,虽然喊了很多年“...",
-      "source": "Ithome",
-      "date": "2026-06-04",
-      "url": "https://www.ithome.com/0/960/104.htm"
-    },
-    {
-      "id": "https://www.newscase.com/%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A%E4%B8%8E%E6%AC%A7%E6%B4%B2%E6%94%BB%E5%8A%BF%E5%B9%B6%E8%A1%8C%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%85%AD%E6%9C%88%E7%AA%81%E5%9B%B4%E8%B7%AF%E5%BE%84/",
-      "title": "股东大会与欧洲攻势并行:比亚迪的六月突围路径",
-      "summary": "6月9日,比亚迪即将召开年度股东大会。H股股东若想参与投票,须在6月3日香港时间4:30前完成登记。除了常规的分红与治理议题,这次会议还涉及一系列融资授权——新股发行上限、债务工具规模、担保额度等,这些都将直接影响未来资本结构。而就在同一时间节点,比亚迪在欧洲市场亮出了全新武器:专为海外用户打造的插电混动超小型车Dolphin G DM-i将在本月开卖。 欧洲首款“纯正”海外车型:Dolphin ...",
-      "source": "Newscase",
-      "date": "2026-06-04",
-      "url": "https://www.newscase.com/%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A%E4%B8%8E%E6%AC%A7%E6%B4%B2%E6%94%BB%E5%8A%BF%E5%B9%B6%E8%A1%8C%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%85%AD%E6%9C%88%E7%AA%81%E5%9B%B4%E8%B7%AF%E5%BE%84/"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14532757.html",
-      "title": "被质疑“圈路收费”,湖北神旅集团致歉",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-06-04",
-      "url": "https://www.jiemian.com/article/14532757.html"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14534228.html",
-      "title": "地方新闻精选 | 神农架景区就“圈国道收费”致歉 长江江豚监测数量创历史新高",
-      "summary": "今天有哪些地方新闻值得关注?超500万元改造体育场试开放时跑道多处破损,河南省泌阳县通报;杭州警方:19岁男子驾摩托车冲卡致警员受伤,已被刑拘;北京海淀区19个路口上线使用AI红绿灯,拥堵指数下降约19%。...",
-      "source": "Jiemian",
-      "date": "2026-06-04",
-      "url": "https://www.jiemian.com/article/14534228.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-04/10634306.shtml",
-      "title": "护航高考十余载 湖南冷水江晚间公交专线温暖学子回家路",
-      "summary": "中新网娄底6月4日电 (颜文辉 曹丹 吴凯 余际林)自2015年起,湖南娄底冷水江市公交公司开通了一条专门接送晚自习学生的公交专线,点对点护送学生回家。十余年来,这条专线夜班车成为无数孩子回家路上最温暖的陪伴。截至今年,该专线已累计服务学生超百万人次,保持着零事故、零投诉的安全纪录。...",
-      "source": "Chinanews",
-      "date": "2026-06-04",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-04/10634306.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780570071129732.html",
-      "title": "数字化赋能工伤预防 打造智慧治理新模式",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-04",
-      "url": "https://www.bjnews.com.cn/detail/1780570071129732.html"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14515963.html",
-      "title": "更贵的问界M9不能只靠华为技术继续爆单",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-06-04",
-      "url": "https://www.jiemian.com/article/14515963.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/06-04/10634281.shtml",
-      "title": "重新定义出海内涵 民企外贸主力军地位进一步巩固",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-06-04",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-04/10634281.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1039942",
-      "title": "汇丰看好AI机遇,两家自动驾驶公司纳入港股通,恒生科技ETF华夏(513180)全天成交超26亿-FX168",
-      "summary": "截至2026年6月4日收盘,恒生科技指数(HSTECH)下跌1.61%。成分股方面涨跌互现,华虹半导体领涨3.16%,比亚迪电子上涨1.16%,快手-W上涨0.43%;金蝶国际领跌7.72%,商汤-W下跌4.62%%,腾讯音乐-SW下跌4.24。恒生科技ETF华夏(513180)盘中换手5.61%,成交26.86亿元。 消息面上,汇丰6月4日发布的2026年第三季度全球投资展望报告显示,投资者聚焦...",
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1040566",
+      "title": "港股次新股跟踪周报(2026-06-05)-FX168",
+      "summary": "解禁窗口密集共振,图达通、京东工业巨量筹码将迎关键压力测试;流动性两极分化加剧,尾部标的滑入枯竭区间;老铺黄金、智谱较发行价涨超10倍,破发深度标的跌逾85%;AI概念股短期博弈剧烈,量化派、首钢朗泽单周涨超40%。...",
       "source": "Fx168News",
-      "date": "2026-06-04",
-      "url": "https://www.fx168news.com/article/1039942"
+      "date": "2026-06-05",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1040566"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1040554",
+      "title": "目标价暴涨227%!摩根大通多年看空转向,看到了特斯拉什么价值?-FX168",
+      "summary": "TradingKey - 摩根大通(JPM)将特斯拉(TSLA)评级从\"减持\"上调至\"中性\",并将目标价从145美元大幅上调至475美元,涨幅超过227%。 此次评级调整由上月刚接手特斯拉研究覆盖的Rajat Gupta领衔的分析师团队完成,在周五发布的报告中指出,投资者正将目光投向特斯拉放缓的核心电动车业务之外,聚焦于机器人出租车、人形机器人、AI芯片及软件服务等未来增长引擎,这些业务有望在未来...",
+      "source": "Fx168News",
+      "date": "2026-06-05",
+      "url": "https://www.fx168news.com/article/1040554"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anv47d37/",
+      "title": "小鹏XNGP vs 华为乾崑ADS:无图泛化和高精冗余,谁更适合你的日常通勤?",
+      "summary": "在2026年,高阶智能辅助驾驶已从“炫技”走向“刚需”,但面对动辄数万元的选装费用和铺天盖地的技术术语,许多谨慎型用户仍深陷“怕选错、怕后悔”的焦虑中。小鹏XNGP与华为乾崑ADS作为当前国产智驾系统的两大标杆,分别以全栈自研端到端大模型和多传感器融合+......",
+      "source": "Smzdm",
+      "date": "2026-06-05",
+      "url": "https://post.smzdm.com/p/anv47d37/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780668109169123.html",
+      "title": "排查场所1200余家、整改300余处,新疆阿勒泰公安护航高考",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-05",
+      "url": "https://www.bjnews.com.cn/detail/1780668109169123.html"
+    },
+    {
+      "id": "https://zh.vietnamplus.vn/article-post261548.vnp",
+      "title": "宣光省支持国际游客遵守越南边境地区规定",
+      "summary": "随着边境地区接待国际游客量不断增加,自6月3日起,宣光省公安厅出入境管理处与各主管部门配合开展对在当地居留、活动的外国人专项检查和管控行动。 太原省多措并举将旅游业打造成为重要经济产业 数字技术推动山区旅游发展 越南河江与会安为何入选2026年全球最佳目的地榜单?...",
+      "source": "Vietnamplus",
+      "date": "2026-06-05",
+      "url": "https://zh.vietnamplus.vn/article-post261548.vnp"
+    },
+    {
+      "id": "https://www.ithome.com/0/960/711.htm",
+      "title": "行业标杆:华为联合深圳地铁发布全球首个星河 AI 车地 Wi-Fi 7 轨交无线创新成果,将逐步向北上广等更多城市推广",
+      "summary": "IT之家 6 月 5 日消息,6 月 3 日,“智联轨行 · 共创未来 —— 深圳地铁车地 Wi-Fi 7 联合发布暨全球样板点建设启动活动”在深圳举行。 会上,深圳地铁集团与华为技术有限公司共同发布了业界领先的“星河 AI 车地 Wi‐Fi 7 无线创新成果”,并正式启动了双方联合共建的全球行业标杆样板点。这意味着 Wi‐Fi 7 在国内轨道交通车地无线场景实现了首次落地应用,也标志着轨道交通正...",
+      "source": "Ithome",
+      "date": "2026-06-05",
+      "url": "https://www.ithome.com/0/960/711.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anv473gv/",
+      "title": "Model 3和Model Y怎么选?家庭用户和通勤党看完这篇不再纠结",
+      "summary": "在2026年,特斯拉Model 3与Model Y依然是纯电市场中最受关注的两款车型。它们共享三电系统、智能驾驶平台和超充网络,却因车身形态差异,在真实使用中呈现出截然不同的体验。对于“怕选错、怕后悔”的谨慎型用户而言,盲目跟风或仅看参数容易踩坑。本文基......",
+      "source": "Smzdm",
+      "date": "2026-06-05",
+      "url": "https://post.smzdm.com/p/anv473gv/"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/legato-merger-corp-iii-shareholders-approve-business-combination-with-einride-302792607.html",
+      "title": "Legato Merger Corp. III Shareholders Approve Business Combination with Einride",
+      "summary": "/PRNewswire/ -- Einride AB (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous freight......",
+      "source": "PR Newswire UK",
+      "date": "2026-06-05",
+      "url": "https://www.prnewswire.co.uk/news-releases/legato-merger-corp-iii-shareholders-approve-business-combination-with-einride-302792607.html"
+    },
+    {
+      "id": "https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/",
+      "title": "JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth",
+      "summary": "J.P. Morgan upgraded Elon Musk-led Tesla to \"neutral\" from \"underweight\" on Friday, citing that the electric-vehicle maker's valuation is increasingly driven by its push into ​autonomous driving and r...",
+      "source": "Reuters",
+      "date": "2026-06-05",
+      "url": "https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3930594-teslas-forward-drive-beyond-electric-vehicles-to-a-39-trillion-future",
+      "title": "Tesla's Forward Drive: Beyond Electric Vehicles to a $3.9 Trillion Future",
+      "summary": "J.P. Morgan has upgraded Tesla to 'neutral,' driven by its expansion into autonomous driving and robotics. The optimism is fueled by Tesla's vertical integration and future growth prospects like robot...",
+      "source": "Devdiscourse",
+      "date": "2026-06-05",
+      "url": "https://www.devdiscourse.com/article/technology/3930594-teslas-forward-drive-beyond-electric-vehicles-to-a-39-trillion-future"
     },
     {
       "id": "https://www.forbes.com/sites/johnkoetsier/2026/06/03/this-wall-e-self-driving-pod-wants-to-replace-the-airport-wheelchair-and-much-more/",
@@ -230,38 +245,6 @@
       "source": "Bloomberg",
       "date": "2026-06-01",
       "url": "https://www.bloomberg.com/news/articles/2026-06-01/think-robotaxis-are-disruptive-wait-until-everyone-buys-their-own-avs"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/06/01/tmt-newswire/pr-newswire/foretellix-unveils-reference-solution-integrating-nvidia-alpamayo-to-scale-ai-autonomous-vehicle-development/2355619",
-      "title": "Foretellix Unveils Reference Solution Integrating NVIDIA Alpamayo to Scale AI Autonomous Vehicle Development",
-      "summary": "SUNNYVALE, Calif., June 1, 2026 /PRNewswire/ -- Foretellix, provider of safety and data infrastructure for physical AI, today announced its Reference Solution for the NVIDIA Alpamayo ecosystem. Forete...",
-      "source": "The Manila Times",
-      "date": "2026-06-01",
-      "url": "https://www.manilatimes.net/2026/06/01/tmt-newswire/pr-newswire/foretellix-unveils-reference-solution-integrating-nvidia-alpamayo-to-scale-ai-autonomous-vehicle-development/2355619"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/uber-chooses-munich-as-ai-robotaxi-testing-ground-ce7f5dd8d180fe2d",
-      "title": "Uber Chooses Munich as AI Robotaxi Testing Ground",
-      "summary": "By Mauro Orru\nUber Technologies plans to launch a robotaxi program in the German city of Munich, marking the latest effort from the ride-hailing group to bring autonomous driving to the streets......",
-      "source": "MarketScreener",
-      "date": "2026-06-01",
-      "url": "https://www.marketscreener.com/news/uber-chooses-munich-as-ai-robotaxi-testing-ground-ce7f5dd8d180fe2d"
-    },
-    {
-      "id": "https://www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley",
-      "title": "Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley",
-      "summary": "Carmakers redirect resources to autonomous driving upgrades, hoping AI can deliver growth beyond subsidy-driven sales....",
-      "source": "South China Morning Post",
-      "date": "2026-05-31",
-      "url": "https://www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley"
-    },
-    {
-      "id": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas....",
-      "source": "TechCrunch",
-      "date": "2026-05-29",
-      "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/"
     }
   ]
 }
