@@ -1,16 +1,18 @@
 {
-  "lastUpdated": "2026-06-06 04:08:20",
-  "totalCount": 28,
+  "lastUpdated": "2026-06-07 04:44:43",
+  "totalCount": 26,
   "sources": {
-    "Bilibili": 5,
+    "Chinanews": 2,
+    "Zaobao": 2,
+    "Ithome": 5,
+    "Jiemian": 1,
     "Investing_Cn": 1,
-    "Bjnews": 3,
-    "Cri_Cn": 1,
-    "Chinanews": 1,
-    "Smzdm": 3,
-    "Ithome": 2,
-    "Fx168News": 2,
-    "Vietnamplus": 1,
+    "News_Seehua": 1,
+    "Cnblogs": 1,
+    "Smzdm": 1,
+    "Ign_Cn": 1,
+    "Fx168News": 1,
+    "Newscase": 1,
     "PR Newswire UK": 1,
     "Reuters": 1,
     "Devdiscourse": 1,
@@ -23,156 +25,140 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1ti7C6JEe6",
-      "title": "【B站】FSD终于来了！几乎0接管？结尾被挤入医院+地库：一镜到底！北京下班智能辅助驾驶！智能驾驶系列公开课：使用智驾前必看！",
-      "summary": "FSD终于来了！\n几乎0接管？一镜到底！\n结尾被挤入医院+地库！\n100%无剪辑真实记录：\n北京下班智能辅助驾驶！\n99%的人都不知道的：\n很多智能驾驶的细节！\n北京真实日常上下班：\n全网最深入的智能驾驶视频讲解！\n智能驾驶系列公开课：\n使用智驾前必看！...",
-      "source": "Bilibili",
+      "id": "https://www.chinanews.com.cn/sh/2026/06-07/10635657.shtml",
+      "title": "2026年高考今日开考,1290万人奔赴考场",
+      "summary": "中新网北京6月7日电(记者 袁秀月)6月7日,2026年高考将正式开考,全国将有1290万人奔赴考场。多地出台措施,静音、降噪,启动专项保障机制,全力护航考生顺利应考。教育部提醒广大考生,严格遵守考试规定,及时关注考试期间天气、交通等情况,诚信参加考试,放平心态从容应考。...",
+      "source": "Chinanews",
       "date": "2026-06-06",
-      "url": "https://www.bilibili.com/video/BV1ti7C6JEe6"
+      "url": "https://www.chinanews.com.cn/sh/2026/06-07/10635657.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260606-9165027",
+      "title": "21岁确诊末期肾衰竭 青年圆梦当SMRT最年轻巴士车长",
+      "summary": "NewsData报道",
+      "source": "Zaobao",
       "date": "2026-06-06",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260606-9165027"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
-      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
-      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
-      "source": "Bilibili",
+      "id": "https://www.chinanews.com.cn/ydyl/2026/06-06/10635520.shtml",
+      "title": "今年前5个月浙江“义甬舟”海铁联运发运量同比增长80.83%",
+      "summary": "中新网义乌6月6日电(董易鑫)6月6日,浙江省义乌市市场发展委公布的最新数据显示,今年前5个月,浙江中欧班列(义新欧)发运超10.9万标箱、同比增长1.2%;“义甬舟”海铁联运发运超7.1万重箱、同比增长80.83%。...",
+      "source": "Chinanews",
       "date": "2026-06-06",
-      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
+      "url": "https://www.chinanews.com.cn/ydyl/2026/06-06/10635520.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
+      "id": "https://www.ithome.com/0/960/959.htm",
+      "title": "创造历史:首位登 FIA F3 锦标赛领奖台中国车手诞生,谢咏霖摩纳哥冲刺赛亚军",
+      "summary": "IT之家 6 月 6 日消息,在今日举行的国际汽联(FIA)三级方程式锦标赛摩纳哥站冲刺赛中,中国车手谢咏霖以第二名的成绩冲过终点线。 这不仅是这位 19 岁小将个人 F3 生涯首次登上领奖台,也同时创造了新的历史 —— 他由此成为首位在 FIA F3 锦标赛中登上领奖台的中国车手。 摩纳哥赛道是世界赛车运动版图中最独特也最严酷的考验之一。这条全长仅 3.337 公里的街道赛道以极度狭窄、弯道繁多...",
+      "source": "Ithome",
       "date": "2026-06-06",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "url": "https://www.ithome.com/0/960/959.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
-      "title": "【B站】【科普】自动驾驶分级及原理",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.jiemian.com/article/14546571.html",
+      "title": "字节再度否认造车:和赛豆没有股权合作",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
       "date": "2026-06-06",
-      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+      "url": "https://www.jiemian.com/article/14546571.html"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3404296",
-      "title": "摩根大通更换覆盖特斯拉的分析师 新人起手将目标价翻了3倍",
+      "id": "https://www.ithome.com/0/960/922.htm",
+      "title": "2026 款小鹏 X9 获推 AIOS 6.2.0:新增辅助驾驶车道级渲染、终点车位选项等",
+      "summary": "IT之家 6 月 6 日消息,小鹏 X9、小鹏 GX 产品负责人罗杰今日宣布, 2026 款小鹏 X9 AIOS 6.2.0 的推送已经启动 ,本轮升级 Ultra 和 Ultra SE 车主将收到 VLA 2.0 的第二个版本,智驾体验再次升级,座舱方面 26 款全系 X9 也将新增一系列实用功能。 罗杰表示,26 款 X9 Max 版车主最关心的 VLA 2.0 蒸馏版,通用智能中心的同学也在...",
+      "source": "Ithome",
+      "date": "2026-06-06",
+      "url": "https://www.ithome.com/0/960/922.htm"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/sports/story20260606-9165571",
+      "title": "避免NBA世界杯“撞车” 纽约市长盼尼克斯横扫马刺",
+      "summary": "(纽约综合电)为避免美国职业篮球赛(NBA)总决赛和2026年世界杯小组赛同天进行导致交通梦魇,纽约市长马姆达尼(Mamdani)希望握有2比0领先的纽约尼克斯(New York Knicks)能实现横扫。...",
+      "source": "Zaobao",
+      "date": "2026-06-06",
+      "url": "https://www.zaobao.com.sg/news/sports/story20260606-9165571"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3404744",
+      "title": "本周华尔街重要评级汇总:科尔士、TripAdvisor、AT&T、联合健康、特斯拉",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-05",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3404296"
+      "date": "2026-06-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3404744"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780646222129217.html",
-      "title": "从青年学堂到汽车变革:清华经管三大课程",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-05",
-      "url": "https://www.bjnews.com.cn/detail/1780646222129217.html"
-    },
-    {
-      "id": "https://news.cri.cn/20260605/68e1a9be-fb92-4c22-89e1-a61baf91789d.html",
-      "title": "数据标注员、无人驾驶集控员、新型创业主体...... 新质生产力孕育就业新机遇(经济新方位·新质生产力创造就业新空间)-国际在线",
-      "summary": "记者邱超奕苏滨赵景锋 习近平总书记强调:“因地制宜发展新质生产力,改造提升传统产业,培育壮大新兴产业,布局建设未来产业,完善现代化产业体系,努力创造更多高质量就业岗位。”国务院就业促进和劳动保护工作领导小组日前印发的《稳岗扩容提质...",
-      "source": "Cri_Cn",
-      "date": "2026-06-05",
-      "url": "https://news.cri.cn/20260605/68e1a9be-fb92-4c22-89e1-a61baf91789d.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/ll/2026/06-05/10635209.shtml",
-      "title": "【好评中国】从挥镰汗淌到农机轰鸣,“三夏”抢收有了新底气",
-      "summary": "仲夏麦浪翻滚,三夏抢收由南向北次第铺开。早先农家收麦全靠人工,割捆、碾场、扬晒一环不能少,忙活多日才能把麦子晒干入仓。现如今,新型智能联合收割机将收割、脱粒、清选、秸秆粉碎还田等工序一次性完成,一台收割机开过去,几分钟就能收完一大片。现代化农机作业效率上去了,跑粮漏粮少了,收获质量也更有保障。...",
-      "source": "Chinanews",
-      "date": "2026-06-05",
-      "url": "https://www.chinanews.com.cn/ll/2026/06-05/10635209.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqr4gm9x/",
-      "title": "华为乾崑VS比亚迪天神之眼:谁的智驾更靠谱?关键看这三点",
-      "summary": "2026年,智能驾驶辅助系统已从“锦上添花”变为购车核心考量。但面对宣传中“全场景覆盖”“自动避险”的承诺,谨慎型用户最关心的不是功能多炫,而是关键时刻能不能刹得住、出事了谁来兜底。尤其在L2级仍是主流的当下4,5,系统可靠性与责任边界直接决定用车安心程......",
-      "source": "Smzdm",
-      "date": "2026-06-05",
-      "url": "https://post.smzdm.com/p/aqr4gm9x/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1780666666129579.html",
-      "title": "六大配置全域焕新,九号M3100凭硬核实力诠释“高质价比”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-05",
-      "url": "https://www.bjnews.com.cn/detail/1780666666129579.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/960/742.htm",
-      "title": "十部门:2028 年底前,高速公路服务区新建、改建 60kW 以上功率充电设施 3 万个",
-      "summary": "IT之家 6 月 5 日消息,交通运输部等十部门于 6 月 1 日印发《促进小微型客车租赁高质量发展三年行动方案》,方案提出,完善停车充电等配套服务设施。 具体来看,方案提到,鼓励租赁企业投放新能源汽车。加快推动高速公路服务区充电设施建设,2028 年底前高速公路服务区 新建改建 60 千瓦以上功率电动汽车充电设施 3 万个 ,围绕旅游公路、国省干线、“四好农村路”等规划布局充换电设施。引导民航机...",
+      "id": "https://www.ithome.com/0/960/900.htm",
+      "title": "万代南梦宫高达游戏新作《GUNDAM 异轨征途》官宣,计划 2027 年发售",
+      "summary": "IT之家 6 月 6 日消息,万代南梦宫(BANDAI NAMCO)今日宣布,动作游戏《GUNDAM 异轨征途》(GUNDAM ROGUE ORBIT) 计划于 2027 年发售 。 IT之家获悉,这款游戏将登陆 PlayStation 5、Xbox Series X|S 和 Steam 平台,游戏字幕支持简体中文。 游戏简介如下: 《GUNDAM 异轨征途》是能体验高速自在的高机动战斗的动作游戏...",
       "source": "Ithome",
-      "date": "2026-06-05",
-      "url": "https://www.ithome.com/0/960/742.htm"
+      "date": "2026-06-06",
+      "url": "https://www.ithome.com/0/960/900.htm"
     },
     {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1040566",
-      "title": "港股次新股跟踪周报(2026-06-05)-FX168",
-      "summary": "解禁窗口密集共振,图达通、京东工业巨量筹码将迎关键压力测试;流动性两极分化加剧,尾部标的滑入枯竭区间;老铺黄金、智谱较发行价涨超10倍,破发深度标的跌逾85%;AI概念股短期博弈剧烈,量化派、首钢朗泽单周涨超40%。...",
-      "source": "Fx168News",
-      "date": "2026-06-05",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1040566"
+      "id": "https://news.seehua.com/post/1494727",
+      "title": "鼓浪屿号再访汶莱 近两千国际游客体验文化风情",
+      "summary": "(汶莱斯市6日讯)汶莱于近期迎来鼓浪屿号邮轮(Piano Land)的到访,载有1,995名国际游客及483名 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-06",
+      "url": "https://news.seehua.com/post/1494727"
     },
     {
-      "id": "https://www.fx168news.com/article/1040554",
-      "title": "目标价暴涨227%!摩根大通多年看空转向,看到了特斯拉什么价值?-FX168",
-      "summary": "TradingKey - 摩根大通(JPM)将特斯拉(TSLA)评级从\"减持\"上调至\"中性\",并将目标价从145美元大幅上调至475美元,涨幅超过227%。 此次评级调整由上月刚接手特斯拉研究覆盖的Rajat Gupta领衔的分析师团队完成,在周五发布的报告中指出,投资者正将目光投向特斯拉放缓的核心电动车业务之外,聚焦于机器人出租车、人形机器人、AI芯片及软件服务等未来增长引擎,这些业务有望在未来...",
-      "source": "Fx168News",
-      "date": "2026-06-05",
-      "url": "https://www.fx168news.com/article/1040554"
+      "id": "https://www.cnblogs.com/hynews/p/20351316",
+      "title": "2026年北京搬家公司怎么收费?专业服务与合理定价全解析",
+      "summary": "随着2026年的临近,北京的城市发展与人口流动依然活跃,无论是企业扩张、家庭乔迁,还是机构优化,搬迁需求持续存在且不断升级。用户的需求已从过去单纯追求“搬得动”,全面升级为要求“搬得好、搬得省心、搬得透明”。市场在呼唤能够提供标准化流程、个性化方案、全程可追溯且定价清晰的高品质搬家公司。 公司概况:...",
+      "source": "Cnblogs",
+      "date": "2026-06-06",
+      "url": "https://www.cnblogs.com/hynews/p/20351316"
     },
     {
-      "id": "https://post.smzdm.com/p/anv47d37/",
-      "title": "小鹏XNGP vs 华为乾崑ADS:无图泛化和高精冗余,谁更适合你的日常通勤?",
-      "summary": "在2026年,高阶智能辅助驾驶已从“炫技”走向“刚需”,但面对动辄数万元的选装费用和铺天盖地的技术术语,许多谨慎型用户仍深陷“怕选错、怕后悔”的焦虑中。小鹏XNGP与华为乾崑ADS作为当前国产智驾系统的两大标杆,分别以全栈自研端到端大模型和多传感器融合+......",
+      "id": "https://post.smzdm.com/p/a702kl5g/",
+      "title": "2026高考后“学开飞机”爆火?三条路径大揭秘,别踩坑!",
+      "summary": "01高考后航空培训热度上升2026年高考结束后,多地出现青少年及应届毕业生集中咨询飞行培训项目的趋势。这一现象与近期民航政策调整密切相关:2026年5月1日起,《民用无人驾驶航空器实名登记和激活要求》《民用无人驾驶航空器系统运行识别规范》两项强制性国家标......",
       "source": "Smzdm",
-      "date": "2026-06-05",
-      "url": "https://post.smzdm.com/p/anv47d37/"
+      "date": "2026-06-06",
+      "url": "https://post.smzdm.com/p/a702kl5g/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780668109169123.html",
-      "title": "排查场所1200余家、整改300余处,新疆阿勒泰公安护航高考",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-05",
-      "url": "https://www.bjnews.com.cn/detail/1780668109169123.html"
+      "id": "https://www.ign.com.cn/star-fox-2026/60501/ignxing-ji-huo-hu-shang-shou-qian-zhan-ru-tong-zhe-ge-ip-de-xin-xi-wang-yi-yang",
+      "title": "IGN《星际火狐》上手前瞻:如同这个 IP 的“新希望”一样",
+      "summary": "NewsData报道",
+      "source": "Ign_Cn",
+      "date": "2026-06-06",
+      "url": "https://www.ign.com.cn/star-fox-2026/60501/ignxing-ji-huo-hu-shang-shou-qian-zhan-ru-tong-zhe-ge-ip-de-xin-xi-wang-yi-yang"
     },
     {
-      "id": "https://zh.vietnamplus.vn/article-post261548.vnp",
-      "title": "宣光省支持国际游客遵守越南边境地区规定",
-      "summary": "随着边境地区接待国际游客量不断增加,自6月3日起,宣光省公安厅出入境管理处与各主管部门配合开展对在当地居留、活动的外国人专项检查和管控行动。 太原省多措并举将旅游业打造成为重要经济产业 数字技术推动山区旅游发展 越南河江与会安为何入选2026年全球最佳目的地榜单?...",
-      "source": "Vietnamplus",
-      "date": "2026-06-05",
-      "url": "https://zh.vietnamplus.vn/article-post261548.vnp"
-    },
-    {
-      "id": "https://www.ithome.com/0/960/711.htm",
-      "title": "行业标杆:华为联合深圳地铁发布全球首个星河 AI 车地 Wi-Fi 7 轨交无线创新成果,将逐步向北上广等更多城市推广",
-      "summary": "IT之家 6 月 5 日消息,6 月 3 日,“智联轨行 · 共创未来 —— 深圳地铁车地 Wi-Fi 7 联合发布暨全球样板点建设启动活动”在深圳举行。 会上,深圳地铁集团与华为技术有限公司共同发布了业界领先的“星河 AI 车地 Wi‐Fi 7 无线创新成果”,并正式启动了双方联合共建的全球行业标杆样板点。这意味着 Wi‐Fi 7 在国内轨道交通车地无线场景实现了首次落地应用,也标志着轨道交通正...",
+      "id": "https://www.ithome.com/0/960/960.htm",
+      "title": "红旗首款硬派越野正式命名为“红旗 G919”",
+      "summary": "IT之家 6 月 6 日消息,一汽红旗今日宣布,红旗首款硬派越野正式命名为“红旗 G919”。 官方给出了命名的含义,IT之家汇总如下: “G ”承“国车”脊梁、守护万里征途 “9”铸旗舰定位、彰显尊享智造 “1”流产品性能、臻享驾乘体验 “9”寓全维服务、久久相伴同行 这款新车曾在 2026 北京车展亮相,号称“中式美学赋能,硬核气场拉满,解锁民族越野新姿态”。新车配备矩形大灯,采用当下流行的“...",
       "source": "Ithome",
-      "date": "2026-06-05",
-      "url": "https://www.ithome.com/0/960/711.htm"
+      "date": "2026-06-06",
+      "url": "https://www.ithome.com/0/960/960.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/anv473gv/",
-      "title": "Model 3和Model Y怎么选?家庭用户和通勤党看完这篇不再纠结",
-      "summary": "在2026年,特斯拉Model 3与Model Y依然是纯电市场中最受关注的两款车型。它们共享三电系统、智能驾驶平台和超充网络,却因车身形态差异,在真实使用中呈现出截然不同的体验。对于“怕选错、怕后悔”的谨慎型用户而言,盲目跟风或仅看参数容易踩坑。本文基......",
-      "source": "Smzdm",
-      "date": "2026-06-05",
-      "url": "https://post.smzdm.com/p/anv473gv/"
+      "id": "https://www.ithome.com/0/960/911.htm",
+      "title": "奇瑞 2026 款星途 ES 官宣:号称可在公路上开的赛车,雪豹四驱 2.0 加持 4.9 秒破百",
+      "summary": "IT之家 6 月 6 日消息,奇瑞旗下 EXEED 星途汽车官微 5 日公布了 2026 款星途 ES 的部分配置信息。新车号称“一台可以公路上开的赛车”,搭载赛道级云台智能底盘、雪豹四驱 2.0 系统,可实现 4.9s 破百、34.8m 刹停。 根据介绍,新车运动模式下的总扭矩可达 634N·m ,四驱版车型百公里加速时间为 4.9 秒;采用前高阶双叉臂 + 后五连杆独立悬架,支持智能化前后扭矩...",
+      "source": "Ithome",
+      "date": "2026-06-06",
+      "url": "https://www.ithome.com/0/960/911.htm"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1040642",
+      "title": "“AI一两年内反超人类!”马斯克再发震撼预言,还点名三个“蓝海”方向-FX168",
+      "summary": "NewsData报道",
+      "source": "Fx168News",
+      "date": "2026-06-06",
+      "url": "https://www.fx168news.com/article/1040642"
+    },
+    {
+      "id": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%8F%8C%E9%87%8D%E9%97%A8%E6%A7%9B%EF%BC%9A%E8%B5%9E%E5%8A%A9%E7%94%B5%E7%AB%9E%E5%9C%88%E7%B2%89%E6%96%B0%E4%B8%96%E4%BB%A3-%E9%99%A4%E6%81%AF%E5%89%8D%E5%A4%95/",
+      "title": "比亚迪的双重门槛:赞助电竞圈粉新世代 除息前夕股价逼近年内低点",
+      "summary": "周五收盘,比亚迪股价报9.90欧元,跌幅1.67%,距52周低点9.51欧元仅剩4%的缓冲空间。与此同时,公司在资本市场上迎来两项短期事件:一是成为《英雄联盟》职业联赛(LPL)首家中国车企赞助商,二是H股除息日锁定6月11日,每股将派发0.358元人民币。两件事同一天发酵,背后却是基本面出口与内需冰火两重天的现实。 电竞赞助瞄准Z世代,填补三大巨头退出空缺 LPL官方上周五确认,比亚迪旗下海洋系...",
+      "source": "Newscase",
+      "date": "2026-06-06",
+      "url": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%8F%8C%E9%87%8D%E9%97%A8%E6%A7%9B%EF%BC%9A%E8%B5%9E%E5%8A%A9%E7%94%B5%E7%AB%9E%E5%9C%88%E7%B2%89%E6%96%B0%E4%B8%96%E4%BB%A3-%E9%99%A4%E6%81%AF%E5%89%8D%E5%A4%95/"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/legato-merger-corp-iii-shareholders-approve-business-combination-with-einride-302792607.html",
