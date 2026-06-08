@@ -1,18 +1,19 @@
 {
-  "lastUpdated": "2026-06-07 04:44:43",
-  "totalCount": 26,
+  "lastUpdated": "2026-06-08 04:49:30",
+  "totalCount": 24,
   "sources": {
-    "Chinanews": 2,
     "Zaobao": 2,
-    "Ithome": 5,
-    "Jiemian": 1,
+    "Eeo": 1,
+    "Cri_Cn": 1,
+    "Chinanews": 2,
+    "Mixvale": 2,
     "Investing_Cn": 1,
-    "News_Seehua": 1,
-    "Cnblogs": 1,
-    "Smzdm": 1,
-    "Ign_Cn": 1,
+    "Jiemian": 1,
     "Fx168News": 1,
-    "Newscase": 1,
+    "Bjnews": 1,
+    "Orientaldaily": 1,
+    "Smzdm": 1,
+    "Ithome": 1,
     "PR Newswire UK": 1,
     "Reuters": 1,
     "Devdiscourse": 1,
@@ -25,140 +26,124 @@
   },
   "news": [
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-07/10635657.shtml",
-      "title": "2026年高考今日开考,1290万人奔赴考场",
-      "summary": "中新网北京6月7日电(记者 袁秀月)6月7日,2026年高考将正式开考,全国将有1290万人奔赴考场。多地出台措施,静音、降噪,启动专项保障机制,全力护航考生顺利应考。教育部提醒广大考生,严格遵守考试规定,及时关注考试期间天气、交通等情况,诚信参加考试,放平心态从容应考。...",
-      "source": "Chinanews",
-      "date": "2026-06-06",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-07/10635657.shtml"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260606-9165027",
-      "title": "21岁确诊末期肾衰竭 青年圆梦当SMRT最年轻巴士车长",
-      "summary": "NewsData报道",
+      "id": "https://www.zaobao.com.sg/news/sports/story20260608-9170038",
+      "title": "F1摩纳哥站状况连连 19岁安东内利连续五站夺冠",
+      "summary": "(摩纳哥综合电)红牛车手维斯塔潘(Verstappen)发车熄火、法拉利车手勒克莱尔(Leclerc)撞车退赛,星期天(6月7日)晚的世界一级方程式赛车(F1)摩纳哥站正赛状况连连,但从杆位出发的19岁马赛地车手安东内利(Antonelli)还是强势夺冠,拿下个人连续第五场大奖赛胜利。...",
       "source": "Zaobao",
-      "date": "2026-06-06",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260606-9165027"
+      "date": "2026-06-07",
+      "url": "https://www.zaobao.com.sg/news/sports/story20260608-9170038"
     },
     {
-      "id": "https://www.chinanews.com.cn/ydyl/2026/06-06/10635520.shtml",
-      "title": "今年前5个月浙江“义甬舟”海铁联运发运量同比增长80.83%",
-      "summary": "中新网义乌6月6日电(董易鑫)6月6日,浙江省义乌市市场发展委公布的最新数据显示,今年前5个月,浙江中欧班列(义新欧)发运超10.9万标箱、同比增长1.2%;“义甬舟”海铁联运发运超7.1万重箱、同比增长80.83%。...",
-      "source": "Chinanews",
-      "date": "2026-06-06",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/06-06/10635520.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/960/959.htm",
-      "title": "创造历史:首位登 FIA F3 锦标赛领奖台中国车手诞生,谢咏霖摩纳哥冲刺赛亚军",
-      "summary": "IT之家 6 月 6 日消息,在今日举行的国际汽联(FIA)三级方程式锦标赛摩纳哥站冲刺赛中,中国车手谢咏霖以第二名的成绩冲过终点线。 这不仅是这位 19 岁小将个人 F3 生涯首次登上领奖台,也同时创造了新的历史 —— 他由此成为首位在 FIA F3 锦标赛中登上领奖台的中国车手。 摩纳哥赛道是世界赛车运动版图中最独特也最严酷的考验之一。这条全长仅 3.337 公里的街道赛道以极度狭窄、弯道繁多...",
-      "source": "Ithome",
-      "date": "2026-06-06",
-      "url": "https://www.ithome.com/0/960/959.htm"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14546571.html",
-      "title": "字节再度否认造车:和赛豆没有股权合作",
+      "id": "http://www.eeo.com.cn/2026/0607/906606.shtml",
+      "title": "中国科学院院士魏奉思:每颗卫星都要有自己的“大脑”",
       "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-06-06",
-      "url": "https://www.jiemian.com/article/14546571.html"
+      "source": "Eeo",
+      "date": "2026-06-07",
+      "url": "http://www.eeo.com.cn/2026/0607/906606.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/960/922.htm",
-      "title": "2026 款小鹏 X9 获推 AIOS 6.2.0:新增辅助驾驶车道级渲染、终点车位选项等",
-      "summary": "IT之家 6 月 6 日消息,小鹏 X9、小鹏 GX 产品负责人罗杰今日宣布, 2026 款小鹏 X9 AIOS 6.2.0 的推送已经启动 ,本轮升级 Ultra 和 Ultra SE 车主将收到 VLA 2.0 的第二个版本,智驾体验再次升级,座舱方面 26 款全系 X9 也将新增一系列实用功能。 罗杰表示,26 款 X9 Max 版车主最关心的 VLA 2.0 蒸馏版,通用智能中心的同学也在...",
-      "source": "Ithome",
-      "date": "2026-06-06",
-      "url": "https://www.ithome.com/0/960/922.htm"
+      "id": "https://news.cri.cn/20260607/5f98fdce-52d3-e5c4-ae41-15ac92232780.html",
+      "title": "建设万物和谐的美丽家园(美丽中国行·探访大熊猫国家公园)-国际在线",
+      "summary": "大山深处,大熊猫国家公园唐家河片区,竹海摇曳,层林叠翠。 “我们在蔡家坝公路对面的坡上,看到了亚洲黑熊带崽的温馨一幕。”唐家河管理处宣传教育科科长陈诗颖,兴奋地展示手机里的视频,只见一头母熊护着幼崽,攀爬上溪流...",
+      "source": "Cri_Cn",
+      "date": "2026-06-07",
+      "url": "https://news.cri.cn/20260607/5f98fdce-52d3-e5c4-ae41-15ac92232780.html"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sports/story20260606-9165571",
-      "title": "避免NBA世界杯“撞车” 纽约市长盼尼克斯横扫马刺",
-      "summary": "(纽约综合电)为避免美国职业篮球赛(NBA)总决赛和2026年世界杯小组赛同天进行导致交通梦魇,纽约市长马姆达尼(Mamdani)希望握有2比0领先的纽约尼克斯(New York Knicks)能实现横扫。...",
-      "source": "Zaobao",
-      "date": "2026-06-06",
-      "url": "https://www.zaobao.com.sg/news/sports/story20260606-9165571"
+      "id": "https://www.chinanews.com.cn/cj/2026/06-07/10635937.shtml",
+      "title": "专访宋关福:从“副驾驶”到“自动驾驶”,GIS如何造福万家?",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-06-07",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-07/10635937.shtml"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3404744",
-      "title": "本周华尔街重要评级汇总:科尔士、TripAdvisor、AT&T、联合健康、特斯拉",
+      "id": "https://www.mixvale.com.br/2026/06/07/%E5%9F%BA%E7%B1%B3%C2%B7%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9-kimi-antonelli-%E5%9C%A8%E4%B8%80%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E6%91%A9%E7%BA%B3%E5%93%A5%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%B8%8A-zh-cn/",
+      "title": "基米·安东内利 (Kimi Antonelli) 在一级方程式摩纳哥大奖赛上为梅赛德斯夺得杆位",
+      "summary": "一级方程式摩纳哥大奖赛将于本周日(24 日)改变世界赛车运动日程,比赛定于巴西利亚时间上午 10 点举行。舞台在公国传统的街道赛道上进行。比赛要求飞行员在被护栏包围的狭窄路线上保持极高的精确度。该活动因其技术复杂性和争夺城市街道的历史声望而吸引了全球关注。 基米·安东内利在排位赛中获得杆位后,梅赛德斯车队以竞争优势开局。这位年轻车手在排位赛中的表现超越了他的直接对手。夺得发车区第一位置代表着在超车...",
+      "source": "Mixvale",
+      "date": "2026-06-07",
+      "url": "https://www.mixvale.com.br/2026/06/07/%E5%9F%BA%E7%B1%B3%C2%B7%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9-kimi-antonelli-%E5%9C%A8%E4%B8%80%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E6%91%A9%E7%BA%B3%E5%93%A5%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%B8%8A-zh-cn/"
+    },
+    {
+      "id": "https://cn.investing.com/news/investment-ideas/article-93CH-3405010",
+      "title": "InvestingPro公允价值模型提前预警Kodiak AI股价下跌40%",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-06",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3404744"
+      "date": "2026-06-07",
+      "url": "https://cn.investing.com/news/investment-ideas/article-93CH-3405010"
     },
     {
-      "id": "https://www.ithome.com/0/960/900.htm",
-      "title": "万代南梦宫高达游戏新作《GUNDAM 异轨征途》官宣,计划 2027 年发售",
-      "summary": "IT之家 6 月 6 日消息,万代南梦宫(BANDAI NAMCO)今日宣布,动作游戏《GUNDAM 异轨征途》(GUNDAM ROGUE ORBIT) 计划于 2027 年发售 。 IT之家获悉,这款游戏将登陆 PlayStation 5、Xbox Series X|S 和 Steam 平台,游戏字幕支持简体中文。 游戏简介如下: 《GUNDAM 异轨征途》是能体验高速自在的高机动战斗的动作游戏...",
-      "source": "Ithome",
-      "date": "2026-06-06",
-      "url": "https://www.ithome.com/0/960/900.htm"
-    },
-    {
-      "id": "https://news.seehua.com/post/1494727",
-      "title": "鼓浪屿号再访汶莱 近两千国际游客体验文化风情",
-      "summary": "(汶莱斯市6日讯)汶莱于近期迎来鼓浪屿号邮轮(Piano Land)的到访,载有1,995名国际游客及483名 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-06",
-      "url": "https://news.seehua.com/post/1494727"
-    },
-    {
-      "id": "https://www.cnblogs.com/hynews/p/20351316",
-      "title": "2026年北京搬家公司怎么收费?专业服务与合理定价全解析",
-      "summary": "随着2026年的临近,北京的城市发展与人口流动依然活跃,无论是企业扩张、家庭乔迁,还是机构优化,搬迁需求持续存在且不断升级。用户的需求已从过去单纯追求“搬得动”,全面升级为要求“搬得好、搬得省心、搬得透明”。市场在呼唤能够提供标准化流程、个性化方案、全程可追溯且定价清晰的高品质搬家公司。 公司概况:...",
-      "source": "Cnblogs",
-      "date": "2026-06-06",
-      "url": "https://www.cnblogs.com/hynews/p/20351316"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a702kl5g/",
-      "title": "2026高考后“学开飞机”爆火?三条路径大揭秘,别踩坑!",
-      "summary": "01高考后航空培训热度上升2026年高考结束后,多地出现青少年及应届毕业生集中咨询飞行培训项目的趋势。这一现象与近期民航政策调整密切相关:2026年5月1日起,《民用无人驾驶航空器实名登记和激活要求》《民用无人驾驶航空器系统运行识别规范》两项强制性国家标......",
-      "source": "Smzdm",
-      "date": "2026-06-06",
-      "url": "https://post.smzdm.com/p/a702kl5g/"
-    },
-    {
-      "id": "https://www.ign.com.cn/star-fox-2026/60501/ignxing-ji-huo-hu-shang-shou-qian-zhan-ru-tong-zhe-ge-ip-de-xin-xi-wang-yi-yang",
-      "title": "IGN《星际火狐》上手前瞻:如同这个 IP 的“新希望”一样",
+      "id": "https://www.jiemian.com/article/14536215.html",
+      "title": "成立五年融资14轮,eVTOL主机厂沃兰特何时量产交付?",
       "summary": "NewsData报道",
-      "source": "Ign_Cn",
-      "date": "2026-06-06",
-      "url": "https://www.ign.com.cn/star-fox-2026/60501/ignxing-ji-huo-hu-shang-shou-qian-zhan-ru-tong-zhe-ge-ip-de-xin-xi-wang-yi-yang"
+      "source": "Jiemian",
+      "date": "2026-06-07",
+      "url": "https://www.jiemian.com/article/14536215.html"
     },
     {
-      "id": "https://www.ithome.com/0/960/960.htm",
-      "title": "红旗首款硬派越野正式命名为“红旗 G919”",
-      "summary": "IT之家 6 月 6 日消息,一汽红旗今日宣布,红旗首款硬派越野正式命名为“红旗 G919”。 官方给出了命名的含义,IT之家汇总如下: “G ”承“国车”脊梁、守护万里征途 “9”铸旗舰定位、彰显尊享智造 “1”流产品性能、臻享驾乘体验 “9”寓全维服务、久久相伴同行 这款新车曾在 2026 北京车展亮相,号称“中式美学赋能,硬核气场拉满,解锁民族越野新姿态”。新车配备矩形大灯,采用当下流行的“...",
-      "source": "Ithome",
-      "date": "2026-06-06",
-      "url": "https://www.ithome.com/0/960/960.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/960/911.htm",
-      "title": "奇瑞 2026 款星途 ES 官宣:号称可在公路上开的赛车,雪豹四驱 2.0 加持 4.9 秒破百",
-      "summary": "IT之家 6 月 6 日消息,奇瑞旗下 EXEED 星途汽车官微 5 日公布了 2026 款星途 ES 的部分配置信息。新车号称“一台可以公路上开的赛车”,搭载赛道级云台智能底盘、雪豹四驱 2.0 系统,可实现 4.9s 破百、34.8m 刹停。 根据介绍,新车运动模式下的总扭矩可达 634N·m ,四驱版车型百公里加速时间为 4.9 秒;采用前高阶双叉臂 + 后五连杆独立悬架,支持智能化前后扭矩...",
-      "source": "Ithome",
-      "date": "2026-06-06",
-      "url": "https://www.ithome.com/0/960/911.htm"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1040642",
-      "title": "“AI一两年内反超人类!”马斯克再发震撼预言,还点名三个“蓝海”方向-FX168",
-      "summary": "NewsData报道",
+      "id": "https://www.fx168news.com/article/1040681",
+      "title": "周末重磅消息出炉!证监会主席吴清发声,持续完善程序化交易监管的机制安排 纳指周五跌超4%,创去年4月以来最大单日跌幅-FX168",
+      "summary": "周末重磅消息出炉!国内财经方面:李强主持召开国务院常务会议 审议通过《实施就业优先战略“十五五”规划》;国务院食安办成立工作组督导查处“望奎双汇猪肉抗生素超标问题”;交通运输部组织台湾岛东部海域海上交通专项执法行动启动资本市场方面:中国央行连...",
       "source": "Fx168News",
-      "date": "2026-06-06",
-      "url": "https://www.fx168news.com/article/1040642"
+      "date": "2026-06-07",
+      "url": "https://www.fx168news.com/article/1040681"
     },
     {
-      "id": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%8F%8C%E9%87%8D%E9%97%A8%E6%A7%9B%EF%BC%9A%E8%B5%9E%E5%8A%A9%E7%94%B5%E7%AB%9E%E5%9C%88%E7%B2%89%E6%96%B0%E4%B8%96%E4%BB%A3-%E9%99%A4%E6%81%AF%E5%89%8D%E5%A4%95/",
-      "title": "比亚迪的双重门槛:赞助电竞圈粉新世代 除息前夕股价逼近年内低点",
-      "summary": "周五收盘,比亚迪股价报9.90欧元,跌幅1.67%,距52周低点9.51欧元仅剩4%的缓冲空间。与此同时,公司在资本市场上迎来两项短期事件:一是成为《英雄联盟》职业联赛(LPL)首家中国车企赞助商,二是H股除息日锁定6月11日,每股将派发0.358元人民币。两件事同一天发酵,背后却是基本面出口与内需冰火两重天的现实。 电竞赞助瞄准Z世代,填补三大巨头退出空缺 LPL官方上周五确认,比亚迪旗下海洋系...",
-      "source": "Newscase",
-      "date": "2026-06-06",
-      "url": "https://www.newscase.com/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%8F%8C%E9%87%8D%E9%97%A8%E6%A7%9B%EF%BC%9A%E8%B5%9E%E5%8A%A9%E7%94%B5%E7%AB%9E%E5%9C%88%E7%B2%89%E6%96%B0%E4%B8%96%E4%BB%A3-%E9%99%A4%E6%81%AF%E5%89%8D%E5%A4%95/"
+      "id": "https://www.bjnews.com.cn/detail/1780822641169155.html",
+      "title": "“迷你摩托”走红,莫让孩子在危险边缘狂飙 | 新京报快评",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-07",
+      "url": "https://www.bjnews.com.cn/detail/1780822641169155.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/06-07/10635837.shtml",
+      "title": "专访“00后”农机手:我生于麦田、长于麦田 要守好每一粒麦子",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-06-07",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-07/10635837.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/07/824089",
+      "title": "援引谋杀罪调查居銮飙车案 陈威盛:释放强烈警示“公路非赛车场”",
+      "summary": "(古晋7日讯)砂青统峇都林当支部秘书兼律师陈威盛表示,居銮飙车酿5死惨剧后,当局援引《刑事法典》第302条文(谋杀)展开调查,标志著我国处理严重危险驾驶案件的法律思维出现重大转变。他说,这起案件不仅是一宗交通事故,更涉及公共安全与刑事责任问题,总检察署指示警方以谋杀罪角度调查,向社会传达明确讯息,公路绝非私人赛车场。“过去社会普遍将飙车及危险驾驶视为交通违规行为,但如今政府选择援引谋杀罪调查,意味...",
+      "source": "Orientaldaily",
+      "date": "2026-06-07",
+      "url": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/07/824089"
+    },
+    {
+      "id": "https://www.mixvale.com.br/2026/06/07/3-%E5%B2%81%E7%94%B7%E5%AD%A9-arthur-szimanczuk-veiga-%E5%9C%A8%E6%96%BD%E7%BD%97%E5%BE%B7%E5%81%9C%E8%BD%A6%E5%9C%BA%E8%A2%AB%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1-zh-cn/",
+      "title": "3 岁男孩 Arthur Szimanczuk Veiga 在施罗德停车场被碾压身亡",
+      "summary": "周六晚(6 日),3 岁男孩 Arthur Szimanczuk Veiga 在圣卡塔琳娜州北部的施罗德被碾压身亡。这起致命事故发生在位于市中心的一个购物商场的停车场。尽管男孩被活着送往施罗德急诊室,但由于伤势严重,最终还是没能活下来。民警正在以交通事故过失杀人罪对此案进行调查。该事件在该地区的居民和家人中引起了极大的骚动。 玩的时候跑过去 事件发生时,亚瑟正在商场的停车场玩耍。男孩的父母在那里拥...",
+      "source": "Mixvale",
+      "date": "2026-06-07",
+      "url": "https://www.mixvale.com.br/2026/06/07/3-%E5%B2%81%E7%94%B7%E5%AD%A9-arthur-szimanczuk-veiga-%E5%9C%A8%E6%96%BD%E7%BD%97%E5%BE%B7%E5%81%9C%E8%BD%A6%E5%9C%BA%E8%A2%AB%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1-zh-cn/"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/world/story20260607-9169388",
+      "title": "法英挪拟绕开布鲁塞尔联手协调制裁以色列",
+      "summary": "(巴黎/希伯伦综合电)由于欧盟内部迟迟无法就制裁以色列达成共识,法国正与英国、挪威等盟友磋商,准备在国家层级协调推出针对约旦河西岸施暴者的制裁措施,对以色列政府扩张定居点的政策施压。...",
+      "source": "Zaobao",
+      "date": "2026-06-07",
+      "url": "https://www.zaobao.com.sg/news/world/story20260607-9169388"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7p943d/",
+      "title": "20万级纯电轿跑怎么选?极氪007和阿尔法S5深度对比来了",
+      "summary": "在20万级纯电轿跑市场,极氪007与搭载华为ADS高阶智驾系统的阿尔法S5正成为谨慎型用户反复权衡的两个选项。两者均主打“全栈智能+长续航”,但技术路线、硬件配置与实际体验存在显著差异。本文将从智能驾驶能力、三电性能、座舱交互三大核心维度,结合真实用户反......",
+      "source": "Smzdm",
+      "date": "2026-06-07",
+      "url": "https://post.smzdm.com/p/ad7p943d/"
+    },
+    {
+      "id": "https://www.ithome.com/0/961/087.htm",
+      "title": "2027 款东风风行星海 V9 上市,超级置换价 16.99 万起",
+      "summary": "IT之家 6 月 7 日消息,2027 款东风风行星海 V9 今日上市,超级置换价 16.99 万起。 新车共推出 3 款配置车型,超级置换价为 16.99-21.99 万元,官方指导价为 17.99-22.99 万元。 IT之家注意到,2027 款东风风行星海 V9 在外观上延续现款整体造型,长宽高为 5230/1920/1820mm, 轴距 3018mm 。内饰搭载双 15.6 英寸中控、副驾...",
+      "source": "Ithome",
+      "date": "2026-06-07",
+      "url": "https://www.ithome.com/0/961/087.htm"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/legato-merger-corp-iii-shareholders-approve-business-combination-with-einride-302792607.html",
