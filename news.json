@@ -1,149 +1,185 @@
 {
-  "lastUpdated": "2026-06-08 04:49:30",
-  "totalCount": 24,
+  "lastUpdated": "2026-06-09 04:12:11",
+  "totalCount": 25,
   "sources": {
-    "Zaobao": 2,
-    "Eeo": 1,
-    "Cri_Cn": 1,
-    "Chinanews": 2,
-    "Mixvale": 2,
-    "Investing_Cn": 1,
-    "Jiemian": 1,
+    "Chinanews": 4,
     "Fx168News": 1,
-    "Bjnews": 1,
-    "Orientaldaily": 1,
-    "Smzdm": 1,
+    "Imobile": 1,
     "Ithome": 1,
+    "Jiemian": 3,
+    "Rfi_Fr": 1,
+    "Investing_Cn": 1,
+    "News_Seehua": 2,
+    "Cri_Cn": 1,
+    "Bjnews": 1,
+    "The Economic Times": 1,
+    "Devdiscourse": 3,
+    "The Tribune": 1,
     "PR Newswire UK": 1,
     "Reuters": 1,
-    "Devdiscourse": 1,
     "Forbes": 1,
-    "Hartford Courant": 1,
-    "TechRadar": 1,
-    "Zee News": 1,
-    "Firstpost": 1,
-    "Bloomberg": 1
+    "Hartford Courant": 1
   },
   "news": [
     {
-      "id": "https://www.zaobao.com.sg/news/sports/story20260608-9170038",
-      "title": "F1摩纳哥站状况连连 19岁安东内利连续五站夺冠",
-      "summary": "(摩纳哥综合电)红牛车手维斯塔潘(Verstappen)发车熄火、法拉利车手勒克莱尔(Leclerc)撞车退赛,星期天(6月7日)晚的世界一级方程式赛车(F1)摩纳哥站正赛状况连连,但从杆位出发的19岁马赛地车手安东内利(Antonelli)还是强势夺冠,拿下个人连续第五场大奖赛胜利。...",
-      "source": "Zaobao",
-      "date": "2026-06-07",
-      "url": "https://www.zaobao.com.sg/news/sports/story20260608-9170038"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0607/906606.shtml",
-      "title": "中国科学院院士魏奉思:每颗卫星都要有自己的“大脑”",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-06-07",
-      "url": "http://www.eeo.com.cn/2026/0607/906606.shtml"
-    },
-    {
-      "id": "https://news.cri.cn/20260607/5f98fdce-52d3-e5c4-ae41-15ac92232780.html",
-      "title": "建设万物和谐的美丽家园(美丽中国行·探访大熊猫国家公园)-国际在线",
-      "summary": "大山深处,大熊猫国家公园唐家河片区,竹海摇曳,层林叠翠。 “我们在蔡家坝公路对面的坡上,看到了亚洲黑熊带崽的温馨一幕。”唐家河管理处宣传教育科科长陈诗颖,兴奋地展示手机里的视频,只见一头母熊护着幼崽,攀爬上溪流...",
-      "source": "Cri_Cn",
-      "date": "2026-06-07",
-      "url": "https://news.cri.cn/20260607/5f98fdce-52d3-e5c4-ae41-15ac92232780.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/06-07/10635937.shtml",
-      "title": "专访宋关福:从“副驾驶”到“自动驾驶”,GIS如何造福万家?",
+      "id": "https://www.chinanews.com.cn/gn/2026/06-08/10636620.shtml",
+      "title": "从“授鱼”到“授渔”:一场天津行里的发展权观察",
       "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-06-07",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-07/10635937.shtml"
+      "date": "2026-06-08",
+      "url": "https://www.chinanews.com.cn/gn/2026/06-08/10636620.shtml"
     },
     {
-      "id": "https://www.mixvale.com.br/2026/06/07/%E5%9F%BA%E7%B1%B3%C2%B7%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9-kimi-antonelli-%E5%9C%A8%E4%B8%80%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E6%91%A9%E7%BA%B3%E5%93%A5%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%B8%8A-zh-cn/",
-      "title": "基米·安东内利 (Kimi Antonelli) 在一级方程式摩纳哥大奖赛上为梅赛德斯夺得杆位",
-      "summary": "一级方程式摩纳哥大奖赛将于本周日(24 日)改变世界赛车运动日程,比赛定于巴西利亚时间上午 10 点举行。舞台在公国传统的街道赛道上进行。比赛要求飞行员在被护栏包围的狭窄路线上保持极高的精确度。该活动因其技术复杂性和争夺城市街道的历史声望而吸引了全球关注。 基米·安东内利在排位赛中获得杆位后,梅赛德斯车队以竞争优势开局。这位年轻车手在排位赛中的表现超越了他的直接对手。夺得发车区第一位置代表着在超车...",
-      "source": "Mixvale",
-      "date": "2026-06-07",
-      "url": "https://www.mixvale.com.br/2026/06/07/%E5%9F%BA%E7%B1%B3%C2%B7%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9-kimi-antonelli-%E5%9C%A8%E4%B8%80%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E6%91%A9%E7%BA%B3%E5%93%A5%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%B8%8A-zh-cn/"
+      "id": "https://www.fx168news.com/article/1041225",
+      "title": "特斯拉(TSLA)股票6月8日盘中上涨3.38%:释放什么信号?-FX168",
+      "summary": "特斯拉 (TSLA) 盘中上涨3.38%, 所属行业汽车与零部件上涨2.84% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.38%;Rivian Automotive Inc (RIVN) 上涨 6.82%;Cummins Inc (CMI) 上涨 3.06%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉股价今日呈现上涨态势,伴随显著的日内波动,这主要受到...",
+      "source": "Fx168News",
+      "date": "2026-06-08",
+      "url": "https://www.fx168news.com/article/1041225"
     },
     {
-      "id": "https://cn.investing.com/news/investment-ideas/article-93CH-3405010",
-      "title": "InvestingPro公允价值模型提前预警Kodiak AI股价下跌40%",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-07",
-      "url": "https://cn.investing.com/news/investment-ideas/article-93CH-3405010"
+      "id": "http://news.imobile.com.cn/articles/2026/0608/234666.shtml",
+      "title": "倍耐力为蔚来ES9打造新一代P Zero轮胎",
+      "summary": "2026年6月8日——倍耐力为蔚来ES9量身打造了新一代P Zero高性能轮胎。ES9是一款采用900V高压架构的科技行政旗舰SUV,面向高端行政市场,提供宽裕的三排座舱布局。凭借专属调校和前沿轮胎技术,倍耐力精准回应了这款车型在安全、声学舒适性、操控及续航等方面的严苛要求。 倍耐力为蔚来ES9打造两款轮胎规格:275/45 R22与275/40 R23。后者为HL高负载加强轮胎,专为承载更重的车...",
+      "source": "Imobile",
+      "date": "2026-06-08",
+      "url": "http://news.imobile.com.cn/articles/2026/0608/234666.shtml"
     },
     {
-      "id": "https://www.jiemian.com/article/14536215.html",
-      "title": "成立五年融资14轮,eVTOL主机厂沃兰特何时量产交付?",
+      "id": "https://www.ithome.com/0/961/628.htm",
+      "title": "超越人眼的能力:华为乾崑智驾百公里时速隧道避障视频曝光,车辆提前预判秒切车道",
+      "summary": "IT之家 6 月 8 日消息,一条华为乾崑智驾车型百公里时速进隧道,并触发避障提前切换车道的视频最近在互联网平台曝光,引发了网友和博主讨论。 事实上,隧道内部环境与开放道路不同,空间封闭、车道较窄、视野受限,驾驶者观察周边情况的能力下降,同时光线从明亮的室外进入隧道会产生视觉适应延迟,因此很容易导致反应不及时或操作失误而发生事故。 此次曝光的视频画面显示,该车在进入隧道后立刻就遇到了桩桶。而在人眼...",
+      "source": "Ithome",
+      "date": "2026-06-08",
+      "url": "https://www.ithome.com/0/961/628.htm"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14554108.html",
+      "title": "加入仅半年,字节前公关总监据传从理想汽车离职",
       "summary": "NewsData报道",
       "source": "Jiemian",
-      "date": "2026-06-07",
-      "url": "https://www.jiemian.com/article/14536215.html"
+      "date": "2026-06-08",
+      "url": "https://www.jiemian.com/article/14554108.html"
     },
     {
-      "id": "https://www.fx168news.com/article/1040681",
-      "title": "周末重磅消息出炉!证监会主席吴清发声,持续完善程序化交易监管的机制安排 纳指周五跌超4%,创去年4月以来最大单日跌幅-FX168",
-      "summary": "周末重磅消息出炉!国内财经方面:李强主持召开国务院常务会议 审议通过《实施就业优先战略“十五五”规划》;国务院食安办成立工作组督导查处“望奎双汇猪肉抗生素超标问题”;交通运输部组织台湾岛东部海域海上交通专项执法行动启动资本市场方面:中国央行连...",
-      "source": "Fx168News",
-      "date": "2026-06-07",
-      "url": "https://www.fx168news.com/article/1040681"
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260608-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E8%B5%B7%E6%AD%A5",
+      "title": "无人驾驶出租车在欧洲起步",
+      "summary": "无人驾驶出租车在美国和中国已经开始发展起来,现在在欧洲有兴起的势头。多家大型公司今年将在多个欧洲国家的首都启动试验,欧盟也将于今天周一加速推进。...",
+      "source": "Rfi_Fr",
+      "date": "2026-06-08",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260608-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E8%B5%B7%E6%AD%A5"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780822641169155.html",
-      "title": "“迷你摩托”走红,莫让孩子在危险边缘狂飙 | 新京报快评",
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3406443",
+      "title": "Foresight股价飙升30%,获VisionWave 1,750万美元战略投资",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-08",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3406443"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/06-08/10636520.shtml",
+      "title": "中国首艘大型无人驾驶自动投喂船在广东湛江试用",
+      "summary": "中新社广东湛江6月8日电 (梁盛 谢晓琳)中国首艘大型无人驾驶自动投喂船“粤坡渔养10001”8日在广东湛江雷州湾海洋牧场临时停泊点进行测试,后续将开展深远海养殖作业。...",
+      "source": "Chinanews",
+      "date": "2026-06-08",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-08/10636520.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/dwq/2026/06-08/10636442.shtml",
+      "title": "“粤车南下”香港政策分步推广实施 明年拟覆盖广东全省",
+      "summary": "中新网广州6月8日电 (记者 方伟彬)记者8日从广东省公安厅、广东省交通运输厅获悉,“粤车南下”香港政策推广实施安排正式公布,将分两步实施,目标2027年第一季度前覆盖全省。...",
+      "source": "Chinanews",
+      "date": "2026-06-08",
+      "url": "https://www.chinanews.com.cn/dwq/2026/06-08/10636442.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/06-08/10636440.shtml",
+      "title": "(乡村行·看振兴)小南瓜大产业 特色种植绘就广西乡村振兴新“丰”景",
+      "summary": "中新网南宁6月8日电(覃捷 彭国春 黄艳梅)时下正值南瓜成熟上市的黄金时节。在广西南宁市邕宁区新江镇屯亮村南瓜种植基地,圆润匀称的南瓜藏匿在枝叶间。农户们穿梭在瓜田中,熟练地采摘、分拣、装筐,一派瓜果飘香、丰收喜人的景象。...",
+      "source": "Chinanews",
+      "date": "2026-06-08",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-08/10636440.shtml"
+    },
+    {
+      "id": "https://news.seehua.com/post/1495810",
+      "title": "周圣栋促政府回应民意 检讨罗兴亚人安置政策",
+      "summary": "(槟城8日讯)人民复兴联盟(RESET)发言人周圣栋表示,在短短10天内爆发超过42万4000人签名响应的“移 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-08",
+      "url": "https://news.seehua.com/post/1495810"
+    },
+    {
+      "id": "https://news.seehua.com/post/1495781",
+      "title": "古晋69岁老翁抛石砸车窗 俯首认罪判监1年",
+      "summary": "(古晋8日讯)一名69岁的老汉因去年在石角路涉嫌投掷石头砸坏路过客货车,今日在古晋推事庭开审时俯首认罪,被判处 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-08",
+      "url": "https://news.seehua.com/post/1495781"
+    },
+    {
+      "id": "https://news.cri.cn/20260608/bbb45ab0-4a09-4771-a527-562317cc2078.html",
+      "title": "记者手记:在岭南大地看民营经济发展的“双向奔赴”-国际在线",
+      "summary": "新华社广州6月8日电记者手记:在岭南大地看民营经济发展的“双向奔赴”新华社记者范思翔潮起珠江千帆竞,满载岭南好风物。民营企业是伴随改革开放伟大历程蓬勃发展起来的。作为改革开放的排头兵、先行地、实验区,广东一直以来是民营经济发展的沃土,民营经...",
+      "source": "Cri_Cn",
+      "date": "2026-06-08",
+      "url": "https://news.cri.cn/20260608/bbb45ab0-4a09-4771-a527-562317cc2078.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780910511168564.html",
+      "title": "九识智能与东风股份合作的无人货运车发布,聚焦L4级自动驾驶",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-07",
-      "url": "https://www.bjnews.com.cn/detail/1780822641169155.html"
+      "date": "2026-06-08",
+      "url": "https://www.bjnews.com.cn/detail/1780910511168564.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-07/10635837.shtml",
-      "title": "专访“00后”农机手:我生于麦田、长于麦田 要守好每一粒麦子",
+      "id": "https://www.jiemian.com/article/14548013.html",
+      "title": "为什么汽车公司要忙着自研智驾芯片?",
+      "summary": "智能化时代,汽车公司需要保持技术的先进性和产品差异化。关键芯片掌握在自己手里,能降低供应链不确定性。...",
+      "source": "Jiemian",
+      "date": "2026-06-08",
+      "url": "https://www.jiemian.com/article/14548013.html"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14553218.html",
+      "title": "奇瑞回应与塔塔合作:仅供应零部件,不在印度直接投资和技术转让",
       "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-06-07",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-07/10635837.shtml"
+      "source": "Jiemian",
+      "date": "2026-06-08",
+      "url": "https://www.jiemian.com/article/14553218.html"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/07/824089",
-      "title": "援引谋杀罪调查居銮飙车案 陈威盛:释放强烈警示“公路非赛车场”",
-      "summary": "(古晋7日讯)砂青统峇都林当支部秘书兼律师陈威盛表示,居銮飙车酿5死惨剧后,当局援引《刑事法典》第302条文(谋杀)展开调查,标志著我国处理严重危险驾驶案件的法律思维出现重大转变。他说,这起案件不仅是一宗交通事故,更涉及公共安全与刑事责任问题,总检察署指示警方以谋杀罪角度调查,向社会传达明确讯息,公路绝非私人赛车场。“过去社会普遍将飙车及危险驾驶视为交通违规行为,但如今政府选择援引谋杀罪调查,意味...",
-      "source": "Orientaldaily",
-      "date": "2026-06-07",
-      "url": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/07/824089"
+      "id": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms",
+      "title": "Samsung Electronics' chip chief says discussed next",
+      "summary": "Samsung's co-CEO Jun Young-hyun met with Nvidia CEO Jensen Huang in Seoul to discuss future semiconductor cooperation. The companies are already collaborating on autonomous driving and AI accelerator ...",
+      "source": "The Economic Times",
+      "date": "2026-06-08",
+      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms"
     },
     {
-      "id": "https://www.mixvale.com.br/2026/06/07/3-%E5%B2%81%E7%94%B7%E5%AD%A9-arthur-szimanczuk-veiga-%E5%9C%A8%E6%96%BD%E7%BD%97%E5%BE%B7%E5%81%9C%E8%BD%A6%E5%9C%BA%E8%A2%AB%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1-zh-cn/",
-      "title": "3 岁男孩 Arthur Szimanczuk Veiga 在施罗德停车场被碾压身亡",
-      "summary": "周六晚(6 日),3 岁男孩 Arthur Szimanczuk Veiga 在圣卡塔琳娜州北部的施罗德被碾压身亡。这起致命事故发生在位于市中心的一个购物商场的停车场。尽管男孩被活着送往施罗德急诊室,但由于伤势严重,最终还是没能活下来。民警正在以交通事故过失杀人罪对此案进行调查。该事件在该地区的居民和家人中引起了极大的骚动。 玩的时候跑过去 事件发生时,亚瑟正在商场的停车场玩耍。男孩的父母在那里拥...",
-      "source": "Mixvale",
-      "date": "2026-06-07",
-      "url": "https://www.mixvale.com.br/2026/06/07/3-%E5%B2%81%E7%94%B7%E5%AD%A9-arthur-szimanczuk-veiga-%E5%9C%A8%E6%96%BD%E7%BD%97%E5%BE%B7%E5%81%9C%E8%BD%A6%E5%9C%BA%E8%A2%AB%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1-zh-cn/"
+      "id": "https://www.devdiscourse.com/article/technology/3931945-samsung-and-nvidia-forge-ahead-in-chip-innovation",
+      "title": "Samsung and Nvidia Forge Ahead in Chip Innovation",
+      "summary": "Samsung Electronics' co-CEO discussed cooperation with Nvidia CEO in Seoul, focusing on next-generation foundry chips. Collaboration on autonomous driving and Groq AI accelerator chips was highlighted...",
+      "source": "Devdiscourse",
+      "date": "2026-06-08",
+      "url": "https://www.devdiscourse.com/article/technology/3931945-samsung-and-nvidia-forge-ahead-in-chip-innovation"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/world/story20260607-9169388",
-      "title": "法英挪拟绕开布鲁塞尔联手协调制裁以色列",
-      "summary": "(巴黎/希伯伦综合电)由于欧盟内部迟迟无法就制裁以色列达成共识,法国正与英国、挪威等盟友磋商,准备在国家层级协调推出针对约旦河西岸施暴者的制裁措施,对以色列政府扩张定居点的政策施压。...",
-      "source": "Zaobao",
-      "date": "2026-06-07",
-      "url": "https://www.zaobao.com.sg/news/world/story20260607-9169388"
+      "id": "https://www.devdiscourse.com/article/technology/3931913-samsung-and-nvidia-forge-future-in-semiconductors",
+      "title": "Samsung and Nvidia Forge Future in Semiconductors",
+      "summary": "Samsung Electronics' co-CEO Jun Young-hyun met with Nvidia CEO Jensen Huang to discuss collaboration on next-gen foundry chips. This includes ongoing work on autonomous driving chips and AI accelerato...",
+      "source": "Devdiscourse",
+      "date": "2026-06-08",
+      "url": "https://www.devdiscourse.com/article/technology/3931913-samsung-and-nvidia-forge-future-in-semiconductors"
     },
     {
-      "id": "https://post.smzdm.com/p/ad7p943d/",
-      "title": "20万级纯电轿跑怎么选?极氪007和阿尔法S5深度对比来了",
-      "summary": "在20万级纯电轿跑市场,极氪007与搭载华为ADS高阶智驾系统的阿尔法S5正成为谨慎型用户反复权衡的两个选项。两者均主打“全栈智能+长续航”,但技术路线、硬件配置与实际体验存在显著差异。本文将从智能驾驶能力、三电性能、座舱交互三大核心维度,结合真实用户反......",
-      "source": "Smzdm",
-      "date": "2026-06-07",
-      "url": "https://post.smzdm.com/p/ad7p943d/"
-    },
-    {
-      "id": "https://www.ithome.com/0/961/087.htm",
-      "title": "2027 款东风风行星海 V9 上市,超级置换价 16.99 万起",
-      "summary": "IT之家 6 月 7 日消息,2027 款东风风行星海 V9 今日上市,超级置换价 16.99 万起。 新车共推出 3 款配置车型,超级置换价为 16.99-21.99 万元,官方指导价为 17.99-22.99 万元。 IT之家注意到,2027 款东风风行星海 V9 在外观上延续现款整体造型,长宽高为 5230/1920/1820mm, 轴距 3018mm 。内饰搭载双 15.6 英寸中控、副驾...",
-      "source": "Ithome",
-      "date": "2026-06-07",
-      "url": "https://www.ithome.com/0/961/087.htm"
+      "id": "https://www.tribuneindia.com/news/business/nvidia-lg-group-partner-to-build-ai-factory-for-robotics-mobility-and-data-infrastructure/",
+      "title": "NVIDIA, LG Group partner to build AI factory for robotics, mobility and data infrastructure",
+      "summary": "NVIDIA and South Korea's LG Group have announced a strategic collaboration to build an AI factory aimed at accelerating the development of robotics, autonomous driving technologies, AI infrastructure ...",
+      "source": "The Tribune",
+      "date": "2026-06-08",
+      "url": "https://www.tribuneindia.com/news/business/nvidia-lg-group-partner-to-build-ai-factory-for-robotics-mobility-and-data-infrastructure/"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/legato-merger-corp-iii-shareholders-approve-business-combination-with-einride-302792607.html",
@@ -184,38 +220,6 @@
       "source": "Hartford Courant",
       "date": "2026-06-03",
       "url": "https://www.courant.com/2026/06/03/china-catching-up-to-us-on-autonomous-driving-tech-experts-warn-2/"
-    },
-    {
-      "id": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/rivian-boss-says-level-4-autonomous-driving-is-much-closer-than-people-think-but-tesla-is-struggling-to-convince-its-own-employees-that-the-technology-is-reliable",
-      "title": "Rivian boss says Level 4 autonomous driving is \"much closer than people think\", but Tesla is struggling to convince its own employees that the technology is reliable",
-      "summary": "Tesla staffers claim the company isn't close to safely delivering autonomous vehicles at scale...",
-      "source": "TechRadar",
-      "date": "2026-06-03",
-      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/rivian-boss-says-level-4-autonomous-driving-is-much-closer-than-people-think-but-tesla-is-struggling-to-convince-its-own-employees-that-the-technology-is-reliable"
-    },
-    {
-      "id": "https://zeenews.india.com/industry-updates/from-rural-indian-roads-to-next-generation-transportation-indian-origin-entrepreneur-builds-technology-for-safer-mobility-3052251.html",
-      "title": "From Rural Indian roads to next-generation transportation: Indian-Origin entrepreneur builds technology for safer mobility",
-      "summary": "Harsh Singh’s ETECHSTARS develops DriveNoggin AI for safer, affordable autonomous driving, inspired by real-world road challenges and human perception....",
-      "source": "Zee News",
-      "date": "2026-06-02",
-      "url": "https://zeenews.india.com/industry-updates/from-rural-indian-roads-to-next-generation-transportation-indian-origin-entrepreneur-builds-technology-for-safer-mobility-3052251.html"
-    },
-    {
-      "id": "https://www.firstpost.com/tech/nvidia-expands-global-robotaxi-push-partners-with-foxconn-and-uber-on-level-4-autonomous-vehicles-14017647.html",
-      "title": "Nvidia expands global robotaxi push, partners with Foxconn and Uber on level 4 autonomous vehicles",
-      "summary": "Nvidia is expanding its Drive Hyperion platform and partnering with global automakers and Foxconn to accelerate the rollout of Level 4 autonomous robotaxis and self-driving EVs...",
-      "source": "Firstpost",
-      "date": "2026-06-01",
-      "url": "https://www.firstpost.com/tech/nvidia-expands-global-robotaxi-push-partners-with-foxconn-and-uber-on-level-4-autonomous-vehicles-14017647.html"
-    },
-    {
-      "id": "https://www.bloomberg.com/news/articles/2026-06-01/think-robotaxis-are-disruptive-wait-until-everyone-buys-their-own-avs",
-      "title": "The AV Future Might Not Be Shared",
-      "summary": "Right now, self-driving cars are used only for shared fleets of autonomous robotaxis. What happens when anyone can buy their own?...",
-      "source": "Bloomberg",
-      "date": "2026-06-01",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/think-robotaxis-are-disruptive-wait-until-everyone-buys-their-own-avs"
     }
   ]
 }
