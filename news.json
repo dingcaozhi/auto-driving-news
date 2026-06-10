@@ -1,153 +1,209 @@
 {
-  "lastUpdated": "2026-06-09 04:12:11",
-  "totalCount": 25,
+  "lastUpdated": "2026-06-10 04:22:58",
+  "totalCount": 30,
   "sources": {
-    "Chinanews": 4,
-    "Fx168News": 1,
-    "Imobile": 1,
-    "Ithome": 1,
-    "Jiemian": 3,
-    "Rfi_Fr": 1,
-    "Investing_Cn": 1,
-    "News_Seehua": 2,
-    "Cri_Cn": 1,
-    "Bjnews": 1,
+    "Bilibili": 5,
+    "Investing_Cn": 2,
+    "Smzdm": 1,
+    "Fx168News": 3,
+    "Ithome": 2,
+    "Cri_Cn": 2,
+    "Bjnews": 2,
+    "Prnasia": 1,
+    "Orientaldaily": 1,
+    "Chinanews": 2,
+    "City A.M.": 1,
+    "MarketScreener": 1,
     "The Economic Times": 1,
     "Devdiscourse": 3,
     "The Tribune": 1,
     "PR Newswire UK": 1,
-    "Reuters": 1,
-    "Forbes": 1,
-    "Hartford Courant": 1
+    "Reuters": 1
   },
   "news": [
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/06-08/10636620.shtml",
-      "title": "从“授鱼”到“授渔”:一场天津行里的发展权观察",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-06-08",
-      "url": "https://www.chinanews.com.cn/gn/2026/06-08/10636620.shtml"
+      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
+      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
+      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
+      "source": "Bilibili",
+      "date": "2026-06-10",
+      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
     },
     {
-      "id": "https://www.fx168news.com/article/1041225",
-      "title": "特斯拉(TSLA)股票6月8日盘中上涨3.38%:释放什么信号?-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.38%, 所属行业汽车与零部件上涨2.84% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.38%;Rivian Automotive Inc (RIVN) 上涨 6.82%;Cummins Inc (CMI) 上涨 3.06%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉股价今日呈现上涨态势,伴随显著的日内波动,这主要受到...",
-      "source": "Fx168News",
-      "date": "2026-06-08",
-      "url": "https://www.fx168news.com/article/1041225"
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-10",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0608/234666.shtml",
-      "title": "倍耐力为蔚来ES9打造新一代P Zero轮胎",
-      "summary": "2026年6月8日——倍耐力为蔚来ES9量身打造了新一代P Zero高性能轮胎。ES9是一款采用900V高压架构的科技行政旗舰SUV,面向高端行政市场,提供宽裕的三排座舱布局。凭借专属调校和前沿轮胎技术,倍耐力精准回应了这款车型在安全、声学舒适性、操控及续航等方面的严苛要求。 倍耐力为蔚来ES9打造两款轮胎规格:275/45 R22与275/40 R23。后者为HL高负载加强轮胎,专为承载更重的车...",
-      "source": "Imobile",
-      "date": "2026-06-08",
-      "url": "http://news.imobile.com.cn/articles/2026/0608/234666.shtml"
+      "id": "https://www.bilibili.com/video/BV1VtE76XEXi",
+      "title": "【B站】自动驾驶&quot;画饼&quot;十年，终于装不下去了",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-10",
+      "url": "https://www.bilibili.com/video/BV1VtE76XEXi"
     },
     {
-      "id": "https://www.ithome.com/0/961/628.htm",
-      "title": "超越人眼的能力:华为乾崑智驾百公里时速隧道避障视频曝光,车辆提前预判秒切车道",
-      "summary": "IT之家 6 月 8 日消息,一条华为乾崑智驾车型百公里时速进隧道,并触发避障提前切换车道的视频最近在互联网平台曝光,引发了网友和博主讨论。 事实上,隧道内部环境与开放道路不同,空间封闭、车道较窄、视野受限,驾驶者观察周边情况的能力下降,同时光线从明亮的室外进入隧道会产生视觉适应延迟,因此很容易导致反应不及时或操作失误而发生事故。 此次曝光的视频画面显示,该车在进入隧道后立刻就遇到了桩桶。而在人眼...",
-      "source": "Ithome",
-      "date": "2026-06-08",
-      "url": "https://www.ithome.com/0/961/628.htm"
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-10",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "https://www.jiemian.com/article/14554108.html",
-      "title": "加入仅半年,字节前公关总监据传从理想汽车离职",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-06-08",
-      "url": "https://www.jiemian.com/article/14554108.html"
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-06-10",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260608-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E8%B5%B7%E6%AD%A5",
-      "title": "无人驾驶出租车在欧洲起步",
-      "summary": "无人驾驶出租车在美国和中国已经开始发展起来,现在在欧洲有兴起的势头。多家大型公司今年将在多个欧洲国家的首都启动试验,欧盟也将于今天周一加速推进。...",
-      "source": "Rfi_Fr",
-      "date": "2026-06-08",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260608-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E8%B5%B7%E6%AD%A5"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3406443",
-      "title": "Foresight股价飙升30%,获VisionWave 1,750万美元战略投资",
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3409205",
+      "title": "特斯拉获丹麦批准部署自动驾驶技术",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-08",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3406443"
+      "date": "2026-06-09",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3409205"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-08/10636520.shtml",
-      "title": "中国首艘大型无人驾驶自动投喂船在广东湛江试用",
-      "summary": "中新社广东湛江6月8日电 (梁盛 谢晓琳)中国首艘大型无人驾驶自动投喂船“粤坡渔养10001”8日在广东湛江雷州湾海洋牧场临时停泊点进行测试,后续将开展深远海养殖作业。...",
-      "source": "Chinanews",
-      "date": "2026-06-08",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-08/10636520.shtml"
+      "id": "https://post.smzdm.com/p/ae6p35o3/",
+      "title": "华为小鹏特斯拉掉头实测:谁才是老城区窄路真王者?",
+      "summary": "截至2026年6月,城区智能驾驶已从“能用”迈向“好用”的关键阶段。其中,掉头作为高频且高难度的城市场景,成为检验智驾系统拟人化水平与空间感知能力的重要标尺。华为乾崑ADS 4.1、小鹏XNGP 5.2.0与特斯拉FSD(中国版)均宣称支持自动掉头,但实......",
+      "source": "Smzdm",
+      "date": "2026-06-09",
+      "url": "https://post.smzdm.com/p/ae6p35o3/"
     },
     {
-      "id": "https://www.chinanews.com.cn/dwq/2026/06-08/10636442.shtml",
-      "title": "“粤车南下”香港政策分步推广实施 明年拟覆盖广东全省",
-      "summary": "中新网广州6月8日电 (记者 方伟彬)记者8日从广东省公安厅、广东省交通运输厅获悉,“粤车南下”香港政策推广实施安排正式公布,将分两步实施,目标2027年第一季度前覆盖全省。...",
-      "source": "Chinanews",
-      "date": "2026-06-08",
-      "url": "https://www.chinanews.com.cn/dwq/2026/06-08/10636442.shtml"
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1041825",
+      "title": "佑驾创新(02431.HK):签署超1.3亿元自动驾驶车辆采购合同,供应上百台无人巴士-FX168",
+      "summary": "新时空(newtimespace.com)讯:深圳佑驾创新科技股份有限公司(02431.HK)公告称,本集团近期与专注智能汽车及智慧交通领域的独立第三方正式签署自动驾驶车辆采购合同,合同含税总金额超过人民币1.3亿元,涉及采购上百台无人巴士及相关配套服务,将主要应用于地方文旅、微循环及公交场景。...",
+      "source": "Fx168News",
+      "date": "2026-06-09",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1041825"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/06-08/10636440.shtml",
-      "title": "(乡村行·看振兴)小南瓜大产业 特色种植绘就广西乡村振兴新“丰”景",
-      "summary": "中新网南宁6月8日电(覃捷 彭国春 黄艳梅)时下正值南瓜成熟上市的黄金时节。在广西南宁市邕宁区新江镇屯亮村南瓜种植基地,圆润匀称的南瓜藏匿在枝叶间。农户们穿梭在瓜田中,熟练地采摘、分拣、装筐,一派瓜果飘香、丰收喜人的景象。...",
-      "source": "Chinanews",
-      "date": "2026-06-08",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-08/10636440.shtml"
+      "id": "https://www.ithome.com/0/962/113.htm",
+      "title": "美国工程师研发“人造眼”,有望解决自动驾驶汽车遇强光“失明”问题",
+      "summary": "IT之家 6 月 9 日消息,据外媒 Interesting Engineering 今日报道,美国宾夕法尼亚州立大学研究人员开发出一种 模仿人眼的新型光学器件 ,希望解决自动驾驶汽车在光线剧烈变化时可能“失明”的问题。 这种器件名为“光忆阻器”,能够像人眼一样适应复杂光照。在明暗交错、光线不断变化的环境中,光忆阻器只需数秒就能从强光切换到暗光状态。 宾夕法尼亚州立大学詹姆斯 ·L· 亨德森 Jr...",
+      "source": "Ithome",
+      "date": "2026-06-09",
+      "url": "https://www.ithome.com/0/962/113.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1495810",
-      "title": "周圣栋促政府回应民意 检讨罗兴亚人安置政策",
-      "summary": "(槟城8日讯)人民复兴联盟(RESET)发言人周圣栋表示,在短短10天内爆发超过42万4000人签名响应的“移 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-08",
-      "url": "https://news.seehua.com/post/1495810"
+      "id": "https://www.fx168news.com/article/1041813",
+      "title": "城野无界,性能越级Segway Xaber 350越野电摩正式发布-FX168",
+      "summary": "6月9日,九号公司旗下Segway品牌正式发布高性能电动越野摩托车Xaber 350,产品零售价:25997元,首销优惠价格:23997元,用户购买产品将享受专属权益,包含:激活期起1年内,易损件1次免费更换,同时还有定制铭牌、Segway典藏纪念礼盒、定制NFC卡片等。区别于传统车型单一的...",
+      "source": "Fx168News",
+      "date": "2026-06-09",
+      "url": "https://www.fx168news.com/article/1041813"
     },
     {
-      "id": "https://news.seehua.com/post/1495781",
-      "title": "古晋69岁老翁抛石砸车窗 俯首认罪判监1年",
-      "summary": "(古晋8日讯)一名69岁的老汉因去年在石角路涉嫌投掷石头砸坏路过客货车,今日在古晋推事庭开审时俯首认罪,被判处 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-08",
-      "url": "https://news.seehua.com/post/1495781"
+      "id": "https://www.fx168news.com/article/1041811",
+      "title": "打破公路与越野的边界,Xaber 350越野电摩正式发布-FX168",
+      "summary": "6 月 9 日,九号公司旗下 Segway 品牌正式发布高性能电动越野摩托车 Xaber 350,产品零售价:25997元,首销优惠价格:23997元,用户购买产品将享受专属权益,包含:激活期起1年内,易损件1次免费更换,同时还有定制铭牌、Segway典藏纪念礼盒、定制NFC卡片等。 区别于传统车型单一的使用属性,这款新车深度适配城市通勤、郊野穿行、轻中度越野以及个性化玩乐等多元需求,让一台车即可...",
+      "source": "Fx168News",
+      "date": "2026-06-09",
+      "url": "https://www.fx168news.com/article/1041811"
     },
     {
-      "id": "https://news.cri.cn/20260608/bbb45ab0-4a09-4771-a527-562317cc2078.html",
-      "title": "记者手记:在岭南大地看民营经济发展的“双向奔赴”-国际在线",
-      "summary": "新华社广州6月8日电记者手记:在岭南大地看民营经济发展的“双向奔赴”新华社记者范思翔潮起珠江千帆竞,满载岭南好风物。民营企业是伴随改革开放伟大历程蓬勃发展起来的。作为改革开放的排头兵、先行地、实验区,广东一直以来是民营经济发展的沃土,民营经...",
+      "id": "https://news.cri.cn/20260609/5a9299ef-6957-4370-a2f6-7f169e416c4e.html",
+      "title": "视频丨田间“数字哨兵”上岗 智能农机护航“三夏”丰收-国际在线",
+      "summary": "农业农村部小麦机收进度显示,截至昨天17点,全国已收获夏粮小麦2.19亿亩,收获进度已近六成半。安徽麦收基本完成,河南过九成半,江苏过七成,山东过三成半,陕西近三成,河北、山西过一成。推进雨后麦收作业跨区调运农机投入抢收 连日降雨过后...",
       "source": "Cri_Cn",
-      "date": "2026-06-08",
-      "url": "https://news.cri.cn/20260608/bbb45ab0-4a09-4771-a527-562317cc2078.html"
+      "date": "2026-06-09",
+      "url": "https://news.cri.cn/20260609/5a9299ef-6957-4370-a2f6-7f169e416c4e.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780910511168564.html",
-      "title": "九识智能与东风股份合作的无人货运车发布,聚焦L4级自动驾驶",
+      "id": "https://www.bjnews.com.cn/detail/1781006233129606.html",
+      "title": "青少年汽车科普行走进陕甘宁汽车科技传递向善力量",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-08",
-      "url": "https://www.bjnews.com.cn/detail/1780910511168564.html"
+      "date": "2026-06-09",
+      "url": "https://www.bjnews.com.cn/detail/1781006233129606.html"
     },
     {
-      "id": "https://www.jiemian.com/article/14548013.html",
-      "title": "为什么汽车公司要忙着自研智驾芯片?",
-      "summary": "智能化时代,汽车公司需要保持技术的先进性和产品差异化。关键芯片掌握在自己手里,能降低供应链不确定性。...",
-      "source": "Jiemian",
-      "date": "2026-06-08",
-      "url": "https://www.jiemian.com/article/14548013.html"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14553218.html",
-      "title": "奇瑞回应与塔塔合作:仅供应零部件,不在印度直接投资和技术转让",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3408618",
+      "title": "SpaceX上市对特斯拉意味着什么?",
       "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-06-08",
-      "url": "https://www.jiemian.com/article/14553218.html"
+      "source": "Investing_Cn",
+      "date": "2026-06-09",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3408618"
+    },
+    {
+      "id": "https://www.prnasia.com/story/536533-1.shtml",
+      "title": "Neurovia AI在第三届阿联酋政府网络安全峰会上展示NeuroStreamTM技术成果,共筑可信视觉智能基础设施",
+      "summary": "阿联酋阿布扎比 2026年6月9日 /美通社/ -- Robo.ai Inc. (NASDAQ: AIIO) 今日宣布,其全资子公司 Neurovia AI 作为\"官方政府级 AI 网络安全合作伙伴\",正式亮相第三届阿联酋政府网络安全峰会(The 3rd Government Cybersecurity Summit),并在峰会现场全面展示了其核心技术架构 NeuroStreamTM 的最新技术成...",
+      "source": "Prnasia",
+      "date": "2026-06-09",
+      "url": "https://www.prnasia.com/story/536533-1.shtml"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1780986746168585.html",
+      "title": "司机倒车挂错挡将八旬老伴夹在两车间,北京朝阳消防紧急施救",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-09",
+      "url": "https://www.bjnews.com.cn/detail/1780986746168585.html"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/international/2026/06/09/824646",
+      "title": "泰女网红街头遭枪杀 前男友遭追捕饮弹自戕",
+      "summary": "(曼谷9日讯)泰国北标府(Saraburi)一名在当地颇具知名度的抖音女网红,昨日(8日)被发现头部中枪,陈尸于路边。事发时,她正与男友视频通话,对方透过镜头目睹她遭枪击的过程,随后手机掉落地面,通讯也随之中断。警方展开调查后,发现死者前男友涉案嫌疑重大,并立即追缉。不过,嫌犯后来被发现在车内饮弹自尽。泰媒《Khaosod》报导,26岁的TikTok网红茱拉朋平时在当地一座加油站工作,凭借亮眼外貌...",
+      "source": "Orientaldaily",
+      "date": "2026-06-09",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/06/09/824646"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/edu/2026/06-09/10637207.shtml",
+      "title": "长三角青少年角逐AI赛场 展现“科技+文化”活力",
+      "summary": "中新网上海6月9日电 (记者 陈静)以“让世界充满AI”为主题的第六届长三角青少年人工智能奥林匹克挑战赛9日正在上海火热进行中。长三角青少年在赛场上发挥智慧,将科技探索与国家发展、文化传承、社会民生紧密相连。截至目前,部分赛道已完成比赛。...",
+      "source": "Chinanews",
+      "date": "2026-06-09",
+      "url": "https://www.chinanews.com.cn/edu/2026/06-09/10637207.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260609/fca0fae6-f623-f283-89f3-384d827b1460.html",
+      "title": "世界杯开赛在即 中国驻美、加、墨使领馆发布提示-国际在线",
+      "summary": "2026年国际足联世界杯将于6月11日至7月19日在美国、加拿大、墨西哥三国举行。驻美国使领馆、驻加拿大使领馆、驻墨西哥使领馆提醒出国观赛中国公民平安出行,文明观赛,注意防范各类风险,保障人身财产安全。 驻美国使领馆发布购票相关提醒...",
+      "source": "Cri_Cn",
+      "date": "2026-06-09",
+      "url": "https://news.cri.cn/20260609/fca0fae6-f623-f283-89f3-384d827b1460.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/hr/2026/06-09/10637159.shtml",
+      "title": "世界杯开赛在即 中国驻美、加、墨使领馆发布提示",
+      "summary": "2026年国际足联世界杯将于6月11日至7月19日在美国、加拿大、墨西哥三国举行。驻美国使领馆、驻加拿大使领馆、驻墨西哥使领馆提醒出国观赛中国公民平安出行,文明观赛,注意防范各类风险,保障人身财产安全。...",
+      "source": "Chinanews",
+      "date": "2026-06-09",
+      "url": "https://www.chinanews.com.cn/hr/2026/06-09/10637159.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/962/092.htm",
+      "title": "时隔 11 年终迎换代,全新一代奥迪 Q7 正式亮相",
+      "summary": "IT之家 6 月 9 日消息,奥迪第三代 Q7 今晚正式发布,定位为 Q 系列 SUV 中的“次旗舰”车型,而尺寸更大的 Q9 将接替 Q7,成为奥迪旗舰 SUV,首次正面挑战宝马 X7 和奔驰 GLS。 相比生命周期长达 10 年的上一代车型,全新 Q7 视觉效果 更强壮,也更有压迫感 。前脸部分,第三代 Q7 使用大尺寸格栅,中间为夸张的网格结构,并换上此前已登陆 Q6 e-tron 等车型的...",
+      "source": "Ithome",
+      "date": "2026-06-09",
+      "url": "https://www.ithome.com/0/962/092.htm"
+    },
+    {
+      "id": "https://www.cityam.com/uber-and-wayve-open-waitlist-for-london-robotaxis/",
+      "title": "Uber and Wayve open waitlist for London robotaxis",
+      "summary": "Uber is partnering with British autonomous driving firm Wayve, whose technology has been tested on London’s streets since 2018....",
+      "source": "City A.M.",
+      "date": "2026-06-09",
+      "url": "https://www.cityam.com/uber-and-wayve-open-waitlist-for-london-robotaxis/"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/toyota-invention-partners-owns-1-0-stake-in-autonomous-driving-startup-tier-iv-filing-shows-ce7f5dd3dc80f527",
+      "title": "Toyota Invention Partners Owns 1.0% Stake In Autonomous Driving Startup 'Tier IV', Filing Shows",
+      "summary": "Toyota Motor Corp:\n*TOYOTA INVENTION PARTNERS OWNS 1.0% STAKE IN AUTONOMOUS\nDRIVING STARTUP 'TIER IV', FILING SHOWS\nSource text:......",
+      "source": "MarketScreener",
+      "date": "2026-06-09",
+      "url": "https://www.marketscreener.com/news/toyota-invention-partners-owns-1-0-stake-in-autonomous-driving-startup-tier-iv-filing-shows-ce7f5dd3dc80f527"
     },
     {
       "id": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms",
@@ -204,22 +260,6 @@
       "source": "Devdiscourse",
       "date": "2026-06-05",
       "url": "https://www.devdiscourse.com/article/technology/3930594-teslas-forward-drive-beyond-electric-vehicles-to-a-39-trillion-future"
-    },
-    {
-      "id": "https://www.forbes.com/sites/johnkoetsier/2026/06/03/this-wall-e-self-driving-pod-wants-to-replace-the-airport-wheelchair-and-much-more/",
-      "title": "Is This Self-Driving Pod The Future Of Indoor Transit?",
-      "summary": "This Wall-E style pod is autonomous, quick, and recharges itself. And it might soon be in use at an airport near you ... or a mall, or conference ......",
-      "source": "Forbes",
-      "date": "2026-06-03",
-      "url": "https://www.forbes.com/sites/johnkoetsier/2026/06/03/this-wall-e-self-driving-pod-wants-to-replace-the-airport-wheelchair-and-much-more/"
-    },
-    {
-      "id": "https://www.courant.com/2026/06/03/china-catching-up-to-us-on-autonomous-driving-tech-experts-warn-2/",
-      "title": "China catching up to US on autonomous driving tech, experts warn",
-      "summary": "Market conditions in China, regulatory changes there and its brands' speedy vehicle development threaten to put the United States behind in developing autonomous driving technologies, experts say. Dir...",
-      "source": "Hartford Courant",
-      "date": "2026-06-03",
-      "url": "https://www.courant.com/2026/06/03/china-catching-up-to-us-on-autonomous-driving-tech-experts-warn-2/"
     }
   ]
 }
