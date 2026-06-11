@@ -1,193 +1,233 @@
 {
-  "lastUpdated": "2026-06-10 04:22:58",
-  "totalCount": 30,
+  "lastUpdated": "2026-06-11 04:45:31",
+  "totalCount": 28,
   "sources": {
-    "Bilibili": 5,
-    "Investing_Cn": 2,
-    "Smzdm": 1,
-    "Fx168News": 3,
-    "Ithome": 2,
-    "Cri_Cn": 2,
-    "Bjnews": 2,
-    "Prnasia": 1,
-    "Orientaldaily": 1,
-    "Chinanews": 2,
+    "Fx168News": 2,
+    "Jiemian": 1,
+    "Smzdm": 2,
+    "Ithome": 9,
+    "Cri_Cn": 1,
+    "Investing_Cn": 1,
+    "Eeo": 1,
+    "Bjnews": 1,
+    "News_Seehua": 1,
+    "PR Newswire UK": 2,
+    "RTE.ie": 1,
+    "TechCrunch": 1,
+    "The Independent": 1,
+    "The Manila Times": 1,
+    "PerthNow": 1,
     "City A.M.": 1,
-    "MarketScreener": 1,
-    "The Economic Times": 1,
-    "Devdiscourse": 3,
-    "The Tribune": 1,
-    "PR Newswire UK": 1,
-    "Reuters": 1
+    "MarketScreener": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1oL4xzHEJz",
-      "title": "【B站】【BeamNG】自动驾驶模组展示分享",
-      "summary": "使用车辆：小米SU7 Ultra，模组来源@bili_92197806005  \n模组名称：Advanced Driver Assistance Systems Plus(ADAS+) 2.01（目前还是测试版）\n下载地址：https://www.beamng.com/resources/advan...",
-      "source": "Bilibili",
+      "id": "https://www.fx168news.com/article/1042413",
+      "title": "Bitget 推出“Score Your 40%”代理商招募活动,总奖池达 100 万美元-FX168",
+      "summary": "塞舌尔维多利亚, June 11, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 推出全新的全球代理商招募活动“Score Your 40%”,总奖池达 100 万 USDT。本次活动旨在于本年度最盛大的体育赛季前夕,加速代理商增长,奖励社区建设者。 该活动延续了 Bitget 此前代理商计划的势头,尤其是曾显著提升社区参与度的“The Miss...",
+      "source": "Fx168News",
       "date": "2026-06-10",
-      "url": "https://www.bilibili.com/video/BV1oL4xzHEJz"
+      "url": "https://www.fx168news.com/article/1042413"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-06-10",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1VtE76XEXi",
-      "title": "【B站】自动驾驶&quot;画饼&quot;十年，终于装不下去了",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-06-10",
-      "url": "https://www.bilibili.com/video/BV1VtE76XEXi"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-06-10",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-06-10",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3409205",
-      "title": "特斯拉获丹麦批准部署自动驾驶技术",
+      "id": "https://www.jiemian.com/article/14567671.html",
+      "title": "小鹏汽车由盈转亏后,何小鹏却要把更多精力投向机器人",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-09",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3409205"
+      "source": "Jiemian",
+      "date": "2026-06-10",
+      "url": "https://www.jiemian.com/article/14567671.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ae6p35o3/",
-      "title": "华为小鹏特斯拉掉头实测:谁才是老城区窄路真王者?",
-      "summary": "截至2026年6月,城区智能驾驶已从“能用”迈向“好用”的关键阶段。其中,掉头作为高频且高难度的城市场景,成为检验智驾系统拟人化水平与空间感知能力的重要标尺。华为乾崑ADS 4.1、小鹏XNGP 5.2.0与特斯拉FSD(中国版)均宣称支持自动掉头,但实......",
+      "id": "https://post.smzdm.com/p/az8md52n/",
+      "title": "15万级纯电家轿真实续航与智驾实测",
+      "summary": "一、入门款配置解析1、11.16万入门版核心配置清单:电池系统搭载宁德时代磷酸铁锂电池,容量62.268kWh,CLTC纯电续航530km,支持3C超充技术1 2 3智能驾驶标配广汽GSD组合辅助驾驶系统,含全速自适应巡航、车道居中保持、AEB自动紧急制......",
       "source": "Smzdm",
-      "date": "2026-06-09",
-      "url": "https://post.smzdm.com/p/ae6p35o3/"
+      "date": "2026-06-10",
+      "url": "https://post.smzdm.com/p/az8md52n/"
     },
     {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1041825",
-      "title": "佑驾创新(02431.HK):签署超1.3亿元自动驾驶车辆采购合同,供应上百台无人巴士-FX168",
-      "summary": "新时空(newtimespace.com)讯:深圳佑驾创新科技股份有限公司(02431.HK)公告称,本集团近期与专注智能汽车及智慧交通领域的独立第三方正式签署自动驾驶车辆采购合同,合同含税总金额超过人民币1.3亿元,涉及采购上百台无人巴士及相关配套服务,将主要应用于地方文旅、微循环及公交场景。...",
-      "source": "Fx168News",
-      "date": "2026-06-09",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1041825"
-    },
-    {
-      "id": "https://www.ithome.com/0/962/113.htm",
-      "title": "美国工程师研发“人造眼”,有望解决自动驾驶汽车遇强光“失明”问题",
-      "summary": "IT之家 6 月 9 日消息,据外媒 Interesting Engineering 今日报道,美国宾夕法尼亚州立大学研究人员开发出一种 模仿人眼的新型光学器件 ,希望解决自动驾驶汽车在光线剧烈变化时可能“失明”的问题。 这种器件名为“光忆阻器”,能够像人眼一样适应复杂光照。在明暗交错、光线不断变化的环境中,光忆阻器只需数秒就能从强光切换到暗光状态。 宾夕法尼亚州立大学詹姆斯 ·L· 亨德森 Jr...",
+      "id": "https://www.ithome.com/0/962/675.htm",
+      "title": "消息称小米 YU7 GT 将以自动驾驶挑战纽北,路透图曝光",
+      "summary": "IT之家 6 月 10 日消息,Instagram 用户“rollendereporter”今天发布了一张照片,称其“意外发现小米团队正在拍摄‘自动驾驶挑战纽北’的圈速记录宣传图”。 根据他放出的现场照片显示,图中一辆小米 YU7 GT 原型车正停在纽北赛道旁,配文“小米即将公布‘自动驾驶原型车’的纽北官方圈速,你能看清上面的时间吗?” 当然,这只是该用户的解读。小米官方并未回应有关 YU7 GT...",
       "source": "Ithome",
-      "date": "2026-06-09",
-      "url": "https://www.ithome.com/0/962/113.htm"
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/675.htm"
     },
     {
-      "id": "https://www.fx168news.com/article/1041813",
-      "title": "城野无界,性能越级Segway Xaber 350越野电摩正式发布-FX168",
-      "summary": "6月9日,九号公司旗下Segway品牌正式发布高性能电动越野摩托车Xaber 350,产品零售价:25997元,首销优惠价格:23997元,用户购买产品将享受专属权益,包含:激活期起1年内,易损件1次免费更换,同时还有定制铭牌、Segway典藏纪念礼盒、定制NFC卡片等。区别于传统车型单一的...",
-      "source": "Fx168News",
-      "date": "2026-06-09",
-      "url": "https://www.fx168news.com/article/1041813"
+      "id": "https://www.ithome.com/0/962/671.htm",
+      "title": "用“意外”衡量安全:Waymo 推出虚拟驾驶员,研究“老司机”如何应对紧急情况",
+      "summary": "IT之家 6 月 10 日消息,Waymo 今日在《自然 · 通讯》上发表了一篇研究论文,介绍了一个名为 ReD(Reference Driver,参考驾驶员)的计算机认知模型,旨在解释人类驾驶员如何在意外瞬间做出最有利的决策以规避碰撞。 该模型由 Waymo 与荷兰代尔夫特理工大学合作开发,公司希望将其作为评估自动驾驶系统避撞行为的行业基准,推动业界迈向更统一的科学化安全标准。 ReD 模型基于...",
+      "source": "Ithome",
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/671.htm"
     },
     {
-      "id": "https://www.fx168news.com/article/1041811",
-      "title": "打破公路与越野的边界,Xaber 350越野电摩正式发布-FX168",
-      "summary": "6 月 9 日,九号公司旗下 Segway 品牌正式发布高性能电动越野摩托车 Xaber 350,产品零售价:25997元,首销优惠价格:23997元,用户购买产品将享受专属权益,包含:激活期起1年内,易损件1次免费更换,同时还有定制铭牌、Segway典藏纪念礼盒、定制NFC卡片等。 区别于传统车型单一的使用属性,这款新车深度适配城市通勤、郊野穿行、轻中度越野以及个性化玩乐等多元需求,让一台车即可...",
-      "source": "Fx168News",
-      "date": "2026-06-09",
-      "url": "https://www.fx168news.com/article/1041811"
-    },
-    {
-      "id": "https://news.cri.cn/20260609/5a9299ef-6957-4370-a2f6-7f169e416c4e.html",
-      "title": "视频丨田间“数字哨兵”上岗 智能农机护航“三夏”丰收-国际在线",
-      "summary": "农业农村部小麦机收进度显示,截至昨天17点,全国已收获夏粮小麦2.19亿亩,收获进度已近六成半。安徽麦收基本完成,河南过九成半,江苏过七成,山东过三成半,陕西近三成,河北、山西过一成。推进雨后麦收作业跨区调运农机投入抢收 连日降雨过后...",
+      "id": "https://news.cri.cn/20260610/1b73c0ea-a32a-1b8a-d1e9-8fed75e0ef84.html",
+      "title": "香江观澜:“粤车南下”扩围 大湾区“双向奔赴”再提速-国际在线",
+      "summary": "中新社香港6月10日电题:“粤车南下”扩围大湾区“双向奔赴”再提速 中新社记者香卢平 香港特区政府6月8日公布“粤车南下”扩展安排,新增深圳、佛山、东莞、惠州、...",
       "source": "Cri_Cn",
-      "date": "2026-06-09",
-      "url": "https://news.cri.cn/20260609/5a9299ef-6957-4370-a2f6-7f169e416c4e.html"
+      "date": "2026-06-10",
+      "url": "https://news.cri.cn/20260610/1b73c0ea-a32a-1b8a-d1e9-8fed75e0ef84.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781006233129606.html",
-      "title": "青少年汽车科普行走进陕甘宁汽车科技传递向善力量",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-09",
-      "url": "https://www.bjnews.com.cn/detail/1781006233129606.html"
+      "id": "https://www.ithome.com/0/962/654.htm",
+      "title": "岚图卢放谈追光 S 被叫“法拉岚”:它不是谁的山寨,不是谁的复刻,更不是平替",
+      "summary": "IT之家 6 月 10 日消息,岚图全新纯电轿跑 SUV —— 追光 S 此前已官宣亮相,内部代号“FE”,已于此前通过工信部第 407 批新车公告申报, 计划于 2026 年年中正式上市 。 岚图汽车科技股份有限公司董事长卢放今日发文,谈及这台车最近被称为“法拉岚”“法拉光”一事。他表示,追光 S 就是追光 S, 在设计和审美上,不必借国外豪华品牌的光 。 卢放认为,岚图追光 S 是岚图基于电动...",
+      "source": "Ithome",
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/654.htm"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3408618",
-      "title": "SpaceX上市对特斯拉意味着什么?",
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3410835",
+      "title": "Piper Sandler重申特斯拉股票评级,看好FSD进展",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-09",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3408618"
+      "date": "2026-06-10",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3410835"
     },
     {
-      "id": "https://www.prnasia.com/story/536533-1.shtml",
-      "title": "Neurovia AI在第三届阿联酋政府网络安全峰会上展示NeuroStreamTM技术成果,共筑可信视觉智能基础设施",
-      "summary": "阿联酋阿布扎比 2026年6月9日 /美通社/ -- Robo.ai Inc. (NASDAQ: AIIO) 今日宣布,其全资子公司 Neurovia AI 作为\"官方政府级 AI 网络安全合作伙伴\",正式亮相第三届阿联酋政府网络安全峰会(The 3rd Government Cybersecurity Summit),并在峰会现场全面展示了其核心技术架构 NeuroStreamTM 的最新技术成...",
-      "source": "Prnasia",
-      "date": "2026-06-09",
-      "url": "https://www.prnasia.com/story/536533-1.shtml"
+      "id": "http://www.eeo.com.cn/2026/0610/910527.shtml",
+      "title": "后备箱里的“炸弹”:新能源车私改电池成灰色产业链",
+      "summary": "随着国内首批新能源汽车进入电池衰减高发期,大量的车主对车辆的续航里程焦虑加重,私改电池变成了一个危险但又现实的解决办法。...",
+      "source": "Eeo",
+      "date": "2026-06-10",
+      "url": "http://www.eeo.com.cn/2026/0610/910527.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1780986746168585.html",
-      "title": "司机倒车挂错挡将八旬老伴夹在两车间,北京朝阳消防紧急施救",
+      "id": "https://www.bjnews.com.cn/detail/1781086142129207.html",
+      "title": "2026北京CBD论坛年会搭台,多国驻华使节将对话中国企业",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-09",
-      "url": "https://www.bjnews.com.cn/detail/1780986746168585.html"
+      "date": "2026-06-10",
+      "url": "https://www.bjnews.com.cn/detail/1781086142129207.html"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/international/2026/06/09/824646",
-      "title": "泰女网红街头遭枪杀 前男友遭追捕饮弹自戕",
-      "summary": "(曼谷9日讯)泰国北标府(Saraburi)一名在当地颇具知名度的抖音女网红,昨日(8日)被发现头部中枪,陈尸于路边。事发时,她正与男友视频通话,对方透过镜头目睹她遭枪击的过程,随后手机掉落地面,通讯也随之中断。警方展开调查后,发现死者前男友涉案嫌疑重大,并立即追缉。不过,嫌犯后来被发现在车内饮弹自尽。泰媒《Khaosod》报导,26岁的TikTok网红茱拉朋平时在当地一座加油站工作,凭借亮眼外貌...",
-      "source": "Orientaldaily",
-      "date": "2026-06-09",
-      "url": "https://www.orientaldaily.com.my/news/international/2026/06/09/824646"
+      "id": "https://post.smzdm.com/p/a82n85gq/",
+      "title": "五菱星光730高速抖动跑偏,车主集体维权:修了三个月还是抖",
+      "summary": "03月15日多家汽车垂直媒体和消费者服务平台报道五菱星光730高速抖动投诉,舆论爆发 02月05日五菱星光730车主再次进店反映高速抖动及方向盘卡顿问题,工作人员称已解决但车主驾驶体验无改善02月03日五菱星光730车主进店进行二次保养并更换半轴,但高速......",
+      "source": "Smzdm",
+      "date": "2026-06-10",
+      "url": "https://post.smzdm.com/p/a82n85gq/"
     },
     {
-      "id": "https://www.chinanews.com.cn/edu/2026/06-09/10637207.shtml",
-      "title": "长三角青少年角逐AI赛场 展现“科技+文化”活力",
-      "summary": "中新网上海6月9日电 (记者 陈静)以“让世界充满AI”为主题的第六届长三角青少年人工智能奥林匹克挑战赛9日正在上海火热进行中。长三角青少年在赛场上发挥智慧,将科技探索与国家发展、文化传承、社会民生紧密相连。截至目前,部分赛道已完成比赛。...",
-      "source": "Chinanews",
-      "date": "2026-06-09",
-      "url": "https://www.chinanews.com.cn/edu/2026/06-09/10637207.shtml"
+      "id": "https://news.seehua.com/post/1496956",
+      "title": "限速标志频繁变换惹混淆 黄义恩促检讨敦林苍祐大道规划",
+      "summary": "(槟城10日讯)民政党槟州公共投诉局主任黄义恩指出,近期接获不少民众反映,敦林苍祐大道及敦古丁路一带的限速标志 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-10",
+      "url": "https://news.seehua.com/post/1496956"
     },
     {
-      "id": "https://news.cri.cn/20260609/fca0fae6-f623-f283-89f3-384d827b1460.html",
-      "title": "世界杯开赛在即 中国驻美、加、墨使领馆发布提示-国际在线",
-      "summary": "2026年国际足联世界杯将于6月11日至7月19日在美国、加拿大、墨西哥三国举行。驻美国使领馆、驻加拿大使领馆、驻墨西哥使领馆提醒出国观赛中国公民平安出行,文明观赛,注意防范各类风险,保障人身财产安全。 驻美国使领馆发布购票相关提醒...",
-      "source": "Cri_Cn",
-      "date": "2026-06-09",
-      "url": "https://news.cri.cn/20260609/fca0fae6-f623-f283-89f3-384d827b1460.html"
+      "id": "https://www.fx168news.com/article/1042340",
+      "title": "上海合晶:6月9日召开分析师会议,包括知名机构上海保银投资的多家机构参与-FX168",
+      "summary": "证券之星消息,2026年6月10日上海合晶(688584)发布公告称公司于2026年6月9日召开分析师会议,中信证券、人保资产、太平资产、大家资产、北京国际信托、兴业基金、源乘投资、红土创新、国新投资、富荣基金、上海保银投资、高盛资管、仁桥资产、美阳投资、英大保险资管、重阳战略投资、睿远基金、致顺投资、四川发展基金、泾溪投资、中华联合保险集团、海之源投资、Flow Traders、南银理财、青鼎资...",
+      "source": "Fx168News",
+      "date": "2026-06-10",
+      "url": "https://www.fx168news.com/article/1042340"
     },
     {
-      "id": "https://www.chinanews.com.cn/hr/2026/06-09/10637159.shtml",
-      "title": "世界杯开赛在即 中国驻美、加、墨使领馆发布提示",
-      "summary": "2026年国际足联世界杯将于6月11日至7月19日在美国、加拿大、墨西哥三国举行。驻美国使领馆、驻加拿大使领馆、驻墨西哥使领馆提醒出国观赛中国公民平安出行,文明观赛,注意防范各类风险,保障人身财产安全。...",
-      "source": "Chinanews",
-      "date": "2026-06-09",
-      "url": "https://www.chinanews.com.cn/hr/2026/06-09/10637159.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/962/092.htm",
-      "title": "时隔 11 年终迎换代,全新一代奥迪 Q7 正式亮相",
-      "summary": "IT之家 6 月 9 日消息,奥迪第三代 Q7 今晚正式发布,定位为 Q 系列 SUV 中的“次旗舰”车型,而尺寸更大的 Q9 将接替 Q7,成为奥迪旗舰 SUV,首次正面挑战宝马 X7 和奔驰 GLS。 相比生命周期长达 10 年的上一代车型,全新 Q7 视觉效果 更强壮,也更有压迫感 。前脸部分,第三代 Q7 使用大尺寸格栅,中间为夸张的网格结构,并换上此前已登陆 Q6 e-tron 等车型的...",
+      "id": "https://www.ithome.com/0/962/681.htm",
+      "title": "智界 RX 登陆工信部新车公示,赵长江喊话要给出 SUV 在智能时代的新方向",
+      "summary": "IT之家 6 月 10 日消息, 鸿蒙智行智界 RX 新车今日出现在了工信部最新一批申报目录中 ,可选 160+277kW 华为双电机四驱版本,极速 251 km/h。 在智界 RX 申报公示后, 鸿蒙智行官方已公布新车的亮点抢鲜看 。随后,智界汽车执行董事及执行副总裁赵长江发文, 称要用全新智界 RX 给出 SUV 在智能时代的新方向 ,打造面向未来、适配全场景的科技座驾。这意味着智界 RX 的...",
       "source": "Ithome",
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/681.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/962/674.htm",
+      "title": "鸿蒙智行享界 S9 / S9T 再次申报:尾标改为北汽集团,“身份证”由华彰变为享界",
+      "summary": "IT之家 6 月 10 日消息,在今天的工信部第 408 批《道路机动车辆生产企业及产品公告》新产品公示中,鸿蒙智行享界旗下两款轿车 —— 享界 S9 和享界 S9T 也再度现身 。 从申报信息来看,享界 S9 / S9T 双车与在售车型并无太大差异。但IT之家注意到,此次申报的新车在细节处有所调整。 最明显的变化就是新车的尾标改为北汽集团(此前为北汽新能源) 。 另外,第 408 批《道路机动车...",
+      "source": "Ithome",
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/674.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/962/670.htm",
+      "title": "号称首个 AI 原生汽车序列,上汽荣威中大型增程 SUV 家越 07 申报",
+      "summary": "IT之家 6 月 10 日消息,工信部发布第 408 批《道路机动车辆生产企业及产品公告》新产品公示,上汽荣威家越 07 完成申报。 本次申报的荣威家越 07 为 插电式增程混合动力 运动型乘用车,额定载客(含驾驶员)为 5 座,车身底盘为承载式车身,配备防抱死制动系统,可选装 ETC 车载装置,并且配备汽车事件数据记录系统 (EDR)。 车身尺寸方面,新车 长宽高分别为 4900mm/1910m...",
+      "source": "Ithome",
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/670.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/962/646.htm",
+      "title": "鸿蒙智行公布智界 RX 亮点:主打“雕琢之美”,首发华为智擎新一代高性能电驱",
+      "summary": "IT之家 6 月 10 日消息,“证件照”在工信部首秀过后,智界汽车官微公布了智界 RX 的亮点信息。 IT之家从官方介绍获悉,智界 RX 拥有“性感却懂得克制”“雕琢却归于纯粹”的设计语言,搭载“创新 L 形”星眸大灯和贯穿式环形星钻尾灯。该车还具有“极致”轮高比和悬浮式车身架构,全车 10 处气动设计布局。 新车还将提供 20-22 英寸多款不同样式轮毂,并可选红、灰、黄等颜色的刹车卡钳。 动...",
+      "source": "Ithome",
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/646.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/962/643.htm",
+      "title": "一汽红旗首款硬派越野 G919 通过申报:增程动力,纯电续航 220km",
+      "summary": "IT之家 6 月 10 日消息,一汽红旗首款硬派越野“红旗 G919”出现在了工信部第 408 批新车申报名单中,仅有增程动力版本。 这款新车长 5135mm,宽 2050mm,高 1950mm,轴距 2900mm,轮胎规格 275/60R20,整备质量 3150/3175kg,可选牵引专用装置(IT之家注:准拖挂车总质量 2500kg)。 红旗 G919 采用了 62.9 (1C)、64.1 (...",
+      "source": "Ithome",
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/643.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/962/641.htm",
+      "title": "品牌首款 8 系旗舰:上汽大众 ID. ERA 8X 申报,定位大五座增程 SUV 车型",
+      "summary": "IT之家 6 月 10 日消息,上汽大众 ID. ERA 8X 也已经出现在了工信部最新申报目录中,这也是该品牌首款 8 系旗舰重磅登场,定位大五座增程旗舰 SUV。 工信部数据显示,ID. ERA 8X 的长宽高 5020/1997/1752mm,轴距 2970mm。作为对比,ID. ERA 9X 的长宽高分别为 5207/1997/1810mm,轴距为 3070mm。 除此之外,新车整备质量 ...",
+      "source": "Ithome",
+      "date": "2026-06-10",
+      "url": "https://www.ithome.com/0/962/641.htm"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-commences-trading-on-nasdaq-under-tickers-enrd-and-enrdw-302796851.html",
+      "title": "Einride, a Global Leader in Autonomous and Electric Freight, Commences Trading on Nasdaq Under Tickers \"ENRD\" and \"ENRDW\"",
+      "summary": "/PRNewswire/ -- Einride AB (NASDAQ: ENRD) (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous......",
+      "source": "PR Newswire UK",
+      "date": "2026-06-10",
+      "url": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-commences-trading-on-nasdaq-under-tickers-enrd-and-enrdw-302796851.html"
+    },
+    {
+      "id": "https://www.rte.ie/news/business/2026/0610/1577775-einride-surges-over-70-in-nasdaq-debut/",
+      "title": "driving truck firm Einride jumps 74% in Nasdaq debut",
+      "summary": "Shares of Swedish electric and autonomous trucking firm Einride soared more than 74% in their Nasdaq debut today after its merger with SPAC firm Legato....",
+      "source": "RTE.ie",
+      "date": "2026-06-10",
+      "url": "https://www.rte.ie/news/business/2026/0610/1577775-einride-surges-over-70-in-nasdaq-debut/"
+    },
+    {
+      "id": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "title": "Decart's new world model can simulate hours of photorealistic driving - with some caveats",
+      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on....",
+      "source": "TechCrunch",
+      "date": "2026-06-10",
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/"
+    },
+    {
+      "id": "https://www.independent.co.uk/cars/electric-vehicles/self-driving-car-crashes-byd-insurance-damage-cover-b2993100.html",
+      "title": "Who pays when a self-driving car crashes? BYD’s answer could change the industry",
+      "summary": "BYD has become the first major car maker to offer damage cover for accidents involving its self-driving technology in China. It has reignited the debate over who is responsible when an autonomous car ...",
+      "source": "The Independent",
+      "date": "2026-06-10",
+      "url": "https://www.independent.co.uk/cars/electric-vehicles/self-driving-car-crashes-byd-insurance-damage-cover-b2993100.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/06/10/tmt-newswire/globenewswire/slovak-prime-minister-meets-weride-signals-support-for-multi-product-autonomous-vehicle-deployment/2362386",
+      "title": "Slovak Prime Minister Meets WeRide, Signals Support for Multi-Product Autonomous Vehicle Deployment",
+      "summary": "BRATISLAVA, Slovakia, June 10, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD, HKEX: 0800), a global leader in autonomous driving technology, recently outlined plans to commercialize its Level 4 autonom...",
+      "source": "The Manila Times",
+      "date": "2026-06-10",
+      "url": "https://www.manilatimes.net/2026/06/10/tmt-newswire/globenewswire/slovak-prime-minister-meets-weride-signals-support-for-multi-product-autonomous-vehicle-deployment/2362386"
+    },
+    {
+      "id": "https://www.perthnow.com.au/lifestyle/motoring/byd-to-accept-liability-for-accidents-caused-by-its-self-driving-system-c-22410529",
+      "title": "BYD to accept liability for accidents caused by its self-driving system",
+      "summary": "The Chinese automaker says it will take responsibility for any damage caused by some of its semi-autonomous driving functions....",
+      "source": "PerthNow",
+      "date": "2026-06-10",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/byd-to-accept-liability-for-accidents-caused-by-its-self-driving-system-c-22410529"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-completes-business-combination-and-will-begin-trading-on-nasdaq-stock-market-302795847.html",
+      "title": "Einride, a Global Leader in Autonomous and Electric Freight, Completes Business Combination and Will Begin Trading on Nasdaq Stock Market",
+      "summary": "/PRNewswire/ -- Einride AB (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient autonomous and electric freight, today......",
+      "source": "PR Newswire UK",
       "date": "2026-06-09",
-      "url": "https://www.ithome.com/0/962/092.htm"
+      "url": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-completes-business-combination-and-will-begin-trading-on-nasdaq-stock-market-302795847.html"
     },
     {
       "id": "https://www.cityam.com/uber-and-wayve-open-waitlist-for-london-robotaxis/",
@@ -204,62 +244,6 @@
       "source": "MarketScreener",
       "date": "2026-06-09",
       "url": "https://www.marketscreener.com/news/toyota-invention-partners-owns-1-0-stake-in-autonomous-driving-startup-tier-iv-filing-shows-ce7f5dd3dc80f527"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms",
-      "title": "Samsung Electronics' chip chief says discussed next",
-      "summary": "Samsung's co-CEO Jun Young-hyun met with Nvidia CEO Jensen Huang in Seoul to discuss future semiconductor cooperation. The companies are already collaborating on autonomous driving and AI accelerator ...",
-      "source": "The Economic Times",
-      "date": "2026-06-08",
-      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-chip-chief-says-discussed-next-generation-foundry-hbm-cooperation-with-nvidia-ceo/articleshow/131586506.cms"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3931945-samsung-and-nvidia-forge-ahead-in-chip-innovation",
-      "title": "Samsung and Nvidia Forge Ahead in Chip Innovation",
-      "summary": "Samsung Electronics' co-CEO discussed cooperation with Nvidia CEO in Seoul, focusing on next-generation foundry chips. Collaboration on autonomous driving and Groq AI accelerator chips was highlighted...",
-      "source": "Devdiscourse",
-      "date": "2026-06-08",
-      "url": "https://www.devdiscourse.com/article/technology/3931945-samsung-and-nvidia-forge-ahead-in-chip-innovation"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3931913-samsung-and-nvidia-forge-future-in-semiconductors",
-      "title": "Samsung and Nvidia Forge Future in Semiconductors",
-      "summary": "Samsung Electronics' co-CEO Jun Young-hyun met with Nvidia CEO Jensen Huang to discuss collaboration on next-gen foundry chips. This includes ongoing work on autonomous driving chips and AI accelerato...",
-      "source": "Devdiscourse",
-      "date": "2026-06-08",
-      "url": "https://www.devdiscourse.com/article/technology/3931913-samsung-and-nvidia-forge-future-in-semiconductors"
-    },
-    {
-      "id": "https://www.tribuneindia.com/news/business/nvidia-lg-group-partner-to-build-ai-factory-for-robotics-mobility-and-data-infrastructure/",
-      "title": "NVIDIA, LG Group partner to build AI factory for robotics, mobility and data infrastructure",
-      "summary": "NVIDIA and South Korea's LG Group have announced a strategic collaboration to build an AI factory aimed at accelerating the development of robotics, autonomous driving technologies, AI infrastructure ...",
-      "source": "The Tribune",
-      "date": "2026-06-08",
-      "url": "https://www.tribuneindia.com/news/business/nvidia-lg-group-partner-to-build-ai-factory-for-robotics-mobility-and-data-infrastructure/"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/legato-merger-corp-iii-shareholders-approve-business-combination-with-einride-302792607.html",
-      "title": "Legato Merger Corp. III Shareholders Approve Business Combination with Einride",
-      "summary": "/PRNewswire/ -- Einride AB (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous freight......",
-      "source": "PR Newswire UK",
-      "date": "2026-06-05",
-      "url": "https://www.prnewswire.co.uk/news-releases/legato-merger-corp-iii-shareholders-approve-business-combination-with-einride-302792607.html"
-    },
-    {
-      "id": "https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/",
-      "title": "JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth",
-      "summary": "J.P. Morgan upgraded Elon Musk-led Tesla to \"neutral\" from \"underweight\" on Friday, citing that the electric-vehicle maker's valuation is increasingly driven by its push into ​autonomous driving and r...",
-      "source": "Reuters",
-      "date": "2026-06-05",
-      "url": "https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3930594-teslas-forward-drive-beyond-electric-vehicles-to-a-39-trillion-future",
-      "title": "Tesla's Forward Drive: Beyond Electric Vehicles to a $3.9 Trillion Future",
-      "summary": "J.P. Morgan has upgraded Tesla to 'neutral,' driven by its expansion into autonomous driving and robotics. The optimism is fueled by Tesla's vertical integration and future growth prospects like robot...",
-      "source": "Devdiscourse",
-      "date": "2026-06-05",
-      "url": "https://www.devdiscourse.com/article/technology/3930594-teslas-forward-drive-beyond-electric-vehicles-to-a-39-trillion-future"
     }
   ]
 }
