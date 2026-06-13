@@ -1,159 +1,162 @@
 {
-  "lastUpdated": "2026-06-12 04:48:15",
-  "totalCount": 26,
+  "lastUpdated": "2026-06-13 04:26:52",
+  "totalCount": 24,
   "sources": {
-    "Bjnews": 4,
-    "Chinanews": 3,
-    "Ithome": 6,
-    "Imobile": 1,
+    "Fx168News": 2,
+    "Cri_Cn": 1,
+    "Chinanews": 1,
+    "Ithome": 1,
+    "Investing_Cn": 3,
+    "Orientaldaily": 1,
+    "Zaobao": 1,
+    "Bjnews": 3,
     "Smzdm": 1,
-    "News_Seehua": 1,
-    "Jiemian": 1,
+    "The Economic Times": 2,
+    "Euronews": 1,
     "Barchart": 1,
     "TechStartups.com": 1,
-    "PR Newswire UK": 2,
+    "PR Newswire UK": 1,
     "RTE.ie": 1,
     "TechCrunch": 1,
     "The Independent": 1,
-    "The Manila Times": 1,
-    "PerthNow": 1
+    "The Manila Times": 1
   },
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1781188273169262.html",
-      "title": "摩托车行业集体呼吁:差异化管控,为“禁限摩”政策适当松绑",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-11",
-      "url": "https://www.bjnews.com.cn/detail/1781188273169262.html"
+      "id": "https://www.fx168news.com/article/%E9%A9%AC%E6%96%AF%E5%85%8B-1043616",
+      "title": "1.1万亿美元!马斯克创造历史:全球首位“万亿富豪”横空出世-FX168",
+      "summary": "一场史上最大规模IPO,让埃隆·马斯克站上财富金字塔前所未有的高度。随着SpaceX正式上市,公司市值逼近2万亿美元,马斯克身家一举突破1万亿美元大关。从20亿美元到1.1万亿美元,他仅用了14年时间便完成了商业史上最惊人的财富跃迁。...",
+      "source": "Fx168News",
+      "date": "2026-06-12",
+      "url": "https://www.fx168news.com/article/%E9%A9%AC%E6%96%AF%E5%85%8B-1043616"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/06-11/10638759.shtml",
-      "title": "探访厦门五通客运码头:“近便利”服务扩容惠台胞",
-      "summary": "中新社厦门6月11日电 (郑江洛 彭莉芳)“刚好台胞证即将到期,原本计划专门抽时间办理换证手续,没想到在码头就能直接换证,十分高效。”台湾媒体人高荣树11日在厦门五通客运码头受访时说。...",
+      "id": "https://www.fx168news.com/article/SpaceX-1043612",
+      "title": "750亿美元史上最大IPO震撼登场!SpaceX首日开盘报150美元,“估值教父”直呼估值离谱-FX168",
+      "summary": "SpaceX周五正式登陆纳斯达克,以750亿美元融资规模刷新全球IPO历史纪录,公司估值达到约1.8万亿美元。最新盘前数据显示,其开盘指示价约为150美元,较135美元发行价上涨约11%,较早前一度显示的30%涨幅明显回落。与此同时,被誉为“估值教父”的纽约大学金融学教授阿斯沃斯·达莫达兰公开质疑其估值合理性,称招股书所描绘的巨额市场空间“更像一种幻想”,引发华尔街激烈争论。...",
+      "source": "Fx168News",
+      "date": "2026-06-12",
+      "url": "https://www.fx168news.com/article/SpaceX-1043612"
+    },
+    {
+      "id": "https://news.cri.cn/20260612/4af5d486-2a22-92e8-6165-172d8d091a7c.html",
+      "title": "六网织就新未来丨通信网护航空中“高速路” 赋能产业新发展-国际在线",
+      "summary": "系列报道《六网织就新未来》今天聚焦新一代通信网。新一代通信网,在更好满足人们通信需求的基础上,还将面向“物与物”间的超强连接,支撑低空经济、人工智能等新兴产业的发展需要,同时还将填补一直以来难以解决的通信盲区。...",
+      "source": "Cri_Cn",
+      "date": "2026-06-12",
+      "url": "https://news.cri.cn/20260612/4af5d486-2a22-92e8-6165-172d8d091a7c.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/06-12/10639471.shtml",
+      "title": "长春光博会:具身智能依托产业生态加速成长",
+      "summary": "中新社长春6月12日电 (李彦国 高龙安)当下,具身智能产品正加速融入实体经济各大领域,被业界视作撬动新一轮经济增长的重要动力。...",
       "source": "Chinanews",
-      "date": "2026-06-11",
-      "url": "https://www.chinanews.com.cn/gn/2026/06-11/10638759.shtml"
+      "date": "2026-06-12",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-12/10639471.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/963/224.htm",
-      "title": "小米汽车:YU7 全系车型配备三重冗余车门把手,极端场景下仍可实现中控解锁、机械开门",
-      "summary": "IT之家 6 月 11 日消息,小米汽车官方今日发布答网友问(第 255 集),针对 YU7 GT 的上海到千岛湖续航测试相关热门问题以及 YU7 标准版的安全配置如何等进行了解答。 IT之家附小米汽车此次问答重点内容如下: YU7 GT 上海到千岛湖的续航测试跑了 503.7km,剩余续航还有多少 km? 本次测试总计行驶 503.7km,结束时剩余 23% 电量。按照本次 14.9kWh/10...",
+      "id": "https://www.ithome.com/0/963/685.htm",
+      "title": "印度为自动驾驶和安全汽车技术扫清频谱障碍,以减少事故伤亡",
+      "summary": "IT之家 6 月 12 日消息,据路透社 12 日(今天)报道,印度 取消了汽车防撞和自动驾驶系统所用无线电频谱的许可要求 ,为汽车制造商扫除一项商业障碍。印度希望通过放宽频谱使用限制,推动先进安全技术上车,改善道路安全。 报道指出,印度拥有全球死亡风险最高的道路环境之一,亦是全球第三大汽车市场。最新政府数据显示,印度 2024 年发生 近 50 万起道路交通事故 ,造成超过 17.7 万人死亡。...",
       "source": "Ithome",
-      "date": "2026-06-11",
-      "url": "https://www.ithome.com/0/963/224.htm"
+      "date": "2026-06-12",
+      "url": "https://www.ithome.com/0/963/685.htm"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0611/234696.shtml",
-      "title": "中型SUV科技旗舰,新乐道L60售价19.28万元起,诚意拉满",
-      "summary": "2026年6月11日,新乐道L60上市发布会在合肥举行。蔚来创始人、董事长、CEO李斌在发布会上正式公布新乐道L60价格,整车购买19.28万元起,采用BaaS电池租用方式购买,车价13.58万元起,并同步开启全国交付。新车迎来六大维度106项全面升级,提供OrinX和神玑芯片两种智驾方案,整车智能化和舒适性再升级,并提供更多全新个性化定制,为年轻用户提供丰富选择。 作为乐道品牌首款车型,乐道L6...",
-      "source": "Imobile",
-      "date": "2026-06-11",
-      "url": "http://news.imobile.com.cn/articles/2026/0611/234696.shtml"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3415307",
+      "title": "SpaceX(SPCX.US)750亿美元创纪录IPO登场:暗盘看涨难掩小流通盘隐忧 马斯克距万亿身家一步之遥",
+      "summary": "SpaceX(SPCX.US)750亿美元创纪录IPO登场:暗盘看涨难掩小流通盘隐忧 马斯克距万亿身家一步之遥...",
+      "source": "Investing_Cn",
+      "date": "2026-06-12",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3415307"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781187270169259.html",
-      "title": "女子欲离婚遭丈夫杀害案二审择期宣判,被告人当庭不认同故意杀人",
+      "id": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/12/825441",
+      "title": "沙巴西海岸昨午大风雨 多处树倒影响交通",
+      "summary": "(亚庇12日讯)沙巴西海岸今日下午开始出现大风雨,导致多处大树倒下横跨路面,造成交通受阻。位于在斗亚兰农业大厦主要道路,一颗大树倒下导致双向车道受阻;与此同时,亚庇市区中心(沙巴太平洋商业中心)前路段也有大树被大风吹倒,造成交通严重阻塞。两地救援队伍接获投报后迅速赶往现场展开清理行动,也在热心民众协助下迅速把树干分枝清理路面,成功恢复交通顺畅,事故中没有造成任何伤亡报告。。另外,今日下午开始根地咬...",
+      "source": "Orientaldaily",
+      "date": "2026-06-12",
+      "url": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/12/825441"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3415180",
+      "title": "百度Apollo Go获瑞士自动驾驶运营许可证",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-12",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3415180"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3415128",
+      "title": "Needham首予兰特朗尼克斯买入评级,看好无人机业务增长潜力",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-12",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3415128"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260612-9197837",
+      "title": "逾1500人试乘康福德高的榜鹅自驾车服务",
+      "summary": "过去两个多月,有超过1500名榜鹅居民、基层和工会领袖等受邀者试搭了康福德高集团经营的自动驾驶车接驳服务。公司计划不久后能开放让更多公众试搭,相关收费尚未敲定。...",
+      "source": "Zaobao",
+      "date": "2026-06-12",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260612-9197837"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1781260372168665.html",
+      "title": "《电影寓言》:电影是真的,故事是谎言",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-11",
-      "url": "https://www.bjnews.com.cn/detail/1781187270169259.html"
+      "date": "2026-06-12",
+      "url": "https://www.bjnews.com.cn/detail/1781260372168665.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781185723168649.html",
-      "title": "车价低于12万不能开网约车?赤峰市交通局:将推动修订相关规定",
+      "id": "https://www.bjnews.com.cn/detail/1781250121129438.html",
+      "title": "北京交警查扣多辆挂“白牌”冒充电动自行车上路的电动摩托车",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-11",
-      "url": "https://www.bjnews.com.cn/detail/1781185723168649.html"
+      "date": "2026-06-12",
+      "url": "https://www.bjnews.com.cn/detail/1781250121129438.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/06-11/10638726.shtml",
-      "title": "张军扩:服务业发展正迎来三大历史机遇叠加的重要窗口期",
-      "summary": "中新网北京6月11日电(记者 查志远) 近年来,国内旅游市场持续恢复增长,出行方式和消费场景也在不断拓展。中国发展研究基金会理事长、国务院发展研究中心原副主任张军扩11日在神州租车2026战略升级暨“车生活”新生态发布会上表示,服务消费正在成为消费扩容升级的重要方向,交通出行、文化旅游、城市服务、能源补给等场景之间的联动越来越紧密。...",
-      "source": "Chinanews",
-      "date": "2026-06-11",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-11/10638726.shtml"
+      "id": "https://www.bjnews.com.cn/detail/1781262638129690.html",
+      "title": "从前排到后排,固驰GT系列给家庭用车一套全舱隔热方案",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-12",
+      "url": "https://www.bjnews.com.cn/detail/1781262638129690.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a3m9w3x5/",
-      "title": "线控转向:智驾刚需还是驾驶乐趣的终结者?",
-      "summary": "线控转向并非高阶智驾的可选项,而是实现L3及以上自动驾驶横向控制精度与响应速度的物理前提——没有它,智驾系统再聪明也受限于机械传动的延迟与固定转向比。01解耦的本质:电信号如何替代铁杆传统转向系统依赖方向盘→转向柱→齿轮齿条的硬连接传递力矩,而线控转向彻......",
+      "id": "https://post.smzdm.com/p/aww9060k/",
+      "title": "长安启源A06智驾摄像头频出问题,车主质疑治标不治本",
+      "summary": "01长安启源A06智驾摄像头现集体故障2026年6月,长安启源A06车主集中反馈车辆智能驾驶系统摄像头出现模糊、起雾或油膜覆盖现象,导致L2级辅助驾驶功能频繁失效。多位车主表示,问题多发生在提车后两周内,表现为双目摄像头画面不清,自适应巡航、车道保持及碰......",
       "source": "Smzdm",
-      "date": "2026-06-11",
-      "url": "https://post.smzdm.com/p/a3m9w3x5/"
+      "date": "2026-06-12",
+      "url": "https://post.smzdm.com/p/aww9060k/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781176864129901.html",
-      "title": "新闻8点见丨受害者揭秘情感“杀猪盘”;美加墨世界杯明日3时揭幕战",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-11",
-      "url": "https://www.bjnews.com.cn/detail/1781176864129901.html"
+      "id": "https://economictimes.indiatimes.com/tech/technology/baidu-postbus-get-regulatory-nod-for-robotaxi-service-in-eastern-switzerland/articleshow/131687368.cms",
+      "title": "Baidu, PostBus get regulatory nod for robotaxi service in eastern Switzerland",
+      "summary": "Baidu's self-driving service, AmiGo, has gained regulatory approval in Switzerland. This joint venture with PostBus plans to launch Europe's largest automated public transport operation. Fully driverl...",
+      "source": "The Economic Times",
+      "date": "2026-06-12",
+      "url": "https://economictimes.indiatimes.com/tech/technology/baidu-postbus-get-regulatory-nod-for-robotaxi-service-in-eastern-switzerland/articleshow/131687368.cms"
     },
     {
-      "id": "https://www.ithome.com/0/963/194.htm",
-      "title": "6 月 25 日起,港珠澳大桥香港口岸将启用“无感通关”",
-      "summary": "IT之家 6 月 11 日消息,据央视新闻,香港特区政府入境事务处 11 日(今天)宣布,将于 6 月 25 日于港珠澳大桥香港口岸推出 2 条“无感 e-道”。通关人员完成登记后,系统将通过 容貌识别与人工智能影像分析技术 核验身份,全程无需驻足,仅约 5 秒即可完成出境手续,较传统“e-道”提速约 2 秒。 据悉,合资格使用者须为 年满 11 周岁或以上的香港永久性居民 ,且在 过去 90 日...",
-      "source": "Ithome",
-      "date": "2026-06-11",
-      "url": "https://www.ithome.com/0/963/194.htm"
+      "id": "https://www.euronews.com/next/2026/06/12/self-driving-cars-to-be-tested-on-portuguese-roads-from-july",
+      "title": "Self-driving cars to be tested on Portuguese roads from July",
+      "summary": "From July, Portugal will allow autonomous vehicles to be tested on public roads under a new decree laying down strict rules on safety, insurance and oversight....",
+      "source": "Euronews",
+      "date": "2026-06-12",
+      "url": "https://www.euronews.com/next/2026/06/12/self-driving-cars-to-be-tested-on-portuguese-roads-from-july"
     },
     {
-      "id": "https://www.ithome.com/0/963/217.htm",
-      "title": "Epic 喜加二:《战锤 40K:极速狂飙》《The Ouroboros King》游戏免费领取",
-      "summary": "IT之家 6 月 11 日消息,Epic 本周送出的游戏是《The Ouroboros King》《战锤 40K:极速狂飙》,下周送出的游戏是《深空梦里人》,《ROBOBEAT》。 领取链接: 《The Ouroboros King》 、 《Warhammer 40K Speed Freeks》 IT之家附《The Ouroboros King》游戏简介: The Ouroboros King 将...",
-      "source": "Ithome",
-      "date": "2026-06-11",
-      "url": "https://www.ithome.com/0/963/217.htm"
-    },
-    {
-      "id": "https://news.seehua.com/post/1497479",
-      "title": "老妇遭白色皮卡撞后逃逸重伤入院 国家消费人行动议会促肇事者自首",
-      "summary": "(诗巫11日讯) 国家消费人行动议会砂拉越分会严正看待近期诗巫地区日益令人担忧的肇事逃逸事故,并特别关注一宗导 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-11",
-      "url": "https://news.seehua.com/post/1497479"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14572519.html",
-      "title": "奔驰开进李佳琦直播间,“上链接”要流量更要销量",
-      "summary": "面对现实的库存周转、销量压力以及年轻用户心智的缺位,奔驰的选择是先解决“被市场看见”与“转化为销售”这两个更为紧迫的问题。...",
-      "source": "Jiemian",
-      "date": "2026-06-11",
-      "url": "https://www.jiemian.com/article/14572519.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/963/225.htm",
-      "title": "2590.8 万元,千里智驾收购视觉毫米波融合雷达企业融感科技 100% 股权",
-      "summary": "IT之家 6 月 11 日消息,千里科技 6 月 11 日(今天)公告,控股子公司千里智驾拟收购宁波市融感科技有限公司(简称“融感科技”) 100% 股权 ,交易价格为 2590.8 万元。 IT之家查询获悉,融感科技成立于 2023 年 6 月,总部位于浙江省宁波市,是一家 视觉与毫米波融合雷达 技术研发和制造企业。该公司旗下产品主打视觉加毫米波雷达融合传感器,基于 AI 算法,号称 提供堪比激...",
-      "source": "Ithome",
-      "date": "2026-06-11",
-      "url": "https://www.ithome.com/0/963/225.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/963/222.htm",
-      "title": "华为 HiCar 7.0 手车互联解决方案官宣,定档 6 月 13 日发布",
-      "summary": "IT之家 6 月 11 日消息,华为开发者大会 HDC 2026 官宣定档 6 月 12 日 ~14 日举行。本届 HDC 2026 将发布 HarmonyOS 全新版本、鸿蒙 AI 核心能力,以及生态全新成果等。 IT之家从 HDC 2026 官网议程板块了解到,在 6 月 13 日的【HUAWEI HiCar】智慧出行生态峰会上, 将发布最新的 HUAWEI HiCar 7.0 解决方案 。 ...",
-      "source": "Ithome",
-      "date": "2026-06-11",
-      "url": "https://www.ithome.com/0/963/222.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/06-11/10638650.shtml",
-      "title": "(活力中国调研行)给汽车装上“情绪雷达” 中国团队打造新一代AI座舱",
-      "summary": "中新网北京6月11日电 (记者 杜燕 李梦 贾天勇)中新社记者11日探访位于北京昌平的清华大学智能绿色车辆与交通全国重点实验室,学生研究员们正在AI座舱中“模拟驾驶”,实时监测脑电、皮电、心率变异性等生理信号,用于分析驾乘人员的多维情绪表征机理,支撑下一代座舱情感化主动交互技术的研究。...",
-      "source": "Chinanews",
-      "date": "2026-06-11",
-      "url": "https://www.chinanews.com.cn/gn/2026/06-11/10638650.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/963/193.htm",
-      "title": "限时参考落地价 16.84 万元起,广汽传祺向往 M8 PHEV L / 向往 E8 PHEV 上市",
-      "summary": "IT之家 6 月 11 日消息,在今天的发布会上,广汽传祺向往 M8 PHEV L / 向往 E8 PHEV 正式上市,其中向往 E8 PHEV 共推出 4 款车型, 限时参考落地价 16.84-19.86 万元 ;向往 M8 PHEV L 推出 3 款车型, 售价 26.98-30.98 万元 。 向往 M8 PHEV L IT之家获悉,新车采用“一品麒麟”设计理念,采用大尺寸进气格栅搭配块状镀...",
-      "source": "Ithome",
-      "date": "2026-06-11",
-      "url": "https://www.ithome.com/0/963/193.htm"
+      "id": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-clears-way-for-self-driving-safety-car-tech-to-reduce-road-deaths/articleshow/131679125.cms",
+      "title": "India clears way for self-driving, safety car tech to reduce road deaths",
+      "summary": "India has removed the licence requirement for automotive radar sensors operating in the 77-81 GHz frequency band, paving the way for wider adoption of advanced driver-assistance and autonomous driving...",
+      "source": "The Economic Times",
+      "date": "2026-06-12",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-clears-way-for-self-driving-safety-car-tech-to-reduce-road-deaths/articleshow/131679125.cms"
     },
     {
       "id": "https://www.barchart.com/story/news/2424468/waymo-is-doubling-down-on-self-driving-car-ambitions-what-that-means-for-googl-stock",
@@ -210,22 +213,6 @@
       "source": "The Manila Times",
       "date": "2026-06-10",
       "url": "https://www.manilatimes.net/2026/06/10/tmt-newswire/globenewswire/slovak-prime-minister-meets-weride-signals-support-for-multi-product-autonomous-vehicle-deployment/2362386"
-    },
-    {
-      "id": "https://www.perthnow.com.au/lifestyle/motoring/byd-to-accept-liability-for-accidents-caused-by-its-self-driving-system-c-22410529",
-      "title": "BYD to accept liability for accidents caused by its self-driving system",
-      "summary": "The Chinese automaker says it will take responsibility for any damage caused by some of its semi-autonomous driving functions....",
-      "source": "PerthNow",
-      "date": "2026-06-10",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/byd-to-accept-liability-for-accidents-caused-by-its-self-driving-system-c-22410529"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-completes-business-combination-and-will-begin-trading-on-nasdaq-stock-market-302795847.html",
-      "title": "Einride, a Global Leader in Autonomous and Electric Freight, Completes Business Combination and Will Begin Trading on Nasdaq Stock Market",
-      "summary": "/PRNewswire/ -- Einride AB (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient autonomous and electric freight, today......",
-      "source": "PR Newswire UK",
-      "date": "2026-06-09",
-      "url": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-completes-business-combination-and-will-begin-trading-on-nasdaq-stock-market-302795847.html"
     }
   ]
 }
