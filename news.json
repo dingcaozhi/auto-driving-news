@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-14 04:54:38",
-  "totalCount": 34,
+  "lastUpdated": "2026-06-15 05:11:22",
+  "totalCount": 31,
   "sources": {
     "Bilibili": 5,
-    "Eeo": 2,
-    "Ithome": 8,
-    "Imobile": 1,
+    "Investing_Cn": 1,
+    "Zaobao": 2,
+    "News_Seehua": 1,
+    "Chinanews": 3,
+    "Imobile": 2,
+    "Fx168News": 1,
+    "Ithome": 3,
     "Smzdm": 2,
-    "News_Seehua": 2,
-    "Jiemian": 1,
-    "Zaobao": 1,
-    "Chinanews": 1,
-    "Newsforchinese": 1,
+    "Cri_Cn": 1,
     "Fortune": 1,
     "CNBC TV18": 1,
     "The Economic Times": 2,
@@ -24,196 +24,172 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1w4Jp6XEdh",
+      "title": "【B站】这什么自动驾驶啊",
+      "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-06-14",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+      "date": "2026-06-15",
+      "url": "https://www.bilibili.com/video/BV1w4Jp6XEdh"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1eCJn6AELy",
-      "title": "【B站】重磅｜清华联合小米提出DriveReward：用VLM终结自动驾驶“评分难”，专治各种危险驾驶",
-      "summary": "🔥 一句话总结：清华&amp;小米联合开源DriveReward，用&quot;AI裁判&quot;给自动驾驶轨迹打分，1B小模型干翻8B大模型！\n📄 论文：DriveReward: A Comprehensive Dataset and Generative Vision-Language Rew...",
+      "id": "https://www.bilibili.com/video/BV1A3Jx68Eyo",
+      "title": "【B站】自动驾驶全域放开，下一步会怎样？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-06-14",
-      "url": "https://www.bilibili.com/video/BV1eCJn6AELy"
+      "date": "2026-06-15",
+      "url": "https://www.bilibili.com/video/BV1A3Jx68Eyo"
     },
     {
       "id": "https://www.bilibili.com/video/BV182GnzRERu",
       "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
       "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1fV411x72a",
-      "title": "【B站】【自制】我把自行车做成了 自 动 驾 驶 ！！【硬核】",
-      "summary": "终于填坑了，巨！累！\n\n这个项目应该我最近做的最硬核的一个了，研发过程断断续续花了四个月（虽然基本只有周末有空），期间遇到非常多的坑，视频时长原因有些内容并没有放到视频里，看了下素材已经拍了将近200G了...大家喜欢的话记得三连啦~\n\n视频中提到的开源仓库地址：https://github.com...",
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-06-14",
-      "url": "https://www.bilibili.com/video/BV1fV411x72a"
+      "date": "2026-06-15",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1dwDWY4EKj",
-      "title": "【B站】10分钟带你学会调教A320自动驾驶",
-      "summary": "老费只是键盘飞友，如有错漏欢迎指出，共同进步...",
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
       "source": "Bilibili",
+      "date": "2026-06-15",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3416454",
+      "title": "筹码稀缺下17个交易日涨超60%,“入通”仅差临门一脚的驭势科技(01511)估值高悬",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
       "date": "2026-06-14",
-      "url": "https://www.bilibili.com/video/BV1dwDWY4EKj"
+      "url": "https://cn.investing.com/news/stock-market-news/article-3416454"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0613/914493.shtml",
-      "title": "长安发布自研智驾系统“天枢智航”,启源Q06将全系搭载",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-06-13",
-      "url": "http://www.eeo.com.cn/2026/0613/914493.shtml"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0613/914476.shtml",
-      "title": "陆挺:AI将加速房地产市场下行造成的“K型分化”",
-      "summary": "陆挺表示,随着“K型分化”的发展,宏观经济的总需求将受到影响。因为当各方面财富收入高度集中于一小部分人群和一小部分城市,内需就很难被进一步拉动。...",
-      "source": "Eeo",
-      "date": "2026-06-13",
-      "url": "http://www.eeo.com.cn/2026/0613/914476.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/963/940.htm",
-      "title": "阿维塔董事长王辉:车企应集体加强辅助驾驶用户培训机制",
-      "summary": "IT之家 6 月 13 日消息:2026 中国汽车重庆论坛于 6 月 12-13 日举行,阿维塔科技董事长王辉在演讲中提到,在智能化技术飞速发展的当下,车主的安全意识却越来越淡薄。“有车主说以前开燃油车从来不看手机,但用了辅助驾驶之后,不仅在使用辅助驾驶时看手机,甚至习惯了之后, 不用辅助驾驶也会偶尔看手 机。我觉得这是非常危险的。” 王辉在演讲中倡议:“(车企)宁可牺牲一些便利性,也要强化对用户...",
-      "source": "Ithome",
-      "date": "2026-06-13",
-      "url": "https://www.ithome.com/0/963/940.htm"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0613/234724.shtml",
-      "title": "荣耀Robot Phone亮相上海国际电影节 重塑移动影像创作",
-      "summary": "6月13日,荣耀Robot Phone亮相第28届上海国际电影节并完成专业影像首秀。作为行业首款阿莱ARRI电影级画质与色彩的移动影像设备,荣耀Robot Phone搭载行业最小钛合金云台,实现了超精密、超灵活、超稳定三大特点。而其创新形态不止于此,更有超强性能的翻转电机驱动云台升起,挣脱了传统镜头模组的物理限制。结合AI算法可智能识别跟随主体、完成多模式运镜,大幅降低视频创作门槛,重塑用户拍摄道...",
-      "source": "Imobile",
-      "date": "2026-06-13",
-      "url": "http://news.imobile.com.cn/articles/2026/0613/234724.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/963/930.htm",
-      "title": "长安汽车发布“天枢领航”自研辅助驾驶系统:长安启源 Q06 将全系搭载、9 月上市",
-      "summary": "IT之家 6 月 13 日消息,长安汽车今日在重庆车展上发布了自研辅助驾驶系统 —— “ 天枢领航 ”。 据介绍,天枢领航分为 Pro、Max、Ultra 三个配置版本,对应不同的能力等级: Pro 版 全系标配激光雷达,在夜间、隧道等弱光场景下比人眼提前 2 秒识别障碍物;基于长安 SDA 中央环网架构开发,系统响应速度提升 150 毫秒 Max 版 采用超 2000 万条高质量人驾数据切片进行...",
-      "source": "Ithome",
-      "date": "2026-06-13",
-      "url": "https://www.ithome.com/0/963/930.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aww9vp5k/",
-      "title": "自动雨刷VS镀膜雨刷:谁才是雨天视野的真正救星?",
-      "summary": "雨天行车视线清晰度直接影响驾驶安全,而雨刷系统是保障视野的关键部件。当前市场主流方案可分为两类:一类依赖车辆内置的自动感应系统(即自动雨刷),另一类则通过雨刷本体材质实现附加功能(如镀膜雨刷)。二者在工作逻辑、技术路径和实际体验上存在显著差异。自动雨刷的......",
-      "source": "Smzdm",
-      "date": "2026-06-13",
-      "url": "https://post.smzdm.com/p/aww9vp5k/"
-    },
-    {
-      "id": "https://www.ithome.com/0/963/898.htm",
-      "title": "小米雷军总结 YU7 八大环节测试直播:原计划 7 个小时,实际测试过程非常顺利只用了 5 个半小时",
-      "summary": "IT之家 6 月 13 日消息,小米董事长兼 CEO 雷军今天在盐城试验场完成了一场 YU7 测试直播,随后他发布长文,对本次直播进行了总结。 雷军表示,今天的测试共有 8 大环节、26 个项目、11 项挑战, 原计划 7 个小时,实际测试过程非常顺利,只用了 5 个半小时就全部完成 。测试车型是 YU7 标准版和 YU7 GT。 雷军称小米汽车高度重视测试工作,测试投入、规模巨大。目前,整个测试...",
-      "source": "Ithome",
-      "date": "2026-06-13",
-      "url": "https://www.ithome.com/0/963/898.htm"
-    },
-    {
-      "id": "https://news.seehua.com/post/1498436",
-      "title": "英国法院判4名“巴勒斯坦行动”成员坐牢",
-      "summary": "(伦敦13日讯)英国一名法官当地时间周五判处4名来自“巴勒斯坦行动”(Palestine Action)组织的 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-13",
-      "url": "https://news.seehua.com/post/1498436"
-    },
-    {
-      "id": "https://www.ithome.com/0/963/891.htm",
-      "title": "吉利豪越 L 欢乐七座版车型上市:搭载 Flyme Auto 智能座舱,官方指导价 10.34 万元起",
-      "summary": "IT之家 6 月 13 日消息,吉利汽车旗下中型 SUV 豪越 L 新增欢乐七座版车型。在此之前,该系列车型仅提供五座布局。新车官方指导价为 10.34 万元,置换价 7.99 万元,叠加换购权益后 7.69 万元起。 上市权益方面,新车提供 1000 元订金可抵扣 11000 元购车款;换购车主享受最高 10000 元置换补贴;豪越系老用户换购可额外获得 3000 元专属换购金;金融方面提供 2...",
-      "source": "Ithome",
-      "date": "2026-06-13",
-      "url": "https://www.ithome.com/0/963/891.htm"
-    },
-    {
-      "id": "https://news.seehua.com/post/1498505",
-      "title": "美里女子横越大道遭撞毙 警追查肇逃车辆",
-      "summary": "(美里13日讯)美里往尼亚的泛婆大道路段今早发生一起致命肇事逃逸车祸,一名33岁本地女子在横越马路时不幸遭车辆 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-13",
-      "url": "https://news.seehua.com/post/1498505"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14583235.html",
-      "title": "从产品出海走向生态出海,中国企业讨论出海新课题",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-06-13",
-      "url": "https://www.jiemian.com/article/14583235.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/963/878.htm",
-      "title": "小米雷军:辅助驾驶只是辅助作用,汽车驾驶员要把控最终决策权",
-      "summary": "IT之家 6 月 13 日消息,今日上午 9 时,小米集团创始人、董事长兼首席执行官雷军现身江苏盐城汽车试验场,开启了一场针对小米 YU7 车型的公开测试直播。 此次测试涵盖了高环测试、连续紧急制动、底盘综合路况、驾控能力、脱困能力、静谧性、耐久测试以及安全辅助功能共计八项环节,涉及车辆动力、操控、底盘、安全和舒适性等多个核心维度,测试车型包括 YU7 标准版与 YU7 GT 版。IT之家注意到,...",
-      "source": "Ithome",
-      "date": "2026-06-13",
-      "url": "https://www.ithome.com/0/963/878.htm"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/china/story20260613-9200707",
-      "title": "百度无人驾驶德士获批在瑞士东部运营",
-      "summary": "NewsData报道",
+      "id": "https://www.zaobao.com.sg/news/sports/story20260614-9205079",
+      "title": "尼克斯NBA夺冠引混乱 暴徒焚烧一辆世界杯巴士",
+      "summary": "(纽约路透电)纽约尼克斯(New York Knicks)新加坡时间星期天(6月14日)拿下美国职业篮球赛(NBA)总冠军,数以千计的篮球迷涌上曼哈顿中城街头庆祝。然而,狂欢场面却被暴力冲突所破坏,一辆世界杯接驳巴士被点燃,一名青少年中弹受伤。...",
       "source": "Zaobao",
-      "date": "2026-06-13",
-      "url": "https://www.zaobao.com.sg/news/china/story20260613-9200707"
+      "date": "2026-06-14",
+      "url": "https://www.zaobao.com.sg/news/sports/story20260614-9205079"
     },
     {
-      "id": "https://www.ithome.com/0/963/862.htm",
-      "title": "小鹏 MONA M03 第十三次 OTA(XOS 6.2.0)全量推送:新增效率泊车风格、熟路智能推荐等",
-      "summary": "IT之家 6 月 13 日消息,小鹏汽车今日宣布 MONA M03 第十三次 OTA 已全量推送,新增「效率泊车风格」、「熟路智能推荐」、「辅助驾驶车道级渲染」等功能,连续 21 个月稳居 10~20 万纯电轿车销量第一,本次 OTA 版本为 XOS 6.2.0。 IT之家整理如下: 新增效率泊车风格 「效率」模式:提升泊车速度,减少泊车耗时,让泊车更快更高效; 「标准」模式:保持原有更偏稳健的泊...",
-      "source": "Ithome",
-      "date": "2026-06-13",
-      "url": "https://www.ithome.com/0/963/862.htm"
+      "id": "https://news.seehua.com/post/1499029",
+      "title": "车子失控撞入路旁沟渠 女乘客夹困车内获救",
+      "summary": "(古晋14日讯)2名男女驾驶一辆宝腾沙嘉轿车路径英吉利里路时,车子突然失控后,连人却带车撞入路旁沟渠里,以致女 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-14",
+      "url": "https://news.seehua.com/post/1499029"
     },
     {
-      "id": "https://www.ithome.com/0/963/859.htm",
-      "title": "全新深蓝 S07 华为乾崑激光版增程车型上市,限时价 15.49 万元起",
-      "summary": "IT之家 6 月 13 日消息,2026(第二十八届)重庆国际汽车展览会今日在重庆国际博览中心正式拉开帷幕。 深蓝汽车在现场宣布全新深蓝 S07 华为乾崑激光版增程动力车型正式上市。新车共推出三款配置,官方指导价区间 15.99-17.69 万元,限时优惠价区间 15.49-17.19 万元。IT之家汇总如下: 全新深蓝 S07 华为乾崑激光版(增程) 车型 官方指导价(万元) 限时优惠价(万元)...",
-      "source": "Ithome",
-      "date": "2026-06-13",
-      "url": "https://www.ithome.com/0/963/859.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/06-13/10639735.shtml",
-      "title": "北斗导航播种、无人机巡田 农田新质生产力跑出三夏“加速度”",
-      "summary": "农业农村部最新小麦机收进度显示,黄淮海主产区延续晴好天气,利于集中机收快速推进。目前,全国小麦收获进度达77.53%。...",
+      "id": "https://www.chinanews.com.cn/gn/2026/06-14/10640370.shtml",
+      "title": "比日本车便宜一半多,张雪机车成台湾车友新晋白月光,张雪回应是否进军台湾市场",
+      "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-06-13",
-      "url": "https://www.chinanews.com.cn/gn/2026/06-13/10639735.shtml"
+      "date": "2026-06-14",
+      "url": "https://www.chinanews.com.cn/gn/2026/06-14/10640370.shtml"
     },
     {
-      "id": "https://newsforchinese.com/v3/2026/06/13/6%E6%9C%884%E6%97%A5%E5%8F%91%E7%8E%B0%E7%9A%84%E6%AD%BB%E7%81%B0%E9%B2%B8%E6%AD%BB%E4%BA%8E%E8%88%B9%E6%92%9E/",
-      "title": "6月4日发现的死灰鲸死于船撞",
-      "summary": "The Marine Mammal Center(TMMC)週三称,上週在San Francisco 80号码头附近发现的一头死灰鲸死于船撞。 6月4日,一头死亡成年雄灰鲸在 80号码头附近被发现。它被拖到Angel Island State Park接受了尸检。 TMMC写道:「调查发现与船撞一致的钝器创伤证据,包括脊椎骨折和颅骨后出血。」 这头鲸鱼是今年在湾区发现的第12头死亡灰鲸,也是第4头...",
-      "source": "Newsforchinese",
-      "date": "2026-06-13",
-      "url": "https://newsforchinese.com/v3/2026/06/13/6%E6%9C%884%E6%97%A5%E5%8F%91%E7%8E%B0%E7%9A%84%E6%AD%BB%E7%81%B0%E9%B2%B8%E6%AD%BB%E4%BA%8E%E8%88%B9%E6%92%9E/"
+      "id": "http://news.imobile.com.cn/articles/2026/0614/234732.shtml",
+      "title": "从凯迪拉克到岚图:上影节指定用车二十年变迁",
+      "summary": "6月13日,大半个娱乐圈聚集上海,参加一年一度的上海国际电影节。作为国内唯一的A类电影节,这里明星云集、奖项角逐,既有艺术价值,也承载着商业品牌的角力。 对于汽车品牌而言,成为官方指定用车,意味着直接切入顶级商务场景核心腹地。过去几年,这一位置几乎被凯迪拉克牢牢占据。明星从凯迪拉克车内走出的画面,几乎是上影节的固定镜头。 今年,局面发生了变化。 岚图汽车成为官方唯一指定用车,三款车型泰山黑武士、泰...",
+      "source": "Imobile",
+      "date": "2026-06-14",
+      "url": "http://news.imobile.com.cn/articles/2026/0614/234732.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/963/975.htm",
-      "title": "理想汽车回应全新 L8 为何六座变五座:希望做“体验不妥协”的旗舰 SUV",
-      "summary": "IT之家 6 月 13 日消息,理想汽车官微今晚发布关于全新理想 L8 的“答网友问”。关于理想 L8 为什么从豪华六座 SUV 改成旗舰五座 SUV,理想汽车方面回应称,“因为我们希望为五座需求的用户,做一台不需要在体验上做任何妥协的旗舰 SUV。” 因为我们希望为五座需求的用户,做一台 不需要在体验上做任何妥协 的旗舰 SUV。 五座用户如果想买一台足够旗舰的 SUV,常常要在一些体验上做取舍...",
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1043728",
+      "title": "主线科技重新递表港交所,为中国商用自动驾驶解决方案第四-FX168",
+      "summary": "新时空(newtimespace.com)讯:主线科技(北京)股份有限公司于6月12日重新向港交所递交主板上市申请,国泰君安国际担任独家保荐人。根据弗若斯特沙利文资料,按2025年收入计,公司在中国商用自动驾驶解决方案提供商中排名第四。公司收入从2023年的1.34亿元增至2025年的3.45亿元,...",
+      "source": "Fx168News",
+      "date": "2026-06-14",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1043728"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/world/story20260614-9204499",
+      "title": "分析:马斯克万亿财富背后 离不开美国政府早期支持",
+      "summary": "美国太空探索技术公司(SpaceX)上市让马斯克成为全球首位万亿富豪。分析指出,马斯克商业版图的崛起,与美国政府在他创业初期提供的拨款、贷款、合同及监管政策支持密不可分。...",
+      "source": "Zaobao",
+      "date": "2026-06-14",
+      "url": "https://www.zaobao.com.sg/news/world/story20260614-9204499"
+    },
+    {
+      "id": "https://www.ithome.com/0/964/166.htm",
+      "title": "为南极永久月面基地铺路,美国 NASA 选定新一代月球车“飞马”",
+      "summary": "IT之家 6 月 14 日消息,据外媒 New Atlas 昨天报道,美国 NASA 正加速建设月球南极永久基地,根据设想,NASA 未来的月球基地将覆盖数百平方英里范围。 目前,NASA 已选定新一代月球车“飞马(IT之家注:Pegasus)”,未来将与阿尔忒弥斯首批宇航员一起飞往月球。 据悉,“飞马”由美国航天公司 Lunar Outpost 开发, 具备自动驾驶 、 宇航员驾驶和地球远程操控...",
       "source": "Ithome",
-      "date": "2026-06-13",
-      "url": "https://www.ithome.com/0/963/975.htm"
+      "date": "2026-06-14",
+      "url": "https://www.ithome.com/0/964/166.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/a82n45p6/",
-      "title": "15-40万纯电SUV怎么选?四款热门车型深度横评",
-      "summary": "截至2026年6月,15万至40万元价格区间的纯电SUV市场已形成多维度竞争格局。消费者在关注续航与补能效率的同时,对智能驾驶、底盘质感、安全冗余及品牌调性的综合要求显著提升。本文聚焦四款代表性车型——小鹏G6(2026款)、理想i6后驱超充版、问界M5......",
+      "id": "https://post.smzdm.com/p/ad74qlkn/",
+      "title": "蔚来NWM 2.0实测:高速稳、泊车强,城区保守但安全?对比华为小鹏谁更值得选",
+      "summary": "截至2026年6月,蔚来已向搭载Cedar S雪松系统的ES6、EC6、ET5T等车型全量推送1.4.0版本,核心升级为基于“蔚来世界模型NWM 2.0”的智能辅助驾驶功能。此次更新覆盖点到点全域领航、人机共驾、误加速抑制、自动泊车等多个模块。与此同时,......",
       "source": "Smzdm",
-      "date": "2026-06-13",
-      "url": "https://post.smzdm.com/p/a82n45p6/"
+      "date": "2026-06-14",
+      "url": "https://post.smzdm.com/p/ad74qlkn/"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/06-14/10640288.shtml",
+      "title": "“绿”意盎然的跃迁:内蒙古绿色发展实践新观察",
+      "summary": "中新网呼和浩特6月14日电 (记者 奥蓝)智慧工厂中的乳产品生产线,大棚里的有机瓜果,沙漠深处的治沙农牧民,黄河边的光伏产业带,零碳产业园中的绿色电力供应.........",
+      "source": "Chinanews",
+      "date": "2026-06-14",
+      "url": "https://www.chinanews.com.cn/gn/2026/06-14/10640288.shtml"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0614/234733.shtml",
+      "title": "华为乾崑坚持透明数据,让出行更有底气",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-06-14",
+      "url": "http://news.imobile.com.cn/articles/2026/0614/234733.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/06-14/10640383.shtml",
+      "title": "抢收、抢种、收购......从“三夏”麦收地图看夏粮收获好“丰”光",
+      "summary": "央视网消息:农业农村部最新小麦机收进度显示,麦收地区大部持续晴热天气,局地有短时阵雨,山东、河北、山西、陕西等省组织机具紧盯成熟麦田推进抢收,已有联合收割机向西北麦区转移。目前,全国小麦收获进度85%。...",
+      "source": "Chinanews",
+      "date": "2026-06-14",
+      "url": "https://www.chinanews.com.cn/gn/2026/06-14/10640383.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260614/af0912f3-5560-49f3-b487-8fc1ab78fecc.html",
+      "title": "抢收、抢种、收购......从“三夏”麦收地图看夏粮收获好“丰”光-国际在线",
+      "summary": "央视网消息:农业农村部最新小麦机收进度显示,麦收地区大部持续晴热天气,局地有短时阵雨,山东、河北、山西、陕西等省组织机具紧盯成熟麦田推进抢收,已有联合收割机向西北麦区转移。目前,全国小麦收获进度85%。 据农业农村部最新小麦机收进度,...",
+      "source": "Cri_Cn",
+      "date": "2026-06-14",
+      "url": "https://news.cri.cn/20260614/af0912f3-5560-49f3-b487-8fc1ab78fecc.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae69xxxm/",
+      "title": "20万级智能驾驶三强对决:激光雷达全系标配谁最真?",
+      "summary": "截至2026年6月,20万元价格区间已成国产高阶智能驾驶车型的主战场。激光雷达、城市NOA、端到端大模型等曾属30万+旗舰专属的技术,正加速下放至该价位段。其中,2026款星途ES(含2027款预售车型)、领克10 EM-P及昊铂A800成为近期关注度较......",
+      "source": "Smzdm",
+      "date": "2026-06-14",
+      "url": "https://post.smzdm.com/p/ae69xxxm/"
+    },
+    {
+      "id": "https://www.ithome.com/0/964/154.htm",
+      "title": "2026 款奇瑞艾瑞泽 8 征服版将于 6 月 17 日上市",
+      "summary": "IT之家 6 月 14 日消息,据汽车之家消息,艾瑞泽 8 征服版将于 6 月 17 日上市 ,新车针对外观和内饰都进行了细节上的升级。 新车整体设计与在售车型基本保持一致,长宽高分别为 4780x1843x1469 (1489)mm,轴距为 2790mm;作为参考,现款艾瑞泽 8 共有 8 款配置,售价区间为 9.99-14.89 万元。 ▲ 新款艾瑞泽 8 征服版官图,下同 IT之家获悉,该车...",
+      "source": "Ithome",
+      "date": "2026-06-14",
+      "url": "https://www.ithome.com/0/964/154.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/964/145.htm",
+      "title": "通用汽车高管斯特林・安德森:公司目前主攻乘用车自动驾驶技术,未来将用于无人驾驶网约车",
+      "summary": "IT之家 6 月 14 日消息,据智通财经今日消息,通用汽车虽然关停了专门负责自动驾驶出租车业务的子公司,但并未退出这场行业竞赛。 通用汽车首席产品官斯特林・安德森(IT之家注:Sterling Anderson)曾担任特斯拉自动辅助驾驶项目负责人。他在接受采访时表示,公司目前主攻乘用车自动驾驶技术,未来这套技术也可应用于无人驾驶网约车服务。 安德森介绍,通用汽车的研发思路是拆解驾驶场景,针对车主...",
+      "source": "Ithome",
+      "date": "2026-06-14",
+      "url": "https://www.ithome.com/0/964/145.htm"
     },
     {
       "id": "https://fortune.com/2026/06/13/waabi-ceo-raquel-urtasun-future-of-work-embrace-ai-first-gen-z-over-industry-experts-career-advice/",
@@ -262,6 +238,30 @@
       "source": "Barchart",
       "date": "2026-06-11",
       "url": "https://www.barchart.com/story/news/2424468/waymo-is-doubling-down-on-self-driving-car-ambitions-what-that-means-for-googl-stock"
+    },
+    {
+      "id": "https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/",
+      "title": "Coram AI raises $35M to bring autonomous AI agents to physical security",
+      "summary": "Most security cameras are little more than digital witnesses. They record what happened, store the footage, and wait for someone to review it later. Coram AI wants to change that. The startup, founded...",
+      "source": "TechStartups.com",
+      "date": "2026-06-11",
+      "url": "https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-commences-trading-on-nasdaq-under-tickers-enrd-and-enrdw-302796851.html",
+      "title": "Einride, a Global Leader in Autonomous and Electric Freight, Commences Trading on Nasdaq Under Tickers \"ENRD\" and \"ENRDW\"",
+      "summary": "/PRNewswire/ -- Einride AB (NASDAQ: ENRD) (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous......",
+      "source": "PR Newswire UK",
+      "date": "2026-06-10",
+      "url": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-commences-trading-on-nasdaq-under-tickers-enrd-and-enrdw-302796851.html"
+    },
+    {
+      "id": "https://www.rte.ie/news/business/2026/0610/1577775-einride-surges-over-70-in-nasdaq-debut/",
+      "title": "driving truck firm Einride jumps 74% in Nasdaq debut",
+      "summary": "Shares of Swedish electric and autonomous trucking firm Einride soared more than 74% in their Nasdaq debut today after its merger with SPAC firm Legato....",
+      "source": "RTE.ie",
+      "date": "2026-06-10",
+      "url": "https://www.rte.ie/news/business/2026/0610/1577775-einride-surges-over-70-in-nasdaq-debut/"
     }
   ]
 }
