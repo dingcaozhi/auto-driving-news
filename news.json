@@ -1,195 +1,179 @@
 {
-  "lastUpdated": "2026-06-15 05:11:22",
-  "totalCount": 31,
+  "lastUpdated": "2026-06-16 05:16:08",
+  "totalCount": 27,
   "sources": {
-    "Bilibili": 5,
-    "Investing_Cn": 1,
-    "Zaobao": 2,
-    "News_Seehua": 1,
-    "Chinanews": 3,
-    "Imobile": 2,
-    "Fx168News": 1,
-    "Ithome": 3,
-    "Smzdm": 2,
+    "Ithome": 1,
+    "Bjnews": 3,
+    "Cnblogs": 1,
+    "Investing_Cn": 2,
+    "Prnasia": 1,
+    "News_Seehua": 2,
     "Cri_Cn": 1,
+    "Chinanews": 2,
+    "Orientaldaily": 1,
+    "Smzdm": 3,
+    "The Manila Times": 1,
+    "Benzinga": 1,
     "Fortune": 1,
     "CNBC TV18": 1,
     "The Economic Times": 2,
     "Euronews": 1,
     "Barchart": 1,
     "TechStartups.com": 1,
-    "PR Newswire UK": 1,
-    "RTE.ie": 1,
-    "TechCrunch": 1
+    "PR Newswire UK": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1w4Jp6XEdh",
-      "title": "【B站】这什么自动驾驶啊",
-      "summary": "-...",
-      "source": "Bilibili",
+      "id": "https://www.ithome.com/0/964/597.htm",
+      "title": "理想新一代旗舰座舱公布:高通 8797 Elite 芯片、90Hz 高刷宽屏,支持苹果 CarPlay 等互联",
+      "summary": "IT之家 6 月 15 日消息,理想新一代旗舰座舱今天亮相 Livis Day 软件与具身智能发布会,新座舱主打“克制与直白”设计理念,配备自研底层系统。 据介绍, 理想新一代旗舰座舱全球首发高通 8797 Elite 旗舰芯片 ,具备 504K CPU 任务处理能力、8.1T GPU 高精渲染能力,集成 320 TOPS 算力的 NPU(IT之家注:神经网络引擎),可运行端侧 AI 模型,硬件能...",
+      "source": "Ithome",
       "date": "2026-06-15",
-      "url": "https://www.bilibili.com/video/BV1w4Jp6XEdh"
+      "url": "https://www.ithome.com/0/964/597.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1A3Jx68Eyo",
-      "title": "【B站】自动驾驶全域放开，下一步会怎样？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1781507277129977.html",
+      "title": "正奇未来携QUORRA亮相 以出行全域空间多模态通用基座打造短途出行智能体",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-06-15",
-      "url": "https://www.bilibili.com/video/BV1A3Jx68Eyo"
+      "url": "https://www.bjnews.com.cn/detail/1781507277129977.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1781507218129976.html",
+      "title": "SMILE pro升级为散光矫正增强版,摘镜进入“自动驾驶导航”时代!",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-06-15",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "url": "https://www.bjnews.com.cn/detail/1781507218129976.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.cnblogs.com/FatTiger4399/p/20552875",
+      "title": "《动手学深度学习》第一章笔记:机器学习问题到底怎么分类 - 养肥胖虎",
+      "summary": "动手学深度学习第一章笔记:机器学习问题到底怎么分类 好家伙, 这次我把《动手学深度学习》第一章读完了。 先说一下,我为什么会突然翻这本书。 更直接的原因是,前面我在做一个从零学习 AI 的小项目。 写一个小项目去用,去学习ai(所谓干中学) 写到训练循环时,代码里开始出现这些东西: _, loss...",
+      "source": "Cnblogs",
       "date": "2026-06-15",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+      "url": "https://www.cnblogs.com/FatTiger4399/p/20552875"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-06-15",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3416454",
-      "title": "筹码稀缺下17个交易日涨超60%,“入通”仅差临门一脚的驭势科技(01511)估值高悬",
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3418011",
+      "title": "Ouster股价今日为何大涨?",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-14",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3416454"
+      "date": "2026-06-15",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3418011"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sports/story20260614-9205079",
-      "title": "尼克斯NBA夺冠引混乱 暴徒焚烧一辆世界杯巴士",
-      "summary": "(纽约路透电)纽约尼克斯(New York Knicks)新加坡时间星期天(6月14日)拿下美国职业篮球赛(NBA)总冠军,数以千计的篮球迷涌上曼哈顿中城街头庆祝。然而,狂欢场面却被暴力冲突所破坏,一辆世界杯接驳巴士被点燃,一名青少年中弹受伤。...",
-      "source": "Zaobao",
-      "date": "2026-06-14",
-      "url": "https://www.zaobao.com.sg/news/sports/story20260614-9205079"
+      "id": "https://www.prnasia.com/story/537251-1.shtml",
+      "title": "赴绿茵之约,见广汽实力!车型与赛场的双向共鸣",
+      "summary": "广州 2026年6月15日 /美通社/ -- 全球瞩目的顶级足球盛事火热开赛,赛场之上,球员们奋力冲刺、灵活转身、全力破门,不断挑战运动极限。而这份追求极致的竞技精神,也和一台好车的内核不谋而合。借着这场全民狂欢,中国汽车品牌广汽也以特别的方式深度参与其中。广汽携手澳大利亚悉尼 FC、墨西哥托卢卡 FC、巴西弗拉门戈、哥伦比亚百万富翁等多家豪门俱乐部,把赛场的速度基因与冠军信念融入每一款车型,让绿...",
+      "source": "Prnasia",
+      "date": "2026-06-15",
+      "url": "https://www.prnasia.com/story/537251-1.shtml"
     },
     {
-      "id": "https://news.seehua.com/post/1499029",
-      "title": "车子失控撞入路旁沟渠 女乘客夹困车内获救",
-      "summary": "(古晋14日讯)2名男女驾驶一辆宝腾沙嘉轿车路径英吉利里路时,车子突然失控后,连人却带车撞入路旁沟渠里,以致女 [...]...",
+      "id": "https://news.seehua.com/post/1499522",
+      "title": "4免费校巴车龄逾30年 张健仁促砂拨款助业者换车",
+      "summary": "(古晋13日讯)砂拉越政府应拨款,为参与免费校巴计划且车龄超过30年的校巴业者提供购车援助,以确保学生上下学的 [...]...",
       "source": "News_Seehua",
-      "date": "2026-06-14",
-      "url": "https://news.seehua.com/post/1499029"
+      "date": "2026-06-15",
+      "url": "https://news.seehua.com/post/1499522"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/06-14/10640370.shtml",
-      "title": "比日本车便宜一半多,张雪机车成台湾车友新晋白月光,张雪回应是否进军台湾市场",
+      "id": "https://www.bjnews.com.cn/detail/1781525399129269.html",
+      "title": "当AI成为“知识管家”:WPS笔记的自动整理能力解放职场人双手",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-15",
+      "url": "https://www.bjnews.com.cn/detail/1781525399129269.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3417705",
+      "title": "美股前瞻 | 三大股指期货齐涨 美伊确认达成协议 超级央行周重磅来袭",
       "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-06-14",
-      "url": "https://www.chinanews.com.cn/gn/2026/06-14/10640370.shtml"
+      "source": "Investing_Cn",
+      "date": "2026-06-15",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3417705"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0614/234732.shtml",
-      "title": "从凯迪拉克到岚图:上影节指定用车二十年变迁",
-      "summary": "6月13日,大半个娱乐圈聚集上海,参加一年一度的上海国际电影节。作为国内唯一的A类电影节,这里明星云集、奖项角逐,既有艺术价值,也承载着商业品牌的角力。 对于汽车品牌而言,成为官方指定用车,意味着直接切入顶级商务场景核心腹地。过去几年,这一位置几乎被凯迪拉克牢牢占据。明星从凯迪拉克车内走出的画面,几乎是上影节的固定镜头。 今年,局面发生了变化。 岚图汽车成为官方唯一指定用车,三款车型泰山黑武士、泰...",
-      "source": "Imobile",
-      "date": "2026-06-14",
-      "url": "http://news.imobile.com.cn/articles/2026/0614/234732.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1043728",
-      "title": "主线科技重新递表港交所,为中国商用自动驾驶解决方案第四-FX168",
-      "summary": "新时空(newtimespace.com)讯:主线科技(北京)股份有限公司于6月12日重新向港交所递交主板上市申请,国泰君安国际担任独家保荐人。根据弗若斯特沙利文资料,按2025年收入计,公司在中国商用自动驾驶解决方案提供商中排名第四。公司收入从2023年的1.34亿元增至2025年的3.45亿元,...",
-      "source": "Fx168News",
-      "date": "2026-06-14",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1043728"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/world/story20260614-9204499",
-      "title": "分析:马斯克万亿财富背后 离不开美国政府早期支持",
-      "summary": "美国太空探索技术公司(SpaceX)上市让马斯克成为全球首位万亿富豪。分析指出,马斯克商业版图的崛起,与美国政府在他创业初期提供的拨款、贷款、合同及监管政策支持密不可分。...",
-      "source": "Zaobao",
-      "date": "2026-06-14",
-      "url": "https://www.zaobao.com.sg/news/world/story20260614-9204499"
-    },
-    {
-      "id": "https://www.ithome.com/0/964/166.htm",
-      "title": "为南极永久月面基地铺路,美国 NASA 选定新一代月球车“飞马”",
-      "summary": "IT之家 6 月 14 日消息,据外媒 New Atlas 昨天报道,美国 NASA 正加速建设月球南极永久基地,根据设想,NASA 未来的月球基地将覆盖数百平方英里范围。 目前,NASA 已选定新一代月球车“飞马(IT之家注:Pegasus)”,未来将与阿尔忒弥斯首批宇航员一起飞往月球。 据悉,“飞马”由美国航天公司 Lunar Outpost 开发, 具备自动驾驶 、 宇航员驾驶和地球远程操控...",
-      "source": "Ithome",
-      "date": "2026-06-14",
-      "url": "https://www.ithome.com/0/964/166.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad74qlkn/",
-      "title": "蔚来NWM 2.0实测:高速稳、泊车强,城区保守但安全?对比华为小鹏谁更值得选",
-      "summary": "截至2026年6月,蔚来已向搭载Cedar S雪松系统的ES6、EC6、ET5T等车型全量推送1.4.0版本,核心升级为基于“蔚来世界模型NWM 2.0”的智能辅助驾驶功能。此次更新覆盖点到点全域领航、人机共驾、误加速抑制、自动泊车等多个模块。与此同时,......",
-      "source": "Smzdm",
-      "date": "2026-06-14",
-      "url": "https://post.smzdm.com/p/ad74qlkn/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/06-14/10640288.shtml",
-      "title": "“绿”意盎然的跃迁:内蒙古绿色发展实践新观察",
-      "summary": "中新网呼和浩特6月14日电 (记者 奥蓝)智慧工厂中的乳产品生产线,大棚里的有机瓜果,沙漠深处的治沙农牧民,黄河边的光伏产业带,零碳产业园中的绿色电力供应.........",
-      "source": "Chinanews",
-      "date": "2026-06-14",
-      "url": "https://www.chinanews.com.cn/gn/2026/06-14/10640288.shtml"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0614/234733.shtml",
-      "title": "华为乾崑坚持透明数据,让出行更有底气",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-06-14",
-      "url": "http://news.imobile.com.cn/articles/2026/0614/234733.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/06-14/10640383.shtml",
-      "title": "抢收、抢种、收购......从“三夏”麦收地图看夏粮收获好“丰”光",
-      "summary": "央视网消息:农业农村部最新小麦机收进度显示,麦收地区大部持续晴热天气,局地有短时阵雨,山东、河北、山西、陕西等省组织机具紧盯成熟麦田推进抢收,已有联合收割机向西北麦区转移。目前,全国小麦收获进度85%。...",
-      "source": "Chinanews",
-      "date": "2026-06-14",
-      "url": "https://www.chinanews.com.cn/gn/2026/06-14/10640383.shtml"
-    },
-    {
-      "id": "https://news.cri.cn/20260614/af0912f3-5560-49f3-b487-8fc1ab78fecc.html",
-      "title": "抢收、抢种、收购......从“三夏”麦收地图看夏粮收获好“丰”光-国际在线",
-      "summary": "央视网消息:农业农村部最新小麦机收进度显示,麦收地区大部持续晴热天气,局地有短时阵雨,山东、河北、山西、陕西等省组织机具紧盯成熟麦田推进抢收,已有联合收割机向西北麦区转移。目前,全国小麦收获进度85%。 据农业农村部最新小麦机收进度,...",
+      "id": "https://news.cri.cn/20260615/d5ed594d-9700-1b38-885d-6a011c7bed63.html",
+      "title": "[视频]【在希望的田野上】全国麦收接近尾声 夏播高效推进-国际在线",
+      "summary": "央视网消息(新闻联播):农业农村部今天(6月15日)的小麦机收进度显示,目前,全国麦收进度近九成,夏播也高效推进。 夏粮是全年粮食生产的第一季。在夏粮生产第一大省河南,8500多万亩冬小麦已全部收获完成。今年夏收期间,面对抢收窗口期短...",
       "source": "Cri_Cn",
-      "date": "2026-06-14",
-      "url": "https://news.cri.cn/20260614/af0912f3-5560-49f3-b487-8fc1ab78fecc.html"
+      "date": "2026-06-15",
+      "url": "https://news.cri.cn/20260615/d5ed594d-9700-1b38-885d-6a011c7bed63.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ae69xxxm/",
-      "title": "20万级智能驾驶三强对决:激光雷达全系标配谁最真?",
-      "summary": "截至2026年6月,20万元价格区间已成国产高阶智能驾驶车型的主战场。激光雷达、城市NOA、端到端大模型等曾属30万+旗舰专属的技术,正加速下放至该价位段。其中,2026款星途ES(含2027款预售车型)、领克10 EM-P及昊铂A800成为近期关注度较......",
+      "id": "https://www.chinanews.com.cn/sh/2026/06-15/10640985.shtml",
+      "title": "江苏南通如东发生汽车倒车操作不当事故 致1死7伤",
+      "summary": "中新网南通6月15日电(记者 谷华)15日,江苏南通如东县一辆小汽车因驾驶人倒车操作不当致人员受伤。当日,大豫镇人民政府发布情况通报称,事故已致1人死亡,1人伤势较重,其余6人伤情平稳,无生命危险。...",
+      "source": "Chinanews",
+      "date": "2026-06-15",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-15/10640985.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/06-15/10640953.shtml",
+      "title": "合肥中考考点查获首例无人机“黑飞”事件 违规男子被依法处罚",
+      "summary": "中新网合肥6月15日电 (记者 赵强)合肥市五十中天鹅湖校区考点日前发生一起无人机违规闯入管制空域事件,辖区公安执勤警力快速处置。该案系今年中考期间合肥查处的首例无人机“黑飞”案件。...",
+      "source": "Chinanews",
+      "date": "2026-06-15",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-15/10640953.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/north/2026/06/15/826096",
+      "title": "全槟电眼将突破3000架 杨征家质疑耗资庞大却未见成效",
+      "summary": "(槟城15日讯)针对槟州政府计划今年内大幅增设1312架闭路电视(CCTV),使全槟公共场所电眼总数突破3000架,马华槟州联委会秘书杨征家质疑,州政府多年来持续扩充监控系统规模,却始终未向民众交代实际开支及具体成效,人民有权知道庞大投资究竟换来什么成果。他表示,槟州地方政府及城乡规划行政议员方美铼日前宣布,槟岛市政厅及威省市政厅将分别增设726架及586架电眼,若加上现有1822架设备,全槟电眼...",
+      "source": "Orientaldaily",
+      "date": "2026-06-15",
+      "url": "https://www.orientaldaily.com.my/news/north/2026/06/15/826096"
+    },
+    {
+      "id": "https://news.seehua.com/post/1499503",
+      "title": "车辆还能开却被列“全损” 砂男子查旧车祸记录惊见疑点重重",
+      "summary": "(古晋15日讯)一宗于2021年发生的自撞车祸,事后竟被揭出现交通报告以车主名义报案,而车主当时除了并非事发司 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-15",
+      "url": "https://news.seehua.com/post/1499503"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arz24kxg/",
+      "title": "40万级纯电轿车智驾大比拼:沃尔沃ES90凭安全逻辑突围",
+      "summary": "截至2026年6月,沃尔沃ES90已正式上市,起售价38.99万元,定位中大型纯电旗舰轿车。其智能驾驶系统以“安全为默认设置”为核心理念,全系标配Pilot Assist领航辅助及DUS驾驶员感知系统,并提供激光雷达选装版本。在当前40万级纯电轿车市场中......",
       "source": "Smzdm",
-      "date": "2026-06-14",
-      "url": "https://post.smzdm.com/p/ae69xxxm/"
+      "date": "2026-06-15",
+      "url": "https://post.smzdm.com/p/arz24kxg/"
     },
     {
-      "id": "https://www.ithome.com/0/964/154.htm",
-      "title": "2026 款奇瑞艾瑞泽 8 征服版将于 6 月 17 日上市",
-      "summary": "IT之家 6 月 14 日消息,据汽车之家消息,艾瑞泽 8 征服版将于 6 月 17 日上市 ,新车针对外观和内饰都进行了细节上的升级。 新车整体设计与在售车型基本保持一致,长宽高分别为 4780x1843x1469 (1489)mm,轴距为 2790mm;作为参考,现款艾瑞泽 8 共有 8 款配置,售价区间为 9.99-14.89 万元。 ▲ 新款艾瑞泽 8 征服版官图,下同 IT之家获悉,该车...",
-      "source": "Ithome",
-      "date": "2026-06-14",
-      "url": "https://www.ithome.com/0/964/154.htm"
+      "id": "https://post.smzdm.com/p/a3mnkl77/",
+      "title": "长安UNI-V怎么选?2.0T爽快但HEV省油,车机功能别被宣传骗了",
+      "summary": "01动力系统差异与驾驶体验长安UNI-V目前提供1.5T燃油版、2.0T燃油版及HEV混动(含智电iDD)三种动力路线。根据@枫行视界的观点,尽管1.5T入门价低至9.39万元,但“建议买2.0T”,因其在加速响应和高速再加速能力上明显优于1.5T1。而......",
+      "source": "Smzdm",
+      "date": "2026-06-15",
+      "url": "https://post.smzdm.com/p/a3mnkl77/"
     },
     {
-      "id": "https://www.ithome.com/0/964/145.htm",
-      "title": "通用汽车高管斯特林・安德森:公司目前主攻乘用车自动驾驶技术,未来将用于无人驾驶网约车",
-      "summary": "IT之家 6 月 14 日消息,据智通财经今日消息,通用汽车虽然关停了专门负责自动驾驶出租车业务的子公司,但并未退出这场行业竞赛。 通用汽车首席产品官斯特林・安德森(IT之家注:Sterling Anderson)曾担任特斯拉自动辅助驾驶项目负责人。他在接受采访时表示,公司目前主攻乘用车自动驾驶技术,未来这套技术也可应用于无人驾驶网约车服务。 安德森介绍,通用汽车的研发思路是拆解驾驶场景,针对车主...",
-      "source": "Ithome",
-      "date": "2026-06-14",
-      "url": "https://www.ithome.com/0/964/145.htm"
+      "id": "https://post.smzdm.com/p/anvoe550/",
+      "title": "理想L8五座VS问界M9:谁才是家庭智能SUV的最优解?",
+      "summary": "截至2026年6月,理想L8即将推出全新五座版本,定位“旗舰五座SUV”,而问界M9则持续以六座/五座双布局覆盖高端市场。两款车型均主打家庭用户,强调空间实用性、智能驾驶与底盘舒适性。本文基于公开素材,围绕车身尺寸、座椅布局、底盘结构、空气悬架性能及实际......",
+      "source": "Smzdm",
+      "date": "2026-06-15",
+      "url": "https://post.smzdm.com/p/anvoe550/"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/06/15/tmt-newswire/globenewswire/roadzen-subsidiary-drivebuddyai-granted-patent-for-real-time-lane-detection-system-demonstrates-technology-at-incabin-detroit-2026/2365768",
+      "title": "Roadzen Subsidiary drivebuddyAI Granted Patent for Real-Time Lane Detection System; Demonstrates Technology at InCabin Detroit 2026",
+      "summary": "Patent advances ADAS precision and lays groundwork for next-generation autonomous driving systems; company showcases compliance-ready driver monitoring at Detroit's premier in-cabin innovation forum...",
+      "source": "The Manila Times",
+      "date": "2026-06-15",
+      "url": "https://www.manilatimes.net/2026/06/15/tmt-newswire/globenewswire/roadzen-subsidiary-drivebuddyai-granted-patent-for-real-time-lane-detection-system-demonstrates-technology-at-incabin-detroit-2026/2365768"
+    },
+    {
+      "id": "https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap",
+      "title": "Rivian Shares Advance As CEO Outlines Aggressive Autonomous-Driving Roadmap",
+      "summary": "Rivian Automotive shares are up in Monday's premarket on CEO autonomy commentary and risk-on tone with S&P 500 futures up over 1%....",
+      "source": "Benzinga",
+      "date": "2026-06-15",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap"
     },
     {
       "id": "https://fortune.com/2026/06/13/waabi-ceo-raquel-urtasun-future-of-work-embrace-ai-first-gen-z-over-industry-experts-career-advice/",
@@ -254,14 +238,6 @@
       "source": "PR Newswire UK",
       "date": "2026-06-10",
       "url": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-commences-trading-on-nasdaq-under-tickers-enrd-and-enrdw-302796851.html"
-    },
-    {
-      "id": "https://www.rte.ie/news/business/2026/0610/1577775-einride-surges-over-70-in-nasdaq-debut/",
-      "title": "driving truck firm Einride jumps 74% in Nasdaq debut",
-      "summary": "Shares of Swedish electric and autonomous trucking firm Einride soared more than 74% in their Nasdaq debut today after its merger with SPAC firm Legato....",
-      "source": "RTE.ie",
-      "date": "2026-06-10",
-      "url": "https://www.rte.ie/news/business/2026/0610/1577775-einride-surges-over-70-in-nasdaq-debut/"
     }
   ]
 }
