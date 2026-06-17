@@ -1,163 +1,242 @@
 {
-  "lastUpdated": "2026-06-16 05:16:08",
-  "totalCount": 27,
+  "lastUpdated": "2026-06-17 04:56:49",
+  "totalCount": 34,
   "sources": {
-    "Ithome": 1,
-    "Bjnews": 3,
-    "Cnblogs": 1,
+    "Bilibili": 5,
     "Investing_Cn": 2,
-    "Prnasia": 1,
-    "News_Seehua": 2,
-    "Cri_Cn": 1,
-    "Chinanews": 2,
-    "Orientaldaily": 1,
-    "Smzdm": 3,
+    "Ithome": 7,
+    "Bjnews": 3,
+    "Imobile": 1,
+    "Jiemian": 1,
+    "News_Seehua": 1,
+    "Chinanews": 1,
+    "Eeo": 2,
+    "Fx168News": 1,
+    "TNW": 1,
+    "MarketScreener": 2,
     "The Manila Times": 1,
     "Benzinga": 1,
     "Fortune": 1,
     "CNBC TV18": 1,
     "The Economic Times": 2,
-    "Euronews": 1,
-    "Barchart": 1,
-    "TechStartups.com": 1,
-    "PR Newswire UK": 1
+    "Euronews": 1
   },
   "news": [
     {
-      "id": "https://www.ithome.com/0/964/597.htm",
-      "title": "理想新一代旗舰座舱公布:高通 8797 Elite 芯片、90Hz 高刷宽屏,支持苹果 CarPlay 等互联",
-      "summary": "IT之家 6 月 15 日消息,理想新一代旗舰座舱今天亮相 Livis Day 软件与具身智能发布会,新座舱主打“克制与直白”设计理念,配备自研底层系统。 据介绍, 理想新一代旗舰座舱全球首发高通 8797 Elite 旗舰芯片 ,具备 504K CPU 任务处理能力、8.1T GPU 高精渲染能力,集成 320 TOPS 算力的 NPU(IT之家注:神经网络引擎),可运行端侧 AI 模型,硬件能...",
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-06-17",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1GY4y137Fv",
+      "title": "【B站】给兄弟们看看我特斯拉的自动驾驶[doge][doge][doge]",
+      "summary": "给兄弟们看看我特斯拉的自动驾驶[doge][doge][doge]...",
+      "source": "Bilibili",
+      "date": "2026-06-17",
+      "url": "https://www.bilibili.com/video/BV1GY4y137Fv"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Qy4y187cb",
+      "title": "【B站】自动驾驶时代，睡一觉就到墓地底了",
+      "summary": "https://m.weibo.cn/login?backURL=https%3A%2F%2Fm.weibo.cn%2F...",
+      "source": "Bilibili",
+      "date": "2026-06-17",
+      "url": "https://www.bilibili.com/video/BV1Qy4y187cb"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1km421G795",
+      "title": "【B站】自动驾驶遇上查酒驾 网友：感觉方向盘紧张了一下",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-17",
+      "url": "https://www.bilibili.com/video/BV1km421G795"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Fm4y1g7oT",
+      "title": "【B站】给自动驾驶一点小小的人类震撼",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-06-17",
+      "url": "https://www.bilibili.com/video/BV1Fm4y1g7oT"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3420372",
+      "title": "慧与扩展自动驾驶网络产品组合,推出AI创新技术",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-16",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3420372"
+    },
+    {
+      "id": "https://www.ithome.com/0/965/131.htm",
+      "title": "朱江明自曝是车圈最早举起芯片的人:零跑 2020 年就已推出“凌芯 01”",
+      "summary": "IT之家 6 月 16 日消息,在今天(16 日)晚间的媒体沟通会上,零跑创始人朱江明透露,“真正举起芯片的人是我,对吧?新能源汽车里面,第一个举起芯片的 是我 。大家如果记忆深刻的话,在水立方发布的 凌芯 01 芯片 ,当时只有 4.2TOPS 算力。” IT之家查询公开资料获悉,凌芯 01 是由零跑汽车与大华股份联合研发的首款国产 AI 自动驾驶芯片,也是国内首款具有完全自主知识产权的车规级 ...",
       "source": "Ithome",
-      "date": "2026-06-15",
-      "url": "https://www.ithome.com/0/964/597.htm"
+      "date": "2026-06-16",
+      "url": "https://www.ithome.com/0/965/131.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781507277129977.html",
-      "title": "正奇未来携QUORRA亮相 以出行全域空间多模态通用基座打造短途出行智能体",
+      "id": "https://www.ithome.com/0/965/127.htm",
+      "title": "以色列 Mobileye 进军美国自动驾驶出租车市场,预计 2027 年上线服务",
+      "summary": "IT之家 6 月 16 日消息,以色列公司 Mobileye 今天宣布进军美国自动驾驶出租车市场,计划 2027 年启动服务。 IT之家了解到,Mobileye 此前是一家自动驾驶系统供应商,该公司计划将 Mobileye Drive 系统与子公司 Moovit 的服务、App 结合,为消费者提供自动驾驶出租车服务。 Mobileye 未来仍将向汽车制造商 、 出行运营商和其他客户提供 Mobil...",
+      "source": "Ithome",
+      "date": "2026-06-16",
+      "url": "https://www.ithome.com/0/965/127.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/965/121.htm",
+      "title": "全新奥迪 A6L 汽车华为乾崑智驾功能价格公布:26800 元,限时优惠至高 6000 元",
+      "summary": "IT之家 6 月 16 日消息,在今天的直播中,奥迪官方揭晓了全新奥迪 A6L 汽车的华为乾崑智驾功能价格: 装备价格 26800 元, 限时优惠至高 6000 元。 IT之家查询获悉,全新奥迪 A6L 搭载华为乾崑智驾技术, 搭配 33 颗传感器组成的灵眸全域感知系统 ,全车 9 处传感器配备自动清洗功能、2 处激光雷达更额外搭载自动加热功能。 据介绍, 奥迪高级巡航辅助支持城区、高速 NOA ...",
+      "source": "Ithome",
+      "date": "2026-06-16",
+      "url": "https://www.ithome.com/0/965/121.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1781613294129228.html",
+      "title": "甘肃近视手术专家:刘勤院长——公立三甲背景加持,为屈光手术筑牢“安全防线”",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-15",
-      "url": "https://www.bjnews.com.cn/detail/1781507277129977.html"
+      "date": "2026-06-16",
+      "url": "https://www.bjnews.com.cn/detail/1781613294129228.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781507218129976.html",
-      "title": "SMILE pro升级为散光矫正增强版,摘镜进入“自动驾驶导航”时代!",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-15",
-      "url": "https://www.bjnews.com.cn/detail/1781507218129976.html"
+      "id": "http://news.imobile.com.cn/articles/2026/0616/234753.shtml",
+      "title": "零跑全新C系列焕新上市,定义中国新能源经典车标准",
+      "summary": "2026年6月16日,零跑汽车全新C系列——全新C10、全新C11、全新C16于浙江·金华金漪湖云蝶中心正式上市。作为零跑C系列五年迭代的里程碑之作,三款新车分别定位\"智能家享长续航中型SUV\"、\"科技豪华运动SUV\"、\"全能百变舒享中大型SUV\",覆盖纯电、增程双动力版本,以全域自研技术将30万级豪华配置系统性下放至12-20万主流价格带,重新定义中国新能源家用SUV价值标杆。 零跑全新C系列上...",
+      "source": "Imobile",
+      "date": "2026-06-16",
+      "url": "http://news.imobile.com.cn/articles/2026/0616/234753.shtml"
     },
     {
-      "id": "https://www.cnblogs.com/FatTiger4399/p/20552875",
-      "title": "《动手学深度学习》第一章笔记:机器学习问题到底怎么分类 - 养肥胖虎",
-      "summary": "动手学深度学习第一章笔记:机器学习问题到底怎么分类 好家伙, 这次我把《动手学深度学习》第一章读完了。 先说一下,我为什么会突然翻这本书。 更直接的原因是,前面我在做一个从零学习 AI 的小项目。 写一个小项目去用,去学习ai(所谓干中学) 写到训练循环时,代码里开始出现这些东西: _, loss...",
-      "source": "Cnblogs",
-      "date": "2026-06-15",
-      "url": "https://www.cnblogs.com/FatTiger4399/p/20552875"
+      "id": "https://www.jiemian.com/article/14598151.html",
+      "title": "地方新闻精选 | “成都27岁女子遇害案”二审维持原判 开封3岁失联男童已确认离世",
+      "summary": "今天有哪些地方新闻值得关注?江苏灌南县警方通报:23岁女子清晨醉驾致2名环卫工人死亡;韶山公交车站有人驾车抢女生?韶山警方:两人散布谣言被拘。...",
+      "source": "Jiemian",
+      "date": "2026-06-16",
+      "url": "https://www.jiemian.com/article/14598151.html"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3418011",
-      "title": "Ouster股价今日为何大涨?",
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3420080",
+      "title": "Mobileye股价今日为何大涨?",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-15",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3418011"
+      "date": "2026-06-16",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3420080"
     },
     {
-      "id": "https://www.prnasia.com/story/537251-1.shtml",
-      "title": "赴绿茵之约,见广汽实力!车型与赛场的双向共鸣",
-      "summary": "广州 2026年6月15日 /美通社/ -- 全球瞩目的顶级足球盛事火热开赛,赛场之上,球员们奋力冲刺、灵活转身、全力破门,不断挑战运动极限。而这份追求极致的竞技精神,也和一台好车的内核不谋而合。借着这场全民狂欢,中国汽车品牌广汽也以特别的方式深度参与其中。广汽携手澳大利亚悉尼 FC、墨西哥托卢卡 FC、巴西弗拉门戈、哥伦比亚百万富翁等多家豪门俱乐部,把赛场的速度基因与冠军信念融入每一款车型,让绿...",
-      "source": "Prnasia",
-      "date": "2026-06-15",
-      "url": "https://www.prnasia.com/story/537251-1.shtml"
+      "id": "https://www.ithome.com/0/965/102.htm",
+      "title": "吉利第 5 代帝豪 i-HEV 智擎混动上市,限时 7.89 万-8.89 万元",
+      "summary": "IT之家 6 月 16 日消息,吉利第 5 代帝豪 i-HEV 智擎混动轿车今晚正式上市,新车基于新一代 BMA Evo 全球模块化架构打造,搭载吉利 i-HEV 智擎混动系统。 1.5L+DHT 驭风版:上市指导价 8.79 万元,限时感恩价 7.89 万元 1.5L+DHT 追光版:上市指导价 9.39 万元,限时感恩价 8.49 万元 1.5L+DHT 登峰版:上市指导价 9.79 万元,限...",
+      "source": "Ithome",
+      "date": "2026-06-16",
+      "url": "https://www.ithome.com/0/965/102.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1499522",
-      "title": "4免费校巴车龄逾30年 张健仁促砂拨款助业者换车",
-      "summary": "(古晋13日讯)砂拉越政府应拨款,为参与免费校巴计划且车龄超过30年的校巴业者提供购车援助,以确保学生上下学的 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-15",
-      "url": "https://news.seehua.com/post/1499522"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1781525399129269.html",
-      "title": "当AI成为“知识管家”:WPS笔记的自动整理能力解放职场人双手",
+      "id": "https://www.bjnews.com.cn/detail/1781596614129891.html",
+      "title": "四预警齐发!北京今日晚高峰交通压力较大,出行请尽量选择公共交通",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-15",
-      "url": "https://www.bjnews.com.cn/detail/1781525399129269.html"
+      "date": "2026-06-16",
+      "url": "https://www.bjnews.com.cn/detail/1781596614129891.html"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3417705",
-      "title": "美股前瞻 | 三大股指期货齐涨 美伊确认达成协议 超级央行周重磅来袭",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-15",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3417705"
-    },
-    {
-      "id": "https://news.cri.cn/20260615/d5ed594d-9700-1b38-885d-6a011c7bed63.html",
-      "title": "[视频]【在希望的田野上】全国麦收接近尾声 夏播高效推进-国际在线",
-      "summary": "央视网消息(新闻联播):农业农村部今天(6月15日)的小麦机收进度显示,目前,全国麦收进度近九成,夏播也高效推进。 夏粮是全年粮食生产的第一季。在夏粮生产第一大省河南,8500多万亩冬小麦已全部收获完成。今年夏收期间,面对抢收窗口期短...",
-      "source": "Cri_Cn",
-      "date": "2026-06-15",
-      "url": "https://news.cri.cn/20260615/d5ed594d-9700-1b38-885d-6a011c7bed63.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-15/10640985.shtml",
-      "title": "江苏南通如东发生汽车倒车操作不当事故 致1死7伤",
-      "summary": "中新网南通6月15日电(记者 谷华)15日,江苏南通如东县一辆小汽车因驾驶人倒车操作不当致人员受伤。当日,大豫镇人民政府发布情况通报称,事故已致1人死亡,1人伤势较重,其余6人伤情平稳,无生命危险。...",
-      "source": "Chinanews",
-      "date": "2026-06-15",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-15/10640985.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-15/10640953.shtml",
-      "title": "合肥中考考点查获首例无人机“黑飞”事件 违规男子被依法处罚",
-      "summary": "中新网合肥6月15日电 (记者 赵强)合肥市五十中天鹅湖校区考点日前发生一起无人机违规闯入管制空域事件,辖区公安执勤警力快速处置。该案系今年中考期间合肥查处的首例无人机“黑飞”案件。...",
-      "source": "Chinanews",
-      "date": "2026-06-15",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-15/10640953.shtml"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/north/2026/06/15/826096",
-      "title": "全槟电眼将突破3000架 杨征家质疑耗资庞大却未见成效",
-      "summary": "(槟城15日讯)针对槟州政府计划今年内大幅增设1312架闭路电视(CCTV),使全槟公共场所电眼总数突破3000架,马华槟州联委会秘书杨征家质疑,州政府多年来持续扩充监控系统规模,却始终未向民众交代实际开支及具体成效,人民有权知道庞大投资究竟换来什么成果。他表示,槟州地方政府及城乡规划行政议员方美铼日前宣布,槟岛市政厅及威省市政厅将分别增设726架及586架电眼,若加上现有1822架设备,全槟电眼...",
-      "source": "Orientaldaily",
-      "date": "2026-06-15",
-      "url": "https://www.orientaldaily.com.my/news/north/2026/06/15/826096"
-    },
-    {
-      "id": "https://news.seehua.com/post/1499503",
-      "title": "车辆还能开却被列“全损” 砂男子查旧车祸记录惊见疑点重重",
-      "summary": "(古晋15日讯)一宗于2021年发生的自撞车祸,事后竟被揭出现交通报告以车主名义报案,而车主当时除了并非事发司 [...]...",
+      "id": "https://news.seehua.com/post/1500113",
+      "title": "宝马失控冲入丧宴酿1死7伤 警方:司机倒车操作不当",
+      "summary": "(南通16日讯)中国江苏南通昨日(15日)发生一起死亡交通事故。事发时,有村民在家门前为已故亲人操办丧事,并搭 [...]...",
       "source": "News_Seehua",
-      "date": "2026-06-15",
-      "url": "https://news.seehua.com/post/1499503"
+      "date": "2026-06-16",
+      "url": "https://news.seehua.com/post/1500113"
     },
     {
-      "id": "https://post.smzdm.com/p/arz24kxg/",
-      "title": "40万级纯电轿车智驾大比拼:沃尔沃ES90凭安全逻辑突围",
-      "summary": "截至2026年6月,沃尔沃ES90已正式上市,起售价38.99万元,定位中大型纯电旗舰轿车。其智能驾驶系统以“安全为默认设置”为核心理念,全系标配Pilot Assist领航辅助及DUS驾驶员感知系统,并提供激光雷达选装版本。在当前40万级纯电轿车市场中......",
-      "source": "Smzdm",
-      "date": "2026-06-15",
-      "url": "https://post.smzdm.com/p/arz24kxg/"
+      "id": "https://www.bjnews.com.cn/detail/1781614060129245.html",
+      "title": "北大团队发布IPswen网络升级创新方案 推动新一代互联网协议部署应用",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-16",
+      "url": "https://www.bjnews.com.cn/detail/1781614060129245.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a3mnkl77/",
-      "title": "长安UNI-V怎么选?2.0T爽快但HEV省油,车机功能别被宣传骗了",
-      "summary": "01动力系统差异与驾驶体验长安UNI-V目前提供1.5T燃油版、2.0T燃油版及HEV混动(含智电iDD)三种动力路线。根据@枫行视界的观点,尽管1.5T入门价低至9.39万元,但“建议买2.0T”,因其在加速响应和高速再加速能力上明显优于1.5T1。而......",
-      "source": "Smzdm",
-      "date": "2026-06-15",
-      "url": "https://post.smzdm.com/p/a3mnkl77/"
+      "id": "https://www.ithome.com/0/965/096.htm",
+      "title": "百度旗下萝卜快跑获瑞士 L4 级自动驾驶出租车运营许可,计划 2027 年启动公众服务",
+      "summary": "IT之家 6 月 16 日消息,据外媒 electrek 今天报道,百度旗下出行平台“萝卜快跑”(Apollo Go)已在瑞士获得 L4 级自动驾驶出租车运营许可。 IT之家从报道获悉, 萝卜快跑获得的许可覆盖瑞士东部 80 平方公里范围 ,涉及圣加仑、外阿彭策尔和内阿彭策尔三大州。路试已于 6 月 1 日启动。不过当前车辆仍将配备安全员,并非完全自动驾驶。 同时,萝卜快跑将与瑞士邮政旗下公交运营...",
+      "source": "Ithome",
+      "date": "2026-06-16",
+      "url": "https://www.ithome.com/0/965/096.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/anvoe550/",
-      "title": "理想L8五座VS问界M9:谁才是家庭智能SUV的最优解?",
-      "summary": "截至2026年6月,理想L8即将推出全新五座版本,定位“旗舰五座SUV”,而问界M9则持续以六座/五座双布局覆盖高端市场。两款车型均主打家庭用户,强调空间实用性、智能驾驶与底盘舒适性。本文基于公开素材,围绕车身尺寸、座椅布局、底盘结构、空气悬架性能及实际......",
-      "source": "Smzdm",
-      "date": "2026-06-15",
-      "url": "https://post.smzdm.com/p/anvoe550/"
+      "id": "https://www.chinanews.com.cn/tp/2026/06-16/10641601.shtml",
+      "title": "直击武警后装保障比武现场:在真训实考中锤炼过硬专业本领",
+      "summary": "赛场对接战场,保障瞄准打赢。此次比武围绕实战需求科学设置比武课目,涵盖军需营房、卫生、运输投送、装备四大专业,分个人、小组两大类别,共计8个竞赛项目。其中单兵技能竞赛包含电气设备及控制线路、卫生员战救技术、兼职卫生战士初级急救技术、倒车移位、综合驾驶、无光条件下武器混合分解结合、轻武器换件维修等7项内容;小组技能竞赛为连用野战给养单元操作使用。全体参赛队员同台比拼、奋勇争先,在真训实考中锤炼过硬专...",
+      "source": "Chinanews",
+      "date": "2026-06-16",
+      "url": "https://www.chinanews.com.cn/tp/2026/06-16/10641601.shtml"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0616/917964.shtml",
+      "title": "李想“开火”传统智驾:遇复杂场景就退出,对人类是最大的不安全",
+      "summary": "发布会尾声,李想将理想汽车的十年历程划分为两个阶段:过去10年我们创造了一个移动的家,在第二个10年我们会给车和家赋予生命。“理想汽车坚持做最好的自己,不要希望我们变成别人。”他说。...",
+      "source": "Eeo",
+      "date": "2026-06-16",
+      "url": "http://www.eeo.com.cn/2026/0616/917964.shtml"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0616/917959.shtml",
+      "title": "法拉利电动车引争议 超跑的“油进电退”和智能化新机遇",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-06-16",
+      "url": "http://www.eeo.com.cn/2026/0616/917959.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1044907",
+      "title": "沪电股份:6月16日接受机构调研,华宝基金、Ystem予淞资本等多家机构参与-FX168",
+      "summary": "证券之星消息,2026年6月16日沪电股份(002463)发布公告称公司于2026年6月16日接受机构调研,华宝基金、Ystem予淞资本、国调基金、工银瑞信基金、天壹资本、瀚伦投资、聚源通汇资本Fortune Fusion、国投创新、微光创投、君联资本、工银国际、中信证券、财通证券、前海开源基金、国投瑞银基金、新华基金(香港)、黄国英资产管理(香港)、Longitude(香港)、YT Invest...",
+      "source": "Fx168News",
+      "date": "2026-06-16",
+      "url": "https://www.fx168news.com/article/1044907"
+    },
+    {
+      "id": "https://www.ithome.com/0/965/093.htm",
+      "title": "零跑全新 C10/C11/C16 上市:外观内饰设计更新,C10 车型 12.58 万元起",
+      "summary": "IT之家 6 月 16 日消息,零跑全新 C 系列今晚正式上市,C10/C11/C16 三款车型均迎来更新。新车采用全新内外饰设计,并拥有“超长续航”“超快补能”。 零跑全新 C10:增程 290 智享版 12.58 万元,增程 290 激光雷达版 13.58 万元,纯电 660 智享版 13.28 万元,纯电 660 激光雷达版 14.28 万元 零跑全新 C11:增程 300 激光雷达版 14...",
+      "source": "Ithome",
+      "date": "2026-06-16",
+      "url": "https://www.ithome.com/0/965/093.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/965/092.htm",
+      "title": "长城魏牌高山 7 SUV 版发布:新增四驱驾驶模式、CLTC 纯电续航 206 公里,限时权益价 27.08 万元",
+      "summary": "IT之家 6 月 16 日消息,长城魏牌高山 7 SUV 版今晚正式发布,新车相比高山 7 将底盘加高了 30 毫米,整体离地间隙最小达到 185 毫米, 统一零售价 28.58 万元、限时权益价 27.08 万元 。 据介绍,长城魏牌高山 7 SUV 版的尺寸为 5149×2005×1925mm,轴距 3085mm, 相比普通高山 7 车长 +99mm、车宽 +45mm、车高 +25mm ,轴距...",
+      "source": "Ithome",
+      "date": "2026-06-16",
+      "url": "https://www.ithome.com/0/965/092.htm"
+    },
+    {
+      "id": "https://thenextweb.com/news/chinas-biggest-carmakers-are-designing-their-own-driving-chips-and-nvidia-should-be-worried",
+      "title": "China's EV giants design own driving chips to cut Nvidia out",
+      "summary": "Li Auto, BYD, Nio, and Xpeng have all built custom autonomous driving silicon. Nvidia's dominance in China's largest auto market is under threat....",
+      "source": "TNW",
+      "date": "2026-06-16",
+      "url": "https://thenextweb.com/news/chinas-biggest-carmakers-are-designing-their-own-driving-chips-and-nvidia-should-be-worried"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/mobileye-looks-to-launch-u-s-robotaxi-business-in-u-s-next-year-ce7f5cdfdd8df520",
+      "title": "Mobileye Looks to Launch U.S. Robotaxi Business in U.S. Next Year",
+      "summary": "By Robb M. Stewart\nIntel's Mobileye autonomous driving arm aims to launch a robotaxi business in the U.S. next year.\nMobileye said Tuesday it plans to expand its activities beyond supplying......",
+      "source": "MarketScreener",
+      "date": "2026-06-16",
+      "url": "https://www.marketscreener.com/news/mobileye-looks-to-launch-u-s-robotaxi-business-in-u-s-next-year-ce7f5cdfdd8df520"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/mobileye-plans-to-set-up-vertically-integrated-robotaxi-business-shares-up-pre-bell-ce7f5cdfda81f22d",
+      "title": "Mobileye Plans to Set Up Vertically Integrated Robotaxi Business; Shares Up Pre-Bell",
+      "summary": "Mobileye Global plans full ownership of an autonomous ride-hailing business, expanding its robotaxi activities beyond supplying self-driving technology, the company said Tuesday.\nMobileye plans to......",
+      "source": "MarketScreener",
+      "date": "2026-06-16",
+      "url": "https://www.marketscreener.com/news/mobileye-plans-to-set-up-vertically-integrated-robotaxi-business-shares-up-pre-bell-ce7f5cdfda81f22d"
     },
     {
       "id": "https://www.manilatimes.net/2026/06/15/tmt-newswire/globenewswire/roadzen-subsidiary-drivebuddyai-granted-patent-for-real-time-lane-detection-system-demonstrates-technology-at-incabin-detroit-2026/2365768",
@@ -182,62 +261,6 @@
       "source": "Fortune",
       "date": "2026-06-13",
       "url": "https://fortune.com/2026/06/13/waabi-ceo-raquel-urtasun-future-of-work-embrace-ai-first-gen-z-over-industry-experts-career-advice/"
-    },
-    {
-      "id": "https://www.cnbctv18.com/technology/spacex-humanoid-robots-autonomous-cars-starlink-ai-demand-gwynne-shotwell-ws-l-19924868.htm",
-      "title": "driving cars could unlock SpaceX's $28.5 trillion market opportunity: Gwynne Shotwell",
-      "summary": "SpaceX is betting that the rapid adoption of autonomous machines and AI-powered systems will drive unprecedented demand for computing power and global connectivity, positioning Starlink at the centre ...",
-      "source": "CNBC TV18",
-      "date": "2026-06-12",
-      "url": "https://www.cnbctv18.com/technology/spacex-humanoid-robots-autonomous-cars-starlink-ai-demand-gwynne-shotwell-ws-l-19924868.htm"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/tech/technology/baidu-postbus-get-regulatory-nod-for-robotaxi-service-in-eastern-switzerland/articleshow/131687368.cms",
-      "title": "Baidu, PostBus get regulatory nod for robotaxi service in eastern Switzerland",
-      "summary": "Baidu's self-driving service, AmiGo, has gained regulatory approval in Switzerland. This joint venture with PostBus plans to launch Europe's largest automated public transport operation. Fully driverl...",
-      "source": "The Economic Times",
-      "date": "2026-06-12",
-      "url": "https://economictimes.indiatimes.com/tech/technology/baidu-postbus-get-regulatory-nod-for-robotaxi-service-in-eastern-switzerland/articleshow/131687368.cms"
-    },
-    {
-      "id": "https://www.euronews.com/next/2026/06/12/self-driving-cars-to-be-tested-on-portuguese-roads-from-july",
-      "title": "Self-driving cars to be tested on Portuguese roads from July",
-      "summary": "From July, Portugal will allow autonomous vehicles to be tested on public roads under a new decree laying down strict rules on safety, insurance and oversight....",
-      "source": "Euronews",
-      "date": "2026-06-12",
-      "url": "https://www.euronews.com/next/2026/06/12/self-driving-cars-to-be-tested-on-portuguese-roads-from-july"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-clears-way-for-self-driving-safety-car-tech-to-reduce-road-deaths/articleshow/131679125.cms",
-      "title": "India clears way for self-driving, safety car tech to reduce road deaths",
-      "summary": "India has removed the licence requirement for automotive radar sensors operating in the 77-81 GHz frequency band, paving the way for wider adoption of advanced driver-assistance and autonomous driving...",
-      "source": "The Economic Times",
-      "date": "2026-06-12",
-      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-clears-way-for-self-driving-safety-car-tech-to-reduce-road-deaths/articleshow/131679125.cms"
-    },
-    {
-      "id": "https://www.barchart.com/story/news/2424468/waymo-is-doubling-down-on-self-driving-car-ambitions-what-that-means-for-googl-stock",
-      "title": "Waymo Is Doubling Down on Self-Driving Car Ambitions. What That Means for GOOGL Stock.",
-      "summary": "Waymo's $220 million Arizona testing expansion suggests Alphabet is building a larger runway for future autonomous transportation growth....",
-      "source": "Barchart",
-      "date": "2026-06-11",
-      "url": "https://www.barchart.com/story/news/2424468/waymo-is-doubling-down-on-self-driving-car-ambitions-what-that-means-for-googl-stock"
-    },
-    {
-      "id": "https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/",
-      "title": "Coram AI raises $35M to bring autonomous AI agents to physical security",
-      "summary": "Most security cameras are little more than digital witnesses. They record what happened, store the footage, and wait for someone to review it later. Coram AI wants to change that. The startup, founded...",
-      "source": "TechStartups.com",
-      "date": "2026-06-11",
-      "url": "https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-commences-trading-on-nasdaq-under-tickers-enrd-and-enrdw-302796851.html",
-      "title": "Einride, a Global Leader in Autonomous and Electric Freight, Commences Trading on Nasdaq Under Tickers \"ENRD\" and \"ENRDW\"",
-      "summary": "/PRNewswire/ -- Einride AB (NASDAQ: ENRD) (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous......",
-      "source": "PR Newswire UK",
-      "date": "2026-06-10",
-      "url": "https://www.prnewswire.co.uk/news-releases/einride-a-global-leader-in-autonomous-and-electric-freight-commences-trading-on-nasdaq-under-tickers-enrd-and-enrdw-302796851.html"
     }
   ]
 }
