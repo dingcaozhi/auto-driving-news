@@ -1,171 +1,187 @@
 {
-  "lastUpdated": "2026-06-18 04:47:07",
-  "totalCount": 28,
+  "lastUpdated": "2026-06-19 05:07:13",
+  "totalCount": 27,
   "sources": {
-    "Bilibili": 5,
-    "Imobile": 1,
+    "Eeo": 2,
+    "Prnasia": 1,
+    "Ithome": 3,
+    "Jiemian": 3,
     "Cri_Cn": 1,
-    "Bjnews": 4,
-    "Investing_Cn": 1,
-    "Chinanews": 2,
+    "Bjnews": 1,
+    "Chinanews": 1,
+    "Orientaldaily": 2,
     "Fx168News": 1,
-    "Globenewswire_Fr": 1,
-    "News_Seehua": 1,
-    "Smzdm": 1,
+    "Smzdm": 2,
+    "The Mercury News": 1,
+    "TechBullion": 1,
+    "The Economic Times": 1,
     "Natural News": 1,
     "Times Now": 1,
     "TNW": 1,
     "MarketScreener": 2,
     "The Manila Times": 1,
-    "Benzinga": 1,
-    "Fortune": 1,
-    "CNBC TV18": 1,
-    "The Economic Times": 1
+    "Benzinga": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
+      "id": "http://www.eeo.com.cn/2026/0618/920767.shtml",
+      "title": "跨国公司在中国市场进化",
+      "summary": "二十年前,在全球产业大迁徙中,中国最初凭借原料、人工等要素成本低廉的优势一跃而起,逐渐获得了“世界工厂”的地位。如今跨国公司在华布局早已跳出加工制造的单一维度,转向区域总部、研发实验室、创新策源地等高阶布局,创新协同成为合作主流。...",
+      "source": "Eeo",
       "date": "2026-06-18",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "url": "http://www.eeo.com.cn/2026/0618/920767.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
+      "id": "https://www.prnasia.com/story/537822-1.shtml",
+      "title": "迄今行驶速度最快的乐高®跑车:真车等比例乐高®机械组科尼赛克Sadair's Spear超跑在古德伍德速度节创下111公里/小时速度纪录",
+      "summary": "一辆可驾驶、与真车等比例的乐高 ® 机械组科尼赛克Sadair's Spear创下速度纪录,成为迄今为止最快的乐高机械组大型拼搭跑车,最高时速达到111公里/小时,是此前50公里/小时纪录的两倍以上。 此次挑战旨在庆祝全新乐高机械组科尼赛克Sadair's Spear超跑套装的发布,该产品将于今年7月正式上市。 由科尼赛克测试车手Markus Lundh驾驶,此次创举致敬Sadair's Spea...",
+      "source": "Prnasia",
       "date": "2026-06-18",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "url": "https://www.prnasia.com/story/537822-1.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1qvjF6TEKt",
-      "title": "【B站】北哥聊本质 6.18（上）深圳放开L4级别自动驾驶且L3级标准即将落地，近期买车是否应该再等一等？ 老高预言丨资产下行丨自动驾驶丨博山打人",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.ithome.com/0/966/272.htm",
+      "title": "我国首部 L3/L4 自动驾驶强制性国标公示:2027 年 7 月起正式实施,车企靠模糊宣传抢市场的阶段结束",
+      "summary": "IT之家 6 月 18 日消息,工信部 6 月 16 日就《智能网联汽车自动驾驶系统安全要求》等 2 项强制性国家标准(报批稿)、《车载事故紧急呼叫系统》强制性国家标准外文版(报批稿)公开征求意见。 该标准报批稿及编制说明于 2026 年 6 月 17 日至 24 日公示,面向社会各界征求意见,建议实施日期为 2027 年 7 月 1 日。IT之家附工信部官网地址: https://www.mii...",
+      "source": "Ithome",
       "date": "2026-06-18",
-      "url": "https://www.bilibili.com/video/BV1qvjF6TEKt"
+      "url": "https://www.ithome.com/0/966/272.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.jiemian.com/article/14614342.html",
+      "title": "引金融“活水”精准滴灌科创沃土,上海全生命周期科创金融服务集中发布",
+      "summary": "未来,上海将进一步做强科创金融服务体系、提升跨境投融资便利化水平、深化产融精准对接联动,以开放聚资源、以创新谋发展,持续深化科创金融领域务实合作。...",
+      "source": "Jiemian",
       "date": "2026-06-18",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+      "url": "https://www.jiemian.com/article/14614342.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1VEpuewESk",
-      "title": "【B站】这才是科研人该学的！一口气学完自动驾驶八大算法-环境感知、目标检测、语义分割、强化学习、决策与控制算法！原理到实战，太通俗易懂了！机器学习|深度学习|计算机视觉",
-      "summary": "如果你是自学自动驾驶，你需要学一些常见的自动驾驶算法：\r\n环境感知算法、目标检测算法、语义分割算法、深度学习算法（像 R-CNN、YOLO、SSD）点云处理算法、定位与建图算法、路径规划算法、决策与控制算法（基于规则的决策算法、强化学习算法、模型预测控制（MPC）算法）！\r\n本套教程是算法原理+实战...",
-      "source": "Bilibili",
-      "date": "2026-06-18",
-      "url": "https://www.bilibili.com/video/BV1VEpuewESk"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0617/234777.shtml",
-      "title": "比亚迪全尺寸闪充旗舰SUV大唐EV正式上市",
-      "summary": "6月17日,比亚迪全尺寸闪充旗舰SUV——大唐EV在西安永宁门正式上市。大唐EV专为当代社会中兼具事业格局、家庭担当与科技热忱的时代中坚人群而来,集全尺寸SUV最长纯电续航(950公里)、行业唯一闪充、敢于兜底的城市领航安全等于一身,囊括29项全球第一,实力诠释旗舰新标杆! 此次大唐EV共推出800KM后驱激光雷达尊荣型、950KM后驱激光雷达旗舰型、850KM四驱激光雷达旗舰型及大唐盛世版四款车...",
-      "source": "Imobile",
-      "date": "2026-06-17",
-      "url": "http://news.imobile.com.cn/articles/2026/0617/234777.shtml"
-    },
-    {
-      "id": "https://news.cri.cn/20260617/cf394c1e-cdfd-48bb-b629-7e7e396af71d.html",
-      "title": "活力中国调研行丨无人装备上岗 津门智造提速-国际在线",
-      "summary": "科技日报记者侯萌赵卫华 没有司机,数万集装箱如何高效转运?不见焊工,精密焊缝如何保质完成?走进天津的码头与工厂,答案就藏在一台台智能装备之中。无人值守、远程操控、人机协作,一系列新技术、新模式,让传统产业焕发全新生机。 6月16日,...",
+      "id": "https://news.cri.cn/20260618/41472d6f-aebb-7a18-58ce-533fdb045496.html",
+      "title": "端午节假期如何确保出行安全?这份道路交通安全提示请收好↓-国际在线",
+      "summary": "央视网消息:端午节假期,群众旅游观赛、返乡探亲出行集中,农村地区务农务工集体出行繁忙,南方强降雨、北方多阵雨,道路交通安全风险突出。公安部交通管理局结合近年来端午节假期交通事故规律特点,对今年端午节假期交通安全形势进行了分析研判,并发出...",
       "source": "Cri_Cn",
-      "date": "2026-06-17",
-      "url": "https://news.cri.cn/20260617/cf394c1e-cdfd-48bb-b629-7e7e396af71d.html"
+      "date": "2026-06-18",
+      "url": "https://news.cri.cn/20260618/41472d6f-aebb-7a18-58ce-533fdb045496.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781700426129174.html",
-      "title": "极核电动史上大规模集中发布!8大旗舰新车、全新智能系统、品牌全新战略!",
+      "id": "https://www.ithome.com/0/966/266.htm",
+      "title": "知情人士回应“华为乾崑智驾 ADS 高阶功能包优惠将收窄”:属实",
+      "summary": "IT之家 6 月 18 日消息,近日有消息称,自 2026 年 7 月 1 日起,华为乾崑智驾 ADS 高阶功能包 优惠或将收窄 ,叠加车企新车购车补贴权益等后一次性买断价格或上涨 3000 元。 每经网援引知情人士的话说, 该消息属实 。一位鸿蒙智行销售人员表示:“目前来说,华为乾崑智驾 ADS 高阶功能包优惠收窄的可能性很大,因为去年的 ADS 乾崑智能驾驶系统 3.2 万元价格的 截止时间是...",
+      "source": "Ithome",
+      "date": "2026-06-18",
+      "url": "https://www.ithome.com/0/966/266.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1781768537129695.html",
+      "title": "14个月10万台,东风日产打了合资转型最硬的一场仗",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-17",
-      "url": "https://www.bjnews.com.cn/detail/1781700426129174.html"
+      "date": "2026-06-18",
+      "url": "https://www.bjnews.com.cn/detail/1781768537129695.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781696245129079.html",
-      "title": "九识智驾Zelos Inside:L4商用车赛道的“华为HI”时刻",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-17",
-      "url": "https://www.bjnews.com.cn/detail/1781696245129079.html"
+      "id": "https://www.jiemian.com/article/14606574.html",
+      "title": "中国失速把宝马利润率拖回历史危机时期",
+      "summary": "受中国市场影响,宝马汽车业务息税前利润率预期从4%至6%大幅调低至1%至3%。在宝马可比的近二十年数据中,这一指标只在新冠疫情和金融危机时期出现过。...",
+      "source": "Jiemian",
+      "date": "2026-06-18",
+      "url": "https://www.jiemian.com/article/14606574.html"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3422338",
-      "title": "特斯拉需在Robotaxi领域兑现里程碑目标,股价才能重拾动能",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-17",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3422338"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1781702387129237.html",
-      "title": "上汽通用五菱“奋斗者专项计划”落地广西江门村,赠车捐款支持发展",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-17",
-      "url": "https://www.bjnews.com.cn/detail/1781702387129237.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/06-17/10642661.shtml",
-      "title": "无人装备上岗 津门智造提速",
-      "summary": "NewsData报道",
+      "id": "https://www.chinanews.com.cn/sh/2026/06-18/10643541.shtml",
+      "title": "端午节假期如何确保出行安全?这份道路交通安全提示请收好↓",
+      "summary": "央视网消息:端午节假期,群众旅游观赛、返乡探亲出行集中,农村地区务农务工集体出行繁忙,南方强降雨、北方多阵雨,道路交通安全风险突出。公安部交通管理局结合近年来端午节假期交通事故规律特点,对今年端午节假期交通安全形势进行了分析研判,并发出交通安全提示。...",
       "source": "Chinanews",
-      "date": "2026-06-17",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-17/10642661.shtml"
+      "date": "2026-06-18",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-18/10643541.shtml"
     },
     {
-      "id": "https://www.fx168news.com/article/1045512",
-      "title": "Bitget 通过与 Paydify 合作,扩展全球商户稳定币支付服务-FX168",
-      "summary": "塞舌尔维多利亚, June 17, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 Bitget 今日宣布与 Paydify 建立战略合作伙伴关系。Paydify 是一个旨在实现用户与商户之间无缝稳定币交易的支付层。此次合作旨在为全球商户扩展稳定币支付受理能力。该合作使接入 Paydify 的商户能够通过单一支付集成触达 Bitget 全球用户群,简化了企业在不断发展的 W...",
+      "id": "https://www.jiemian.com/article/14615156.html",
+      "title": "从跨境金融提质增效到离岸金融创新突破,上海国际金融中心建设新使命",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-06-18",
+      "url": "https://www.jiemian.com/article/14615156.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/966/268.htm",
+      "title": "宝马停产三款国产纯电车型?为下半年新世代车型上市让路",
+      "summary": "IT之家 6 月 18 日消息,针对网络流传的“宝马将于 7 月起全面停产国产纯电车型”的消息,一位接近宝马的知情人士向《每日经济新闻》,表示,此次调整是宝马根据市场需求动态变化对产品生产节奏进行的常规调整,以及对产品生命周期管理的综合考量。 据介绍,上述车型的生产调整属于正常的 EOP(End of Production)流程,核心目的是切换产线、集中产能资源,为国产新世代车型的上市做准备。 宝...",
+      "source": "Ithome",
+      "date": "2026-06-18",
+      "url": "https://www.ithome.com/0/966/268.htm"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/06/18/826819",
+      "title": "疑超车不遂酿5车连环车祸 19岁女骑士魂断公路",
+      "summary": "(新山18日讯)依斯干达公主城发生严重5车夺命连环车祸,导致一名19岁摩哆女骑士不幸魂断公路。依斯干达公主城警区主任古玛拉山今日发表文告证实,这起夺命车祸是今日上午约8时30分,在新山至笨珍路(Jalan Johor Bahru - Pontian)第33公里处发生。他透露,警方初步调查显示,事发时,现年19岁的本地女受害者正驾驶著一辆摩哆,并试图超越前方一辆本田思域(Honda Civic)轿车...",
+      "source": "Orientaldaily",
+      "date": "2026-06-18",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/06/18/826819"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0618/920732.shtml",
+      "title": "山推股份发布全球战略:2035年将实现营收500亿元",
+      "summary": "当下,中国经济发展正由投资拉动转向消费拉动,同时亚太、中东、非洲、拉美等海外市场却掀起了一股基建潮。为抢抓全球市场机遇,中国工程机械行业正兴起一股出海热。 2026年6月17日至18日,中国最大推土机制造商——山推工程机械股份有限公司(下称“山推股份”,000680.SZ)首次举办了全球客户节,发布了未来短期、中期和长期的全球战略,以及引领产业变革的三大趋势。...",
+      "source": "Eeo",
+      "date": "2026-06-18",
+      "url": "http://www.eeo.com.cn/2026/0618/920732.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/north/2026/06/18/826812",
+      "title": "车主已离世仍上路行驶 罗兴亚男子还无照驾驶",
+      "summary": "(亚罗士打18日讯)一辆相信属于已故人士遗产的轿车,疑在未完成合法转名程序下流入外籍人士手中,最终在陆路交通局(JPJ)执法行动中被查获,而涉案罗兴亚男子也因无法出示合法驾驶执照,车辆更被揭发长期没有保险及路税逾3年未更新,当场遭执法人员扣押。事件于是在莪崙瓜尼那斯路(Jalan Guar Nenas–Gurun)第2公里处展开的“PeWA行动”中被揭发。陆路交通局发表文告时指出,执法人员截查一辆...",
+      "source": "Orientaldaily",
+      "date": "2026-06-18",
+      "url": "https://www.orientaldaily.com.my/news/north/2026/06/18/826812"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1046119",
+      "title": "美股今夜看点 | 半导体股盘前集体狂飙!美光目标价飙至1300美元,三大股指期货齐涨纳指领涨1.58%-FX168",
+      "summary": "1. 6月18日(周四)美股盘前,美股三大股指期货齐涨。截至发稿,道指期货涨0.36%,标普期货涨0.85%,纳指期货涨1.58%。2. 截至发稿,欧洲股市主要指数涨跌互现。欧洲斯托克50指数涨0.22%,英国富时100指数跌0.93%,法国CAC40指数涨0.02%,德国DAX30指数涨0.15%。3. 截至发稿,WTI原油跌2.03%,报74.47美元/桶。布伦特原油跌1.31%,报78.19...",
       "source": "Fx168News",
-      "date": "2026-06-17",
-      "url": "https://www.fx168news.com/article/1045512"
+      "date": "2026-06-18",
+      "url": "https://www.fx168news.com/article/1046119"
     },
     {
-      "id": "https://www.chinanews.com.cn/txy/2026/06-17/10642564.shtml",
-      "title": "江西民建参政履职见实效 凝心聚力助发展",
-      "summary": "中新网南昌6月17日电 (记者 吴鹏泉)17日,中国民主建国会江西省第十届委员会第五次全体会议在南昌召开。记者从会议上了解到,2025年江西民建扎实履职尽责、主动担当作为,在参政议政、民主监督、定点帮扶、招商引资、社会公益等领域多点发力、成效凸显,以实干实绩助力江西高质量发展。...",
-      "source": "Chinanews",
-      "date": "2026-06-17",
-      "url": "https://www.chinanews.com.cn/txy/2026/06-17/10642564.shtml"
-    },
-    {
-      "id": "https://www.globenewswire.com/fr/news-release/2026/06/17/3313517/0/zh-hans/Bitget-%E9%80%9A%E8%BF%87%E4%B8%8E-Paydify-%E5%90%88%E4%BD%9C-%E6%89%A9%E5%B1%95%E5%85%A8%E7%90%83%E5%95%86%E6%88%B7%E7%A8%B3%E5%AE%9A%E5%B8%81%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8A%A1.html",
-      "title": "Bitget 通过与 Paydify 合作,扩展全球商户稳定币支付服务",
-      "summary": "塞舌尔维多利亚, June 17, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 Bitget 今日宣布与 Paydify 建立战略合作伙伴关系。Paydify 是一个旨在实现用户与商户之间无缝稳定币交易的支付层。此次合作旨在为全球商户扩展稳定币支付受理能力。该合作使接入 Paydify 的商户能够通过单一支付集成触达 Bitget 全球用户群,简化了企业在不断发展的 W...",
-      "source": "Globenewswire_Fr",
-      "date": "2026-06-17",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/06/17/3313517/0/zh-hans/Bitget-%E9%80%9A%E8%BF%87%E4%B8%8E-Paydify-%E5%90%88%E4%BD%9C-%E6%89%A9%E5%B1%95%E5%85%A8%E7%90%83%E5%95%86%E6%88%B7%E7%A8%B3%E5%AE%9A%E5%B8%81%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8A%A1.html"
-    },
-    {
-      "id": "https://news.seehua.com/post/1500332",
-      "title": "一家五口出行疑失控闯反方向车道 休旅车猛撞罗里华裔母子魂断公路",
-      "summary": "(古来17日讯) 华裔一家五口共乘休旅车出行,不料途中疑突然失控驶入反方向车道,与迎面而来的拖格罗里发生猛撞, [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-17",
-      "url": "https://news.seehua.com/post/1500332"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6zqq6xo/",
-      "title": "2026款蔚来ES8智驾大升级:激光雷达上车+NWM 2.0让领航更像老司机",
-      "summary": "01硬件配置与感知能力2026款蔚来ES8在智能驾驶硬件层面完成全面迭代。相比早期搭载Mobileye Q4芯片、无激光雷达的版本,新款全系标配3颗图达通激光雷达(前向150线探测500米、两侧各192线探测150米)、11颗车外摄像头、5颗毫米波雷达及......",
+      "id": "https://post.smzdm.com/p/axkp0702/",
+      "title": "高阶智驾真能“放手开”?激光雷达线数、算力和OTA陷阱全解析",
+      "summary": "01高阶智驾的核心功能边界高阶智驾与普通辅助驾驶的核心差异,在于系统能否在特定场景下实现“按路线帮你开一段”,而非仅“帮你稳住车”。普通智驾(L1-L2)主要提供自适应巡航、车道保持等基础功能,依赖单一摄像头,适用于高速等结构化道路110。而高阶智驾(L......",
       "source": "Smzdm",
-      "date": "2026-06-17",
-      "url": "https://post.smzdm.com/p/a6zqq6xo/"
+      "date": "2026-06-18",
+      "url": "https://post.smzdm.com/p/axkp0702/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781695146129064.html",
-      "title": "年销量冲击400万台,春风动力旗下极核8款新车亮相",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-17",
-      "url": "https://www.bjnews.com.cn/detail/1781695146129064.html"
+      "id": "https://post.smzdm.com/p/ak8249wk/",
+      "title": "蔚来ES8真实口碑:六座能装、开起来不笨,但智驾和车机有点玄",
+      "summary": "截至2026年6月,蔚来全新ES8已上市近一年,市场反馈趋于多元。从家庭用户到前BBA车主,不同背景的使用者对其评价既有高度认可,也指出若干细节问题。本文基于近期真实车主及媒体评测素材,围绕空间实用性、驾驶操控感、智能驾驶表现三大维度,结构化呈现各方观点......",
+      "source": "Smzdm",
+      "date": "2026-06-18",
+      "url": "https://post.smzdm.com/p/ak8249wk/"
+    },
+    {
+      "id": "https://www.mercurynews.com/2026/06/18/waymo-recalls-robotaxis-over-driving-through-freeway-work-zones/",
+      "title": "Waymo recalls robotaxis over driving through freeway work zones",
+      "summary": "Waymo is recalling thousands of its robotaxis to fix a software issue that could cause the autonomous vehicles to enter and drive at speed through freeway construction zones....",
+      "source": "The Mercury News",
+      "date": "2026-06-18",
+      "url": "https://www.mercurynews.com/2026/06/18/waymo-recalls-robotaxis-over-driving-through-freeway-work-zones/"
+    },
+    {
+      "id": "https://techbullion.com/the-future-of-connected-cars-and-autonomous-driving/",
+      "title": "The Future of Connected Cars and Autonomous Driving",
+      "summary": "The way people travel is shifting faster than ever before. Vehicles park themselves, talk to traffic lights, and minimize...",
+      "source": "TechBullion",
+      "date": "2026-06-18",
+      "url": "https://techbullion.com/the-future-of-connected-cars-and-autonomous-driving/"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/tech/technology/india-key-to-mercs-technology-stack-autonomous-driving-ambitions-tech-chief-burzer/articleshow/131808417.cms",
+      "title": "India key to Mercedes’ technology stack, autonomous",
+      "summary": "Mercedes-Benz is significantly leveraging its Indian R&D center in Bengaluru for its biggest software transformation to date, MB.OS, which will power future S-Class models and other vehicles. This pro...",
+      "source": "The Economic Times",
+      "date": "2026-06-18",
+      "url": "https://economictimes.indiatimes.com/tech/technology/india-key-to-mercs-technology-stack-autonomous-driving-ambitions-tech-chief-burzer/articleshow/131808417.cms"
     },
     {
       "id": "https://www.naturalnews.com/2026-06-17-chinese-ev-makers-shift-proprietary-chips-nvidia.html",
@@ -222,30 +238,6 @@
       "source": "Benzinga",
       "date": "2026-06-15",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap"
-    },
-    {
-      "id": "https://fortune.com/2026/06/13/waabi-ceo-raquel-urtasun-future-of-work-embrace-ai-first-gen-z-over-industry-experts-career-advice/",
-      "title": "The ‘AI superstar’ CEO behind a self-driving truck unicorn on why she's hiring Gen Z over industry vets",
-      "summary": "Raquel Urtasun, co-founder of autonomous truck startup Waabi, talks to Fortune about unicorn hiring in the AI age: “Fear can paralyze your ability to embrace that change.”...",
-      "source": "Fortune",
-      "date": "2026-06-13",
-      "url": "https://fortune.com/2026/06/13/waabi-ceo-raquel-urtasun-future-of-work-embrace-ai-first-gen-z-over-industry-experts-career-advice/"
-    },
-    {
-      "id": "https://www.cnbctv18.com/technology/spacex-humanoid-robots-autonomous-cars-starlink-ai-demand-gwynne-shotwell-ws-l-19924868.htm",
-      "title": "driving cars could unlock SpaceX's $28.5 trillion market opportunity: Gwynne Shotwell",
-      "summary": "SpaceX is betting that the rapid adoption of autonomous machines and AI-powered systems will drive unprecedented demand for computing power and global connectivity, positioning Starlink at the centre ...",
-      "source": "CNBC TV18",
-      "date": "2026-06-12",
-      "url": "https://www.cnbctv18.com/technology/spacex-humanoid-robots-autonomous-cars-starlink-ai-demand-gwynne-shotwell-ws-l-19924868.htm"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/tech/technology/baidu-postbus-get-regulatory-nod-for-robotaxi-service-in-eastern-switzerland/articleshow/131687368.cms",
-      "title": "Baidu, PostBus get regulatory nod for robotaxi service in eastern Switzerland",
-      "summary": "Baidu's self-driving service, AmiGo, has gained regulatory approval in Switzerland. This joint venture with PostBus plans to launch Europe's largest automated public transport operation. Fully driverl...",
-      "source": "The Economic Times",
-      "date": "2026-06-12",
-      "url": "https://economictimes.indiatimes.com/tech/technology/baidu-postbus-get-regulatory-nod-for-robotaxi-service-in-eastern-switzerland/articleshow/131687368.cms"
     }
   ]
 }
