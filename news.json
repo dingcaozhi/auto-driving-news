@@ -1,17 +1,19 @@
 {
-  "lastUpdated": "2026-06-19 05:07:13",
-  "totalCount": 27,
+  "lastUpdated": "2026-06-20 04:19:42",
+  "totalCount": 36,
   "sources": {
-    "Eeo": 2,
+    "Bilibili": 5,
+    "Ithome": 6,
     "Prnasia": 1,
-    "Ithome": 3,
-    "Jiemian": 3,
-    "Cri_Cn": 1,
-    "Bjnews": 1,
-    "Chinanews": 1,
-    "Orientaldaily": 2,
+    "Smzdm": 4,
+    "News_Seehua": 1,
     "Fx168News": 1,
-    "Smzdm": 2,
+    "Bjnews": 3,
+    "Orientaldaily": 1,
+    "Zaobao": 2,
+    "Chinanews": 1,
+    "Chinesenzherald": 1,
+    "South China Morning Post": 1,
     "The Mercury News": 1,
     "TechBullion": 1,
     "The Economic Times": 1,
@@ -19,145 +21,224 @@
     "Times Now": 1,
     "TNW": 1,
     "MarketScreener": 2,
-    "The Manila Times": 1,
-    "Benzinga": 1
+    "The Manila Times": 1
   },
   "news": [
     {
-      "id": "http://www.eeo.com.cn/2026/0618/920767.shtml",
-      "title": "跨国公司在中国市场进化",
-      "summary": "二十年前,在全球产业大迁徙中,中国最初凭借原料、人工等要素成本低廉的优势一跃而起,逐渐获得了“世界工厂”的地位。如今跨国公司在华布局早已跳出加工制造的单一维度,转向区域总部、研发实验室、创新策源地等高阶布局,创新协同成为合作主流。...",
-      "source": "Eeo",
-      "date": "2026-06-18",
-      "url": "http://www.eeo.com.cn/2026/0618/920767.shtml"
+      "id": "https://www.bilibili.com/video/BV1gJj666EHG",
+      "title": "【B站】L3/L4自动驾驶国家强标一年生效，几家欢乐愁",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-20",
+      "url": "https://www.bilibili.com/video/BV1gJj666EHG"
     },
     {
-      "id": "https://www.prnasia.com/story/537822-1.shtml",
-      "title": "迄今行驶速度最快的乐高®跑车:真车等比例乐高®机械组科尼赛克Sadair's Spear超跑在古德伍德速度节创下111公里/小时速度纪录",
-      "summary": "一辆可驾驶、与真车等比例的乐高 ® 机械组科尼赛克Sadair's Spear创下速度纪录,成为迄今为止最快的乐高机械组大型拼搭跑车,最高时速达到111公里/小时,是此前50公里/小时纪录的两倍以上。 此次挑战旨在庆祝全新乐高机械组科尼赛克Sadair's Spear超跑套装的发布,该产品将于今年7月正式上市。 由科尼赛克测试车手Markus Lundh驾驶,此次创举致敬Sadair's Spea...",
+      "id": "https://www.bilibili.com/video/BV1Tfji64EYp",
+      "title": "【B站】华为+港中文偷偷搞了个&quot;世界引擎&quot;？碰撞率狂降45.5%，200公里零接管！自动驾驶的&quot;DeepSeek-R1时刻&quot;来了？",
+      "summary": "🔥 一句话总结：华为联合港中文提出World Engine，把大模型&quot;后训练&quot;思路搬到自动驾驶，用合成危险场景+强化学习给智驾&quot;补课&quot;，罕见场景碰撞率最高降45.5%，200公里真实路测零接管！\n📄 论文：《World Engine: Towards the ...",
+      "source": "Bilibili",
+      "date": "2026-06-20",
+      "url": "https://www.bilibili.com/video/BV1Tfji64EYp"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-06-20",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-06-20",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1aT411H7ug",
+      "title": "【B站】自动驾驶测试 入门课程",
+      "summary": "自动驾驶测试 入门课程...",
+      "source": "Bilibili",
+      "date": "2026-06-20",
+      "url": "https://www.bilibili.com/video/BV1aT411H7ug"
+    },
+    {
+      "id": "https://www.ithome.com/0/966/437.htm",
+      "title": "涉嫌夸大初代车型自动驾驶能力,美国造车新势力 Rivian 遭车主集体起诉",
+      "summary": "IT之家 6 月 19 日消息,据外媒 TechCrunch 今天(19 日)报道,美国造车新势力 Rivian 因涉嫌夸大初代 R1T 皮卡和 R1S SUV 的自动驾驶能力,遭到消费者集体起诉。 当地时间周三,诉讼提交至美国加州中区联邦地区法院。原告指控 Rivian 曾向消费者宣称,第一代 R1T 和 R1S 最终将支持 脱手脱眼 的驾驶功能。 按照美国汽车工程师学会(SAE)的分级,在高速...",
+      "source": "Ithome",
+      "date": "2026-06-19",
+      "url": "https://www.ithome.com/0/966/437.htm"
+    },
+    {
+      "id": "https://www.prnasia.com/story/537887-1.shtml",
+      "title": "DORITOS LOADED发布全新高能广告,由主厨GORDON RAMSAY与MERCEDES-AMG PETRONAS F1车队车手GEORGE RUSSELL联袂出演",
+      "summary": "Doritos Loaded全新广告 将烹饪创意与Formula 1®赛车的刺激感融为一体,打造出一场震撼的虚构特技大戏 Doritos Loaded推出全新全球广告大片,由主厨Gordon Ramsay与 Mercedes-AMG PETRONAS F1车队车手George Russell联袂出演。 此次宣传活动基于Doritos与Mercedes-AMG PETRONAS F1车队及Formu...",
       "source": "Prnasia",
-      "date": "2026-06-18",
-      "url": "https://www.prnasia.com/story/537822-1.shtml"
+      "date": "2026-06-19",
+      "url": "https://www.prnasia.com/story/537887-1.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/966/272.htm",
-      "title": "我国首部 L3/L4 自动驾驶强制性国标公示:2027 年 7 月起正式实施,车企靠模糊宣传抢市场的阶段结束",
-      "summary": "IT之家 6 月 18 日消息,工信部 6 月 16 日就《智能网联汽车自动驾驶系统安全要求》等 2 项强制性国家标准(报批稿)、《车载事故紧急呼叫系统》强制性国家标准外文版(报批稿)公开征求意见。 该标准报批稿及编制说明于 2026 年 6 月 17 日至 24 日公示,面向社会各界征求意见,建议实施日期为 2027 年 7 月 1 日。IT之家附工信部官网地址: https://www.mii...",
+      "id": "https://post.smzdm.com/p/arz2p0wg/",
+      "title": "特斯拉FSD V14.3上线:端到端重构,反应快20%,离完全自动驾驶又近一步",
+      "summary": "05月21日特斯拉官方宣布监督版FSD登陆中国、美国、加拿大、韩国、荷兰、澳大利亚等多个国家 05月07日重庆市经济和信息化委员会联合市公安局、市交通运输委正式印发《重庆市智能网联汽车高速公路测试管理细则(试行)》,自发布日起施行 04月08日特斯拉正式......",
+      "source": "Smzdm",
+      "date": "2026-06-19",
+      "url": "https://post.smzdm.com/p/arz2p0wg/"
+    },
+    {
+      "id": "https://news.seehua.com/post/1501314",
+      "title": "2虎鲸被渔网缠死 纽西兰部长:这种事时有发生",
+      "summary": "(惠灵顿19日讯)一位纽西兰部长为两头虎鲸在商业捕鱼事故中丧生的渔民辩护,称“这种事时有发生”,而环保人士则谴 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-19",
+      "url": "https://news.seehua.com/post/1501314"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03606d0/",
+      "title": "Waymo无人车涉水被冲走:看得见水,却不懂危险?",
+      "summary": "01召回背景与触发原因2026年5月,Waymo向美国国家公路交通安全管理局(NHTSA)提交自愿软件召回申请,涉及3791辆搭载第五代和第六代自动驾驶系统(ADS)的Robotaxi。此次召回直接源于2026年4月20日发生在德克萨斯州圣安东尼奥的一起......",
+      "source": "Smzdm",
+      "date": "2026-06-19",
+      "url": "https://post.smzdm.com/p/a03606d0/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgqrqw4/",
+      "title": "Waymo高速施工区识别失灵?这样叫车更安全",
+      "summary": "约3871台Waymo自动驾驶出租车因软件缺陷被召回,但服务并未全面中断。此次召回源于系统无法准确识别高速公路施工区域,导致车辆可能驶入封闭路段并保持高速行驶,存在碰撞风险。目前受影响车辆主要集中在搭载第五代自动驾驶系统的批次,运营范围已临时限制在城市普......",
+      "source": "Smzdm",
+      "date": "2026-06-19",
+      "url": "https://post.smzdm.com/p/avgqrqw4/"
+    },
+    {
+      "id": "https://www.ithome.com/0/966/381.htm",
+      "title": "广东:加快形成联通港澳的低空跨境物流网络",
+      "summary": "IT之家 6 月 19 日消息,广东省人民政府 19 日(今天)印发《广东省推进服务业扩能提质实施方案》提出,发挥龙头网络货运平台优势,支持全国性、全球性道路运输企业在粤布局经营,推动传统公路货运企业向仓储管理、流通加工、订单管理、供应链服务等增值服务延伸,发展网络货运等高效集约运输业务。加强与全球知名航空、航运物流企业对接合作,积极拓展国际航线网络,支持大型物流企业建设前置货站、研究布局海外仓,...",
       "source": "Ithome",
-      "date": "2026-06-18",
-      "url": "https://www.ithome.com/0/966/272.htm"
+      "date": "2026-06-19",
+      "url": "https://www.ithome.com/0/966/381.htm"
     },
     {
-      "id": "https://www.jiemian.com/article/14614342.html",
-      "title": "引金融“活水”精准滴灌科创沃土,上海全生命周期科创金融服务集中发布",
-      "summary": "未来,上海将进一步做强科创金融服务体系、提升跨境投融资便利化水平、深化产融精准对接联动,以开放聚资源、以创新谋发展,持续深化科创金融领域务实合作。...",
-      "source": "Jiemian",
-      "date": "2026-06-18",
-      "url": "https://www.jiemian.com/article/14614342.html"
-    },
-    {
-      "id": "https://news.cri.cn/20260618/41472d6f-aebb-7a18-58ce-533fdb045496.html",
-      "title": "端午节假期如何确保出行安全?这份道路交通安全提示请收好↓-国际在线",
-      "summary": "央视网消息:端午节假期,群众旅游观赛、返乡探亲出行集中,农村地区务农务工集体出行繁忙,南方强降雨、北方多阵雨,道路交通安全风险突出。公安部交通管理局结合近年来端午节假期交通事故规律特点,对今年端午节假期交通安全形势进行了分析研判,并发出...",
-      "source": "Cri_Cn",
-      "date": "2026-06-18",
-      "url": "https://news.cri.cn/20260618/41472d6f-aebb-7a18-58ce-533fdb045496.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/966/266.htm",
-      "title": "知情人士回应“华为乾崑智驾 ADS 高阶功能包优惠将收窄”:属实",
-      "summary": "IT之家 6 月 18 日消息,近日有消息称,自 2026 年 7 月 1 日起,华为乾崑智驾 ADS 高阶功能包 优惠或将收窄 ,叠加车企新车购车补贴权益等后一次性买断价格或上涨 3000 元。 每经网援引知情人士的话说, 该消息属实 。一位鸿蒙智行销售人员表示:“目前来说,华为乾崑智驾 ADS 高阶功能包优惠收窄的可能性很大,因为去年的 ADS 乾崑智能驾驶系统 3.2 万元价格的 截止时间是...",
+      "id": "https://www.ithome.com/0/966/379.htm",
+      "title": "消息称 Momenta 估值冲至 90 亿美元,赴港 IPO 剑指 10 亿美元募资",
+      "summary": "IT之家 6 月 19 日消息,据《华尔街日报》援引知情人士消息称,中国自动驾驶公司 Momenta 估值已达到约 90 亿美元(IT之家注:现汇率约合 610.52 亿元人民币),正准备赴港上市,计划 通过 IPO 募资约 10 亿美元(现汇率约合 67.84 亿元人民币) 。 Momenta 将自身定位为 自动驾驶汽车的“大脑” ,主要向车企提供驾驶辅助解决方案。中国证监会 18 日公布了一份...",
       "source": "Ithome",
-      "date": "2026-06-18",
-      "url": "https://www.ithome.com/0/966/266.htm"
+      "date": "2026-06-19",
+      "url": "https://www.ithome.com/0/966/379.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1781768537129695.html",
-      "title": "14个月10万台,东风日产打了合资转型最硬的一场仗",
+      "id": "https://www.fx168news.com/article/1046262",
+      "title": "Bitget 报告:54% 的 Web3 有志从业者无法获得第一份工作-FX168",
+      "summary": "塞舌尔维多利亚, June 19, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 发布了其《Web3 下一代人才情报报告》 (Web3 Next-Gen Talent Intelligence Report),发现招聘壁垒而非人才匮乏,是该行业面临的最大劳动力挑战之一 。该研究在 Bitget 的 Blockchain4Youth (B4Y) 倡...",
+      "source": "Fx168News",
+      "date": "2026-06-19",
+      "url": "https://www.fx168news.com/article/1046262"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1781855818129376.html",
+      "title": "福建龙岩:红旗飘扬地焕发新容颜",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-18",
-      "url": "https://www.bjnews.com.cn/detail/1781768537129695.html"
+      "date": "2026-06-19",
+      "url": "https://www.bjnews.com.cn/detail/1781855818129376.html"
     },
     {
-      "id": "https://www.jiemian.com/article/14606574.html",
-      "title": "中国失速把宝马利润率拖回历史危机时期",
-      "summary": "受中国市场影响,宝马汽车业务息税前利润率预期从4%至6%大幅调低至1%至3%。在宝马可比的近二十年数据中,这一指标只在新冠疫情和金融危机时期出现过。...",
-      "source": "Jiemian",
-      "date": "2026-06-18",
-      "url": "https://www.jiemian.com/article/14606574.html"
+      "id": "https://www.bjnews.com.cn/detail/1781863218168807.html",
+      "title": "东四环深夜突发车祸两人被困,朝阳三位民警路过立即生死营救",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-19",
+      "url": "https://www.bjnews.com.cn/detail/1781863218168807.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-18/10643541.shtml",
-      "title": "端午节假期如何确保出行安全?这份道路交通安全提示请收好↓",
-      "summary": "央视网消息:端午节假期,群众旅游观赛、返乡探亲出行集中,农村地区务农务工集体出行繁忙,南方强降雨、北方多阵雨,道路交通安全风险突出。公安部交通管理局结合近年来端午节假期交通事故规律特点,对今年端午节假期交通安全形势进行了分析研判,并发出交通安全提示。...",
-      "source": "Chinanews",
-      "date": "2026-06-18",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-18/10643541.shtml"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14615156.html",
-      "title": "从跨境金融提质增效到离岸金融创新突破,上海国际金融中心建设新使命",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-06-18",
-      "url": "https://www.jiemian.com/article/14615156.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/966/268.htm",
-      "title": "宝马停产三款国产纯电车型?为下半年新世代车型上市让路",
-      "summary": "IT之家 6 月 18 日消息,针对网络流传的“宝马将于 7 月起全面停产国产纯电车型”的消息,一位接近宝马的知情人士向《每日经济新闻》,表示,此次调整是宝马根据市场需求动态变化对产品生产节奏进行的常规调整,以及对产品生命周期管理的综合考量。 据介绍,上述车型的生产调整属于正常的 EOP(End of Production)流程,核心目的是切换产线、集中产能资源,为国产新世代车型的上市做准备。 宝...",
+      "id": "https://www.ithome.com/0/966/410.htm",
+      "title": "奕境 X9 亮相香港车展并启动右舵版本开发,东风宣布五年推 55 款专属海外车型",
+      "summary": "IT之家 6 月 19 日消息,2026 国际汽车及供应链博览会(香港)昨日在香港亚洲国际博览馆揭幕。本届车博会以“驭电出海港通全球”为主题,汇聚了众多内地整车企业、供应链龙头及科技创新力量。 东风汽车集团副总经理尤峥在展会现场发表主题演讲,正式发布了东风“天际扬帆”全球化战略。他表示,香港是联通内地与全球的国际化战略枢纽,是链接资本、市场与全球汽车产业的核心平台,东风将以香港为支点,加速全球右舵...",
       "source": "Ithome",
-      "date": "2026-06-18",
-      "url": "https://www.ithome.com/0/966/268.htm"
+      "date": "2026-06-19",
+      "url": "https://www.ithome.com/0/966/410.htm"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/06/18/826819",
-      "title": "疑超车不遂酿5车连环车祸 19岁女骑士魂断公路",
-      "summary": "(新山18日讯)依斯干达公主城发生严重5车夺命连环车祸,导致一名19岁摩哆女骑士不幸魂断公路。依斯干达公主城警区主任古玛拉山今日发表文告证实,这起夺命车祸是今日上午约8时30分,在新山至笨珍路(Jalan Johor Bahru - Pontian)第33公里处发生。他透露,警方初步调查显示,事发时,现年19岁的本地女受害者正驾驶著一辆摩哆,并试图超越前方一辆本田思域(Honda Civic)轿车...",
+      "id": "https://www.orientaldaily.com.my/news/nation/2026/06/19/827050",
+      "title": "扎希司机和媒体官深夜遇3车连环撞 7人均受轻伤",
+      "summary": "(关丹19日讯)今日凌晨,东海岸大道第144.2公里处、靠近马兰路段发生一起3车连环相撞事故,包括副首相拿督斯里阿末扎希的一名司机及3名媒体官员在内的7人,均受轻伤。马兰警区主任黄健威发文告证实,初步调查显示,事故发生于凌晨1时左右,当时一辆福田罗里疑突然变道至右侧车道,导致一辆正前往吉隆坡的丰田Fortuner轿车无法及时闪避,撞上该罗里的右侧车身。“后面一辆Hicom罗里试图避让,但打滑后撞上...",
       "source": "Orientaldaily",
-      "date": "2026-06-18",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/06/18/826819"
+      "date": "2026-06-19",
+      "url": "https://www.orientaldaily.com.my/news/nation/2026/06/19/827050"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0618/920732.shtml",
-      "title": "山推股份发布全球战略:2035年将实现营收500亿元",
-      "summary": "当下,中国经济发展正由投资拉动转向消费拉动,同时亚太、中东、非洲、拉美等海外市场却掀起了一股基建潮。为抢抓全球市场机遇,中国工程机械行业正兴起一股出海热。 2026年6月17日至18日,中国最大推土机制造商——山推工程机械股份有限公司(下称“山推股份”,000680.SZ)首次举办了全球客户节,发布了未来短期、中期和长期的全球战略,以及引领产业变革的三大趋势。...",
-      "source": "Eeo",
-      "date": "2026-06-18",
-      "url": "http://www.eeo.com.cn/2026/0618/920732.shtml"
+      "id": "https://www.bjnews.com.cn/detail/1781854126169428.html",
+      "title": "端午前,北京警方对56处公园景区200个地质灾害点开展排查",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-19",
+      "url": "https://www.bjnews.com.cn/detail/1781854126169428.html"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/north/2026/06/18/826812",
-      "title": "车主已离世仍上路行驶 罗兴亚男子还无照驾驶",
-      "summary": "(亚罗士打18日讯)一辆相信属于已故人士遗产的轿车,疑在未完成合法转名程序下流入外籍人士手中,最终在陆路交通局(JPJ)执法行动中被查获,而涉案罗兴亚男子也因无法出示合法驾驶执照,车辆更被揭发长期没有保险及路税逾3年未更新,当场遭执法人员扣押。事件于是在莪崙瓜尼那斯路(Jalan Guar Nenas–Gurun)第2公里处展开的“PeWA行动”中被揭发。陆路交通局发表文告时指出,执法人员截查一辆...",
-      "source": "Orientaldaily",
-      "date": "2026-06-18",
-      "url": "https://www.orientaldaily.com.my/news/north/2026/06/18/826812"
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260619-9232411",
+      "title": "【茶水间三问】捡榴梿、ERP 2、印度考题外泄",
+      "summary": "NewsData报道",
+      "source": "Zaobao",
+      "date": "2026-06-19",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260619-9232411"
     },
     {
-      "id": "https://www.fx168news.com/article/1046119",
-      "title": "美股今夜看点 | 半导体股盘前集体狂飙!美光目标价飙至1300美元,三大股指期货齐涨纳指领涨1.58%-FX168",
-      "summary": "1. 6月18日(周四)美股盘前,美股三大股指期货齐涨。截至发稿,道指期货涨0.36%,标普期货涨0.85%,纳指期货涨1.58%。2. 截至发稿,欧洲股市主要指数涨跌互现。欧洲斯托克50指数涨0.22%,英国富时100指数跌0.93%,法国CAC40指数涨0.02%,德国DAX30指数涨0.15%。3. 截至发稿,WTI原油跌2.03%,报74.47美元/桶。布伦特原油跌1.31%,报78.19...",
-      "source": "Fx168News",
-      "date": "2026-06-18",
-      "url": "https://www.fx168news.com/article/1046119"
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260619-9233307",
+      "title": "酒后开车遇路障找好友顶包 男子妨碍司法公正监14周",
+      "summary": "男子酒后开车遇交警设路障,在远处停车后向上前的警员谎称是友人开车,自己是在等代驾,结果被判坐牢14周。...",
+      "source": "Zaobao",
+      "date": "2026-06-19",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260619-9233307"
     },
     {
-      "id": "https://post.smzdm.com/p/axkp0702/",
-      "title": "高阶智驾真能“放手开”?激光雷达线数、算力和OTA陷阱全解析",
-      "summary": "01高阶智驾的核心功能边界高阶智驾与普通辅助驾驶的核心差异,在于系统能否在特定场景下实现“按路线帮你开一段”,而非仅“帮你稳住车”。普通智驾(L1-L2)主要提供自适应巡航、车道保持等基础功能,依赖单一摄像头,适用于高速等结构化道路110。而高阶智驾(L......",
+      "id": "https://www.chinanews.com.cn/cj/2026/06-19/10643980.shtml",
+      "title": "皖北田间“黑科技”:一颗大豆的“数字之旅”",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-06-19",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-19/10643980.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/966/352.htm",
+      "title": "哈弗全新旗舰方盒子 SUV 来了:长城 H10 官宣 6 月 25 日正式亮相",
+      "summary": "IT之家 6 月 19 日消息,长城汽车董事长魏建军 19 日(今天)通过微博透露,6 月 25 日将举办长城 H10 造型美学直播,届时长城 H10 实车将正式亮相。 新车也是归元平台首款方盒子车型,采用“方鼎美学”设计语言,搭载 Coffee Pilot 3 高阶智驾辅助系统,动力方面搭载 2.0T+4 档 DHT Hi4 混动架构 。 长城 H10 提供五座和六座两个版本 ,车身尺寸方面也存...",
+      "source": "Ithome",
+      "date": "2026-06-19",
+      "url": "https://www.ithome.com/0/966/352.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a0367wn0/",
+      "title": "25万纯电SUV三强对决:问界满配杀疯,Model Y靠品牌硬撑,Cavira能打吗?",
+      "summary": "截至2026年6月,25万至30万元价格区间的纯电中型SUV市场已形成多强对峙格局。特斯拉Model Y作为长期标杆,面临来自华为鸿蒙智行问界M6纯电版和富士康旗下Foxtron Cavira的双重挑战。三款车型在动力系统、智能驾驶、续航表现及空间配置上......",
       "source": "Smzdm",
-      "date": "2026-06-18",
-      "url": "https://post.smzdm.com/p/axkp0702/"
+      "date": "2026-06-19",
+      "url": "https://post.smzdm.com/p/a0367wn0/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8249wk/",
-      "title": "蔚来ES8真实口碑:六座能装、开起来不笨,但智驾和车机有点玄",
-      "summary": "截至2026年6月,蔚来全新ES8已上市近一年,市场反馈趋于多元。从家庭用户到前BBA车主,不同背景的使用者对其评价既有高度认可,也指出若干细节问题。本文基于近期真实车主及媒体评测素材,围绕空间实用性、驾驶操控感、智能驾驶表现三大维度,结构化呈现各方观点......",
-      "source": "Smzdm",
-      "date": "2026-06-18",
-      "url": "https://post.smzdm.com/p/ak8249wk/"
+      "id": "https://www.ithome.com/0/966/327.htm",
+      "title": "宝马新世代 i3 纯电轿车欧洲开放订购,6.59 万欧元起",
+      "summary": "IT之家 6 月 19 日消息,宝马集团 6 月 18 日宣布,即日起提前向欧洲客户开放下订其首发版车型 —— 新世代 i3 50 xDrive First Edition,以德国市场为例,起售价 75340 欧元(IT之家注:现汇率约合 58.6 万元人民币)。宝马还同时公布其基础版车型 —— 新世代 i3 50 xDrive 的起售价为 65900 欧元(现汇率约合 51.2 万元人民币)。 ...",
+      "source": "Ithome",
+      "date": "2026-06-19",
+      "url": "https://www.ithome.com/0/966/327.htm"
+    },
+    {
+      "id": "https://www.chineseherald.co.nz/news/lifestyle/new-vehicle-sales-may/",
+      "title": "这一传统车型继续主导新西兰车市!电动车热潮下地位依旧稳固!",
+      "summary": "新西兰中文先驱网 居安 综合报道 受燃油价格高企以及未来用车成本不确定性的影响,新西兰消费者的购车偏好正在发生变化。 5月,纯电动车和插电式混合动力车在乘用车市场中的占比进一步上升,连同普通混合动力车型计算,电动化车型已经占当月新车注册量的一半以上。 不过,从具体车型销量来看,传统燃油皮卡依然占据市场主导地位。福特Ranger和丰田Hilux继续稳居5月新车销量榜前两位,显示新西兰汽车市场正在呈现...",
+      "source": "Chinesenzherald",
+      "date": "2026-06-19",
+      "url": "https://www.chineseherald.co.nz/news/lifestyle/new-vehicle-sales-may/"
+    },
+    {
+      "id": "https://www.scmp.com/business/china-business/article/3357638/momenta-moves-closer-hong-kong-ipo-after-us-listing-setback",
+      "title": "Momenta moves closer to Hong Kong IPO after US listing setback",
+      "summary": "Autonomous-driving start-up seeks to issue up to 43.75 million shares after an earlier US IPO approval expired....",
+      "source": "South China Morning Post",
+      "date": "2026-06-19",
+      "url": "https://www.scmp.com/business/china-business/article/3357638/momenta-moves-closer-hong-kong-ipo-after-us-listing-setback"
     },
     {
       "id": "https://www.mercurynews.com/2026/06/18/waymo-recalls-robotaxis-over-driving-through-freeway-work-zones/",
@@ -182,62 +263,6 @@
       "source": "The Economic Times",
       "date": "2026-06-18",
       "url": "https://economictimes.indiatimes.com/tech/technology/india-key-to-mercs-technology-stack-autonomous-driving-ambitions-tech-chief-burzer/articleshow/131808417.cms"
-    },
-    {
-      "id": "https://www.naturalnews.com/2026-06-17-chinese-ev-makers-shift-proprietary-chips-nvidia.html",
-      "title": "Chinese EV Makers Shift to Proprietary Chips, Reducing Reliance on Nvidia",
-      "summary": "Four of China’s largest electric vehicle makers have unveiled custom chips for autonomous driving in the past year, according to corporate announcements and industry reports. The chips are designed to...",
-      "source": "Natural News",
-      "date": "2026-06-17",
-      "url": "https://www.naturalnews.com/2026-06-17-chinese-ev-makers-shift-proprietary-chips-nvidia.html"
-    },
-    {
-      "id": "https://www.timesnownews.com/business-economy/companies/rivian-layoffs-why-company-is-cutting-jobs-despite-aggressive-growth-plans-article-154656611",
-      "title": "Rivian Layoffs: Why EV Maker Is Cutting Jobs Despite Aggressive Growth Plans",
-      "summary": "Rivian Layoffs: Rivian is trimming less than 2 per cent of its workforce as it ramps up R2 SUV production and increases investment in autonomous driving technology., Companies, Times Now...",
-      "source": "Times Now",
-      "date": "2026-06-17",
-      "url": "https://www.timesnownews.com/business-economy/companies/rivian-layoffs-why-company-is-cutting-jobs-despite-aggressive-growth-plans-article-154656611"
-    },
-    {
-      "id": "https://thenextweb.com/news/chinas-biggest-carmakers-are-designing-their-own-driving-chips-and-nvidia-should-be-worried",
-      "title": "China's EV giants design own driving chips to cut Nvidia out",
-      "summary": "Li Auto, BYD, Nio, and Xpeng have all built custom autonomous driving silicon. Nvidia's dominance in China's largest auto market is under threat....",
-      "source": "TNW",
-      "date": "2026-06-16",
-      "url": "https://thenextweb.com/news/chinas-biggest-carmakers-are-designing-their-own-driving-chips-and-nvidia-should-be-worried"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/mobileye-looks-to-launch-u-s-robotaxi-business-in-u-s-next-year-ce7f5cdfdd8df520",
-      "title": "Mobileye Looks to Launch U.S. Robotaxi Business in U.S. Next Year",
-      "summary": "By Robb M. Stewart\nIntel's Mobileye autonomous driving arm aims to launch a robotaxi business in the U.S. next year.\nMobileye said Tuesday it plans to expand its activities beyond supplying......",
-      "source": "MarketScreener",
-      "date": "2026-06-16",
-      "url": "https://www.marketscreener.com/news/mobileye-looks-to-launch-u-s-robotaxi-business-in-u-s-next-year-ce7f5cdfdd8df520"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/mobileye-plans-to-set-up-vertically-integrated-robotaxi-business-shares-up-pre-bell-ce7f5cdfda81f22d",
-      "title": "Mobileye Plans to Set Up Vertically Integrated Robotaxi Business; Shares Up Pre-Bell",
-      "summary": "Mobileye Global plans full ownership of an autonomous ride-hailing business, expanding its robotaxi activities beyond supplying self-driving technology, the company said Tuesday.\nMobileye plans to......",
-      "source": "MarketScreener",
-      "date": "2026-06-16",
-      "url": "https://www.marketscreener.com/news/mobileye-plans-to-set-up-vertically-integrated-robotaxi-business-shares-up-pre-bell-ce7f5cdfda81f22d"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/06/15/tmt-newswire/globenewswire/roadzen-subsidiary-drivebuddyai-granted-patent-for-real-time-lane-detection-system-demonstrates-technology-at-incabin-detroit-2026/2365768",
-      "title": "Roadzen Subsidiary drivebuddyAI Granted Patent for Real-Time Lane Detection System; Demonstrates Technology at InCabin Detroit 2026",
-      "summary": "Patent advances ADAS precision and lays groundwork for next-generation autonomous driving systems; company showcases compliance-ready driver monitoring at Detroit's premier in-cabin innovation forum...",
-      "source": "The Manila Times",
-      "date": "2026-06-15",
-      "url": "https://www.manilatimes.net/2026/06/15/tmt-newswire/globenewswire/roadzen-subsidiary-drivebuddyai-granted-patent-for-real-time-lane-detection-system-demonstrates-technology-at-incabin-detroit-2026/2365768"
-    },
-    {
-      "id": "https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap",
-      "title": "Rivian Shares Advance As CEO Outlines Aggressive Autonomous-Driving Roadmap",
-      "summary": "Rivian Automotive shares are up in Monday's premarket on CEO autonomy commentary and risk-on tone with S&P 500 futures up over 1%....",
-      "source": "Benzinga",
-      "date": "2026-06-15",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap"
     }
   ]
 }
