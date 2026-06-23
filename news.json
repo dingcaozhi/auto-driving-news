@@ -1,218 +1,185 @@
 {
-  "lastUpdated": "2026-06-22 05:12:20",
-  "totalCount": 33,
+  "lastUpdated": "2026-06-23 04:09:23",
+  "totalCount": 25,
   "sources": {
-    "Bilibili": 4,
-    "Hypebeast_Cn": 1,
-    "Fx168News": 6,
-    "Smzdm": 4,
-    "Ithome": 5,
-    "Cnblogs": 1,
     "Cri_Cn": 1,
+    "Ithome": 4,
+    "Zaobao": 2,
+    "Investing_Cn": 4,
     "Orientaldaily": 1,
-    "News_Seehua": 1,
+    "Jiemian": 1,
+    "Rfi_Fr": 1,
+    "Chinanews": 1,
+    "Bjnews": 1,
+    "TechStartups.com": 1,
+    "The Manila Times": 2,
+    "Moneycontrol": 1,
     "The Star": 1,
     "Breitbart News Network": 1,
     "FOX 4 News": 1,
     "South China Morning Post": 1,
-    "The Mercury News": 1,
-    "TechBullion": 1,
-    "The Economic Times": 1,
-    "Natural News": 1,
-    "Times Now": 1
+    "The Mercury News": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1PD7w6ZEzN",
-      "title": "【B站】一镜到底 见证全球首个纽北自动驾驶圈速纪录诞生",
-      "summary": "10分29秒483，一镜到底，全程无剪辑。\n第一视角，感受全球首个纽北自动驾驶圈速纪录的诞生。\n这次，小米汽车探索了新边界，为纽北百年赛道带来新的故事。\n#小米YU7GT#...",
-      "source": "Bilibili",
-      "date": "2026-06-22",
-      "url": "https://www.bilibili.com/video/BV1PD7w6ZEzN"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1gJj666EHG",
-      "title": "【B站】L3/L4自动驾驶国家强标一年生效，几家欢乐愁",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-06-22",
-      "url": "https://www.bilibili.com/video/BV1gJj666EHG"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-06-22",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1H5jt6sEek",
-      "title": "【B站】十分钟蒸馏 《智能网联汽车自动驾驶系统安全要求》纯视觉方案彻底出局？但是确每家都能有L3车牌？为什么？2026以及2027如何买L3 L4自动驾驶汽车！",
-      "summary": "最新国标，没有对智能驾驶汽车有任何视觉或者激光雷达上的强制要求，L3可能会每家车企都获批，但是在场景，范围上存在天壤之别，买车务必要了解清楚，小心别买到高价低能车型！...",
-      "source": "Bilibili",
-      "date": "2026-06-22",
-      "url": "https://www.bilibili.com/video/BV1H5jt6sEek"
-    },
-    {
-      "id": "https://hypebeast.cn/2026/6/lego-technic-koenigsegg-sadairs-spear-megacar-release-info-42232",
-      "title": "LEGO Technic 与 Koenigsegg 推出 Sadair's Spear Megacar",
-      "summary": "LEGO Technic Koenigsegg Sadair’s Spear Megacar 是 LEGO Technic Ultimate Car Concept Series 系列的最新成员,亦按照品牌自订标准,成为此产品线至今技术含量最高的一套作品。这套由 4,104 块积木组成的模型,以 1:8 比例重现 Koenigsegg Sadair’s Spear,并首次在 Technic Ult...",
-      "source": "Hypebeast_Cn",
-      "date": "2026-06-21",
-      "url": "https://hypebeast.cn/2026/6/lego-technic-koenigsegg-sadairs-spear-megacar-release-info-42232"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1046440",
-      "title": "长安汽车:西南证券、华创证券等多家机构于6月18日调研我司-FX168",
-      "summary": "证券之星消息,2026年6月19日长安汽车(000625)发布公告称西南证券、华创证券、华宝信托、信泰人保、杭州遂玖资产、杭州鸿华投资、杭州黑皇资产于2026年6月18日调研我司。 具体内容如下:问:公司能否介绍一下“海纳百川”计划 2.0?答:自 2023年发布全球化“海纳百川”计划以来,中国长安汽车坚守“无海外、不长安”,2025年海外出口 63.7万辆,同比增长 18.9%,全球销售网络覆盖...",
-      "source": "Fx168News",
-      "date": "2026-06-21",
-      "url": "https://www.fx168news.com/article/1046440"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1046439",
-      "title": "华鑫证券:首次覆盖上海沿浦给予买入评级-FX168",
-      "summary": "华鑫证券有限责任公司林子健近期对上海沿浦进行研究并发布了研究报告《公司动态研究报告:汽车座椅骨架龙头厂商,整椅与机器人业务勾勒新成长空间》,首次覆盖上海沿浦给予买入评级。 上海沿浦(605128) 投资要点 汽车座椅龙头厂商,向整椅纵深拓展 国内汽车座椅骨架龙头企业,逐步拓展整椅与机器人业务。公司深耕座椅骨架行业十余载,赢得Tier1客户深度信赖。1999年,上海沿浦的前身上海沿浦金属制品厂成立,...",
-      "source": "Fx168News",
-      "date": "2026-06-21",
-      "url": "https://www.fx168news.com/article/1046439"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwpzv34/",
-      "title": "马自达6油耗保养全解析:省油还是混动更划算?",
-      "summary": "01真实油耗表现对比马自达6的真实油耗因排量、变速箱类型及驾驶环境差异显著。综合多份车主实测数据,2.0L车型在手动挡配置下百公里油耗稳定在8.1–8.6升;自动挡(5/6AT)则普遍处于9.2–10.1升区间。2.3L或2.5L高功率版本油耗更高,实测......",
-      "source": "Smzdm",
-      "date": "2026-06-21",
-      "url": "https://post.smzdm.com/p/awwpzv34/"
-    },
-    {
-      "id": "https://www.ithome.com/0/966/714.htm",
-      "title": "消息称华为乾崑智驾 ADS 5 即将推送,鸿蒙智行旗舰车型优先搭载",
-      "summary": "IT之家 6 月 21 日消息,博主 @爱叨叨的Steven 今日发文透露, 华为乾崑智驾 ADS 5 即将推送 。博主表示,鸿蒙智行的几款旗舰车型优先搭载。 据IT之家此前报道, 在 4 月 23 日晚,华为乾崑智驾 ADS 5 正式发布 。算法层面,华为发布了面向自动驾驶的 AI 智能体 WEWA 2.0 架构。该架构在云端引入 Multi-Agent 博弈技术与在线强化学习机制;在车端应用了...",
-      "source": "Ithome",
-      "date": "2026-06-21",
-      "url": "https://www.ithome.com/0/966/714.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/966/712.htm",
-      "title": "华为发布乾崑智驾主动避险视频,截至 5 月 31 日已达成 114.7 亿公里真实行车里程",
-      "summary": "IT之家 6 月 21 日消息,华为乾崑智能汽车解决方案官方微博昨日发布了最新乾崑智驾主动避险视频,并透露华为乾崑智驾数据: 截至 5 月 31 日,达成 114.7 亿公里用户真实行车里程 。 事实上,华为官网最新数据显示, 乾崑智驾累计辅助驾驶里程已突破 120 亿公里 ,正在向 121 亿公里迈进。搭载乾崑智驾车辆累计行驶总里程也来到了 354 亿公里。 在今年 5 月的鸿蒙智行问界 M9 ...",
-      "source": "Ithome",
-      "date": "2026-06-21",
-      "url": "https://www.ithome.com/0/966/712.htm"
-    },
-    {
-      "id": "https://www.cnblogs.com/wmyskxz/p/20683251",
-      "title": "Fable 5 被关停前 72 小时,到底做出了哪些不像 AI 能做的应用? - 我没有三颗心脏",
-      "summary": "Fable 5 被关停前 72 小时,到底做出了哪些不像 AI 能做的应用? 2026 年 6 月 9 日,Anthropic 放出了 Fable 5。 6 月 12 日,它被暂停访问。 中间只有 72 小时。 就这 72 小时,网上冒出一批很奇怪的东西。 比如只看游戏截图,通关了《Pokémon...",
-      "source": "Cnblogs",
-      "date": "2026-06-21",
-      "url": "https://www.cnblogs.com/wmyskxz/p/20683251"
-    },
-    {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1046430",
-      "title": "港股次新股跟踪周报(2026-06-18)-FX168",
-      "summary": "本周港股次新股仅四个交易日,市场分化显著。智谱周涨90.88%,股价突破2000港元,较116.20港元发行价累计涨幅升至1702%,单周日均成交额近70亿港元;兆易创新、希迪智驾、蓝思科技、澜起科技等AI及半导体相关个股涨幅亦居前。解禁方面,HASHKEY HLDGS于6月17日解禁15.22亿股...",
-      "source": "Fx168News",
-      "date": "2026-06-21",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1046430"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1046429",
-      "title": "假期资讯汇总:外资机构:越来越开放的中国市场 越来越有吸引力;多只科技牛股 下周将有限售股解禁-FX168",
-      "summary": "6月21日,周末发生哪些可能影响资本市场的大事?汇总如下:宏观方面工行、农行、中行、建行、交行集体宣布 落地离岸人民币外汇试点交易为推动外汇市场双向开放,促进在岸和离岸市场融合,日前,中国人民银行行长潘功胜在2026陆家嘴论坛上宣布,授权工行、农行、中...",
-      "source": "Fx168News",
-      "date": "2026-06-21",
-      "url": "https://www.fx168news.com/article/1046429"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1046428",
-      "title": "2026年下半年值得关注的美股机器人概念股-FX168",
-      "summary": "TradingKey - 2026年,人形机器人正从小批量订单向规模量产过渡,特斯拉(TSLA)Optimus进入产线改造阶段,英伟达(NVDA)联合宇树科技发布全球首款开放式人形机器人参考设计,商业落地的节奏比多数人预期的快。对于投资者而言,这是一个正在形成中的长期赛道。 人形机器人核心玩家 特斯拉是这个领域绕不开的标的。据Counterpoint Research报告,特斯拉正将电动车积累的技...",
-      "source": "Fx168News",
-      "date": "2026-06-21",
-      "url": "https://www.fx168news.com/article/1046428"
-    },
-    {
-      "id": "https://news.cri.cn/20260621/e9efc6c9-3740-7350-5d4e-3e03f06fa3bc.html",
-      "title": "牢记初心使命 奋进复兴征程丨福建龙岩:红旗飘扬地焕发新容颜-国际在线",
-      "summary": "新华社福州6月19日电 题:福建龙岩:红旗飘扬地焕发新容颜 新华社记者秦宏 5月上旬,位于福建省龙岩市新罗区的紫金龙净清洁能源有限公司厂区内,首批载重140吨的纯电矿卡“走下”生产线,驶向西藏巨龙铜矿。 得...",
+      "id": "https://news.cri.cn/20260622/b65fda09-8f98-9cde-b014-b8b237dce3ed.html",
+      "title": "列国鉴丨记者观察:在“美国粮仓”感受农民的烦恼-国际在线",
+      "summary": "新华社纽约6月22日电(记者杨士龙)春夏之交,新华社记者前往有“美国粮仓”之称的艾奥瓦州实地采访时观察到,历经美国发动贸易战、关税战以及伊朗战事后,美国中西部农场主的经营风险愈难自控,经济压力...",
       "source": "Cri_Cn",
-      "date": "2026-06-21",
-      "url": "https://news.cri.cn/20260621/e9efc6c9-3740-7350-5d4e-3e03f06fa3bc.html"
+      "date": "2026-06-22",
+      "url": "https://news.cri.cn/20260622/b65fda09-8f98-9cde-b014-b8b237dce3ed.html"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/06/21/827396",
-      "title": "关丹警方联合取缔交通违规行动 开近300罚单充公49辆摩哆",
-      "summary": "(关丹21日讯)警方昨晚在关丹中央车站附近进行综合行动,开出近300张罚单,查处各种交通违规。关丹警区主任阿沙里阿布沙马助理总监表示,警方从昨晚9点到今早8点30分,对373辆车进行检查,当中包括357辆摩哆,并据此开出罚单。他指出,主要违法行为包括车牌号码不符合规定、无驾驶证、无后视镜、改装排气管和车辆结构等。他今天发文告披露,其他违法行为包括未出示所需的实习驾驶证(P)或正式驾驶证、机动车驾驶...",
-      "source": "Orientaldaily",
-      "date": "2026-06-21",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/06/21/827396"
-    },
-    {
-      "id": "https://www.ithome.com/0/966/675.htm",
-      "title": "东风标致 508 停产后部分原厂配件断供,售后称恢复供应环节多难实现",
-      "summary": "IT之家 6 月 21 日消息,据澎湃新闻报道,来自广州的车主张先生表示,其名下一辆东风标致 508 轿车于 2025 年 1 月发生追尾事故后送去 4S 店维修,但因三个零部件供应商停供、厂家无法提供原厂配件,导致他的车辆至今未能合规修复。 IT之家查询获悉,东风标致 508 的生产厂家是神龙汽车有限公司,该公司由东风汽车集团有限公司与法国 PSA 集团各出资 50% 组建。 张先生表示,这款车...",
+      "id": "https://www.ithome.com/0/967/234.htm",
+      "title": "开辟新赛道:小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录,官方圈速榜新增“自动驾驶”分类",
+      "summary": "IT之家 6 月 22 日消息,小米汽车今日官宣, 小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录 ,时间为 10 分 29 秒 483。 小米创办人、董事长兼 CEO 雷军今日分享了小米 YU7 GT 使用自动驾驶功能征战纽北赛道后发生的一处细微变化 —— 纽北官方圈速榜新增“自动驾驶”分类 。 据IT之家今日早些时候报道,央视新闻今日发文谈及了小米此次取得的成绩,称从追赶到领跑,从跟跑到...",
       "source": "Ithome",
-      "date": "2026-06-21",
-      "url": "https://www.ithome.com/0/966/675.htm"
+      "date": "2026-06-22",
+      "url": "https://www.ithome.com/0/967/234.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1502088",
-      "title": "美里警方展开取缔行动 查20摩托开15张罚单",
-      "summary": "(美里21日讯)警方进行摩托取缔行动,检查20辆摩托车既开出15张罚单。 这项取缔行动于昨日进行至今日凌晨结束 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-21",
-      "url": "https://news.seehua.com/post/1502088"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1046423",
-      "title": "千亿芯片龙头,掉队了-FX168",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260622-9247116",
+      "title": "七名司机因非法跨境载客被逮 车辆遭扣押",
       "summary": "NewsData报道",
-      "source": "Fx168News",
-      "date": "2026-06-21",
-      "url": "https://www.fx168news.com/article/1046423"
+      "source": "Zaobao",
+      "date": "2026-06-22",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260622-9247116"
     },
     {
-      "id": "https://www.ithome.com/0/966/654.htm",
-      "title": "辅助驾驶≠自动驾驶:驾驶员开“智驾”转头拿饮料,不小心带偏方向盘直接撞护栏",
-      "summary": "IT之家 6 月 21 日消息,据贵阳交通广播分享,本月早些时候,福银高速江西南昌境内,一辆小车在行驶中忽然偏离车道撞上中央护栏, 幸无人员受伤 。 经查,驾驶人在开车时开启了车辆“智驾”功能,便没有全神留意观察路况,在转头伸手去拿饮料时, 不小心带偏方向盘 ,从而导致事故。 IT之家提醒: 辅助驾驶不等于自动驾驶 ,即使开启相关功能,驾驶员也绝不能放松警惕,驾驶人才是最终的责任主体, 开车时使用...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3427396",
+      "title": "英伟达(NVDA.US)力推人形机器人安全系统,欲破解人机协作“最后一道防线”",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-22",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3427396"
+    },
+    {
+      "id": "https://www.ithome.com/0/967/224.htm",
+      "title": "履新第一剑先“斩”老员工,美造车新势力 Lucid 宣布裁员 18%",
+      "summary": "IT之家 6 月 22 日消息,当地时间 22 日(今天),美国造车新势力 Lucid 宣布,在新任 CEO 西尔维奥 · 纳波利推进重组之际,将裁减 18% 的员工,约 1500 人受到影响。四个月前,Lucid 刚刚裁员 12%。亚利桑那州卡萨格兰德工厂的汽车第二班生产也已取消。 Lucid 表示,本轮裁员旨在配合纳波利所提出的 精简公司架构、提高执行效率,并增强长期竞争力 。 裁员之际,Lu...",
       "source": "Ithome",
-      "date": "2026-06-21",
-      "url": "https://www.ithome.com/0/966/654.htm"
+      "date": "2026-06-22",
+      "url": "https://www.ithome.com/0/967/224.htm"
     },
     {
-      "id": "https://www.ithome.com/0/966/732.htm",
-      "title": "鸿蒙智行享界 G9 路试车再曝:依旧辅助驾驶状态开测,尾灯“小蓝环”设计确认",
-      "summary": "IT之家 6 月 21 日消息,博主 @Nap阿占 今日分享了鸿蒙智行享界 G9 路试车谍照。画面显示,此次参与测试的路试车依旧开启了辅助驾驶功能。 博主另外一张更清晰的图片显示, 享界 G9 尾部的小蓝灯确认采用的是“小蓝环”设计 。 据IT之家此前报道, 享界 G9 将于第三季度发布 。余承东曾透露,享界 G9 标配了全域 800V 高压平台,全系四驱,首发搭载华为全新自研电机,具备强大的脱困...",
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3427208",
+      "title": "indie Semiconductor宣布董事会变动,青木一郎将退休",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-22",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3427208"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3427149",
+      "title": "德州特斯拉(TSLA.US)Model 3冲撞民宅致人死亡 自动辅助驾驶成调查焦点",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-22",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3427149"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/nation/2026/06/22/827668",
+      "title": "陆交局积极运用AI 落实更多数码化措施",
+      "summary": "(吉隆坡22日讯)交通部长陆兆福表示,陆交局目前积极运用人工智能工具分析驾驶人的驾驶行为,并持续推动“昌明安全驾驶奖励计划”(CERMAT MADANI),未来希望与保险业者合作,让驾驶纪录良好的司机享有更优惠的保险保障。他也透露,预计明日国会将开始辩论《1987年陆路交通法令》修正内容。有关修正案将促进更多数码化措施的落实,包括警方报案程序。“目前,我们计划允许民众透过电子方式报案(e-poli...",
+      "source": "Orientaldaily",
+      "date": "2026-06-22",
+      "url": "https://www.orientaldaily.com.my/news/nation/2026/06/22/827668"
+    },
+    {
+      "id": "https://www.ithome.com/0/967/189.htm",
+      "title": "小米胡峥楠谈 YU7 GT 自动驾驶征战纽北,称这才是想真正展示的综合能力",
+      "summary": "IT之家 6 月 22 日消息,小米汽车今日官宣, 小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录 ,时间为 10 分 29 秒 483。 IT之家注意到,小米集团副总裁、汽车部 CTO 胡峥楠今日发文,谈及了 YU7 GT 此次使用自动驾驶征战纽北: 其实这才是我们想真正展示的综合能力 。 小米入局汽车还是有梦想的,那就是: 1、 电能替代化学能 ,传统油车取得过的所有成绩,用电能都终将实...",
       "source": "Ithome",
-      "date": "2026-06-21",
-      "url": "https://www.ithome.com/0/966/732.htm"
+      "date": "2026-06-22",
+      "url": "https://www.ithome.com/0/967/189.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrpmv2p/",
-      "title": "问界智驾频现失控?车主投诉激增,新规明年落地划清责任边界",
-      "summary": "截至2026年6月,问界M7与M9车型在多个消费者投诉平台集中出现关于智能驾驶系统的安全争议。车主普遍反映,在开启华为ADS高阶智驾(如NCA领航辅助)后,车辆在变道、泊车、路口通行及紧急避让等场景中出现感知失效、决策激进或系统无响应等问题,部分案例已导......",
-      "source": "Smzdm",
-      "date": "2026-06-21",
-      "url": "https://post.smzdm.com/p/aqrpmv2p/"
+      "id": "https://www.jiemian.com/article/14582375.html",
+      "title": "降价也卖不动的合资燃油车开始主动撤出门店",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-06-22",
+      "url": "https://www.jiemian.com/article/14582375.html"
     },
     {
-      "id": "https://post.smzdm.com/p/avgqx0o4/",
-      "title": "2026款腾势D9智驾实测:全系标配天神之眼5.0,城市NOA真香还是噱头?",
-      "summary": "截至2026年6月,第二代腾势D9(2026款)已全面上市,其核心升级之一是全系标配“天神之眼5.0”高阶智能驾驶辅助系统。该系统在硬件配置、功能覆盖与实际体验层面较老款实现显著跃升,尤其在MPV细分市场中引发广泛关注。多源素材显示,新款D9不仅搭载激光......",
-      "source": "Smzdm",
-      "date": "2026-06-21",
-      "url": "https://post.smzdm.com/p/avgqx0o4/"
+      "id": "https://www.zaobao.com.sg/news/sea/story20260622-9247230",
+      "title": "马国陆交法提呈国会 逾700种违规罚款额增至500令吉",
+      "summary": "马来西亚政府为提高法律对交通违规者的震慑效果,星期一(6月22日)向国会下议院提呈2026年陆路交通法修正案一读。法案将超过700种交通违规行为的最高罚款额,从目前300令吉(约93新元)增至500令吉(约193新元)。...",
+      "source": "Zaobao",
+      "date": "2026-06-22",
+      "url": "https://www.zaobao.com.sg/news/sea/story20260622-9247230"
     },
     {
-      "id": "https://post.smzdm.com/p/arz2qmxq/",
-      "title": "15万买到30万体验?深蓝S07四大维度实测值不值",
-      "summary": "截至2026年6月下旬,深蓝S07已形成覆盖增程与纯电、搭载不同智能驾驶系统的完整产品矩阵。其核心卖点集中在长续航、华为乾崑智驾系统、越级舒适配置及底盘调校等方面。多个素材指出,该车型以15万级定价实现了30万级车型的部分体验,尤其在智能座舱芯片、零重力......",
-      "source": "Smzdm",
-      "date": "2026-06-21",
-      "url": "https://post.smzdm.com/p/arz2qmxq/"
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260622-%E6%B3%95%E5%9B%BD%E4%B8%8E%E9%98%BF%E8%81%94%E9%85%8B%E5%90%88%E4%BD%9C-%E9%A2%84%E8%AE%A1%E6%AF%8F%E5%B9%B4%E7%94%9F%E4%BA%A7%E6%95%B0%E5%8D%83%E6%9E%B6%E5%86%9B%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA",
+      "title": "法国与阿联酋合作 预计每年生产数千架军用无人机",
+      "summary": "法国生产“阵风”战斗机的达索公司本周开始在阿布扎比为阿联酋研制生产新型军用无人机,预计每年产量将达到数千架,也是履行两国在2021年签署的巨额军事合同。...",
+      "source": "Rfi_Fr",
+      "date": "2026-06-22",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260622-%E6%B3%95%E5%9B%BD%E4%B8%8E%E9%98%BF%E8%81%94%E9%85%8B%E5%90%88%E4%BD%9C-%E9%A2%84%E8%AE%A1%E6%AF%8F%E5%B9%B4%E7%94%9F%E4%BA%A7%E6%95%B0%E5%8D%83%E6%9E%B6%E5%86%9B%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3426852",
+      "title": "工大高科20cm涨停创历史新高,芯望投资2.37亿元受让股权,云锋基金现身背后",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-22",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3426852"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/06-22/10645184.shtml",
+      "title": "香港黄金劫案有“内鬼”!警方再抓6人,部分有黑社会背景,最小嫌犯只有16岁",
+      "summary": "香港国际机场18日凌晨发生一起黄金抢劫案,涉及6根金条,总值约700万港元。香港警方22日通报,除此前已被拘捕的4男3女外,警方于6月20日至22日再次展开行动,共拘捕5男1女,年龄介于16至25岁,部分拥有黑社会背景。其中有4人在案发后潜逃至内地,后被深圳警方拘捕并移交给香港警方。...",
+      "source": "Chinanews",
+      "date": "2026-06-22",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-22/10645184.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/967/229.htm",
+      "title": "华为乾崑|启境 GT7“新一代智能猎装”进入量产阶段,广汽集团公开新车核心亮点",
+      "summary": "IT之家 6 月 22 日消息,华为乾崑|启境汽车官方今日宣布,6 月 22 日,启境 GT7 首台量产车正式下线。官方同时宣布, 6 月 26 日,启境 GT7 将正式上市 。 广汽集团官方今日发文,详细介绍了华为乾崑|启境 GT7 的核心亮点。该车定位“新一代智能猎装”,兼顾优雅设计、极致驾控与全场景实用性, 预售价 21.99 万元-30.99 万元 。 启境 GT7 还搭载新一代华为乾崑 ...",
+      "source": "Ithome",
+      "date": "2026-06-22",
+      "url": "https://www.ithome.com/0/967/229.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1782104528168843.html",
+      "title": "宝马3系马年版亮相链博会,本土供应商数量已超480家",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-22",
+      "url": "https://www.bjnews.com.cn/detail/1782104528168843.html"
+    },
+    {
+      "id": "https://techstartups.com/2026/06/22/top-tech-news-today-june-22-2026/",
+      "title": "Top Tech News Today, June 22, 2026",
+      "summary": "It’s Monday, June 22, 2026, and the tech world delivered a fresh reminder that innovation moves fast, but so do the consequences. A fatal Tesla crash in Texas thrust autonomous driving safety back int...",
+      "source": "TechStartups.com",
+      "date": "2026-06-22",
+      "url": "https://techstartups.com/2026/06/22/top-tech-news-today-june-22-2026/"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/06/22/tmt-newswire/pr-newswire/geely-farizon-weride-and-kwoon-chung-launch-right-hand-drive-robotaxis-at-2026-international-automotive-supply-chain-expo-hong-kong-accelerating-global-expansion/2369910",
+      "title": "Geely Farizon, WeRide and Kwoon Chung Launch Right-Hand-Drive Robotaxis at 2026 International Automotive & Supply Chain Expo (Hong Kong), Accelerating Global Expansion",
+      "summary": "HONG KONG, June 22, 2026 /PRNewswire/ -- Geely Farizon New Energy Commercial Vehicle Group (Geely Farizon), China's top new energy commercial vehicle brand, signed a strategic cooperation agreement wi...",
+      "source": "The Manila Times",
+      "date": "2026-06-22",
+      "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/pr-newswire/geely-farizon-weride-and-kwoon-chung-launch-right-hand-drive-robotaxis-at-2026-international-automotive-supply-chain-expo-hong-kong-accelerating-global-expansion/2369910"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/06/22/tmt-newswire/globenewswire/weride-geely-farizon-and-kwoon-chung-launch-right-hand-drive-robotaxis-at-the-2026-international-automotive-supply-chain-expo-hong-kong-accelerating-global-expansion/2369900",
+      "title": "WeRide, Geely Farizon and Kwoon Chung Launch Right-Hand-Drive Robotaxis at the 2026 International Automotive & Supply Chain Expo (Hong Kong), Accelerating Global Expansion",
+      "summary": "HONG KONG, June 22, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD, HKEX: 0800), a global leader in autonomous driving technology, today announced the joint development of Robotaxis specifically designe...",
+      "source": "The Manila Times",
+      "date": "2026-06-22",
+      "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/globenewswire/weride-geely-farizon-and-kwoon-chung-launch-right-hand-drive-robotaxis-at-the-2026-international-automotive-supply-chain-expo-hong-kong-accelerating-global-expansion/2369900"
+    },
+    {
+      "id": "https://www.moneycontrol.com/world/why-investors-are-pouring-billions-into-defence-technology-article-13955565.html",
+      "title": "Why investors are pouring billions into defence technology",
+      "summary": "Conflicts in Ukraine and the Middle East are driving record investment into military start-ups, from AI-powered drones to autonomous naval vessels, even as some investors warn of an emerging bubble....",
+      "source": "Moneycontrol",
+      "date": "2026-06-22",
+      "url": "https://www.moneycontrol.com/world/why-investors-are-pouring-billions-into-defence-technology-article-13955565.html"
     },
     {
       "id": "https://www.thestar.com.my/lifestyle/living/2026/06/21/contradictheory-taking-the-human-out-of-the-equation",
@@ -253,14 +220,6 @@
       "source": "The Mercury News",
       "date": "2026-06-18",
       "url": "https://www.mercurynews.com/2026/06/18/waymo-recalls-robotaxis-over-driving-through-freeway-work-zones/"
-    },
-    {
-      "id": "https://techbullion.com/the-future-of-connected-cars-and-autonomous-driving/",
-      "title": "The Future of Connected Cars and Autonomous Driving",
-      "summary": "The way people travel is shifting faster than ever before. Vehicles park themselves, talk to traffic lights, and minimize...",
-      "source": "TechBullion",
-      "date": "2026-06-18",
-      "url": "https://techbullion.com/the-future-of-connected-cars-and-autonomous-driving/"
     }
   ]
 }
