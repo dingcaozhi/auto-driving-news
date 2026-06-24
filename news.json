@@ -1,153 +1,194 @@
 {
-  "lastUpdated": "2026-06-23 04:09:23",
-  "totalCount": 25,
+  "lastUpdated": "2026-06-24 04:12:16",
+  "totalCount": 26,
   "sources": {
+    "Bjnews": 3,
+    "Imobile": 3,
+    "Investing_Cn": 2,
+    "Hypebeast_Cn": 1,
     "Cri_Cn": 1,
-    "Ithome": 4,
-    "Zaobao": 2,
-    "Investing_Cn": 4,
-    "Orientaldaily": 1,
-    "Jiemian": 1,
-    "Rfi_Fr": 1,
+    "Fx168News": 1,
+    "News_Seehua": 2,
+    "Ithome": 2,
     "Chinanews": 1,
-    "Bjnews": 1,
+    "PR Newswire UK": 1,
+    "India Today": 1,
+    "Gizchina.com": 1,
+    "FOX 4 News": 1,
+    "Markets Insider": 1,
     "TechStartups.com": 1,
     "The Manila Times": 2,
     "Moneycontrol": 1,
-    "The Star": 1,
-    "Breitbart News Network": 1,
-    "FOX 4 News": 1,
-    "South China Morning Post": 1,
-    "The Mercury News": 1
+    "The Star": 1
   },
   "news": [
     {
-      "id": "https://news.cri.cn/20260622/b65fda09-8f98-9cde-b014-b8b237dce3ed.html",
-      "title": "列国鉴丨记者观察:在“美国粮仓”感受农民的烦恼-国际在线",
-      "summary": "新华社纽约6月22日电(记者杨士龙)春夏之交,新华社记者前往有“美国粮仓”之称的艾奥瓦州实地采访时观察到,历经美国发动贸易战、关税战以及伊朗战事后,美国中西部农场主的经营风险愈难自控,经济压力...",
-      "source": "Cri_Cn",
-      "date": "2026-06-22",
-      "url": "https://news.cri.cn/20260622/b65fda09-8f98-9cde-b014-b8b237dce3ed.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/967/234.htm",
-      "title": "开辟新赛道:小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录,官方圈速榜新增“自动驾驶”分类",
-      "summary": "IT之家 6 月 22 日消息,小米汽车今日官宣, 小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录 ,时间为 10 分 29 秒 483。 小米创办人、董事长兼 CEO 雷军今日分享了小米 YU7 GT 使用自动驾驶功能征战纽北赛道后发生的一处细微变化 —— 纽北官方圈速榜新增“自动驾驶”分类 。 据IT之家今日早些时候报道,央视新闻今日发文谈及了小米此次取得的成绩,称从追赶到领跑,从跟跑到...",
-      "source": "Ithome",
-      "date": "2026-06-22",
-      "url": "https://www.ithome.com/0/967/234.htm"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260622-9247116",
-      "title": "七名司机因非法跨境载客被逮 车辆遭扣押",
-      "summary": "NewsData报道",
-      "source": "Zaobao",
-      "date": "2026-06-22",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260622-9247116"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3427396",
-      "title": "英伟达(NVDA.US)力推人形机器人安全系统,欲破解人机协作“最后一道防线”",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-22",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3427396"
-    },
-    {
-      "id": "https://www.ithome.com/0/967/224.htm",
-      "title": "履新第一剑先“斩”老员工,美造车新势力 Lucid 宣布裁员 18%",
-      "summary": "IT之家 6 月 22 日消息,当地时间 22 日(今天),美国造车新势力 Lucid 宣布,在新任 CEO 西尔维奥 · 纳波利推进重组之际,将裁减 18% 的员工,约 1500 人受到影响。四个月前,Lucid 刚刚裁员 12%。亚利桑那州卡萨格兰德工厂的汽车第二班生产也已取消。 Lucid 表示,本轮裁员旨在配合纳波利所提出的 精简公司架构、提高执行效率,并增强长期竞争力 。 裁员之际,Lu...",
-      "source": "Ithome",
-      "date": "2026-06-22",
-      "url": "https://www.ithome.com/0/967/224.htm"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3427208",
-      "title": "indie Semiconductor宣布董事会变动,青木一郎将退休",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-22",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3427208"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3427149",
-      "title": "德州特斯拉(TSLA.US)Model 3冲撞民宅致人死亡 自动辅助驾驶成调查焦点",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-22",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3427149"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/nation/2026/06/22/827668",
-      "title": "陆交局积极运用AI 落实更多数码化措施",
-      "summary": "(吉隆坡22日讯)交通部长陆兆福表示,陆交局目前积极运用人工智能工具分析驾驶人的驾驶行为,并持续推动“昌明安全驾驶奖励计划”(CERMAT MADANI),未来希望与保险业者合作,让驾驶纪录良好的司机享有更优惠的保险保障。他也透露,预计明日国会将开始辩论《1987年陆路交通法令》修正内容。有关修正案将促进更多数码化措施的落实,包括警方报案程序。“目前,我们计划允许民众透过电子方式报案(e-poli...",
-      "source": "Orientaldaily",
-      "date": "2026-06-22",
-      "url": "https://www.orientaldaily.com.my/news/nation/2026/06/22/827668"
-    },
-    {
-      "id": "https://www.ithome.com/0/967/189.htm",
-      "title": "小米胡峥楠谈 YU7 GT 自动驾驶征战纽北,称这才是想真正展示的综合能力",
-      "summary": "IT之家 6 月 22 日消息,小米汽车今日官宣, 小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录 ,时间为 10 分 29 秒 483。 IT之家注意到,小米集团副总裁、汽车部 CTO 胡峥楠今日发文,谈及了 YU7 GT 此次使用自动驾驶征战纽北: 其实这才是我们想真正展示的综合能力 。 小米入局汽车还是有梦想的,那就是: 1、 电能替代化学能 ,传统油车取得过的所有成绩,用电能都终将实...",
-      "source": "Ithome",
-      "date": "2026-06-22",
-      "url": "https://www.ithome.com/0/967/189.htm"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14582375.html",
-      "title": "降价也卖不动的合资燃油车开始主动撤出门店",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-06-22",
-      "url": "https://www.jiemian.com/article/14582375.html"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/sea/story20260622-9247230",
-      "title": "马国陆交法提呈国会 逾700种违规罚款额增至500令吉",
-      "summary": "马来西亚政府为提高法律对交通违规者的震慑效果,星期一(6月22日)向国会下议院提呈2026年陆路交通法修正案一读。法案将超过700种交通违规行为的最高罚款额,从目前300令吉(约93新元)增至500令吉(约193新元)。...",
-      "source": "Zaobao",
-      "date": "2026-06-22",
-      "url": "https://www.zaobao.com.sg/news/sea/story20260622-9247230"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260622-%E6%B3%95%E5%9B%BD%E4%B8%8E%E9%98%BF%E8%81%94%E9%85%8B%E5%90%88%E4%BD%9C-%E9%A2%84%E8%AE%A1%E6%AF%8F%E5%B9%B4%E7%94%9F%E4%BA%A7%E6%95%B0%E5%8D%83%E6%9E%B6%E5%86%9B%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA",
-      "title": "法国与阿联酋合作 预计每年生产数千架军用无人机",
-      "summary": "法国生产“阵风”战斗机的达索公司本周开始在阿布扎比为阿联酋研制生产新型军用无人机,预计每年产量将达到数千架,也是履行两国在2021年签署的巨额军事合同。...",
-      "source": "Rfi_Fr",
-      "date": "2026-06-22",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260622-%E6%B3%95%E5%9B%BD%E4%B8%8E%E9%98%BF%E8%81%94%E9%85%8B%E5%90%88%E4%BD%9C-%E9%A2%84%E8%AE%A1%E6%AF%8F%E5%B9%B4%E7%94%9F%E4%BA%A7%E6%95%B0%E5%8D%83%E6%9E%B6%E5%86%9B%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3426852",
-      "title": "工大高科20cm涨停创历史新高,芯望投资2.37亿元受让股权,云锋基金现身背后",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-22",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3426852"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-22/10645184.shtml",
-      "title": "香港黄金劫案有“内鬼”!警方再抓6人,部分有黑社会背景,最小嫌犯只有16岁",
-      "summary": "香港国际机场18日凌晨发生一起黄金抢劫案,涉及6根金条,总值约700万港元。香港警方22日通报,除此前已被拘捕的4男3女外,警方于6月20日至22日再次展开行动,共拘捕5男1女,年龄介于16至25岁,部分拥有黑社会背景。其中有4人在案发后潜逃至内地,后被深圳警方拘捕并移交给香港警方。...",
-      "source": "Chinanews",
-      "date": "2026-06-22",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-22/10645184.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/967/229.htm",
-      "title": "华为乾崑|启境 GT7“新一代智能猎装”进入量产阶段,广汽集团公开新车核心亮点",
-      "summary": "IT之家 6 月 22 日消息,华为乾崑|启境汽车官方今日宣布,6 月 22 日,启境 GT7 首台量产车正式下线。官方同时宣布, 6 月 26 日,启境 GT7 将正式上市 。 广汽集团官方今日发文,详细介绍了华为乾崑|启境 GT7 的核心亮点。该车定位“新一代智能猎装”,兼顾优雅设计、极致驾控与全场景实用性, 预售价 21.99 万元-30.99 万元 。 启境 GT7 还搭载新一代华为乾崑 ...",
-      "source": "Ithome",
-      "date": "2026-06-22",
-      "url": "https://www.ithome.com/0/967/229.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1782104528168843.html",
-      "title": "宝马3系马年版亮相链博会,本土供应商数量已超480家",
+      "id": "https://www.bjnews.com.cn/detail/1782203598168876.html",
+      "title": "从香港到全球,中国车企出海布局盯上右舵市场",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
+      "date": "2026-06-23",
+      "url": "https://www.bjnews.com.cn/detail/1782203598168876.html"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0623/234824.shtml",
+      "title": "31.98万元~34.98万元,腾势N8L闪充版正式上市",
+      "summary": "6月23日,腾势N8L闪充版正式上市,官方指导价31.98万元~34.98万元。本次,腾势N8L闪充版推出闪充尊荣型、闪充旗舰型2个版本,标配第二代刀片电池与闪充技术、易三方、天神之眼 5.0、云辇-A智能空气车身控制系统,并首搭超级智能体「迪迪虾」等领先科技,带来「闪充」「安全」「操控」「体验」四大无可替代,是家庭豪华大六座首选,美好出行,「家」倍精彩! 即日下订腾势N8L闪充版,可享至高价值约...",
+      "source": "Imobile",
+      "date": "2026-06-23",
+      "url": "http://news.imobile.com.cn/articles/2026/0623/234824.shtml"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0623/234825.shtml",
+      "title": "腾势N8L闪充版上市31.98万元起",
+      "summary": "6月23日,腾势N8L闪充版正式上市,官方指导价31.98万元~34.98万元。本次,腾势N8L闪充版推出闪充尊荣型、闪充旗舰型2个版本,标配第二代刀片电池与闪充技术、易三方、天神之眼 5.0、云辇-A智能空气车身控制系统,并首搭超级智能体「迪迪虾」等领先科技,带来「闪充」「安全」「操控」「体验」四大无可替代,是家庭豪华大六座首选,美好出行,「家」倍精彩! 即日下订腾势N8L闪充版,可享至高价值约...",
+      "source": "Imobile",
+      "date": "2026-06-23",
+      "url": "http://news.imobile.com.cn/articles/2026/0623/234825.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3429626",
+      "title": "贝尔德预计特斯拉与SpaceX将在12至18个月内合并",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-23",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3429626"
+    },
+    {
+      "id": "https://hypebeast.cn/2026/6/amida-digitrend-osii-black-lrd-05-noir-release-info",
+      "title": "AMIDA 全新 Digitrend OSII 腕表释出",
+      "summary": "瑞士独立制表品牌 AMIDA 发布 Digitrend OSII Black,以鲜明造型延续品牌 1976 年太空时代代表作的传奇。由联合创办人兼创意总监 Matthieu Allègre 主导设计,这枚腕表被品牌定义为一场「Historical Correction」,把早在数十年前被抛弃的二十世纪中期复古未来主义美学重新唤醒,并融入当代制表技术。Digitrend OSII Black 将这...",
+      "source": "Hypebeast_Cn",
+      "date": "2026-06-23",
+      "url": "https://hypebeast.cn/2026/6/amida-digitrend-osii-black-lrd-05-noir-release-info"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3429574",
+      "title": "“马斯克溢价”大挪移:SpaceX(SPCX.US)上市后,合并叙事成为特斯拉(TSLA.US)重要估值支撑",
+      "summary": "“马斯克溢价”大挪移:SpaceX(SPCX.US)上市后,合并叙事成为特斯拉(TSLA.US)重要估值支撑...",
+      "source": "Investing_Cn",
+      "date": "2026-06-23",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3429574"
+    },
+    {
+      "id": "https://news.cri.cn/20260623/d2926732-b467-4469-8bc3-4f9c8333ff19.html",
+      "title": "携手二十年,夏季达沃斯见证开放向上的中国-国际在线",
+      "summary": "风从海上来,潮起大连湾。这个盛夏,全球目光再次聚焦黄渤海之滨。 6月23日至25日,第十七届夏季达沃斯论坛将在辽宁大连举办,来自超过90个国家和地区的1700多名嘉宾参会。此次论坛以“规模化创新”为主题,共同探讨全球经济发展的新路径。...",
+      "source": "Cri_Cn",
+      "date": "2026-06-23",
+      "url": "https://news.cri.cn/20260623/d2926732-b467-4469-8bc3-4f9c8333ff19.html"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0623/234821.shtml",
+      "title": "比亚迪大唐EV,要给全尺寸SUV市场“背书”",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-06-23",
+      "url": "http://news.imobile.com.cn/articles/2026/0623/234821.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1047786",
+      "title": "特斯拉(TSLA)股票6月23日盘中下跌3.87%:释放什么信号?-FX168",
+      "summary": "特斯拉 (TSLA) 盘中下跌3.87%, 所属行业汽车与零部件下跌3.09% ,公司涨幅跑输行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 下跌 3.87%;Ford Motor Co (F) 下跌 1.52%;Rivian Automotive Inc (RIVN) 上涨 0.99%。 今日是什么导致了特斯拉(TSLA)股价下跌? 在今日的交易时段中,特斯拉股价面临下行压力,且日内波动加剧...",
+      "source": "Fx168News",
+      "date": "2026-06-23",
+      "url": "https://www.fx168news.com/article/1047786"
+    },
+    {
+      "id": "https://news.seehua.com/post/1503365",
+      "title": "末巴里:保障安全防车祸 吁加强泛婆大道执法",
+      "summary": "(吉隆坡23日讯)实必丹国议员拿督末巴里希望政府能进一步加强沙巴泛婆大道沿线的执法力度,以保障公路使用者的安全 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-23",
+      "url": "https://news.seehua.com/post/1503365"
+    },
+    {
+      "id": "https://www.ithome.com/0/967/693.htm",
+      "title": "领克 07GT 时间限量版官图公布:超跑版内外饰颜色,6 月 29 日全球首秀",
+      "summary": "IT之家 6 月 23 日消息,领克汽车旗下首款旅行车领克 07GT 将于 2026 年 6 月 29 日进行全球首秀并同步开启预售。 今日,领克汽车官方公布了领克 07GT 时间限量版的官方外观图。该车型定位为中型插电式混合动力猎装车,基于 CMA 架构与 EM-P 智能电混平台开发。 作为领克品牌的首款旅行车,领克 07GT 沿袭了“The Next Day”的原创设计语言。车辆外观融合了旅行...",
+      "source": "Ithome",
+      "date": "2026-06-23",
+      "url": "https://www.ithome.com/0/967/693.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1782200838129181.html",
+      "title": "10万级插混高颜值实力派 东风日产N6打造城市代步新标杆",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-23",
+      "url": "https://www.bjnews.com.cn/detail/1782200838129181.html"
+    },
+    {
+      "id": "https://news.seehua.com/post/1503334",
+      "title": "200公升配额不足 砂内陆居民批政策脱节",
+      "summary": "(美里23日讯)联邦政府宣布柴油车主每月可获200公升柴油配额后,砂拉越内陆居民普遍认为有关措施未能反映东马实 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-23",
+      "url": "https://news.seehua.com/post/1503334"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1782218065129530.html",
+      "title": "看球就位!世界杯观赛出征套装,小罐茶浓萃系列全程相伴",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-23",
+      "url": "https://www.bjnews.com.cn/detail/1782218065129530.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/06-23/10645933.shtml",
+      "title": "火山引擎总裁:暂无独立上市计划 豆包仍会保持免费",
+      "summary": "中新网北京6月23日电 (记者 尹倩芸)火山引擎总裁谭待23日在北京接受媒体采访时回应称,火山引擎目前没有单独拆分上市的相关计划,此外豆包仍会持续保持免费。...",
+      "source": "Chinanews",
+      "date": "2026-06-23",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-23/10645933.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/967/694.htm",
+      "title": "比亚迪调整方程豹钛 3 及钛 7 闪充权益:车辆到店后在门店通知的时间内提车,即可享受",
+      "summary": "IT之家 6 月 23 日消息,比亚迪方程豹汽车官微今天(23 日)晚间发文宣布调整闪充权益,车辆到店后,在门店通知的提车时间内提车,即可享受闪充权益。 IT之家从公告获悉,此举是为了避免 等车时间太长 而错过闪充权益,适用车型为 钛 3 及钛 7 EV 的闪充版 。此前的权益为,指定时间内成功下定并在 2026 年 6 月 30 日(含) 前完成购车开票,即可享比亚迪闪充充电桩免费闪充权益。 相...",
+      "source": "Ithome",
+      "date": "2026-06-23",
+      "url": "https://www.ithome.com/0/967/694.htm"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/einride-appoints-seasoned-public-company-board-director-and-financial-executive-r-lynn-atchison-to-its-board-of-directors-302807708.html",
+      "title": "Einride Appoints Seasoned Public Company Board Director and Financial Executive R. Lynn Atchison to its Board of Directors",
+      "summary": "/PRNewswire/ -- Einride AB (NASDAQ: ENRD) a technology company driving the transition to cost-efficient autonomous and electric freight operations for some of......",
+      "source": "PR Newswire UK",
+      "date": "2026-06-23",
+      "url": "https://www.prnewswire.co.uk/news-releases/einride-appoints-seasoned-public-company-board-director-and-financial-executive-r-lynn-atchison-to-its-board-of-directors-302807708.html"
+    },
+    {
+      "id": "https://www.indiatoday.in/auto/cars/story/xiaomi-yu7-gt-becomes-first-vehicle-to-complete-nurburgring-lap-without-a-driver-2932588-2026-06-23",
+      "title": "This EV becomes the first car to complete Nurburgring lap without a driver",
+      "summary": "Xiaomi has achieved a world-first autonomous driving milestone, with the YU7 GT completing the Nurburgring Nordschleife without a driver, prompting the iconic circuit to create a dedicated autonomous ...",
+      "source": "India Today",
+      "date": "2026-06-23",
+      "url": "https://www.indiatoday.in/auto/cars/story/xiaomi-yu7-gt-becomes-first-vehicle-to-complete-nurburgring-lap-without-a-driver-2932588-2026-06-23"
+    },
+    {
+      "id": "https://www.gizchina.com/xiaomi-tablets-tech/qualcomm-reportedly-eyeing-4-billion-acquisition-of-ai-chip-startup-modular",
+      "title": "Qualcomm Reportedly Eyeing $4 Billion Acquisition of AI chip Startup Modular",
+      "summary": "Qualcomm is reportedly negotiating a $4 billion acquisition of AI chip startup Modular as it expands into artificial intelligence, data centers, and autonomous driving....",
+      "source": "Gizchina.com",
+      "date": "2026-06-23",
+      "url": "https://www.gizchina.com/xiaomi-tablets-tech/qualcomm-reportedly-eyeing-4-billion-acquisition-of-ai-chip-startup-modular"
+    },
+    {
+      "id": "https://www.fox4news.com/news/robotaxis-recalled-risk-construction-zones",
+      "title": "Nearly 4,000 robotaxis recalled over risk of driving in construction zones",
+      "summary": "A new recall of Waymo’s robotaxis comes after multiple reported incidents of the autonomous vehicles driving past ramp closures into construction sites....",
+      "source": "FOX 4 News",
       "date": "2026-06-22",
-      "url": "https://www.bjnews.com.cn/detail/1782104528168843.html"
+      "url": "https://www.fox4news.com/news/robotaxis-recalled-risk-construction-zones"
+    },
+    {
+      "id": "https://markets.businessinsider.com/news/stocks/alphabet-owned-waymo-crushes-tesla-tsla-in-autonomous-car-race-says-ross-gerber-1036267073",
+      "title": "Alphabet-Owned Waymo Crushes Tesla (TSLA) in Autonomous Car Race, Says Ross Gerber",
+      "summary": "Ross Gerber, co-founder, President, and CEO of Gerber Kawasaki, a wealth management firm, has strongly supported Waymo, the self-driving taxi se......",
+      "source": "Markets Insider",
+      "date": "2026-06-22",
+      "url": "https://markets.businessinsider.com/news/stocks/alphabet-owned-waymo-crushes-tesla-tsla-in-autonomous-car-race-says-ross-gerber-1036267073"
     },
     {
       "id": "https://techstartups.com/2026/06/22/top-tech-news-today-june-22-2026/",
@@ -188,38 +229,6 @@
       "source": "The Star",
       "date": "2026-06-21",
       "url": "https://www.thestar.com.my/lifestyle/living/2026/06/21/contradictheory-taking-the-human-out-of-the-equation"
-    },
-    {
-      "id": "https://www.breitbart.com/politics/2026/06/20/googles-waymo-recalls-4000-robotaxis-after-incidents-of-driving-into-construction-zones-at-high-speeds/",
-      "title": "Google's Waymo Recalls 4,000 Robotaxis After Incidents of Driving into Construction Zones at High Speeds",
-      "summary": "Self-driving vehicle company Waymo has issued a recall affecting 3,871 autonomous robotaxis after a software defect caused vehicles to enter active highway construction zones at high speeds....",
-      "source": "Breitbart News Network",
-      "date": "2026-06-20",
-      "url": "https://www.breitbart.com/politics/2026/06/20/googles-waymo-recalls-4000-robotaxis-after-incidents-of-driving-into-construction-zones-at-high-speeds/"
-    },
-    {
-      "id": "https://www.fox4news.com/news/poll-texans-support-autonomous-vehicles-want-stronger-safety-standards",
-      "title": "Poll: Texans support autonomous vehicles, but want stronger safety standards",
-      "summary": "Texans support the idea of self-driving vehicles, but want stronger safety standards and accountability from the companies that put them on the road, according to a new poll....",
-      "source": "FOX 4 News",
-      "date": "2026-06-19",
-      "url": "https://www.fox4news.com/news/poll-texans-support-autonomous-vehicles-want-stronger-safety-standards"
-    },
-    {
-      "id": "https://www.scmp.com/business/china-business/article/3357638/momenta-moves-closer-hong-kong-ipo-after-us-listing-setback",
-      "title": "Momenta moves closer to Hong Kong IPO after US listing setback",
-      "summary": "Autonomous-driving start-up seeks to issue up to 43.75 million shares after an earlier US IPO approval expired....",
-      "source": "South China Morning Post",
-      "date": "2026-06-19",
-      "url": "https://www.scmp.com/business/china-business/article/3357638/momenta-moves-closer-hong-kong-ipo-after-us-listing-setback"
-    },
-    {
-      "id": "https://www.mercurynews.com/2026/06/18/waymo-recalls-robotaxis-over-driving-through-freeway-work-zones/",
-      "title": "Waymo recalls robotaxis over driving through freeway work zones",
-      "summary": "Waymo is recalling thousands of its robotaxis to fix a software issue that could cause the autonomous vehicles to enter and drive at speed through freeway construction zones....",
-      "source": "The Mercury News",
-      "date": "2026-06-18",
-      "url": "https://www.mercurynews.com/2026/06/18/waymo-recalls-robotaxis-over-driving-through-freeway-work-zones/"
     }
   ]
 }
