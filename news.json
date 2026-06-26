@@ -1,185 +1,203 @@
 {
-  "lastUpdated": "2026-06-25 04:12:42",
-  "totalCount": 30,
+  "lastUpdated": "2026-06-26 04:19:14",
+  "totalCount": 28,
   "sources": {
-    "Bilibili": 5,
-    "Investing_Cn": 2,
-    "Ithome": 3,
-    "Orientaldaily": 1,
-    "Fx168News": 4,
+    "Smzdm": 3,
     "Cri_Cn": 1,
-    "Bjnews": 3,
-    "Smzdm": 1,
+    "Bjnews": 1,
+    "Fx168News": 2,
+    "Imobile": 1,
+    "Ithome": 6,
+    "Chinanews": 1,
+    "News_Seehua": 1,
+    "Orientaldaily": 1,
+    "News_Baidu": 1,
+    "Times of India": 1,
+    "India Today": 2,
+    "The Star": 1,
+    "The Japan Times ": 1,
     "MarketScreener": 1,
     "PR Newswire UK": 1,
-    "India Today": 1,
     "Gizchina.com": 1,
     "FOX 4 News": 1,
-    "Markets Insider": 1,
-    "TechStartups.com": 1,
-    "The Manila Times": 2,
-    "Moneycontrol": 1
+    "Markets Insider": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1YVjQ6VEv9",
-      "title": "【B站】1:49.43，一镜到底浙赛首个自动驾驶圈速纪录",
-      "summary": "浙赛首个自动驾驶圈速纪录，1:49.434，\n一镜到底，一刀未剪，点击视频，一起感受！...",
-      "source": "Bilibili",
-      "date": "2026-06-25",
-      "url": "https://www.bilibili.com/video/BV1YVjQ6VEv9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV16Ajd6iEd1",
-      "title": "【B站】自动驾驶的DeepSeek R1时刻来了，世界引擎：自动驾驶后训练范式，碰撞暴降45.5%、200km 0接管",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-06-25",
-      "url": "https://www.bilibili.com/video/BV16Ajd6iEd1"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1q3VW6FEco",
-      "title": "【B站】Apollo之接驳任务仿真情况",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-06-25",
-      "url": "https://www.bilibili.com/video/BV1q3VW6FEco"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Mhjd67EaG",
-      "title": "【B站】【2026新版】禁止自学走弯路！环境感知、目标检测、语义分割、强化学习、决策与控制算法等八大自动驾驶核心算法一口气学完！",
-      "summary": "如果你是自学自动驾驶，你需要学一些常见的自动驾驶算法：\n环境感知算法、目标检测算法、语义分割算法、深度学习算法（像 R-CNN、YOLO、SSD）点云处理算法、定位与建图算法、路径规划算法、决策与控制算法（基于规则的决策算法、强化学习算法、模型预测控制（MPC）算法）！\n本套教程是算法原理+实战项目...",
-      "source": "Bilibili",
-      "date": "2026-06-25",
-      "url": "https://www.bilibili.com/video/BV1Mhjd67EaG"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1MtsdebEQE",
-      "title": "【B站】【教程】40分钟教你自制自动驾驶智能车",
-      "summary": "这是一台可以自动驾驶等各种智能功能的小车，具有体积小巧和价格便宜的特点，这是上个视频的补充，是小车的详细制作过程，视频制作不易，三连支持一下吧！！\n立创开源硬件平台链接：https://oshwhub.com/liguanxi/mini-smart-car\n智能车介绍视频链接：https://www...",
-      "source": "Bilibili",
-      "date": "2026-06-25",
-      "url": "https://www.bilibili.com/video/BV1MtsdebEQE"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3431800",
-      "title": "新股消息 | 瑞为技术通过港交所聆讯 港股将迎 “视觉具身智能第一股”",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-24",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3431800"
-    },
-    {
-      "id": "https://www.ithome.com/0/968/216.htm",
-      "title": "亚马逊推出升级版 Zoox 自动驾驶出租车:星空顶 + 面对面座椅,乘坐体验更平静",
-      "summary": "IT之家 6 月 24 日消息,当地时间 24 日(今天),亚马逊旗下自动驾驶公司 Zoox 升级了旗下的 Robotaxi 车型。新车不仅调整了外观,还根据乘客反馈改善内饰舒适性和多项实用功能,为争取今年晚些时候启动商业运营做准备。 Zoox 没有改变车辆的核心设计。新车依旧保留方盒子造型,车内仍无方向盘和传统驾驶控制装置,并配备天幕和星空顶。智能化方面,车内拥有 摄像头、雷达、激光雷达和红外传...",
-      "source": "Ithome",
-      "date": "2026-06-24",
-      "url": "https://www.ithome.com/0/968/216.htm"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/24/828190",
-      "title": "冯晋哲:柴油新机制不应一刀切 200公升对很多沙巴人还是不够",
-      "summary": "(亚庇24日讯)沙巴民主行动党主席兼国会上议员冯晋哲今日针对联邦政府即将于7月落实全国统一柴油针对性补贴机制发表文告表示担忧和警惕,政府以每月200公升柴油作为补贴配额的做法,并未充分考虑沙巴人民的现实生活情况,因为沙巴人民所面对的交通距离与生活环境,与半岛地区根本无法相提并论。冯晋哲表示,尽管他理解联邦政府希望通过针对性补贴减少走私及补贴流失的问题,并降低至每公升2令吉10仙的价格让民众购买补贴...",
-      "source": "Orientaldaily",
-      "date": "2026-06-24",
-      "url": "https://www.orientaldaily.com.my/news/east-malaysia/2026/06/24/828190"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1048461",
-      "title": "优步(UBER)股票6月24日盘中上涨5.95%:原因全解读-FX168",
-      "summary": "优步 (UBER) 盘中上涨5.95%, 所属行业软件与信息技术服务上涨1.97% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 微软 (MSFT) 上涨 0.36%;谷歌-A (GOOGL) 上涨 1.97%;Meta Platforms Inc (META) 上涨 0.64%。 今日是什么导致了优步(UBER)股价上涨? 在备受瞩目的信息披露、战略性零售扩张以及市场对其股票已进入深幅价值区间的日...",
-      "source": "Fx168News",
-      "date": "2026-06-24",
-      "url": "https://www.fx168news.com/article/1048461"
-    },
-    {
-      "id": "https://news.cri.cn/20260624/3447df57-65a6-68e9-b25f-c94ecd87b5c5.html",
-      "title": "活力中国调研行丨“未来之城”探索“未来农业”-国际在线",
-      "summary": "走进位于河北雄安新区容城县晾马台镇的雄安智慧农业科技园,一座座种植西红柿的现代化温室大棚鳞次栉比。棚内,天窗幕布在环控系统指令下徐徐敞开,水肥一体化设备正悄然输送养分,悬挂的传感器将温湿度等参数实时回传至中心控制室。...",
-      "source": "Cri_Cn",
-      "date": "2026-06-24",
-      "url": "https://news.cri.cn/20260624/3447df57-65a6-68e9-b25f-c94ecd87b5c5.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/968/200.htm",
-      "title": "技术不能浪费:取消雷克萨斯纯电旗舰项目后,丰田启动后继车型规划",
-      "summary": "IT之家 6 月 24 日消息,丰田已经停止开发雷克萨斯旗舰纯电轿车 LF-ZC,但为其准备的下一代技术不会就此放弃。新型电池、纯电专用平台和一体化压铸等技术 均已具备量产条件 ,丰田也已决定开发一款后继车型。 据《日本经济新闻》24 日(今天)报道,LF-ZC 原计划最早于今年投产。丰田执行副总裁中岛裕树证实:“我们已经停止开发雷克萨斯 LF-ZC。” 丰田放弃 LF-ZC,主因是模具和生产设备...",
-      "source": "Ithome",
-      "date": "2026-06-24",
-      "url": "https://www.ithome.com/0/968/200.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1782284092168904.html",
-      "title": "达沃斯之问:当AI重构产业与就业,人类靠什么立足?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-24",
-      "url": "https://www.bjnews.com.cn/detail/1782284092168904.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1782291702129084.html",
-      "title": "赛力斯康波出席夏季达沃斯论坛 分享AI驱动规模化创新实践",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-24",
-      "url": "https://www.bjnews.com.cn/detail/1782291702129084.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/968/197.htm",
-      "title": "对标 Anthropic Mythos:360 周鸿祎发布 AI 安全两大核心“倚天屠龙”仪天阵 + 图龙锋",
-      "summary": "IT之家 6 月 24 日消息, ISC.AI 2026(第十四届互联网安全大会)今日在北京开幕。360 集团创始人周鸿祎在大会上正式发布了 360 AI 安全“倚天屠龙”两大核心能力:漏洞自动化挖掘智能体“图龙锋”和网络安全自动化防御系统“仪天阵”。 近期,美国人工智能公司 Anthropic 宣布限制其内部最强模型 Mythos 对外开放。早在 Mythos 模型问世初期,其展示的漏洞自动发现...",
-      "source": "Ithome",
-      "date": "2026-06-24",
-      "url": "https://www.ithome.com/0/968/197.htm"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1048445",
-      "title": "Bitget 推出 Stock+,为加密货币原生投资者带来真实美股-FX168",
-      "summary": "塞舌尔维多利亚, June 24, 2026 (GLOBE NEWSWIRE) -- -- 全球最大的全景交易所 (UEX) Bitget 推出 Stock+,这是其 Stocks 2.0 生态系统下的一项新功能,使用户能够直接使用 USDC 及其他数字资产购买真实美股。此次发布标志着朝着加密货币与传统金融市场在同一账户内运作的未来又迈进一步。用户可在数字资产与股票间自由切换,不再受制于两者长期存...",
-      "source": "Fx168News",
-      "date": "2026-06-24",
-      "url": "https://www.fx168news.com/article/1048445"
-    },
-    {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1048443",
-      "title": "佑驾创新(02431.HK):签署500台无人物流车销售合同,落地华中市场-FX168",
-      "summary": "新时空(newtimespace.com)讯:佑驾创新(2431.HK)公告,其近期与位于河南省的独立第三方企业正式签署《无人物流车产品销售合同》,涉及销售500台自研无人物流车及相关配套服务,交付产品主要应用于园区物流、商超、末端配送等智慧出行场景;本次合作标志着集团无人物流车业务在规模化商业交付...",
-      "source": "Fx168News",
-      "date": "2026-06-24",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1048443"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1782306506129333.html",
-      "title": "周鸿祎不再做“安全龙虾”了,要做中国版Mythos",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-24",
-      "url": "https://www.bjnews.com.cn/detail/1782306506129333.html"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1048436",
-      "title": "Bitget 推出全新 VIP 奇迹勋章计划,奖励跨市场交易-FX168",
-      "summary": "塞舌尔维多利亚, June 24, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 推出 VIP 奇迹勋章计划 (VIP Miracle Badge Program)。这一全新举措旨在嘉奖活跃于加密货币、股票和差价合约市场的交易者,同时扩大其获取优质服务和专属奖励的渠道。该计划推出一系列与跨多种资产类别交易活动相关的成就徽章,也是 Bitget 为...",
-      "source": "Fx168News",
-      "date": "2026-06-24",
-      "url": "https://www.fx168news.com/article/1048436"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3431461",
-      "title": "佑驾创新(02431)签署无人物流车产品销售合同",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-24",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3431461"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3mnlwzk/",
-      "title": "新能源车深度实测分享,看懂行业趋势选车不盲从",
-      "summary": "如今新能源市场迭代速度飞快,很多车主容易被宣传话术误导,结合长期试驾、实车持有体验,从行业趋势、新车实测、真实优缺点、用车成本四大维度拆解,给普通消费者客观参考。 先聊行业技术趋势,当下车企扎堆宣传高阶智驾,但多数入门车型的辅助驾驶仅能满足高速基础巡航,......",
+      "id": "https://post.smzdm.com/p/arz2ml4x/",
+      "title": "深圳L3/L4自动驾驶事故责任2026年重新划分,车主注意了",
+      "summary": "01深圳率先落地智驾事故责任划分新规深圳市交通运输局联合多部门发布的《智能网联汽车管理条例》修订版将于2026年7月1日起正式施行,明确对L2、L3、L4三个级别的智能驾驶事故责任进行差异化拆分。修订条例第五十一条、第五十三条针对不同自动化等级的事故归责......",
       "source": "Smzdm",
-      "date": "2026-06-24",
-      "url": "https://post.smzdm.com/p/a3mnlwzk/"
+      "date": "2026-06-25",
+      "url": "https://post.smzdm.com/p/arz2ml4x/"
+    },
+    {
+      "id": "https://news.cri.cn/20260625/4dbfd0d7-fa6d-6882-2162-adafd6179fde.html",
+      "title": "守护多彩土地 种出多样丰收(美丽中国)-国际在线",
+      "summary": "数据来源:水利部 今年6月25日是第三十六个全国土地日,主题为“珍惜每一寸土地促进高质量发展”。 我国幅员辽阔、地大物博,不同类型的土壤孕育出丰富多样的作物。保护好...",
+      "source": "Cri_Cn",
+      "date": "2026-06-25",
+      "url": "https://news.cri.cn/20260625/4dbfd0d7-fa6d-6882-2162-adafd6179fde.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1782393563169553.html",
+      "title": "北京西城消防开展夜间防汛专项训练,实战锤炼“夜战”硬实力",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-25",
+      "url": "https://www.bjnews.com.cn/detail/1782393563169553.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1049060",
+      "title": "零跑D99重磅上市:24.98万起售,全域自研打造宜商宜家全能旗舰MPV-FX168",
+      "summary": "2026年6月25日,零跑旗舰D平台首款MPV——零跑D99正式上市,售价24.98-31.98万元,限时享至高价值61279元上市权益、四项终身免费质保及尊享服务。作为零跑十年全域自研技术沉淀的旗舰力作,新车定位“科技豪华旗舰MPV”,承袭D系列“百万级体验、科技普惠”的核心理念,以30万级价格带来旗舰舒适、旗舰续航、旗舰智能、旗舰驾控、旗舰安全、旗舰美学六大维度全维旗舰体验,重塑中大型MPV市...",
+      "source": "Fx168News",
+      "date": "2026-06-25",
+      "url": "https://www.fx168news.com/article/1049060"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0625/234849.shtml",
+      "title": "拒绝伪需求!试驾别克至境E7",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-06-25",
+      "url": "http://news.imobile.com.cn/articles/2026/0625/234849.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/968/684.htm",
+      "title": "美国拟不再要求无人驾驶汽车必须配备刹车踏板,为 Robotaxi 扩大规模铺路",
+      "summary": "IT之家 6 月 25 日消息,据彭博社 25 日(今天)报道,美国交通部拟取消无人驾驶汽车必须配备制动踏板的规定,为特斯拉、Waymo 等企业在美国扩大自动驾驶出租车投放规模降低监管门槛。 报道称美国国家公路交通安全管理局(NHTSA)计划修改《联邦机动车安全标准》,专为完全无人驾驶设计的车辆将不再强制配备供人类驾驶员操作的制动踏板,其他类型汽车仍须保留制动踏板。 美国政府希望通过新规 推动无人...",
+      "source": "Ithome",
+      "date": "2026-06-25",
+      "url": "https://www.ithome.com/0/968/684.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/06-25/10647395.shtml",
+      "title": "四川达州“赶场公交”点亮城乡烟火 20公里便民专线暖民心",
+      "summary": "中新网达州6月25日电 (任枺早 张浪)6月下旬凌晨五点的达州通川区蒲家镇,细雨淅沥、天色未明,城市尚在酣睡,镇域公交站台已是一派热闹景象。数十名菜农背着装满豇豆、土豆、鸡蛋的背篓,静静等候49路公交。这条往返城乡、全程20公里的专线公交,自2023年开通以来,彻底改写了当地菜农的进城售卖之路,以细致入微的便民服务,传递着一座城市的民生温度。...",
+      "source": "Chinanews",
+      "date": "2026-06-25",
+      "url": "https://www.chinanews.com.cn/sh/2026/06-25/10647395.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/968/672.htm",
+      "title": "138.8 万元起,尊界 S800 Grand Design 典藏大观正式发布",
+      "summary": "IT之家 6 月 25 日消息,在今晚的发布会上,华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了全新的尊界 S800 Grand Design 典藏大观车型(IT之家注:预计 8 月底陆续交付)。 尊界 S800 Grand Design 典藏大观提供增程 / 纯电版本可选,提供 3 种外观颜色、2 种内饰配置可选,官方指导价 138.8 万元起,选配锦绣繁花主题套装 20 ...",
+      "source": "Ithome",
+      "date": "2026-06-25",
+      "url": "https://www.ithome.com/0/968/672.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/968/664.htm",
+      "title": "一汽大众迈腾 PHEV / 探岳 L PHEV 上市,16.99 万元起",
+      "summary": "IT之家 6 月 25 日消息,一汽大众“黄金超混”迈腾 PHEV / 探岳 L PHEV 双车今日上市, 均为 16.99 万元起: 迈腾 PHEV PRO:16.99 万元 迈腾 PHEV PRIME:19.49 万元 探岳 L PHEV PRO:16.99 万元 探岳 L PHEV PRIME:18.19 万元 车身尺寸方面,IT之家获悉,迈腾 PHEV 长宽高分别为 4990/1854/1...",
+      "source": "Ithome",
+      "date": "2026-06-25",
+      "url": "https://www.ithome.com/0/968/664.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/968/663.htm",
+      "title": "尊界 S800 Grand Design 典藏大观亮相:首创支持辅助驾驶的真木 HOD 感应方向盘",
+      "summary": "IT之家 6 月 25 日消息,在今晚的发布会上,尊界 S800 Grand Design 典藏大观正式发布,尊界 V800 也将首次实车亮相。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长宣布,尊界 S800 Grand Design 典藏大观首创支持辅助驾驶的真木 HOD 感应方向盘,采用胡桃木环绕式贴合工艺(工艺时长 5 小时,工艺精度 < 0.1mm),支持动态自适应算法、滤波...",
+      "source": "Ithome",
+      "date": "2026-06-25",
+      "url": "https://www.ithome.com/0/968/663.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/968/700.htm",
+      "title": "宝马回应“多名新能源车主收到更换蓄电池提醒”:相关提示信息为误报,正积极推进解决方案确保不再出现",
+      "summary": "IT之家 6 月 25 日消息,近日,多名宝马 i3、i4 车型新车车主发帖表示,在启动车辆时收到“您可以继续驾驶,请更换蓄电池”的相关车机提醒,引发部分车主担忧。 据潇湘晨报,宝马官方工作人员表示,相关提示信息为误报信息,车主可以放心使用车辆。 宝马官方同时向相关车主车机推送了服务信息进行说明。说明中称:“ 请您放心使用车辆,您无需因此而更换蓄电池或采取任何措施,此问题亦不会影响高压电池的正常运...",
+      "source": "Ithome",
+      "date": "2026-06-25",
+      "url": "https://www.ithome.com/0/968/700.htm"
+    },
+    {
+      "id": "https://news.seehua.com/post/1504452",
+      "title": "6女教师共车遇祸1死5伤 对撞司机亦丧命",
+      "summary": "(玲珑25日讯)6名女教师今午共乘一辆本田Odyssey多用途休旅车行驶途中,与一辆丰田Vios轿车发生碰撞, [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-25",
+      "url": "https://news.seehua.com/post/1504452"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/06/25/828420",
+      "title": "6女教师共车遇祸1死5伤 对撞轿车警长身亡",
+      "summary": "(玲珑25日讯)六名女教师今午共乘一辆本田Odyssey多用途休旅车途中,与一辆丰田Vios轿车迎面碰撞,造成2死5伤惨剧。其中,一名女教师当场身亡,另一辆轿车的警官司机也不幸丧命。两名死者分别为47岁的女教师祖莱达,她在宜力技职学院任教,以及41岁的梅尔温达星警长,隶属上霹雳高乌警区总部,两人皆因伤势过重,当场身亡。 医护人员在现场检查后,证实2名男女已当场身亡。(图由消拯局提供) 据了解,事发...",
+      "source": "Orientaldaily",
+      "date": "2026-06-25",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/06/25/828420"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1049024",
+      "title": "英伟达2026股东大会有何看点?黄仁勋:每个Token都是利润,AI变现已有答案-FX168",
+      "summary": "TradingKey - 美东时间6月24日,英伟达(NVDA)年度股东大会上,CEO黄仁勋以一场长达两小时的演讲,为AI产业的下一阶段发展定调。他宣告\"有用的AI时代\"正式到来,智能体(Agent)将成为驱动未来数十年算力需求的核心引擎,并将这一轮计算范式转变定性为60年来规模最大的行业重置。 每个Token都是利润,AI工厂的商业闭环形成 黄仁勋在演讲中反复强调,AI已完成从技术实验到商业生产...",
+      "source": "Fx168News",
+      "date": "2026-06-25",
+      "url": "https://www.fx168news.com/article/1049024"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863521937908265130",
+      "title": "K歌、游戏、AI 你要的全都有 宝马新一代智能座舱..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-25",
+      "url": "http://baijiahao.baidu.com/s?id=1863521937908265130"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggreqdm/",
+      "title": "小米YU7实测:全系标配智能驾驶硬件能否超越特斯拉?第三方测评结果给出了答案",
+      "summary": "小米YU7作为小米汽车推出的首款中大型SUV,自2025年6月上市以来,其智能驾驶系统便成为市场关注的焦点。基于多源素材信息,本文将从硬件配置、功能实测、第三方测评成绩、用户体验等多个维度,对小米YU7的智能驾驶能力进行结构化梳理,旨在为关注该车型的消费......",
+      "source": "Smzdm",
+      "date": "2026-06-25",
+      "url": "https://post.smzdm.com/p/aggreqdm/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a036pd7z/",
+      "title": "25-30万买电车,特斯拉Model 3和小米SU7谁续航更实在?真实对比来了",
+      "summary": "特斯拉Model 3焕新版与小米SU7作为当前25-30万元价位区间内关注度最高的两款纯电轿车,经常被消费者放在一起比较。两款车型分别代表了传统新能源巨头与新势力品牌的最新技术成果,在智能驾驶、续航补能、内饰配置、动力性能等核心维度上各有侧重。对于有意选......",
+      "source": "Smzdm",
+      "date": "2026-06-25",
+      "url": "https://post.smzdm.com/p/a036pd7z/"
+    },
+    {
+      "id": "https://www.ithome.com/0/968/667.htm",
+      "title": "哈弗全新旗舰方盒子 SUV 长城 H10 正式亮相,基于归元平台打造",
+      "summary": "IT之家 6 月 25 日消息,在今晚举行的“长城 H10 造型美学直播暨实车正式亮相”活动中,哈弗全新旗舰方盒子 SUV 长城 H10 正式亮相。 该车在国内定名“ 长城 H10 ”、海外统一命名“GWM H10”,基于归元平台打造,提供 5 座和 6 座两种布局,并搭载 1.5T 插电混动系统。 IT之家获悉,长城 H10 五座版车型长宽高为 5138×2050×1970mm,轴距为 3000...",
+      "source": "Ithome",
+      "date": "2026-06-25",
+      "url": "https://www.ithome.com/0/968/667.htm"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/no-cars-only-carts-this-us-town-has-banned-cars-for-over-125-years-and-amazon-deliveries-still-arrive-by-horse-drawn-cart/articleshow/131993191.cms",
+      "title": "No cars, only carts: This US town has banned cars for over 125 years, and Amazon deliveries still arrive by horse-drawn cart",
+      "summary": "US News: In an age of electric vehicles, autonomous driving and drone deliveries, one American destination continues to do things the old-fashioned way. On Mac....",
+      "source": "Times of India",
+      "date": "2026-06-25",
+      "url": "https://timesofindia.indiatimes.com/world/us/no-cars-only-carts-this-us-town-has-banned-cars-for-over-125-years-and-amazon-deliveries-still-arrive-by-horse-drawn-cart/articleshow/131993191.cms"
+    },
+    {
+      "id": "https://www.indiatoday.in/technology/news/story/amazons-zoox-unveils-new-robotaxi-design-as-it-plans-to-offer-paid-rides-2933922-2026-06-25",
+      "title": "Amazon's Zoox unveils new robotaxi design as it plans to offer paid rides",
+      "summary": "Zoox, the Amazon-owned autonomous driving company, has revealed the new design for its toaster-shaped robotaxi. The new design comes at a time when Zoox is planning to expand beyond free rides in the ...",
+      "source": "India Today",
+      "date": "2026-06-25",
+      "url": "https://www.indiatoday.in/technology/news/story/amazons-zoox-unveils-new-robotaxi-design-as-it-plans-to-offer-paid-rides-2933922-2026-06-25"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/06/25/un-first-global-rules-adopted-for-self-driving-cars",
+      "title": "UN: First global rules adopted for self-driving cars",
+      "summary": "The first global regulations for fully autonomous vehicles were adopted on June 24, a UN agency said, establishing uniform international safety requirements that could pave the way for larger-scale ro...",
+      "source": "The Star",
+      "date": "2026-06-25",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/25/un-first-global-rules-adopted-for-self-driving-cars"
+    },
+    {
+      "id": "https://www.japantimes.co.jp/business/2026/06/25/tech/self-driving-cars-global-rules/",
+      "title": "First global rules adopted for self-driving cars, U.N. says",
+      "summary": "Safety concerns and the cost of developing next-level systems have long slowed progress on autonomous vehicles....",
+      "source": "The Japan Times ",
+      "date": "2026-06-25",
+      "url": "https://www.japantimes.co.jp/business/2026/06/25/tech/self-driving-cars-global-rules/"
     },
     {
       "id": "https://www.marketscreener.com/news/mercedes-benz-backed-momenta-to-launch-hong-kong-ipo-in-late-june-ce7f5fdbdb81f02c",
@@ -228,38 +246,6 @@
       "source": "Markets Insider",
       "date": "2026-06-22",
       "url": "https://markets.businessinsider.com/news/stocks/alphabet-owned-waymo-crushes-tesla-tsla-in-autonomous-car-race-says-ross-gerber-1036267073"
-    },
-    {
-      "id": "https://techstartups.com/2026/06/22/top-tech-news-today-june-22-2026/",
-      "title": "Top Tech News Today, June 22, 2026",
-      "summary": "It’s Monday, June 22, 2026, and the tech world delivered a fresh reminder that innovation moves fast, but so do the consequences. A fatal Tesla crash in Texas thrust autonomous driving safety back int...",
-      "source": "TechStartups.com",
-      "date": "2026-06-22",
-      "url": "https://techstartups.com/2026/06/22/top-tech-news-today-june-22-2026/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/06/22/tmt-newswire/pr-newswire/geely-farizon-weride-and-kwoon-chung-launch-right-hand-drive-robotaxis-at-2026-international-automotive-supply-chain-expo-hong-kong-accelerating-global-expansion/2369910",
-      "title": "Geely Farizon, WeRide and Kwoon Chung Launch Right-Hand-Drive Robotaxis at 2026 International Automotive & Supply Chain Expo (Hong Kong), Accelerating Global Expansion",
-      "summary": "HONG KONG, June 22, 2026 /PRNewswire/ -- Geely Farizon New Energy Commercial Vehicle Group (Geely Farizon), China's top new energy commercial vehicle brand, signed a strategic cooperation agreement wi...",
-      "source": "The Manila Times",
-      "date": "2026-06-22",
-      "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/pr-newswire/geely-farizon-weride-and-kwoon-chung-launch-right-hand-drive-robotaxis-at-2026-international-automotive-supply-chain-expo-hong-kong-accelerating-global-expansion/2369910"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/06/22/tmt-newswire/globenewswire/weride-geely-farizon-and-kwoon-chung-launch-right-hand-drive-robotaxis-at-the-2026-international-automotive-supply-chain-expo-hong-kong-accelerating-global-expansion/2369900",
-      "title": "WeRide, Geely Farizon and Kwoon Chung Launch Right-Hand-Drive Robotaxis at the 2026 International Automotive & Supply Chain Expo (Hong Kong), Accelerating Global Expansion",
-      "summary": "HONG KONG, June 22, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD, HKEX: 0800), a global leader in autonomous driving technology, today announced the joint development of Robotaxis specifically designe...",
-      "source": "The Manila Times",
-      "date": "2026-06-22",
-      "url": "https://www.manilatimes.net/2026/06/22/tmt-newswire/globenewswire/weride-geely-farizon-and-kwoon-chung-launch-right-hand-drive-robotaxis-at-the-2026-international-automotive-supply-chain-expo-hong-kong-accelerating-global-expansion/2369900"
-    },
-    {
-      "id": "https://www.moneycontrol.com/world/why-investors-are-pouring-billions-into-defence-technology-article-13955565.html",
-      "title": "Why investors are pouring billions into defence technology",
-      "summary": "Conflicts in Ukraine and the Middle East are driving record investment into military start-ups, from AI-powered drones to autonomous naval vessels, even as some investors warn of an emerging bubble....",
-      "source": "Moneycontrol",
-      "date": "2026-06-22",
-      "url": "https://www.moneycontrol.com/world/why-investors-are-pouring-billions-into-defence-technology-article-13955565.html"
     }
   ]
 }
