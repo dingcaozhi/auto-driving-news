@@ -1,19 +1,20 @@
 {
-  "lastUpdated": "2026-06-27 04:05:31",
+  "lastUpdated": "2026-06-28 04:38:42",
   "totalCount": 33,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 1,
-    "Ithome": 5,
-    "Investing_Cn": 1,
-    "Zaobao": 1,
-    "Fx168News": 1,
+    "Investing_Cn": 2,
     "Smzdm": 3,
-    "Chinanews": 1,
+    "Imobile": 1,
+    "Ithome": 3,
+    "Bjnews": 1,
+    "Chinanews": 2,
     "Eeo": 1,
-    "Cri_Cn": 1,
     "News_Seehua": 1,
-    "Jiemian": 2,
+    "Zaobao": 1,
+    "Rfi_Fr": 1,
+    "Orientaldaily": 1,
+    "News_Baidu": 1,
     "TNW": 1,
     "Times of India": 1,
     "India Today": 2,
@@ -26,188 +27,188 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Ny7369ELJ",
-      "title": "【B站】对话彭军1小时丨自动驾驶拼的不是口号，是无法复制的体系能力",
-      "summary": "https://weixin.qq.com/sph/AnG1YVl1zg\nValue Narrative 对话小马智行创始人、CEO彭军。“做自动驾驶拼的不是口号，是无法复制的体系能力。”视频转载自华尔街见闻...",
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-06-27",
-      "url": "https://www.bilibili.com/video/BV1Ny7369ELJ"
+      "date": "2026-06-28",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1br7V6eET5",
-      "title": "【B站】FSD终于来了！全程0接管(第2集)一镜到底，100%无剪辑真实记录：北京下班智能辅助驾驶！智能驾驶系列公开课：使用智驾前必看！",
-      "summary": "FSD终于来了！\n全程0接管(第2集)一镜到底，\n100%无剪辑真实记录：\n北京下班智能辅助驾驶！\n99%的人都不知道的：\n很多智能驾驶的细节！\n北京真实日常上下班：\n全网最深入的智能驾驶视频讲解！\n智能驾驶系列公开课：\n使用智驾前必看！...",
+      "id": "https://www.bilibili.com/video/BV1dwDWY4EKj",
+      "title": "【B站】10分钟带你学会调教A320自动驾驶",
+      "summary": "老费只是键盘飞友，如有错漏欢迎指出，共同进步...",
       "source": "Bilibili",
-      "date": "2026-06-27",
-      "url": "https://www.bilibili.com/video/BV1br7V6eET5"
+      "date": "2026-06-28",
+      "url": "https://www.bilibili.com/video/BV1dwDWY4EKj"
     },
     {
-      "id": "https://www.bilibili.com/video/BV14t756wESR",
-      "title": "【B站】预告！｜自动驾驶高速NOA/ALC/MLC领航辅助仿真系统即将更新(阶段性成果)",
-      "summary": "预告｜零基础高速NOA领航辅助仿真全栈源码即将更新\n阶段性成果演示｜高速NOA全栈仿真系统已经阶段性完成展示，想学自动驾驶仿真开发记得蹲更新。\n\n被动变道(手动打转向灯变道)\n自主决策变道\n遇到施工借道通行\n堵车跟车\n地图可编辑可自定义...",
+      "id": "https://www.bilibili.com/video/BV1Wm7p6nEpg",
+      "title": "【B站】智驾感知路线终极博弈，自动驾驶新国标定调，纯视觉vs多传感融合，谁将主导未来？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-06-27",
-      "url": "https://www.bilibili.com/video/BV14t756wESR"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1PD7w6ZEzN",
-      "title": "【B站】一镜到底 见证全球首个纽北自动驾驶圈速纪录诞生",
-      "summary": "10分29秒483，一镜到底，全程无剪辑。\n第一视角，感受全球首个纽北自动驾驶圈速纪录的诞生。\n这次，小米汽车探索了新边界，为纽北百年赛道带来新的故事。\n#小米YU7GT#...",
-      "source": "Bilibili",
-      "date": "2026-06-27",
-      "url": "https://www.bilibili.com/video/BV1PD7w6ZEzN"
+      "date": "2026-06-28",
+      "url": "https://www.bilibili.com/video/BV1Wm7p6nEpg"
     },
     {
       "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
       "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
       "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
       "source": "Bilibili",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863627598961849613",
-      "title": "二十年戍边铸军魂 雪域高原写忠诚——记边防某团三级..",
+      "id": "https://www.bilibili.com/video/BV1QPggzdEe1",
+      "title": "【B站】你以为的2077自动驾驶VS实际上的自动驾驶",
+      "summary": "更新的有点幽默...",
+      "source": "Bilibili",
+      "date": "2026-06-28",
+      "url": "https://www.bilibili.com/video/BV1QPggzdEe1"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3436553",
+      "title": "零跑首款MPV“高配上市”,朱江明称二季度毛利率处于可控区间,后续不排除终端调价",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-06-27",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3436553"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a82r09e6/",
+      "title": "L3/L4级自动驾驶有规矩了!全球首个统一法规中国主导,8年谈判终落地",
+      "summary": "06月27日北京晚报报道联合国自动驾驶系统全球技术法规(ADS GTR)获批发布 06月26日小鹏集团董事长兼CEO何小鹏宣布,联合国WP29缔约国会议正式批准DCAS UNR 171 series 02(城区NGP功能法规)与UNR ADS(L3-L5......",
+      "source": "Smzdm",
+      "date": "2026-06-27",
+      "url": "https://post.smzdm.com/p/a82r09e6/"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0627/234868.shtml",
+      "title": "华为乾崑加持 全新猛士M817满足每一位家人的越野向往",
+      "summary": "6月27日,“豪华智能越野SUV”全新猛士M817在武汉沌口体育中心正式上市,共推出全新猛士M817 Ultra、Max+、Max、Mate+、Mate五大版本,上市价格29.99万元-39.99万元。作为华为乾崑和猛士汽车合作的巅峰之作,全新猛士M817将全场景越野性能、顶尖智能、舒适体验“不可能三角”完美融为一体,一举打破行业现状,带来全家人都能享受的全新生活方式。 据了解,即日起下订全新猛士...",
+      "source": "Imobile",
+      "date": "2026-06-27",
+      "url": "http://news.imobile.com.cn/articles/2026/0627/234868.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/969/518.htm",
+      "title": "充电全程不用下车:理想行业首座全自动充电站落地,5C 超充桩已突破 5000 根",
+      "summary": "IT之家 6 月 27 日消息,理想汽车 6 月 25 日发布了最新的 2026 年第二季度超充运营报告。数据显示,截至 6 月 23 日,理想超充网络累计充电量突破 10 亿度,累计服务次数超过 3900 万次。 其中,理想 5C 超充桩数量已突破 5000 根,全部配备 5C 超充桩的全 5C 站点超过 600 座。超充网络已覆盖全国 160 条高速公路,服务高速里程总计超过 10 万公里。今...",
+      "source": "Ithome",
+      "date": "2026-06-27",
+      "url": "https://www.ithome.com/0/969/518.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1782562412169594.html",
+      "title": "MWC26上海观察:AI重构后,网络如何兑现Token价值",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-27",
+      "url": "https://www.bjnews.com.cn/detail/1782562412169594.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad74nkqp/",
+      "title": "刚刚!中国牵头制定全球首个自动驾驶法规,L3/L4级系统终于有统一标准了",
+      "summary": "01联合国自动驾驶系统全球技术法规获批发布2026年6月22日至26日,联合国世界车辆法规协调组织(UN/WP.29)第199次全体会议在瑞士日内瓦召开。会上,由中国、欧盟、英国、美国、加拿大和日本共同牵头制定的联合国自动驾驶系统全球技术法规(ADS G......",
+      "source": "Smzdm",
+      "date": "2026-06-27",
+      "url": "https://post.smzdm.com/p/ad74nkqp/"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/dwq/2026/06-27/10648652.shtml",
+      "title": "从三机跃升到叠“豆腐块”——驻香港部队双营开放侧记",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-06-27",
+      "url": "https://www.chinanews.com.cn/dwq/2026/06-27/10648652.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/969/484.htm",
+      "title": "特斯拉就首例 FSD 行人致命事故达成和解,NHTSA 调查持续深入",
+      "summary": "IT之家 6 月 27 日消息,特斯拉公司已就一起 2023 年发生的致命事故达成和解,该事故涉及一辆开启 FSD 功能的 Model Y。这起事故也是已知的首例与特斯拉 FSD 系统相关的行人死亡案例。 公开报道显示,该起事故发生于 2023 年 11 月 28 日,地点在亚利桑那州弗拉格斯塔夫(Flagstaff)与菲尼克斯(Phoenix)之间的一条高速公路上。 当时,71 岁的约翰娜 · ...",
+      "source": "Ithome",
+      "date": "2026-06-27",
+      "url": "https://www.ithome.com/0/969/484.htm"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0627/932627.shtml",
+      "title": "尊界冲刺138.8万元 余承东照着提词器念了20分钟",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-06-27",
+      "url": "http://www.eeo.com.cn/2026/0627/932627.shtml"
+    },
+    {
+      "id": "https://news.seehua.com/post/1505625",
+      "title": "霍尔木兹海峡风波再起 又一艘船遇袭",
+      "summary": "(伦敦、伊朗27日讯)英国海上贸易行动办公室(UKMTO)周六通报,一艘油轮当天在霍尔木兹海峡航行时遭“不明投 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-27",
+      "url": "https://news.seehua.com/post/1505625"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/world/story20260627-9275924",
+      "title": "美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠",
+      "summary": "(华盛顿/德黑兰综合电)伊朗周六(6月27日)对美国早前的袭击展开报复,袭击美军关联目标。同一天,霍尔木兹海峡再有一艘油轮遭不明投射物击中,海峡局势使得美伊停火安排摇摇欲坠。...",
+      "source": "Zaobao",
+      "date": "2026-06-27",
+      "url": "https://www.zaobao.com.sg/news/world/story20260627-9275924"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260627-%E6%97%A5%E6%9C%AC%E6%8B%9F%E8%8E%B7%E5%BE%97%E5%85%B7%E5%8F%8D%E8%88%B0%E6%94%BB%E5%87%BB%E8%83%BD%E5%8A%9B%E6%97%A0%E4%BA%BA%E6%BD%9C%E8%89%87-%E8%80%83%E8%99%91%E5%9C%A8%E5%B0%8F%E7%AC%A0%E5%8E%9F%E7%BE%A4%E5%B2%9B%E4%B8%8A%E7%A9%BA%E8%AE%BE%E9%98%B2%E8%AF%86%E5%8C%BA",
+      "title": "日本拟获得具反舰攻击能力无人潜艇 考虑在小笠原群岛上空设防识区",
+      "summary": "据共同社援引多名相关人士报导称,作为加强太平洋沿岸防卫体制的一环,日本政府已着手研究正式开发和引进具备反舰攻击等能力的无人潜艇。在太平洋广阔的海域,中国正不断加强海洋扩张,而日本的防卫体制却被指出存在“空白”。...",
+      "source": "Rfi_Fr",
+      "date": "2026-06-27",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260627-%E6%97%A5%E6%9C%AC%E6%8B%9F%E8%8E%B7%E5%BE%97%E5%85%B7%E5%8F%8D%E8%88%B0%E6%94%BB%E5%87%BB%E8%83%BD%E5%8A%9B%E6%97%A0%E4%BA%BA%E6%BD%9C%E8%89%87-%E8%80%83%E8%99%91%E5%9C%A8%E5%B0%8F%E7%AC%A0%E5%8E%9F%E7%BE%A4%E5%B2%9B%E4%B8%8A%E7%A9%BA%E8%AE%BE%E9%98%B2%E8%AF%86%E5%8C%BA"
+    },
+    {
+      "id": "https://www.ithome.com/0/969/481.htm",
+      "title": "优步在美推行最严网约车司机背调新规,重罪记录终身禁入",
+      "summary": "IT之家 6 月 27 日消息,网约车巨头优步(Uber)于当地时间 6 月 26 日宣布,将全面升级其在美国的司机背景调查制度。 这项被公司称为“行业最严”的新标准,旨在回应长期以来公众对其安全政策的质疑以及面临的大量性侵相关诉讼。新政策将于 2026 年 6 月 29 日(下周一)正式生效。 新规的核心在于大幅扩展了适用的犯罪记录类型。此前,优步仅对谋杀、性侵、绑架和恐怖主义等罪名实施终身禁令...",
+      "source": "Ithome",
+      "date": "2026-06-27",
+      "url": "https://www.ithome.com/0/969/481.htm"
+    },
+    {
+      "id": "http://www.chinanews.com.cn/tp/hd2011/2026/06-27/1196122.shtml",
+      "title": "驻香港部队新围军营向香港市民开放",
+      "summary": "图为格斗技术展示。中新网记者 李志华 摄 图为刺杀操展示。中新网记者 李志华 摄 图为猎人战斗展示。中新网记者 李志华 摄 图为无人机模拟攻击目标。中新网记者 李志华 摄 图为猎人战斗展示。中新网记者 李志华 摄 图为无人机营救“伤者”。中新网记者 李志华 摄 图为香港学生、教师等与官兵在车辆前合影。中新网记者 李志华 摄 图为一名女士进行模拟射击体验。中新网记者 李志华 摄 图为小朋友体验车辆驾...",
+      "source": "Chinanews",
+      "date": "2026-06-27",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/06-27/1196122.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/east/2026/06/27/828885",
+      "title": "树木突倒下险砸轿车 一家人饱受惊吓",
+      "summary": "(瓜登27日讯)一家人驾车途经登州乌鲁登嘉楼一处T字路口右转后,一棵路旁大树突然轰然倒下,几乎横跨整条道路,险些砸中轿车,所幸一家人均平安无事,仅轿车车头轻微受损。一名网民日前在社交媒体分享行车记录器视频显示,事件于本周四下午约4时20分发生,地点疑位于乌鲁登嘉楼县甘榜杜拉(Kg. Dura)及甘榜瓜拉布宜(Kg. Kuala Pueh)一带的路段。视频可见,轿车由一个T字路口右转后驶入道路,不到...",
+      "source": "Orientaldaily",
+      "date": "2026-06-27",
+      "url": "https://www.orientaldaily.com.my/news/east/2026/06/27/828885"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863695639753666085",
+      "title": "北京车展纵横G700全家族登场,原厂改装一步到位",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-06-26",
-      "url": "http://baijiahao.baidu.com/s?id=1863627598961849613"
+      "date": "2026-06-27",
+      "url": "http://baijiahao.baidu.com/s?id=1863695639753666085"
     },
     {
-      "id": "https://www.ithome.com/0/969/265.htm",
-      "title": "2026 款奇瑞捷途山海 T1 四驱版车型上市:搭 1.5T 混合动力系统,限时焕新价 14.99 万元起",
-      "summary": "IT之家 6 月 26 日消息,在今天的奇瑞第二届方盒子大会暨新品发布会中,2026 款捷途山海 T1 四驱版上市,该车采用 1.5T 混合动力系统, 官方指导价区间为 15.99-18.99 万元,限时焕新价区间为 14.99-17.99 万元。 车型 上市指导价(万元) 限时焕新价(万元) 150km XWD 探索 150km XWD 发现智驾 220km XWD 征服智驾 该车外观造型设计与...",
-      "source": "Ithome",
-      "date": "2026-06-26",
-      "url": "https://www.ithome.com/0/969/265.htm"
+      "id": "https://post.smzdm.com/p/a6zqrln0/",
+      "title": "实测数据来了!激光雷达在暴雨中探测距离直接腰斩",
+      "summary": "激光雷达作为自动驾驶感知系统的核心传感器之一,其在恶劣天气环境下的表现直接影响智能驾驶的安全边界。雨、雾、雪等天气条件会对激光雷达的物理探测能力造成显著影响,这一问题在技术层面与用户实际体验中均有广泛讨论。多源素材显示,激光雷达在暴雨天气下存在探测距离衰......",
+      "source": "Smzdm",
+      "date": "2026-06-27",
+      "url": "https://post.smzdm.com/p/a6zqrln0/"
     },
     {
-      "id": "https://www.ithome.com/0/969/262.htm",
-      "title": "2026 款奇瑞捷途自由者 7 PLUS 燃油 SUV 正式上市,限时焕新价 11.99 万元起",
-      "summary": "IT之家 6 月 26 日消息,在今天的奇瑞第二届方盒子大会暨新品发布会中,2026 款捷途自由者 7 PLUS 正式上市, 指导价区间为 14.49-15.99 万元,限时红包价区间为 13.99-15.49 万元,限时焕新价区间为 11.99-13.49 万元。 车型 上市指导价(万元) 限时红包价(万元) 限时焕新价(万元) 2.0TD-8AT XWD 穿越 14.49 13.99 11.9...",
-      "source": "Ithome",
-      "date": "2026-06-26",
-      "url": "https://www.ithome.com/0/969/262.htm"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3436044",
-      "title": "Oppenheimer:物理AI有望成为下一增长引擎 予SpaceX(SPCX.US)250美元目标价",
-      "summary": "Oppenheimer:物理AI有望成为下一增长引擎 予SpaceX(SPCX.US)250美元目标价...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3436501",
+      "title": "新股消息 | 华大北斗三次递表港交所 2025年公司专用GNSS芯片及模块出货量达3210万件",
+      "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-26",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3436044"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/world/story20260626-9271999",
-      "title": "挂新加坡旗货船阿曼湾遇袭 疏散滞留船只行动暂停",
-      "summary": "(伦敦/麦纳麦综合电)一艘货船星期四在阿曼湾遭袭后,联合国国际海事组织宣布暂停在霍尔木兹海峡疏散滞留船舶的行动。这再次引发各界对美伊初步停火协议是否能维持下去的担忧。...",
-      "source": "Zaobao",
-      "date": "2026-06-26",
-      "url": "https://www.zaobao.com.sg/news/world/story20260626-9271999"
-    },
-    {
-      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1049664",
-      "title": "港股大模型概念股周报(2026-06-22至06-26)-FX168",
-      "summary": "本周港股大盘剧烈震荡,恒指与恒科指分别累跌5.2%与7.5%。港股大模型板块呈现“先扬后抑”格局,明略科技表现抗跌,而MINIMAX因面临大比例股份解禁压力跌幅居前。行业基本面依然强劲:全球模型调用量连涨九周,中国模型包揽前四,DeepSeek以3400亿估值登榜独角兽并开启翻倍扩招;政策端五部门力...",
-      "source": "Fx168News",
-      "date": "2026-06-26",
-      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1049664"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3mnwpdr/",
-      "title": "L4自动驾驶2026大爆发:成本从百万降至23万,哪些场景已跑通?",
-      "summary": "2026年被称为L4级自动驾驶规模化落地的关键年份。从政策端看,公安部发布《智能网联汽车道路测试与示范应用安全通行规范》(GA/T 2388-2026),明确L4级可在15个试点城市指定区域开展道路测试;从技术端看,激光雷达成本降至500美元以下,算力芯......",
-      "source": "Smzdm",
-      "date": "2026-06-26",
-      "url": "https://post.smzdm.com/p/a3mnwpdr/"
-    },
-    {
-      "id": "https://www.ithome.com/0/969/250.htm",
-      "title": "启境 GX7 全球首秀:定位智能阔五座 SUV 车型,首创 20 秒一键自动成床",
-      "summary": "IT之家 6 月 26 日消息,广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌“启境”首款车型 GT7 今日正式宣布上市。 在发布会现场,启境品牌第二款战略车型 —— 启境 GX7 正式迎来全球首秀。IT之家从官方获悉,新车定位新一代智能“阔”五座 SUV,官方表示 GX7 寓意“Grand Exploration”,即“伟大的探索”。 外观方面,启境 GX7 延续了启境 GT7 的家族设计语...",
-      "source": "Ithome",
-      "date": "2026-06-26",
-      "url": "https://www.ithome.com/0/969/250.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al3do2np/",
-      "title": "电车vs油车:真实操控差距到底在哪",
-      "summary": "如今电动车加速迅猛、底盘稳定,让很多人误以为电车操控全面超越油车。事实上,电车和油车的操控逻辑完全不同:电车胜在稳定、容错高,油车赢在轻盈、灵动和驾驶质感,真正的驾驶乐趣,依旧存在明显差距。 电车最大优势来自结构先天优势。电池平铺底盘,让整车重心极低且分......",
-      "source": "Smzdm",
-      "date": "2026-06-26",
-      "url": "https://post.smzdm.com/p/al3do2np/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/06-26/10648161.shtml",
-      "title": "尊界S800 Grand Design典藏大观138.8万元起,东方意境邂逅极致匠心",
-      "summary": "2026年6月25日,鸿蒙智行尊界品牌盛典,尊界全新超高端豪华系列Grand Design典藏大观首款产品——尊界S800 Grand Design典藏大观正式上市,售价138.8万元起。...",
-      "source": "Chinanews",
-      "date": "2026-06-26",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-26/10648161.shtml"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0626/931563.shtml",
-      "title": "G7易流翟学魂:未来十年,70%—80%的卡车司机不会因自动驾驶而失业",
-      "summary": "从功能上看,拍拍豆主要解决三个问题:AI实时识别破损、数量异常并即时推送管理者,实现前置干预;装卸交接过程自动录像,纠纷时可一键调取对应节点画面;货物流转全程可追溯,关键节点自动标记,实现透明化管理。......",
-      "source": "Eeo",
-      "date": "2026-06-26",
-      "url": "http://www.eeo.com.cn/2026/0626/931563.shtml"
-    },
-    {
-      "id": "https://news.cri.cn/20260626/cf52e4cd-c119-49d7-8375-cf50004fac1c.html",
-      "title": "在霍尔木兹海峡遇袭的新加坡籍货船轻微损伤-国际在线",
-      "summary": "新加坡海事及港务管理局26日发布声明说,25日在霍尔木兹海峡被不明投射物击中的新加坡籍集装箱货船出现轻微损伤,船上21名船员均安全。 声明说,这艘名为“长悦”号的货船在驶离霍尔木兹海峡时,驾驶台区域被不明投射物击中。目前,该船已顺利穿...",
-      "source": "Cri_Cn",
-      "date": "2026-06-26",
-      "url": "https://news.cri.cn/20260626/cf52e4cd-c119-49d7-8375-cf50004fac1c.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/969/236.htm",
-      "title": "20.99 万元起启境 GT7 猎装轿跑正式上市:首批搭载华为 ADS 5 智驾",
-      "summary": "IT之家 6 月 26 日消息,由广汽集团与华为乾崑联合打造的高端智能新能源品牌“启境汽车”今日正式上市。新车定位中大型智能猎装轿跑,官方指导价 20.99 万元起。IT之家汇总如下: 启境 GT7 标准版:20.99 万元 启境 GT7 Ultra:23.99 万元 启境 GT7 Ultra 超长续航版:26.99 万元 启境 GT7 Ultra 三电机四驱版:29.99 万元 启境 GT7 U...",
-      "source": "Ithome",
-      "date": "2026-06-26",
-      "url": "https://www.ithome.com/0/969/236.htm"
-    },
-    {
-      "id": "https://news.seehua.com/post/1504982",
-      "title": "李玉顺呼吁联邦政府提高沙砂及纳闽柴油补贴配额",
-      "summary": "(亚庇26日讯)民统党(UPKO)必打丹区部主席李玉顺呼吁联邦政府,应提高沙巴、砂拉越及纳闽「BUDI MAD [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-26",
-      "url": "https://news.seehua.com/post/1504982"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14652130.html",
-      "title": "特斯拉FSD低价破解生意盯上中国车主",
-      "summary": "短视频平台、二手交易平台和线下改装门店之间,已经出现所谓的“FSD破解”灰色服务,价格从数千元至3万元不等。...",
-      "source": "Jiemian",
-      "date": "2026-06-26",
-      "url": "https://www.jiemian.com/article/14652130.html"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14653479.html",
-      "title": "地方新闻精选 | 上海面向全体60岁以上老人开放陪诊服务 云南女子侮辱张桂梅被拘10日",
-      "summary": "今天有哪些地方新闻值得关注?四川凉山一幼儿园雇“黑校车”还超载,负责人和司机被刑拘;江苏省内多高校排查哲学社科领域抄袭剽窃和数据造假等问题;山东潍坊楼盘工地发现墓葬群,当地回应:年份等尚不能确认。...",
-      "source": "Jiemian",
-      "date": "2026-06-26",
-      "url": "https://www.jiemian.com/article/14653479.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al3do2x8/",
-      "title": "6.48万起还带192线激光雷达!极狐S3把高阶智驾价格打下来了",
-      "summary": "01极狐S3与同价位竞品对比:智驾配置与购车方案解析极狐S3于2026年北京车展正式开启预售,定位为十万内唯一高阶智驾平民电车。从官方公布的配置信息来看,极狐S3在智能驾驶硬件、续航补能方案、座舱智能化等方面均采用了越级配置策略。其顶配版本搭载192线激......",
-      "source": "Smzdm",
-      "date": "2026-06-26",
-      "url": "https://post.smzdm.com/p/al3do2x8/"
-    },
-    {
-      "id": "https://www.ithome.com/0/969/230.htm",
-      "title": "岚图追光 S 实车亮相:定位纯电中大型 SUV,配备华为 896 线激光雷达",
-      "summary": "IT之家 6 月 26 日消息,岚图汽车今日宣布追光 S 车型在上海电视节首发亮相。新车定位中大型 SUV,计划于 2026 年年中正式上市。 外观方面,追光 S 整体设计语言偏向性能运动风,其长宽高分别为 5050 毫米、1998 毫米和 1656 毫米, 轴距 3000 毫米。 在智能驾驶层面,追光 S 搭载了华为乾崑 ADS 5 高阶智驾系统, 配备华为 896 线激光雷达 。新车将支持 N...",
-      "source": "Ithome",
-      "date": "2026-06-26",
-      "url": "https://www.ithome.com/0/969/230.htm"
+      "date": "2026-06-27",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3436501"
     },
     {
       "id": "https://thenextweb.com/news/trump-dot-brake-pedal-autonomous-vehicles-tesla-zoox",
