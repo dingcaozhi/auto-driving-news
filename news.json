@@ -1,20 +1,17 @@
 {
-  "lastUpdated": "2026-06-28 04:38:42",
-  "totalCount": 33,
+  "lastUpdated": "2026-06-29 04:47:13",
+  "totalCount": 29,
   "sources": {
-    "Bilibili": 5,
-    "Investing_Cn": 2,
-    "Smzdm": 3,
-    "Imobile": 1,
-    "Ithome": 3,
-    "Bjnews": 1,
-    "Chinanews": 2,
-    "Eeo": 1,
-    "News_Seehua": 1,
-    "Zaobao": 1,
+    "Investing_Cn": 1,
+    "Ithome": 5,
+    "News_Baidu": 2,
     "Rfi_Fr": 1,
-    "Orientaldaily": 1,
-    "News_Baidu": 1,
+    "Smzdm": 5,
+    "News_Seehua": 2,
+    "Cri_Cn": 1,
+    "Zaobao": 1,
+    "Eeo": 1,
+    "The daily Star": 1,
     "TNW": 1,
     "Times of India": 1,
     "India Today": 2,
@@ -22,193 +19,168 @@
     "The Japan Times ": 1,
     "MarketScreener": 1,
     "PR Newswire UK": 1,
-    "Gizchina.com": 1,
-    "FOX 4 News": 1
+    "Gizchina.com": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-06-28",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1dwDWY4EKj",
-      "title": "【B站】10分钟带你学会调教A320自动驾驶",
-      "summary": "老费只是键盘飞友，如有错漏欢迎指出，共同进步...",
-      "source": "Bilibili",
-      "date": "2026-06-28",
-      "url": "https://www.bilibili.com/video/BV1dwDWY4EKj"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Wm7p6nEpg",
-      "title": "【B站】智驾感知路线终极博弈，自动驾驶新国标定调，纯视觉vs多传感融合，谁将主导未来？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-06-28",
-      "url": "https://www.bilibili.com/video/BV1Wm7p6nEpg"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-06-28",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1QPggzdEe1",
-      "title": "【B站】你以为的2077自动驾驶VS实际上的自动驾驶",
-      "summary": "更新的有点幽默...",
-      "source": "Bilibili",
-      "date": "2026-06-28",
-      "url": "https://www.bilibili.com/video/BV1QPggzdEe1"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3436553",
-      "title": "零跑首款MPV“高配上市”,朱江明称二季度毛利率处于可控区间,后续不排除终端调价",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3436746",
+      "title": "曹操出行(02643):约瑟夫•希发基思获委任为“曹操出行人工智能创新中心”的首席科学顾问",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-06-27",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3436553"
+      "date": "2026-06-28",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3436746"
     },
     {
-      "id": "https://post.smzdm.com/p/a82r09e6/",
-      "title": "L3/L4级自动驾驶有规矩了!全球首个统一法规中国主导,8年谈判终落地",
-      "summary": "06月27日北京晚报报道联合国自动驾驶系统全球技术法规(ADS GTR)获批发布 06月26日小鹏集团董事长兼CEO何小鹏宣布,联合国WP29缔约国会议正式批准DCAS UNR 171 series 02(城区NGP功能法规)与UNR ADS(L3-L5......",
-      "source": "Smzdm",
-      "date": "2026-06-27",
-      "url": "https://post.smzdm.com/p/a82r09e6/"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0627/234868.shtml",
-      "title": "华为乾崑加持 全新猛士M817满足每一位家人的越野向往",
-      "summary": "6月27日,“豪华智能越野SUV”全新猛士M817在武汉沌口体育中心正式上市,共推出全新猛士M817 Ultra、Max+、Max、Mate+、Mate五大版本,上市价格29.99万元-39.99万元。作为华为乾崑和猛士汽车合作的巅峰之作,全新猛士M817将全场景越野性能、顶尖智能、舒适体验“不可能三角”完美融为一体,一举打破行业现状,带来全家人都能享受的全新生活方式。 据了解,即日起下订全新猛士...",
-      "source": "Imobile",
-      "date": "2026-06-27",
-      "url": "http://news.imobile.com.cn/articles/2026/0627/234868.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/969/518.htm",
-      "title": "充电全程不用下车:理想行业首座全自动充电站落地,5C 超充桩已突破 5000 根",
-      "summary": "IT之家 6 月 27 日消息,理想汽车 6 月 25 日发布了最新的 2026 年第二季度超充运营报告。数据显示,截至 6 月 23 日,理想超充网络累计充电量突破 10 亿度,累计服务次数超过 3900 万次。 其中,理想 5C 超充桩数量已突破 5000 根,全部配备 5C 超充桩的全 5C 站点超过 600 座。超充网络已覆盖全国 160 条高速公路,服务高速里程总计超过 10 万公里。今...",
+      "id": "https://www.ithome.com/0/969/717.htm",
+      "title": "比亚迪海洋网 6 系车型获推 OTA 升级:新增全向行车记录仪、哨兵模式高风险视频上传等",
+      "summary": "IT之家 6 月 28 日消息,比亚迪汽车海洋网销售事业部总经理张卓今晚宣布,海洋网 6 系车型获推全新 OTA 升级,带来 10+ 项新增功能和 10+ 项体验优化。 此外,海狮 06、海豹 06EV、海豹 06GT 智驾版、海豹 06DM-i 旅行版车型还有专属新增 / 优化功能。 IT之家附本次更新主要内容如下: 功能新增 手车互联 HUAWEI HiCar 适配镜像模式:针对鸿蒙 6.0 ...",
       "source": "Ithome",
-      "date": "2026-06-27",
-      "url": "https://www.ithome.com/0/969/518.htm"
+      "date": "2026-06-28",
+      "url": "https://www.ithome.com/0/969/717.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1782562412169594.html",
-      "title": "MWC26上海观察:AI重构后,网络如何兑现Token价值",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-27",
-      "url": "https://www.bjnews.com.cn/detail/1782562412169594.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad74nkqp/",
-      "title": "刚刚!中国牵头制定全球首个自动驾驶法规,L3/L4级系统终于有统一标准了",
-      "summary": "01联合国自动驾驶系统全球技术法规获批发布2026年6月22日至26日,联合国世界车辆法规协调组织(UN/WP.29)第199次全体会议在瑞士日内瓦召开。会上,由中国、欧盟、英国、美国、加拿大和日本共同牵头制定的联合国自动驾驶系统全球技术法规(ADS G......",
-      "source": "Smzdm",
-      "date": "2026-06-27",
-      "url": "https://post.smzdm.com/p/ad74nkqp/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/dwq/2026/06-27/10648652.shtml",
-      "title": "从三机跃升到叠“豆腐块”——驻香港部队双营开放侧记",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-06-27",
-      "url": "https://www.chinanews.com.cn/dwq/2026/06-27/10648652.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/969/484.htm",
-      "title": "特斯拉就首例 FSD 行人致命事故达成和解,NHTSA 调查持续深入",
-      "summary": "IT之家 6 月 27 日消息,特斯拉公司已就一起 2023 年发生的致命事故达成和解,该事故涉及一辆开启 FSD 功能的 Model Y。这起事故也是已知的首例与特斯拉 FSD 系统相关的行人死亡案例。 公开报道显示,该起事故发生于 2023 年 11 月 28 日,地点在亚利桑那州弗拉格斯塔夫(Flagstaff)与菲尼克斯(Phoenix)之间的一条高速公路上。 当时,71 岁的约翰娜 · ...",
+      "id": "https://www.ithome.com/0/969/716.htm",
+      "title": "启境 GX7 智能「阔」五座 SUV 官图发布,行业首发三折叠纯平大床",
+      "summary": "IT之家 6 月 28 日消息,启境汽车今日发布了旗下新一代智能「阔」五座 SUV —— 启境 GX7 的官图。 新车已于 6 月 26 日完成首秀 。 从此次官方预热信息来看,启境 GX7 依旧由启境和华为乾崑联合设计, 采用 60% 轴长比启境家族化设计 ,是一款拥有跑车姿态的大 SUV。新车还采用俯冲低趴下压车头 + 宽幅外扩的前后轮拱设计。 启境 GX7 将行业首发三折叠纯平大床 ,支持 ...",
       "source": "Ithome",
-      "date": "2026-06-27",
-      "url": "https://www.ithome.com/0/969/484.htm"
+      "date": "2026-06-28",
+      "url": "https://www.ithome.com/0/969/716.htm"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0627/932627.shtml",
-      "title": "尊界冲刺138.8万元 余承东照着提词器念了20分钟",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-06-27",
-      "url": "http://www.eeo.com.cn/2026/0627/932627.shtml"
+      "id": "http://baijiahao.baidu.com/s?id=1863803057630668310",
+      "title": "家庭越野首选 二代哈弗 H9 2026 款限时优惠..",
+      "summary": "4月28日,二代哈弗H92026款正式上市,官方预售价格19.99万元~24.79万元。购车即享15000元的现金礼,以及10000元的置换礼,限时优惠换新价直接来到17.49万元~22.29万元。另...",
+      "source": "News_Baidu",
+      "date": "2026-06-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863803057630668310"
     },
     {
-      "id": "https://news.seehua.com/post/1505625",
-      "title": "霍尔木兹海峡风波再起 又一艘船遇袭",
-      "summary": "(伦敦、伊朗27日讯)英国海上贸易行动办公室(UKMTO)周六通报,一艘油轮当天在霍尔木兹海峡航行时遭“不明投 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-27",
-      "url": "https://news.seehua.com/post/1505625"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/world/story20260627-9275924",
-      "title": "美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠",
-      "summary": "(华盛顿/德黑兰综合电)伊朗周六(6月27日)对美国早前的袭击展开报复,袭击美军关联目标。同一天,霍尔木兹海峡再有一艘油轮遭不明投射物击中,海峡局势使得美伊停火安排摇摇欲坠。...",
-      "source": "Zaobao",
-      "date": "2026-06-27",
-      "url": "https://www.zaobao.com.sg/news/world/story20260627-9275924"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260627-%E6%97%A5%E6%9C%AC%E6%8B%9F%E8%8E%B7%E5%BE%97%E5%85%B7%E5%8F%8D%E8%88%B0%E6%94%BB%E5%87%BB%E8%83%BD%E5%8A%9B%E6%97%A0%E4%BA%BA%E6%BD%9C%E8%89%87-%E8%80%83%E8%99%91%E5%9C%A8%E5%B0%8F%E7%AC%A0%E5%8E%9F%E7%BE%A4%E5%B2%9B%E4%B8%8A%E7%A9%BA%E8%AE%BE%E9%98%B2%E8%AF%86%E5%8C%BA",
-      "title": "日本拟获得具反舰攻击能力无人潜艇 考虑在小笠原群岛上空设防识区",
-      "summary": "据共同社援引多名相关人士报导称,作为加强太平洋沿岸防卫体制的一环,日本政府已着手研究正式开发和引进具备反舰攻击等能力的无人潜艇。在太平洋广阔的海域,中国正不断加强海洋扩张,而日本的防卫体制却被指出存在“空白”。...",
+      "id": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260628-%E4%B8%AD%E5%9B%BD%E5%B0%8A-%E5%91%A8%E5%9B%B4%E5%AE%9E%E6%96%BD%E4%B8%A5%E6%A0%BC%E5%B0%81%E9%94%81%E6%92%9E%E5%87%BB%E7%97%95%E8%BF%B9%E8%BF%9C%E5%A4%84%E4%BB%8D%E5%8F%AF%E8%A7%81-%E6%B0%91%E8%88%AA%E7%95%8C%E6%96%99%E5%8C%97%E4%BA%AC%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9C%80%E4%B8%A5%E7%A6%81%E7%A9%BA%E4%BB%A4",
+      "title": "“中国尊”周围实施严格封锁撞击痕迹远处仍可见 民航界料北京将迎来最严禁空令",
+      "summary": "北京市朝阳区官方信息平台“北京朝阳”微信公众号周六发布的“情况通报”称,“6月26日17时55分,在朝阳区东三环附近,一架单发双座轻型运动航空器在飞行中碰撞一高层建筑,机上仅驾驶员1人、已死亡,现场13人受伤”。该通报称,受伤人员在全力救治中。相关情况正由主管部门进一步调查。当地时间周日(28日)中午,韩联社记者试图接近事发地,被告知“您不能进入此区域,这里正在施工”。...",
       "source": "Rfi_Fr",
-      "date": "2026-06-27",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260627-%E6%97%A5%E6%9C%AC%E6%8B%9F%E8%8E%B7%E5%BE%97%E5%85%B7%E5%8F%8D%E8%88%B0%E6%94%BB%E5%87%BB%E8%83%BD%E5%8A%9B%E6%97%A0%E4%BA%BA%E6%BD%9C%E8%89%87-%E8%80%83%E8%99%91%E5%9C%A8%E5%B0%8F%E7%AC%A0%E5%8E%9F%E7%BE%A4%E5%B2%9B%E4%B8%8A%E7%A9%BA%E8%AE%BE%E9%98%B2%E8%AF%86%E5%8C%BA"
+      "date": "2026-06-28",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260628-%E4%B8%AD%E5%9B%BD%E5%B0%8A-%E5%91%A8%E5%9B%B4%E5%AE%9E%E6%96%BD%E4%B8%A5%E6%A0%BC%E5%B0%81%E9%94%81%E6%92%9E%E5%87%BB%E7%97%95%E8%BF%B9%E8%BF%9C%E5%A4%84%E4%BB%8D%E5%8F%AF%E8%A7%81-%E6%B0%91%E8%88%AA%E7%95%8C%E6%96%99%E5%8C%97%E4%BA%AC%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9C%80%E4%B8%A5%E7%A6%81%E7%A9%BA%E4%BB%A4"
     },
     {
-      "id": "https://www.ithome.com/0/969/481.htm",
-      "title": "优步在美推行最严网约车司机背调新规,重罪记录终身禁入",
-      "summary": "IT之家 6 月 27 日消息,网约车巨头优步(Uber)于当地时间 6 月 26 日宣布,将全面升级其在美国的司机背景调查制度。 这项被公司称为“行业最严”的新标准,旨在回应长期以来公众对其安全政策的质疑以及面临的大量性侵相关诉讼。新政策将于 2026 年 6 月 29 日(下周一)正式生效。 新规的核心在于大幅扩展了适用的犯罪记录类型。此前,优步仅对谋杀、性侵、绑架和恐怖主义等罪名实施终身禁令...",
+      "id": "https://www.ithome.com/0/969/681.htm",
+      "title": "消息称比亚迪自研智驾芯片璇玑 A3 预计 2027 年首搭腾势品牌量产车型",
+      "summary": "IT之家 6 月 28 日消息,据晚点 Auto 消息, 比亚迪正计划明年在腾势品牌的量产新车上首搭自研智驾芯片璇玑 A3 。 一位自研芯片的智驾方案供应商员工表示, 智驾芯片从流片到上车,通常至少还需要一年 ,芯片本身、算法部署、整车适配都要逐一验证,因此芯片落地时间很难压缩。 据IT之家此前报道,5 月 28 日, 比亚迪发布自研智驾芯片“璇玑 A3” ,该芯片已开启规模化量产,支持 L3/L...",
       "source": "Ithome",
-      "date": "2026-06-27",
-      "url": "https://www.ithome.com/0/969/481.htm"
+      "date": "2026-06-28",
+      "url": "https://www.ithome.com/0/969/681.htm"
     },
     {
-      "id": "http://www.chinanews.com.cn/tp/hd2011/2026/06-27/1196122.shtml",
-      "title": "驻香港部队新围军营向香港市民开放",
-      "summary": "图为格斗技术展示。中新网记者 李志华 摄 图为刺杀操展示。中新网记者 李志华 摄 图为猎人战斗展示。中新网记者 李志华 摄 图为无人机模拟攻击目标。中新网记者 李志华 摄 图为猎人战斗展示。中新网记者 李志华 摄 图为无人机营救“伤者”。中新网记者 李志华 摄 图为香港学生、教师等与官兵在车辆前合影。中新网记者 李志华 摄 图为一名女士进行模拟射击体验。中新网记者 李志华 摄 图为小朋友体验车辆驾...",
-      "source": "Chinanews",
-      "date": "2026-06-27",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/06-27/1196122.shtml"
+      "id": "https://post.smzdm.com/p/awwp48mg/",
+      "title": "沉浸感拉满!Euro Truck 2新版内置5大官方电台,版权安全适合直播",
+      "summary": "01游戏电台系统正式上线SCS Software于2026年5月30日正式发布《欧洲卡车模拟2》1.60版本更新,该版本带来了游戏自上线以来最为重要的底层机制改动之一。本次更新涵盖音频系统重构、视觉材质升级、卡车外观配件扩充以及驾驶疲劳系统的全面重制等多......",
+      "source": "Smzdm",
+      "date": "2026-06-28",
+      "url": "https://post.smzdm.com/p/awwp48mg/"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/east/2026/06/27/828885",
-      "title": "树木突倒下险砸轿车 一家人饱受惊吓",
-      "summary": "(瓜登27日讯)一家人驾车途经登州乌鲁登嘉楼一处T字路口右转后,一棵路旁大树突然轰然倒下,几乎横跨整条道路,险些砸中轿车,所幸一家人均平安无事,仅轿车车头轻微受损。一名网民日前在社交媒体分享行车记录器视频显示,事件于本周四下午约4时20分发生,地点疑位于乌鲁登嘉楼县甘榜杜拉(Kg. Dura)及甘榜瓜拉布宜(Kg. Kuala Pueh)一带的路段。视频可见,轿车由一个T字路口右转后驶入道路,不到...",
-      "source": "Orientaldaily",
-      "date": "2026-06-27",
-      "url": "https://www.orientaldaily.com.my/news/east/2026/06/27/828885"
+      "id": "https://news.seehua.com/post/1506037",
+      "title": "美里警方深夜扫荡飙车党 扣16摩托开罚45张",
+      "summary": "(美里28日讯) 美里警方持续严打非法飙车活动,在周六(27日)深夜展开“街头流氓行动”(Op Samseng [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-28",
+      "url": "https://news.seehua.com/post/1506037"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1863695639753666085",
-      "title": "北京车展纵横G700全家族登场,原厂改装一步到位",
+      "id": "https://news.cri.cn/20260628/d6445642-9a46-47fc-8a26-9ae1230e0912.html",
+      "title": "与你我有关!下月起,这些新规将施行-国际在线",
+      "summary": "7月1日起,我国对外投资领域的首部行政法规——《国务院关于对外投资的规定》将正式施行。《规定》将个人投资者纳入适用范围,对于个人通过红筹结构进行的返程投资以及其他形式的、以获得股权或控制权为目的的对外直接投资均有影响。 日前,人社部会...",
+      "source": "Cri_Cn",
+      "date": "2026-06-28",
+      "url": "https://news.cri.cn/20260628/d6445642-9a46-47fc-8a26-9ae1230e0912.html"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260628-9277029",
+      "title": "退役前首夺最高荣誉 服役31年榜鹅号获最佳海事安全单位",
+      "summary": "服役超过30年、即将逐步退役的勿洛级猎雷艇榜鹅号,首次获颁新加坡武装部队年度“最佳海事安全单位”,为这型肩负守护我国海域及贸易航道使命多年的军舰,再添一项重要荣誉。...",
+      "source": "Zaobao",
+      "date": "2026-06-28",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260628-9277029"
+    },
+    {
+      "id": "https://www.ithome.com/0/969/720.htm",
+      "title": "新疆牧民呼吁游客文明放飞无人机:自家养的小马遭飞行器追赶“炸肺死亡”",
+      "summary": "IT之家 6 月 28 日消息,近年来许多游客任意操作无人机飞行,造成诸多不文明行为。据北京日报报道,新疆和静县一位牧民“热那提 · 阿里木江”联系记者,称自家一匹刚出生 7 天的小马因被游客无人机惊扰,在狂奔躲避中炸肺死亡,相应消息引起网络热议。 IT之家参考报道获悉,热那提 · 阿里木江称,晚上自己在找马时邻居打电话说看到有游客用无人机在追马群,赶过去时发现自家的小马驹已经倒地不起,虽连夜照顾...",
+      "source": "Ithome",
+      "date": "2026-06-28",
+      "url": "https://www.ithome.com/0/969/720.htm"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0628/933565.shtml",
+      "title": "华为乾崑“原生车”,启境GT7高调入市",
+      "summary": "在广汽集团和引望公司深度共创的“原生融合”模式的加持下,启境既承担着广汽集团品牌向上的诉求,也肩负着引望公司打造“境”字辈品牌序列的野心。...",
+      "source": "Eeo",
+      "date": "2026-06-28",
+      "url": "http://www.eeo.com.cn/2026/0628/933565.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1863783459258257616",
+      "title": "BJ40增程长续航版北京车展开启预售,北京越野×宁..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-06-27",
-      "url": "http://baijiahao.baidu.com/s?id=1863695639753666085"
+      "date": "2026-06-28",
+      "url": "http://baijiahao.baidu.com/s?id=1863783459258257616"
     },
     {
-      "id": "https://post.smzdm.com/p/a6zqrln0/",
-      "title": "实测数据来了!激光雷达在暴雨中探测距离直接腰斩",
-      "summary": "激光雷达作为自动驾驶感知系统的核心传感器之一,其在恶劣天气环境下的表现直接影响智能驾驶的安全边界。雨、雾、雪等天气条件会对激光雷达的物理探测能力造成显著影响,这一问题在技术层面与用户实际体验中均有广泛讨论。多源素材显示,激光雷达在暴雨天气下存在探测距离衰......",
+      "id": "https://www.ithome.com/0/969/619.htm",
+      "title": "搭载 L4 级自动驾驶系统,特斯拉 Cybercab 官方救援指南披露海量重磅信息",
+      "summary": "IT之家 6 月 28 日消息,特斯拉悄然发布了 Cybercab 应急救援人员操作指南,这份文件中披露了关于这款自动驾驶无人出租目前最确切的多项技术实锤信息。从车辆官方 SAE 自动驾驶分级标准,到它遇到应急车辆时的行驶逻辑,这份指南补齐了诸多特斯拉此前从未在单一官方文件中集中公布过的细节。 IT之家注意到,特斯拉应急救援指南明确将 Cybercab 的自动驾驶系统归类为 SAE 4 级自动驾驶...",
+      "source": "Ithome",
+      "date": "2026-06-28",
+      "url": "https://www.ithome.com/0/969/619.htm"
+    },
+    {
+      "id": "https://news.seehua.com/post/1505895",
+      "title": "伦敦商区汽车撞人5伤 索马里司机被捕",
+      "summary": "(伦敦28日讯)英国一名男子因涉嫌在伦敦西部一条繁忙的商业街上驾车怀疑蓄意撞向人群而被逮捕。 据英国广播公司( [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-28",
+      "url": "https://news.seehua.com/post/1505895"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrpo3lx/",
+      "title": "长安启源A06新推车型,是性价比之王还是内卷加剧?",
+      "summary": "在10-15万元纯电轿车市场,长安启源A06与小鹏MONA M03是两款备受关注的车型。两款车在2026年均完成产品更新,售价高度重叠,市场定位也有所交集。本文基于多源素材,对两款车在空间、续航、充电、动力、底盘、智能驾驶及舒适配置等维度的表现进行横向梳......",
       "source": "Smzdm",
-      "date": "2026-06-27",
-      "url": "https://post.smzdm.com/p/a6zqrln0/"
+      "date": "2026-06-28",
+      "url": "https://post.smzdm.com/p/aqrpo3lx/"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3436501",
-      "title": "新股消息 | 华大北斗三次递表港交所 2025年公司专用GNSS芯片及模块出货量达3210万件",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-27",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3436501"
+      "id": "https://post.smzdm.com/p/anvo0zr2/",
+      "title": "腾势N8L标配天神之眼5.0,智驾系统敢放心用吗?",
+      "summary": "腾势N8L闪充版于2026年6月23日正式上市,共推出闪充尊荣型与闪充旗舰型两个版本,官方指导价区间为31.98万元至34.98万元。新车定位大六座家庭豪华SUV,全系标配第二代刀片电池与闪充技术、易三方智能底盘、天神之眼5.0辅助驾驶系统、云辇-A智能......",
+      "source": "Smzdm",
+      "date": "2026-06-28",
+      "url": "https://post.smzdm.com/p/anvo0zr2/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a036ngvw/",
+      "title": "实测2026款哈佛H6智能驾驶:有点惊喜也有点遗憾",
+      "summary": "01硬件配置与感知系统:传感器组合方案2026款哈弗H6在智能驾驶感知硬件方面采用了多传感器融合方案。根据各素材呈现的信息,车辆主要依靠前向毫米波雷达(77GHz)与单目摄像头(置于后视镜上方)实现环境感知,配合12个超声波雷达覆盖低速场景补盲。部分中高......",
+      "source": "Smzdm",
+      "date": "2026-06-28",
+      "url": "https://post.smzdm.com/p/a036ngvw/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az84gzr0/",
+      "title": "9.98万配高阶智驾!实测比亚迪秦L这套系统到底行不行",
+      "summary": "2025年2月,比亚迪秦L DM-i智驾版正式上市,全系标配天神之眼C高阶智驾系统,将高速NOA、自动泊车等高阶驾驶辅助功能下探至9.98万元价位区间。这一举措在10万级家轿市场引发广泛关注。本文基于多源素材,对秦L智驾版的感知硬件配置、自动泊车系统能力......",
+      "source": "Smzdm",
+      "date": "2026-06-28",
+      "url": "https://post.smzdm.com/p/az84gzr0/"
+    },
+    {
+      "id": "https://www.dailystar.co.uk/news/weird-news/smart-self-driving-toilet-follow-37345532",
+      "title": "Smart self-driving toilet will follow you around the house and can be summoned",
+      "summary": "The Chinese technology firm Yueban has created the autonomous toilet to help people with limited mobility. It aims to reduce the need for people to make their way to a toilet...",
+      "source": "The daily Star",
+      "date": "2026-06-28",
+      "url": "https://www.dailystar.co.uk/news/weird-news/smart-self-driving-toilet-follow-37345532"
     },
     {
       "id": "https://thenextweb.com/news/trump-dot-brake-pedal-autonomous-vehicles-tesla-zoox",
@@ -265,6 +237,22 @@
       "source": "PR Newswire UK",
       "date": "2026-06-23",
       "url": "https://www.prnewswire.co.uk/news-releases/einride-appoints-seasoned-public-company-board-director-and-financial-executive-r-lynn-atchison-to-its-board-of-directors-302807708.html"
+    },
+    {
+      "id": "https://www.indiatoday.in/auto/cars/story/xiaomi-yu7-gt-becomes-first-vehicle-to-complete-nurburgring-lap-without-a-driver-2932588-2026-06-23",
+      "title": "This EV becomes the first car to complete Nurburgring lap without a driver",
+      "summary": "Xiaomi has achieved a world-first autonomous driving milestone, with the YU7 GT completing the Nurburgring Nordschleife without a driver, prompting the iconic circuit to create a dedicated autonomous ...",
+      "source": "India Today",
+      "date": "2026-06-23",
+      "url": "https://www.indiatoday.in/auto/cars/story/xiaomi-yu7-gt-becomes-first-vehicle-to-complete-nurburgring-lap-without-a-driver-2932588-2026-06-23"
+    },
+    {
+      "id": "https://www.gizchina.com/xiaomi-tablets-tech/qualcomm-reportedly-eyeing-4-billion-acquisition-of-ai-chip-startup-modular",
+      "title": "Qualcomm Reportedly Eyeing $4 Billion Acquisition of AI chip Startup Modular",
+      "summary": "Qualcomm is reportedly negotiating a $4 billion acquisition of AI chip startup Modular as it expands into artificial intelligence, data centers, and autonomous driving....",
+      "source": "Gizchina.com",
+      "date": "2026-06-23",
+      "url": "https://www.gizchina.com/xiaomi-tablets-tech/qualcomm-reportedly-eyeing-4-billion-acquisition-of-ai-chip-startup-modular"
     }
   ]
 }
