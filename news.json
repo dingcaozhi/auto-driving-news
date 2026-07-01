@@ -1,236 +1,228 @@
 {
-  "lastUpdated": "2026-06-30 04:13:43",
-  "totalCount": 35,
+  "lastUpdated": "2026-07-01 04:42:05",
+  "totalCount": 31,
   "sources": {
     "Bilibili": 5,
-    "Eeo": 2,
-    "Fx168News": 2,
-    "Investing_Cn": 1,
-    "Rfi_Fr": 2,
-    "Ithome": 5,
-    "News_Baidu": 1,
-    "Orientaldaily": 2,
+    "News_Baidu": 13,
+    "Smzdm": 2,
     "Zaobao": 1,
-    "News_Seehua": 4,
-    "Bjnews": 1,
-    "GlobeNewswire": 1,
-    "MarketScreener": 1,
-    "Reuters": 1,
-    "The daily Star": 1,
-    "TNW": 1,
-    "Times of India": 1,
-    "India Today": 1,
+    "Bjnews": 2,
+    "The Economic Times": 1,
     "The Star": 1,
-    "The Japan Times ": 1
+    "CNBC": 1,
+    "GlobeNewswire": 1,
+    "MarketScreener": 2,
+    "The daily Star": 1,
+    "TNW": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-06-30",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-06-30",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1HUKU6xEcf",
-      "title": "【B站】L3和L4自动驾驶，有什么区别？",
+      "id": "https://www.bilibili.com/video/BV19bKX6REei",
+      "title": "【B站】当我试图学习人工智能、自动驾驶，知识就这样溜走了。#小鹏世界模型已进化出预测未来能力#小鹏纯视觉技术论文获得国际认可#小鹏汽车",
       "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-06-30",
-      "url": "https://www.bilibili.com/video/BV1HUKU6xEcf"
+      "date": "2026-07-01",
+      "url": "https://www.bilibili.com/video/BV19bKX6REei"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1zD786aE4p",
-      "title": "【B站】没有驾驶室的自动驾驶卡车即将实现量产",
-      "summary": "你敢信吗？25万就能买一辆自动驾驶卡车，比很多SUV都便宜。这个被称为运输机器人的自动驾驶卡车，没有驾驶室，支持20至40尺多规格货箱灵活切换，配备了ETX激光雷达、补盲雷达FTX和宁德时代的换电系统，可在5分钟左右极速换电，能实现7×24小时不间断运营。面对突发状况、多车协同调动能快速生成最优决策...",
+      "id": "https://www.bilibili.com/video/BV1kgKD6FEGL",
+      "title": "【B站】7.8这批港股，几乎被AI和自动驾驶包场",
+      "summary": "7.8这批港股新股，几乎被了AI和自动驾驶包场\n\n这一批7月8日上市的新股，风格其实很集中。\nMomenta偏“大票逻辑”，卖的是自动驾驶平台想象力；\n易控智驾更像“场景先落地”，矿区无人驾驶更接近商业化；\n瑞为技术是视觉智能，走的是AI感知路线；\n基本半导体和东方科脉则更偏硬件底层，一个看功率半导...",
       "source": "Bilibili",
-      "date": "2026-06-30",
-      "url": "https://www.bilibili.com/video/BV1zD786aE4p"
+      "date": "2026-07-01",
+      "url": "https://www.bilibili.com/video/BV1kgKD6FEGL"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1PDKX6rEXo",
-      "title": "【B站】Waymo：自动驾驶领跑者！ Sebastian Thrun：自动驾驶教父！ Google秘密研发15年，AI正在接管真实世界？ 没有司机的世界会变成什么样子？",
-      "summary": "🏆 Matt聊创业｜🏅 海内外连续创业家 ｜🏅 创业顾问 ｜🏅 创业陪跑者\n\nWaymo到底是一家自动驾驶公司，还是Google正在打造的「现实世界AI作业系统」？\n很多人以为Waymo只是Robotaxi、无人驾驶出租车，但如果深入研究你会发现：Waymo真正改变的，可能不只是交通，而是整个城市、...",
+      "id": "https://www.bilibili.com/video/BV1JSTF6sECH",
+      "title": "【B站】【2026最新自动驾驶算法】保姆级教程，基于激光雷达的3D点云目标检测算法实战，算法原理+实战项目！AI大佬带你从入门精通，究极通俗易懂！-AI/点云/自动驾驶",
+      "summary": "B站视频",
       "source": "Bilibili",
+      "date": "2026-07-01",
+      "url": "https://www.bilibili.com/video/BV1JSTF6sECH"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1E9TF6QE7o",
+      "title": "【B站】神人自动驾驶",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-07-01",
+      "url": "https://www.bilibili.com/video/BV1E9TF6QE7o"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Vs421M7VG",
+      "title": "【B站】别人的自动驾驶VS日本自动驾驶，网友直呼：怎么有种机器算盘的感觉，十万落地的车，多了个二十万的司机...机器学习|深度学习|计算机视觉|人工智能",
+      "summary": "全套原视频+配套源码+数据集打包放在【公棕耗：AI技术星球，回-复暗号：44， 即可精准无--偿获取学习】...",
+      "source": "Bilibili",
+      "date": "2026-07-01",
+      "url": "https://www.bilibili.com/video/BV1Vs421M7VG"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869429436748047954",
+      "title": "湘滨电子创业板IPO获受理 加码线控底盘拓宽成长赛..",
+      "summary": "本报讯(记者吴奕萱见习记者钟雨润)近日,深交所官网显示,杭州湘滨电子科技股份有限公司(以下简称“湘滨电子”)创业板IPO获得受理。湘滨电子成立于2014年,主要从事汽车电子控制器的研发...",
+      "source": "News_Baidu",
       "date": "2026-06-30",
-      "url": "https://www.bilibili.com/video/BV1PDKX6rEXo"
+      "url": "http://baijiahao.baidu.com/s?id=1869429436748047954"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0629/935318.shtml",
-      "title": "猛士汽车把“天梯”搬进体育馆:一场新车发布会背后的流量焦虑",
-      "summary": "通常新车的动态展示会选择户外越野场地或专业试驾赛道,如此前路虎揽胜和奇瑞风云X3L都曾在张家界天门山攀爬过999级天梯,前者成功登顶,后者因轮胎打滑失控,挑战失败。猛士汽车将越野攀爬场景移植到封闭的体育馆内,目的很明确:用视觉冲击吸引注意力。...",
-      "source": "Eeo",
-      "date": "2026-06-29",
-      "url": "http://www.eeo.com.cn/2026/0629/935318.shtml"
+      "id": "http://baijiahao.baidu.com/s?id=1869314263799019776",
+      "title": "Momenta今起招股 14家“全明星”基石罕见集..",
+      "summary": "本报讯(记者袁传玺)2026年6月29日,全球领先的物理AI公司Momenta披露全球发售文件,正式启动招股。根据发行方案,Momenta本次IPO计划全球发售1993.83万股,其中...",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869314263799019776"
     },
     {
-      "id": "https://www.fx168news.com/article/1050456",
-      "title": "特斯拉(TSLA)股票6月29日盘中上涨3.08%:投资者必看的核心信息-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.08%, 所属行业汽车与零部件上涨1.89% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.08%;Rivian Automotive Inc (RIVN) 上涨 2.94%;Ford Motor Co (F) 下跌 0.21%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉股价周一呈现出显著的上涨势头,并伴随着剧烈的盘中波动...",
-      "source": "Fx168News",
-      "date": "2026-06-29",
-      "url": "https://www.fx168news.com/article/1050456"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1050449",
-      "title": "Bitget 启动第三届反诈宣传月活动,并发布多资产诈骗最新报告-FX168",
-      "summary": "塞舌尔维多利亚, June 29, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易平台 (UEX) Bitget 已正式启动第三届反诈宣传月活动,并发布题为《多资产时代下的诈骗演变》(The Evolution of Fraud in the Multi-Asset Era) 的 2026 年反诈报告,该报告是与区块链安全公司 SlowMist 合作编制的。 随着数字金融在加...",
-      "source": "Fx168News",
-      "date": "2026-06-29",
-      "url": "https://www.fx168news.com/article/1050449"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3438305",
-      "title": "MicroVision向一家AI公司交付激光雷达传感器用于评估测试",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-06-29",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3438305"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260629-%E5%AE%98%E5%AA%92%E6%B2%89%E9%BB%98-%E7%BD%91%E7%BB%9C%E6%97%A0%E5%A3%B0-%E8%BD%BB%E5%9E%8B%E9%A3%9E%E6%9C%BA%E6%92%9E%E5%8C%97%E4%BA%AC%E6%9C%80%E9%AB%98%E6%A5%BC%E4%BA%8B%E4%BB%B6%E8%B0%9C%E5%9B%A2%E4%BE%9D%E6%97%A7",
-      "title": "官媒沉默 网络无声 轻型飞机撞北京最高楼事件谜团依旧",
-      "summary": "在经历了持续11天历史性高温之后,法国周一(6月29日)终于逐渐走出热浪,随之而来的是对此次热浪造成影响几多的关注,官方初步统计数字出台引发各报从不同层面的争相报道。...",
-      "source": "Rfi_Fr",
-      "date": "2026-06-29",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260629-%E5%AE%98%E5%AA%92%E6%B2%89%E9%BB%98-%E7%BD%91%E7%BB%9C%E6%97%A0%E5%A3%B0-%E8%BD%BB%E5%9E%8B%E9%A3%9E%E6%9C%BA%E6%92%9E%E5%8C%97%E4%BA%AC%E6%9C%80%E9%AB%98%E6%A5%BC%E4%BA%8B%E4%BB%B6%E8%B0%9C%E5%9B%A2%E4%BE%9D%E6%97%A7"
-    },
-    {
-      "id": "https://www.ithome.com/0/970/186.htm",
-      "title": "地平线发布辅助驾驶系统 HSD V2.0:世界模型 + 端到端强化学习,奇瑞 iCAR V27 明日起开放 OTA 升级",
-      "summary": "IT之家 6 月 29 日消息,地平线今日发布全场景辅助驾驶系统 HSD V2.0 版本,基于世界模型 + 端到端强化学习。 IT之家获悉,地平线 HSD V2.0 即将开启车企推送, 其中 iCAR V27 作为首批搭载车型,将于 6 月 30 日起分批次向车主用户开放 OTA 升级 。更多合作车型的推送时间及功能体验以车企公告为准。 官方表示,HSD V2.0 版本包含 6 大维度进化(模型升...",
-      "source": "Ithome",
-      "date": "2026-06-29",
-      "url": "https://www.ithome.com/0/970/186.htm"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260629-%E8%91%A3%E5%B9%BF%E5%B9%B3-%E6%80%95%E6%AD%BB%E4%B9%9F%E6%B2%A1%E6%9C%89%E7%94%A8%EF%BC%8C%E5%BE%80%E5%89%8D%E8%B5%B0%EF%BC%8C%E8%BF%98%E6%9C%89%E7%94%9F%E7%9A%84%E6%9C%BA%E4%BC%9A",
-      "title": "董广平:“怕死也没有用,往前走,还有生的机会 ”",
-      "summary": "乘坐一艘快没电的小艇,在海上航行了大约40个小时,抵达韩国后遭到拘留......这仅仅是中国异见人士董广平为了逃离祖国所经历的一部分苦难。董广平上周晚些时候已经从韩国抵达加拿大和家人团聚,这是他十多年来一直向往的目的地。...",
-      "source": "Rfi_Fr",
-      "date": "2026-06-29",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260629-%E8%91%A3%E5%B9%BF%E5%B9%B3-%E6%80%95%E6%AD%BB%E4%B9%9F%E6%B2%A1%E6%9C%89%E7%94%A8%EF%BC%8C%E5%BE%80%E5%89%8D%E8%B5%B0%EF%BC%8C%E8%BF%98%E6%9C%89%E7%94%9F%E7%9A%84%E6%9C%BA%E4%BC%9A"
-    },
-    {
-      "id": "https://www.ithome.com/0/970/180.htm",
-      "title": "岚图追光 S 纯电轿跑 SUV 七种车身配色公布,灵感源于全天光影美学",
-      "summary": "IT之家 6 月 29 日消息,岚图汽车今日公布了旗下全新中大型纯电轿跑 SUV 追光 S 的车身配色方案,新车将提供七种灵感源自全天光影美学的车身颜色,并搭载华为最新智能驾驶系统,计划于 2026 年年中正式上市。 IT之家注意到,追光 S 在车身配色上突破常规,推出跃日红、麦芒黄、烟霞粉、暮山紫、星光银、玄英黑、杜若白七种颜色选择。据官方介绍,这套配色方案的灵感来源于一天中不同时段的光影变化,...",
-      "source": "Ithome",
-      "date": "2026-06-29",
-      "url": "https://www.ithome.com/0/970/180.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1863893026938715948",
-      "title": "硬派越野也要“电感”进化 BJ40增程版能否重塑2..",
+      "id": "http://baijiahao.baidu.com/s?id=1869311730123848127",
+      "title": "从上海到苏南:玛斯特智慧的无人装备“场景深耕”之道",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-06-29",
-      "url": "http://baijiahao.baidu.com/s?id=1863893026938715948"
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869311730123848127"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/06/29/829343",
-      "title": "恐吓国能抄表员引警调查 43岁男子车内藏枪弹被捕",
-      "summary": "(加央29日讯) 一名本地男子涉嫌恐吓国家能源公司抄表员后遭警方逮捕,警方进一步调查时,更在其名下的一辆休旅车内起获一把手枪、一枚装有10发实弹的弹匣,并揭发嫌犯拥有17项刑事及毒品等前科。玻璃市总警长拿督莫哈末阿都哈林今日召开记者会指出,现年43岁的嫌犯为一名泰裔本地男子,警方于本月15日在巴东勿刹甘榜古邦迪卡(Kampung Kubang Tiga)一带将他逮捕。他说,嫌犯早前于本月9日涉嫌恐...",
-      "source": "Orientaldaily",
-      "date": "2026-06-29",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/06/29/829343"
+      "id": "http://baijiahao.baidu.com/s?id=1869434405136091856",
+      "title": "30支队伍200余名选手参赛!群力外滩生态湿地公园..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869434405136091856"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/china/story20260629-9283114",
-      "title": "缪宗翰:一架小飞机撞出的中国安全风险",
-      "summary": "6月26日傍晚5时55分,正值北京东三环中央商务区的下班尖峰。夕阳余晖洒在528米高的北京最高楼——中信大厦(又称中国尊)玻璃幕墙上。然而,伴随一声刺耳的轰鸣与剧烈撞击,一架单发双座轻型运动航空器直接撞上了这座金融地标。飞机残骸随后坠落,现场浓烟滚滚。...",
+      "id": "https://post.smzdm.com/p/a0325xq8/",
+      "title": "问界M9 vs 大众ID.ERA 9X:40个传感器硬刚26个,谁的智驾更顶?",
+      "summary": "在当前高端新能源SUV市场中,问界M9与上汽大众ID.ERA 9X分别代表了自主品牌与合资品牌在智能化领域的技术路线。两款车型均定位大六座家用SUV市场,均搭载增程混动系统,均主打高阶智能驾驶辅助功能。由于市场定位与目标用户群体高度重叠,两款车常被消费者......",
+      "source": "Smzdm",
+      "date": "2026-06-30",
+      "url": "https://post.smzdm.com/p/a0325xq8/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869328207994852383",
+      "title": "首只上市!硬科技权重超六成",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869328207994852383"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869421862321668146",
+      "title": "全球硅光龙头羲禾科技科创板IPO获受理 拟募资加码..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869421862321668146"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1868963344282271657",
+      "title": "能“对打”英伟达的芯片团队,为什么在行业爆发前夜搬..",
+      "summary": "潮新闻记者金梁吉文磊郑亚丽“下一波AI浪潮将是在物理世界中运行的AI。”黄仁勋今年初给出的判断正在应验。2026年,业界定义为 物理AI元年 。AI走出屏幕、理解物理世界的第一步,是给AI一双能 看见...",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1868963344282271657"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869436491731298128",
+      "title": "民警“逆向追踪”为快递员寻回手机",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869436491731298128"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260630-9291435",
+      "title": "撬门擅闯地铁列车控制室鸣笛 两男生接警方有条件警告",
+      "summary": "两名分别为11岁和12岁的男生,趁地铁车厢没有其他乘客时,用螺丝起子撬开地铁列车车尾驾驶室的门,跟着擅闯控制室多次胡乱鸣笛,还把嬉笑玩闹的过程录下。...",
       "source": "Zaobao",
-      "date": "2026-06-29",
-      "url": "https://www.zaobao.com.sg/news/china/story20260629-9283114"
+      "date": "2026-06-30",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260630-9291435"
     },
     {
-      "id": "https://news.seehua.com/post/1506628",
-      "title": "美里免费巴士服务范围有望扩大 李景胜:计划增加巴士数量",
-      "summary": "(美里29日讯)砂交通部部长拿督斯里李景胜表示,砂交通部将持续研究及规划扩大美里智能公共巴士免费乘车服务范围, [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-29",
-      "url": "https://news.seehua.com/post/1506628"
+      "id": "http://baijiahao.baidu.com/s?id=1869415477962347601",
+      "title": "中石化永州石油:织密“安全网”助力高质量发展",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869415477962347601"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1782729095169621.html",
-      "title": "Momenta港股闯关,“物理AI第一股”即将登场",
+      "id": "http://baijiahao.baidu.com/s?id=1869420095168900600",
+      "title": "施一公在清华大学演讲:本科曾在清华校内摆摊卖货、博..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869420095168900600"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1782822930129028.html",
+      "title": "资本疯狂投喂机器人赛道!阿里、京东一边砸钱一边抢线下场景",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-29",
-      "url": "https://www.bjnews.com.cn/detail/1782729095169621.html"
+      "date": "2026-06-30",
+      "url": "https://www.bjnews.com.cn/detail/1782822930129028.html"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/nation/2026/06/29/829331",
-      "title": "撞毙5人少年司机 高庭撤销感化院刑罚改判坐牢6年",
-      "summary": "(古晋29日讯)去年1月在古晋张贵生路引发多车相撞惨剧、导致5人无辜丧命的少年司机,今日被高庭推翻此前将其送入感化院的判决,正式改判为监禁6年。高庭法官拿督法里兹是在允许控方上诉后,做出这项改判决定。在2025年6月的初审判决中,当时年仅15岁的被告少年,被推事庭谕令送往少年感化院拘留至21岁(即拘留6年),并处罚款1500令吉(若无法支付则以监禁2个月代替)。控方因不满判决随后提出上诉。该名少年...",
-      "source": "Orientaldaily",
-      "date": "2026-06-29",
-      "url": "https://www.orientaldaily.com.my/news/nation/2026/06/29/829331"
+      "id": "http://baijiahao.baidu.com/s?id=1869427211211777182",
+      "title": "杰创智能定增20亿元 智算云+具身智能双线加码",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869427211211777182"
     },
     {
-      "id": "https://news.seehua.com/post/1506598",
-      "title": "【古晋张贵生路鲁莽驾驶夺5命事件】高庭推翻感化院6年裁决 改判入狱6年",
-      "summary": "(古晋29日讯)去年1月在古晋张贵生路引发多车相撞惨剧、导致5人无辜丧命的少年司机,今日被高等法院推翻此前将其 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-29",
-      "url": "https://news.seehua.com/post/1506598"
+      "id": "http://baijiahao.baidu.com/s?id=1869419566577031224",
+      "title": "世纪华通“数龙杯”澳门投资峰会暨人工智能生态论坛圆..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869419566577031224"
     },
     {
-      "id": "https://www.ithome.com/0/970/163.htm",
-      "title": "马斯克:特斯拉正向 HW3 老车主推送 FSD V14 Lite",
-      "summary": "IT之家 6 月 29 日消息,今日,特斯拉正式开始向搭载 Hardware 3(简称 HW3)硬件的车主推送 FSD V14 Lite,这个酝酿许久的更新能够缩小 HW3 车辆与新款车型的辅助驾驶能力差距。 特斯拉人工智能软件副总裁阿肖克 · 埃卢斯瓦米在社交平台 X 上表示,该安装包现已推送至早期内测 HW3 用户(特斯拉内部将 HW3 称为 AI3);后续几周官方会根据用户反馈,逐步推送给约...",
-      "source": "Ithome",
-      "date": "2026-06-29",
-      "url": "https://www.ithome.com/0/970/163.htm"
+      "id": "http://baijiahao.baidu.com/s?id=1869304497985255076",
+      "title": "联动14个街道探路破题 杭州百万人口大区如何试水“..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-06-30",
+      "url": "http://baijiahao.baidu.com/s?id=1869304497985255076"
     },
     {
-      "id": "https://news.seehua.com/post/1506548",
-      "title": "LRT3通车首日料吸引1万人搭乘 未来计划增设女性专用车厢",
-      "summary": "(莎阿南29日讯) 莎阿南轻快铁第三干线(LRT3)今日正式通车,首日预计吸引5000至1万人次搭乘,未来也将 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-29",
-      "url": "https://news.seehua.com/post/1506548"
+      "id": "https://post.smzdm.com/p/arzw4rq7/",
+      "title": "问界M9配6颗激光雷达,大众ID.ERA 9X搭Momenta R7,智驾硬碰硬谁更强",
+      "summary": "在当前高端新能源汽车市场,智能驾驶系统已成为衡量产品竞争力的核心指标。问界M9作为华为技术深度赋能的旗舰SUV,其搭载的华为乾崑智驾ADS系列经历了从2.0到5.0的多次迭代升级;大众ID.ERA 9X则代表传统合资品牌在智驾领域的突破,首次搭载Mome......",
+      "source": "Smzdm",
+      "date": "2026-06-30",
+      "url": "https://post.smzdm.com/p/arzw4rq7/"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0629/935321.shtml",
-      "title": "红板科技:汽车电子为公司PCB产品重要应用领域之一",
-      "summary": "证券日报网讯 6月29日,红板科技在互动平台回答投资者提问时表示,汽车电子为公司PCB产品重要应用领域之一,公司产品已广泛应用于汽车电子的多个核心系统,包括动力控制系统、汽车制动系统、汽车转向系统、智能驾驶系统、智能座舱系统、汽车仪表系统、激光雷达、车载信息系统、车身电子系统、汽车照明系统等。公司依托车规级质量体系,持续深耕车载PCB业务,紧跟汽车智能化、网联化行业发展趋势,积极对接车企及上游Ti...",
-      "source": "Eeo",
-      "date": "2026-06-29",
-      "url": "http://www.eeo.com.cn/2026/0629/935321.shtml"
+      "id": "https://www.bjnews.com.cn/detail/1782828078129095.html",
+      "title": "阿维塔更新招股书,引望开始贡献利润",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-06-30",
+      "url": "https://www.bjnews.com.cn/detail/1782828078129095.html"
     },
     {
-      "id": "https://www.ithome.com/0/970/226.htm",
-      "title": "20.88 万元,领克 07GT 时间限量版 1007 台首发限量已售罄",
-      "summary": "IT之家 6 月 29 日消息,领克汽车今晚宣布, 领克 07GT 时间限量版 1007 台首发限量已售罄 。 据IT之家此前报道,在今晚举行的发布会上, 领克家族首款旅行车 07GT 开启预售 ,预售价 16.58 万元起。 而领克 07GT 时间限量版今晚正式上市, 新车上市指导价 20.88 万元 ,限量首发 1007 台。 领克 07GT 时间限量版车漆采用哑光勃朗灰专属色,内饰采用极地蓝...",
-      "source": "Ithome",
-      "date": "2026-06-29",
-      "url": "https://www.ithome.com/0/970/226.htm"
+      "id": "https://economictimes.indiatimes.com/tech/startups/autonomous-driving-firm-autobrains-eyes-robotaxi-growth-in-europe-ceo-says/articleshow/132097323.cms",
+      "title": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says",
+      "summary": "Autobrains, which is based in Tel Aviv and has an office in ​Munich, is developing lower-cost autonomous ⁠driving technology ‌built around so-called agentic AI, which ​it says ​reduces reliance on exp...",
+      "source": "The Economic Times",
+      "date": "2026-06-30",
+      "url": "https://economictimes.indiatimes.com/tech/startups/autonomous-driving-firm-autobrains-eyes-robotaxi-growth-in-europe-ceo-says/articleshow/132097323.cms"
     },
     {
-      "id": "https://news.seehua.com/post/1506658",
-      "title": "程明智促水力灌溉局 拟完整防洪沟提升计划",
-      "summary": "(诗巫29日讯)砂公共卫生、房屋及地方政府部副部长拿督程明智今日前往诗巫甘迪斯路第六巷、西端花园一带(亲善美食 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-29",
-      "url": "https://news.seehua.com/post/1506658"
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/06/30/uber-waymo-end-robotaxi-partnership-in-phoenix-",
+      "title": "Uber, Waymo end robotaxi partnership in Phoenix",
+      "summary": "June ⁠29 (Reuters) - Uber and Alphabet's Waymo have ⁠ended their self-driving partnership in Phoenix, Arizona, ‌as the ride-hailing giant prepares to launch a new autonomous vehicle collaboration in t...",
+      "source": "The Star",
+      "date": "2026-06-30",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/30/uber-waymo-end-robotaxi-partnership-in-phoenix-"
     },
     {
-      "id": "https://www.ithome.com/0/970/191.htm",
-      "title": "全新坦克 300 将于 7 月 6 日预售:车身加长、提供 Hi4-T/Hi4-Z 多种动力选择",
-      "summary": "IT之家 6 月 29 日消息,长城汽车宣布旗下全新坦克 300 将于 7 月 6 日开启预售,该车先前已现身工信部,提供 2.0T 燃油、3.0T 燃油、Hi4-T 和 Hi4-Z 多种动力选择,作为参考,现款坦克 300 售价区间为 19.98-24.98 万元。 相比现款车型长宽高 4750/1930/1903mm、轴距 2750mm,新车尺寸升级到了 4886/1984/1927mm、轴距...",
-      "source": "Ithome",
+      "id": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
+      "title": "Waymo and Uber end robotaxi pilot in Phoenix",
+      "summary": "The Waymo self-driving cars deployed in Phoenix for the Uber pilot will remain in use and make autonomous deliveries with DoorDash....",
+      "source": "CNBC",
       "date": "2026-06-29",
-      "url": "https://www.ithome.com/0/970/191.htm"
+      "url": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html"
     },
     {
       "id": "https://www.globenewswire.com/news-release/2026/06/29/3319025/0/en/autonomous-driving-software-market-estimated-to-reach-8-23-billion-by-2035-sns-insider.html",
@@ -249,12 +241,12 @@
       "url": "https://www.marketscreener.com/news/bild-vw-ends-alliance-with-bosch-on-autonomous-driving-ce7f5fdeda8ef123"
     },
     {
-      "id": "https://www.reuters.com/business/autos-transportation/chinas-momenta-seeks-up-751-million-hong-kong-ipo-boost-autonomous-driving-rd-2026-06-29/",
+      "id": "https://www.marketscreener.com/news/china-s-momenta-seeks-to-raise-up-to-751-million-in-hong-kong-ipo-ce7f5fded88fff25",
       "title": "China's Momenta seeks up to $751 million in Hong Kong IPO to boost autonomous driving R&D",
-      "summary": "China's Momenta Global aims to raise up to HK$5.89 billion ($751.10 million) from its Hong Kong initial public offering, according to a filing ​on Monday, as the autonomous driving technology firm see...",
-      "source": "Reuters",
-      "date": "2026-06-29",
-      "url": "https://www.reuters.com/business/autos-transportation/chinas-momenta-seeks-up-751-million-hong-kong-ipo-boost-autonomous-driving-rd-2026-06-29/"
+      "summary": "China's Momenta Global aims to raise up to HK$5.89 billion from its Hong Kong initial public offering, according to a filing on Monday, as the autonomous driving technology firm seeks to bolster its.....",
+      "source": "MarketScreener",
+      "date": "2026-06-28",
+      "url": "https://www.marketscreener.com/news/china-s-momenta-seeks-to-raise-up-to-751-million-in-hong-kong-ipo-ce7f5fded88fff25"
     },
     {
       "id": "https://www.dailystar.co.uk/news/weird-news/smart-self-driving-toilet-follow-37345532",
