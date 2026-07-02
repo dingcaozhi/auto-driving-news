@@ -1,204 +1,219 @@
 {
-  "lastUpdated": "2026-07-01 04:42:05",
-  "totalCount": 31,
+  "lastUpdated": "2026-07-02 04:09:09",
+  "totalCount": 27,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 13,
-    "Smzdm": 2,
-    "Zaobao": 1,
-    "Bjnews": 2,
-    "The Economic Times": 1,
-    "The Star": 1,
-    "CNBC": 1,
-    "GlobeNewswire": 1,
-    "MarketScreener": 2,
-    "The daily Star": 1,
-    "TNW": 1
+    "News_Baidu": 10,
+    "Eeo": 1,
+    "Fx168News": 1,
+    "Chinanews": 2,
+    "Investing_Cn": 1,
+    "Smzdm": 1,
+    "Ithome": 1,
+    "Devdiscourse": 2,
+    "The Star": 2,
+    "The Economic Times": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV19bKX6REei",
-      "title": "【B站】当我试图学习人工智能、自动驾驶，知识就这样溜走了。#小鹏世界模型已进化出预测未来能力#小鹏纯视觉技术论文获得国际认可#小鹏汽车",
-      "summary": "-...",
+      "id": "https://www.bilibili.com/video/BV1kKbLzvExD",
+      "title": "【B站】赛博朋克2077 自动驾驶增强模组",
+      "summary": "模组下载链接：https://www.nexusmods.com/cyberpunk2077/mods/23157...",
       "source": "Bilibili",
-      "date": "2026-07-01",
-      "url": "https://www.bilibili.com/video/BV19bKX6REei"
+      "date": "2026-07-02",
+      "url": "https://www.bilibili.com/video/BV1kKbLzvExD"
     },
     {
       "id": "https://www.bilibili.com/video/BV1kgKD6FEGL",
       "title": "【B站】7.8这批港股，几乎被AI和自动驾驶包场",
       "summary": "7.8这批港股新股，几乎被了AI和自动驾驶包场\n\n这一批7月8日上市的新股，风格其实很集中。\nMomenta偏“大票逻辑”，卖的是自动驾驶平台想象力；\n易控智驾更像“场景先落地”，矿区无人驾驶更接近商业化；\n瑞为技术是视觉智能，走的是AI感知路线；\n基本半导体和东方科脉则更偏硬件底层，一个看功率半导...",
       "source": "Bilibili",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "url": "https://www.bilibili.com/video/BV1kgKD6FEGL"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1JSTF6sECH",
-      "title": "【B站】【2026最新自动驾驶算法】保姆级教程，基于激光雷达的3D点云目标检测算法实战，算法原理+实战项目！AI大佬带你从入门精通，究极通俗易懂！-AI/点云/自动驾驶",
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-07-01",
-      "url": "https://www.bilibili.com/video/BV1JSTF6sECH"
+      "date": "2026-07-02",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1E9TF6QE7o",
-      "title": "【B站】神人自动驾驶",
+      "id": "https://www.bilibili.com/video/BV1dKTq6EEnP",
+      "title": "【B站】自动驾驶全技术栈串讲（中英字幕）",
       "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-07-01",
-      "url": "https://www.bilibili.com/video/BV1E9TF6QE7o"
+      "date": "2026-07-02",
+      "url": "https://www.bilibili.com/video/BV1dKTq6EEnP"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Vs421M7VG",
-      "title": "【B站】别人的自动驾驶VS日本自动驾驶，网友直呼：怎么有种机器算盘的感觉，十万落地的车，多了个二十万的司机...机器学习|深度学习|计算机视觉|人工智能",
-      "summary": "全套原视频+配套源码+数据集打包放在【公棕耗：AI技术星球，回-复暗号：44， 即可精准无--偿获取学习】...",
+      "id": "https://www.bilibili.com/video/BV1vmTq6nEbJ",
+      "title": "【B站】终于能发阿维塔L3级自动驾驶视频了",
+      "summary": "-...",
       "source": "Bilibili",
+      "date": "2026-07-02",
+      "url": "https://www.bilibili.com/video/BV1vmTq6nEbJ"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869027109767923663",
+      "title": "选车指南:40万越野SUV怎么选,纵横G700对比..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
       "date": "2026-07-01",
-      "url": "https://www.bilibili.com/video/BV1Vs421M7VG"
+      "url": "http://baijiahao.baidu.com/s?id=1869027109767923663"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869429436748047954",
-      "title": "湘滨电子创业板IPO获受理 加码线控底盘拓宽成长赛..",
-      "summary": "本报讯(记者吴奕萱见习记者钟雨润)近日,深交所官网显示,杭州湘滨电子科技股份有限公司(以下简称“湘滨电子”)创业板IPO获得受理。湘滨电子成立于2014年,主要从事汽车电子控制器的研发...",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869429436748047954"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869314263799019776",
-      "title": "Momenta今起招股 14家“全明星”基石罕见集..",
-      "summary": "本报讯(记者袁传玺)2026年6月29日,全球领先的物理AI公司Momenta披露全球发售文件,正式启动招股。根据发行方案,Momenta本次IPO计划全球发售1993.83万股,其中...",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869314263799019776"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869311730123848127",
-      "title": "从上海到苏南:玛斯特智慧的无人装备“场景深耕”之道",
+      "id": "http://baijiahao.baidu.com/s?id=1869293705868624228",
+      "title": "开启智能越野新生活,全新猛士817上市售29.99..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869311730123848127"
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869293705868624228"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869434405136091856",
-      "title": "30支队伍200余名选手参赛!群力外滩生态湿地公园..",
+      "id": "http://baijiahao.baidu.com/s?id=1869506450733166964",
+      "title": "苏州市公交集团有限公司党员驾驶员刘丽:海棠花红映初..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869434405136091856"
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869506450733166964"
     },
     {
-      "id": "https://post.smzdm.com/p/a0325xq8/",
-      "title": "问界M9 vs 大众ID.ERA 9X:40个传感器硬刚26个,谁的智驾更顶?",
-      "summary": "在当前高端新能源SUV市场中,问界M9与上汽大众ID.ERA 9X分别代表了自主品牌与合资品牌在智能化领域的技术路线。两款车型均定位大六座家用SUV市场,均搭载增程混动系统,均主打高阶智能驾驶辅助功能。由于市场定位与目标用户群体高度重叠,两款车常被消费者......",
+      "id": "http://baijiahao.baidu.com/s?id=1869520669140911214",
+      "title": "活力中国调研行|全自动收椅机器狗来了",
+      "summary": "不用人工、不用遥控,自主识别、自动归位,这是全自动收椅机器狗。日前,记者随“活力中国调研行”走进香港科技大学(广州)智能自动驾驶技术中心。香港科技大学(广州)智能自动驾驶技术中心实验项目:搭建起涵盖感...",
+      "source": "News_Baidu",
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869520669140911214"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0701/938494.shtml",
+      "title": "阿维塔“二战”港股:去年营收256亿,明年想冲击千亿",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-07-01",
+      "url": "http://www.eeo.com.cn/2026/0701/938494.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1051777",
+      "title": "Bitget 推出 TradFi 101,助力用户为全景交易所时代做好准备-FX168",
+      "summary": "塞舌尔维多利亚, July 01, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 推出 TradFi 101。这是一项长期教育倡议,旨在帮助加密货币用户了解传统金融市场,把握数字资产与全球金融日益融合的趋势。该计划提供结构化的学习资源,涵盖金融基础、资产类别、市场机制、宏观经济、风险管理以及多资产投资的演进。 随着代币化资产日益普及,投资者越来越...",
+      "source": "Fx168News",
+      "date": "2026-07-01",
+      "url": "https://www.fx168news.com/article/1051777"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/07-01/10650954.shtml",
+      "title": "“雪龙”号、“雪龙2”号、“极地”号三艘科考船停靠大连并面向公众开放",
+      "summary": "中新网大连7月1日电 (记者 杨毅)“雪龙”号、“雪龙2”号、“极地”号极地科考破冰船7月1日停靠辽宁大连码头,正式面向公众开放。来自当地的大中小学校师生、科研专家以及船舶制造企业代表等分批登船,近距离探访“双龙探极”科考平台。...",
+      "source": "Chinanews",
+      "date": "2026-07-01",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-01/10650954.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869517836634748747",
+      "title": "科创板晚报|炬光科技否认Glass Bridge对..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869517836634748747"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869520951361775435",
+      "title": "活力中国调研行丨全自动收椅机器狗来了",
+      "summary": "不用人工、不用遥控,自主识别、自动归位,这是全自动收椅机器狗。日前,记者随“活力中国调研行”走进香港科技大学(广州)智能自动驾驶技术中心。香港科技大学(广州)智能自动驾驶技术中心实验项目:搭建起涵盖感...",
+      "source": "News_Baidu",
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869520951361775435"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869501230146516074",
+      "title": "从“制造”到“智造”:AI如何重塑山东国潮产业新生..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869501230146516074"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/07-01/10650899.shtml",
+      "title": "台湾青年学者:AI时代,两岸科技合作潜力无限、势不可挡",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-07-01",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650899.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869511846554652740",
+      "title": "爱芯元智开发者生态沙龙落地深圳 构筑物理AI算力底..",
+      "summary": "本报讯(记者袁传玺)2026年6月28日,以“构筑物理AI算力底座,打通边缘AI商业闭环”为主题的AXeraEdge-Day——爱芯元智开发者生态沙龙在深圳南山正式落地。来自边缘计算、端侧AI...",
+      "source": "News_Baidu",
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869511846554652740"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3442666",
+      "title": "通用汽车与美光科技达成供应协议,股价小幅上涨",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-01",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3442666"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869516799525087609",
+      "title": "美股盘前要闻一览:Meta拟出售过剩的AI算力;美..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869516799525087609"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkgevw9/",
+      "title": "车企说降低数倍,监管说更高!智能驾驶安全数据为何“打架”?",
+      "summary": "统计数据与事故案例之间的鸿沟,正折射出人机共驾安全议题的复杂性。2026年,多家车企与监管机构相继公布智能驾驶安全报告,数据指向呈现明显分化:部分系统的事故率降幅动辄数倍至十倍,而同期监管调查却揭示出另一面的风险图景。这种信息不对称状态,让普通驾驶者在做......",
       "source": "Smzdm",
-      "date": "2026-06-30",
-      "url": "https://post.smzdm.com/p/a0325xq8/"
+      "date": "2026-07-01",
+      "url": "https://post.smzdm.com/p/axkgevw9/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869328207994852383",
-      "title": "首只上市!硬科技权重超六成",
-      "summary": "NewsData报道",
+      "id": "http://baijiahao.baidu.com/s?id=1869520626800518487",
+      "title": "移远通信:公司作为物联网整体解决方案供应商,目前已..",
+      "summary": "证券日报网7月1日讯,移远通信在接受调研者提问时表示,公司作为物联网整体解决方案供应商,目前已构建了“1+N”业务矩阵,并在持续深化布局“硬件+算法+平台+应用”的生态协同战略。具体表现在三个...",
       "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869328207994852383"
+      "date": "2026-07-01",
+      "url": "http://baijiahao.baidu.com/s?id=1869520626800518487"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869421862321668146",
-      "title": "全球硅光龙头羲禾科技科创板IPO获受理 拟募资加码..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869421862321668146"
+      "id": "https://www.ithome.com/0/971/385.htm",
+      "title": "全新坦克 300 汽车官图发布:配备激光雷达、提供 Hi4-T/Hi4-Z 动力,7 月 6 日开启预售",
+      "summary": "IT之家 7 月 1 日消息,坦克 SUV 官方今日发布了全新一代坦克 300 汽车官图。 长城汽车官方已宣布全新坦克 300 将于 7 月 6 日开启预售 。该车此前已现身工信部,其尺寸升级到了 4886×1984×1927mm、轴距 3010mm, 并配备激光雷达 ,预计将强化智能辅助驾驶能力。 IT之家注意到,新款坦克 300 全面转向新能源化,提供 Hi4-T 和 Hi4-Z 两种动力。 ...",
+      "source": "Ithome",
+      "date": "2026-07-01",
+      "url": "https://www.ithome.com/0/971/385.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1868963344282271657",
-      "title": "能“对打”英伟达的芯片团队,为什么在行业爆发前夜搬..",
-      "summary": "潮新闻记者金梁吉文磊郑亚丽“下一波AI浪潮将是在物理世界中运行的AI。”黄仁勋今年初给出的判断正在应验。2026年,业界定义为 物理AI元年 。AI走出屏幕、理解物理世界的第一步,是给AI一双能 看见...",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1868963344282271657"
+      "id": "https://www.devdiscourse.com/article/technology/3943735-volkswagen-and-bosch-end-joint-autonomous-driving-project",
+      "title": "Volkswagen and Bosch End Joint Autonomous Driving Project",
+      "summary": "Volkswagen's software unit Cariad and Bosch have ended their autonomous driving project. Both companies will independently develop the technologies they jointly created. This move aligns with Volkswag...",
+      "source": "Devdiscourse",
+      "date": "2026-07-01",
+      "url": "https://www.devdiscourse.com/article/technology/3943735-volkswagen-and-bosch-end-joint-autonomous-driving-project"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869436491731298128",
-      "title": "民警“逆向追踪”为快递员寻回手机",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869436491731298128"
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/07/01/wayve-courts-automakers-with-ai-driving-system-that-learns-like-humans",
+      "title": "Wayve courts automakers with AI driving system that learns like humans",
+      "summary": "July 1 (Reuters) - Autonomous-driving startup Wayve is riding a tide of ⁠investor interest....",
+      "source": "The Star",
+      "date": "2026-07-01",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/01/wayve-courts-automakers-with-ai-driving-system-that-learns-like-humans"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260630-9291435",
-      "title": "撬门擅闯地铁列车控制室鸣笛 两男生接警方有条件警告",
-      "summary": "两名分别为11岁和12岁的男生,趁地铁车厢没有其他乘客时,用螺丝起子撬开地铁列车车尾驾驶室的门,跟着擅闯控制室多次胡乱鸣笛,还把嬉笑玩闹的过程录下。...",
-      "source": "Zaobao",
-      "date": "2026-06-30",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260630-9291435"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869415477962347601",
-      "title": "中石化永州石油:织密“安全网”助力高质量发展",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869415477962347601"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869420095168900600",
-      "title": "施一公在清华大学演讲:本科曾在清华校内摆摊卖货、博..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869420095168900600"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1782822930129028.html",
-      "title": "资本疯狂投喂机器人赛道!阿里、京东一边砸钱一边抢线下场景",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-30",
-      "url": "https://www.bjnews.com.cn/detail/1782822930129028.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869427211211777182",
-      "title": "杰创智能定增20亿元 智算云+具身智能双线加码",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869427211211777182"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869419566577031224",
-      "title": "世纪华通“数龙杯”澳门投资峰会暨人工智能生态论坛圆..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869419566577031224"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869304497985255076",
-      "title": "联动14个街道探路破题 杭州百万人口大区如何试水“..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-06-30",
-      "url": "http://baijiahao.baidu.com/s?id=1869304497985255076"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzw4rq7/",
-      "title": "问界M9配6颗激光雷达,大众ID.ERA 9X搭Momenta R7,智驾硬碰硬谁更强",
-      "summary": "在当前高端新能源汽车市场,智能驾驶系统已成为衡量产品竞争力的核心指标。问界M9作为华为技术深度赋能的旗舰SUV,其搭载的华为乾崑智驾ADS系列经历了从2.0到5.0的多次迭代升级;大众ID.ERA 9X则代表传统合资品牌在智驾领域的突破,首次搭载Mome......",
-      "source": "Smzdm",
-      "date": "2026-06-30",
-      "url": "https://post.smzdm.com/p/arzw4rq7/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1782828078129095.html",
-      "title": "阿维塔更新招股书,引望开始贡献利润",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-06-30",
-      "url": "https://www.bjnews.com.cn/detail/1782828078129095.html"
+      "id": "https://www.devdiscourse.com/article/technology/3943592-wayves-ai-driven-journey-a-new-era-in-autonomous-driving",
+      "title": "Wayve's AI-Driven Journey: A New Era in Autonomous Driving",
+      "summary": "Wayve, a London-based autonomous-driving startup, has raised $2.8 billion from significant players in technology and automotive sectors. Utilizing end-to-end machine learning, Wayve's AI-based system ...",
+      "source": "Devdiscourse",
+      "date": "2026-07-01",
+      "url": "https://www.devdiscourse.com/article/technology/3943592-wayves-ai-driven-journey-a-new-era-in-autonomous-driving"
     },
     {
       "id": "https://economictimes.indiatimes.com/tech/startups/autonomous-driving-firm-autobrains-eyes-robotaxi-growth-in-europe-ceo-says/articleshow/132097323.cms",
@@ -215,46 +230,6 @@
       "source": "The Star",
       "date": "2026-06-30",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/06/30/uber-waymo-end-robotaxi-partnership-in-phoenix-"
-    },
-    {
-      "id": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
-      "title": "Waymo and Uber end robotaxi pilot in Phoenix",
-      "summary": "The Waymo self-driving cars deployed in Phoenix for the Uber pilot will remain in use and make autonomous deliveries with DoorDash....",
-      "source": "CNBC",
-      "date": "2026-06-29",
-      "url": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html"
-    },
-    {
-      "id": "https://www.globenewswire.com/news-release/2026/06/29/3319025/0/en/autonomous-driving-software-market-estimated-to-reach-8-23-billion-by-2035-sns-insider.html",
-      "title": "Autonomous Driving Software Market Estimated to Reach $8.23",
-      "summary": "The U.S. autonomous driving software market is expected to reach $2.27 billion by 2035, while Europe is projected to touch $2.08 billion, driven by ADAS......",
-      "source": "GlobeNewswire",
-      "date": "2026-06-29",
-      "url": "https://www.globenewswire.com/news-release/2026/06/29/3319025/0/en/autonomous-driving-software-market-estimated-to-reach-8-23-billion-by-2035-sns-insider.html"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/bild-vw-ends-alliance-with-bosch-on-autonomous-driving-ce7f5fdeda8ef123",
-      "title": "Bild: VW ends alliance with Bosch on autonomous driving",
-      "summary": "Volkswagen is poised to exit its autonomous-driving development partnership with supplier Bosch, according to a newspaper report. The automaker wants to end the Automated Driving Alliance , Bild......",
-      "source": "MarketScreener",
-      "date": "2026-06-29",
-      "url": "https://www.marketscreener.com/news/bild-vw-ends-alliance-with-bosch-on-autonomous-driving-ce7f5fdeda8ef123"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/china-s-momenta-seeks-to-raise-up-to-751-million-in-hong-kong-ipo-ce7f5fded88fff25",
-      "title": "China's Momenta seeks up to $751 million in Hong Kong IPO to boost autonomous driving R&D",
-      "summary": "China's Momenta Global aims to raise up to HK$5.89 billion from its Hong Kong initial public offering, according to a filing on Monday, as the autonomous driving technology firm seeks to bolster its.....",
-      "source": "MarketScreener",
-      "date": "2026-06-28",
-      "url": "https://www.marketscreener.com/news/china-s-momenta-seeks-to-raise-up-to-751-million-in-hong-kong-ipo-ce7f5fded88fff25"
-    },
-    {
-      "id": "https://www.dailystar.co.uk/news/weird-news/smart-self-driving-toilet-follow-37345532",
-      "title": "Smart self-driving toilet will follow you around the house and can be summoned",
-      "summary": "The Chinese technology firm Yueban has created the autonomous toilet to help people with limited mobility. It aims to reduce the need for people to make their way to a toilet...",
-      "source": "The daily Star",
-      "date": "2026-06-28",
-      "url": "https://www.dailystar.co.uk/news/weird-news/smart-self-driving-toilet-follow-37345532"
     }
   ]
 }
