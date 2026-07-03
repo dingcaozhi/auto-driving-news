@@ -1,195 +1,170 @@
 {
-  "lastUpdated": "2026-07-02 04:09:09",
-  "totalCount": 27,
+  "lastUpdated": "2026-07-03 03:55:55",
+  "totalCount": 22,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 10,
-    "Eeo": 1,
-    "Fx168News": 1,
-    "Chinanews": 2,
-    "Investing_Cn": 1,
-    "Smzdm": 1,
-    "Ithome": 1,
-    "Devdiscourse": 2,
-    "The Star": 2,
-    "The Economic Times": 1
+    "Zaobao": 2,
+    "Cri_Cn": 2,
+    "News_Baidu": 4,
+    "Chinanews": 1,
+    "Imobile": 2,
+    "Ithome": 3,
+    "Bjnews": 1,
+    "Devdiscourse": 5,
+    "Moneycontrol": 1,
+    "The Star": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1kKbLzvExD",
-      "title": "【B站】赛博朋克2077 自动驾驶增强模组",
-      "summary": "模组下载链接：https://www.nexusmods.com/cyberpunk2077/mods/23157...",
-      "source": "Bilibili",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260702-9303924",
+      "title": "黄总理抵东帝汶访问 与旅居当地新加坡人会面",
+      "summary": "NewsData报道",
+      "source": "Zaobao",
       "date": "2026-07-02",
-      "url": "https://www.bilibili.com/video/BV1kKbLzvExD"
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260702-9303924"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1kgKD6FEGL",
-      "title": "【B站】7.8这批港股，几乎被AI和自动驾驶包场",
-      "summary": "7.8这批港股新股，几乎被了AI和自动驾驶包场\n\n这一批7月8日上市的新股，风格其实很集中。\nMomenta偏“大票逻辑”，卖的是自动驾驶平台想象力；\n易控智驾更像“场景先落地”，矿区无人驾驶更接近商业化；\n瑞为技术是视觉智能，走的是AI感知路线；\n基本半导体和东方科脉则更偏硬件底层，一个看功率半导...",
-      "source": "Bilibili",
+      "id": "https://news.cri.cn/20260702/34c4158e-9a28-a62f-154b-8e08fc2cf361.html",
+      "title": "视频丨“热穹顶”笼罩美多地 数千万人受影响-国际在线",
+      "summary": "受“热穹顶”天气系统影响,极端高温高湿天气7月1日继续笼罩美国多地,并自美国中西部、南部向人口稠密的东海岸地区蔓延。目前,高温预警已覆盖全美大约4600万人。 根据美国国家气象局发布的预警,费城及周边地区7月1...",
+      "source": "Cri_Cn",
       "date": "2026-07-02",
-      "url": "https://www.bilibili.com/video/BV1kgKD6FEGL"
+      "url": "https://news.cri.cn/20260702/34c4158e-9a28-a62f-154b-8e08fc2cf361.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://news.cri.cn/20260702/9902c1f9-cd66-5b8f-b4b7-6abaaefa384f.html",
+      "title": "全球瞭望丨美媒:中国人工智能发展愿景以人为本-国际在线",
+      "summary": "新华社纽约7月2日电 美国《纽约时报》“全球新闻通讯”栏目主笔卡特琳·本霍尔德日前在该报网站发表署名文章说,中美两国在人工智能(AI)发展方面抱有截然不同的愿景。美国放任企业追求...",
+      "source": "Cri_Cn",
       "date": "2026-07-02",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+      "url": "https://news.cri.cn/20260702/9902c1f9-cd66-5b8f-b4b7-6abaaefa384f.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1dKTq6EEnP",
-      "title": "【B站】自动驾驶全技术栈串讲（中英字幕）",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-07-02",
-      "url": "https://www.bilibili.com/video/BV1dKTq6EEnP"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1vmTq6nEbJ",
-      "title": "【B站】终于能发阿维塔L3级自动驾驶视频了",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-07-02",
-      "url": "https://www.bilibili.com/video/BV1vmTq6nEbJ"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869027109767923663",
-      "title": "选车指南:40万越野SUV怎么选,纵横G700对比..",
+      "id": "http://baijiahao.baidu.com/s?id=1869616255691082420",
+      "title": "百年公交邂逅四十余载民生情怀!生活报主题公交与您一..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869027109767923663"
+      "date": "2026-07-02",
+      "url": "http://baijiahao.baidu.com/s?id=1869616255691082420"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869293705868624228",
-      "title": "开启智能越野新生活,全新猛士817上市售29.99..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869293705868624228"
+      "id": "https://www.zaobao.com.sg/news/china/story20260702-9303973",
+      "title": "中国官方定性小飞机撞“中国尊”:个人原因造成的危害公共安全案件",
+      "summary": "一架小飞机上周五(6月26日)撞上位于北京中央商务区的中信大厦(又称“中国尊”)近一周后,官方星期四(7月2日)将事件定性为“因个人原因造成的危害公共安全案件”,并称驾驶员日记中多次出现“结束生命”的表述。...",
+      "source": "Zaobao",
+      "date": "2026-07-02",
+      "url": "https://www.zaobao.com.sg/news/china/story20260702-9303973"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869506450733166964",
-      "title": "苏州市公交集团有限公司党员驾驶员刘丽:海棠花红映初..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869506450733166964"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869520669140911214",
-      "title": "活力中国调研行|全自动收椅机器狗来了",
-      "summary": "不用人工、不用遥控,自主识别、自动归位,这是全自动收椅机器狗。日前,记者随“活力中国调研行”走进香港科技大学(广州)智能自动驾驶技术中心。香港科技大学(广州)智能自动驾驶技术中心实验项目:搭建起涵盖感...",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869520669140911214"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0701/938494.shtml",
-      "title": "阿维塔“二战”港股:去年营收256亿,明年想冲击千亿",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-07-01",
-      "url": "http://www.eeo.com.cn/2026/0701/938494.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1051777",
-      "title": "Bitget 推出 TradFi 101,助力用户为全景交易所时代做好准备-FX168",
-      "summary": "塞舌尔维多利亚, July 01, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 推出 TradFi 101。这是一项长期教育倡议,旨在帮助加密货币用户了解传统金融市场,把握数字资产与全球金融日益融合的趋势。该计划提供结构化的学习资源,涵盖金融基础、资产类别、市场机制、宏观经济、风险管理以及多资产投资的演进。 随着代币化资产日益普及,投资者越来越...",
-      "source": "Fx168News",
-      "date": "2026-07-01",
-      "url": "https://www.fx168news.com/article/1051777"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-01/10650954.shtml",
-      "title": "“雪龙”号、“雪龙2”号、“极地”号三艘科考船停靠大连并面向公众开放",
-      "summary": "中新网大连7月1日电 (记者 杨毅)“雪龙”号、“雪龙2”号、“极地”号极地科考破冰船7月1日停靠辽宁大连码头,正式面向公众开放。来自当地的大中小学校师生、科研专家以及船舶制造企业代表等分批登船,近距离探访“双龙探极”科考平台。...",
+      "id": "https://www.chinanews.com.cn/gn/2026/07-02/10651784.shtml",
+      "title": "良机里有良“机”(“三农”观察)",
+      "summary": "岁岁麦浪,季季耕耘。一台台农机跨区驰骋,夏粮归仓,新种入田。在山东省东阿县,大型智能收割机搭载北斗自动驾驶系统,按照设定好的路线高效作业。在湖北省孝昌县,烘干机组连轴转,除湿、风干无缝衔接。今年夏收期间,9个麦收重点省份密切协同,组织动员28万多台履带式收割机、7万多台各型烘干机,“抢”出丰收。...",
       "source": "Chinanews",
-      "date": "2026-07-01",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-01/10650954.shtml"
+      "date": "2026-07-02",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-02/10651784.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869517836634748747",
-      "title": "科创板晚报|炬光科技否认Glass Bridge对..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869517836634748747"
+      "id": "http://news.imobile.com.cn/articles/2026/0702/234909.shtml",
+      "title": "一汽-大众迈腾PHEV、探岳L PHEV重磅上市",
+      "summary": "近日,搭载黄金超混的一汽-大众迈腾PHEV、探岳L PHEV重磅上市,其中,迈腾PHEV PRO版16.99万元、PRIME版19.49万元;探岳L PHEV PRO版16.99万元、PRIME版18.19万元。同时,一汽-大众为两款新车配备“三大黄金特权、七大满级权益”。 两款车均搭载了全新一代黄金超混技术,以五大黄金标准为用户带来了插混技术的全新体验。发布会现场,两款车通过极限续航挑战、高速N...",
+      "source": "Imobile",
+      "date": "2026-07-02",
+      "url": "http://news.imobile.com.cn/articles/2026/0702/234909.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869520951361775435",
-      "title": "活力中国调研行丨全自动收椅机器狗来了",
-      "summary": "不用人工、不用遥控,自主识别、自动归位,这是全自动收椅机器狗。日前,记者随“活力中国调研行”走进香港科技大学(广州)智能自动驾驶技术中心。香港科技大学(广州)智能自动驾驶技术中心实验项目:搭建起涵盖感...",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869520951361775435"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869501230146516074",
-      "title": "从“制造”到“智造”:AI如何重塑山东国潮产业新生..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869501230146516074"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/07-01/10650899.shtml",
-      "title": "台湾青年学者:AI时代,两岸科技合作潜力无限、势不可挡",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-07-01",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650899.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869511846554652740",
-      "title": "爱芯元智开发者生态沙龙落地深圳 构筑物理AI算力底..",
-      "summary": "本报讯(记者袁传玺)2026年6月28日,以“构筑物理AI算力底座,打通边缘AI商业闭环”为主题的AXeraEdge-Day——爱芯元智开发者生态沙龙在深圳南山正式落地。来自边缘计算、端侧AI...",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869511846554652740"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3442666",
-      "title": "通用汽车与美光科技达成供应协议,股价小幅上涨",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-01",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3442666"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869516799525087609",
-      "title": "美股盘前要闻一览:Meta拟出售过剩的AI算力;美..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869516799525087609"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkgevw9/",
-      "title": "车企说降低数倍,监管说更高!智能驾驶安全数据为何“打架”?",
-      "summary": "统计数据与事故案例之间的鸿沟,正折射出人机共驾安全议题的复杂性。2026年,多家车企与监管机构相继公布智能驾驶安全报告,数据指向呈现明显分化:部分系统的事故率降幅动辄数倍至十倍,而同期监管调查却揭示出另一面的风险图景。这种信息不对称状态,让普通驾驶者在做......",
-      "source": "Smzdm",
-      "date": "2026-07-01",
-      "url": "https://post.smzdm.com/p/axkgevw9/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869520626800518487",
-      "title": "移远通信:公司作为物联网整体解决方案供应商,目前已..",
-      "summary": "证券日报网7月1日讯,移远通信在接受调研者提问时表示,公司作为物联网整体解决方案供应商,目前已构建了“1+N”业务矩阵,并在持续深化布局“硬件+算法+平台+应用”的生态协同战略。具体表现在三个...",
-      "source": "News_Baidu",
-      "date": "2026-07-01",
-      "url": "http://baijiahao.baidu.com/s?id=1869520626800518487"
-    },
-    {
-      "id": "https://www.ithome.com/0/971/385.htm",
-      "title": "全新坦克 300 汽车官图发布:配备激光雷达、提供 Hi4-T/Hi4-Z 动力,7 月 6 日开启预售",
-      "summary": "IT之家 7 月 1 日消息,坦克 SUV 官方今日发布了全新一代坦克 300 汽车官图。 长城汽车官方已宣布全新坦克 300 将于 7 月 6 日开启预售 。该车此前已现身工信部,其尺寸升级到了 4886×1984×1927mm、轴距 3010mm, 并配备激光雷达 ,预计将强化智能辅助驾驶能力。 IT之家注意到,新款坦克 300 全面转向新能源化,提供 Hi4-T 和 Hi4-Z 两种动力。 ...",
+      "id": "https://www.ithome.com/0/971/951.htm",
+      "title": "何小鹏:自动驾驶发展速度超过预期,未来 3 到 5 年可以看到 L4 甚至 L5 落地",
+      "summary": "7 月 2 日晚间消息,在小鹏 MONA L03 中国首秀发布会后,小鹏集团董事长、CEO 何小鹏,小鹏集团车型产品高级总监杨光,小鹏 MONA 车主、代言人欧阳娜娜与媒体对话。 今年 6 月,联合国正式发布了一项全球自动驾驶技术法规 ——ADS GTR,而这部法规的核心制定者之一是中国。 何小鹏表示,中国的智能辅助驾驶,无论是企业做的效果,还是相关法律法规的制定,都走在全球前面。联合国的这部自动...",
       "source": "Ithome",
-      "date": "2026-07-01",
-      "url": "https://www.ithome.com/0/971/385.htm"
+      "date": "2026-07-02",
+      "url": "https://www.ithome.com/0/971/951.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869610293013626920",
+      "title": "留学生的夏日“智”旅|坐上“土豆巴士”,遇见未来出..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-02",
+      "url": "http://baijiahao.baidu.com/s?id=1869610293013626920"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869606956745714890",
+      "title": "北京怀柔:这些道路明起施工,合理规划绕行",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-02",
+      "url": "http://baijiahao.baidu.com/s?id=1869606956745714890"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1782994278129531.html",
+      "title": "荆华密算团队亮相链博会,在人工智能产业链中,密算在哪一环?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-02",
+      "url": "https://www.bjnews.com.cn/detail/1782994278129531.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869595300849546045",
+      "title": "“深圳将全域开放无人驾驶”系误读(2026·07·..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-02",
+      "url": "http://baijiahao.baidu.com/s?id=1869595300849546045"
+    },
+    {
+      "id": "https://www.ithome.com/0/971/944.htm",
+      "title": "别克至境 E7 推出“交车关怀礼”:芯片供货紧张,延迟 1 天补贴 100 元",
+      "summary": "IT之家 7 月 2 日消息,上汽通用别克 7 月 1 日针对至境 E7 推出“交车关怀礼”,承诺将自锁单之日起 3 天内完成车辆交付,延迟 1 天补贴 100 元。 公告称,受全球半导体供应链波动影响, 近期出现芯片供货紧张 ,部分用户的车辆交付时间可能有所延迟。 即日起至 7 月 31 日,下定并锁单别克至境 E7 的用户,别克承诺将自锁单之日起 30 天内完成车辆交付。对于因品牌原因导致超出...",
+      "source": "Ithome",
+      "date": "2026-07-02",
+      "url": "https://www.ithome.com/0/971/944.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/971/939.htm",
+      "title": "华为:乾崑智驾 ADS 4 升级至 ADS 5 不存在硬件限制",
+      "summary": "IT之家 7 月 2 日消息,华为乾崑智能汽车解决方案今日发布了新一期《乾崑答网友问》,针对即将开放升级的 HUAWEI ADS 5 辅助驾驶系统相关热门问题进行了解答。 IT之家附此次问答重点内容如下: 华为乾崑智驾 ADS 5 当前一共有几个版本?在哪里可以查询搭载的华为乾崑智驾的具体版本? 目前, 华为乾崑智驾 ADS 5 一共有 ADS Max / Pro / SE 三个版本 。 想知道自...",
+      "source": "Ithome",
+      "date": "2026-07-02",
+      "url": "https://www.ithome.com/0/971/939.htm"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0702/234908.shtml",
+      "title": "19.69万元起的车 百万级的料 比亚迪海豹08这波定价诚意拉满了",
+      "summary": "7月2日,比亚迪海洋网大型旗舰家轿海豹08正式上市,提供插混和纯电双动力版本,共推出6个款型,官方指导价为19.69万元-23.99万元,即日起,用户可享1年免费闪充权益、至高10000元置换补贴等多重上市礼遇。作为比亚迪领先技术的集大成者,海豹08以闪充技术、泊车智驾双兜底、905km纯电续航、云辇-A加后轮转向等人无我有的产品实力以及37项全球第一的领先优势,为时代精英献上超乎期待的百万级出行...",
+      "source": "Imobile",
+      "date": "2026-07-02",
+      "url": "http://news.imobile.com.cn/articles/2026/0702/234908.shtml"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3944229-teslas-surging-q2-deliveries-spark-hope-amid-ai-ambitions",
+      "title": "Tesla's Surging Q2 Deliveries Spark Hope Amid AI Ambitions",
+      "summary": "Tesla surpassed Wall Street expectations with record Q2 deliveries, primarily due to a rebound in European demand. Despite stabilizing sales, investors focus on the company's long-term ventures in AI,...",
+      "source": "Devdiscourse",
+      "date": "2026-07-02",
+      "url": "https://www.devdiscourse.com/article/technology/3944229-teslas-surging-q2-deliveries-spark-hope-amid-ai-ambitions"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success",
+      "title": "Tesla Surpasses Expectations: A Surge in European Demand Drives Success",
+      "summary": "Tesla exceeded Wall Street's expectations for second-quarter vehicle deliveries, largely driven by a resurgence in European demand. Despite challenges in North America and competition from Chinese aut...",
+      "source": "Devdiscourse",
+      "date": "2026-07-02",
+      "url": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations",
+      "title": "Tesla's Surging European Demand Boosts Q2 Deliveries Beyond Expectations",
+      "summary": "Tesla exceeded Wall Street expectations for Q2 deliveries, driven by a demand rebound in Europe. The company delivered 480,126 vehicles, outperforming analyst predictions. While competition in China i...",
+      "source": "Devdiscourse",
+      "date": "2026-07-02",
+      "url": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations"
+    },
+    {
+      "id": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html",
+      "title": "India's defence sector enters structural growth phase as brokerages see deep-tech, exports driving next leg",
+      "summary": "While large platform orders are expected to remain the backbone of defence spending, brokerages increasingly see the next phase of value creation shifting towards companies with capabilities in defenc...",
+      "source": "Moneycontrol",
+      "date": "2026-07-02",
+      "url": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html"
     },
     {
       "id": "https://www.devdiscourse.com/article/technology/3943735-volkswagen-and-bosch-end-joint-autonomous-driving-project",
@@ -214,22 +189,6 @@
       "source": "Devdiscourse",
       "date": "2026-07-01",
       "url": "https://www.devdiscourse.com/article/technology/3943592-wayves-ai-driven-journey-a-new-era-in-autonomous-driving"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/tech/startups/autonomous-driving-firm-autobrains-eyes-robotaxi-growth-in-europe-ceo-says/articleshow/132097323.cms",
-      "title": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says",
-      "summary": "Autobrains, which is based in Tel Aviv and has an office in ​Munich, is developing lower-cost autonomous ⁠driving technology ‌built around so-called agentic AI, which ​it says ​reduces reliance on exp...",
-      "source": "The Economic Times",
-      "date": "2026-06-30",
-      "url": "https://economictimes.indiatimes.com/tech/startups/autonomous-driving-firm-autobrains-eyes-robotaxi-growth-in-europe-ceo-says/articleshow/132097323.cms"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/06/30/uber-waymo-end-robotaxi-partnership-in-phoenix-",
-      "title": "Uber, Waymo end robotaxi partnership in Phoenix",
-      "summary": "June ⁠29 (Reuters) - Uber and Alphabet's Waymo have ⁠ended their self-driving partnership in Phoenix, Arizona, ‌as the ride-hailing giant prepares to launch a new autonomous vehicle collaboration in t...",
-      "source": "The Star",
-      "date": "2026-06-30",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/30/uber-waymo-end-robotaxi-partnership-in-phoenix-"
     }
   ]
 }
