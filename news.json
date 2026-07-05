@@ -1,15 +1,17 @@
 {
-  "lastUpdated": "2026-07-04 03:49:11",
-  "totalCount": 24,
+  "lastUpdated": "2026-07-05 04:07:54",
+  "totalCount": 30,
   "sources": {
+    "Bilibili": 5,
     "News_Baidu": 5,
-    "Chinanews": 3,
-    "Zaobao": 2,
+    "Ithome": 4,
+    "Bjnews": 1,
+    "Cnblogs": 1,
+    "Rfi_Fr": 1,
+    "News_Seehua": 2,
+    "Investing_Cn": 1,
+    "Chinanews": 1,
     "Eeo": 1,
-    "Fx168News": 2,
-    "Smzdm": 1,
-    "Ithome": 1,
-    "News_Seehua": 1,
     "South China Morning Post": 1,
     "Devdiscourse": 5,
     "Moneycontrol": 1,
@@ -17,132 +19,180 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869683932641875329",
-      "title": "晨露摘菜,专线直达菜市场!宣城一地开通“菜篮子专线..",
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-07-05",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1aT411H7ug",
+      "title": "【B站】自动驾驶测试 入门课程",
+      "summary": "自动驾驶测试 入门课程...",
+      "source": "Bilibili",
+      "date": "2026-07-05",
+      "url": "https://www.bilibili.com/video/BV1aT411H7ug"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1zJ7e6uEcM",
+      "title": "【B站】欧卡2 超长途运输 ETS2LA自动驾驶 测试 驾驶过程无剪辑版",
+      "summary": "注：剪辑了驾驶插件设置部分内容。中途去后座睡觉去了。部分片段录制时卡顿。\n插件：https://ets2la.com...",
+      "source": "Bilibili",
+      "date": "2026-07-05",
+      "url": "https://www.bilibili.com/video/BV1zJ7e6uEcM"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1TKT76mE4z",
+      "title": "【B站】[欧卡2]自动驾驶ETS2LA使用教程",
+      "summary": "https://ets2la.com...",
+      "source": "Bilibili",
+      "date": "2026-07-05",
+      "url": "https://www.bilibili.com/video/BV1TKT76mE4z"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1QPggzdEe1",
+      "title": "【B站】你以为的2077自动驾驶VS实际上的自动驾驶",
+      "summary": "更新的有点幽默...",
+      "source": "Bilibili",
+      "date": "2026-07-05",
+      "url": "https://www.bilibili.com/video/BV1QPggzdEe1"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1868751134728162812",
+      "title": "敢于做梦,更敢于为圆梦吃苦",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-03",
-      "url": "http://baijiahao.baidu.com/s?id=1869683932641875329"
+      "date": "2026-07-04",
+      "url": "http://baijiahao.baidu.com/s?id=1868751134728162812"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-03/10652509.shtml",
-      "title": "1.04亿人次、8.24亿吨,一条天路如何重塑雪域高原?",
-      "summary": "7月的高原,清冽的风中带着阳光的炽热,雪域大地上透着盎然生机。列车穿峡谷、跨戈壁、越草原,在雪山下荡起铿锵回响。...",
-      "source": "Chinanews",
-      "date": "2026-07-03",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-03/10652509.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-03/10652506.shtml",
-      "title": "市场规模预计超3000亿元,工业旅游如何长效发展?",
-      "summary": "近年来,工业旅游在全国各地蓬勃兴起,众多工业遗存与工业厂区变身为创意园区、博物馆等文化新空间,一批大国重器成为热门旅游目的地。前不久,七部门联合印发《关于弘扬工业文化 保护工业遗产 发展工业旅游的通知》(以下简称《通知》),为行业擘画了清晰路径。...",
-      "source": "Chinanews",
-      "date": "2026-07-03",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652506.shtml"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260703-9309580",
-      "title": "交通业迈向智能化 载客司机望获培训国会将探讨助转型",
-      "summary": "交通领域采用人工智能与自动驾驶等新兴科技有助提升我国整体竞争力,但也引发部分员工及点对点载客司机对生计与职业前景的担忧。如何在推动创新的同时,协助受影响人员提升技能、实现顺利转型,将是下星期二(7月7日)国会复会时讨论的重点之一。...",
-      "source": "Zaobao",
-      "date": "2026-07-03",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260703-9309580"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0703/941624.shtml",
-      "title": "车市“成人礼”:一年内82项新国标炸场",
-      "summary": "据中国汽研统计,2026年全年共有82项汽车国家标准即将实施,其中包括26项强制性检测国家标准。如此的国家标准出台密度和力度,在中国汽车行业发展史上并不多见。这标志着中国汽车行业正式从“规模扩张”阶段迈入“规则引领”阶段。...",
-      "source": "Eeo",
-      "date": "2026-07-03",
-      "url": "http://www.eeo.com.cn/2026/0703/941624.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869608587432479857",
-      "title": "从仰望英雄到成为应急青年",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-03",
-      "url": "http://baijiahao.baidu.com/s?id=1869608587432479857"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/sea/story20260703-9310060",
-      "title": "违规添购RON95汽油 新加坡车主罚6300元",
-      "summary": "(新山综合讯)一名新加坡车主因违例在柔佛新山添购RON95补贴汽油,被庭宣判罚款2万令吉(约6300新元)。这是马来西亚今年4月1日修法对付外国违例添油者以来,首次提控外国车主。这名车主已经认罪并缴纳罚款。...",
-      "source": "Zaobao",
-      "date": "2026-07-03",
-      "url": "https://www.zaobao.com.sg/news/sea/story20260703-9310060"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1053009",
-      "title": "经纬恒润:有知名机构星石投资参与的多家机构于7月1日调研我司-FX168",
-      "summary": "证券之星消息,2026年7月3日经纬恒润(688326)发布公告称长江证券、凯联资本、太保资产、星石投资、中泰证券于2026年7月1日调研我司。 具体内容如下:问:在智能驾驶市场竞争激烈,头部车企多数已与供应商形成稳定绑定的情况下,公司如何看待智能驾驶业务后续发展?答:随着政策法规的逐步完善和消费者对自动驾驶接受度的提高,以及主流车企大力推动的“智驾平权”战略驱动,智能驾驶正逐渐向平价车型下沉普及...",
-      "source": "Fx168News",
-      "date": "2026-07-03",
-      "url": "https://www.fx168news.com/article/1053009"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869475968424394557",
-      "title": "HDC2026|华为HMS for Car 5.0..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-03",
-      "url": "http://baijiahao.baidu.com/s?id=1869475968424394557"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a70rrmg9/",
-      "title": "等了7年的特斯拉FSD,缩水成Lite版,HW3车主只剩三条路",
-      "summary": "2019年买特斯拉的车主,大概都听过这句话:\"硬件已经配齐,等软件更新就行。\"当时花6万到10万人民币选装FSD的车主,等来的却不是完全自动驾驶,而是一个叫FSD V14 Lite的精简版本。2026年6月底,特斯拉正式向全球约400万辆HW3车型推送这......",
-      "source": "Smzdm",
-      "date": "2026-07-03",
-      "url": "https://post.smzdm.com/p/a70rrmg9/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869596360015963488",
-      "title": "聚焦消防、危险化学品等领域,中央安全生产考核巡查组..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-03",
-      "url": "http://baijiahao.baidu.com/s?id=1869596360015963488"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869658420602862318",
-      "title": "福建船政:海军摇篮 潮涌马江",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-03",
-      "url": "http://baijiahao.baidu.com/s?id=1869658420602862318"
-    },
-    {
-      "id": "https://www.ithome.com/0/972/419.htm",
-      "title": "京东物流在京启动快递行业首个 L4 自动驾驶重卡载货示范,单程 31 公里满载 43 吨",
-      "summary": "IT之家 7 月 3 日消息,7 月 3 日,京东物流宣布,与中国重汽、 嬴彻科技 在北京高级别自动驾驶示范区正式开启快递行业首个 L4 级自动驾驶重卡载货示范应用。 IT之家从官方介绍获悉,首批 L4 自动驾驶重卡从京东物流北京魏永集货分拣中心驶出, 单程 31 公里 直达兴茂散货分拣中心,途经大兴机场高速与南六环路,车挂总重 43 吨,达到真实满载标准。 该批车辆搭载嬴彻科技全栈自研的 L4 ...",
+      "id": "https://www.ithome.com/0/972/666.htm",
+      "title": "蔚来 NIO Day 2026 申办候选城市公布:哈尔滨、武汉、厦门",
+      "summary": "IT之家 7 月 4 日消息,蔚来汽车发文称,今天,八座城市参加了 NIO Day 2026 申办陈述,最终,哈尔滨、武汉、厦门入围下一阶段。 IT之家注意到,蔚来 NIO Day 今年的申办城市包括: 长春、重庆、哈尔滨、济南、南京、青岛、武汉、厦门 。目前,蔚来官方暂未公布 NIO Day 2026 的具体举办时间以及活动内容,按照以往惯例,本次活动预计将带来重磅产品发布。 自 2017 年以...",
       "source": "Ithome",
-      "date": "2026-07-03",
-      "url": "https://www.ithome.com/0/972/419.htm"
+      "date": "2026-07-04",
+      "url": "https://www.ithome.com/0/972/666.htm"
     },
     {
-      "id": "https://news.seehua.com/post/1508754",
-      "title": "泰国男童驾卡车撞佛教僧侣 增至10人亡",
-      "summary": "(穆达汉3日讯)泰国一名男孩周四驾驶皮卡车冲入佛教僧侣的队伍,官员周五表示,罹难僧侣已增至10人。 法新社报导 [...]...",
+      "id": "https://www.ithome.com/0/972/660.htm",
+      "title": "小鹏 CEO 何小鹏:辅助驾驶中国走在全球前面,L2 级将加速出海",
+      "summary": "IT之家 7 月 4 日消息,据第一财经报道,小鹏汽车董事长、CEO 何小鹏接受采访时表示,“我认为中国的辅助驾驶,无论是企业的技术产品,还是相关法律法规的制定, 都走在全球前面 。” 何小鹏称,过去只有中国和美国真正实现了 L2 级辅助驾驶的大规模落地,包括欧盟在内的全球大部分地区尚未跟进。 据IT之家此前报道,6 月 25 日,由我国牵头制定, 联合国自动驾驶系统全球技术法规获批发布 。何小鹏...",
+      "source": "Ithome",
+      "date": "2026-07-04",
+      "url": "https://www.ithome.com/0/972/660.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869599306342586751",
+      "title": "别放!别放!今天下班后,沈阳人务必检查下自己的车!..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-04",
+      "url": "http://baijiahao.baidu.com/s?id=1869599306342586751"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1783151134129567.html",
+      "title": "朝阳AIGC创新专场赛启动,已征集110个机器人典型应用场景",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-04",
+      "url": "https://www.bjnews.com.cn/detail/1783151134129567.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869695446589649348",
+      "title": "发布多项全新技术,泰科电子亮相2026慕尼黑上海电..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-04",
+      "url": "http://baijiahao.baidu.com/s?id=1869695446589649348"
+    },
+    {
+      "id": "https://www.cnblogs.com/hjk1124/p/21125745",
+      "title": "【论道】前端之路总结——一个六年前端的风口浪尖 - 致爱丽丝",
+      "summary": "我们看到的事物并不是他们本来的样子,只是我们自己的样子。 阿内丝·尼恩 又到了一年一度的总结笔记,老规矩,想到哪写到哪,笔者慢慢写,读者慢慢看 去年写了五年记,自省自悟,以为掌握了跨开发职业的钥匙。时隔一年,这些领悟早已融入骨血——或者说,那篇只是自己自然而然的表达,但今年深入了解学习了下ai,内心...",
+      "source": "Cnblogs",
+      "date": "2026-07-04",
+      "url": "https://www.cnblogs.com/hjk1124/p/21125745"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260704-%E5%9B%9E%E5%A3%B0%E6%8A%A5-%E6%B1%BD%E8%BD%A6%E5%88%B0%E9%B9%85%E8%82%9D%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%89%80%E4%B8%8D%E9%A3%9F",
+      "title": "回声报:汽车到鹅肝,中国无所不食",
+      "summary": "今天7月4日是美国独立250周年纪念日,成为周六当天法国各大日报头版的评论焦点。《费加罗报》的社论指出,这场本应团结这个分裂国家的纪念活动,却被现任总统特朗普打造成了一场彰显个人荣耀的庆典。历史上历任总统都将美国视为“自由世界的灯塔”,直到特朗普的出现才发生了转变,美国开国元勋的精神遗产,对他而言更像是一种自我目的或个人追求,而非为国家利益而战的使命。此外,《回声报》登出资深编辑勒布舍的评论文章称...",
+      "source": "Rfi_Fr",
+      "date": "2026-07-04",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260704-%E5%9B%9E%E5%A3%B0%E6%8A%A5-%E6%B1%BD%E8%BD%A6%E5%88%B0%E9%B9%85%E8%82%9D%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%89%80%E4%B8%8D%E9%A3%9F"
+    },
+    {
+      "id": "https://news.seehua.com/post/1509245",
+      "title": "遭警狂追17公里 通缉犯连撞3车弃车逃离",
+      "summary": "(林茂4日讯)一名拥有13项前科的毒品通缉犯为逃避警方检查,沿著南北大道在林茂一带狂逃约17公里,过程中危险驾 [...]...",
       "source": "News_Seehua",
-      "date": "2026-07-03",
-      "url": "https://news.seehua.com/post/1508754"
+      "date": "2026-07-04",
+      "url": "https://news.seehua.com/post/1509245"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-03/10652371.shtml",
-      "title": "中东欧国家新闻发言人在上海“竖店”体验短视频创新活力",
-      "summary": "中新社上海7月3日电 (高志苗)“很真实的开车体验,就好像在真的道路上驾驶一样。”阿尔巴尼亚欧洲和外交事务部部长顾问、首席发言人阿尔蒂奥·希西3日体验模拟驾驶场景后告诉中新社记者。...",
+      "id": "http://baijiahao.baidu.com/s?id=1869673062862448843",
+      "title": "6坐面包车硬塞15人!交警:严重超员,必严惩",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-04",
+      "url": "http://baijiahao.baidu.com/s?id=1869673062862448843"
+    },
+    {
+      "id": "https://news.seehua.com/post/1509287",
+      "title": "涉酒驾毒驾酿成死亡事故者 MCCC彭州分会建议:应终身吊销驾照",
+      "summary": "(吉隆坡4日讯)马来西亚社区罪案关怀组织(MCCC)彭亨州分会主席辜健鈫呼吁政府考虑,对因酒后驾驶或吸毒后驾驶 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-04",
+      "url": "https://news.seehua.com/post/1509287"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869772233583727794",
+      "title": "接地气效果好,扬州开启“美丽乡村行”交通安全宣讲,..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-04",
+      "url": "http://baijiahao.baidu.com/s?id=1869772233583727794"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3446503",
+      "title": "新股消息 | 景旺电子(603228.SH)再度递表港交所 为全球第一大汽车电子PCB供应商",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-04",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3446503"
+    },
+    {
+      "id": "https://www.ithome.com/0/972/621.htm",
+      "title": "比亚迪熊甜波:方程豹钛 7 EV 闪充版四驱车型本周已全面开启交付,全链条都在全力冲刺提升产能",
+      "summary": "IT之家 7 月 4 日消息,比亚迪集团-方程豹事业部总经理熊甜波今日表示, 钛 7 EV 闪充版四驱车型本周已全面开启交付 。 熊甜波表示:“ 目前‘保交付’就是我们工作的重中之重,全链条都在全力冲刺提升产能 。” 据IT之家此前报道, 比亚迪方程豹钛 7 EV 闪充版于 4 月 29 日上市 ,售价 19.98 万元起: 675km 后驱闪充版:19.98 万元 755km 后驱闪充版:20....",
+      "source": "Ithome",
+      "date": "2026-07-04",
+      "url": "https://www.ithome.com/0/972/621.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/07-04/10652772.shtml",
+      "title": "人工智能融合应用发展论坛在京举办 探索AI应用路径",
+      "summary": "中新网北京7月4日电 (记者 吕少威)2026全球数字经济大会人工智能融合应用发展论坛3日在北京举办,以“智驱实体,数创未来”为主题,围绕人工智能对千行百业的影响与重塑,探索人工智能从技术突破到真实生产力落地的路径,助力数字经济高质量发展。...",
       "source": "Chinanews",
-      "date": "2026-07-03",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-03/10652371.shtml"
+      "date": "2026-07-04",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-04/10652772.shtml"
     },
     {
-      "id": "https://www.fx168news.com/article/1052994",
-      "title": "韩国再砸312万亿打造物理AI中心,SK集团、三星领投,同日发布“韩版星链”计划-FX168",
-      "summary": "TradingKey - 首尔时间7月3日,韩国副总理兼企划财政部长官具润哲宣布,韩国政府将推动各大企业在东南部岭南地区投资超312万亿韩元(约2040亿美元),重点发展半导体、人工智能及航天等先进产业。 同一天,韩国宇宙航空厅也在晋州公布了国家航天战略:2035年前建成由数百颗卫星组成的低轨卫星通信网络,2030年实现月球着陆。 四大集团领投,SK、三星、韩华、现代分工明确 此次投资计划中,SK...",
-      "source": "Fx168News",
-      "date": "2026-07-03",
-      "url": "https://www.fx168news.com/article/1052994"
+      "id": "https://www.ithome.com/0/972/614.htm",
+      "title": "零跑全新 B01/B10 座舱公布:前排双零重力座椅、17.3 英寸 3K 中控屏等",
+      "summary": "IT之家 7 月 4 日消息,零跑汽车今日公布全新 B01/B10 座舱官图,部分配置信息也陆续揭晓,定位分别为“年轻时尚超长续航轿车”和“全球智享长续航 SUV”。 据介绍,全新 B01/B10 车型搭载 前排双零重力座椅 ,全新 B10 百变灵动成床搭配 1.83m2 星空全景天幕,全新 B01 配备 50 英寸 AR-HUD,全新 B10 则配备 55 英寸 AR-HUD。此外,新车还将提供...",
+      "source": "Ithome",
+      "date": "2026-07-04",
+      "url": "https://www.ithome.com/0/972/614.htm"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0704/942657.shtml",
+      "title": "全新一代天工08开启预售:红旗新能源的背水一战",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-07-04",
+      "url": "http://www.eeo.com.cn/2026/0704/942657.shtml"
     },
     {
       "id": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar",
