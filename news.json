@@ -1,17 +1,21 @@
 {
-  "lastUpdated": "2026-07-05 04:07:54",
-  "totalCount": 30,
+  "lastUpdated": "2026-07-06 04:14:40",
+  "totalCount": 35,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 5,
-    "Ithome": 4,
-    "Bjnews": 1,
+    "News_Baidu": 6,
+    "Cri_Cn": 1,
     "Cnblogs": 1,
-    "Rfi_Fr": 1,
-    "News_Seehua": 2,
-    "Investing_Cn": 1,
+    "Ithome": 3,
+    "Zaobao": 1,
     "Chinanews": 1,
-    "Eeo": 1,
+    "News_Seehua": 1,
+    "Bjnews": 2,
+    "Orientaldaily": 1,
+    "Smzdm": 2,
+    "Investing_Cn": 1,
+    "Jiemian": 1,
+    "Business Insider": 1,
     "South China Morning Post": 1,
     "Devdiscourse": 5,
     "Moneycontrol": 1,
@@ -19,180 +23,220 @@
   },
   "news": [
     {
+      "id": "https://www.bilibili.com/video/BV1FDTC6CEz5",
+      "title": "【B站】欧卡2 自动驾驶插件",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-07-06",
+      "url": "https://www.bilibili.com/video/BV1FDTC6CEz5"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1kKbLzvExD",
+      "title": "【B站】赛博朋克2077 自动驾驶增强模组",
+      "summary": "模组下载链接：https://www.nexusmods.com/cyberpunk2077/mods/23157...",
+      "source": "Bilibili",
+      "date": "2026-07-06",
+      "url": "https://www.bilibili.com/video/BV1kKbLzvExD"
+    },
+    {
       "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
       "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV14BTC6QEsf",
+      "title": "【B站】最美的奔赴，藏着温柔的科技浪漫，AI赋能自动驾驶。",
+      "summary": "科技是辅助，专注和自律才是安全的核心。兼顾科技科普与安全教育，培养孩子观察力与科学认知。...",
+      "source": "Bilibili",
+      "date": "2026-07-06",
+      "url": "https://www.bilibili.com/video/BV14BTC6QEsf"
     },
     {
       "id": "https://www.bilibili.com/video/BV1aT411H7ug",
       "title": "【B站】自动驾驶测试 入门课程",
       "summary": "自动驾驶测试 入门课程...",
       "source": "Bilibili",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "url": "https://www.bilibili.com/video/BV1aT411H7ug"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1zJ7e6uEcM",
-      "title": "【B站】欧卡2 超长途运输 ETS2LA自动驾驶 测试 驾驶过程无剪辑版",
-      "summary": "注：剪辑了驾驶插件设置部分内容。中途去后座睡觉去了。部分片段录制时卡顿。\n插件：https://ets2la.com...",
-      "source": "Bilibili",
-      "date": "2026-07-05",
-      "url": "https://www.bilibili.com/video/BV1zJ7e6uEcM"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1TKT76mE4z",
-      "title": "【B站】[欧卡2]自动驾驶ETS2LA使用教程",
-      "summary": "https://ets2la.com...",
-      "source": "Bilibili",
-      "date": "2026-07-05",
-      "url": "https://www.bilibili.com/video/BV1TKT76mE4z"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1QPggzdEe1",
-      "title": "【B站】你以为的2077自动驾驶VS实际上的自动驾驶",
-      "summary": "更新的有点幽默...",
-      "source": "Bilibili",
-      "date": "2026-07-05",
-      "url": "https://www.bilibili.com/video/BV1QPggzdEe1"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1868751134728162812",
-      "title": "敢于做梦,更敢于为圆梦吃苦",
+      "id": "http://baijiahao.baidu.com/s?id=1869682301430104900",
+      "title": "9座车塞12人?安阳交警:严查!",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-04",
-      "url": "http://baijiahao.baidu.com/s?id=1868751134728162812"
+      "date": "2026-07-05",
+      "url": "http://baijiahao.baidu.com/s?id=1869682301430104900"
     },
     {
-      "id": "https://www.ithome.com/0/972/666.htm",
-      "title": "蔚来 NIO Day 2026 申办候选城市公布:哈尔滨、武汉、厦门",
-      "summary": "IT之家 7 月 4 日消息,蔚来汽车发文称,今天,八座城市参加了 NIO Day 2026 申办陈述,最终,哈尔滨、武汉、厦门入围下一阶段。 IT之家注意到,蔚来 NIO Day 今年的申办城市包括: 长春、重庆、哈尔滨、济南、南京、青岛、武汉、厦门 。目前,蔚来官方暂未公布 NIO Day 2026 的具体举办时间以及活动内容,按照以往惯例,本次活动预计将带来重磅产品发布。 自 2017 年以...",
-      "source": "Ithome",
-      "date": "2026-07-04",
-      "url": "https://www.ithome.com/0/972/666.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/972/660.htm",
-      "title": "小鹏 CEO 何小鹏:辅助驾驶中国走在全球前面,L2 级将加速出海",
-      "summary": "IT之家 7 月 4 日消息,据第一财经报道,小鹏汽车董事长、CEO 何小鹏接受采访时表示,“我认为中国的辅助驾驶,无论是企业的技术产品,还是相关法律法规的制定, 都走在全球前面 。” 何小鹏称,过去只有中国和美国真正实现了 L2 级辅助驾驶的大规模落地,包括欧盟在内的全球大部分地区尚未跟进。 据IT之家此前报道,6 月 25 日,由我国牵头制定, 联合国自动驾驶系统全球技术法规获批发布 。何小鹏...",
-      "source": "Ithome",
-      "date": "2026-07-04",
-      "url": "https://www.ithome.com/0/972/660.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869599306342586751",
-      "title": "别放!别放!今天下班后,沈阳人务必检查下自己的车!..",
+      "id": "http://baijiahao.baidu.com/s?id=1869574651048978357",
+      "title": "李公明|一周书记:被数据监控的工作与人类文明......未..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-04",
-      "url": "http://baijiahao.baidu.com/s?id=1869599306342586751"
+      "date": "2026-07-05",
+      "url": "http://baijiahao.baidu.com/s?id=1869574651048978357"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1783151134129567.html",
-      "title": "朝阳AIGC创新专场赛启动,已征集110个机器人典型应用场景",
+      "id": "https://news.cri.cn/20260705/6b9b3499-a2b1-6c3a-5659-87ddc4c67821.html",
+      "title": "记者手记丨在吉隆坡追忆南侨机工-国际在线",
+      "summary": "新华社吉隆坡7月5日电 记者手记丨在吉隆坡追忆南侨机工 新华社记者袁睿 何光海 5日早晨,马来西亚首都吉隆坡的南侨机工纪念公园内,花圈静立,气氛庄重。人们陆续走来,在纪念碑...",
+      "source": "Cri_Cn",
+      "date": "2026-07-05",
+      "url": "https://news.cri.cn/20260705/6b9b3499-a2b1-6c3a-5659-87ddc4c67821.html"
+    },
+    {
+      "id": "https://www.cnblogs.com/daibitx/p/21146747",
+      "title": "我变成了 AI 的打字猴子——以及我为什么写了一个禁止 AI 写代码的工具 - daibitx",
+      "summary": "我变成了 AI 的打字猴子——以及我为什么写了一个禁止 AI 写代码的工具 当 AI 替我写代码时,我以为自己变成了 10x 工程师。实际上,我变成了一只会按 Tab 的猴子,面对崩溃堆栈时连自己的代码都读不懂。 那个死锁 凌晨一点半。产线停了四十分钟。 不是设备故障——是产线追踪系统卡死了。PLC...",
+      "source": "Cnblogs",
+      "date": "2026-07-05",
+      "url": "https://www.cnblogs.com/daibitx/p/21146747"
+    },
+    {
+      "id": "https://www.ithome.com/0/972/860.htm",
+      "title": "零跑全新 B01/B10 座舱细节公布:前排双零重力座椅、全景天幕 + 电动遮阳帘",
+      "summary": "IT之家 7 月 5 日消息,零跑汽车昨日公布全新 B01/B10 座舱细节,新车预计将于近期上市。 据介绍,全新 B01 搭载 50 英寸虚实融合 AR-HUD、 17.3 英寸 3K 超清中控屏、8.8 英寸液晶仪表、Leap Sound 14 扬声器、主驾头枕扬声器(共享、驾享、私享 3 大模式)。 全新 B10 则搭载 124° 前排双零重力座椅 ,提供吸风式通风、加热、记忆 & 迎宾、一...",
+      "source": "Ithome",
+      "date": "2026-07-05",
+      "url": "https://www.ithome.com/0/972/860.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869881202659131203",
+      "title": "可以自己开的“复兴号”,已经在屋里停好了",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-05",
+      "url": "http://baijiahao.baidu.com/s?id=1869881202659131203"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/world/story20260705-9316880",
+      "title": "日本2027年起试跑无人驾驶公共巴士",
+      "summary": "NewsData报道",
+      "source": "Zaobao",
+      "date": "2026-07-05",
+      "url": "https://www.zaobao.com.sg/news/world/story20260705-9316880"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869877302519282268",
+      "title": "重庆小伙冲击西藏文旅50万宣传大奖激动流泪,其打出..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-05",
+      "url": "http://baijiahao.baidu.com/s?id=1869877302519282268"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/hr/2026/07-05/10653220.shtml",
+      "title": "法国山东商会“万里归鲁·欧亚穿越”返乡车队入鲁",
+      "summary": "中新网济南7月5日电 (李明芮)法国山东商会“万里归鲁·欧亚穿越”返乡车队入鲁欢迎活动5日在济南百里黄河风景区举办。一支由旅法侨胞组成的车队驾驶中国自主品牌越野车,自当地时间6月4日从巴黎启程,穿越欧亚大陆,最终抵达山东,以民间自驾形式搭建中外文化交流桥梁。...",
+      "source": "Chinanews",
+      "date": "2026-07-05",
+      "url": "https://www.chinanews.com.cn/hr/2026/07-05/10653220.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869876933575641085",
+      "title": "罗伯克千场线下试饮实录,70% 路人复购,口感圈粉..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-05",
+      "url": "http://baijiahao.baidu.com/s?id=1869876933575641085"
+    },
+    {
+      "id": "https://news.seehua.com/post/1509681",
+      "title": "诗巫道路流氓取缔行动 7摩托车遭充公 3少年涉危险动作被捕",
+      "summary": "(诗巫5日讯)诗巫警区总部交通调查与执法组于昨日展开的“摩托车取缔行动”中,共检查30辆摩托车及35人,开出8 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-05",
+      "url": "https://news.seehua.com/post/1509681"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869872318878019977",
+      "title": "危急时刻,他们毫不犹豫上前救人!",
+      "summary": "6月26日中午,浦东新区街头发生揪心又暖心的一幕。一位老人驾驶助动车时不慎摔倒在民耀路顾路阳光苑小区附近,额头磕碰受伤、血流不止,身体无法自主起身。危急时刻,途经此处的申通快递四名员工毫不犹豫上前救......",
+      "source": "News_Baidu",
+      "date": "2026-07-05",
+      "url": "http://baijiahao.baidu.com/s?id=1869872318878019977"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1783241292168125.html",
+      "title": "写出福尔摩斯的柯南·道尔,最后相信花仙子了",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-04",
-      "url": "https://www.bjnews.com.cn/detail/1783151134129567.html"
+      "date": "2026-07-05",
+      "url": "https://www.bjnews.com.cn/detail/1783241292168125.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869695446589649348",
-      "title": "发布多项全新技术,泰科电子亮相2026慕尼黑上海电..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-04",
-      "url": "http://baijiahao.baidu.com/s?id=1869695446589649348"
+      "id": "https://www.orientaldaily.com.my/news/society/2026/07/05/830653",
+      "title": "弟弟欠债哥哥遭绑架掳往泰国逼债 绑匪认罪判监4年罚6000",
+      "summary": "(巴西马6日讯)一劳工涉及绑架一欠债男子的哥哥,并偷走欠债者轿车,今在巴西马地庭面对2项指控认罪,被判监4年及罚款6000令吉。被告莫哈末三苏(32岁)在巴西马地庭法官祖克布里阿都拉面前聆听宣读控状后即表示认罪,法官随即作出上述判决。根据首项控状,被告于今年6月6日下午约3时30分,联同3名仍在潜逃的同伙,到吉兰丹巴西马双溪登东路(Jalan Sungai Tendong)一民宅,绑架35岁男子莫...",
+      "source": "Orientaldaily",
+      "date": "2026-07-05",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/07/05/830653"
     },
     {
-      "id": "https://www.cnblogs.com/hjk1124/p/21125745",
-      "title": "【论道】前端之路总结——一个六年前端的风口浪尖 - 致爱丽丝",
-      "summary": "我们看到的事物并不是他们本来的样子,只是我们自己的样子。 阿内丝·尼恩 又到了一年一度的总结笔记,老规矩,想到哪写到哪,笔者慢慢写,读者慢慢看 去年写了五年记,自省自悟,以为掌握了跨开发职业的钥匙。时隔一年,这些领悟早已融入骨血——或者说,那篇只是自己自然而然的表达,但今年深入了解学习了下ai,内心...",
-      "source": "Cnblogs",
-      "date": "2026-07-04",
-      "url": "https://www.cnblogs.com/hjk1124/p/21125745"
+      "id": "https://post.smzdm.com/p/am97834k/",
+      "title": "你的“智驾神器”要凉了!L2辅助驾驶国标发布,2027年起强制执行",
+      "summary": "国内首个L2级组合驾驶辅助强制国标正式发布。7月2日,工信部官网公布《智能网联汽车 组合驾驶辅助系统安全要求》(GB 47955—2026)全文,明确2027年1月1日起,所有搭载L2辅助驾驶的新车必须达标方可上市,不合规产品禁止销售。该标准由华为、小米......",
+      "source": "Smzdm",
+      "date": "2026-07-05",
+      "url": "https://post.smzdm.com/p/am97834k/"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260704-%E5%9B%9E%E5%A3%B0%E6%8A%A5-%E6%B1%BD%E8%BD%A6%E5%88%B0%E9%B9%85%E8%82%9D%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%89%80%E4%B8%8D%E9%A3%9F",
-      "title": "回声报:汽车到鹅肝,中国无所不食",
-      "summary": "今天7月4日是美国独立250周年纪念日,成为周六当天法国各大日报头版的评论焦点。《费加罗报》的社论指出,这场本应团结这个分裂国家的纪念活动,却被现任总统特朗普打造成了一场彰显个人荣耀的庆典。历史上历任总统都将美国视为“自由世界的灯塔”,直到特朗普的出现才发生了转变,美国开国元勋的精神遗产,对他而言更像是一种自我目的或个人追求,而非为国家利益而战的使命。此外,《回声报》登出资深编辑勒布舍的评论文章称...",
-      "source": "Rfi_Fr",
-      "date": "2026-07-04",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260704-%E5%9B%9E%E5%A3%B0%E6%8A%A5-%E6%B1%BD%E8%BD%A6%E5%88%B0%E9%B9%85%E8%82%9D%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%89%80%E4%B8%8D%E9%A3%9F"
+      "id": "https://www.bjnews.com.cn/detail/1783239511129955.html",
+      "title": "智梦可dreamok AI睡眠超充垫京东首发 以智驾级数据闭环重塑睡眠体验",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-05",
+      "url": "https://www.bjnews.com.cn/detail/1783239511129955.html"
     },
     {
-      "id": "https://news.seehua.com/post/1509245",
-      "title": "遭警狂追17公里 通缉犯连撞3车弃车逃离",
-      "summary": "(林茂4日讯)一名拥有13项前科的毒品通缉犯为逃避警方检查,沿著南北大道在林茂一带狂逃约17公里,过程中危险驾 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-04",
-      "url": "https://news.seehua.com/post/1509245"
+      "id": "https://www.ithome.com/0/972/798.htm",
+      "title": "比亚迪智能座舱 UI 设计大赛结果揭晓,冠军作品将搭载于全新海豹 08",
+      "summary": "IT之家 7 月 5 日消息,比亚迪智能座舱 UI 设计大赛今天正式落幕,最终有 12 组作品脱颖而出, 其中一等奖作品将搭载于全新量产版海豹 08 。 据介绍,本次大赛由比亚迪联手中央美术学院、浙江大学、同济大学、江南大学和西安美术学院发起,以“情绪价值”为命题核心,收获数百份创意答卷。经大赛评审团多轮筛选,最终评选出 12 组作品。 IT之家附获奖作品详情如下: 一等奖 & 海洋专项奖:西安美...",
+      "source": "Ithome",
+      "date": "2026-07-05",
+      "url": "https://www.ithome.com/0/972/798.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869673062862448843",
-      "title": "6坐面包车硬塞15人!交警:严重超员,必严惩",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-04",
-      "url": "http://baijiahao.baidu.com/s?id=1869673062862448843"
+      "id": "https://post.smzdm.com/p/ak84k609/",
+      "title": "6颗896线激光雷达,50万级问界M9实测数据告诉你值不值",
+      "summary": "新能源50万级SUV市场,智驾硬件的军备竞赛愈演愈烈。问界M9全系标配6颗激光雷达,其中896线双光路图像级主雷达的分辨率是主流192线产品的4倍,成为目前量产车型中激光雷达规格最高的选手。硬件参数听着唬人,但实际驾驶中能带来多少体验差距?城市NOA场景......",
+      "source": "Smzdm",
+      "date": "2026-07-05",
+      "url": "https://post.smzdm.com/p/ak84k609/"
     },
     {
-      "id": "https://news.seehua.com/post/1509287",
-      "title": "涉酒驾毒驾酿成死亡事故者 MCCC彭州分会建议:应终身吊销驾照",
-      "summary": "(吉隆坡4日讯)马来西亚社区罪案关怀组织(MCCC)彭亨州分会主席辜健鈫呼吁政府考虑,对因酒后驾驶或吸毒后驾驶 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-04",
-      "url": "https://news.seehua.com/post/1509287"
+      "id": "https://www.ithome.com/0/972/784.htm",
+      "title": "11.98 万元起,蔚来 firefly 萤火虫即将迎来 7 万台交付",
+      "summary": "IT之家 7 月 5 日消息,蔚来今日官宣,旗下 firefly 萤火虫即将迎来 7 万台交付。这款纯电小车在 5 月 23 日刚刚完成第 6 万台交付,仅仅过去 1 个多月。 IT之家注意到,该车自 2025 年 4 月 29 日开启首批交付,并于今年 4 月推出 firefly 萤火虫焕新升级款, 整车购买售价 11.98-12.58 万元 ,BaaS 租电方案售价 7.98-8.58 万元。...",
+      "source": "Ithome",
+      "date": "2026-07-05",
+      "url": "https://www.ithome.com/0/972/784.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869772233583727794",
-      "title": "接地气效果好,扬州开启“美丽乡村行”交通安全宣讲,..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-04",
-      "url": "http://baijiahao.baidu.com/s?id=1869772233583727794"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3446503",
-      "title": "新股消息 | 景旺电子(603228.SH)再度递表港交所 为全球第一大汽车电子PCB供应商",
+      "id": "https://cn.investing.com/news/economy-news/article-3446638",
+      "title": "电动车电池耐久性超出预期,换电池的顾虑仍挥之不去",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-07-04",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3446503"
+      "date": "2026-07-05",
+      "url": "https://cn.investing.com/news/economy-news/article-3446638"
     },
     {
-      "id": "https://www.ithome.com/0/972/621.htm",
-      "title": "比亚迪熊甜波:方程豹钛 7 EV 闪充版四驱车型本周已全面开启交付,全链条都在全力冲刺提升产能",
-      "summary": "IT之家 7 月 4 日消息,比亚迪集团-方程豹事业部总经理熊甜波今日表示, 钛 7 EV 闪充版四驱车型本周已全面开启交付 。 熊甜波表示:“ 目前‘保交付’就是我们工作的重中之重,全链条都在全力冲刺提升产能 。” 据IT之家此前报道, 比亚迪方程豹钛 7 EV 闪充版于 4 月 29 日上市 ,售价 19.98 万元起: 675km 后驱闪充版:19.98 万元 755km 后驱闪充版:20....",
-      "source": "Ithome",
-      "date": "2026-07-04",
-      "url": "https://www.ithome.com/0/972/621.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-04/10652772.shtml",
-      "title": "人工智能融合应用发展论坛在京举办 探索AI应用路径",
-      "summary": "中新网北京7月4日电 (记者 吕少威)2026全球数字经济大会人工智能融合应用发展论坛3日在北京举办,以“智驱实体,数创未来”为主题,围绕人工智能对千行百业的影响与重塑,探索人工智能从技术突破到真实生产力落地的路径,助力数字经济高质量发展。...",
-      "source": "Chinanews",
-      "date": "2026-07-04",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-04/10652772.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/972/614.htm",
-      "title": "零跑全新 B01/B10 座舱公布:前排双零重力座椅、17.3 英寸 3K 中控屏等",
-      "summary": "IT之家 7 月 4 日消息,零跑汽车今日公布全新 B01/B10 座舱官图,部分配置信息也陆续揭晓,定位分别为“年轻时尚超长续航轿车”和“全球智享长续航 SUV”。 据介绍,全新 B01/B10 车型搭载 前排双零重力座椅 ,全新 B10 百变灵动成床搭配 1.83m2 星空全景天幕,全新 B01 配备 50 英寸 AR-HUD,全新 B10 则配备 55 英寸 AR-HUD。此外,新车还将提供...",
-      "source": "Ithome",
-      "date": "2026-07-04",
-      "url": "https://www.ithome.com/0/972/614.htm"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0704/942657.shtml",
-      "title": "全新一代天工08开启预售:红旗新能源的背水一战",
+      "id": "https://www.jiemian.com/article/14702417.html",
+      "title": "一周新车盘点|领克07GT预售搭四驱和MRC悬挂 全新宝马X5首次覆盖纯电动力",
       "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-07-04",
-      "url": "http://www.eeo.com.cn/2026/0704/942657.shtml"
+      "source": "Jiemian",
+      "date": "2026-07-05",
+      "url": "https://www.jiemian.com/article/14702417.html"
+    },
+    {
+      "id": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "title": "Veteran Trucker: AI Made Job Safer but Autonomous Trucks Aren't Ready",
+      "summary": "Ingrid Brown, a trucker of 47 years, said technology like the cellphone and AI has made truck driving safer but autonomous trucks still need work....",
+      "source": "Business Insider",
+      "date": "2026-07-05",
+      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7"
     },
     {
       "id": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar",
@@ -217,46 +261,6 @@
       "source": "Devdiscourse",
       "date": "2026-07-02",
       "url": "https://www.devdiscourse.com/article/technology/3944229-teslas-surging-q2-deliveries-spark-hope-amid-ai-ambitions"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success",
-      "title": "Tesla Surpasses Expectations: A Surge in European Demand Drives Success",
-      "summary": "Tesla exceeded Wall Street's expectations for second-quarter vehicle deliveries, largely driven by a resurgence in European demand. Despite challenges in North America and competition from Chinese aut...",
-      "source": "Devdiscourse",
-      "date": "2026-07-02",
-      "url": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations",
-      "title": "Tesla's Surging European Demand Boosts Q2 Deliveries Beyond Expectations",
-      "summary": "Tesla exceeded Wall Street expectations for Q2 deliveries, driven by a demand rebound in Europe. The company delivered 480,126 vehicles, outperforming analyst predictions. While competition in China i...",
-      "source": "Devdiscourse",
-      "date": "2026-07-02",
-      "url": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations"
-    },
-    {
-      "id": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html",
-      "title": "India's defence sector enters structural growth phase as brokerages see deep-tech, exports driving next leg",
-      "summary": "While large platform orders are expected to remain the backbone of defence spending, brokerages increasingly see the next phase of value creation shifting towards companies with capabilities in defenc...",
-      "source": "Moneycontrol",
-      "date": "2026-07-02",
-      "url": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3943735-volkswagen-and-bosch-end-joint-autonomous-driving-project",
-      "title": "Volkswagen and Bosch End Joint Autonomous Driving Project",
-      "summary": "Volkswagen's software unit Cariad and Bosch have ended their autonomous driving project. Both companies will independently develop the technologies they jointly created. This move aligns with Volkswag...",
-      "source": "Devdiscourse",
-      "date": "2026-07-01",
-      "url": "https://www.devdiscourse.com/article/technology/3943735-volkswagen-and-bosch-end-joint-autonomous-driving-project"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/07/01/wayve-courts-automakers-with-ai-driving-system-that-learns-like-humans",
-      "title": "Wayve courts automakers with AI driving system that learns like humans",
-      "summary": "July 1 (Reuters) - Autonomous-driving startup Wayve is riding a tide of ⁠investor interest....",
-      "source": "The Star",
-      "date": "2026-07-01",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/01/wayve-courts-automakers-with-ai-driving-system-that-learns-like-humans"
     }
   ]
 }
