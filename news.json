@@ -1,20 +1,15 @@
 {
-  "lastUpdated": "2026-07-06 04:14:40",
-  "totalCount": 35,
+  "lastUpdated": "2026-07-07 04:04:42",
+  "totalCount": 31,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 6,
-    "Cri_Cn": 1,
-    "Cnblogs": 1,
-    "Ithome": 3,
-    "Zaobao": 1,
-    "Chinanews": 1,
-    "News_Seehua": 1,
+    "News_Baidu": 9,
+    "Theportugalnews": 1,
+    "Fx168News": 2,
     "Bjnews": 2,
-    "Orientaldaily": 1,
-    "Smzdm": 2,
+    "Pcauto_Cn": 1,
     "Investing_Cn": 1,
-    "Jiemian": 1,
+    "Outlook Business": 1,
     "Business Insider": 1,
     "South China Morning Post": 1,
     "Devdiscourse": 5,
@@ -23,212 +18,180 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1FDTC6CEz5",
-      "title": "【B站】欧卡2 自动驾驶插件",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-07-06",
-      "url": "https://www.bilibili.com/video/BV1FDTC6CEz5"
-    },
-    {
       "id": "https://www.bilibili.com/video/BV1kKbLzvExD",
       "title": "【B站】赛博朋克2077 自动驾驶增强模组",
       "summary": "模组下载链接：https://www.nexusmods.com/cyberpunk2077/mods/23157...",
       "source": "Bilibili",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "url": "https://www.bilibili.com/video/BV1kKbLzvExD"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1TKT76mE4z",
+      "title": "【B站】[欧卡2]自动驾驶ETS2LA使用教程",
+      "summary": "https://ets2la.com...",
       "source": "Bilibili",
-      "date": "2026-07-06",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV14BTC6QEsf",
-      "title": "【B站】最美的奔赴，藏着温柔的科技浪漫，AI赋能自动驾驶。",
-      "summary": "科技是辅助，专注和自律才是安全的核心。兼顾科技科普与安全教育，培养孩子观察力与科学认知。...",
-      "source": "Bilibili",
-      "date": "2026-07-06",
-      "url": "https://www.bilibili.com/video/BV14BTC6QEsf"
+      "date": "2026-07-07",
+      "url": "https://www.bilibili.com/video/BV1TKT76mE4z"
     },
     {
       "id": "https://www.bilibili.com/video/BV1aT411H7ug",
       "title": "【B站】自动驾驶测试 入门课程",
       "summary": "自动驾驶测试 入门课程...",
       "source": "Bilibili",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "url": "https://www.bilibili.com/video/BV1aT411H7ug"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869682301430104900",
-      "title": "9座车塞12人?安阳交警:严查!",
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-07-07",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1aWzzYME14",
+      "title": "【B站】【微软模拟飞行2024】真C172飞行员教你使用G1000自动驾驶。生涯模式还在苦苦手飞？学会使用自动驾驶解放双手吧。",
+      "summary": "相关游戏：微软模拟飞行2024 / MSFS2024\n应大家的要求，今天来做一个关于G1000导航仪的自动驾驶使用教程，希望能帮到大家快速入门~\n视频现在还在持续更新中。预计明天更新【ILS盲降】和【RNAV进近】，有兴趣的可以先收藏哈~\n\n如果有问题欢迎加入我们的模拟飞行社群【293416545】...",
+      "source": "Bilibili",
+      "date": "2026-07-07",
+      "url": "https://www.bilibili.com/video/BV1aWzzYME14"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869862916243585557",
+      "title": "田间施“膜”法,铺就绿色新“稻”路",
+      "summary": "眼下正是水稻插秧的好时节。在嘉定区外冈镇的万亩良田里,一派科技感十足的繁忙景象。今年外冈镇在水稻插秧环节全面引入覆膜插秧绿色生产技术,既省工省药,又保水保肥。跟随小嘉一起去看看这一“黑科技”是怎么在稻田里施展“膜”法的。...",
+      "source": "News_Baidu",
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869862916243585557"
+    },
+    {
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-07-06/new-cars-in-portugal-to-have-new-mandatory-asset/1051061",
+      "title": "葡萄牙的新车将配备一项新的强制性配置",
+      "summary": "NewsData报道",
+      "source": "Theportugalnews",
+      "date": "2026-07-06",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-07-06/new-cars-in-portugal-to-have-new-mandatory-asset/1051061"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869973717564776627",
+      "title": "「黔东南州成立70周年巡礼」一条专线背后的七十年",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-05",
-      "url": "http://baijiahao.baidu.com/s?id=1869682301430104900"
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869973717564776627"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869574651048978357",
-      "title": "李公明|一周书记:被数据监控的工作与人类文明......未..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-05",
-      "url": "http://baijiahao.baidu.com/s?id=1869574651048978357"
+      "id": "https://www.fx168news.com/article/1053718",
+      "title": "特斯拉(TSLA)股票7月6日盘中上涨3.63%:投资者必看的核心信息-FX168",
+      "summary": "特斯拉 (TSLA) 盘中上涨3.63%, 所属行业汽车与零部件上涨2.99% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.63%;Rivian Automotive Inc (RIVN) 上涨 6.20%;Genuine Parts Co (GPC) 下跌 3.39%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉股价周一走高,在经历上一交易日的剧烈抛售离...",
+      "source": "Fx168News",
+      "date": "2026-07-06",
+      "url": "https://www.fx168news.com/article/1053718"
     },
     {
-      "id": "https://news.cri.cn/20260705/6b9b3499-a2b1-6c3a-5659-87ddc4c67821.html",
-      "title": "记者手记丨在吉隆坡追忆南侨机工-国际在线",
-      "summary": "新华社吉隆坡7月5日电 记者手记丨在吉隆坡追忆南侨机工 新华社记者袁睿 何光海 5日早晨,马来西亚首都吉隆坡的南侨机工纪念公园内,花圈静立,气氛庄重。人们陆续走来,在纪念碑...",
-      "source": "Cri_Cn",
-      "date": "2026-07-05",
-      "url": "https://news.cri.cn/20260705/6b9b3499-a2b1-6c3a-5659-87ddc4c67821.html"
-    },
-    {
-      "id": "https://www.cnblogs.com/daibitx/p/21146747",
-      "title": "我变成了 AI 的打字猴子——以及我为什么写了一个禁止 AI 写代码的工具 - daibitx",
-      "summary": "我变成了 AI 的打字猴子——以及我为什么写了一个禁止 AI 写代码的工具 当 AI 替我写代码时,我以为自己变成了 10x 工程师。实际上,我变成了一只会按 Tab 的猴子,面对崩溃堆栈时连自己的代码都读不懂。 那个死锁 凌晨一点半。产线停了四十分钟。 不是设备故障——是产线追踪系统卡死了。PLC...",
-      "source": "Cnblogs",
-      "date": "2026-07-05",
-      "url": "https://www.cnblogs.com/daibitx/p/21146747"
-    },
-    {
-      "id": "https://www.ithome.com/0/972/860.htm",
-      "title": "零跑全新 B01/B10 座舱细节公布:前排双零重力座椅、全景天幕 + 电动遮阳帘",
-      "summary": "IT之家 7 月 5 日消息,零跑汽车昨日公布全新 B01/B10 座舱细节,新车预计将于近期上市。 据介绍,全新 B01 搭载 50 英寸虚实融合 AR-HUD、 17.3 英寸 3K 超清中控屏、8.8 英寸液晶仪表、Leap Sound 14 扬声器、主驾头枕扬声器(共享、驾享、私享 3 大模式)。 全新 B10 则搭载 124° 前排双零重力座椅 ,提供吸风式通风、加热、记忆 & 迎宾、一...",
-      "source": "Ithome",
-      "date": "2026-07-05",
-      "url": "https://www.ithome.com/0/972/860.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869881202659131203",
-      "title": "可以自己开的“复兴号”,已经在屋里停好了",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-05",
-      "url": "http://baijiahao.baidu.com/s?id=1869881202659131203"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/world/story20260705-9316880",
-      "title": "日本2027年起试跑无人驾驶公共巴士",
-      "summary": "NewsData报道",
-      "source": "Zaobao",
-      "date": "2026-07-05",
-      "url": "https://www.zaobao.com.sg/news/world/story20260705-9316880"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869877302519282268",
-      "title": "重庆小伙冲击西藏文旅50万宣传大奖激动流泪,其打出..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-05",
-      "url": "http://baijiahao.baidu.com/s?id=1869877302519282268"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/hr/2026/07-05/10653220.shtml",
-      "title": "法国山东商会“万里归鲁·欧亚穿越”返乡车队入鲁",
-      "summary": "中新网济南7月5日电 (李明芮)法国山东商会“万里归鲁·欧亚穿越”返乡车队入鲁欢迎活动5日在济南百里黄河风景区举办。一支由旅法侨胞组成的车队驾驶中国自主品牌越野车,自当地时间6月4日从巴黎启程,穿越欧亚大陆,最终抵达山东,以民间自驾形式搭建中外文化交流桥梁。...",
-      "source": "Chinanews",
-      "date": "2026-07-05",
-      "url": "https://www.chinanews.com.cn/hr/2026/07-05/10653220.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869876933575641085",
-      "title": "罗伯克千场线下试饮实录,70% 路人复购,口感圈粉..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-05",
-      "url": "http://baijiahao.baidu.com/s?id=1869876933575641085"
-    },
-    {
-      "id": "https://news.seehua.com/post/1509681",
-      "title": "诗巫道路流氓取缔行动 7摩托车遭充公 3少年涉危险动作被捕",
-      "summary": "(诗巫5日讯)诗巫警区总部交通调查与执法组于昨日展开的“摩托车取缔行动”中,共检查30辆摩托车及35人,开出8 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-05",
-      "url": "https://news.seehua.com/post/1509681"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869872318878019977",
-      "title": "危急时刻,他们毫不犹豫上前救人!",
-      "summary": "6月26日中午,浦东新区街头发生揪心又暖心的一幕。一位老人驾驶助动车时不慎摔倒在民耀路顾路阳光苑小区附近,额头磕碰受伤、血流不止,身体无法自主起身。危急时刻,途经此处的申通快递四名员工毫不犹豫上前救......",
-      "source": "News_Baidu",
-      "date": "2026-07-05",
-      "url": "http://baijiahao.baidu.com/s?id=1869872318878019977"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1783241292168125.html",
-      "title": "写出福尔摩斯的柯南·道尔,最后相信花仙子了",
+      "id": "https://www.bjnews.com.cn/detail/1783346872129928.html",
+      "title": "交通综合治理怎么治?北京近百名一线负责人研讨“取经”",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-05",
-      "url": "https://www.bjnews.com.cn/detail/1783241292168125.html"
+      "date": "2026-07-06",
+      "url": "https://www.bjnews.com.cn/detail/1783346872129928.html"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/07/05/830653",
-      "title": "弟弟欠债哥哥遭绑架掳往泰国逼债 绑匪认罪判监4年罚6000",
-      "summary": "(巴西马6日讯)一劳工涉及绑架一欠债男子的哥哥,并偷走欠债者轿车,今在巴西马地庭面对2项指控认罪,被判监4年及罚款6000令吉。被告莫哈末三苏(32岁)在巴西马地庭法官祖克布里阿都拉面前聆听宣读控状后即表示认罪,法官随即作出上述判决。根据首项控状,被告于今年6月6日下午约3时30分,联同3名仍在潜逃的同伙,到吉兰丹巴西马双溪登东路(Jalan Sungai Tendong)一民宅,绑架35岁男子莫...",
-      "source": "Orientaldaily",
-      "date": "2026-07-05",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/07/05/830653"
+      "id": "http://baijiahao.baidu.com/s?id=1869930053570694953",
+      "title": "鸡西:煤城故事从“新”开始",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869930053570694953"
     },
     {
-      "id": "https://post.smzdm.com/p/am97834k/",
-      "title": "你的“智驾神器”要凉了!L2辅助驾驶国标发布,2027年起强制执行",
-      "summary": "国内首个L2级组合驾驶辅助强制国标正式发布。7月2日,工信部官网公布《智能网联汽车 组合驾驶辅助系统安全要求》(GB 47955—2026)全文,明确2027年1月1日起,所有搭载L2辅助驾驶的新车必须达标方可上市,不合规产品禁止销售。该标准由华为、小米......",
-      "source": "Smzdm",
-      "date": "2026-07-05",
-      "url": "https://post.smzdm.com/p/am97834k/"
+      "id": "http://baijiahao.baidu.com/s?id=1869976895211864458",
+      "title": "深夜!芯片股,全线大涨!美股,发生了啥?",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869976895211864458"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1783239511129955.html",
-      "title": "智梦可dreamok AI睡眠超充垫京东首发 以智驾级数据闭环重塑睡眠体验",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-05",
-      "url": "https://www.bjnews.com.cn/detail/1783239511129955.html"
+      "id": "http://baijiahao.baidu.com/s?id=1869977115518415336",
+      "title": "交通综合治理怎么治?北京近百名一线负责人研讨“取经..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869977115518415336"
     },
     {
-      "id": "https://www.ithome.com/0/972/798.htm",
-      "title": "比亚迪智能座舱 UI 设计大赛结果揭晓,冠军作品将搭载于全新海豹 08",
-      "summary": "IT之家 7 月 5 日消息,比亚迪智能座舱 UI 设计大赛今天正式落幕,最终有 12 组作品脱颖而出, 其中一等奖作品将搭载于全新量产版海豹 08 。 据介绍,本次大赛由比亚迪联手中央美术学院、浙江大学、同济大学、江南大学和西安美术学院发起,以“情绪价值”为命题核心,收获数百份创意答卷。经大赛评审团多轮筛选,最终评选出 12 组作品。 IT之家附获奖作品详情如下: 一等奖 & 海洋专项奖:西安美...",
-      "source": "Ithome",
-      "date": "2026-07-05",
-      "url": "https://www.ithome.com/0/972/798.htm"
+      "id": "http://www.pcauto.com.cn/news/5162/51624286.html",
+      "title": "对话|小鹏汽车:拒绝简单 “套娃换皮” L03将是预期销量最高的",
+      "summary": "小鹏MONA L037月2日开启预售(14.38-16.58万),7.16上市,预订破同期记录,欧阳娜娜深度参与产品共创。...",
+      "source": "Pcauto_Cn",
+      "date": "2026-07-06",
+      "url": "http://www.pcauto.com.cn/news/5162/51624286.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ak84k609/",
-      "title": "6颗896线激光雷达,50万级问界M9实测数据告诉你值不值",
-      "summary": "新能源50万级SUV市场,智驾硬件的军备竞赛愈演愈烈。问界M9全系标配6颗激光雷达,其中896线双光路图像级主雷达的分辨率是主流192线产品的4倍,成为目前量产车型中激光雷达规格最高的选手。硬件参数听着唬人,但实际驾驶中能带来多少体验差距?城市NOA场景......",
-      "source": "Smzdm",
-      "date": "2026-07-05",
-      "url": "https://post.smzdm.com/p/ak84k609/"
+      "id": "http://baijiahao.baidu.com/s?id=1869950891802045190",
+      "title": "高清大图来袭!看运-20列装十周年的精彩瞬间",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869950891802045190"
     },
     {
-      "id": "https://www.ithome.com/0/972/784.htm",
-      "title": "11.98 万元起,蔚来 firefly 萤火虫即将迎来 7 万台交付",
-      "summary": "IT之家 7 月 5 日消息,蔚来今日官宣,旗下 firefly 萤火虫即将迎来 7 万台交付。这款纯电小车在 5 月 23 日刚刚完成第 6 万台交付,仅仅过去 1 个多月。 IT之家注意到,该车自 2025 年 4 月 29 日开启首批交付,并于今年 4 月推出 firefly 萤火虫焕新升级款, 整车购买售价 11.98-12.58 万元 ,BaaS 租电方案售价 7.98-8.58 万元。...",
-      "source": "Ithome",
-      "date": "2026-07-05",
-      "url": "https://www.ithome.com/0/972/784.htm"
-    },
-    {
-      "id": "https://cn.investing.com/news/economy-news/article-3446638",
-      "title": "电动车电池耐久性超出预期,换电池的顾虑仍挥之不去",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3448342",
+      "title": "美股异动 | 无人驾驶服务扩展至美国东南部 特斯拉(TSLA.US)涨超3%",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-07-05",
-      "url": "https://cn.investing.com/news/economy-news/article-3446638"
+      "date": "2026-07-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3448342"
     },
     {
-      "id": "https://www.jiemian.com/article/14702417.html",
-      "title": "一周新车盘点|领克07GT预售搭四驱和MRC悬挂 全新宝马X5首次覆盖纯电动力",
+      "id": "http://baijiahao.baidu.com/s?id=1869977820898971621",
+      "title": "女子跨城买新车找代驾开回,司机顺路拉人,约定170..",
       "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-07-05",
-      "url": "https://www.jiemian.com/article/14702417.html"
+      "source": "News_Baidu",
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869977820898971621"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869976958120020264",
+      "title": "桂东县:以巡察督导赋能退役军人服务保障",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869976958120020264"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1053710",
+      "title": "超威半导体(AMD)股票7月6日盘中上涨8.20%:投资者必看的核心信息-FX168",
+      "summary": "超威半导体 (AMD) 盘中上涨8.20%, 所属行业科技设备上涨2.77% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 美光科技 (MU) 上涨 1.84%;闪迪 (SNDK) 上涨 2.88%;超威半导体 (AMD) 上涨 8.20%。 今日是什么导致了超威半导体(AMD)股价上涨? 在今天的交易时段中,Advanced Micro Devices(AMD)股价大幅飙升,这主要受到关键战略进展...",
+      "source": "Fx168News",
+      "date": "2026-07-06",
+      "url": "https://www.fx168news.com/article/1053710"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1783314551129369.html",
+      "title": "平谷中学学生圆梦清华:学校总是把资源放在离学生最近的地方",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-06",
+      "url": "https://www.bjnews.com.cn/detail/1783314551129369.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869888468397039513",
+      "title": "马斯克的机器人来京“路演”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-06",
+      "url": "http://baijiahao.baidu.com/s?id=1869888468397039513"
+    },
+    {
+      "id": "https://www.outlookbusiness.com/corporate/ai-creating-new-consumer-demands-biz-opportunities-beyond-productivity-gains-bosch-global-software-technologies-ceo",
+      "title": "AI Creating New Consumer Demands, Biz Opportunities Beyond Productivity Gains: Bosch Global Software Technologies CEO",
+      "summary": "Bosch Global Software Technologies CEO Dattatri Salagame explains how AI is shifting engineering from cost-cutting to value creation, opening new consumer demands, products and services. Discover how ...",
+      "source": "Outlook Business",
+      "date": "2026-07-06",
+      "url": "https://www.outlookbusiness.com/corporate/ai-creating-new-consumer-demands-biz-opportunities-beyond-productivity-gains-bosch-global-software-technologies-ceo"
     },
     {
       "id": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
@@ -261,6 +224,38 @@
       "source": "Devdiscourse",
       "date": "2026-07-02",
       "url": "https://www.devdiscourse.com/article/technology/3944229-teslas-surging-q2-deliveries-spark-hope-amid-ai-ambitions"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success",
+      "title": "Tesla Surpasses Expectations: A Surge in European Demand Drives Success",
+      "summary": "Tesla exceeded Wall Street's expectations for second-quarter vehicle deliveries, largely driven by a resurgence in European demand. Despite challenges in North America and competition from Chinese aut...",
+      "source": "Devdiscourse",
+      "date": "2026-07-02",
+      "url": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations",
+      "title": "Tesla's Surging European Demand Boosts Q2 Deliveries Beyond Expectations",
+      "summary": "Tesla exceeded Wall Street expectations for Q2 deliveries, driven by a demand rebound in Europe. The company delivered 480,126 vehicles, outperforming analyst predictions. While competition in China i...",
+      "source": "Devdiscourse",
+      "date": "2026-07-02",
+      "url": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations"
+    },
+    {
+      "id": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html",
+      "title": "India's defence sector enters structural growth phase as brokerages see deep-tech, exports driving next leg",
+      "summary": "While large platform orders are expected to remain the backbone of defence spending, brokerages increasingly see the next phase of value creation shifting towards companies with capabilities in defenc...",
+      "source": "Moneycontrol",
+      "date": "2026-07-02",
+      "url": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3943735-volkswagen-and-bosch-end-joint-autonomous-driving-project",
+      "title": "Volkswagen and Bosch End Joint Autonomous Driving Project",
+      "summary": "Volkswagen's software unit Cariad and Bosch have ended their autonomous driving project. Both companies will independently develop the technologies they jointly created. This move aligns with Volkswag...",
+      "source": "Devdiscourse",
+      "date": "2026-07-01",
+      "url": "https://www.devdiscourse.com/article/technology/3943735-volkswagen-and-bosch-end-joint-autonomous-driving-project"
     }
   ]
 }
