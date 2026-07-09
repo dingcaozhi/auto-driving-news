@@ -1,200 +1,225 @@
 {
-  "lastUpdated": "2026-07-08 03:30:19",
-  "totalCount": 32,
+  "lastUpdated": "2026-07-09 03:58:34",
+  "totalCount": 28,
   "sources": {
     "Bilibili": 5,
-    "Ithome": 2,
-    "Hypebeast_Cn": 1,
-    "News_Baidu": 6,
-    "Investing_Cn": 2,
-    "Fx168News": 1,
-    "Bjnews": 1,
-    "Zaobao": 2,
-    "Cri_Cn": 1,
-    "Mixvale": 1,
+    "News_Baidu": 7,
+    "Pcauto_Cn": 1,
+    "Investing_Cn": 1,
+    "Bjnews": 2,
+    "Orientaldaily": 1,
+    "Ithome": 1,
+    "Times of India": 1,
+    "The Economic Times": 1,
+    "The New Indian Express": 1,
+    "CNBC": 1,
+    "Reuters": 1,
+    "Morningstar": 1,
+    "Barchart": 1,
     "Forbes": 1,
-    "Outlook Business": 1,
-    "Business Insider": 1,
-    "South China Morning Post": 1,
-    "Devdiscourse": 5,
-    "Moneycontrol": 1
+    "TechCrunch": 1,
+    "Outlook Business": 1
   },
   "news": [
+    {
+      "id": "https://www.bilibili.com/video/BV1UJM36qE1k",
+      "title": "【B站】港股史上最大自动驾驶or物理AI IPO？揭开了它赚钱的商业机密...",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-07-09",
+      "url": "https://www.bilibili.com/video/BV1UJM36qE1k"
+    },
     {
       "id": "https://www.bilibili.com/video/BV1aWzzYME14",
       "title": "【B站】【微软模拟飞行2024】真C172飞行员教你使用G1000自动驾驶。生涯模式还在苦苦手飞？学会使用自动驾驶解放双手吧。",
       "summary": "相关游戏：微软模拟飞行2024 / MSFS2024\n应大家的要求，今天来做一个关于G1000导航仪的自动驾驶使用教程，希望能帮到大家快速入门~\n视频现在还在持续更新中。预计明天更新【ILS盲降】和【RNAV进近】，有兴趣的可以先收藏哈~\n\n如果有问题欢迎加入我们的模拟飞行社群【293416545】...",
       "source": "Bilibili",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "url": "https://www.bilibili.com/video/BV1aWzzYME14"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "id": "https://www.bilibili.com/video/BV1kKbLzvExD",
+      "title": "【B站】赛博朋克2077 自动驾驶增强模组",
+      "summary": "模组下载链接：https://www.nexusmods.com/cyberpunk2077/mods/23157...",
       "source": "Bilibili",
-      "date": "2026-07-08",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1TKT76mE4z",
-      "title": "【B站】[欧卡2]自动驾驶ETS2LA使用教程",
-      "summary": "https://ets2la.com...",
-      "source": "Bilibili",
-      "date": "2026-07-08",
-      "url": "https://www.bilibili.com/video/BV1TKT76mE4z"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
-      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-07-08",
-      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
+      "date": "2026-07-09",
+      "url": "https://www.bilibili.com/video/BV1kKbLzvExD"
     },
     {
       "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
       "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
       "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
       "source": "Bilibili",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "https://www.ithome.com/0/973/803.htm",
-      "title": "华为乾崑智驾累计辅助驾驶里程数断网后仍滚动引热议,官方发声称相关页面展示数据时做了平滑处理",
-      "summary": "IT之家 7 月 7 日消息,近日,华为官网的“乾崑智驾累计辅助驾驶里程数断网后数据还会上涨”引发了网友热议。 针对乾崑智驾累计辅助驾驶里程显示相关,华为乾崑官方今日发布了说明。IT之家附原文如下: 为了向用户公开透明地呈现系统能力,同时也为行业提供数据参考,我们坚持用数据说话。自 2026 年 4 月起,我们开始公开乾崑智驾辅助驾驶里程实时数据。 截至本文发布之日,乾崑智驾累计辅助驾驶里程已超过...",
-      "source": "Ithome",
-      "date": "2026-07-07",
-      "url": "https://www.ithome.com/0/973/803.htm"
+      "id": "https://www.bilibili.com/video/BV1FPkcYEEd4",
+      "title": "【B站】【缺氧】火箭帝国第五期：封闭式驾驶舱与自动驾驶",
+      "summary": "有宇宙，有机器人，还支持手柄，今年还出了2个DLC，要素齐了，确实是宇宙机器人\n（就是缺了个索尼爹）...",
+      "source": "Bilibili",
+      "date": "2026-07-09",
+      "url": "https://www.bilibili.com/video/BV1FPkcYEEd4"
     },
     {
-      "id": "https://hypebeast.cn/2026/7/mclaren-m6gt-one-off-revival-heads-to-goodwood-2026",
-      "title": "McLaren Special Operations 复刻传奇独一无二 M6GT",
-      "summary": "摘要 McLaren Special Operations 完成一台独一无二的 M6GT 公路车复刻作品,实现创始人 Bruce McLaren 于 20 世纪 60 年代末最初构想的个人座驾梦想。团队采用当年保留下来的原始车身模具,结合档案级设计图纸与同年代打造的 M6A 赛车底盘,在开发过程中始终将历史真实性置于现代性能指标之上。这台复刻车型搭载一台符合时代设定的 small-block V8...",
-      "source": "Hypebeast_Cn",
-      "date": "2026-07-07",
-      "url": "https://hypebeast.cn/2026/7/mclaren-m6gt-one-off-revival-heads-to-goodwood-2026"
+      "id": "http://baijiahao.baidu.com/s?id=1870151028082817045",
+      "title": "瑞为技术登陆港股:第18C章迎来“视觉具身”新样本..",
+      "summary": "本报记者袁传玺7月8日,厦门瑞为信息技术股份有限公司(以下简称“瑞为技术”)正式登陆香港联合交易所主板,华泰国际、建银国际及农银国际担任联席保荐人。成功挂牌后,瑞为技术将以“视觉具身智...",
+      "source": "News_Baidu",
+      "date": "2026-07-08",
+      "url": "http://baijiahao.baidu.com/s?id=1870151028082817045"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870039149208802119",
-      "title": "北京紫竹院公园智能捕蚊器上岗,模拟人呼吸每天可诱杀..",
+      "id": "http://baijiahao.baidu.com/s?id=1870158340010370399",
+      "title": "镜论|科技创新跑出中国速度",
+      "summary": "科技兴则民族兴,科技强则国家强。新华社用影像定格突破创新的里程碑时刻,这些照片成为中国科技自立自强的珍贵写照。大国重器彰显创新底气科技引领时代。近年来,中国科技高水平成果竞相涌现:“神舟”“嫦娥”“天...",
+      "source": "News_Baidu",
+      "date": "2026-07-08",
+      "url": "http://baijiahao.baidu.com/s?id=1870158340010370399"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870158685359978509",
+      "title": "从“飞毯卫星”到无人小巴,这些硬科技正在走进百姓生..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-07",
-      "url": "http://baijiahao.baidu.com/s?id=1870039149208802119"
+      "date": "2026-07-08",
+      "url": "http://baijiahao.baidu.com/s?id=1870158685359978509"
     },
     {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3450410",
-      "title": "小马智行股价跌至52周低点6.66美元",
+      "id": "http://www.pcauto.com.cn/news/5163/51632774.html",
+      "title": "走进奇瑞犀牛电池智造工厂 深入了解电池安全制造全流程",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-07-08",
+      "url": "http://www.pcauto.com.cn/news/5163/51632774.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3452353",
+      "title": "杰富瑞重申克拉托斯防务股票买入评级,看好利润率增长",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-07-07",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3450410"
+      "date": "2026-07-08",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3452353"
     },
     {
-      "id": "https://www.fx168news.com/article/1054279",
-      "title": "超威半导体(AMD)股票7月7日盘中下跌7.09%:原因全解读-FX168",
-      "summary": "超威半导体 (AMD) 盘中下跌7.09%, 所属行业科技设备下跌3.95% ,公司涨幅跑输行业涨幅,行业成交额前三股票 美光科技 (MU) 下跌 6.98%;闪迪 (SNDK) 下跌 9.77%;英伟达 (NVDA) 下跌 1.83%。 今日是什么导致了超威半导体(AMD)股价下跌? Advanced Micro Devices (AMD) 股价今日的下跌反映了盘中的剧烈波动,这主要受到高成长科...",
-      "source": "Fx168News",
-      "date": "2026-07-07",
-      "url": "https://www.fx168news.com/article/1054279"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1783427092129795.html",
-      "title": "全新坦克300预售,谷玉坤:5年用户累计已近60万",
+      "id": "https://www.bjnews.com.cn/detail/1783493604129303.html",
+      "title": "砺剑苍穹:北京历正科技有限责任公司2026年中答卷,定义低空安防技术新高度",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-07",
-      "url": "https://www.bjnews.com.cn/detail/1783427092129795.html"
+      "date": "2026-07-08",
+      "url": "https://www.bjnews.com.cn/detail/1783493604129303.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870064531437670524",
-      "title": "防汛科普|雨季来袭 请查收这份避险指南",
+      "id": "https://www.bjnews.com.cn/detail/1783505873129501.html",
+      "title": "逆矩阵陈博远:AI竞争正从“预测Token”走向“预测世界”",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-08",
+      "url": "https://www.bjnews.com.cn/detail/1783505873129501.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870156782106512089",
+      "title": "省运会铁人三项将开赛,从赛场看见绿美广东生态建设",
+      "summary": "一片矿坑的涅槃,一场赛事的落地,一座城市的跃升。7月8日,广东省第十七届运动会茂南赛区官宣,8月12日,首次进入广东省运动会的铁人三项赛事在茂名露天矿生态公园正式开赛。此次铁人三项赛道落子茂名“城市绿...",
+      "source": "News_Baidu",
+      "date": "2026-07-08",
+      "url": "http://baijiahao.baidu.com/s?id=1870156782106512089"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870140158249917261",
+      "title": "物质科学智能研发工厂落地上海,推动产业AI化",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-07",
-      "url": "http://baijiahao.baidu.com/s?id=1870064531437670524"
+      "date": "2026-07-08",
+      "url": "http://baijiahao.baidu.com/s?id=1870140158249917261"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870058903168409965",
-      "title": "我国首期内河智能船舶船员培训在武汉举办",
+      "id": "http://baijiahao.baidu.com/s?id=1870156074669089144",
+      "title": "无人机救人那一刻,我们看懂了科技的意义",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-07",
-      "url": "http://baijiahao.baidu.com/s?id=1870058903168409965"
+      "date": "2026-07-08",
+      "url": "http://baijiahao.baidu.com/s?id=1870156074669089144"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260707-9327907",
-      "title": "议员:自驾车应与司机互补非竞争 优先部署于交通服务不足处",
-      "summary": "自动驾驶车的发展,应与提供点对点载客服务的司机相辅相成,而非互相竞争。数名议员建议我国未来正式部署自驾车时,应优先关注位置偏远、较少德士或私召车司机前往的地区。...",
-      "source": "Zaobao",
-      "date": "2026-07-07",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260707-9327907"
+      "id": "https://www.orientaldaily.com.my/news/society/2026/07/08/831504",
+      "title": "七旬老翁驾车失控坠河 消拯员破窗救人惟已不治身亡",
+      "summary": "(昔加末8日讯)76岁老翁所驾驶的轿车不知何故失控坠河,消拯人员破窗救人,却为时已晚,困在车内的老翁早已气绝身亡。这起死亡车祸是今日傍晚5时50左右,发生在靠近太子城附近的甘榜巴耶冷卡的格那瓦河(SUNGAI KENAWAR)。柔州消拯局今晚向媒体发文告,证实这起事故的发生。文告指出,当局结获投报后,从太子城消防局派出紧急队伍赶抵现场施救。拯救队伍抵达现场时,看到肇祸轿车浸泡在河中,车内有一位男司...",
+      "source": "Orientaldaily",
+      "date": "2026-07-08",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/07/08/831504"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3450152",
-      "title": "智通港股解盘 | 三星引发熔断科技再遇冰点 世界人工智能大会提前预热",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-07",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3450152"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870059301432768290",
-      "title": "破解研发周期长等难题,上海发布国内首个零人工介入物..",
-      "summary": "如何加快破解新药、新材料研发周期长、试错成本高等难题?7月7日,由上海科学智能研究院(下称“上智院”)牵头建设,孵化企业上海格物智研科技有限公司(下称“格物智研”)打造运营的“Golab物质科学智能研...",
-      "source": "News_Baidu",
-      "date": "2026-07-07",
-      "url": "http://baijiahao.baidu.com/s?id=1870059301432768290"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870058888567793198",
-      "title": "上海暴雨夜:老夫妇摔车,店家、保安、外卖小哥合力施..",
-      "summary": "6月30日晚,上海暴雨如注。当晚,一条记录雨夜温暖故事的帖子,在社交媒体上传播。发帖人王女士写道,一对老夫妻骑着带棚的三轮车摔倒在马路上,路过的行人冒雨施救,外卖小哥、保安纷纷相助,场面令人动容。她并...",
-      "source": "News_Baidu",
-      "date": "2026-07-07",
-      "url": "http://baijiahao.baidu.com/s?id=1870058888567793198"
-    },
-    {
-      "id": "https://news.cri.cn/20260707/e20d4b9c-b22e-e64a-a288-25007b3fd087.html",
-      "title": "防汛科普|雨季来袭 请查收这份避险指南-国际在线",
-      "summary": "近期极端天气多发,多地因降雨大风天气,接连发生水库溃坝、山体滑坡等灾情,造成重大人员伤亡和经济损失。马上要进入降水最集中的“七下八上”防汛关键期,连续降雨可能导致内涝、山洪、泥石流、山体滑坡等次生灾害,应该如何避...",
-      "source": "Cri_Cn",
-      "date": "2026-07-07",
-      "url": "https://news.cri.cn/20260707/e20d4b9c-b22e-e64a-a288-25007b3fd087.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870058164161262170",
-      "title": "“打黄色法拉利去拉萨”火了!出租司机:跟“李要得”..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-07",
-      "url": "http://baijiahao.baidu.com/s?id=1870058164161262170"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260707-9327633",
-      "title": "内政部拟严打酒驾毒驾 呼气酒限降至15微克 初犯或坐牢",
-      "summary": "我国道路安全形势持续恶化,2021年至2025年间,交通死亡率增加约24%(以每10万人口计算),交通违规事件增加约38%。内政部拟进一步严厉打击酒驾,以及增设摄入受管制药物、麻醉物质(intoxicating substances),以及精神活性物质驾驶的罪行。...",
-      "source": "Zaobao",
-      "date": "2026-07-07",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260707-9327633"
-    },
-    {
-      "id": "https://www.ithome.com/0/973/781.htm",
-      "title": "荣威家越 07 大五座 SUV 将搭载 Momenta R7 智驾方案",
-      "summary": "IT之家 7 月 7 日消息,荣威今天宣布, 家越 07 大五座 SUV 将搭载 Momenta R7 世界模型高阶智能辅助驾驶方案 。 结合IT之家此前报道,上汽荣威家越 07 大五座 SUV 是由上汽荣威与火山引擎深度合作的“全新 AI 原生序列”首款车型,预计将于今年三季度发布,提供“龙晶紫”“玛瑙灰”“宝石蓝”“珍溪黑”“钻石白”“翡翠绿”等配色。 该车采用以建筑式双垂直设计, 车头和车尾...",
+      "id": "https://www.ithome.com/0/974/268.htm",
+      "title": "2608.360km:吉利银河 A7 EM 获吉尼斯世界纪录,达成驾驶插混量产轿车零补能行驶最远距离",
+      "summary": "IT之家 7 月 8 日消息,吉利汽车官方今日宣布,吉利银河 A7 EM 车型斩获吉尼斯续航新纪录,达成驾驶插混量产轿车零补能行驶最远距离, 共行驶 2608.360km 。 据IT之家此前报道,今年 4 月, 吉利汽车旗下 2026 款银河 A7 EM/ A7 EV 双车正式上市 。其中银河 A7 EM 上市限时先享指导价 8.98 万元起。 2026 款吉利银河 A7 EM 定位“电混家轿颠覆...",
       "source": "Ithome",
-      "date": "2026-07-07",
-      "url": "https://www.ithome.com/0/973/781.htm"
+      "date": "2026-07-08",
+      "url": "https://www.ithome.com/0/974/268.htm"
     },
     {
-      "id": "https://www.mixvale.com.br/2026/07/07/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A5%B3%E5%AD%90%E9%A7%95%E9%A7%9B%E7%89%B9%E6%96%AF%E6%8B%89%E8%A2%AB%E6%8A%93%EF%BC%8C%E8%AD%A6%E6%96%B9%E9%96%8B%E5%A7%8B%E5%9A%B4%E5%AF%86%E8%AA%BF%E6%9F%A5-zh-tw/",
-      "title": "加拿大女子駕駛特斯拉被抓,警方開始嚴密調查",
-      "summary": "加拿大不列顛哥倫比亞省一名司機錄製的一段影片引發了國際上關於駕駛輔助技術局限性和危險性的激烈爭論。影像清楚顯示,一名婦女正在熟睡,她的特斯拉汽車沿著繁忙的高速公路高速行駛。這起事件引發了交通專家對現代自動化系統為這些豪華車車主提供的錯誤安全感的高度警覺性。 鑑於該資料在數位平台上引起巨大反響,加拿大皇家騎警 (RCMP) 當局確認已啟動正式調查,以調查事件的具體情況。當這輛電動車行駛在加拿大省東南...",
-      "source": "Mixvale",
+      "id": "http://baijiahao.baidu.com/s?id=1870154000952270416",
+      "title": "港股重上24000点 智驾龙头Momenta等5只..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-08",
+      "url": "http://baijiahao.baidu.com/s?id=1870154000952270416"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/greenland-is-being-swarmed-by-autonomous-drones-and-underwater-robots-as-scientists-race-to-answer-one-question-how-close-is-earth-to-a-climate-tipping-point/articleshow/132258395.cms",
+      "title": "Greenland is being swarmed by autonomous drones and underwater robots as scientists race to answer one question: How close is Earth to a climate tipping point?",
+      "summary": "Science News: Self-driving drones, robotic boats, and underwater vessels will be sent to Greenland to find the answer to one of the most important questions in the ....",
+      "source": "Times of India",
+      "date": "2026-07-08",
+      "url": "https://timesofindia.indiatimes.com/science/greenland-is-being-swarmed-by-autonomous-drones-and-underwater-robots-as-scientists-race-to-answer-one-question-how-close-is-earth-to-a-climate-tipping-point/articleshow/132258395.cms"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms",
+      "title": "Global Market: Momenta Global debuts nearly flat in Hong Kong after $751 million IPO",
+      "summary": "Momenta Global shares debuted on the Hong Kong Stock Exchange with a muted reception. The autonomous-driving software developer raised HK$5.89 billion in its initial public offering. Investor sentimen...",
+      "source": "The Economic Times",
+      "date": "2026-07-08",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms"
+    },
+    {
+      "id": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh",
+      "title": "Minister Lokesh invites Korean firms to expand investments in Andhra Pradesh",
+      "summary": "The minister also sought Hyundai Mobis’ support for research in autonomous driving, Advanced Driver Assistance Systems (ADAS) and smart manufacturing through th...",
+      "source": "The New Indian Express",
+      "date": "2026-07-08",
+      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html",
+      "title": "Chinese autonomous-driving firm Momenta rises 3% in Hong Kong debut",
+      "summary": "Chinese autonomous driving firm Momenta debuted on the Hong Kong stock exchange on Wednesday, rising 3%....",
+      "source": "CNBC",
+      "date": "2026-07-08",
+      "url": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html"
+    },
+    {
+      "id": "https://www.reuters.com/world/asia-pacific/chinese-autonomous-driving-firm-momenta-set-open-slightly-higher-hong-kong-debut-2026-07-08/",
+      "title": "China's Momenta debuts flat in Hong Kong as IPO caution grips AI listings",
+      "summary": "Shares of Momenta Global debuted flat in Hong Kong on Wednesday, ‌after the Chinese autonomous-driving firm raised about HK$5.89 billion ($751 million) in its initial public offering....",
+      "source": "Reuters",
+      "date": "2026-07-08",
+      "url": "https://www.reuters.com/world/asia-pacific/chinese-autonomous-driving-firm-momenta-set-open-slightly-higher-hong-kong-debut-2026-07-08/"
+    },
+    {
+      "id": "https://www.morningstar.com/company-reports/1487319-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software",
+      "title": "Rivian Poised for Growth From Shift to Lower-Priced Vehicles and Autonomous Driving Software",
+      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
+      "source": "Morningstar",
+      "date": "2026-07-08",
+      "url": "https://www.morningstar.com/company-reports/1487319-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
+    },
+    {
+      "id": "https://www.barchart.com/story/news/3168279/amd-just-scored-a-new-autonomous-driving-customer-its-aiming-at-nvidia-in-another-arena",
+      "title": "AMD Just Scored a New Autonomous Driving Customer. It’s Aiming at Nvidia in Another Arena.",
+      "summary": "AMD just landed Japanese autonomous vehicle firm Turing as a customer....",
+      "source": "Barchart",
       "date": "2026-07-07",
-      "url": "https://www.mixvale.com.br/2026/07/07/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A5%B3%E5%AD%90%E9%A7%95%E9%A7%9B%E7%89%B9%E6%96%AF%E6%8B%89%E8%A2%AB%E6%8A%93%EF%BC%8C%E8%AD%A6%E6%96%B9%E9%96%8B%E5%A7%8B%E5%9A%B4%E5%AF%86%E8%AA%BF%E6%9F%A5-zh-tw/"
+      "url": "https://www.barchart.com/story/news/3168279/amd-just-scored-a-new-autonomous-driving-customer-its-aiming-at-nvidia-in-another-arena"
     },
     {
       "id": "https://www.forbes.com/sites/shelleykohan/2026/07/07/consumers-embrace-driverless-delivery-but-infrastructure-lags/",
@@ -205,60 +230,20 @@
       "url": "https://www.forbes.com/sites/shelleykohan/2026/07/07/consumers-embrace-driverless-delivery-but-infrastructure-lags/"
     },
     {
+      "id": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine....",
+      "source": "TechCrunch",
+      "date": "2026-07-07",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
+    },
+    {
       "id": "https://www.outlookbusiness.com/corporate/ai-creating-new-consumer-demands-biz-opportunities-beyond-productivity-gains-bosch-global-software-technologies-ceo",
       "title": "AI Creating New Consumer Demands, Biz Opportunities Beyond Productivity Gains: Bosch Global Software Technologies CEO",
       "summary": "Bosch Global Software Technologies CEO Dattatri Salagame explains how AI is shifting engineering from cost-cutting to value creation, opening new consumer demands, products and services. Discover how ...",
       "source": "Outlook Business",
       "date": "2026-07-06",
       "url": "https://www.outlookbusiness.com/corporate/ai-creating-new-consumer-demands-biz-opportunities-beyond-productivity-gains-bosch-global-software-technologies-ceo"
-    },
-    {
-      "id": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "title": "Veteran Trucker: AI Made Job Safer but Autonomous Trucks Aren't Ready",
-      "summary": "Ingrid Brown, a trucker of 47 years, said technology like the cellphone and AI has made truck driving safer but autonomous trucks still need work....",
-      "source": "Business Insider",
-      "date": "2026-07-05",
-      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7"
-    },
-    {
-      "id": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar",
-      "title": "China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar",
-      "summary": "Autonomous-driving firm draws nearly 210,000 orders for a US$751 million offering, making it year’s second ‘red-chip’ firm to get Beijing’s permission to list via offshore structure....",
-      "source": "South China Morning Post",
-      "date": "2026-07-03",
-      "url": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3944428-tesla-surges-with-record-deliveries-amid-economic-challenges",
-      "title": "Tesla Surges with Record Deliveries Amid Economic Challenges",
-      "summary": "Tesla reported record second-quarter delivery numbers, surpassing Wall Street estimates, driven by a European market rebound. The company's results provide a buffer as it focuses on ambitious plans in...",
-      "source": "Devdiscourse",
-      "date": "2026-07-02",
-      "url": "https://www.devdiscourse.com/article/technology/3944428-tesla-surges-with-record-deliveries-amid-economic-challenges"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3944229-teslas-surging-q2-deliveries-spark-hope-amid-ai-ambitions",
-      "title": "Tesla's Surging Q2 Deliveries Spark Hope Amid AI Ambitions",
-      "summary": "Tesla surpassed Wall Street expectations with record Q2 deliveries, primarily due to a rebound in European demand. Despite stabilizing sales, investors focus on the company's long-term ventures in AI,...",
-      "source": "Devdiscourse",
-      "date": "2026-07-02",
-      "url": "https://www.devdiscourse.com/article/technology/3944229-teslas-surging-q2-deliveries-spark-hope-amid-ai-ambitions"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success",
-      "title": "Tesla Surpasses Expectations: A Surge in European Demand Drives Success",
-      "summary": "Tesla exceeded Wall Street's expectations for second-quarter vehicle deliveries, largely driven by a resurgence in European demand. Despite challenges in North America and competition from Chinese aut...",
-      "source": "Devdiscourse",
-      "date": "2026-07-02",
-      "url": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations",
-      "title": "Tesla's Surging European Demand Boosts Q2 Deliveries Beyond Expectations",
-      "summary": "Tesla exceeded Wall Street expectations for Q2 deliveries, driven by a demand rebound in Europe. The company delivered 480,126 vehicles, outperforming analyst predictions. While competition in China i...",
-      "source": "Devdiscourse",
-      "date": "2026-07-02",
-      "url": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations"
     }
   ]
 }
