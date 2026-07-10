@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-09 03:58:34",
-  "totalCount": 28,
+  "lastUpdated": "2026-07-10 03:58:55",
+  "totalCount": 31,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 7,
-    "Pcauto_Cn": 1,
-    "Investing_Cn": 1,
-    "Bjnews": 2,
-    "Orientaldaily": 1,
-    "Ithome": 1,
+    "News_Baidu": 13,
+    "Bjnews": 1,
+    "Time Weekly": 1,
+    "Smzdm": 1,
+    "Hot Hardware": 1,
+    "TNW": 1,
     "Times of India": 1,
     "The Economic Times": 1,
     "The New Indian Express": 1,
@@ -16,154 +16,192 @@
     "Reuters": 1,
     "Morningstar": 1,
     "Barchart": 1,
-    "Forbes": 1,
-    "TechCrunch": 1,
-    "Outlook Business": 1
+    "Forbes": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1UJM36qE1k",
-      "title": "【B站】港股史上最大自动驾驶or物理AI IPO？揭开了它赚钱的商业机密...",
+      "id": "https://www.bilibili.com/video/BV1TmMG6MEwC",
+      "title": "【B站】买了电车之后，根本就控制不住要拍拍拍！今天学习的是电影结尾式，大家来打个分#自动驾驶车 #蔚来驾驶体验 #蔚来 #跑山",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-07-10",
+      "url": "https://www.bilibili.com/video/BV1TmMG6MEwC"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1d3MV6DEa5",
+      "title": "【B站】傻逼scum在双翼机上安装自动驾驶系统",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-07-10",
+      "url": "https://www.bilibili.com/video/BV1d3MV6DEa5"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1H7MG6ZEUN",
+      "title": "【B站】我发现了“秒显化”自动驾驶的终极秘密！出自木卯，自用。",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-07-10",
+      "url": "https://www.bilibili.com/video/BV1H7MG6ZEUN"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV13iMG61ERA",
+      "title": "【B站】【大摩周三论周期】7.8｜自动驾驶商业化拐点已至，大Aipo回暖券商集中度上升，年中展望看好aidc和机器人强周期",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-07-09",
-      "url": "https://www.bilibili.com/video/BV1UJM36qE1k"
+      "date": "2026-07-10",
+      "url": "https://www.bilibili.com/video/BV13iMG61ERA"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1aWzzYME14",
-      "title": "【B站】【微软模拟飞行2024】真C172飞行员教你使用G1000自动驾驶。生涯模式还在苦苦手飞？学会使用自动驾驶解放双手吧。",
-      "summary": "相关游戏：微软模拟飞行2024 / MSFS2024\n应大家的要求，今天来做一个关于G1000导航仪的自动驾驶使用教程，希望能帮到大家快速入门~\n视频现在还在持续更新中。预计明天更新【ILS盲降】和【RNAV进近】，有兴趣的可以先收藏哈~\n\n如果有问题欢迎加入我们的模拟飞行社群【293416545】...",
+      "id": "https://www.bilibili.com/video/BV1KsM36NEDe",
+      "title": "【B站】EAS800农机导航自动驾驶系统",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-07-09",
-      "url": "https://www.bilibili.com/video/BV1aWzzYME14"
+      "date": "2026-07-10",
+      "url": "https://www.bilibili.com/video/BV1KsM36NEDe"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1kKbLzvExD",
-      "title": "【B站】赛博朋克2077 自动驾驶增强模组",
-      "summary": "模组下载链接：https://www.nexusmods.com/cyberpunk2077/mods/23157...",
-      "source": "Bilibili",
-      "date": "2026-07-09",
-      "url": "https://www.bilibili.com/video/BV1kKbLzvExD"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-07-09",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1FPkcYEEd4",
-      "title": "【B站】【缺氧】火箭帝国第五期：封闭式驾驶舱与自动驾驶",
-      "summary": "有宇宙，有机器人，还支持手柄，今年还出了2个DLC，要素齐了，确实是宇宙机器人\n（就是缺了个索尼爹）...",
-      "source": "Bilibili",
-      "date": "2026-07-09",
-      "url": "https://www.bilibili.com/video/BV1FPkcYEEd4"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870151028082817045",
-      "title": "瑞为技术登陆港股:第18C章迎来“视觉具身”新样本..",
-      "summary": "本报记者袁传玺7月8日,厦门瑞为信息技术股份有限公司(以下简称“瑞为技术”)正式登陆香港联合交易所主板,华泰国际、建银国际及农银国际担任联席保荐人。成功挂牌后,瑞为技术将以“视觉具身智...",
-      "source": "News_Baidu",
-      "date": "2026-07-08",
-      "url": "http://baijiahao.baidu.com/s?id=1870151028082817045"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870158340010370399",
-      "title": "镜论|科技创新跑出中国速度",
-      "summary": "科技兴则民族兴,科技强则国家强。新华社用影像定格突破创新的里程碑时刻,这些照片成为中国科技自立自强的珍贵写照。大国重器彰显创新底气科技引领时代。近年来,中国科技高水平成果竞相涌现:“神舟”“嫦娥”“天...",
-      "source": "News_Baidu",
-      "date": "2026-07-08",
-      "url": "http://baijiahao.baidu.com/s?id=1870158340010370399"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870158685359978509",
-      "title": "从“飞毯卫星”到无人小巴,这些硬科技正在走进百姓生..",
+      "id": "http://baijiahao.baidu.com/s?id=1870233238979805258",
+      "title": "网约车不得巡游揽客、一车不得接入两个及以上平台,部..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-08",
-      "url": "http://baijiahao.baidu.com/s?id=1870158685359978509"
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870233238979805258"
     },
     {
-      "id": "http://www.pcauto.com.cn/news/5163/51632774.html",
-      "title": "走进奇瑞犀牛电池智造工厂 深入了解电池安全制造全流程",
+      "id": "http://baijiahao.baidu.com/s?id=1870242772595995305",
+      "title": "极端天气频发,北京应对城市内涝做了哪些准备?",
       "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-07-08",
-      "url": "http://www.pcauto.com.cn/news/5163/51632774.html"
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870242772595995305"
     },
     {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3452353",
-      "title": "杰富瑞重申克拉托斯防务股票买入评级,看好利润率增长",
+      "id": "http://baijiahao.baidu.com/s?id=1870138492344744898",
+      "title": "轨交22号线(崇明线)首批7列车抵沪",
+      "summary": "记者从上海地铁获悉,以“东方神龙”为设计意象的上海轨道交通22号线(崇明线)首批7列车,于近日从湖南中车株洲电力机车有限公司运抵上海,在东靖路基地完成吊装后陆续开展验收调试等系列工作,这标志着轨道交通22号线已全面进入车...",
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870138492344744898"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870240402475152003",
+      "title": "风雨无惧!公交人“内外”兼修,为市民出行保驾护航",
+      "summary": "今年第9号超强台风“巴威”风力达到17级,7月10日起影响我国东部海域,据悉较大概率登陆福建北部到浙江沿海地区,届时也将影响申城。为应对台风对公交营运带来的影响,巴士五公司“内外”兼修多措并举,从严从实落实防汛防台各项举...",
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870240402475152003"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870202599526794226",
+      "title": "浪尖调研|金陵软信:从18亿到10000亿的突围之..",
+      "summary": "2025年,南京市软件和信息技术服务业(以下简称“软信业”)收入破万亿,约10,200亿元。南京由此成为继上海、北京、深圳之后,全国第四个软信业万亿城市。这一里程碑并非偶然。2000年南京开始系统布局...",
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870202599526794226"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870212366392104955",
+      "title": "除了“开门”“开车”“开无人机”,物理AI还能帮你..",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-08",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3452353"
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870212366392104955"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1783493604129303.html",
-      "title": "砺剑苍穹:北京历正科技有限责任公司2026年中答卷,定义低空安防技术新高度",
+      "id": "http://baijiahao.baidu.com/s?id=1870154283424063523",
+      "title": "视频丨暴雨急流中两车挡在外卖骑手前 这一幕刷屏了",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870154283424063523"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1783591800129413.html",
+      "title": "科创投资热潮下,普通投资者怎么投?听听两位“过来人”的答案",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-08",
-      "url": "https://www.bjnews.com.cn/detail/1783493604129303.html"
+      "date": "2026-07-09",
+      "url": "https://www.bjnews.com.cn/detail/1783591800129413.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1783505873129501.html",
-      "title": "逆矩阵陈博远:AI竞争正从“预测Token”走向“预测世界”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-08",
-      "url": "https://www.bjnews.com.cn/detail/1783505873129501.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870156782106512089",
-      "title": "省运会铁人三项将开赛,从赛场看见绿美广东生态建设",
-      "summary": "一片矿坑的涅槃,一场赛事的落地,一座城市的跃升。7月8日,广东省第十七届运动会茂南赛区官宣,8月12日,首次进入广东省运动会的铁人三项赛事在茂名露天矿生态公园正式开赛。此次铁人三项赛道落子茂名“城市绿...",
-      "source": "News_Baidu",
-      "date": "2026-07-08",
-      "url": "http://baijiahao.baidu.com/s?id=1870156782106512089"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870140158249917261",
-      "title": "物质科学智能研发工厂落地上海,推动产业AI化",
+      "id": "http://baijiahao.baidu.com/s?id=1870239342726371522",
+      "title": "在南京建邺高新区,这家企业把养老“慢生意”做成数智..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-08",
-      "url": "http://baijiahao.baidu.com/s?id=1870140158249917261"
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870239342726371522"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870156074669089144",
-      "title": "无人机救人那一刻,我们看懂了科技的意义",
+      "id": "https://www.time-weekly.com/post/330854",
+      "title": "智驾“物理AI第一股”Momenta登陆港交所,85后清华学霸CEO曹旭东回应出海、安全责任与盈利问题",
+      "summary": "本文来源:时代财经 作者:庞宇 MOMENTA-W港交所敲钟现场 图右为曹旭东 图源:时代财经 头顶“物理AI第一股”光环,Momenta终于叩开了港交所的大门。 7月8日,MOMENTA-W(06880.HK)正式在港交所主板挂牌上市,成为继地平线之后又一家赴港上市的中国智能驾驶公司。 时代财经在港交所现场见证敲钟仪式:当天上午9点30分,Momenta创始人、CEO曹旭东站上敲锣台,身着一件深...",
+      "source": "Time Weekly",
+      "date": "2026-07-09",
+      "url": "https://www.time-weekly.com/post/330854"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870228459128624600",
+      "title": "谢霆锋、大张伟郑州演唱会同日开演!郑州交警发布出行..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-08",
-      "url": "http://baijiahao.baidu.com/s?id=1870156074669089144"
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870228459128624600"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/07/08/831504",
-      "title": "七旬老翁驾车失控坠河 消拯员破窗救人惟已不治身亡",
-      "summary": "(昔加末8日讯)76岁老翁所驾驶的轿车不知何故失控坠河,消拯人员破窗救人,却为时已晚,困在车内的老翁早已气绝身亡。这起死亡车祸是今日傍晚5时50左右,发生在靠近太子城附近的甘榜巴耶冷卡的格那瓦河(SUNGAI KENAWAR)。柔州消拯局今晚向媒体发文告,证实这起事故的发生。文告指出,当局结获投报后,从太子城消防局派出紧急队伍赶抵现场施救。拯救队伍抵达现场时,看到肇祸轿车浸泡在河中,车内有一位男司...",
-      "source": "Orientaldaily",
-      "date": "2026-07-08",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/07/08/831504"
-    },
-    {
-      "id": "https://www.ithome.com/0/974/268.htm",
-      "title": "2608.360km:吉利银河 A7 EM 获吉尼斯世界纪录,达成驾驶插混量产轿车零补能行驶最远距离",
-      "summary": "IT之家 7 月 8 日消息,吉利汽车官方今日宣布,吉利银河 A7 EM 车型斩获吉尼斯续航新纪录,达成驾驶插混量产轿车零补能行驶最远距离, 共行驶 2608.360km 。 据IT之家此前报道,今年 4 月, 吉利汽车旗下 2026 款银河 A7 EM/ A7 EV 双车正式上市 。其中银河 A7 EM 上市限时先享指导价 8.98 万元起。 2026 款吉利银河 A7 EM 定位“电混家轿颠覆...",
-      "source": "Ithome",
-      "date": "2026-07-08",
-      "url": "https://www.ithome.com/0/974/268.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870154000952270416",
-      "title": "港股重上24000点 智驾龙头Momenta等5只..",
+      "id": "http://baijiahao.baidu.com/s?id=1870225597808197116",
+      "title": "「党旗在基层一线高高飘扬」党员民警冲锋在前 全力救..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870225597808197116"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870244631849347343",
+      "title": "战高温不服“暑”,成都交警高温天硬核值守",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870244631849347343"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870241334719878060",
+      "title": "打个车睡了一觉,钱没了!背后套路曝光↗",
+      "summary": "在出租车上一觉醒来手机里多了一笔莫名其妙的666元消费可自己明明全程没有操作付款!上海的耿先生就遇到了这样一桩怪事民警调查后背后的套路令人吃惊近日浦东警方公布了这样一起案情其中不少受害者压根就没发现自...",
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870241334719878060"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al37k6mg/",
+      "title": "25万买SUV,阿维塔07标配华为智驾,Model Y贵4万差在哪",
+      "summary": "25万级智驾SUV,阿维塔07和Model Y选谁更值预算25万左右想买台智能驾驶靠谱的SUV,阿维塔07和特斯拉Model Y是绕不开的两个选项。一个把华为乾崑ADS 4做成全系标配,起售价压到22万以内;一个背靠特斯拉品牌光环,标准续航版26万起步。......",
+      "source": "Smzdm",
+      "date": "2026-07-09",
+      "url": "https://post.smzdm.com/p/al37k6mg/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870150224737982090",
+      "title": "中建三局塔机区域集控中心投用",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-09",
+      "url": "http://baijiahao.baidu.com/s?id=1870150224737982090"
+    },
+    {
+      "id": "https://hothardware.com/news/nhtsa-slams-self-driving-cars-for-blocking-fire-trucks-and-ambulances",
+      "title": "NHTSA Slams Self-Driving Cars For Blocking Fire Trucks And Ambulances",
+      "summary": "A federal safety crackdown is forcing autonomous vehicle developers to deal with the ongoing problem of their driverless cars physically impeding emergency services and putting lives at risk....",
+      "source": "Hot Hardware",
+      "date": "2026-07-09",
+      "url": "https://hothardware.com/news/nhtsa-slams-self-driving-cars-for-blocking-fire-trucks-and-ambulances"
+    },
+    {
+      "id": "https://thenextweb.com/news/nhtsa-autonomous-vehicles-first-responders-interference",
+      "title": "NHTSA demands autonomous vehicle companies fix first responder interference by end of July",
+      "summary": "NHTSA says driverless vehicles are driving into emergency scenes and blocking ambulances. It has demanded AV developers present solutions by end of the month....",
+      "source": "TNW",
       "date": "2026-07-08",
-      "url": "http://baijiahao.baidu.com/s?id=1870154000952270416"
+      "url": "https://thenextweb.com/news/nhtsa-autonomous-vehicles-first-responders-interference"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/greenland-is-being-swarmed-by-autonomous-drones-and-underwater-robots-as-scientists-race-to-answer-one-question-how-close-is-earth-to-a-climate-tipping-point/articleshow/132258395.cms",
@@ -220,30 +258,6 @@
       "source": "Barchart",
       "date": "2026-07-07",
       "url": "https://www.barchart.com/story/news/3168279/amd-just-scored-a-new-autonomous-driving-customer-its-aiming-at-nvidia-in-another-arena"
-    },
-    {
-      "id": "https://www.forbes.com/sites/shelleykohan/2026/07/07/consumers-embrace-driverless-delivery-but-infrastructure-lags/",
-      "title": "Consumers Embrace Driverless Delivery, But Infrastructure Lags",
-      "summary": "Self-driving cars are showing up at malls, restaurants, and specialty stores without a coordinated infrastructure to support the growth of autonomous delivery vehicles....",
-      "source": "Forbes",
-      "date": "2026-07-07",
-      "url": "https://www.forbes.com/sites/shelleykohan/2026/07/07/consumers-embrace-driverless-delivery-but-infrastructure-lags/"
-    },
-    {
-      "id": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine....",
-      "source": "TechCrunch",
-      "date": "2026-07-07",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
-    },
-    {
-      "id": "https://www.outlookbusiness.com/corporate/ai-creating-new-consumer-demands-biz-opportunities-beyond-productivity-gains-bosch-global-software-technologies-ceo",
-      "title": "AI Creating New Consumer Demands, Biz Opportunities Beyond Productivity Gains: Bosch Global Software Technologies CEO",
-      "summary": "Bosch Global Software Technologies CEO Dattatri Salagame explains how AI is shifting engineering from cost-cutting to value creation, opening new consumer demands, products and services. Discover how ...",
-      "source": "Outlook Business",
-      "date": "2026-07-06",
-      "url": "https://www.outlookbusiness.com/corporate/ai-creating-new-consumer-demands-biz-opportunities-beyond-productivity-gains-bosch-global-software-technologies-ceo"
     }
   ]
 }
