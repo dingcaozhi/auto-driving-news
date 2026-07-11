@@ -1,12 +1,19 @@
 {
-  "lastUpdated": "2026-07-10 03:58:55",
-  "totalCount": 31,
+  "lastUpdated": "2026-07-11 03:25:42",
+  "totalCount": 33,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 13,
+    "Ithome": 2,
+    "News_Baidu": 6,
+    "Eeo": 1,
+    "Pcauto_Cn": 1,
+    "Orientaldaily": 1,
+    "Zaobao": 2,
+    "Rfi_Fr": 1,
     "Bjnews": 1,
-    "Time Weekly": 1,
-    "Smzdm": 1,
+    "News_Seehua": 2,
+    "Investing_Cn": 1,
+    "The Manila Times": 1,
     "Hot Hardware": 1,
     "TNW": 1,
     "Times of India": 1,
@@ -15,177 +22,200 @@
     "CNBC": 1,
     "Reuters": 1,
     "Morningstar": 1,
-    "Barchart": 1,
-    "Forbes": 1
+    "Barchart": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1TmMG6MEwC",
-      "title": "【B站】买了电车之后，根本就控制不住要拍拍拍！今天学习的是电影结尾式，大家来打个分#自动驾驶车 #蔚来驾驶体验 #蔚来 #跑山",
-      "summary": "-...",
+      "id": "https://www.bilibili.com/video/BV1kKbLzvExD",
+      "title": "【B站】赛博朋克2077 自动驾驶增强模组",
+      "summary": "模组下载链接：https://www.nexusmods.com/cyberpunk2077/mods/23157...",
       "source": "Bilibili",
-      "date": "2026-07-10",
-      "url": "https://www.bilibili.com/video/BV1TmMG6MEwC"
+      "date": "2026-07-11",
+      "url": "https://www.bilibili.com/video/BV1kKbLzvExD"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1d3MV6DEa5",
-      "title": "【B站】傻逼scum在双翼机上安装自动驾驶系统",
-      "summary": "-...",
+      "id": "https://www.bilibili.com/video/BV1TKT76mE4z",
+      "title": "【B站】[欧卡2]自动驾驶ETS2LA使用教程",
+      "summary": "https://ets2la.com...",
       "source": "Bilibili",
-      "date": "2026-07-10",
-      "url": "https://www.bilibili.com/video/BV1d3MV6DEa5"
+      "date": "2026-07-11",
+      "url": "https://www.bilibili.com/video/BV1TKT76mE4z"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1H7MG6ZEUN",
-      "title": "【B站】我发现了“秒显化”自动驾驶的终极秘密！出自木卯，自用。",
-      "summary": "-...",
+      "id": "https://www.bilibili.com/video/BV1gMNE6EEHW",
+      "title": "【B站】【视频回顾】邢斌 | 捷豹路虎中国自动驾驶及智能辅助驾驶副总裁：“豪华”的智驾在路上",
+      "summary": "#2026第九届智能驾驶与出海大会...",
       "source": "Bilibili",
-      "date": "2026-07-10",
-      "url": "https://www.bilibili.com/video/BV1H7MG6ZEUN"
+      "date": "2026-07-11",
+      "url": "https://www.bilibili.com/video/BV1gMNE6EEHW"
     },
     {
-      "id": "https://www.bilibili.com/video/BV13iMG61ERA",
-      "title": "【B站】【大摩周三论周期】7.8｜自动驾驶商业化拐点已至，大Aipo回暖券商集中度上升，年中展望看好aidc和机器人强周期",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1aT411H7ug",
+      "title": "【B站】自动驾驶测试 入门课程",
+      "summary": "自动驾驶测试 入门课程...",
       "source": "Bilibili",
-      "date": "2026-07-10",
-      "url": "https://www.bilibili.com/video/BV13iMG61ERA"
+      "date": "2026-07-11",
+      "url": "https://www.bilibili.com/video/BV1aT411H7ug"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1KsM36NEDe",
-      "title": "【B站】EAS800农机导航自动驾驶系统",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1aWzzYME14",
+      "title": "【B站】【微软模拟飞行2024】真C172飞行员教你使用G1000自动驾驶。生涯模式还在苦苦手飞？学会使用自动驾驶解放双手吧。",
+      "summary": "相关游戏：微软模拟飞行2024 / MSFS2024\n应大家的要求，今天来做一个关于G1000导航仪的自动驾驶使用教程，希望能帮到大家快速入门~\n视频现在还在持续更新中。预计明天更新【ILS盲降】和【RNAV进近】，有兴趣的可以先收藏哈~\n\n如果有问题欢迎加入我们的模拟飞行社群【293416545】...",
       "source": "Bilibili",
-      "date": "2026-07-10",
-      "url": "https://www.bilibili.com/video/BV1KsM36NEDe"
+      "date": "2026-07-11",
+      "url": "https://www.bilibili.com/video/BV1aWzzYME14"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870233238979805258",
-      "title": "网约车不得巡游揽客、一车不得接入两个及以上平台,部..",
+      "id": "https://www.ithome.com/0/975/361.htm",
+      "title": "小米汽车确认澎程不是子品牌:计划发布两款车,投入 566 台测试车、路测超 428 万公里",
+      "summary": "感谢IT之家网友 会弹琴的九号 、 Autumn_Dream 、 不一样的体验 的线索投递! IT之家 7 月 10 日消息,小米汽车今日发布答网友问(第 258 集),回答了“小米澎程跟小米汽车是什么关系?”“为什么小米汽车要做一个新系列?”等问题。 IT之家整理如下: 1、小米澎程是什么?跟小米汽车是什么关系?跟 SU7、YU7 是什么关系? 小米澎程不是子品牌,是小米汽车旗下的智能可变大空间...",
+      "source": "Ithome",
+      "date": "2026-07-10",
+      "url": "https://www.ithome.com/0/975/361.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870332302752982427",
+      "title": "蘑菇车联入选“2026自动驾驶企业TOP30”,位..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870233238979805258"
+      "date": "2026-07-10",
+      "url": "http://baijiahao.baidu.com/s?id=1870332302752982427"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870242772595995305",
-      "title": "极端天气频发,北京应对城市内涝做了哪些准备?",
+      "id": "http://www.eeo.com.cn/2026/0710/952373.shtml",
+      "title": "奥迪与上汽第二家合资公司进入公示 上汽占49%股比",
+      "summary": "历时五年,随着奥迪创新技术中心在上海正式落地,奥迪完成了在中国的新能源南北双线布局。同时借助股比放开的红利,拿下了新合资体系的主要控制权。...",
+      "source": "Eeo",
+      "date": "2026-07-10",
+      "url": "http://www.eeo.com.cn/2026/0710/952373.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870325707215849983",
+      "title": "世界排名上升1位!广州国际航运中心排名升至全球第1..",
+      "summary": "7月10日,由新华社中国经济信息社、波罗的海交易所联合编制的《新华波罗的海国际航运中心发展指数报告(2026)》正式对外发布。作为衡量全球航运中心综合竞争力的权威评价体系,广州综合排名较2025年提...",
+      "source": "News_Baidu",
+      "date": "2026-07-10",
+      "url": "http://baijiahao.baidu.com/s?id=1870325707215849983"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5164/51645372.html",
+      "title": "广汽集团3000万用户感恩活动定档7月16日",
+      "summary": "7月16日,广汽集团将举行3000万用户感恩活动,与全球用户共庆第3000万辆整车下线的历史性时刻。...",
+      "source": "Pcauto_Cn",
+      "date": "2026-07-10",
+      "url": "http://www.pcauto.com.cn/news/5164/51645372.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870333117047584666",
+      "title": "西城消防针对“九河十二湖”老旧院落等联防联控,全力..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870242772595995305"
+      "date": "2026-07-10",
+      "url": "http://baijiahao.baidu.com/s?id=1870333117047584666"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870138492344744898",
-      "title": "轨交22号线(崇明线)首批7列车抵沪",
-      "summary": "记者从上海地铁获悉,以“东方神龙”为设计意象的上海轨道交通22号线(崇明线)首批7列车,于近日从湖南中车株洲电力机车有限公司运抵上海,在东靖路基地完成吊装后陆续开展验收调试等系列工作,这标志着轨道交通22号线已全面进入车...",
-      "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870138492344744898"
+      "id": "https://www.orientaldaily.com.my/news/society/2026/07/10/832033",
+      "title": "网传白色奔驰驶离警方路障 隆交警捕20岁司机助查",
+      "summary": "(吉隆坡10日讯)吉隆坡交通调查及执法组证实,针对社交媒体今日流传一段白色奔驰轿车驶离警方路障的视频,涉案20岁本地男司机已于今晚被警方逮捕,以协助调查。吉隆坡交通调查及执法组主任莫哈末占祖里今日发文告指出,该段视频于今日(10日)下午约2时在社交媒体广泛流传,画面显示一辆白色奔驰轿车驶离设于西部疏散大道(SPRINT Highway)从白沙罗高原通往格灵芝大道(Kerinchi Link)、靠近...",
+      "source": "Orientaldaily",
+      "date": "2026-07-10",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/07/10/832033"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870240402475152003",
-      "title": "风雨无惧!公交人“内外”兼修,为市民出行保驾护航",
-      "summary": "今年第9号超强台风“巴威”风力达到17级,7月10日起影响我国东部海域,据悉较大概率登陆福建北部到浙江沿海地区,届时也将影响申城。为应对台风对公交营运带来的影响,巴士五公司“内外”兼修多措并举,从严从实落实防汛防台各项举...",
-      "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870240402475152003"
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260710-9345162",
+      "title": "女子申诉搭车途中被频问性问题 Gojek:涉事司机已被停职",
+      "summary": "在路程中询问女乘客“是不是处女”“是否要发生三人性行为”,一名Gojek司机被停职,平台表明将彻查事件,采取适当行动。...",
+      "source": "Zaobao",
+      "date": "2026-07-10",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260710-9345162"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870202599526794226",
-      "title": "浪尖调研|金陵软信:从18亿到10000亿的突围之..",
-      "summary": "2025年,南京市软件和信息技术服务业(以下简称“软信业”)收入破万亿,约10,200亿元。南京由此成为继上海、北京、深圳之后,全国第四个软信业万亿城市。这一里程碑并非偶然。2000年南京开始系统布局...",
-      "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870202599526794226"
+      "id": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260710-%E5%BE%B7%E5%9B%BD%E5%8D%8E%E4%BA%BA%E5%88%A9%E7%94%A8%E5%9B%A2%E4%BC%99%E8%BF%B7%E5%A5%B8%E6%A1%88-%E7%AC%AC%E5%9B%9B%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E5%88%A4%E4%BA%94%E5%B9%B4%E7%9B%91%E7%A6%81",
+      "title": "德国华人团伙迷奸案:第四名罪犯被判五年监禁",
+      "summary": "德国警方对一个在社交网站Telegram上活跃多年的网络性侵团伙展开调查,最终导致三名涉嫌团伙核心成员被定罪。本周三(7月8号),第四名嫌疑人,32岁的受过专业训练的医护人员Zhiting S.被判犯有强奸罪的从犯等多项罪名,并被判处五年监禁。辩方计划提起上诉。...",
+      "source": "Rfi_Fr",
+      "date": "2026-07-10",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260710-%E5%BE%B7%E5%9B%BD%E5%8D%8E%E4%BA%BA%E5%88%A9%E7%94%A8%E5%9B%A2%E4%BC%99%E8%BF%B7%E5%A5%B8%E6%A1%88-%E7%AC%AC%E5%9B%9B%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E5%88%A4%E4%BA%94%E5%B9%B4%E7%9B%91%E7%A6%81"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870212366392104955",
-      "title": "除了“开门”“开车”“开无人机”,物理AI还能帮你..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870212366392104955"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870154283424063523",
-      "title": "视频丨暴雨急流中两车挡在外卖骑手前 这一幕刷屏了",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870154283424063523"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1783591800129413.html",
-      "title": "科创投资热潮下,普通投资者怎么投?听听两位“过来人”的答案",
+      "id": "https://www.bjnews.com.cn/detail/1783689967168233.html",
+      "title": "48车、210人布防,北京西城消防全力应对防汛二级应急响应",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-09",
-      "url": "https://www.bjnews.com.cn/detail/1783591800129413.html"
+      "date": "2026-07-10",
+      "url": "https://www.bjnews.com.cn/detail/1783689967168233.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870239342726371522",
-      "title": "在南京建邺高新区,这家企业把养老“慢生意”做成数智..",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260710-9346650",
+      "title": "交通指挥员遭压路机碾毙 验尸庭:若落实安全措施可避免",
+      "summary": "一名交通指挥员在疏导交通时遭压路机碾过身亡,验尸庭揭露,压路机的后车灯损坏,也没有倒车警示声和喇叭按键等。死者很可能未察觉压路机正在倒退,而司机在倒车前也没有查看盲区,现场也缺乏信号工和督工在一旁监督,酿成悲剧。...",
+      "source": "Zaobao",
+      "date": "2026-07-10",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260710-9346650"
+    },
+    {
+      "id": "https://news.seehua.com/post/1512300",
+      "title": "美里执法单位联合行动 扣8车辆 9人检测呈阳性",
+      "summary": "(美里10日讯)砂拉越陆路交通局联合国家反毒机构及马来西亚移民局在美里捷道双向路段展开联合执法行动,共检查45 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-10",
+      "url": "https://news.seehua.com/post/1512300"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870289828670950009",
+      "title": "“汽车”“人”,出发!",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870239342726371522"
+      "date": "2026-07-10",
+      "url": "http://baijiahao.baidu.com/s?id=1870289828670950009"
     },
     {
-      "id": "https://www.time-weekly.com/post/330854",
-      "title": "智驾“物理AI第一股”Momenta登陆港交所,85后清华学霸CEO曹旭东回应出海、安全责任与盈利问题",
-      "summary": "本文来源:时代财经 作者:庞宇 MOMENTA-W港交所敲钟现场 图右为曹旭东 图源:时代财经 头顶“物理AI第一股”光环,Momenta终于叩开了港交所的大门。 7月8日,MOMENTA-W(06880.HK)正式在港交所主板挂牌上市,成为继地平线之后又一家赴港上市的中国智能驾驶公司。 时代财经在港交所现场见证敲钟仪式:当天上午9点30分,Momenta创始人、CEO曹旭东站上敲锣台,身着一件深...",
-      "source": "Time Weekly",
-      "date": "2026-07-09",
-      "url": "https://www.time-weekly.com/post/330854"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870228459128624600",
-      "title": "谢霆锋、大张伟郑州演唱会同日开演!郑州交警发布出行..",
+      "id": "http://baijiahao.baidu.com/s?id=1870333464605052977",
+      "title": "在齐鲁制造会客厅现场,一把把“金钥匙”打开数智世界..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870228459128624600"
+      "date": "2026-07-10",
+      "url": "http://baijiahao.baidu.com/s?id=1870333464605052977"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870225597808197116",
-      "title": "「党旗在基层一线高高飘扬」党员民警冲锋在前 全力救..",
+      "id": "https://www.ithome.com/0/975/360.htm",
+      "title": "小米回应澎程 SkyNomad 未上市新车遭恶意抹黑:纯粹的造谣,简直是匪夷所思",
+      "summary": "感谢IT之家网友 顺势而为 、 不一样的体验 、 Autumn_Dream 、 平底锅锅 的线索投递! IT之家 7 月 10 日消息,小米汽车旗下第二产品系列 —— 小米澎程今日正式宣布首款 SUV 车型定名为澎程 N90。此前一天,即 7 月 9 日,小米集团董事长雷军已发文宣布该产品系列正式命名为“SkyNomad 小米澎程”,定位为“智能可变大空间 SUV”。雷军表示,SU7 与 YU7 ...",
+      "source": "Ithome",
+      "date": "2026-07-10",
+      "url": "https://www.ithome.com/0/975/360.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3456147",
+      "title": "花旗在卡车运输板块回调后点名推荐优质股票",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-10",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3456147"
+    },
+    {
+      "id": "https://news.seehua.com/post/1512261",
+      "title": "提供足够时间缴费 诗巫拟设5至10分钟宽限期",
+      "summary": "(诗巫10日讯)在智能泊车系统下,诗巫市议会将研究为泊车者增设5至10分钟宽限期,让驾车者在停车后有足够时间完 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-10",
+      "url": "https://news.seehua.com/post/1512261"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870332331180486140",
+      "title": "G7易流拍拍豆有何过人之处?这款 AI 挂件为何直..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870225597808197116"
+      "date": "2026-07-10",
+      "url": "http://baijiahao.baidu.com/s?id=1870332331180486140"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870244631849347343",
-      "title": "战高温不服“暑”,成都交警高温天硬核值守",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870244631849347343"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870241334719878060",
-      "title": "打个车睡了一觉,钱没了!背后套路曝光↗",
-      "summary": "在出租车上一觉醒来手机里多了一笔莫名其妙的666元消费可自己明明全程没有操作付款!上海的耿先生就遇到了这样一桩怪事民警调查后背后的套路令人吃惊近日浦东警方公布了这样一起案情其中不少受害者压根就没发现自...",
-      "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870241334719878060"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al37k6mg/",
-      "title": "25万买SUV,阿维塔07标配华为智驾,Model Y贵4万差在哪",
-      "summary": "25万级智驾SUV,阿维塔07和Model Y选谁更值预算25万左右想买台智能驾驶靠谱的SUV,阿维塔07和特斯拉Model Y是绕不开的两个选项。一个把华为乾崑ADS 4做成全系标配,起售价压到22万以内;一个背靠特斯拉品牌光环,标准续航版26万起步。......",
-      "source": "Smzdm",
-      "date": "2026-07-09",
-      "url": "https://post.smzdm.com/p/al37k6mg/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870150224737982090",
-      "title": "中建三局塔机区域集控中心投用",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-09",
-      "url": "http://baijiahao.baidu.com/s?id=1870150224737982090"
+      "id": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/beamrs-ml-safe-video-data-technology-now-available-on-the-rtmaps-ai-store/2382387",
+      "title": "Beamr's ML-Safe Video Data Technology Now Available on the RTMaps AI Store",
+      "summary": "Beamr partners with Intempora, a dSPACE company, bringing its compression to the RTMaps middleware - the autonomous-driving development platform used by OEMs and Tier 1 suppliers worldwide...",
+      "source": "The Manila Times",
+      "date": "2026-07-10",
+      "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/beamrs-ml-safe-video-data-technology-now-available-on-the-rtmaps-ai-store/2382387"
     },
     {
       "id": "https://hothardware.com/news/nhtsa-slams-self-driving-cars-for-blocking-fire-trucks-and-ambulances",
@@ -234,30 +264,6 @@
       "source": "CNBC",
       "date": "2026-07-08",
       "url": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html"
-    },
-    {
-      "id": "https://www.reuters.com/world/asia-pacific/chinese-autonomous-driving-firm-momenta-set-open-slightly-higher-hong-kong-debut-2026-07-08/",
-      "title": "China's Momenta debuts flat in Hong Kong as IPO caution grips AI listings",
-      "summary": "Shares of Momenta Global debuted flat in Hong Kong on Wednesday, ‌after the Chinese autonomous-driving firm raised about HK$5.89 billion ($751 million) in its initial public offering....",
-      "source": "Reuters",
-      "date": "2026-07-08",
-      "url": "https://www.reuters.com/world/asia-pacific/chinese-autonomous-driving-firm-momenta-set-open-slightly-higher-hong-kong-debut-2026-07-08/"
-    },
-    {
-      "id": "https://www.morningstar.com/company-reports/1487319-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software",
-      "title": "Rivian Poised for Growth From Shift to Lower-Priced Vehicles and Autonomous Driving Software",
-      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
-      "source": "Morningstar",
-      "date": "2026-07-08",
-      "url": "https://www.morningstar.com/company-reports/1487319-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
-    },
-    {
-      "id": "https://www.barchart.com/story/news/3168279/amd-just-scored-a-new-autonomous-driving-customer-its-aiming-at-nvidia-in-another-arena",
-      "title": "AMD Just Scored a New Autonomous Driving Customer. It’s Aiming at Nvidia in Another Arena.",
-      "summary": "AMD just landed Japanese autonomous vehicle firm Turing as a customer....",
-      "source": "Barchart",
-      "date": "2026-07-07",
-      "url": "https://www.barchart.com/story/news/3168279/amd-just-scored-a-new-autonomous-driving-customer-its-aiming-at-nvidia-in-another-arena"
     }
   ]
 }
