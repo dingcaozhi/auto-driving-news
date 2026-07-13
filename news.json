@@ -1,16 +1,17 @@
 {
-  "lastUpdated": "2026-07-12 03:37:06",
-  "totalCount": 35,
+  "lastUpdated": "2026-07-13 03:39:20",
+  "totalCount": 31,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 1,
-    "News_Baidu": 10,
+    "News_Baidu": 6,
+    "Fx168News": 1,
+    "Cri_Cn": 2,
+    "Zaobao": 1,
+    "Eeo": 1,
+    "News_Seehua": 2,
+    "Chinanews": 1,
     "Ithome": 1,
-    "Rfi_Fr": 1,
-    "Chinanews": 4,
     "Bjnews": 1,
-    "Ntdtv": 1,
-    "Pcauto_Cn": 1,
     "The Star": 1,
     "The Manila Times": 1,
     "Hot Hardware": 1,
@@ -28,200 +29,168 @@
       "title": "【B站】【微软模拟飞行2024】真C172飞行员教你使用G1000自动驾驶。生涯模式还在苦苦手飞？学会使用自动驾驶解放双手吧。",
       "summary": "相关游戏：微软模拟飞行2024 / MSFS2024\n应大家的要求，今天来做一个关于G1000导航仪的自动驾驶使用教程，希望能帮到大家快速入门~\n视频现在还在持续更新中。预计明天更新【ILS盲降】和【RNAV进近】，有兴趣的可以先收藏哈~\n\n如果有问题欢迎加入我们的模拟飞行社群【293416545】...",
       "source": "Bilibili",
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "url": "https://www.bilibili.com/video/BV1aWzzYME14"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "id": "https://www.bilibili.com/video/BV1E9Ng6yECq",
+      "title": "【B站】这自动驾驶有力气【2077】",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-07-12",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "date": "2026-07-13",
+      "url": "https://www.bilibili.com/video/BV1E9Ng6yECq"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1MiNH6dEyr",
-      "title": "【B站】下班了，特斯拉自动驾驶帮忙开车，全程0接管沉浸式体验",
-      "summary": "-...",
+      "id": "https://www.bilibili.com/video/BV1kKbLzvExD",
+      "title": "【B站】赛博朋克2077 自动驾驶增强模组",
+      "summary": "模组下载链接：https://www.nexusmods.com/cyberpunk2077/mods/23157...",
       "source": "Bilibili",
-      "date": "2026-07-12",
-      "url": "https://www.bilibili.com/video/BV1MiNH6dEyr"
+      "date": "2026-07-13",
+      "url": "https://www.bilibili.com/video/BV1kKbLzvExD"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "id": "https://www.bilibili.com/video/BV1GfTCz7Enf",
+      "title": "【B站】你只需放手，剩下的交给自动驾驶！微软模拟飞行2024塞斯纳172教程",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-07-12",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "date": "2026-07-13",
+      "url": "https://www.bilibili.com/video/BV1GfTCz7Enf"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1mQNN66Ews",
-      "title": "【B站】自动驾驶多模态轨迹生成｜清华DiffusionPlanner精读",
-      "summary": "清华柔性引导扩散模型自动驾驶运动规划论文全套研读资料，原文完整翻译+结构化精读笔记整合文档。\n\nDiffusion-Based Planning for Autonomous Driving with Flexible Guidance...",
+      "id": "https://www.bilibili.com/video/BV1QPggzdEe1",
+      "title": "【B站】你以为的2077自动驾驶VS实际上的自动驾驶",
+      "summary": "更新的有点幽默...",
       "source": "Bilibili",
-      "date": "2026-07-12",
-      "url": "https://www.bilibili.com/video/BV1mQNN66Ews"
+      "date": "2026-07-13",
+      "url": "https://www.bilibili.com/video/BV1QPggzdEe1"
     },
     {
-      "id": "https://post.smzdm.com/p/a6zor8zn/",
-      "title": "特斯拉Robotaxi获法规绿灯,无人出租车商业化倒计时,打车费用要变天?",
-      "summary": "NHTSA正式取消自动驾驶刹车踏板强制令美国国家公路交通安全管理局(NHTSA)于6月25日宣布修订《联邦机动车安全标准》第135号条款,正式取消全自动驾驶车辆必须配备手动刹车踏板的强制要求。NHTSA局长乔纳森·莫里森在声明中表示,这项调整旨在消除\"阻......",
-      "source": "Smzdm",
-      "date": "2026-07-11",
-      "url": "https://post.smzdm.com/p/a6zor8zn/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870203515735235335",
-      "title": "活力中国调研行|探寻上海张江“孵化力”",
+      "id": "http://baijiahao.baidu.com/s?id=1870517709517580636",
+      "title": "森泰股份三股东合计增持26.28万股;恒久退预计股..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870203515735235335"
+      "date": "2026-07-12",
+      "url": "http://baijiahao.baidu.com/s?id=1870517709517580636"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870429133658473911",
-      "title": "地铁司机里藏着“唱将”,16岁女孩挑战百老汇名曲.....",
-      "summary": "“你看那个小伙子的分数多高!不管是谁,只要唱得好就是‘王炸’。”7月11日下午,在龙湖闵行天街的环廊上,提着购物袋的付女士一边看比赛,一边和丈夫交流。原本只是来购物的夫妻俩,被中庭传来的歌声吸引,在现场驻足近40分钟,仍...",
-      "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870429133658473911"
-    },
-    {
-      "id": "https://www.ithome.com/0/975/620.htm",
-      "title": "智谱创始人唐杰发内部信:开启 Touch High 摸高计划,继续聚焦于 AGI 研究、而不是短期商业变现",
-      "summary": "IT之家 7 月 11 日消息,据晚点 LastPost 报道,智谱创始人唐杰今日发布内部信,阐述智谱对 AGI 接下来竞争的理解。 唐杰在信中表示,智谱接下来将继续延续所谓“反直觉”路线,开启“Touch High(摸高)计划”,即 继续聚焦于 AGI 研究,而不是短期商业变现 。 唐杰称通往 AGI 终点的道路上,有几座必须翻越的山峰,它们也正是今天技术浪潮最汹涌的地方: 长程任务 自治智能体...",
-      "source": "Ithome",
-      "date": "2026-07-11",
-      "url": "https://www.ithome.com/0/975/620.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870427722653921433",
-      "title": "“南海仲裁案”再起底:一场闹剧,十年祸端",
+      "id": "http://baijiahao.baidu.com/s?id=1869955377789878916",
+      "title": "团综名场面搬进直播间!新日甜心2026首发,上演真..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870427722653921433"
+      "date": "2026-07-12",
+      "url": "http://baijiahao.baidu.com/s?id=1869955377789878916"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20260711-%E4%BF%84%E7%87%83%E6%B2%B9%E5%8D%B1%E6%9C%BA%E6%81%B6%E5%8C%96-%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%90%81%E6%B0%91%E4%BC%97%E8%BF%9C%E8%B7%9D%E5%B7%A5%E4%BD%9C",
-      "title": "俄燃油危机恶化 地方政府吁民众远距工作",
-      "summary": "俄罗斯新西伯利亚州(Novosibirsk)有将近300万人口,是西伯利亚(Siberia)人口最多的地区之一,也是当地经济及工业重镇。 乌克兰本周稍早袭击了新西伯利亚州隔邻的鄂木斯克州(Omsk)炼油厂,让俄罗斯产能规模最大的石油加工厂之一陷入瘫痪。 根据地方媒体报导和官员说法,自6月以来,超过9成的俄罗斯地区面临燃油短缺问题,部分地区甚至在加油站实施配给制度,并禁止民众以油桶装取燃油。 日期标...",
-      "source": "Rfi_Fr",
-      "date": "2026-07-11",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20260711-%E4%BF%84%E7%87%83%E6%B2%B9%E5%8D%B1%E6%9C%BA%E6%81%B6%E5%8C%96-%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%90%81%E6%B0%91%E4%BC%97%E8%BF%9C%E8%B7%9D%E5%B7%A5%E4%BD%9C"
+      "id": "http://baijiahao.baidu.com/s?id=1870412739082099577",
+      "title": "为省运会护航!长治交通运输部门交出“暖心答卷”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-12",
+      "url": "http://baijiahao.baidu.com/s?id=1870412739082099577"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-11/10657724.shtml",
-      "title": "大战略牵引新开局丨为千行百业“添翼赋能” 平台经济迎来新风口",
-      "summary": "央广网天津7月11日消息 从网络购物到即时配送,从在线教育到远程医疗,从工业互联网到智慧物流,平台经济已深度嵌入国民经济运行的每一个环节,《中华人民共和国国民经济和社会发展第十五个五年规划纲要》指出,要“推动平台经济创新和健康发展。”平台经济,正成为经济发展中最具活力的变量之一。...",
+      "id": "https://www.fx168news.com/article/1056520",
+      "title": "今日晚间重要公告抢先看——中国卫星半年业绩同比扭亏为盈;赛力斯上半年预亏 15 亿 - 18 亿;2 连板星网宇达澄清不涉及火箭回收业务;巨力索具因误导性陈述被罚 450 万元-FX168",
+      "summary": "今日晚间重要公告抢先看——中国卫星:预计2026年上半年净利润3050万元—3650万元,同比扭亏;赛力斯:预计上半年净亏损15亿元-18亿元 核心子公司问界汽车业绩出现波动;2连板星网宇达:公司卫星通信业务与长征十号乙运载火箭海上回收技术突破不存在业务关联;巨力索...",
+      "source": "Fx168News",
+      "date": "2026-07-12",
+      "url": "https://www.fx168news.com/article/1056520"
+    },
+    {
+      "id": "https://news.cri.cn/20260712/572e88a5-556d-c964-3d6a-d4dfb2dc6ce2.html",
+      "title": "视频丨台风“巴威”过境影响浙江多地 幸好有他们守护-国际在线",
+      "summary": "受台风“巴威”影响,浙江杭州昨晚一夜狂风暴雨。杭州西湖景区受到强劲风雨影响,景区内部分区域树木出现倒伏、树枝掉落的情况。工作人员第一时间出动处置完成。 西湖景区古树多、绿植密集、易受风雨影响。今天早上八点多,西...",
+      "source": "Cri_Cn",
+      "date": "2026-07-12",
+      "url": "https://news.cri.cn/20260712/572e88a5-556d-c964-3d6a-d4dfb2dc6ce2.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870493306371428678",
+      "title": "告别英伟达回国创业,他赌上二十年做物理AI",
+      "summary": "他从英伟达辞职 投身祖国科技事业2017年起任教复旦大学 积极参与学校新工科建设取得一系列突出成绩他深耕物理仿真领域二十余年 是英伟达上一代引擎的核心研发者 2024年创办飞捷科思智能科技(以下简称 飞捷科思 )并担任董...",
+      "source": "News_Baidu",
+      "date": "2026-07-12",
+      "url": "http://baijiahao.baidu.com/s?id=1870493306371428678"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870487884721489588",
+      "title": "防汛排涝、疏导交通 致敬雨夜里的暖心坚守",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-12",
+      "url": "http://baijiahao.baidu.com/s?id=1870487884721489588"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260712-9353074",
+      "title": "货车卡烂泥动弹不得 男子召青年合力推车脱困",
+      "summary": "NewsData报道",
+      "source": "Zaobao",
+      "date": "2026-07-12",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260712-9353074"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0712/954905.shtml",
+      "title": "国家地方共建人形机器人创新中心江磊:实现具身智能需要新数据、新模型",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-07-12",
+      "url": "http://www.eeo.com.cn/2026/0712/954905.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260712/ad41e61e-330e-2b59-4b80-ce03949eb3ad.html",
+      "title": "执大象 天下往——2026年上半年中国元首外交纪实-国际在线",
+      "summary": "当历史迈入2026年,世界百年变局加速演进,国际形势更加变乱交织。面对一系列愈发凸显的时代难题,人们对中国充满期待。 “中国将始终站在历史正确一边,以人民之心为心、以天下之利为利,同...",
+      "source": "Cri_Cn",
+      "date": "2026-07-12",
+      "url": "https://news.cri.cn/20260712/ad41e61e-330e-2b59-4b80-ce03949eb3ad.html"
+    },
+    {
+      "id": "https://news.seehua.com/post/1513485",
+      "title": "副部长批诗巫市议会 智能泊车系统未报备先推行 促暂停至稳定为止",
+      "summary": "(诗巫12日讯)针对诗巫市议会推行智能泊车系统,砂拉越教育、创新及人才发展部副部长兼南甲区州议员拿督安华拉法益 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-12",
+      "url": "https://news.seehua.com/post/1513485"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/07-12/10658036.shtml",
+      "title": "执大象 天下往——2026年上半年中国元首外交纪实",
+      "summary": "当历史迈入2026年,世界百年变局加速演进,国际形势更加变乱交织。面对一系列愈发凸显的时代难题,人们对中国充满期待。...",
       "source": "Chinanews",
-      "date": "2026-07-11",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-11/10657724.shtml"
+      "date": "2026-07-12",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-12/10658036.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870425317833548714",
-      "title": "人形机器人给猪做了手术,但“主刀者”还是人类医生",
+      "id": "https://news.seehua.com/post/1513445",
+      "title": "美里警方展开行动 开42张罚单 1男酒驾被捕",
+      "summary": "(美里12日讯) 美里警方展开“醉酒行动”,共检查91人及86辆交通工具,开出42张交通罚单,并逮捕一名涉嫌酒 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-12",
+      "url": "https://news.seehua.com/post/1513445"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870519293108666049",
+      "title": "严管严控查漏补缺 荆州交通运输执法持续筑牢防台安全..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870425317833548714"
+      "date": "2026-07-12",
+      "url": "http://baijiahao.baidu.com/s?id=1870519293108666049"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870425362354762661",
-      "title": "轮渡停航无法过江?黄浦交警出手了!",
-      "summary": "受台风 “巴威” 持续逼近影响,黄浦江上轮渡全线停航,给市民非机动车越江出行带来不便。今天傍晚,黄浦公安分局交管支队第一时间启动防汛防台应急预案,迅速调配警力,临时开放复兴东路隧道上层,为非机动车开辟安全过江的 “生命通...",
-      "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870425362354762661"
+      "id": "https://www.ithome.com/0/975/828.htm",
+      "title": "大众、小鹏合作第二款车型与众 09 下半年上市,号称“智能化水平跻身第一梯队”",
+      "summary": "IT之家 7 月 12 日消息,大众汽车乘用车品牌中国 CEO 齐泽凯 7 月 10 日发文预热与众 09,新车将于今年下半年上市。 据介绍,该车是大众和小鹏汽车在 24 个月内联合开发的第二款车型,流畅的溜背线条搭配舒展修长的车身比例,独特的狼头徽标融入车身设计。车长超 5 米,轴距达 3030mm。 此外,这款新车搭载大众人本科技“行云智行”和“云栖智舱”等先进技术,包括 VLA 大模型全场景...",
+      "source": "Ithome",
+      "date": "2026-07-12",
+      "url": "https://www.ithome.com/0/975/828.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870422837304124056",
-      "title": "女子将狗放在主驾后开启自动泊车 罚200记3分",
-      "summary": "7月4日,石某(女,38岁)驾驶小客车行至余庆路路边停车位时,为吸引他人关注,将宠物犬单独放在驾驶位上后,使用自动泊车功能停车。目前,石某因妨碍安全驾驶的违法行为被罚200元、扣3分。警方提醒:切勿过...",
-      "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870422837304124056"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870200117324182492",
-      "title": "2026年第二季度见义勇为勇士榜事迹",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870200117324182492"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870420167114458180",
-      "title": "上海外卖小哥,被中央政法委点名表扬!",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870420167114458180"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870323238391546965",
-      "title": "沅陵:多领域发力筑牢夏季安全生产防线",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870323238391546965"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1783760717129947.html",
-      "title": "长沙市体育局干部占用他人车位引发纠纷,已被停职",
+      "id": "https://www.bjnews.com.cn/detail/1783854941129598.html",
+      "title": "北京交通部门提示:降雨叠加周一早高峰,优选公共交通出行",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-11",
-      "url": "https://www.bjnews.com.cn/detail/1783760717129947.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870415002763455653",
-      "title": "短短24小时,四度跨海救援!普陀“航行的支部”先锋..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-11",
-      "url": "http://baijiahao.baidu.com/s?id=1870415002763455653"
-    },
-    {
-      "id": "https://www.ntdtv.com/b5/2026/07/11/a104114435.html",
-      "title": "華為車雨天不能開智駕?小粉紅不服實測結果撞車(視頻)",
-      "summary": "最近一段網絡視頻笑翻網友。許多車主抱怨華為電動車的智能駕駛無法應付下大雨的情況。有「小粉紅」車主不服,直播在大雨中開智駕,結果撞車了。...",
-      "source": "Ntdtv",
-      "date": "2026-07-11",
-      "url": "https://www.ntdtv.com/b5/2026/07/11/a104114435.html"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5164/51649833.html",
-      "title": "启境GT7提车即全国首享ADS5,双CEO实测ADS5",
-      "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-07-11",
-      "url": "http://www.pcauto.com.cn/news/5164/51649833.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/07-11/10657673.shtml",
-      "title": "今年前5个月刑事案件同比下降",
-      "summary": "新华社北京7月11日电(记者李明辉、朱国亮)公安部7月11日最新公布数据显示,今年1至5月,全国公安机关共立刑事案件数同比下降16.1%、立治安案件数同比下降10.6%。...",
-      "source": "Chinanews",
-      "date": "2026-07-11",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-11/10657673.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-11/10657543.shtml",
-      "title": "吉林布局低空经济赛道 多元应用场景加快落地",
-      "summary": "中新网长春7月11日电 (李彦国 高龙安)如今,低空经济装备正从科技展品加速转变为生产力工具。在11日启幕的第23届长春国际汽车博览会现场,载人航空器、工业级无人机等前沿低空经济装备,及L4级无人安防车等配套智能装备集中亮相,其中多款产品已走进现实应用场景。...",
-      "source": "Chinanews",
-      "date": "2026-07-11",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-11/10657543.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-11/10657529.shtml",
-      "title": "变局与格局:老牌汽车城长春如何向新而行?",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-07-11",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-11/10657529.shtml"
+      "date": "2026-07-12",
+      "url": "https://www.bjnews.com.cn/detail/1783854941129598.html"
     },
     {
       "id": "https://www.thestar.com.my/news/nation/2026/07/11/self-driving-crash-whos-liable",
@@ -262,6 +231,38 @@
       "source": "Times of India",
       "date": "2026-07-08",
       "url": "https://timesofindia.indiatimes.com/science/greenland-is-being-swarmed-by-autonomous-drones-and-underwater-robots-as-scientists-race-to-answer-one-question-how-close-is-earth-to-a-climate-tipping-point/articleshow/132258395.cms"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms",
+      "title": "Global Market: Momenta Global debuts nearly flat in Hong Kong after $751 million IPO",
+      "summary": "Momenta Global shares debuted on the Hong Kong Stock Exchange with a muted reception. The autonomous-driving software developer raised HK$5.89 billion in its initial public offering. Investor sentimen...",
+      "source": "The Economic Times",
+      "date": "2026-07-08",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms"
+    },
+    {
+      "id": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh",
+      "title": "Minister Lokesh invites Korean firms to expand investments in Andhra Pradesh",
+      "summary": "The minister also sought Hyundai Mobis’ support for research in autonomous driving, Advanced Driver Assistance Systems (ADAS) and smart manufacturing through th...",
+      "source": "The New Indian Express",
+      "date": "2026-07-08",
+      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html",
+      "title": "Chinese autonomous-driving firm Momenta rises 3% in Hong Kong debut",
+      "summary": "Chinese autonomous driving firm Momenta debuted on the Hong Kong stock exchange on Wednesday, rising 3%....",
+      "source": "CNBC",
+      "date": "2026-07-08",
+      "url": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html"
+    },
+    {
+      "id": "https://www.reuters.com/world/asia-pacific/chinese-autonomous-driving-firm-momenta-set-open-slightly-higher-hong-kong-debut-2026-07-08/",
+      "title": "China's Momenta debuts flat in Hong Kong as IPO caution grips AI listings",
+      "summary": "Shares of Momenta Global debuted flat in Hong Kong on Wednesday, ‌after the Chinese autonomous-driving firm raised about HK$5.89 billion ($751 million) in its initial public offering....",
+      "source": "Reuters",
+      "date": "2026-07-08",
+      "url": "https://www.reuters.com/world/asia-pacific/chinese-autonomous-driving-firm-momenta-set-open-slightly-higher-hong-kong-debut-2026-07-08/"
     }
   ]
 }
