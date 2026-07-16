@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-15 03:14:31",
-  "totalCount": 32,
+  "lastUpdated": "2026-07-16 03:20:58",
+  "totalCount": 31,
   "sources": {
-    "Ithome": 3,
-    "News_Baidu": 11,
-    "Rfi_Fr": 2,
-    "Chinanews": 1,
-    "Bjnews": 2,
-    "Imobile": 1,
-    "Smzdm": 1,
-    "News_Seehua": 1,
+    "Bilibili": 5,
+    "News_Baidu": 9,
+    "Rfi_Fr": 1,
+    "Investing_Cn": 2,
+    "Zaobao": 1,
+    "Ithome": 1,
+    "Fx168News": 1,
+    "Cri_Cn": 1,
     "WIRED": 1,
     "Barchart": 1,
     "The Star": 1,
@@ -23,180 +23,172 @@
   },
   "news": [
     {
-      "id": "https://www.ithome.com/0/976/745.htm",
-      "title": "华为智选车产品总监彭磊科普国家 L3 准入要求,称享界 G9 设计之初就瞄准 L3 级自动驾驶开发",
-      "summary": "IT之家 7 月 14 日消息,鸿蒙智行享界汽车今日宣布,享界 G9 正式获批北京市 L3 级自动驾驶道路测试牌照, 成为首款获批北京市时速 120 公里 L3 级自动驾驶道路测试牌照的车型 。 IT之家注意到,华为智选车产品总监(享界系列)彭磊今日发文科普了国家在 L3 准入的要求。他称 首先是生产车企要获得 L3 级自动驾驶测试资格 ,其次是其提交的申报车型再去满足国家相关部委对 L3 级自动...",
-      "source": "Ithome",
-      "date": "2026-07-14",
-      "url": "https://www.ithome.com/0/976/745.htm"
+      "id": "https://www.bilibili.com/video/BV1gyNt6yEXU",
+      "title": "【B站】自动驾驶？",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-07-16",
+      "url": "https://www.bilibili.com/video/BV1gyNt6yEXU"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870681034784050557",
-      "title": "数智赋能打造内河绿色造船新标杆",
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-07-16",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1aT411H7ug",
+      "title": "【B站】自动驾驶测试 入门课程",
+      "summary": "自动驾驶测试 入门课程...",
+      "source": "Bilibili",
+      "date": "2026-07-16",
+      "url": "https://www.bilibili.com/video/BV1aT411H7ug"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-07-16",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RhNq65EnU",
+      "title": "【B站】第1次玩自动驾驶",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-07-16",
+      "url": "https://www.bilibili.com/video/BV1RhNq65EnU"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870791490191240989",
+      "title": "把“流浪”的订单拉回湖北,2万名数据标注师“集团作..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870681034784050557"
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870791490191240989"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870699257933029247",
-      "title": "地头两毛超市两块,西瓜的差价被谁“吃”了?",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870699257933029247"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870679683203496656",
-      "title": "热心人 暖心事|河南旅游大巴车主写下长长的感谢信:..",
-      "summary": "极目新闻记者卢成汉实习生秦嘉懿岑漫棋通讯员夏宇“武汉这名道路停车巡管员人美心善,让我感受到了这座城市的温情与善意。”7月14日,河南籍旅游大巴车主贾师傅说。回想起3天前的那一幕,他心里仍然十分的感动。...",
-      "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870679683203496656"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870697046012354084",
-      "title": "闻“汛”而动 倾力护航!青岛交管积极应对台风“巴威..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870697046012354084"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260714-%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%BA%86%E9%98%85%E5%85%B5%E5%88%9B%E5%8E%86%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1-%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A6%BB%E4%BB%BB%E5%89%8D%E6%9C%80%E5%90%8E%E5%AF%B9%E6%AC%A7%E6%B4%B2%E9%98%B2%E5%8A%A1%E5%85%B3%E9%94%AE%E5%AE%A3%E7%A4%BA",
-      "title": "法国国庆阅兵创历年最大规模 马克龙离任前最后对欧洲防务关键宣示",
-      "summary": "7月14日,法国迎来一年一度的国庆日阅兵式。这也是法国总统马克龙任内最后一次以国家元首和三军统帅身份主持这一传统仪式。与往年相比,今年阅兵规模创下历史新高,不仅展示法国近年来持续提升的军事实力,更将支持乌克兰、强化欧洲防务合作作为整场活动的核心主题。...",
+      "id": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260715-%E5%8F%B0%E6%B9%BE%E6%8D%AE%E6%8A%A5%E6%8B%9F%E9%87%87%E8%B4%AD%E6%95%B0%E5%8D%81%E8%89%98%E6%97%A0%E4%BA%BA%E8%89%87%E4%BE%9B%E6%B5%B7%E5%B7%A1%E7%BD%B2%E4%BD%BF%E7%94%A8-%E4%B8%8E%E7%BE%8E%E9%98%B2%E5%8A%A1%E5%85%AC%E5%8F%B8%E5%90%88%E4%BD%9C",
+      "title": "台湾据报拟采购数十艘无人艇供海巡署使用 与美防务公司合作",
+      "summary": "一位知情高官向《日经亚洲》透露称,台湾已决定为其海巡署采购数十艘无人艇。此举旨在利用美国技术,以加强防卫能力,并应对中国在该地区日趋扩张性的海上活动。...",
       "source": "Rfi_Fr",
-      "date": "2026-07-14",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260714-%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%BA%86%E9%98%85%E5%85%B5%E5%88%9B%E5%8E%86%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1-%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A6%BB%E4%BB%BB%E5%89%8D%E6%9C%80%E5%90%8E%E5%AF%B9%E6%AC%A7%E6%B4%B2%E9%98%B2%E5%8A%A1%E5%85%B3%E9%94%AE%E5%AE%A3%E7%A4%BA"
+      "date": "2026-07-15",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260715-%E5%8F%B0%E6%B9%BE%E6%8D%AE%E6%8A%A5%E6%8B%9F%E9%87%87%E8%B4%AD%E6%95%B0%E5%8D%81%E8%89%98%E6%97%A0%E4%BA%BA%E8%89%87%E4%BE%9B%E6%B5%B7%E5%B7%A1%E7%BD%B2%E4%BD%BF%E7%94%A8-%E4%B8%8E%E7%BE%8E%E9%98%B2%E5%8A%A1%E5%85%AC%E5%8F%B8%E5%90%88%E4%BD%9C"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870690598902862010",
-      "title": "5天客流破百万!浦东PRISMA新嘉中心地铁连通口..",
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3462748",
+      "title": "TD Cowen维持优步买入评级,看好外卖业务增长势头",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-15",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3462748"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870783492865909543",
+      "title": "892件成果首发首展!透过科交会看合肥如何“把论文..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870690598902862010"
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870783492865909543"
     },
     {
-      "id": "https://www.chinanews.com.cn/ydyl/2026/07-14/10659369.shtml",
-      "title": "“你好!中国”法国老爷车重返丝绸之路活动启动仪式举行",
-      "summary": "中新网巴黎7月14日电 当地时间7月12日,“你好!中国”法国老爷车重返丝绸之路活动启动仪式在法国普瓦捷市“未来乐园”(Futuroscope)举行。...",
-      "source": "Chinanews",
-      "date": "2026-07-14",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/07-14/10659369.shtml"
+      "id": "https://www.zaobao.com.sg/news/world/story20260715-9370308",
+      "title": "日本出台新版AI战略计划 加强自主研发和安全",
+      "summary": "由于美国和中国的人工智能(AI)技术快速发展,日本政府星期二(7月14日)出台新版人工智能战略计划,以加强应对AI技术的风险和拓展自主研发。...",
+      "source": "Zaobao",
+      "date": "2026-07-15",
+      "url": "https://www.zaobao.com.sg/news/world/story20260715-9370308"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9F%8F%E6%9E%97%E9%A3%9E%E9%B8%BF/20260714-%E5%BE%B7%E5%9B%BD%E5%A4%A7%E4%BC%97%E8%AE%A1%E5%88%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%87%8D%E5%A1%91%E8%87%AA%E5%B7%B1",
-      "title": "德国大众计划在中国重塑自己",
-      "summary": "近年来,德国大众汽车集团利润率明显下降,主要原因是中国市场销量大幅下滑以及美国征收特别关税。此外,大众还因创新能力不足而饱受批评。...",
-      "source": "Rfi_Fr",
-      "date": "2026-07-14",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9F%8F%E6%9E%97%E9%A3%9E%E9%B8%BF/20260714-%E5%BE%B7%E5%9B%BD%E5%A4%A7%E4%BC%97%E8%AE%A1%E5%88%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%87%8D%E5%A1%91%E8%87%AA%E5%B7%B1"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870696165124715748",
-      "title": "“乡情警务”助506名留守儿童跨越千里与父母团聚",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870696165124715748"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784020898169902.html",
-      "title": "万勋科技魏瀛:家用车自动充电机器人有望成为百亿级市场",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-14",
-      "url": "https://www.bjnews.com.cn/detail/1784020898169902.html"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0714/234986.shtml",
-      "title": "IDC发布2026年Q2手机出货报告 OPPO稳居行业前三",
-      "summary": "7月14日,IDC正式发布2026年第二季度《全球季度手机追踪报告》。数据显示,OPPO凭借16%的市场份额稳居国内手机行业前三,保持稳健发展势头。 2026年Q2中国手机市场持续承压,OPPO保持韧性,中高端并进成亮点:中端reno系列在2500-4000元档持续领跑,高端Find X9系列表现出色;618叠加高考换机潮,门店日均销量增61%、Find X涨超200%、reno及一加均翻倍,OP...",
-      "source": "Imobile",
-      "date": "2026-07-14",
-      "url": "http://news.imobile.com.cn/articles/2026/0714/234986.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784012302129938.html",
-      "title": "注重强健自身,读懂百年大党的青春密码",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-14",
-      "url": "https://www.bjnews.com.cn/detail/1784012302129938.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870685662746567954",
-      "title": "“AI一天,人间一年”,一位投资人过去一年经历了什..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870685662746567954"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870684904087829837",
-      "title": "从“燃料”到“原料” 煤炭行业转型加速",
-      "summary": "新华社北京7月14日电题:从“燃料”到“原料”煤炭行业转型加速新华社记者王悦阳煤炭,可以燃烧供热、发电,也能够用于生产清洁油品和高端化工产品。从煤炭的智能绿色开采、运输,到煤制油等现代煤化工产业推动煤...",
-      "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870684904087829837"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870684988330722706",
-      "title": "无线创新,赋能无限!第七届浦东新区新通信创新应用竞..",
-      "summary": "以“无线创新赋能无限”为主题的第七届浦东新区新通信创新应用竞赛主题活动,今天在上海无线电科普教育展馆举行,带领广大职工走进无线电通信的百年历程,在历史的回望中感受技术演进的澎湃动力,在前瞻的对话中激发...",
-      "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870684988330722706"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870682012955063971",
-      "title": "天枢鸟全球首发飞廉、云辇两款载人e-VTOL飞行器",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870682012955063971"
-    },
-    {
-      "id": "https://www.ithome.com/0/976/750.htm",
-      "title": "奕境曾清林谈“新能源车平均车龄仅 1.8 年”,称适当超前硬件预埋等是化解“过时焦虑”的最优解",
-      "summary": "IT之家 7 月 14 日消息,奕境汽车品牌总经理曾清林今日凌晨发文谈及了“新能源车平均车龄仅 1.8 年”这一话题。他表示,非常理解大家的焦虑。 新能源车技术飞速迭代,“买完就过时”的巨大落差和背刺感,确实让人难以接受 。 曾清林称,造成 1.8 年是新能源车的平均车龄的原因,主要是过去几年新能源渗透率从 20% 冲到了 60% 多,市面上的新能源车很多都是近两三年才卖出去的,平均车龄当然低。 ...",
+      "id": "https://www.ithome.com/0/977/230.htm",
+      "title": "本田美国多款车型将集成谷歌 Gemini,可使用自然语言进行交流",
+      "summary": "IT之家 7 月 15 日消息,美国本田公司今日宣布,将人工智能助手谷歌 Gemini 集成至搭载谷歌内置功能(Google built-in)的 Civic(思域)、Accord(雅阁)、Prelude、CR-V、Pilot 等车型。 官方表示,只需登录谷歌账户,客户便能自然地与 Gemini 交流,无需再使用死板的命令句式,也不必重复已经说过的信息。随着时间的推移, Gemini 会自动进行优...",
       "source": "Ithome",
-      "date": "2026-07-14",
-      "url": "https://www.ithome.com/0/976/750.htm"
+      "date": "2026-07-15",
+      "url": "https://www.ithome.com/0/977/230.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/az85ln40/",
-      "title": "北京越野泰钽700亮相 搭乾崑ADS5.0+增程动力",
-      "summary": "近期硬派越野市场迎来一款重磅全新车型,北京越野全新高端系列首款车型泰钽700正式公开实车亮相。作为品牌跳出传统BJ系列的全新旗舰产品,新车定位中大型豪华新能源硬派SUV,依托北京越野68年军工越野技术积淀,同时深度绑定华为顶尖智能驾驶技术,以“军工越野底......",
-      "source": "Smzdm",
-      "date": "2026-07-14",
-      "url": "https://post.smzdm.com/p/az85ln40/"
+      "id": "http://baijiahao.baidu.com/s?id=1870785487008787980",
+      "title": "锤炼超大城市应急救援能力!广州近500名消防救援精..",
+      "summary": "绳索攀登、翻艇自救、破拆灭火......为期4天的广州市2026年消防救援专业技术比武竞赛正在火热进行中。记者7月15日从广州市消防救援支队获悉,此次比武紧贴实战,设置12个科目覆盖全灾种救援,近500名消防...",
+      "source": "News_Baidu",
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870785487008787980"
     },
     {
-      "id": "https://www.ithome.com/0/976/727.htm",
-      "title": "东风汽车:岚图梦想家 9 基于全域 L3 级自动驾驶架构打造,预计今年下半年上市",
-      "summary": "IT之家 7 月 14 日消息,岚图梦想家 9 已于本月初首发登场,定位 50 万元级“九系智尊”MPV。 该车随后完成申报并发布官图,确认提供插电式混合动力版和纯电动版两种车型。 IT之家注意到,东风汽车官方今日发文,对该车进行预热,公布了更多信息。岚图梦想家 9 定位中大型豪华行政座驾, 预计今年下半年上市 ,售价或在 50 万元以上。 新车基于全域 L3 级自动驾驶架构打造, 搭载 896 ...",
-      "source": "Ithome",
-      "date": "2026-07-14",
-      "url": "https://www.ithome.com/0/976/727.htm"
-    },
-    {
-      "id": "https://news.seehua.com/post/1514423",
-      "title": "兵如港交通大改造!5岔路口将设交通圈 峇鲁路改单行道治塞车",
-      "summary": "(怡保14日讯)长期饱受塞车及交通事故困扰的兵如港商业中心,将迎来交通大改造! 怡保市政厅将于本周展开首阶段交 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-14",
-      "url": "https://news.seehua.com/post/1514423"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870688080174361395",
-      "title": "一批“翻倍基”二季报出炉,“站在光里”的基金经理分..",
+      "id": "http://baijiahao.baidu.com/s?id=1870774844265628603",
+      "title": "紧急提醒!暴雨别往桥洞隧道躲!这些保命知识快收藏",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-14",
-      "url": "http://baijiahao.baidu.com/s?id=1870688080174361395"
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870774844265628603"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870780407549268522",
+      "title": "蓝山公交司机夜送病患,竟遇国家二级保护动物拦路",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870780407549268522"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1058481",
+      "title": "龙磁科技:6月30日接受机构调研,包括知名机构彤源投资,趣时资产的多家机构参与-FX168",
+      "summary": "证券之星消息,2026年7月15日龙磁科技(300835)发布公告称公司于2026年6月30日接受机构调研,招商基金、趣时资产、兴业证券、嘉实基金、华创证券、友邦保险资管、浙商证券、富国基金、中信建投、易方达、平安资管、长江证券、天风证券、上海保银、中金、喜世润投资、名禹资产、歌汝资产、煜德投资、天锐投资、上海合远、中泰证券、大成基金、中银三星人寿、工银瑞信、中汇基金、彤源投资、国投证券、国寿安保...",
+      "source": "Fx168News",
+      "date": "2026-07-15",
+      "url": "https://www.fx168news.com/article/1058481"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870780817564660341",
+      "title": "连续值守48小时后,池州这三人又出手营救被困群众",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870780817564660341"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870783367047036289",
+      "title": "从“民生清单”到“幸福榜单”:合肥2026的十份温..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870783367047036289"
+    },
+    {
+      "id": "https://news.cri.cn/20260715/3e995344-848b-df4e-e282-7b8dac83ac4e.html",
+      "title": "人民日报海外版关注丨青藏铁路工作者——守护雪域天路平安畅通-国际在线",
+      "summary": "2006年7月1日,“青1”次列车通过海拔5072米的世界铁路最高点——唐古拉山口。新华社记者格桑达瓦摄 青藏铁路线路图仅供示意,不代表精确地理位置坐标 从事机车驾驶工作25年李建明 国铁青藏集团公司格尔木机务段内燃机车司机。...",
+      "source": "Cri_Cn",
+      "date": "2026-07-15",
+      "url": "https://news.cri.cn/20260715/3e995344-848b-df4e-e282-7b8dac83ac4e.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870675686796777855",
+      "title": "暴雨致沈阳农大内涝 铲车变“送餐专车”暖学子",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870675686796777855"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870785836668180491",
+      "title": "盛洋科技加速推进卫星通信领域布局",
+      "summary": "本报讯(记者矫月)7月14日晚间,浙江盛洋科技股份有限公司(以下简称“盛洋科技”)披露2026年半年度业绩预告,预计上半年实现营业收入5.85亿元至6.25亿元,同比增长40.57%至50.1...",
+      "source": "News_Baidu",
+      "date": "2026-07-15",
+      "url": "http://baijiahao.baidu.com/s?id=1870785836668180491"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3462492",
+      "title": "MicroVision任命James Byun为首席商务官",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-15",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3462492"
     },
     {
       "id": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
@@ -261,6 +253,14 @@
       "source": "The Economic Times",
       "date": "2026-07-08",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms"
+    },
+    {
+      "id": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh",
+      "title": "Minister Lokesh invites Korean firms to expand investments in Andhra Pradesh",
+      "summary": "The minister also sought Hyundai Mobis’ support for research in autonomous driving, Advanced Driver Assistance Systems (ADAS) and smart manufacturing through th...",
+      "source": "The New Indian Express",
+      "date": "2026-07-08",
+      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh"
     }
   ]
 }
