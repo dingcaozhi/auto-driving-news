@@ -1,15 +1,16 @@
 {
-  "lastUpdated": "2026-07-16 03:20:58",
-  "totalCount": 31,
+  "lastUpdated": "2026-07-17 03:24:08",
+  "totalCount": 28,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 9,
-    "Rfi_Fr": 1,
-    "Investing_Cn": 2,
-    "Zaobao": 1,
-    "Ithome": 1,
+    "Time Weekly": 1,
+    "Bjnews": 1,
+    "News_Baidu": 5,
     "Fx168News": 1,
-    "Cri_Cn": 1,
+    "Cri_Cn": 2,
+    "Investing_Cn": 1,
+    "Pcauto_Cn": 2,
+    "Cnblogs": 1,
+    "Ithome": 4,
     "WIRED": 1,
     "Barchart": 1,
     "The Star": 1,
@@ -23,172 +24,148 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1gyNt6yEXU",
-      "title": "【B站】自动驾驶？",
-      "summary": "-...",
-      "source": "Bilibili",
+      "id": "https://www.time-weekly.com/post/331063",
+      "title": "“茅台们”不必震惊,年轻人的第一杯酒是在奶茶店喝的",
+      "summary": "本文来源:消费者报道 作者:廖玉婷 今年夏天,茶饮行业集体“醉”了。 最近,多家新茶饮品牌推出添加酒精的微醺产品,有的将果酒与茶底结合,有的加入气泡酒元素,有的则以“低度微醺”“0酒精 真酒味”作为卖点。 一个是年轻人下午的“续命水”,一个是夜晚蹦迪的“快乐水”,原本泾渭分明的两个品类,正在彼此靠近。 新茶饮品牌集体“上头” 新茶饮行业对酒饮赛道的试探,始于2023年。当年,瑞幸与茅台联名推出“酱...",
+      "source": "Time Weekly",
       "date": "2026-07-16",
-      "url": "https://www.bilibili.com/video/BV1gyNt6yEXU"
+      "url": "https://www.time-weekly.com/post/331063"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1784186418169935.html",
+      "title": "拥挤的造车赛道,还能容下楚能汽车吗?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-07-16",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "url": "https://www.bjnews.com.cn/detail/1784186418169935.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1aT411H7ug",
-      "title": "【B站】自动驾驶测试 入门课程",
-      "summary": "自动驾驶测试 入门课程...",
-      "source": "Bilibili",
-      "date": "2026-07-16",
-      "url": "https://www.bilibili.com/video/BV1aT411H7ug"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
-      "title": "【B站】【科普】自动驾驶分级及原理",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-07-16",
-      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RhNq65EnU",
-      "title": "【B站】第1次玩自动驾驶",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-07-16",
-      "url": "https://www.bilibili.com/video/BV1RhNq65EnU"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870791490191240989",
-      "title": "把“流浪”的订单拉回湖北,2万名数据标注师“集团作..",
+      "id": "http://baijiahao.baidu.com/s?id=1870881103242946845",
+      "title": "焦点访谈丨从“点状开花”到“全链智能” 中国人工智..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870791490191240989"
+      "date": "2026-07-16",
+      "url": "http://baijiahao.baidu.com/s?id=1870881103242946845"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260715-%E5%8F%B0%E6%B9%BE%E6%8D%AE%E6%8A%A5%E6%8B%9F%E9%87%87%E8%B4%AD%E6%95%B0%E5%8D%81%E8%89%98%E6%97%A0%E4%BA%BA%E8%89%87%E4%BE%9B%E6%B5%B7%E5%B7%A1%E7%BD%B2%E4%BD%BF%E7%94%A8-%E4%B8%8E%E7%BE%8E%E9%98%B2%E5%8A%A1%E5%85%AC%E5%8F%B8%E5%90%88%E4%BD%9C",
-      "title": "台湾据报拟采购数十艘无人艇供海巡署使用 与美防务公司合作",
-      "summary": "一位知情高官向《日经亚洲》透露称,台湾已决定为其海巡署采购数十艘无人艇。此举旨在利用美国技术,以加强防卫能力,并应对中国在该地区日趋扩张性的海上活动。...",
-      "source": "Rfi_Fr",
-      "date": "2026-07-15",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260715-%E5%8F%B0%E6%B9%BE%E6%8D%AE%E6%8A%A5%E6%8B%9F%E9%87%87%E8%B4%AD%E6%95%B0%E5%8D%81%E8%89%98%E6%97%A0%E4%BA%BA%E8%89%87%E4%BE%9B%E6%B5%B7%E5%B7%A1%E7%BD%B2%E4%BD%BF%E7%94%A8-%E4%B8%8E%E7%BE%8E%E9%98%B2%E5%8A%A1%E5%85%AC%E5%8F%B8%E5%90%88%E4%BD%9C"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3462748",
-      "title": "TD Cowen维持优步买入评级,看好外卖业务增长势头",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-15",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3462748"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870783492865909543",
-      "title": "892件成果首发首展!透过科交会看合肥如何“把论文..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870783492865909543"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/world/story20260715-9370308",
-      "title": "日本出台新版AI战略计划 加强自主研发和安全",
-      "summary": "由于美国和中国的人工智能(AI)技术快速发展,日本政府星期二(7月14日)出台新版人工智能战略计划,以加强应对AI技术的风险和拓展自主研发。...",
-      "source": "Zaobao",
-      "date": "2026-07-15",
-      "url": "https://www.zaobao.com.sg/news/world/story20260715-9370308"
-    },
-    {
-      "id": "https://www.ithome.com/0/977/230.htm",
-      "title": "本田美国多款车型将集成谷歌 Gemini,可使用自然语言进行交流",
-      "summary": "IT之家 7 月 15 日消息,美国本田公司今日宣布,将人工智能助手谷歌 Gemini 集成至搭载谷歌内置功能(Google built-in)的 Civic(思域)、Accord(雅阁)、Prelude、CR-V、Pilot 等车型。 官方表示,只需登录谷歌账户,客户便能自然地与 Gemini 交流,无需再使用死板的命令句式,也不必重复已经说过的信息。随着时间的推移, Gemini 会自动进行优...",
-      "source": "Ithome",
-      "date": "2026-07-15",
-      "url": "https://www.ithome.com/0/977/230.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870785487008787980",
-      "title": "锤炼超大城市应急救援能力!广州近500名消防救援精..",
-      "summary": "绳索攀登、翻艇自救、破拆灭火......为期4天的广州市2026年消防救援专业技术比武竞赛正在火热进行中。记者7月15日从广州市消防救援支队获悉,此次比武紧贴实战,设置12个科目覆盖全灾种救援,近500名消防...",
-      "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870785487008787980"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870774844265628603",
-      "title": "紧急提醒!暴雨别往桥洞隧道躲!这些保命知识快收藏",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870774844265628603"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870780407549268522",
-      "title": "蓝山公交司机夜送病患,竟遇国家二级保护动物拦路",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870780407549268522"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1058481",
-      "title": "龙磁科技:6月30日接受机构调研,包括知名机构彤源投资,趣时资产的多家机构参与-FX168",
-      "summary": "证券之星消息,2026年7月15日龙磁科技(300835)发布公告称公司于2026年6月30日接受机构调研,招商基金、趣时资产、兴业证券、嘉实基金、华创证券、友邦保险资管、浙商证券、富国基金、中信建投、易方达、平安资管、长江证券、天风证券、上海保银、中金、喜世润投资、名禹资产、歌汝资产、煜德投资、天锐投资、上海合远、中泰证券、大成基金、中银三星人寿、工银瑞信、中汇基金、彤源投资、国投证券、国寿安保...",
+      "id": "https://www.fx168news.com/article/1059252",
+      "title": "中国保险行业协会会长赵宇龙:以AI之力赋能保险,以保险之智护航AI-FX168",
+      "summary": "7月16日,由金融界、北京丽泽金融商务区管理委员会、清华大学经济管理学院主办,泰康保险集团联合主办的丽泽全球保险科技大会于北京丽泽金融商务区开幕。原保监会党委委员、副主席周延礼,国家金融监督管理总局北京监管局一级巡视员逯剑、中共北京市委金融办副...",
       "source": "Fx168News",
-      "date": "2026-07-15",
-      "url": "https://www.fx168news.com/article/1058481"
+      "date": "2026-07-16",
+      "url": "https://www.fx168news.com/article/1059252"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870780817564660341",
-      "title": "连续值守48小时后,池州这三人又出手营救被困群众",
+      "id": "http://baijiahao.baidu.com/s?id=1870875219571320768",
+      "title": "对话超达装备郭巍巍:从汽车内饰到“棉田管家”,掘金..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870780817564660341"
+      "date": "2026-07-16",
+      "url": "http://baijiahao.baidu.com/s?id=1870875219571320768"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870783367047036289",
-      "title": "从“民生清单”到“幸福榜单”:合肥2026的十份温..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870783367047036289"
-    },
-    {
-      "id": "https://news.cri.cn/20260715/3e995344-848b-df4e-e282-7b8dac83ac4e.html",
-      "title": "人民日报海外版关注丨青藏铁路工作者——守护雪域天路平安畅通-国际在线",
-      "summary": "2006年7月1日,“青1”次列车通过海拔5072米的世界铁路最高点——唐古拉山口。新华社记者格桑达瓦摄 青藏铁路线路图仅供示意,不代表精确地理位置坐标 从事机车驾驶工作25年李建明 国铁青藏集团公司格尔木机务段内燃机车司机。...",
+      "id": "https://news.cri.cn/20260716/1f08f8a3-ff0e-b217-81eb-d1ebf9cd300a.html",
+      "title": "焦点访谈丨从“点状开花”到“全链智能” 中国人工智能加速赋能千行百业-国际在线",
+      "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行,从2018年创办以来,世界人工智能大会已连续成功举办八届。自2024年起,大会增设全球治理议题,这一人工智能盛会和具有全球影响力的国际交流合作平台举世...",
       "source": "Cri_Cn",
-      "date": "2026-07-15",
-      "url": "https://news.cri.cn/20260715/3e995344-848b-df4e-e282-7b8dac83ac4e.html"
+      "date": "2026-07-16",
+      "url": "https://news.cri.cn/20260716/1f08f8a3-ff0e-b217-81eb-d1ebf9cd300a.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870675686796777855",
-      "title": "暴雨致沈阳农大内涝 铲车变“送餐专车”暖学子",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870675686796777855"
+      "id": "https://news.cri.cn/20260716/1ff8e9f2-3529-6eed-e4d4-4de467dc361a.html",
+      "title": "行进中国|“三声笛”,敬一座桥-国际在线",
+      "summary": "怒江大峡谷的风,刮得人脸生疼。站在2018年通车的第三代怒江大桥上,江涛在谷底轰鸣。一辆挂着渝A牌照的货车疾驰而过,忽然“嘀嘀嘀”按下三声长笛,笛声穿透风声,在峭壁间久久回荡。 “那不是普通的喇叭声...",
+      "source": "Cri_Cn",
+      "date": "2026-07-16",
+      "url": "https://news.cri.cn/20260716/1ff8e9f2-3529-6eed-e4d4-4de467dc361a.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870785836668180491",
-      "title": "盛洋科技加速推进卫星通信领域布局",
-      "summary": "本报讯(记者矫月)7月14日晚间,浙江盛洋科技股份有限公司(以下简称“盛洋科技”)披露2026年半年度业绩预告,预计上半年实现营业收入5.85亿元至6.25亿元,同比增长40.57%至50.1...",
-      "source": "News_Baidu",
-      "date": "2026-07-15",
-      "url": "http://baijiahao.baidu.com/s?id=1870785836668180491"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3462492",
-      "title": "MicroVision任命James Byun为首席商务官",
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3464802",
+      "title": "Stellantis为标准套餐新增远程启动功能,同时下调Wi-Fi定价",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-07-15",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3462492"
+      "date": "2026-07-16",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3464802"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870840555550120971",
+      "title": "马路上“喷啤酒”拍视频,长沙衡阳多人被罚!有人被记..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-16",
+      "url": "http://baijiahao.baidu.com/s?id=1870840555550120971"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5168/51681280.html",
+      "title": "广汽迎来3000万用户里程碑时刻",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-07-16",
+      "url": "http://www.pcauto.com.cn/news/5168/51681280.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870879907270894338",
+      "title": "百度萝卜快跑与哈萨克斯坦企业签署战略合作协议",
+      "summary": "7月16日,百度旗下无人驾驶出行服务平台萝卜快跑与哈萨克斯坦企业TurlovPrivateHoldingLtd.(TPH)在上海签署战略合作协议,双方将共同探索在哈萨克斯坦引入无人车出行服务。这是中国...",
+      "source": "News_Baidu",
+      "date": "2026-07-16",
+      "url": "http://baijiahao.baidu.com/s?id=1870879907270894338"
+    },
+    {
+      "id": "https://www.cnblogs.com/charlee44/p/21558211",
+      "title": "3D Gaussian Splatting可视化渲染原理详解 - charlee44",
+      "summary": "本文深入剖析了 3D Gaussian Splatting (3DGS) 的图形渲染原理,从三维高斯椭球的数学定义出发,系统阐述了其通过协方差投影、球谐函数着色、Tile-Based 深度排序及 Alpha 混合实现高质量实时渲染的完整技术链路。...",
+      "source": "Cnblogs",
+      "date": "2026-07-16",
+      "url": "https://www.cnblogs.com/charlee44/p/21558211"
+    },
+    {
+      "id": "https://www.ithome.com/0/977/778.htm",
+      "title": "小鹏海外车型接入谷歌地图导航服务,MONA L03 首发落地",
+      "summary": "IT之家 7 月 16 日消息,小鹏品牌日暨 MONA L03 全球上市发布会正在进行中,小鹏宣布海外车型正式接入 谷歌地图导航服务 ,成为亚太地区首个谷歌地图车载 SDK 合作伙伴,并将在小鹏 MONA L03 首发落地。 IT之家从发布会获悉,小鹏全面升级海外版座舱操作系统 XOS 6,并重构语音交互架构,让车载语音助手拥有更强的自然对话与意图理解能力。除了功能操作和自由聊天, 还能识别用户的...",
+      "source": "Ithome",
+      "date": "2026-07-16",
+      "url": "https://www.ithome.com/0/977/778.htm"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5168/51680928.html",
+      "title": "挚达科技全球首发“AI能源+机器人”一体化解决方案",
+      "summary": "挚达科技发布“AI能源+机器人”一体化家庭场景解决方案和“AI能源+机器人”一体化公共场景解决方案。...",
+      "source": "Pcauto_Cn",
+      "date": "2026-07-16",
+      "url": "http://www.pcauto.com.cn/news/5168/51680928.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870853766844750079",
+      "title": "智慧环卫上新!无人驾驶点靓城市洁净新图景",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-16",
+      "url": "http://baijiahao.baidu.com/s?id=1870853766844750079"
+    },
+    {
+      "id": "https://www.ithome.com/0/977/797.htm",
+      "title": "美光与高通、哈曼等签署长期合作协议,保障 AI 汽车内存供应",
+      "summary": "IT之家 7 月 16 日消息,美光科技(Micron Technology)周四宣布,已与多家汽车产业链企业签署长期合作协议,其中包括芯片设计公司高通(Qualcomm)以及音频产品制造商哈曼(Harman),以确保支持人工智能汽车运行所需的存储和内存组件供应。 IT之家注意到,这些协议签署之际,整个半导体行业正加速扩大产能,以满足人工智能技术快速普及带来的内存芯片需求增长。 目前,内存芯片被广...",
+      "source": "Ithome",
+      "date": "2026-07-16",
+      "url": "https://www.ithome.com/0/977/797.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/977/784.htm",
+      "title": "小鹏 MONA L03 上市:纯电、增程动力,12.38 万元起",
+      "summary": "IT之家 7 月 16 日消息,小鹏 MONA L03 车型今晚正式上市,分为纯电、增程版本,售价 12.38 万元起。其中,增程版将于 8 月下旬交付。 纯电 550 Plus 版 12.38 万元 650 Plus 版 13.38 万元 525 Max 版 13.48 万元 625 Max 版 14.48 万元 525 Ultra SE 版 14.68 万元 625 Ultra SE 版 15...",
+      "source": "Ithome",
+      "date": "2026-07-16",
+      "url": "https://www.ithome.com/0/977/784.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/977/782.htm",
+      "title": "奇瑞星途 EX6 量产概念车外观亮点公布:776 颗星钻 LED 灯语矩阵、6 枚智驾小蓝灯",
+      "summary": "IT之家 7 月 16 日消息,奇瑞星途汽车官方今日公布了星途 EX6 量产概念车外观亮点,新车主打星纪探索美学, 采用双色悬浮车身设计 ,宣称自带运动时尚气场。 据介绍,星途 EX6 全车有 776 颗星钻 LED 灯语矩阵,灵感来自浩瀚星河,结合高透光学材质可呈现高级动态光影。 新车还配有 6 颗星际领航小蓝灯 ,兼顾智能驾驶辅助安全和通勤仪式感;采用星轨尾灯设计,主打“流光星轨”美学。 星途...",
+      "source": "Ithome",
+      "date": "2026-07-16",
+      "url": "https://www.ithome.com/0/977/782.htm"
     },
     {
       "id": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
@@ -261,6 +238,14 @@
       "source": "The New Indian Express",
       "date": "2026-07-08",
       "url": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html",
+      "title": "Chinese autonomous-driving firm Momenta rises 3% in Hong Kong debut",
+      "summary": "Chinese autonomous driving firm Momenta debuted on the Hong Kong stock exchange on Wednesday, rising 3%....",
+      "source": "CNBC",
+      "date": "2026-07-08",
+      "url": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html"
     }
   ]
 }
