@@ -1,171 +1,213 @@
 {
-  "lastUpdated": "2026-07-17 03:24:08",
+  "lastUpdated": "2026-07-18 03:13:06",
   "totalCount": 28,
   "sources": {
-    "Time Weekly": 1,
-    "Bjnews": 1,
-    "News_Baidu": 5,
-    "Fx168News": 1,
-    "Cri_Cn": 2,
+    "News_Baidu": 14,
+    "Zaobao": 1,
+    "Businesswire": 1,
+    "Bjnews": 2,
     "Investing_Cn": 1,
-    "Pcauto_Cn": 2,
-    "Cnblogs": 1,
-    "Ithome": 4,
+    "Phys.org": 1,
+    "Devdiscourse": 1,
+    "The Star": 2,
+    "News-Medical.net": 1,
+    "TNW": 1,
     "WIRED": 1,
     "Barchart": 1,
-    "The Star": 1,
-    "The Manila Times": 1,
-    "Hot Hardware": 1,
-    "TNW": 1,
-    "Times of India": 1,
-    "The Economic Times": 1,
-    "The New Indian Express": 1,
-    "CNBC": 1
+    "The Manila Times": 1
   },
   "news": [
     {
-      "id": "https://www.time-weekly.com/post/331063",
-      "title": "“茅台们”不必震惊,年轻人的第一杯酒是在奶茶店喝的",
-      "summary": "本文来源:消费者报道 作者:廖玉婷 今年夏天,茶饮行业集体“醉”了。 最近,多家新茶饮品牌推出添加酒精的微醺产品,有的将果酒与茶底结合,有的加入气泡酒元素,有的则以“低度微醺”“0酒精 真酒味”作为卖点。 一个是年轻人下午的“续命水”,一个是夜晚蹦迪的“快乐水”,原本泾渭分明的两个品类,正在彼此靠近。 新茶饮品牌集体“上头” 新茶饮行业对酒饮赛道的试探,始于2023年。当年,瑞幸与茅台联名推出“酱...",
-      "source": "Time Weekly",
-      "date": "2026-07-16",
-      "url": "https://www.time-weekly.com/post/331063"
+      "id": "http://baijiahao.baidu.com/s?id=1870965818210673798",
+      "title": "顺丰开了个“智慧物流夏令营”,30个小学生当了一天..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870965818210673798"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1784186418169935.html",
-      "title": "拥挤的造车赛道,还能容下楚能汽车吗?",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260717-9381864",
+      "title": "从家居安全系统到自动驾驶船 奖学金得主分享工程探索之路",
+      "summary": "“很多人以为工程师就是整天编码。但如今有了人工智能,对我来说,工程是宏观的系统思维:把不同技术整合起来解决一个大问题......这个奖学金既是对我过往努力的肯定,也给我提供了一个能与志同道合的同辈和导师建立社群网络的平台。”...",
+      "source": "Zaobao",
+      "date": "2026-07-17",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260717-9381864"
+    },
+    {
+      "id": "http://www.businesswire.com/news/home/20260713994907/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-WepL6sRhX6ZA9uIKkLyMC2Ka1ah7uC6RdZY8DBvigxR7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LO4aHursdTgjq-KNSSWsKUa97ZTKjNldK1STeKrUjqbvg%3D%3D",
+      "title": "Marti与Tensor合作在土耳其部署自动驾驶汽车",
+      "summary": "伊斯坦布尔--(BUSINESS WIRE)--(美国商业资讯)-- 土耳其领先的出行超级应用公司Marti Technologies, Inc.(以下简称“Marti”或“该公司”)(NYSE American:MRT)与个人自动驾驶汽车领域的先锋企业Tensor,今日宣布建立为期多年的战略合作伙伴关系,旨在采购并部署Tensor的自动驾驶汽车(“AV”),将其引入Marti在土耳其各地城市的出...",
+      "source": "Businesswire",
+      "date": "2026-07-17",
+      "url": "http://www.businesswire.com/news/home/20260713994907/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-WepL6sRhX6ZA9uIKkLyMC2Ka1ah7uC6RdZY8DBvigxR7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LO4aHursdTgjq-KNSSWsKUa97ZTKjNldK1STeKrUjqbvg%3D%3D"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870972644101336749",
+      "title": "它石智航创始人陈亦伦:具身操作至少需要1000万小..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870972644101336749"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870970882637476502",
+      "title": "晚高峰一孕妇突发羊水破裂,原本40分钟路程,成都交..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870970882637476502"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870971510620515369",
+      "title": "“爹爹,别睡!”武汉交警桥面守护身体不适老人,全程..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870971510620515369"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870958456200791274",
+      "title": "滴滴举办近百场夏季司机清凉专属活动 多举措守护车内..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870958456200791274"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870929333956011142",
+      "title": "地表近50°C!新疆克拉玛依高速交警战高温守防线",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870929333956011142"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870957908680739815",
+      "title": "警民同心筑防线 微尘公益捐赠物资助力农村道路交通安..",
+      "summary": "青岛微尘公益基金会向黄岛区交管大队捐赠交通安全防护物资。(来源:青岛交警)信网7月17日讯 为补齐农村地区道路交通安全防护短板,凝聚警民共治、公益助力交通治理合力,7月16日上午,青岛市微尘公益基金会...",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870957908680739815"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870961370137504383",
+      "title": "新能源船舶真实运营“开课” 上海交大学子登上“国峡..",
+      "summary": "7月16日,上海交通大学船舶海洋与建筑工程学院“知行”社会实践团走进大治河宣桥水上服务区,登上上海市首艘投入常态化运营的集散两用纯电动智能船舶“国峡001号”开展调研。实践团围绕新能源船舶产业政策、技...",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870961370137504383"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870965787145494933",
+      "title": "暑运路上,藏着他们的“N种守护”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870965787145494933"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1784280932129339.html",
+      "title": "北京给食品广告立规矩:不得宣扬暴饮暴食,宣称“特供”“专供”",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-16",
-      "url": "https://www.bjnews.com.cn/detail/1784186418169935.html"
+      "date": "2026-07-17",
+      "url": "https://www.bjnews.com.cn/detail/1784280932129339.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870881103242946845",
-      "title": "焦点访谈丨从“点状开花”到“全链智能” 中国人工智..",
+      "id": "https://www.bjnews.com.cn/detail/1784295158168357.html",
+      "title": "摈弃铺量模式、砍掉低效车型,长安汽车在算怎么样的战略账?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-17",
+      "url": "https://www.bjnews.com.cn/detail/1784295158168357.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870879783396004609",
+      "title": "合肥高架限速牌一拆而红,有些城市却慢慢倒回去了?",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-16",
-      "url": "http://baijiahao.baidu.com/s?id=1870881103242946845"
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870879783396004609"
     },
     {
-      "id": "https://www.fx168news.com/article/1059252",
-      "title": "中国保险行业协会会长赵宇龙:以AI之力赋能保险,以保险之智护航AI-FX168",
-      "summary": "7月16日,由金融界、北京丽泽金融商务区管理委员会、清华大学经济管理学院主办,泰康保险集团联合主办的丽泽全球保险科技大会于北京丽泽金融商务区开幕。原保监会党委委员、副主席周延礼,国家金融监督管理总局北京监管局一级巡视员逯剑、中共北京市委金融办副...",
-      "source": "Fx168News",
-      "date": "2026-07-16",
-      "url": "https://www.fx168news.com/article/1059252"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870875219571320768",
-      "title": "对话超达装备郭巍巍:从汽车内饰到“棉田管家”,掘金..",
+      "id": "http://baijiahao.baidu.com/s?id=1870968930537555258",
+      "title": "2026世界人工智能大会开幕",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-16",
-      "url": "http://baijiahao.baidu.com/s?id=1870875219571320768"
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870968930537555258"
     },
     {
-      "id": "https://news.cri.cn/20260716/1f08f8a3-ff0e-b217-81eb-d1ebf9cd300a.html",
-      "title": "焦点访谈丨从“点状开花”到“全链智能” 中国人工智能加速赋能千行百业-国际在线",
-      "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行,从2018年创办以来,世界人工智能大会已连续成功举办八届。自2024年起,大会增设全球治理议题,这一人工智能盛会和具有全球影响力的国际交流合作平台举世...",
-      "source": "Cri_Cn",
-      "date": "2026-07-16",
-      "url": "https://news.cri.cn/20260716/1f08f8a3-ff0e-b217-81eb-d1ebf9cd300a.html"
+      "id": "http://baijiahao.baidu.com/s?id=1870970537517940916",
+      "title": "九识智能实现全球首个L4级无图规模化量产,无人驾驶..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870970537517940916"
     },
     {
-      "id": "https://news.cri.cn/20260716/1ff8e9f2-3529-6eed-e4d4-4de467dc361a.html",
-      "title": "行进中国|“三声笛”,敬一座桥-国际在线",
-      "summary": "怒江大峡谷的风,刮得人脸生疼。站在2018年通车的第三代怒江大桥上,江涛在谷底轰鸣。一辆挂着渝A牌照的货车疾驰而过,忽然“嘀嘀嘀”按下三声长笛,笛声穿透风声,在峭壁间久久回荡。 “那不是普通的喇叭声...",
-      "source": "Cri_Cn",
-      "date": "2026-07-16",
-      "url": "https://news.cri.cn/20260716/1ff8e9f2-3529-6eed-e4d4-4de467dc361a.html"
+      "id": "http://baijiahao.baidu.com/s?id=1870968941345754655",
+      "title": "凤溪“城中村”改造项目改名~",
+      "summary": "青浦华新凤溪的居民们,一份关乎未来十年生活品质的“剧透”来了!日前,中交城市产业联盟高质量发展大会在青浦举行,凤溪“城中村”改造项目正式官宣更名——“中交·未来凤溪”。这不仅是一次简单的名称更迭,更标志着上海目前规模最大...",
+      "source": "News_Baidu",
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870968941345754655"
     },
     {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3464802",
-      "title": "Stellantis为标准套餐新增远程启动功能,同时下调Wi-Fi定价",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3466740",
+      "title": "工信部:部署开展汽车生产企业及产品有关监督检查等工作",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-07-16",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3464802"
+      "date": "2026-07-17",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3466740"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870840555550120971",
-      "title": "马路上“喷啤酒”拍视频,长沙衡阳多人被罚!有人被记..",
+      "id": "http://baijiahao.baidu.com/s?id=1870953988547287889",
+      "title": "铝韧纱柔 翼展长空 滨州构筑产业新优势",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-16",
-      "url": "http://baijiahao.baidu.com/s?id=1870840555550120971"
+      "date": "2026-07-17",
+      "url": "http://baijiahao.baidu.com/s?id=1870953988547287889"
     },
     {
-      "id": "http://www.pcauto.com.cn/news/5168/51681280.html",
-      "title": "广汽迎来3000万用户里程碑时刻",
-      "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-07-16",
-      "url": "http://www.pcauto.com.cn/news/5168/51681280.html"
+      "id": "https://phys.org/news/2026-07-trucks-redraw-economic.html",
+      "title": "Self-driving trucks will redraw US economic map",
+      "summary": "Technological advances in autonomous truck technology are poised to have significant economic ripple effects on U.S. interstate commerce, highway infrastructure and labor costs, according to new resea...",
+      "source": "Phys.org",
+      "date": "2026-07-17",
+      "url": "https://phys.org/news/2026-07-trucks-redraw-economic.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870879907270894338",
-      "title": "百度萝卜快跑与哈萨克斯坦企业签署战略合作协议",
-      "summary": "7月16日,百度旗下无人驾驶出行服务平台萝卜快跑与哈萨克斯坦企业TurlovPrivateHoldingLtd.(TPH)在上海签署战略合作协议,双方将共同探索在哈萨克斯坦引入无人车出行服务。这是中国...",
-      "source": "News_Baidu",
-      "date": "2026-07-16",
-      "url": "http://baijiahao.baidu.com/s?id=1870879907270894338"
+      "id": "https://www.devdiscourse.com/article/technology/3951971-zoox-recalls-self-driving-cars-due-to-emergency-response-challenges",
+      "title": "Zoox Recalls Self-Driving Cars Due to Emergency Response Challenges",
+      "summary": "Amazon's self-driving unit Zoox recalls its fleet over concerns about heavy smoke detection. The move follows incidents where autonomous cars interfered with emergency responders, raising safety conce...",
+      "source": "Devdiscourse",
+      "date": "2026-07-17",
+      "url": "https://www.devdiscourse.com/article/technology/3951971-zoox-recalls-self-driving-cars-due-to-emergency-response-challenges"
     },
     {
-      "id": "https://www.cnblogs.com/charlee44/p/21558211",
-      "title": "3D Gaussian Splatting可视化渲染原理详解 - charlee44",
-      "summary": "本文深入剖析了 3D Gaussian Splatting (3DGS) 的图形渲染原理,从三维高斯椭球的数学定义出发,系统阐述了其通过协方差投影、球谐函数着色、Tile-Based 深度排序及 Alpha 混合实现高质量实时渲染的完整技术链路。...",
-      "source": "Cnblogs",
-      "date": "2026-07-16",
-      "url": "https://www.cnblogs.com/charlee44/p/21558211"
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/07/17/zoox-recalls-self-driving-cars-because-they-may-not-detect-smoke",
+      "title": "Zoox recalls self-driving cars because they may not detect smoke",
+      "summary": "WASHINGTON, July 17 (Reuters) - ⁠Amazon.com self-driving car unit Zoox said Friday it will recall its fleet ⁠of 105 autonomous vehicles because they may not detect heavy smoke and ‌could impede emerge...",
+      "source": "The Star",
+      "date": "2026-07-17",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/17/zoox-recalls-self-driving-cars-because-they-may-not-detect-smoke"
     },
     {
-      "id": "https://www.ithome.com/0/977/778.htm",
-      "title": "小鹏海外车型接入谷歌地图导航服务,MONA L03 首发落地",
-      "summary": "IT之家 7 月 16 日消息,小鹏品牌日暨 MONA L03 全球上市发布会正在进行中,小鹏宣布海外车型正式接入 谷歌地图导航服务 ,成为亚太地区首个谷歌地图车载 SDK 合作伙伴,并将在小鹏 MONA L03 首发落地。 IT之家从发布会获悉,小鹏全面升级海外版座舱操作系统 XOS 6,并重构语音交互架构,让车载语音助手拥有更强的自然对话与意图理解能力。除了功能操作和自由聊天, 还能识别用户的...",
-      "source": "Ithome",
-      "date": "2026-07-16",
-      "url": "https://www.ithome.com/0/977/778.htm"
+      "id": "https://www.news-medical.net/news/20260717/BYK-Strengthens-its-portfolio-of-measurement-and-testing-instruments-through-a-strategic-acquisition-in-the-autonomous-driving-market.aspx",
+      "title": "BYK Strengthens its portfolio of measurement and testing instruments through a strategic acquisition in the autonomous driving market",
+      "summary": "BYK-Gardner USA, a subsidiary of the specialty chemicals group ALTANA, is acquiring perisens GmbH....",
+      "source": "News-Medical.net",
+      "date": "2026-07-17",
+      "url": "https://www.news-medical.net/news/20260717/BYK-Strengthens-its-portfolio-of-measurement-and-testing-instruments-through-a-strategic-acquisition-in-the-autonomous-driving-market.aspx"
     },
     {
-      "id": "http://www.pcauto.com.cn/news/5168/51680928.html",
-      "title": "挚达科技全球首发“AI能源+机器人”一体化解决方案",
-      "summary": "挚达科技发布“AI能源+机器人”一体化家庭场景解决方案和“AI能源+机器人”一体化公共场景解决方案。...",
-      "source": "Pcauto_Cn",
+      "id": "https://thenextweb.com/news/xpeng-l03-turing-ai-chip-global-launch",
+      "title": "Xpeng's L03 is the first Chinese EV to put proprietary AI driving chips in a mass-market car",
+      "summary": "Xpeng launched the L03 coupe-SUV across 65 markets with in-house Turing AI chips and a second-generation autonomous driving system on every trim....",
+      "source": "TNW",
       "date": "2026-07-16",
-      "url": "http://www.pcauto.com.cn/news/5168/51680928.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870853766844750079",
-      "title": "智慧环卫上新!无人驾驶点靓城市洁净新图景",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-16",
-      "url": "http://baijiahao.baidu.com/s?id=1870853766844750079"
-    },
-    {
-      "id": "https://www.ithome.com/0/977/797.htm",
-      "title": "美光与高通、哈曼等签署长期合作协议,保障 AI 汽车内存供应",
-      "summary": "IT之家 7 月 16 日消息,美光科技(Micron Technology)周四宣布,已与多家汽车产业链企业签署长期合作协议,其中包括芯片设计公司高通(Qualcomm)以及音频产品制造商哈曼(Harman),以确保支持人工智能汽车运行所需的存储和内存组件供应。 IT之家注意到,这些协议签署之际,整个半导体行业正加速扩大产能,以满足人工智能技术快速普及带来的内存芯片需求增长。 目前,内存芯片被广...",
-      "source": "Ithome",
-      "date": "2026-07-16",
-      "url": "https://www.ithome.com/0/977/797.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/977/784.htm",
-      "title": "小鹏 MONA L03 上市:纯电、增程动力,12.38 万元起",
-      "summary": "IT之家 7 月 16 日消息,小鹏 MONA L03 车型今晚正式上市,分为纯电、增程版本,售价 12.38 万元起。其中,增程版将于 8 月下旬交付。 纯电 550 Plus 版 12.38 万元 650 Plus 版 13.38 万元 525 Max 版 13.48 万元 625 Max 版 14.48 万元 525 Ultra SE 版 14.68 万元 625 Ultra SE 版 15...",
-      "source": "Ithome",
-      "date": "2026-07-16",
-      "url": "https://www.ithome.com/0/977/784.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/977/782.htm",
-      "title": "奇瑞星途 EX6 量产概念车外观亮点公布:776 颗星钻 LED 灯语矩阵、6 枚智驾小蓝灯",
-      "summary": "IT之家 7 月 16 日消息,奇瑞星途汽车官方今日公布了星途 EX6 量产概念车外观亮点,新车主打星纪探索美学, 采用双色悬浮车身设计 ,宣称自带运动时尚气场。 据介绍,星途 EX6 全车有 776 颗星钻 LED 灯语矩阵,灵感来自浩瀚星河,结合高透光学材质可呈现高级动态光影。 新车还配有 6 颗星际领航小蓝灯 ,兼顾智能驾驶辅助安全和通勤仪式感;采用星轨尾灯设计,主打“流光星轨”美学。 星途...",
-      "source": "Ithome",
-      "date": "2026-07-16",
-      "url": "https://www.ithome.com/0/977/782.htm"
+      "url": "https://thenextweb.com/news/xpeng-l03-turing-ai-chip-global-launch"
     },
     {
       "id": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
@@ -198,54 +240,6 @@
       "source": "The Manila Times",
       "date": "2026-07-10",
       "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/beamrs-ml-safe-video-data-technology-now-available-on-the-rtmaps-ai-store/2382387"
-    },
-    {
-      "id": "https://hothardware.com/news/nhtsa-slams-self-driving-cars-for-blocking-fire-trucks-and-ambulances",
-      "title": "NHTSA Slams Self-Driving Cars For Blocking Fire Trucks And Ambulances",
-      "summary": "A federal safety crackdown is forcing autonomous vehicle developers to deal with the ongoing problem of their driverless cars physically impeding emergency services and putting lives at risk....",
-      "source": "Hot Hardware",
-      "date": "2026-07-09",
-      "url": "https://hothardware.com/news/nhtsa-slams-self-driving-cars-for-blocking-fire-trucks-and-ambulances"
-    },
-    {
-      "id": "https://thenextweb.com/news/nhtsa-autonomous-vehicles-first-responders-interference",
-      "title": "NHTSA demands autonomous vehicle companies fix first responder interference by end of July",
-      "summary": "NHTSA says driverless vehicles are driving into emergency scenes and blocking ambulances. It has demanded AV developers present solutions by end of the month....",
-      "source": "TNW",
-      "date": "2026-07-08",
-      "url": "https://thenextweb.com/news/nhtsa-autonomous-vehicles-first-responders-interference"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/greenland-is-being-swarmed-by-autonomous-drones-and-underwater-robots-as-scientists-race-to-answer-one-question-how-close-is-earth-to-a-climate-tipping-point/articleshow/132258395.cms",
-      "title": "Greenland is being swarmed by autonomous drones and underwater robots as scientists race to answer one question: How close is Earth to a climate tipping point?",
-      "summary": "Science News: Self-driving drones, robotic boats, and underwater vessels will be sent to Greenland to find the answer to one of the most important questions in the ....",
-      "source": "Times of India",
-      "date": "2026-07-08",
-      "url": "https://timesofindia.indiatimes.com/science/greenland-is-being-swarmed-by-autonomous-drones-and-underwater-robots-as-scientists-race-to-answer-one-question-how-close-is-earth-to-a-climate-tipping-point/articleshow/132258395.cms"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms",
-      "title": "Global Market: Momenta Global debuts nearly flat in Hong Kong after $751 million IPO",
-      "summary": "Momenta Global shares debuted on the Hong Kong Stock Exchange with a muted reception. The autonomous-driving software developer raised HK$5.89 billion in its initial public offering. Investor sentimen...",
-      "source": "The Economic Times",
-      "date": "2026-07-08",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms"
-    },
-    {
-      "id": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh",
-      "title": "Minister Lokesh invites Korean firms to expand investments in Andhra Pradesh",
-      "summary": "The minister also sought Hyundai Mobis’ support for research in autonomous driving, Advanced Driver Assistance Systems (ADAS) and smart manufacturing through th...",
-      "source": "The New Indian Express",
-      "date": "2026-07-08",
-      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/08/minister-lokesh-invites-korean-firms-to-expand-investments-in-andhra-pradesh"
-    },
-    {
-      "id": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html",
-      "title": "Chinese autonomous-driving firm Momenta rises 3% in Hong Kong debut",
-      "summary": "Chinese autonomous driving firm Momenta debuted on the Hong Kong stock exchange on Wednesday, rising 3%....",
-      "source": "CNBC",
-      "date": "2026-07-08",
-      "url": "https://www.cnbc.com/2026/07/08/chinese-autonomous-driving-firm-momenta-rises-3percent-in-hong-kong-debut-.html"
     }
   ]
 }
