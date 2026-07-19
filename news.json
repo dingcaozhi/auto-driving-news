@@ -1,173 +1,193 @@
 {
-  "lastUpdated": "2026-07-18 03:13:06",
-  "totalCount": 28,
+  "lastUpdated": "2026-07-19 03:33:39",
+  "totalCount": 27,
   "sources": {
-    "News_Baidu": 14,
+    "Bilibili": 5,
     "Zaobao": 1,
-    "Businesswire": 1,
-    "Bjnews": 2,
-    "Investing_Cn": 1,
+    "News_Baidu": 7,
+    "Ithome": 1,
+    "Chinanews": 1,
+    "Bjnews": 1,
+    "Woshipm": 1,
+    "Cri_Cn": 1,
+    "The Manila Times": 1,
+    "The Independent": 1,
+    "Al Jazeera": 1,
     "Phys.org": 1,
     "Devdiscourse": 1,
-    "The Star": 2,
+    "The Star": 1,
     "News-Medical.net": 1,
     "TNW": 1,
-    "WIRED": 1,
-    "Barchart": 1,
-    "The Manila Times": 1
+    "WIRED": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870965818210673798",
-      "title": "顺丰开了个“智慧物流夏令营”,30个小学生当了一天..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870965818210673798"
+      "id": "https://www.bilibili.com/video/BV1kzNf6EEw7",
+      "title": "【B站】自动驾驶，你害得我差点车毁人亡，进入异世界",
+      "summary": "自动驾驶怎么这么难用...",
+      "source": "Bilibili",
+      "date": "2026-07-19",
+      "url": "https://www.bilibili.com/video/BV1kzNf6EEw7"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260717-9381864",
-      "title": "从家居安全系统到自动驾驶船 奖学金得主分享工程探索之路",
-      "summary": "“很多人以为工程师就是整天编码。但如今有了人工智能,对我来说,工程是宏观的系统思维:把不同技术整合起来解决一个大问题......这个奖学金既是对我过往努力的肯定,也给我提供了一个能与志同道合的同辈和导师建立社群网络的平台。”...",
+      "id": "https://www.bilibili.com/video/BV1zD786aE4p",
+      "title": "【B站】没有驾驶室的自动驾驶卡车即将实现量产",
+      "summary": "你敢信吗？25万就能买一辆自动驾驶卡车，比很多SUV都便宜。这个被称为运输机器人的自动驾驶卡车，没有驾驶室，支持20至40尺多规格货箱灵活切换，配备了ETX激光雷达、补盲雷达FTX和宁德时代的换电系统，可在5分钟左右极速换电，能实现7×24小时不间断运营。面对突发状况、多车协同调动能快速生成最优决策...",
+      "source": "Bilibili",
+      "date": "2026-07-19",
+      "url": "https://www.bilibili.com/video/BV1zD786aE4p"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1UJM36qE1k",
+      "title": "【B站】港股史上最大自动驾驶or物理AI IPO？揭开了它赚钱的商业机密...",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-07-19",
+      "url": "https://www.bilibili.com/video/BV1UJM36qE1k"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RtKE6tEMT",
+      "title": "【B站】大摩闭门会：Robotaxi及万亿美元交通入口；自动驾驶对车险的影响 260717全网最快（推荐程度：5星选看）",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-07-19",
+      "url": "https://www.bilibili.com/video/BV1RtKE6tEMT"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-07-19",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
+      "title": "安华正式推出AI分身 PMX AI随时随地聆听民意",
+      "summary": "马来西亚首相安华正式推出名为PMX AI的人工智能分身,并邀请人民尤其是年轻人,通过这个虚拟分身与他交流,以确保国家发展真正符合民意。...",
       "source": "Zaobao",
-      "date": "2026-07-17",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260717-9381864"
+      "date": "2026-07-18",
+      "url": "https://www.zaobao.com.sg/news/sea/story20260718-9385263"
     },
     {
-      "id": "http://www.businesswire.com/news/home/20260713994907/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-WepL6sRhX6ZA9uIKkLyMC2Ka1ah7uC6RdZY8DBvigxR7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LO4aHursdTgjq-KNSSWsKUa97ZTKjNldK1STeKrUjqbvg%3D%3D",
-      "title": "Marti与Tensor合作在土耳其部署自动驾驶汽车",
-      "summary": "伊斯坦布尔--(BUSINESS WIRE)--(美国商业资讯)-- 土耳其领先的出行超级应用公司Marti Technologies, Inc.(以下简称“Marti”或“该公司”)(NYSE American:MRT)与个人自动驾驶汽车领域的先锋企业Tensor,今日宣布建立为期多年的战略合作伙伴关系,旨在采购并部署Tensor的自动驾驶汽车(“AV”),将其引入Marti在土耳其各地城市的出...",
-      "source": "Businesswire",
-      "date": "2026-07-17",
-      "url": "http://www.businesswire.com/news/home/20260713994907/zh-CN/?feedref=JjAwJuNHiystnCoBq_hl-WepL6sRhX6ZA9uIKkLyMC2Ka1ah7uC6RdZY8DBvigxR7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LO4aHursdTgjq-KNSSWsKUa97ZTKjNldK1STeKrUjqbvg%3D%3D"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870972644101336749",
-      "title": "它石智航创始人陈亦伦:具身操作至少需要1000万小..",
+      "id": "http://baijiahao.baidu.com/s?id=1871061133391148607",
+      "title": "从AI思考到智能体行动 产业智能体互联网重塑产业组..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870972644101336749"
+      "date": "2026-07-18",
+      "url": "http://baijiahao.baidu.com/s?id=1871061133391148607"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870970882637476502",
-      "title": "晚高峰一孕妇突发羊水破裂,原本40分钟路程,成都交..",
+      "id": "http://baijiahao.baidu.com/s?id=1871049492954597871",
+      "title": "焦点访谈|“三地四馆”联动 一站式走遍中国最完整A..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870970882637476502"
+      "date": "2026-07-18",
+      "url": "http://baijiahao.baidu.com/s?id=1871049492954597871"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870971510620515369",
-      "title": "“爹爹,别睡!”武汉交警桥面守护身体不适老人,全程..",
+      "id": "http://baijiahao.baidu.com/s?id=1871061039424338449",
+      "title": "人歇岗不歇、科技赋能,上海公安交警保障WAIC展馆..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870971510620515369"
+      "date": "2026-07-18",
+      "url": "http://baijiahao.baidu.com/s?id=1871061039424338449"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870958456200791274",
-      "title": "滴滴举办近百场夏季司机清凉专属活动 多举措守护车内..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870958456200791274"
+      "id": "https://www.ithome.com/0/978/587.htm",
+      "title": "蔚来官宣 NIO Day 2026 将在武汉举行,有望首发最新产品、技术",
+      "summary": "IT之家 7 月 18 日消息,今晚,蔚来官宣 NIO Day 2026 城市申办投票结果出炉,武汉以 178,854,028 票位居三城榜首,成为由蔚来社区用户共同决定的 NIO Day 2026 的举办城市。 IT之家注意到,蔚来 NIO Day 今年的申办城市包括:长春、重庆、哈尔滨、济南、南京、青岛、武汉、厦门。最终, 哈尔滨、武汉、厦门 入围最后投票阶段。 目前,蔚来官方暂未公布 NIO...",
+      "source": "Ithome",
+      "date": "2026-07-18",
+      "url": "https://www.ithome.com/0/978/587.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870929333956011142",
-      "title": "地表近50°C!新疆克拉玛依高速交警战高温守防线",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870929333956011142"
+      "id": "https://www.chinanews.com.cn/cj/2026/07-18/10662231.shtml",
+      "title": "台企组团参展世界人工智能大会:这里有投资、有技术、有合作",
+      "summary": "中新社上海7月18日电 (记者 缪璐)台湾若美科技股份有限公司品牌长林斯涵第一次来参加世界人工智能大会。此前,他就听参加过上一届的朋友说:“这个大会科技含量高、合作意向高、投资意愿高。”三个“高”,让他对这趟上海之行充满期待。...",
+      "source": "Chinanews",
+      "date": "2026-07-18",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-18/10662231.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870957908680739815",
-      "title": "警民同心筑防线 微尘公益捐赠物资助力农村道路交通安..",
-      "summary": "青岛微尘公益基金会向黄岛区交管大队捐赠交通安全防护物资。(来源:青岛交警)信网7月17日讯 为补齐农村地区道路交通安全防护短板,凝聚警民共治、公益助力交通治理合力,7月16日上午,青岛市微尘公益基金会...",
-      "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870957908680739815"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870961370137504383",
-      "title": "新能源船舶真实运营“开课” 上海交大学子登上“国峡..",
-      "summary": "7月16日,上海交通大学船舶海洋与建筑工程学院“知行”社会实践团走进大治河宣桥水上服务区,登上上海市首艘投入常态化运营的集散两用纯电动智能船舶“国峡001号”开展调研。实践团围绕新能源船舶产业政策、技...",
-      "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870961370137504383"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870965787145494933",
-      "title": "暑运路上,藏着他们的“N种守护”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870965787145494933"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784280932129339.html",
-      "title": "北京给食品广告立规矩:不得宣扬暴饮暴食,宣称“特供”“专供”",
+      "id": "https://www.bjnews.com.cn/detail/1784380167129020.html",
+      "title": "大空间,长续航,星海V9兼顾家庭全场景",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-17",
-      "url": "https://www.bjnews.com.cn/detail/1784280932129339.html"
+      "date": "2026-07-18",
+      "url": "https://www.bjnews.com.cn/detail/1784380167129020.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1784295158168357.html",
-      "title": "摈弃铺量模式、砍掉低效车型,长安汽车在算怎么样的战略账?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-17",
-      "url": "https://www.bjnews.com.cn/detail/1784295158168357.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1870879783396004609",
-      "title": "合肥高架限速牌一拆而红,有些城市却慢慢倒回去了?",
+      "id": "http://baijiahao.baidu.com/s?id=1871048104167183812",
+      "title": "山东8家省属事业单位招聘,济南有岗",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870879783396004609"
+      "date": "2026-07-18",
+      "url": "http://baijiahao.baidu.com/s?id=1871048104167183812"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870968930537555258",
-      "title": "2026世界人工智能大会开幕",
+      "id": "http://baijiahao.baidu.com/s?id=1871054841213190555",
+      "title": "具身智能站上大会C位:以高质量数据为基,让机器人真..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870968930537555258"
+      "date": "2026-07-18",
+      "url": "http://baijiahao.baidu.com/s?id=1871054841213190555"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870970537517940916",
-      "title": "九识智能实现全球首个L4级无图规模化量产,无人驾驶..",
+      "id": "http://baijiahao.baidu.com/s?id=1871046330443906877",
+      "title": "文远知行入选2026世界人工智能大会十大案例",
+      "summary": "7月17日,2026世界人工智能大会暨人工智能全球治理高级别会议在上海开幕。主论坛上,国家发展改革委会同有关部门发布《中国智·惠世界(2026)》案例集。文远知行自动驾驶出海阿联酋项目入选十大人工智能...",
+      "source": "News_Baidu",
+      "date": "2026-07-18",
+      "url": "http://baijiahao.baidu.com/s?id=1871046330443906877"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871054347370564294",
+      "title": "LV告完,TIFFANY告!律师释疑",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870970537517940916"
+      "date": "2026-07-18",
+      "url": "http://baijiahao.baidu.com/s?id=1871054347370564294"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870968941345754655",
-      "title": "凤溪“城中村”改造项目改名~",
-      "summary": "青浦华新凤溪的居民们,一份关乎未来十年生活品质的“剧透”来了!日前,中交城市产业联盟高质量发展大会在青浦举行,凤溪“城中村”改造项目正式官宣更名——“中交·未来凤溪”。这不仅是一次简单的名称更迭,更标志着上海目前规模最大...",
-      "source": "News_Baidu",
-      "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870968941345754655"
+      "id": "https://www.woshipm.com/share/6431987.html",
+      "title": "劝你不要再做战略规划了:从五年蓝图到意图雷达",
+      "summary": "当用户意图成为市场主导,传统战略的地图逻辑正在破产。科特勒承认权力已转移至用户指尖,德鲁克强调创造顾客的本质,但意图经济下,品牌必须在需求涌现的瞬间精准响应。本文剖析从规划到感知的战略转型,教你装上雷达,扔掉地图。 传统战略体系正在经历一场静默的破产。 不是被竞争对手打败的,是被用户意图的洪流冲垮的。 做战略咨询的,大概最怕客户问一个问题:你的战略建议,和用户的消费行为有什么关系?不是战略不能拆解...",
+      "source": "Woshipm",
+      "date": "2026-07-18",
+      "url": "https://www.woshipm.com/share/6431987.html"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3466740",
-      "title": "工信部:部署开展汽车生产企业及产品有关监督检查等工作",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-17",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3466740"
+      "id": "https://news.cri.cn/20260718/58c0d2b4-84ab-c3b4-ea7a-13beb508ae58.html",
+      "title": "记者手记丨从看风景到看未来——“中国游”的“新引力”-国际在线",
+      "summary": "新华社伦敦7月18日电 记者手记|从看风景到看未来——“中国游”的“新引力” 新华社记者高文成 黄山迎客松、黄梅戏、徽州古村落、文房四宝...&hel...",
+      "source": "Cri_Cn",
+      "date": "2026-07-18",
+      "url": "https://news.cri.cn/20260718/58c0d2b4-84ab-c3b4-ea7a-13beb508ae58.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870953988547287889",
-      "title": "铝韧纱柔 翼展长空 滨州构筑产业新优势",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
+      "id": "https://www.manilatimes.net/2026/07/18/tmt-newswire/globenewswire/weride-named-among-chinas-top-10-ai-case-studies-for-uae-autonomous-driving-deployment-the-only-autonomous-driving-company-recognized/2386865",
+      "title": "WeRide Named Among China's Top 10 AI Case Studies for UAE Autonomous Driving Deployment, the Only Autonomous Driving Company Recognized",
+      "summary": "SHANGHAI, July 17, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD; HKEX: 0800), a global leader in autonomous driving technology, today announced that its autonomous driving deployment in the United Ara...",
+      "source": "The Manila Times",
+      "date": "2026-07-18",
+      "url": "https://www.manilatimes.net/2026/07/18/tmt-newswire/globenewswire/weride-named-among-chinas-top-10-ai-case-studies-for-uae-autonomous-driving-deployment-the-only-autonomous-driving-company-recognized/2386865"
+    },
+    {
+      "id": "https://www.independent.co.uk/news/world/americas/san-francisco-mayor-waymo-regulations-b3017033.html",
+      "title": "San Francisco mayor calls for tighter self-driving cab regulations after Fourth of July chaos",
+      "summary": "‘California’s challenge now is not just whether autonomous vehicles can operate safely under normal conditions, but also whether they can perform reliably during extraordinary ones,’ the mayor noted...",
+      "source": "The Independent",
       "date": "2026-07-17",
-      "url": "http://baijiahao.baidu.com/s?id=1870953988547287889"
+      "url": "https://www.independent.co.uk/news/world/americas/san-francisco-mayor-waymo-regulations-b3017033.html"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues",
+      "title": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
+      "summary": "The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts....",
+      "source": "Al Jazeera",
+      "date": "2026-07-17",
+      "url": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues"
     },
     {
       "id": "https://phys.org/news/2026-07-trucks-redraw-economic.html",
@@ -216,30 +236,6 @@
       "source": "WIRED",
       "date": "2026-07-12",
       "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/"
-    },
-    {
-      "id": "https://www.barchart.com/story/news/3245424/the-u-s-is-considering-removing-steering-wheels-from-cars-tesla-is-the-reason-why",
-      "title": "The U.S. Is Considering Removing Steering Wheels From Cars. Tesla Is the Reason Why.",
-      "summary": "Changes in regulations could help Tesla iterate its technologies faster to develop autonomous driving....",
-      "source": "Barchart",
-      "date": "2026-07-12",
-      "url": "https://www.barchart.com/story/news/3245424/the-u-s-is-considering-removing-steering-wheels-from-cars-tesla-is-the-reason-why"
-    },
-    {
-      "id": "https://www.thestar.com.my/news/nation/2026/07/11/self-driving-crash-whos-liable",
-      "title": "Self-driving crash: Who’s liable?",
-      "summary": "PETALING JAYA: Legal reforms and greater public awareness of liability will be needed before Level 3 autonomous vehicles can hit the road, says a road safety expert....",
-      "source": "The Star",
-      "date": "2026-07-10",
-      "url": "https://www.thestar.com.my/news/nation/2026/07/11/self-driving-crash-whos-liable"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/beamrs-ml-safe-video-data-technology-now-available-on-the-rtmaps-ai-store/2382387",
-      "title": "Beamr's ML-Safe Video Data Technology Now Available on the RTMaps AI Store",
-      "summary": "Beamr partners with Intempora, a dSPACE company, bringing its compression to the RTMaps middleware - the autonomous-driving development platform used by OEMs and Tier 1 suppliers worldwide...",
-      "source": "The Manila Times",
-      "date": "2026-07-10",
-      "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/beamrs-ml-safe-video-data-technology-now-available-on-the-rtmaps-ai-store/2382387"
     }
   ]
 }
