@@ -1,15 +1,14 @@
 {
-  "lastUpdated": "2026-07-19 03:33:39",
-  "totalCount": 27,
+  "lastUpdated": "2026-07-20 03:48:13",
+  "totalCount": 25,
   "sources": {
-    "Bilibili": 5,
-    "Zaobao": 1,
     "News_Baidu": 7,
-    "Ithome": 1,
-    "Chinanews": 1,
-    "Bjnews": 1,
-    "Woshipm": 1,
     "Cri_Cn": 1,
+    "Ithome": 1,
+    "Bjnews": 1,
+    "A199It": 3,
+    "Time Weekly": 1,
+    "Smzdm": 2,
     "The Manila Times": 1,
     "The Independent": 1,
     "Al Jazeera": 1,
@@ -22,148 +21,132 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1kzNf6EEw7",
-      "title": "【B站】自动驾驶，你害得我差点车毁人亡，进入异世界",
-      "summary": "自动驾驶怎么这么难用...",
-      "source": "Bilibili",
-      "date": "2026-07-19",
-      "url": "https://www.bilibili.com/video/BV1kzNf6EEw7"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1zD786aE4p",
-      "title": "【B站】没有驾驶室的自动驾驶卡车即将实现量产",
-      "summary": "你敢信吗？25万就能买一辆自动驾驶卡车，比很多SUV都便宜。这个被称为运输机器人的自动驾驶卡车，没有驾驶室，支持20至40尺多规格货箱灵活切换，配备了ETX激光雷达、补盲雷达FTX和宁德时代的换电系统，可在5分钟左右极速换电，能实现7×24小时不间断运营。面对突发状况、多车协同调动能快速生成最优决策...",
-      "source": "Bilibili",
-      "date": "2026-07-19",
-      "url": "https://www.bilibili.com/video/BV1zD786aE4p"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1UJM36qE1k",
-      "title": "【B站】港股史上最大自动驾驶or物理AI IPO？揭开了它赚钱的商业机密...",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-07-19",
-      "url": "https://www.bilibili.com/video/BV1UJM36qE1k"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RtKE6tEMT",
-      "title": "【B站】大摩闭门会：Robotaxi及万亿美元交通入口；自动驾驶对车险的影响 260717全网最快（推荐程度：5星选看）",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-07-19",
-      "url": "https://www.bilibili.com/video/BV1RtKE6tEMT"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
-      "date": "2026-07-19",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
-      "title": "安华正式推出AI分身 PMX AI随时随地聆听民意",
-      "summary": "马来西亚首相安华正式推出名为PMX AI的人工智能分身,并邀请人民尤其是年轻人,通过这个虚拟分身与他交流,以确保国家发展真正符合民意。...",
-      "source": "Zaobao",
-      "date": "2026-07-18",
-      "url": "https://www.zaobao.com.sg/news/sea/story20260718-9385263"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871061133391148607",
-      "title": "从AI思考到智能体行动 产业智能体互联网重塑产业组..",
+      "id": "http://baijiahao.baidu.com/s?id=1871154497820845251",
+      "title": "直击WAIC|智能体落地加速:进入车辆、手机和真实..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871061133391148607"
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871154497820845251"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871049492954597871",
-      "title": "焦点访谈|“三地四馆”联动 一站式走遍中国最完整A..",
+      "id": "http://baijiahao.baidu.com/s?id=1871150832536304961",
+      "title": "WAIC具身智能落地白热化,但机器人仍在等待“GP..",
+      "summary": "“一年一变样,三年大变样。”这句昔日形容上海城市发展速度的经典名言,如今放在具身智能领域,也格外贴切。三年前,世界人工智能大会如同一扇橱窗,入口处“十八罗汉”的亮相,让国内人形机器人首次走到聚光灯下;...",
+      "source": "News_Baidu",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871150832536304961"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871154845404948873",
+      "title": "智元携全系列产品、多个部署态场景参展WAIC 彭志..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871049492954597871"
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871154845404948873"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871061039424338449",
-      "title": "人歇岗不歇、科技赋能,上海公安交警保障WAIC展馆..",
+      "id": "http://baijiahao.baidu.com/s?id=1871154371633198351",
+      "title": "沿河蓝天救援队:77天全程值守,只为守护少年平安一..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871061039424338449"
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871154371633198351"
     },
     {
-      "id": "https://www.ithome.com/0/978/587.htm",
-      "title": "蔚来官宣 NIO Day 2026 将在武汉举行,有望首发最新产品、技术",
-      "summary": "IT之家 7 月 18 日消息,今晚,蔚来官宣 NIO Day 2026 城市申办投票结果出炉,武汉以 178,854,028 票位居三城榜首,成为由蔚来社区用户共同决定的 NIO Day 2026 的举办城市。 IT之家注意到,蔚来 NIO Day 今年的申办城市包括:长春、重庆、哈尔滨、济南、南京、青岛、武汉、厦门。最终, 哈尔滨、武汉、厦门 入围最后投票阶段。 目前,蔚来官方暂未公布 NIO...",
+      "id": "https://news.cri.cn/20260719/5a06eb6c-1a96-e82a-bb96-f3b34830acff.html",
+      "title": "开局之年看中国丨秦地山河阔 烟火满人间-国际在线",
+      "summary": "盛夏的三秦,是什么光景?是晨光筛过梧桐的闪亮是山风拂过秦岭的悠长是晚霞染透城墙的酣畅是灯火点亮街巷的滚烫夏意正盛三秦万物长笑声、歌声、吆喝声搅动夏日的暑气酿出满城烟火热烈、鲜活、充满生命力西安城墙上,演员与游客近距离互动。西安城墙管委会供图...",
+      "source": "Cri_Cn",
+      "date": "2026-07-19",
+      "url": "https://news.cri.cn/20260719/5a06eb6c-1a96-e82a-bb96-f3b34830acff.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/978/795.htm",
+      "title": "先办牌照再造车,央视曝光非标电动车黑灰产链条",
+      "summary": "IT之家 7 月 19 日消息,据央视新闻今日报道,去年 9 月,电动自行车安全技术新国标正式落地实施。新国标通过防篡改等多重硬件设计,从源头上最大限度限制了车辆违规改装和提速,目的是减少交通意外事故的发生。然而近期,记者接到线索,部分电动自行车专卖店、生产企业依然在暗中违规生产、销售超出国家标准的电动自行车。 报道称,浙江台州是我国电动自行车核心生产基地之一,这里聚集了四十多家制造企业,各种品牌...",
       "source": "Ithome",
-      "date": "2026-07-18",
-      "url": "https://www.ithome.com/0/978/587.htm"
+      "date": "2026-07-19",
+      "url": "https://www.ithome.com/0/978/795.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-18/10662231.shtml",
-      "title": "台企组团参展世界人工智能大会:这里有投资、有技术、有合作",
-      "summary": "中新社上海7月18日电 (记者 缪璐)台湾若美科技股份有限公司品牌长林斯涵第一次来参加世界人工智能大会。此前,他就听参加过上一届的朋友说:“这个大会科技含量高、合作意向高、投资意愿高。”三个“高”,让他对这趟上海之行充满期待。...",
-      "source": "Chinanews",
-      "date": "2026-07-18",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-18/10662231.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784380167129020.html",
-      "title": "大空间,长续航,星海V9兼顾家庭全场景",
+      "id": "https://www.bjnews.com.cn/detail/1784446831129245.html",
+      "title": "央视直击|能量传递!大咖机器人重负载机器马彰显国产具身智能硬实力",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-18",
-      "url": "https://www.bjnews.com.cn/detail/1784380167129020.html"
+      "date": "2026-07-19",
+      "url": "https://www.bjnews.com.cn/detail/1784446831129245.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871048104167183812",
-      "title": "山东8家省属事业单位招聘,济南有岗",
+      "id": "http://www.199it.com/archives/1840697.html",
+      "title": "隐藏式门把手碰撞弹出成功率仅67%",
+      "summary": "工信部发布强制性国家标准《汽车车门把手安全技术要求》,指出纯电控隐藏式门把手在侧面碰撞后弹出成功率仅为67%,远低于传统机械把手。日常使用中,冬季结冰亦常导致门把手无法弹出。新标准要求每扇车门配备独立机械释放装置,自2027年1月1日起,全隐藏式门把手将无法通过新车型认证。外露式和半隐藏式门把手的回归,标志着汽车设计从炫技回归安全底线。...",
+      "source": "A199It",
+      "date": "2026-07-19",
+      "url": "http://www.199it.com/archives/1840697.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871145415773877022",
+      "title": "300+机器人参展 物理AI为何站上WAIC的“C..",
+      "summary": "本届世界人工智能大会上,人们不再仅仅聚焦于AI“会说话”,而是更加关注AI如何“会干活”。物理AI被视作通往通用具身智能的必由之路。展会现场,不少具身智能企业展示了在物理AI领域的探索与实践。让AI理...",
+      "source": "News_Baidu",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871145415773877022"
+    },
+    {
+      "id": "http://www.199it.com/archives/1840704.html",
+      "title": "宝马集团:2026年上半年中国市场销量26.18万辆,同比下降20.4%",
+      "summary": "宝马集团2026年上半年全球销量115.67万辆,同比下滑4.2%;中国市场交付26.18万辆,同比下滑20.4%,首次不再是最大单一市场。宝马在华新能源渗透率仅6.2%,已下调业绩指引,停产旧纯电车型,押注新世代iX3。...",
+      "source": "A199It",
+      "date": "2026-07-19",
+      "url": "http://www.199it.com/archives/1840704.html"
+    },
+    {
+      "id": "https://www.time-weekly.com/post/331136",
+      "title": "对话满帮集团高艺铭:让算法进入货运物流真实交易环节,打造司机与货主的助理智能体|直击WAIC",
+      "summary": "本文来源:时代财经 作者:吴典 林心林 满帮集团AI算法总监高艺铭正在演讲 时代财经摄 7月17日至20日,申城正值酷暑,以“智能伙伴 共创未来”为主题的2026世界人工智能大会火热举行。这是一场关乎人类未来的全球对话,1100余家企业汇聚于此,共同展示科技的力量与温度。 18日,在阿里云·AgenticCloud:智能体时代的基础设施论坛上,满帮集团AI算法总监高艺铭发表题为《物流平台Agent...",
+      "source": "Time Weekly",
+      "date": "2026-07-19",
+      "url": "https://www.time-weekly.com/post/331136"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871139682661412586",
+      "title": "晚间公告|7月19日这些公告有看头",
+      "summary": "【品大事】长鑫科技:中签号共约770.22万个长鑫科技披露首次公开发行股票网上中签结果,中签号码共有7702207个,每个中签号码只能认购500股长鑫科技A股股票。中国神华:6月商品煤产量4270万吨...",
+      "source": "News_Baidu",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871139682661412586"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1870963142446884029",
+      "title": "上海农商银行秉持伙伴式服务,共创“AI+金融”美好..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871048104167183812"
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1870963142446884029"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871054841213190555",
-      "title": "具身智能站上大会C位:以高质量数据为基,让机器人真..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871054841213190555"
+      "id": "https://post.smzdm.com/p/ak8mm5vk/",
+      "title": "35万买六座大SUV,这台三电机选手把技术拉满了",
+      "summary": "30万出头的预算,想买一台六座大SUV,智己LS9 Hyper是这个价位里一个绕不开的选项。理由很简单:三电机矢量四驱、全线控转向、800V超充——这些技术原本只出现在更贵的车型上,现在被下放到35万区间。但选车不能只看堆料,得把这些参数拆成实际的驾驶体......",
+      "source": "Smzdm",
+      "date": "2026-07-19",
+      "url": "https://post.smzdm.com/p/ak8mm5vk/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871046330443906877",
-      "title": "文远知行入选2026世界人工智能大会十大案例",
-      "summary": "7月17日,2026世界人工智能大会暨人工智能全球治理高级别会议在上海开幕。主论坛上,国家发展改革委会同有关部门发布《中国智·惠世界(2026)》案例集。文远知行自动驾驶出海阿联酋项目入选十大人工智能...",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871046330443906877"
+      "id": "http://www.199it.com/archives/1840711.html",
+      "title": "杰兰路:问界M9车主近60%使用华为手机,家庭平均年收入92.1万元",
+      "summary": "杰兰路调研显示,问界M9车主平均年龄36.4岁,家庭平均年收入92.1万元,58.1%使用华为手机。换购用户中59%来自传统豪华品牌,53.2%未对比其他车型。华为智能辅助驾驶是首要下单因素,满意度4.6分,74.2%用户获得情绪价值。...",
+      "source": "A199It",
+      "date": "2026-07-19",
+      "url": "http://www.199it.com/archives/1840711.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871054347370564294",
-      "title": "LV告完,TIFFANY告!律师释疑",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871054347370564294"
-    },
-    {
-      "id": "https://www.woshipm.com/share/6431987.html",
-      "title": "劝你不要再做战略规划了:从五年蓝图到意图雷达",
-      "summary": "当用户意图成为市场主导,传统战略的地图逻辑正在破产。科特勒承认权力已转移至用户指尖,德鲁克强调创造顾客的本质,但意图经济下,品牌必须在需求涌现的瞬间精准响应。本文剖析从规划到感知的战略转型,教你装上雷达,扔掉地图。 传统战略体系正在经历一场静默的破产。 不是被竞争对手打败的,是被用户意图的洪流冲垮的。 做战略咨询的,大概最怕客户问一个问题:你的战略建议,和用户的消费行为有什么关系?不是战略不能拆解...",
-      "source": "Woshipm",
-      "date": "2026-07-18",
-      "url": "https://www.woshipm.com/share/6431987.html"
-    },
-    {
-      "id": "https://news.cri.cn/20260718/58c0d2b4-84ab-c3b4-ea7a-13beb508ae58.html",
-      "title": "记者手记丨从看风景到看未来——“中国游”的“新引力”-国际在线",
-      "summary": "新华社伦敦7月18日电 记者手记|从看风景到看未来——“中国游”的“新引力” 新华社记者高文成 黄山迎客松、黄梅戏、徽州古村落、文房四宝...&hel...",
-      "source": "Cri_Cn",
-      "date": "2026-07-18",
-      "url": "https://news.cri.cn/20260718/58c0d2b4-84ab-c3b4-ea7a-13beb508ae58.html"
+      "id": "https://post.smzdm.com/p/axk00vz3/",
+      "title": "17万买红旗H5还是帕萨特?算清这3笔账不再纠结",
+      "summary": "17万买台国产中型轿车,值不值?这个价已经摸到帕萨特、雅阁的门槛了。红旗H5旗领Pro版落地17万,给出的是2.0T+8AT黄金动力、2920mm超长轴距、骁龙8155芯片加持的智能座舱,还有司南L2级辅助驾驶和一整套越级舒适配置。这个价位,国产给的是“......",
+      "source": "Smzdm",
+      "date": "2026-07-19",
+      "url": "https://post.smzdm.com/p/axk00vz3/"
     },
     {
       "id": "https://www.manilatimes.net/2026/07/18/tmt-newswire/globenewswire/weride-named-among-chinas-top-10-ai-case-studies-for-uae-autonomous-driving-deployment-the-only-autonomous-driving-company-recognized/2386865",
