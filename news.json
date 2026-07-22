@@ -1,23 +1,24 @@
 {
-  "lastUpdated": "2026-07-21 03:27:31",
-  "totalCount": 30,
+  "lastUpdated": "2026-07-22 03:26:15",
+  "totalCount": 31,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 6,
-    "Bjnews": 2,
-    "Chinanews": 5,
     "Fx168News": 1,
-    "Smzdm": 1,
-    "Ithome": 1,
+    "Ithome": 5,
+    "Eeo": 2,
+    "News_Baidu": 6,
+    "Investing_Cn": 1,
+    "Chinanews": 1,
+    "Orientaldaily": 1,
+    "EUROPE SAYS": 1,
+    "The Mercury News": 1,
     "The Manila Times": 1,
     "The Independent": 1,
     "Al Jazeera": 1,
     "Phys.org": 1,
     "Devdiscourse": 1,
     "The Star": 1,
-    "News-Medical.net": 1,
-    "TNW": 1,
-    "WIRED": 1
+    "News-Medical.net": 1
   },
   "news": [
     {
@@ -25,168 +26,192 @@
       "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
       "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1HpKV64E5c",
-      "title": "【B站】【萌新入门】10分钟带你学会空客自动驾驶 模拟飞行新手教程",
-      "summary": "00:00 序言\n00:23 自动驾驶简述\n00:59 自动驾驶的组成部分\n02:35 FCU概览\n03:03 管理与选择(重点)\n04:16 自动驾驶的激活与断开\n04:46 FCU详细使用方法\n10:55 结语...",
+      "id": "https://www.bilibili.com/video/BV1VQKh6bELy",
+      "title": "【B站】开始监控地铁自动驾驶情况",
+      "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-07-21",
-      "url": "https://www.bilibili.com/video/BV1HpKV64E5c"
+      "date": "2026-07-22",
+      "url": "https://www.bilibili.com/video/BV1VQKh6bELy"
     },
     {
       "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
       "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
       "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
       "source": "Bilibili",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1xdKw6NEwZ",
-      "title": "【B站】智能驾驶哪家强？各有什么优缺点？",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1toKB6gEri",
+      "title": "【B站】i人沉浸式体验自动驾驶",
+      "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-07-21",
-      "url": "https://www.bilibili.com/video/BV1xdKw6NEwZ"
+      "date": "2026-07-22",
+      "url": "https://www.bilibili.com/video/BV1toKB6gEri"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1arKp6NE8C",
-      "title": "【B站】自动驾驶到底难在哪？",
-      "summary": "自动驾驶到底难在哪？...",
+      "id": "https://www.bilibili.com/video/BV1zD786aE4p",
+      "title": "【B站】没有驾驶室的自动驾驶卡车即将实现量产",
+      "summary": "你敢信吗？25万就能买一辆自动驾驶卡车，比很多SUV都便宜。这个被称为运输机器人的自动驾驶卡车，没有驾驶室，支持20至40尺多规格货箱灵活切换，配备了ETX激光雷达、补盲雷达FTX和宁德时代的换电系统，可在5分钟左右极速换电，能实现7×24小时不间断运营。面对突发状况、多车协同调动能快速生成最优决策...",
       "source": "Bilibili",
-      "date": "2026-07-21",
-      "url": "https://www.bilibili.com/video/BV1arKp6NE8C"
+      "date": "2026-07-22",
+      "url": "https://www.bilibili.com/video/BV1zD786aE4p"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871226597576906656",
-      "title": "以青春赴江海!上海交大实践团登船调研“国峡001号..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-20",
-      "url": "http://baijiahao.baidu.com/s?id=1871226597576906656"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871226249971669604",
-      "title": "长沙首条智轨列入2026年建设计划",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-20",
-      "url": "http://baijiahao.baidu.com/s?id=1871226249971669604"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784549418129143.html",
-      "title": "探路者“芯”事:一场预喜与跌停的错位",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-20",
-      "url": "https://www.bjnews.com.cn/detail/1784549418129143.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/hr/2026/07-20/10663221.shtml",
-      "title": "书本之外看中国:法国华裔Z世代在广州开启研学夏令营",
-      "summary": "中新网广州7月20日电 (蔡敏婕 刘露璐)“虽然我以前来过中国三次了,但对中华传统文化的认知依旧浅显。我期待这次夏令营能带我们深入地了解中国传统的文化与悠久的历史。”法国华裔青少年牛若依20日在广州表示,接下来会主动学习传统技艺、大胆展示自我,多结识志同道合的伙伴。...",
-      "source": "Chinanews",
-      "date": "2026-07-20",
-      "url": "https://www.chinanews.com.cn/hr/2026/07-20/10663221.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871226564503405308",
-      "title": "广西大瑶山里的“暖警务”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-20",
-      "url": "http://baijiahao.baidu.com/s?id=1871226564503405308"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871223766154831757",
-      "title": "比上清北还要难!杭州4名男生将逐梦蓝天,来自这几所..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-20",
-      "url": "http://baijiahao.baidu.com/s?id=1871223766154831757"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-20/10663205.shtml",
-      "title": "从夯实底座到深化应用 浙江加快推进开源体系建设",
-      "summary": "中新网杭州7月20日电(蓝伊旎)据浙江省经信厅20日消息,经浙江省政府同意,浙江省经信厅等7部门印发的《关于加快推进浙江省开源体系建设的实施意见》(下称《意见》)即日起正式实施。...",
-      "source": "Chinanews",
-      "date": "2026-07-20",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663205.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1060738",
-      "title": "擦亮科创租赁品牌,长江金租助力矿山无人驾驶企业登陆港交所-FX168",
-      "summary": "近日,易控智驾正式登陆港交所,成为“全球矿区无人驾驶第一股”。而企业成长的背后,离不开长江联合金融租赁有限公司(以下简称“长江金租”)的“耐心资本”。2018年,拥有多次互联网创业经历的蓝水生,把目光投向了一个截然不同的赛道——矿山无人驾驶。在他...",
+      "id": "https://www.fx168news.com/article/1061514",
+      "title": "特斯拉(TSLA)股票7月21日盘中上涨3.46%:背后推手曝光-FX168",
+      "summary": "特斯拉 (TSLA) 盘中上涨3.46%, 所属行业汽车与零部件上涨2.69% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.46%;通用汽车 (GM) 上涨 3.96%;Cummins Inc (CMI) 上涨 2.40%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉今日的上涨行情反映出机构信心的重燃以及市场对该公司即将公布的季度财报的预期升温。盘中剧烈的...",
       "source": "Fx168News",
-      "date": "2026-07-20",
-      "url": "https://www.fx168news.com/article/1060738"
+      "date": "2026-07-21",
+      "url": "https://www.fx168news.com/article/1061514"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-20/10663199.shtml",
-      "title": "从“能对话”到“会干活”:2026世界人工智能大会见证AI“伙伴时刻”",
-      "summary": "中新网上海7月20日电 (杨海燕 李佳佳 张亨伟 狄权)7月17日至20日,以“智能伙伴·共创未来”为主题的2026世界人工智能大会(WAIC)在上海举行。总展览面积超过10万平方米,1100多家企业携3000余项展品集结,超300款产品全球首发。记者注意到,与往年行业比拼大模型参数、聚焦技术展示不同,本届大会传递出清晰信号:AI正从“能对话”走向“会干活”,从工具向智能伙伴加速演进。...",
-      "source": "Chinanews",
-      "date": "2026-07-20",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663199.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871239558815103846",
-      "title": "21天八省环游,聊城硬核女孩把88岁奶奶的“远方梦..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-20",
-      "url": "http://baijiahao.baidu.com/s?id=1871239558815103846"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwxrkz2/",
-      "title": "自驾出行,把日常美好都收进汽车后备箱",
-      "summary": "当城市生活总被琐事裹挟,自驾就成了普通人挣脱沉闷最便捷的方式,我的零跑C11陪伴我走过无数趟长途旅途,后备箱收纳、续航补能这些实用经验,慢慢拼凑出独属于我的车轮上的生活。 从前短途出游总发愁行李杂乱,零食、衣物、孩童用品堆在一起,行驶途中容易滑落,后来我......",
-      "source": "Smzdm",
-      "date": "2026-07-20",
-      "url": "https://post.smzdm.com/p/awwxrkz2/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-20/10663187.shtml",
-      "title": "四川宜宾54岁交警田浩处置事故时因公牺牲 36年坚守诠释忠诚担当",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-07-20",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10663187.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-20/10663179.shtml",
-      "title": "2026世界人工智能大会—政务智能创新论坛举行",
-      "summary": "中新网上海7月20日电 (谢梦圆)2026世界人工智能大会—政务智能创新论坛20日在上海举办。论坛以“政务发展新篇 数智驱动创新”为主题,聚焦人工智能与政务场景深度融合,搭建数字政府建设高端交流平台。...",
-      "source": "Chinanews",
-      "date": "2026-07-20",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10663179.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784551404168405.html",
-      "title": "小螺号|汽车行业最大的敌人,不是对手而是低质量竞争",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-20",
-      "url": "https://www.bjnews.com.cn/detail/1784551404168405.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871224991758345564",
-      "title": "11.9万国补厂补双加持 欧航重卡助力河北卡友装备..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-20",
-      "url": "http://baijiahao.baidu.com/s?id=1871224991758345564"
-    },
-    {
-      "id": "https://www.ithome.com/0/979/230.htm",
-      "title": "五羊本田 UQ3 电动摩托车发布:复古圆灯造型、68km 续航,3999 元",
-      "summary": "IT之家 7 月 20 日消息,五羊本田 UQ3 电动摩托车今日发布,采用复古圆灯 + 极简车身线条设计,售价 3999 元。 IT之家从官方介绍获悉,该车采用高亮涂装 + 三层涂装工艺,杜绝橘皮、更抗刮耐晒,提供数码银、牛油果绿、奶咖白、极道黑、珍珠白等多款配色,车身尺寸为 1840*718*1090mm,轴距为 1325mm,配备五羊本田高强度车架、真空续航胎。 该车搭载五羊本田高性能电机, ...",
+      "id": "https://www.ithome.com/0/979/796.htm",
+      "title": "Mobileye 将自 2027 年起为 Stellantis 部分车型提供云增强 ADAS",
+      "summary": "IT之家 7 月 21 日消息,Mobileye 当地时间 21 日宣布, 其云增强型 ADAS (高级驾驶辅助系统) 预计自 2027 年起搭载于 Stellantis 的未来部分新车型 ,率先在美国市场投放。 Stellantis 也成为最新一家加入 Mobileye REM 智能路网技术生态系统的汽车制造商, 全球十大车企中目前已有五家为 REM 提供经匿名化处理的道路特征信息 。该众源智能...",
       "source": "Ithome",
-      "date": "2026-07-20",
-      "url": "https://www.ithome.com/0/979/230.htm"
+      "date": "2026-07-21",
+      "url": "https://www.ithome.com/0/979/796.htm"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0721/968483.shtml",
+      "title": "MONA L03欧洲上市 小鹏拓展物理AI全球版图",
+      "summary": "小鹏这家来自中国的公司,以“PHYSICAL AI FOR ALL”的宣言显露出其野心:不光要在全球销售汽车产品,还要打通物理AI从中国走向全球的通道。...",
+      "source": "Eeo",
+      "date": "2026-07-21",
+      "url": "http://www.eeo.com.cn/2026/0721/968483.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/979/792.htm",
+      "title": "马斯克警告做空 SpaceX 的机构:存活概率极低",
+      "summary": "IT之家 7 月 21 日消息,埃隆 · 马斯克日前在社交平台 X 上发文警告称,长期持有 SpaceX 大量空头头寸的机构,“最终存活下来的概率非常低”。 这番表态正值 SpaceX 上市后股价出现波动之际。在被称为“史上最大 IPO”的上市五周后,SpaceX 股价较市值峰值已回落约 30%。此前,公司市值一度突破 2.6 万亿美元(IT之家注:现汇率约合 17.62 万亿元人民币),短暂超过...",
+      "source": "Ithome",
+      "date": "2026-07-21",
+      "url": "https://www.ithome.com/0/979/792.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/979/786.htm",
+      "title": "财报前夕,特斯拉将 Robotaxi 自动驾驶出租车服务扩展至美国奥兰多和坦帕",
+      "summary": "IT之家 7 月 21 日消息,特斯拉当地时间周二宣布,将 Robotaxi 自动驾驶出租车服务扩展至美国佛罗里达州的奥兰多和坦帕。这家电动汽车制造商正力争证明其能够将自动驾驶出租车业务从最初的投放市场扩大规模。 此次扩张正值特斯拉即将于周三公布第二季度财报前夕。华尔街正密切关注 Robotaxi 业务的进展,因为随着首席执行官埃隆 · 马斯克将公司重心转向人工智能、自动驾驶和人形机器人,Robo...",
+      "source": "Ithome",
+      "date": "2026-07-21",
+      "url": "https://www.ithome.com/0/979/786.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/979/785.htm",
+      "title": "理想汽车回应“新一代 L6 超充是否会伤电池”:正常用车周期内,衰减基本不用操心",
+      "summary": "IT之家 7 月 21 日消息,理想汽车官方今日发布了《答网友问》节目,解答了关于新一代理想 L6 的 5 个高频问题。 目前,新一代理想 L6 的预计交付时间为 6-8 周。该车可以在理想的双枪 5C 桩、4C 桩以及 2C 桩进行补能。峰值充电功率升级至 260 千瓦, 使用双枪 5C 桩或 4C 桩最快可实现 12 分钟电量从 20% 提升至 80% 。 截至目前,理想汽车全国超 4100 ...",
+      "source": "Ithome",
+      "date": "2026-07-21",
+      "url": "https://www.ithome.com/0/979/785.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871333962442147629",
+      "title": "首批搭载华为乾崑智驾ADS 5,北京越野泰钽700..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-21",
+      "url": "http://baijiahao.baidu.com/s?id=1871333962442147629"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871330155081559397",
+      "title": "全球七成份额,被中国机器狗“拿捏”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-21",
+      "url": "http://baijiahao.baidu.com/s?id=1871330155081559397"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871332576961900109",
+      "title": "钢铁独角兽,试装中国芯",
+      "summary": "智元已经与国产算力企业合作了。在近期举办的世界人工智能大会上,这家头部人形机器人企业的高级副总裁王闯对第一财经记者透露上述消息。这不是孤例。它石智航等企业也在将国产算力嵌入机器人。中国机器人企业起步的...",
+      "source": "News_Baidu",
+      "date": "2026-07-21",
+      "url": "http://baijiahao.baidu.com/s?id=1871332576961900109"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871331101321712143",
+      "title": "传承弘扬沂蒙精神先进事迹巡回报告会罗庄专场举行",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-21",
+      "url": "http://baijiahao.baidu.com/s?id=1871331101321712143"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0721/968465.shtml",
+      "title": "“十五五”物流降本路线图:货运枢纽补链强链,培育百家物流龙头",
+      "summary": "21世纪经济报道记者 高江虹 7月21日,国新办举行“开局起步‘十五五’”系列主题新闻发布会,介绍加快建设交通强国、完善现代化综合交通运输体系有关情况。 交通运输部副部长徐成光在会上透露,“十四五”时期,我国完成交通固定资产投资18.8万亿元,这是新中国成立以来投资最多、网络建设最快的五年。“十五五”时期,继续推进跨区域跨流域大通道建设,已经不像过去那样简单的“铺摊子”“上项目”,而是优化空间.....",
+      "source": "Eeo",
+      "date": "2026-07-21",
+      "url": "http://www.eeo.com.cn/2026/0721/968465.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3471311",
+      "title": "特斯拉将无人驾驶出租车服务扩展至奥兰多和坦帕",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-21",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3471311"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871328834295980952",
+      "title": "WAIC2026|对话望石智慧周杰龙:用微观世界模..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-21",
+      "url": "http://baijiahao.baidu.com/s?id=1871328834295980952"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871318924273850340",
+      "title": "无人车开进了山东县城:不光送快递,连干洗店、回收站..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-21",
+      "url": "http://baijiahao.baidu.com/s?id=1871318924273850340"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/07-21/10663860.shtml",
+      "title": "西安集中下架1061辆涉案违规网约车",
+      "summary": "中新网西安7月21日电 (记者 梅镱泷)记者21日从西安市交通运输综合执法支队获悉,全市1061辆涉案违规网约车已于近日完成集中下架、账号封禁等处置,进一步根治网约车行业源头乱象。...",
+      "source": "Chinanews",
+      "date": "2026-07-21",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663860.shtml"
+    },
+    {
+      "id": "https://www.ithome.com/0/979/772.htm",
+      "title": "吉利银河 TT Ultra 开启预售:20.98 万元,首发限量 999 台",
+      "summary": "IT之家 7 月 21 日消息,吉利银河 TT Ultra 今天开启预售,新车定位为纯电中大型车,拥有激光雷达和高阶智驾辅助系统, 预售价 20.98 万元 , 首发限量 999 台 。 据介绍,吉利银河 TT 全系采用 800V 高压平台,Ultra 版拥有专属限定色“特罗姆瑟 · 峡湾蓝”,采用七层立体涂装工艺,独享熏黑银河 Logo、专属熏黑尾标,配备熏黑轮毂、红色运动卡钳罩,前后杠、后视镜...",
+      "source": "Ithome",
+      "date": "2026-07-21",
+      "url": "https://www.ithome.com/0/979/772.htm"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/07/21/834821",
+      "title": "轿车与巴士相撞 青年司机伤重不治",
+      "summary": "(雪邦21日讯) 雪邦双溪比力直落玛莫路今午发生一起严重车祸,一辆宝腾赛佳轿车与雪州精明巴士相撞,导致轿车20多岁华裔司机伤重不治。雪州消拯局行动组助理主任阿斯鲁里扎发文告指出,消拯局行动指挥中心是在今午4时29分接获投报,指上述地点发生一起涉及轿车与巴士的严重交通事故,随即派员赶赴现场救援。他表示,雪邦消拯局共出动6名消拯员,前往距离消拯局约15公里的事发地点,并于下午4时43分赶抵现场。根据现...",
+      "source": "Orientaldaily",
+      "date": "2026-07-21",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/07/21/834821"
+    },
+    {
+      "id": "https://www.europesays.com/3144957/",
+      "title": "Tesla talked up AI. Wall Street wants to know where the money is",
+      "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company to start...",
+      "source": "EUROPE SAYS",
+      "date": "2026-07-21",
+      "url": "https://www.europesays.com/3144957/"
+    },
+    {
+      "id": "https://www.mercurynews.com/2026/07/21/teslas-problem-is-opposite-of-big-tech-not-enough-ai-spending/",
+      "title": "Tesla’s problem is opposite of big tech: Not enough AI spending",
+      "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company to start putting its money where its mouth is....",
+      "source": "The Mercury News",
+      "date": "2026-07-21",
+      "url": "https://www.mercurynews.com/2026/07/21/teslas-problem-is-opposite-of-big-tech-not-enough-ai-spending/"
     },
     {
       "id": "https://www.manilatimes.net/2026/07/18/tmt-newswire/globenewswire/weride-named-among-chinas-top-10-ai-case-studies-for-uae-autonomous-driving-deployment-the-only-autonomous-driving-company-recognized/2386865",
@@ -235,30 +260,6 @@
       "source": "The Star",
       "date": "2026-07-17",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/07/17/zoox-recalls-self-driving-cars-because-they-may-not-detect-smoke"
-    },
-    {
-      "id": "https://www.news-medical.net/news/20260717/BYK-Strengthens-its-portfolio-of-measurement-and-testing-instruments-through-a-strategic-acquisition-in-the-autonomous-driving-market.aspx",
-      "title": "BYK Strengthens its portfolio of measurement and testing instruments through a strategic acquisition in the autonomous driving market",
-      "summary": "BYK-Gardner USA, a subsidiary of the specialty chemicals group ALTANA, is acquiring perisens GmbH....",
-      "source": "News-Medical.net",
-      "date": "2026-07-17",
-      "url": "https://www.news-medical.net/news/20260717/BYK-Strengthens-its-portfolio-of-measurement-and-testing-instruments-through-a-strategic-acquisition-in-the-autonomous-driving-market.aspx"
-    },
-    {
-      "id": "https://thenextweb.com/news/xpeng-l03-turing-ai-chip-global-launch",
-      "title": "Xpeng's L03 is the first Chinese EV to put proprietary AI driving chips in a mass-market car",
-      "summary": "Xpeng launched the L03 coupe-SUV across 65 markets with in-house Turing AI chips and a second-generation autonomous driving system on every trim....",
-      "source": "TNW",
-      "date": "2026-07-16",
-      "url": "https://thenextweb.com/news/xpeng-l03-turing-ai-chip-global-launch"
-    },
-    {
-      "id": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
-      "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
-      "summary": "In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars. The company says it’s fighting monopolies....",
-      "source": "WIRED",
-      "date": "2026-07-12",
-      "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/"
     }
   ]
 }
