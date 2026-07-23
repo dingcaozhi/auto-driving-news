@@ -1,201 +1,176 @@
 {
-  "lastUpdated": "2026-07-22 03:26:15",
-  "totalCount": 31,
+  "lastUpdated": "2026-07-23 03:31:40",
+  "totalCount": 24,
   "sources": {
-    "Bilibili": 5,
-    "Fx168News": 1,
-    "Ithome": 5,
-    "Eeo": 2,
-    "News_Baidu": 6,
-    "Investing_Cn": 1,
+    "Bjnews": 3,
+    "News_Baidu": 7,
+    "News_Seehua": 1,
+    "Hypebeast_Cn": 1,
+    "Prnasia": 1,
     "Chinanews": 1,
-    "Orientaldaily": 1,
+    "The Verge": 1,
+    "The Economic Times": 1,
+    "Benzinga": 1,
+    "CNBC TV18": 1,
+    "scanx.trade": 1,
     "EUROPE SAYS": 1,
     "The Mercury News": 1,
     "The Manila Times": 1,
     "The Independent": 1,
-    "Al Jazeera": 1,
-    "Phys.org": 1,
-    "Devdiscourse": 1,
-    "The Star": 1,
-    "News-Medical.net": 1
+    "Al Jazeera": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1784687692129090.html",
+      "title": "从全家人的默契之选中,读懂奔驰的豪华",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-07-22",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "url": "https://www.bjnews.com.cn/detail/1784687692129090.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1VQKh6bELy",
-      "title": "【B站】开始监控地铁自动驾驶情况",
-      "summary": "-...",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1784718199169041.html",
+      "title": "利用大巴车遮挡监控偷车,一男子被北京海淀警方行政拘留",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-07-22",
-      "url": "https://www.bilibili.com/video/BV1VQKh6bELy"
+      "url": "https://www.bjnews.com.cn/detail/1784718199169041.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
-      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
-      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
-      "source": "Bilibili",
+      "id": "http://baijiahao.baidu.com/s?id=1871206117284865539",
+      "title": "AI协同精准诊疗落地 朱思泉团队依托医学AI智能体..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
       "date": "2026-07-22",
-      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+      "url": "http://baijiahao.baidu.com/s?id=1871206117284865539"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1toKB6gEri",
-      "title": "【B站】i人沉浸式体验自动驾驶",
-      "summary": "-...",
-      "source": "Bilibili",
+      "id": "http://baijiahao.baidu.com/s?id=1871421004974672743",
+      "title": "李尔平院士:为智能时代筑牢“电磁防线”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
       "date": "2026-07-22",
-      "url": "https://www.bilibili.com/video/BV1toKB6gEri"
+      "url": "http://baijiahao.baidu.com/s?id=1871421004974672743"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1zD786aE4p",
-      "title": "【B站】没有驾驶室的自动驾驶卡车即将实现量产",
-      "summary": "你敢信吗？25万就能买一辆自动驾驶卡车，比很多SUV都便宜。这个被称为运输机器人的自动驾驶卡车，没有驾驶室，支持20至40尺多规格货箱灵活切换，配备了ETX激光雷达、补盲雷达FTX和宁德时代的换电系统，可在5分钟左右极速换电，能实现7×24小时不间断运营。面对突发状况、多车协同调动能快速生成最优决策...",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1784703676169032.html",
+      "title": "长鑫科技吹响“集结号”,车企豪掷超3亿元入局“算力心脏”",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-07-22",
-      "url": "https://www.bilibili.com/video/BV1zD786aE4p"
+      "url": "https://www.bjnews.com.cn/detail/1784703676169032.html"
     },
     {
-      "id": "https://www.fx168news.com/article/1061514",
-      "title": "特斯拉(TSLA)股票7月21日盘中上涨3.46%:背后推手曝光-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.46%, 所属行业汽车与零部件上涨2.69% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.46%;通用汽车 (GM) 上涨 3.96%;Cummins Inc (CMI) 上涨 2.40%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉今日的上涨行情反映出机构信心的重燃以及市场对该公司即将公布的季度财报的预期升温。盘中剧烈的...",
-      "source": "Fx168News",
-      "date": "2026-07-21",
-      "url": "https://www.fx168news.com/article/1061514"
-    },
-    {
-      "id": "https://www.ithome.com/0/979/796.htm",
-      "title": "Mobileye 将自 2027 年起为 Stellantis 部分车型提供云增强 ADAS",
-      "summary": "IT之家 7 月 21 日消息,Mobileye 当地时间 21 日宣布, 其云增强型 ADAS (高级驾驶辅助系统) 预计自 2027 年起搭载于 Stellantis 的未来部分新车型 ,率先在美国市场投放。 Stellantis 也成为最新一家加入 Mobileye REM 智能路网技术生态系统的汽车制造商, 全球十大车企中目前已有五家为 REM 提供经匿名化处理的道路特征信息 。该众源智能...",
-      "source": "Ithome",
-      "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/796.htm"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0721/968483.shtml",
-      "title": "MONA L03欧洲上市 小鹏拓展物理AI全球版图",
-      "summary": "小鹏这家来自中国的公司,以“PHYSICAL AI FOR ALL”的宣言显露出其野心:不光要在全球销售汽车产品,还要打通物理AI从中国走向全球的通道。...",
-      "source": "Eeo",
-      "date": "2026-07-21",
-      "url": "http://www.eeo.com.cn/2026/0721/968483.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/0/979/792.htm",
-      "title": "马斯克警告做空 SpaceX 的机构:存活概率极低",
-      "summary": "IT之家 7 月 21 日消息,埃隆 · 马斯克日前在社交平台 X 上发文警告称,长期持有 SpaceX 大量空头头寸的机构,“最终存活下来的概率非常低”。 这番表态正值 SpaceX 上市后股价出现波动之际。在被称为“史上最大 IPO”的上市五周后,SpaceX 股价较市值峰值已回落约 30%。此前,公司市值一度突破 2.6 万亿美元(IT之家注:现汇率约合 17.62 万亿元人民币),短暂超过...",
-      "source": "Ithome",
-      "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/792.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/979/786.htm",
-      "title": "财报前夕,特斯拉将 Robotaxi 自动驾驶出租车服务扩展至美国奥兰多和坦帕",
-      "summary": "IT之家 7 月 21 日消息,特斯拉当地时间周二宣布,将 Robotaxi 自动驾驶出租车服务扩展至美国佛罗里达州的奥兰多和坦帕。这家电动汽车制造商正力争证明其能够将自动驾驶出租车业务从最初的投放市场扩大规模。 此次扩张正值特斯拉即将于周三公布第二季度财报前夕。华尔街正密切关注 Robotaxi 业务的进展,因为随着首席执行官埃隆 · 马斯克将公司重心转向人工智能、自动驾驶和人形机器人,Robo...",
-      "source": "Ithome",
-      "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/786.htm"
-    },
-    {
-      "id": "https://www.ithome.com/0/979/785.htm",
-      "title": "理想汽车回应“新一代 L6 超充是否会伤电池”:正常用车周期内,衰减基本不用操心",
-      "summary": "IT之家 7 月 21 日消息,理想汽车官方今日发布了《答网友问》节目,解答了关于新一代理想 L6 的 5 个高频问题。 目前,新一代理想 L6 的预计交付时间为 6-8 周。该车可以在理想的双枪 5C 桩、4C 桩以及 2C 桩进行补能。峰值充电功率升级至 260 千瓦, 使用双枪 5C 桩或 4C 桩最快可实现 12 分钟电量从 20% 提升至 80% 。 截至目前,理想汽车全国超 4100 ...",
-      "source": "Ithome",
-      "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/785.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871333962442147629",
-      "title": "首批搭载华为乾崑智驾ADS 5,北京越野泰钽700..",
+      "id": "http://baijiahao.baidu.com/s?id=1871414241083963520",
+      "title": "从大山到江城,跨越600公里的“第一次”——湖北公..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871333962442147629"
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871414241083963520"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871330155081559397",
-      "title": "全球七成份额,被中国机器狗“拿捏”",
+      "id": "https://news.seehua.com/post/1518621",
+      "title": "危险骑摩哆载妻女举车头 无牌骑士被警方逮捕",
+      "summary": "(亚罗士打22日讯)一名男子骑摩哆载著妻子及4岁女儿在公路上危险表演“翘孤轮(举车头)”的17秒影片在社交媒体 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-22",
+      "url": "https://news.seehua.com/post/1518621"
+    },
+    {
+      "id": "https://hypebeast.cn/2026/7/lamborghini-revuelto-impavido-marks-25-years-in-japan",
+      "title": "Lamborghini 推出限量 25 部日本专属 Revuelto Impavido 超级跑车",
+      "summary": "Automobili Lamborghini 发布 Revuelto Impavido,标志着品牌在日本市场迎来重要里程碑。这款专为日本市场打造的纪念版超级跑车,献礼 Lamborghini Japan 成立 25 周年。意大利制造商仅限量生产 25 台,每台均有独立编号。其名称在意大利语中意为「无畏」或「勇敢」,既体现品牌对汽车性能的不懈追求,也直接致意于武士道。这套传承数百年的荣誉准则,以勇气...",
+      "source": "Hypebeast_Cn",
+      "date": "2026-07-22",
+      "url": "https://hypebeast.cn/2026/7/lamborghini-revuelto-impavido-marks-25-years-in-japan"
+    },
+    {
+      "id": "https://www.prnasia.com/story/541596-1.shtml",
+      "title": "昂际智航低空航电飞控开放生态联盟启新程",
+      "summary": "上海 2026年7月22日 /美通社/ -- 7月22日,2026上海国际低空经济博览会于国家会展中心拉开帷幕。 昂际智航携 \"珑驭 ® \"航电及飞控解决方案 亮相4.1馆A250展位,首日便迎来超高人气,众多整机厂商、产业链伙伴及行业专家纷纷驻足交流。 低空航电飞控开放生态联盟正式启动 当日下午,昂际智航低空航电飞控开放生态联盟启动仪式在展台举行。昂际智航CEO刘鹰霄指出,低空经济的健康发展离不...",
+      "source": "Prnasia",
+      "date": "2026-07-22",
+      "url": "https://www.prnasia.com/story/541596-1.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871417168216690625",
+      "title": "萌趣“宝宝巴士”驶进老城街巷 便民出行更舒心",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871330155081559397"
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871417168216690625"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871332576961900109",
-      "title": "钢铁独角兽,试装中国芯",
-      "summary": "智元已经与国产算力企业合作了。在近期举办的世界人工智能大会上,这家头部人形机器人企业的高级副总裁王闯对第一财经记者透露上述消息。这不是孤例。它石智航等企业也在将国产算力嵌入机器人。中国机器人企业起步的...",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871332576961900109"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871331101321712143",
-      "title": "传承弘扬沂蒙精神先进事迹巡回报告会罗庄专场举行",
+      "id": "https://www.chinanews.com.cn/sh/2026/07-22/10664596.shtml",
+      "title": "(长江十年行)从“一把捞网”到“机械赋能” 重庆126公里水域的清漂之变",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871331101321712143"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0721/968465.shtml",
-      "title": "“十五五”物流降本路线图:货运枢纽补链强链,培育百家物流龙头",
-      "summary": "21世纪经济报道记者 高江虹 7月21日,国新办举行“开局起步‘十五五’”系列主题新闻发布会,介绍加快建设交通强国、完善现代化综合交通运输体系有关情况。 交通运输部副部长徐成光在会上透露,“十四五”时期,我国完成交通固定资产投资18.8万亿元,这是新中国成立以来投资最多、网络建设最快的五年。“十五五”时期,继续推进跨区域跨流域大通道建设,已经不像过去那样简单的“铺摊子”“上项目”,而是优化空间.....",
-      "source": "Eeo",
-      "date": "2026-07-21",
-      "url": "http://www.eeo.com.cn/2026/0721/968465.shtml"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3471311",
-      "title": "特斯拉将无人驾驶出租车服务扩展至奥兰多和坦帕",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-21",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3471311"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871328834295980952",
-      "title": "WAIC2026|对话望石智慧周杰龙:用微观世界模..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871328834295980952"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871318924273850340",
-      "title": "无人车开进了山东县城:不光送快递,连干洗店、回收站..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871318924273850340"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-21/10663860.shtml",
-      "title": "西安集中下架1061辆涉案违规网约车",
-      "summary": "中新网西安7月21日电 (记者 梅镱泷)记者21日从西安市交通运输综合执法支队获悉,全市1061辆涉案违规网约车已于近日完成集中下架、账号封禁等处置,进一步根治网约车行业源头乱象。...",
       "source": "Chinanews",
-      "date": "2026-07-21",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-21/10663860.shtml"
+      "date": "2026-07-22",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-22/10664596.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/979/772.htm",
-      "title": "吉利银河 TT Ultra 开启预售:20.98 万元,首发限量 999 台",
-      "summary": "IT之家 7 月 21 日消息,吉利银河 TT Ultra 今天开启预售,新车定位为纯电中大型车,拥有激光雷达和高阶智驾辅助系统, 预售价 20.98 万元 , 首发限量 999 台 。 据介绍,吉利银河 TT 全系采用 800V 高压平台,Ultra 版拥有专属限定色“特罗姆瑟 · 峡湾蓝”,采用七层立体涂装工艺,独享熏黑银河 Logo、专属熏黑尾标,配备熏黑轮毂、红色运动卡钳罩,前后杠、后视镜...",
-      "source": "Ithome",
-      "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/772.htm"
+      "id": "http://baijiahao.baidu.com/s?id=1871420848482112773",
+      "title": "WAIC大咖说|太空算力走向何方?专访东方天算CE..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871420848482112773"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/07/21/834821",
-      "title": "轿车与巴士相撞 青年司机伤重不治",
-      "summary": "(雪邦21日讯) 雪邦双溪比力直落玛莫路今午发生一起严重车祸,一辆宝腾赛佳轿车与雪州精明巴士相撞,导致轿车20多岁华裔司机伤重不治。雪州消拯局行动组助理主任阿斯鲁里扎发文告指出,消拯局行动指挥中心是在今午4时29分接获投报,指上述地点发生一起涉及轿车与巴士的严重交通事故,随即派员赶赴现场救援。他表示,雪邦消拯局共出动6名消拯员,前往距离消拯局约15公里的事发地点,并于下午4时43分赶抵现场。根据现...",
-      "source": "Orientaldaily",
+      "id": "http://baijiahao.baidu.com/s?id=1871406662230502913",
+      "title": "一艘“济宁造”绿舟驶向越南",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871406662230502913"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871410151794908834",
+      "title": "中国工程院院士李骏:自动驾驶要保证全生命周期持续安..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871410151794908834"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/969237/nhtsa-wants-to-know-why-tesla-got-rid-of-its-radar",
+      "title": "NHTSA wants to know why Tesla got rid of its radar.",
+      "summary": "Props to Fred Lambert at Electrek for catching this: the National Highway Traffic Safety Administration is requesting from Tesla all information about a document called “Radar Saves Us” in its investi...",
+      "source": "The Verge",
+      "date": "2026-07-22",
+      "url": "https://www.theverge.com/transportation/969237/nhtsa-wants-to-know-why-tesla-got-rid-of-its-radar"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-firms-raise-over-27-billion-in-hong-kong-to-fuel-ai-chip-expansion/articleshow/132554758.cms",
+      "title": "Global Market: Chinese tech firms raise over $27 billion in Hong Kong to fuel AI, chip expansion",
+      "summary": "Chinese technology firms are actively raising substantial funds in Hong Kong. These companies are financing growth in artificial intelligence and semiconductor sectors. Advanced manufacturing and auto...",
+      "source": "The Economic Times",
+      "date": "2026-07-22",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-firms-raise-over-27-billion-in-hong-kong-to-fuel-ai-chip-expansion/articleshow/132554758.cms"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/earnings/26/07/60599635/gm-ceo-mary-barra-says-chinas-price-war-isnt-sustainable-backs-companys-autonomous-driving-efforts-amid-nearly-11-billion-in-ev-charges",
+      "title": "GM CEO Mary Barra Says China's Price War Isn't 'Sustainable,' Backs Company's Autonomous Driving Efforts",
+      "summary": "GM CEO Mary Barra says China's EV price war is unsustainable; believes autonomy will provide pricing power....",
+      "source": "Benzinga",
+      "date": "2026-07-22",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60599635/gm-ceo-mary-barra-says-chinas-price-war-isnt-sustainable-backs-companys-autonomous-driving-efforts-amid-nearly-11-billion-in-ev-charges"
+    },
+    {
+      "id": "https://www.cnbctv18.com/market/earnings/gabriel-india-q1-net-profit-rises-2-pc-acquires-30-pc-stake-in-hl-klemove-india-19950846.htm",
+      "title": "Gabriel India Q1 profit inches up 2%; to buy stake in Korean auto tech firm for ₹948 crore",
+      "summary": "Gabriel India reported a modest 2% rise in June-quarter profit as revenue grew in double digits. Separately, the company announced a ₹948-crore investment to acquire a stake in HL Klemove India, marki...",
+      "source": "CNBC TV18",
       "date": "2026-07-21",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/07/21/834821"
+      "url": "https://www.cnbctv18.com/market/earnings/gabriel-india-q1-net-profit-rises-2-pc-acquires-30-pc-stake-in-hl-klemove-india-19950846.htm"
+    },
+    {
+      "id": "https://scanx.trade/stock-market-news/companies/gabriel-india-to-acquire-30-stake-in-hl-klemove-india-for-usd-98-44-million/46194956",
+      "title": "Gabriel India to acquire 30% stake in HL Klemove India for USD 98.44 million",
+      "summary": "Gabriel India Limited approved the acquisition of a 30% stake in HL Klemove India Private Limited for USD 98.44 million on July 21, 2026. The joint venture will focus on autonomous driving and automot...",
+      "source": "scanx.trade",
+      "date": "2026-07-21",
+      "url": "https://scanx.trade/stock-market-news/companies/gabriel-india-to-acquire-30-stake-in-hl-klemove-india-for-usd-98-44-million/46194956"
     },
     {
       "id": "https://www.europesays.com/3144957/",
@@ -236,30 +211,6 @@
       "source": "Al Jazeera",
       "date": "2026-07-17",
       "url": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues"
-    },
-    {
-      "id": "https://phys.org/news/2026-07-trucks-redraw-economic.html",
-      "title": "Self-driving trucks will redraw US economic map",
-      "summary": "Technological advances in autonomous truck technology are poised to have significant economic ripple effects on U.S. interstate commerce, highway infrastructure and labor costs, according to new resea...",
-      "source": "Phys.org",
-      "date": "2026-07-17",
-      "url": "https://phys.org/news/2026-07-trucks-redraw-economic.html"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3951971-zoox-recalls-self-driving-cars-due-to-emergency-response-challenges",
-      "title": "Zoox Recalls Self-Driving Cars Due to Emergency Response Challenges",
-      "summary": "Amazon's self-driving unit Zoox recalls its fleet over concerns about heavy smoke detection. The move follows incidents where autonomous cars interfered with emergency responders, raising safety conce...",
-      "source": "Devdiscourse",
-      "date": "2026-07-17",
-      "url": "https://www.devdiscourse.com/article/technology/3951971-zoox-recalls-self-driving-cars-due-to-emergency-response-challenges"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/07/17/zoox-recalls-self-driving-cars-because-they-may-not-detect-smoke",
-      "title": "Zoox recalls self-driving cars because they may not detect smoke",
-      "summary": "WASHINGTON, July 17 (Reuters) - ⁠Amazon.com self-driving car unit Zoox said Friday it will recall its fleet ⁠of 105 autonomous vehicles because they may not detect heavy smoke and ‌could impede emerge...",
-      "source": "The Star",
-      "date": "2026-07-17",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/17/zoox-recalls-self-driving-cars-because-they-may-not-detect-smoke"
     }
   ]
 }
