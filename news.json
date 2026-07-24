@@ -1,136 +1,218 @@
 {
-  "lastUpdated": "2026-07-23 03:31:40",
-  "totalCount": 24,
+  "lastUpdated": "2026-07-24 03:27:20",
+  "totalCount": 29,
   "sources": {
-    "Bjnews": 3,
-    "News_Baidu": 7,
-    "News_Seehua": 1,
-    "Hypebeast_Cn": 1,
-    "Prnasia": 1,
+    "Ign_Cn": 1,
+    "News_Baidu": 5,
+    "Cri_Cn": 1,
+    "News_Seehua": 3,
+    "Bjnews": 2,
+    "Ithome": 4,
     "Chinanews": 1,
+    "Time Weekly": 1,
+    "Investing_Cn": 1,
+    "MacRumors": 1,
+    "Reuters": 1,
+    "The Star": 1,
+    "CNBC TV18": 2,
+    "Devdiscourse": 1,
     "The Verge": 1,
     "The Economic Times": 1,
     "Benzinga": 1,
-    "CNBC TV18": 1,
-    "scanx.trade": 1,
-    "EUROPE SAYS": 1,
-    "The Mercury News": 1,
-    "The Manila Times": 1,
-    "The Independent": 1,
-    "Al Jazeera": 1
+    "scanx.trade": 1
   },
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1784687692129090.html",
-      "title": "从全家人的默契之选中,读懂奔驰的豪华",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-22",
-      "url": "https://www.bjnews.com.cn/detail/1784687692129090.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784718199169041.html",
-      "title": "利用大巴车遮挡监控偷车,一男子被北京海淀警方行政拘留",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-22",
-      "url": "https://www.bjnews.com.cn/detail/1784718199169041.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871206117284865539",
-      "title": "AI协同精准诊疗落地 朱思泉团队依托医学AI智能体..",
+      "id": "https://www.ign.com.cn/halo-campaign-evolved/61484/guang-huan-zhan-yi-jin-hua-you-xi-ping-ce-ign-zhong-guo",
+      "title": "《光环:战役进化》游戏评测|IGN 中国",
       "summary": "NewsData报道",
+      "source": "Ign_Cn",
+      "date": "2026-07-23",
+      "url": "https://www.ign.com.cn/halo-campaign-evolved/61484/guang-huan-zhan-yi-jin-hua-you-xi-ping-ce-ign-zhong-guo"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871501418025411847",
+      "title": "让出行更阳光!绘就城市温暖底色,无障碍出行公益体验..",
+      "summary": "7月23日,“享道暖心助行”无障碍出行公益体验活动在上海举办,八位享道出行品质专车司机通过报名、选拔、培训成为此次活动的志愿者,自愿暂停营运,为八位特殊客人提供出行服务,接上他们奔赴同一个目的地——浦...",
       "source": "News_Baidu",
-      "date": "2026-07-22",
-      "url": "http://baijiahao.baidu.com/s?id=1871206117284865539"
+      "date": "2026-07-23",
+      "url": "http://baijiahao.baidu.com/s?id=1871501418025411847"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871421004974672743",
-      "title": "李尔平院士:为智能时代筑牢“电磁防线”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-22",
-      "url": "http://baijiahao.baidu.com/s?id=1871421004974672743"
+      "id": "https://news.cri.cn/20260723/6a608437-073b-46d3-a8f6-6982de8063a1.html",
+      "title": "赛车运动“跑”出消费新活力-国际在线",
+      "summary": "日渐火热的赛车运动,正成为激活“消费脉动”的新引擎。近日出炉的《扩大消费“十五五”规划》提出,拓展汽车赛事等汽车后市场消费。业内预计,到2029年,中国汽摩运动产业总规模有望达到5000亿元。 “小众爱好”变成“大众选择” 今年3月...",
+      "source": "Cri_Cn",
+      "date": "2026-07-23",
+      "url": "https://news.cri.cn/20260723/6a608437-073b-46d3-a8f6-6982de8063a1.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1784703676169032.html",
-      "title": "长鑫科技吹响“集结号”,车企豪掷超3亿元入局“算力心脏”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-22",
-      "url": "https://www.bjnews.com.cn/detail/1784703676169032.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871414241083963520",
-      "title": "从大山到江城,跨越600公里的“第一次”——湖北公..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-22",
-      "url": "http://baijiahao.baidu.com/s?id=1871414241083963520"
-    },
-    {
-      "id": "https://news.seehua.com/post/1518621",
-      "title": "危险骑摩哆载妻女举车头 无牌骑士被警方逮捕",
-      "summary": "(亚罗士打22日讯)一名男子骑摩哆载著妻子及4岁女儿在公路上危险表演“翘孤轮(举车头)”的17秒影片在社交媒体 [...]...",
+      "id": "https://news.seehua.com/post/1519231",
+      "title": "警瓦解偷窃党捕7人追缉8同党 涉案遍及吉玻槟",
+      "summary": "(亚罗士打23日讯)吉打州警方瓦解一个活跃于吉打及邻近州属的本地偷窃集团“菲特里党”(Geng Fitri), [...]...",
       "source": "News_Seehua",
-      "date": "2026-07-22",
-      "url": "https://news.seehua.com/post/1518621"
+      "date": "2026-07-23",
+      "url": "https://news.seehua.com/post/1519231"
     },
     {
-      "id": "https://hypebeast.cn/2026/7/lamborghini-revuelto-impavido-marks-25-years-in-japan",
-      "title": "Lamborghini 推出限量 25 部日本专属 Revuelto Impavido 超级跑车",
-      "summary": "Automobili Lamborghini 发布 Revuelto Impavido,标志着品牌在日本市场迎来重要里程碑。这款专为日本市场打造的纪念版超级跑车,献礼 Lamborghini Japan 成立 25 周年。意大利制造商仅限量生产 25 台,每台均有独立编号。其名称在意大利语中意为「无畏」或「勇敢」,既体现品牌对汽车性能的不懈追求,也直接致意于武士道。这套传承数百年的荣誉准则,以勇气...",
-      "source": "Hypebeast_Cn",
-      "date": "2026-07-22",
-      "url": "https://hypebeast.cn/2026/7/lamborghini-revuelto-impavido-marks-25-years-in-japan"
+      "id": "https://www.bjnews.com.cn/detail/1784803869129206.html",
+      "title": "新闻8点见丨机器人在北京公园“上岗”;食品标签“低GI”调查",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-23",
+      "url": "https://www.bjnews.com.cn/detail/1784803869129206.html"
     },
     {
-      "id": "https://www.prnasia.com/story/541596-1.shtml",
-      "title": "昂际智航低空航电飞控开放生态联盟启新程",
-      "summary": "上海 2026年7月22日 /美通社/ -- 7月22日,2026上海国际低空经济博览会于国家会展中心拉开帷幕。 昂际智航携 \"珑驭 ® \"航电及飞控解决方案 亮相4.1馆A250展位,首日便迎来超高人气,众多整机厂商、产业链伙伴及行业专家纷纷驻足交流。 低空航电飞控开放生态联盟正式启动 当日下午,昂际智航低空航电飞控开放生态联盟启动仪式在展台举行。昂际智航CEO刘鹰霄指出,低空经济的健康发展离不...",
-      "source": "Prnasia",
-      "date": "2026-07-22",
-      "url": "https://www.prnasia.com/story/541596-1.shtml"
+      "id": "https://www.ithome.com/0/980/805.htm",
+      "title": "Mobileye 2026 财年第二财季归母亏损 0.21 亿美元,同比亏损收窄 68.66%",
+      "summary": "IT之家 7 月 23 日消息,Mobileye 今日发布 2026 财年(2026 年 1 月 3 日~2027 年 1 月 2 日)第二财季(2026 年 3 月 29 日~2026 年 6 月 27 日)报告: 营业总收入 : 5.08 亿美元,同比增长 0.40% 毛利 : 2.35 亿美元,同比下降 6.75% 归母净利润 : -0.21 亿美元,同比亏损收窄 68.66% 基本每股收益...",
+      "source": "Ithome",
+      "date": "2026-07-23",
+      "url": "https://www.ithome.com/0/980/805.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871417168216690625",
-      "title": "萌趣“宝宝巴士”驶进老城街巷 便民出行更舒心",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-22",
-      "url": "http://baijiahao.baidu.com/s?id=1871417168216690625"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-22/10664596.shtml",
-      "title": "(长江十年行)从“一把捞网”到“机械赋能” 重庆126公里水域的清漂之变",
+      "id": "https://www.chinanews.com.cn/cj/2026/07-23/10665279.shtml",
+      "title": "极氪回应车主跨境自驾遭“锁车”",
       "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-07-22",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-22/10664596.shtml"
+      "date": "2026-07-23",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-23/10665279.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871420848482112773",
-      "title": "WAIC大咖说|太空算力走向何方?专访东方天算CE..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-22",
-      "url": "http://baijiahao.baidu.com/s?id=1871420848482112773"
+      "id": "https://news.seehua.com/post/1519204",
+      "title": "峇南河賽舟會熱鬧登場 23隊63長舟競逐“峇南河之王”",
+      "summary": "(马鲁帝23日讯)2026年峇南河赛舟会将于今日起至7月26日(星期日)一连4天举行,共有23支队伍、63艘长 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-23",
+      "url": "https://news.seehua.com/post/1519204"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871406662230502913",
-      "title": "一艘“济宁造”绿舟驶向越南",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-22",
-      "url": "http://baijiahao.baidu.com/s?id=1871406662230502913"
+      "id": "https://www.time-weekly.com/post/331302",
+      "title": "不住五星级酒店住房车,这届年轻人用“说走就走”撑起一门大生意",
+      "summary": "本文来源:消费者报道 作者:张德荣 暑期档旅游市场,房车悄然 “ 出圈 ” 。 据央视财经报道,今年以来,全国常规房车租赁均价同比下降 20% 到 30% 左右,多个热门旅游城市的房车租赁订单持续增长。房车世界(北京)科技有限公司负责人王继东称,近期有合作伙伴一次性采购近 1000 辆房车投入租赁市场。以新疆和云南为例,今年以来房车租赁同比增长达 50% 。 在政策端,今年 7 月,国务院批复的《...",
+      "source": "Time Weekly",
+      "date": "2026-07-23",
+      "url": "https://www.time-weekly.com/post/331302"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871410151794908834",
-      "title": "中国工程院院士李骏:自动驾驶要保证全生命周期持续安..",
+      "id": "http://baijiahao.baidu.com/s?id=1871508110767017113",
+      "title": "十余载踏遍山间路 一腔热血守乡土平安",
       "summary": "NewsData报道",
       "source": "News_Baidu",
+      "date": "2026-07-23",
+      "url": "http://baijiahao.baidu.com/s?id=1871508110767017113"
+    },
+    {
+      "id": "https://news.seehua.com/post/1519191",
+      "title": "弄瑟拉东翻船事故 第3失踪者遗体寻获 1仍下落不明",
+      "summary": "(马鲁帝23日讯)日前在峇南河弄瑟拉东地区发生的翻船事故,随着今日上午搜救在马森急流一带寻获第3名失踪者遗体后 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-23",
+      "url": "https://news.seehua.com/post/1519191"
+    },
+    {
+      "id": "https://www.ithome.com/0/980/840.htm",
+      "title": "百度萝卜快跑:部分网络账号将无人驾驶网约车与人员失踪相挂钩,涉嫌误导公众认知,已依法提起诉讼",
+      "summary": "IT之家 7 月 23 日消息,百度萝卜快跑法务部今日发文称,此前,我司曾就部分网络账号传播涉“萝卜快跑”不实信息音频一事发布声明,并依法启动相关法律程序。近日,该事项取得进一步进展。 经核查,网络账号“福原 ***”“浩哥 ***”等传播针对萝卜快跑的相关音频内容,借惊悚化、夸张化叙事吸引流量。相关音频无事实依据地 将无人驾驶网约车与人员失踪相挂钩 ,并以身份背景、国别归属等标签化表述,歪曲萝卜...",
+      "source": "Ithome",
+      "date": "2026-07-23",
+      "url": "https://www.ithome.com/0/980/840.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871505720315999263",
+      "title": "全球首个右舵全无人驾驶落地香港 百度萝卜快跑全球化..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-23",
+      "url": "http://baijiahao.baidu.com/s?id=1871505720315999263"
+    },
+    {
+      "id": "https://www.ithome.com/0/980/843.htm",
+      "title": "小米澎程新车布局示意图发布,雷军透露 N90 转弯半径很小",
+      "summary": "IT之家 7 月 23 日消息,小米创办人、董事长兼 CEO 雷军今日在微博分享了小米澎程新车的布局示意图。从画面可以看到,澎程布局有所优化, 三排座椅的空间相较传统 SUV 更方正、更宽敞 。 不少网友对澎程的轮拱去哪里感到好奇,雷军表示:“ 下了很大功夫,重新设计了技术架构。 ”还有网友询问澎程是否支持后轮转向功能,雷军回复称:“ 小米澎程 N90 转弯半径很小。 ” IT之家注意到,雷军还聊...",
+      "source": "Ithome",
+      "date": "2026-07-23",
+      "url": "https://www.ithome.com/0/980/843.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1784808320129268.html",
+      "title": "极氪回应海外自驾“锁车”30小时",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-23",
+      "url": "https://www.bjnews.com.cn/detail/1784808320129268.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/980/833.htm",
+      "title": "蔚来乐道 Coconut / Coconut+ 椰子 3.1.0 版本推送:升级人机共驾模式、高德地图巡航红绿灯显示等",
+      "summary": "IT之家 7 月 23 日消息,蔚来旗下乐道汽车今日宣布,Coconut 椰子 3.1.0、Coconut+ 椰子 3.1.0 版本已开启推送。乐道面向超 17 万全量用户推送重磅版本更新,升级覆盖智能辅助驾驶、智能座舱、智能底盘等功能域。 IT之家整理如下: 乐道 OSD 端到端模型全面升级 换道更积极、变道更顺畅。 转向更丝滑、加减速更平缓。 全面提升驾驶体验与舒适性。 全场景领航辅助再升级 ...",
+      "source": "Ithome",
+      "date": "2026-07-23",
+      "url": "https://www.ithome.com/0/980/833.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871417663328190921",
+      "title": "通用汽车发布二季度财报,中国市场连续七个季度实现盈..",
+      "summary": "通用汽车公司7月21日于底特律发布2026年第二季度财报。数据显示,公司二季度净收入达480亿美元,净利润达13亿美元,调整后息税前利润达39亿美元,调整后息税前利润率达8.2%;调整后摊薄后每股收益...",
+      "source": "News_Baidu",
+      "date": "2026-07-23",
+      "url": "http://baijiahao.baidu.com/s?id=1871417663328190921"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871492694797205517",
+      "title": "哈萨克斯坦媒体:中哈经贸合作开启新“黄金三十年”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-23",
+      "url": "http://baijiahao.baidu.com/s?id=1871492694797205517"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3475667",
+      "title": "Cantor Fitzgerald下调特斯拉目标价至$485,关注利润率压力",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-23",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3475667"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/",
+      "title": "Apple Maps to Help Power Autonomous Driving in Ford's 2027 EV",
+      "summary": "Apple and Ford today announced announced that Apple Maps will power the navigation system in Ford's upcoming Universal Electric Vehicle (UEV) Platform, launching in 2027 at a price point around $30,00...",
+      "source": "MacRumors",
+      "date": "2026-07-23",
+      "url": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/"
+    },
+    {
+      "id": "https://www.reuters.com/world/asia-pacific/mobileye-founder-shashua-plans-step-down-ceo-2026-07-23/",
+      "title": "Mobileye founder Shashua plans to step down as CEO",
+      "summary": "Mobileye Global said on Thursday that founder ​Amnon Shashua plans to ‌step down as chief executive officer once a successor is appointed, ​as the autonomous driving technology ​maker launched a searc...",
+      "source": "Reuters",
+      "date": "2026-07-23",
+      "url": "https://www.reuters.com/world/asia-pacific/mobileye-founder-shashua-plans-step-down-ceo-2026-07-23/"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/07/23/volkswagen-gearing-up-to-launch-self-driving-cars-in-china-from-2027",
+      "title": "Volkswagen gearing up to launch self-driving cars in China from 2027",
+      "summary": "Volkswagen plans to launch its first vehicles in China capable of Level 3 autonomous driving next year, as Europe's largest carmaker seeks to catch up in the fast-moving market for self-driving techno...",
+      "source": "The Star",
+      "date": "2026-07-23",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/23/volkswagen-gearing-up-to-launch-self-driving-cars-in-china-from-2027"
+    },
+    {
+      "id": "https://www.cnbctv18.com/auto/volkswagen-teams-up-with-horizon-robotics-as-chinas-smart-driving-race-picks-up-19951956.htm",
+      "title": "Volkswagen teams up with Horizon Robotics as China's smart driving race picks up",
+      "summary": "Volkswagen plans to launch Level 3 driver assistance systems in China in the second half of 2027, expanding its partnership with Horizon Robotics as it races to match rivals in autonomous driving....",
+      "source": "CNBC TV18",
+      "date": "2026-07-23",
+      "url": "https://www.cnbctv18.com/auto/volkswagen-teams-up-with-horizon-robotics-as-chinas-smart-driving-race-picks-up-19951956.htm"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3954269-teslas-free-cash-flow-and-the-race-against-time-in-ev-innovation",
+      "title": "Tesla's Free Cash Flow and the Race Against Time in EV Innovation",
+      "summary": "Tesla reported negative free cash flow in Q2 2023 due to increased spending on infrastructure, battery capacity, and manufacturing. Deliveries exceeded production, showcasing strong demand. While the ...",
+      "source": "Devdiscourse",
       "date": "2026-07-22",
-      "url": "http://baijiahao.baidu.com/s?id=1871410151794908834"
+      "url": "https://www.devdiscourse.com/article/technology/3954269-teslas-free-cash-flow-and-the-race-against-time-in-ev-innovation"
     },
     {
       "id": "https://www.theverge.com/transportation/969237/nhtsa-wants-to-know-why-tesla-got-rid-of-its-radar",
@@ -171,46 +253,6 @@
       "source": "scanx.trade",
       "date": "2026-07-21",
       "url": "https://scanx.trade/stock-market-news/companies/gabriel-india-to-acquire-30-stake-in-hl-klemove-india-for-usd-98-44-million/46194956"
-    },
-    {
-      "id": "https://www.europesays.com/3144957/",
-      "title": "Tesla talked up AI. Wall Street wants to know where the money is",
-      "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company to start...",
-      "source": "EUROPE SAYS",
-      "date": "2026-07-21",
-      "url": "https://www.europesays.com/3144957/"
-    },
-    {
-      "id": "https://www.mercurynews.com/2026/07/21/teslas-problem-is-opposite-of-big-tech-not-enough-ai-spending/",
-      "title": "Tesla’s problem is opposite of big tech: Not enough AI spending",
-      "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company to start putting its money where its mouth is....",
-      "source": "The Mercury News",
-      "date": "2026-07-21",
-      "url": "https://www.mercurynews.com/2026/07/21/teslas-problem-is-opposite-of-big-tech-not-enough-ai-spending/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/07/18/tmt-newswire/globenewswire/weride-named-among-chinas-top-10-ai-case-studies-for-uae-autonomous-driving-deployment-the-only-autonomous-driving-company-recognized/2386865",
-      "title": "WeRide Named Among China's Top 10 AI Case Studies for UAE Autonomous Driving Deployment, the Only Autonomous Driving Company Recognized",
-      "summary": "SHANGHAI, July 17, 2026 (GLOBE NEWSWIRE) -- WeRide (NASDAQ: WRD; HKEX: 0800), a global leader in autonomous driving technology, today announced that its autonomous driving deployment in the United Ara...",
-      "source": "The Manila Times",
-      "date": "2026-07-18",
-      "url": "https://www.manilatimes.net/2026/07/18/tmt-newswire/globenewswire/weride-named-among-chinas-top-10-ai-case-studies-for-uae-autonomous-driving-deployment-the-only-autonomous-driving-company-recognized/2386865"
-    },
-    {
-      "id": "https://www.independent.co.uk/news/world/americas/san-francisco-mayor-waymo-regulations-b3017033.html",
-      "title": "San Francisco mayor calls for tighter self-driving cab regulations after Fourth of July chaos",
-      "summary": "‘California’s challenge now is not just whether autonomous vehicles can operate safely under normal conditions, but also whether they can perform reliably during extraordinary ones,’ the mayor noted...",
-      "source": "The Independent",
-      "date": "2026-07-17",
-      "url": "https://www.independent.co.uk/news/world/americas/san-francisco-mayor-waymo-regulations-b3017033.html"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues",
-      "title": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
-      "summary": "The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts....",
-      "source": "Al Jazeera",
-      "date": "2026-07-17",
-      "url": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues"
     }
   ]
 }
