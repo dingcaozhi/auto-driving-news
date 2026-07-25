@@ -1,178 +1,142 @@
 {
-  "lastUpdated": "2026-07-24 03:27:20",
-  "totalCount": 29,
+  "lastUpdated": "2026-07-25 03:25:09",
+  "totalCount": 24,
   "sources": {
-    "Ign_Cn": 1,
-    "News_Baidu": 5,
-    "Cri_Cn": 1,
-    "News_Seehua": 3,
-    "Bjnews": 2,
-    "Ithome": 4,
-    "Chinanews": 1,
-    "Time Weekly": 1,
-    "Investing_Cn": 1,
+    "News_Baidu": 7,
+    "Chinanews": 3,
+    "Pcauto_Cn": 1,
+    "Fx168News": 1,
+    "Smzdm": 1,
+    "Ithome": 1,
+    "Devdiscourse": 2,
     "MacRumors": 1,
     "Reuters": 1,
     "The Star": 1,
     "CNBC TV18": 2,
-    "Devdiscourse": 1,
     "The Verge": 1,
     "The Economic Times": 1,
-    "Benzinga": 1,
-    "scanx.trade": 1
+    "Benzinga": 1
   },
   "news": [
     {
-      "id": "https://www.ign.com.cn/halo-campaign-evolved/61484/guang-huan-zhan-yi-jin-hua-you-xi-ping-ce-ign-zhong-guo",
-      "title": "《光环:战役进化》游戏评测|IGN 中国",
-      "summary": "NewsData报道",
-      "source": "Ign_Cn",
-      "date": "2026-07-23",
-      "url": "https://www.ign.com.cn/halo-campaign-evolved/61484/guang-huan-zhan-yi-jin-hua-you-xi-ping-ce-ign-zhong-guo"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871501418025411847",
-      "title": "让出行更阳光!绘就城市温暖底色,无障碍出行公益体验..",
-      "summary": "7月23日,“享道暖心助行”无障碍出行公益体验活动在上海举办,八位享道出行品质专车司机通过报名、选拔、培训成为此次活动的志愿者,自愿暂停营运,为八位特殊客人提供出行服务,接上他们奔赴同一个目的地——浦...",
+      "id": "http://baijiahao.baidu.com/s?id=1871603143552587991",
+      "title": "3万小时零差错!这位春秋机长的“最后一张考卷”,满..",
+      "summary": "7月22日,春秋航空资深机长教员王健执飞了他职业生涯中的最后一个航班。至此,他累计安全飞行时间突破三万小时,以零差错记录为自己的飞行生涯画上圆满句号。这位见证了民航半个世纪发展的老教员,在高温与密集航班的双重考验下,用一...",
       "source": "News_Baidu",
-      "date": "2026-07-23",
-      "url": "http://baijiahao.baidu.com/s?id=1871501418025411847"
+      "date": "2026-07-24",
+      "url": "http://baijiahao.baidu.com/s?id=1871603143552587991"
     },
     {
-      "id": "https://news.cri.cn/20260723/6a608437-073b-46d3-a8f6-6982de8063a1.html",
-      "title": "赛车运动“跑”出消费新活力-国际在线",
-      "summary": "日渐火热的赛车运动,正成为激活“消费脉动”的新引擎。近日出炉的《扩大消费“十五五”规划》提出,拓展汽车赛事等汽车后市场消费。业内预计,到2029年,中国汽摩运动产业总规模有望达到5000亿元。 “小众爱好”变成“大众选择” 今年3月...",
-      "source": "Cri_Cn",
-      "date": "2026-07-23",
-      "url": "https://news.cri.cn/20260723/6a608437-073b-46d3-a8f6-6982de8063a1.html"
-    },
-    {
-      "id": "https://news.seehua.com/post/1519231",
-      "title": "警瓦解偷窃党捕7人追缉8同党 涉案遍及吉玻槟",
-      "summary": "(亚罗士打23日讯)吉打州警方瓦解一个活跃于吉打及邻近州属的本地偷窃集团“菲特里党”(Geng Fitri), [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-23",
-      "url": "https://news.seehua.com/post/1519231"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784803869129206.html",
-      "title": "新闻8点见丨机器人在北京公园“上岗”;食品标签“低GI”调查",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-23",
-      "url": "https://www.bjnews.com.cn/detail/1784803869129206.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/980/805.htm",
-      "title": "Mobileye 2026 财年第二财季归母亏损 0.21 亿美元,同比亏损收窄 68.66%",
-      "summary": "IT之家 7 月 23 日消息,Mobileye 今日发布 2026 财年(2026 年 1 月 3 日~2027 年 1 月 2 日)第二财季(2026 年 3 月 29 日~2026 年 6 月 27 日)报告: 营业总收入 : 5.08 亿美元,同比增长 0.40% 毛利 : 2.35 亿美元,同比下降 6.75% 归母净利润 : -0.21 亿美元,同比亏损收窄 68.66% 基本每股收益...",
-      "source": "Ithome",
-      "date": "2026-07-23",
-      "url": "https://www.ithome.com/0/980/805.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-23/10665279.shtml",
-      "title": "极氪回应车主跨境自驾遭“锁车”",
+      "id": "http://baijiahao.baidu.com/s?id=1871604778318364542",
+      "title": "“硬支撑”+“软服务” 湖南高速湘潭分公司全力护航..",
       "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-24",
+      "url": "http://baijiahao.baidu.com/s?id=1871604778318364542"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871589802055445475",
+      "title": "弹无虚发!海上战斗射击火力全开!第73集团军某旅两..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-24",
+      "url": "http://baijiahao.baidu.com/s?id=1871589802055445475"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/07-24/10666105.shtml",
+      "title": "中国产“空中出租车”首次在阿斯塔纳演示飞行",
+      "summary": "中新社阿斯塔纳7月24日电 (记者 单璐)一架由中国企业自主研发的大型电动垂直起降航空器24日在哈萨克斯坦首都阿斯塔纳完成演示飞行。这也是此类航空器首次飞上阿斯塔纳上空。...",
       "source": "Chinanews",
-      "date": "2026-07-23",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-23/10665279.shtml"
+      "date": "2026-07-24",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-24/10666105.shtml"
     },
     {
-      "id": "https://news.seehua.com/post/1519204",
-      "title": "峇南河賽舟會熱鬧登場 23隊63長舟競逐“峇南河之王”",
-      "summary": "(马鲁帝23日讯)2026年峇南河赛舟会将于今日起至7月26日(星期日)一连4天举行,共有23支队伍、63艘长 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-23",
-      "url": "https://news.seehua.com/post/1519204"
+      "id": "http://www.pcauto.com.cn/news/5174/51747685.html",
+      "title": "奇瑞风云A9将于7月25日上市 同步见证品牌2000万辆整车交付里程碑",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-07-24",
+      "url": "http://www.pcauto.com.cn/news/5174/51747685.html"
     },
     {
-      "id": "https://www.time-weekly.com/post/331302",
-      "title": "不住五星级酒店住房车,这届年轻人用“说走就走”撑起一门大生意",
-      "summary": "本文来源:消费者报道 作者:张德荣 暑期档旅游市场,房车悄然 “ 出圈 ” 。 据央视财经报道,今年以来,全国常规房车租赁均价同比下降 20% 到 30% 左右,多个热门旅游城市的房车租赁订单持续增长。房车世界(北京)科技有限公司负责人王继东称,近期有合作伙伴一次性采购近 1000 辆房车投入租赁市场。以新疆和云南为例,今年以来房车租赁同比增长达 50% 。 在政策端,今年 7 月,国务院批复的《...",
-      "source": "Time Weekly",
-      "date": "2026-07-23",
-      "url": "https://www.time-weekly.com/post/331302"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871508110767017113",
-      "title": "十余载踏遍山间路 一腔热血守乡土平安",
+      "id": "http://baijiahao.baidu.com/s?id=1871602639716935543",
+      "title": "不止是秀机甲 宇树全国首个基础教育智能实验室落地成..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-23",
-      "url": "http://baijiahao.baidu.com/s?id=1871508110767017113"
+      "date": "2026-07-24",
+      "url": "http://baijiahao.baidu.com/s?id=1871602639716935543"
     },
     {
-      "id": "https://news.seehua.com/post/1519191",
-      "title": "弄瑟拉东翻船事故 第3失踪者遗体寻获 1仍下落不明",
-      "summary": "(马鲁帝23日讯)日前在峇南河弄瑟拉东地区发生的翻船事故,随着今日上午搜救在马森急流一带寻获第3名失踪者遗体后 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-23",
-      "url": "https://news.seehua.com/post/1519191"
+      "id": "http://baijiahao.baidu.com/s?id=1871604305755316535",
+      "title": "解锁空中飞行新可能 载人eVTOL探索运营场景落地",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-24",
+      "url": "http://baijiahao.baidu.com/s?id=1871604305755316535"
     },
     {
-      "id": "https://www.ithome.com/0/980/840.htm",
-      "title": "百度萝卜快跑:部分网络账号将无人驾驶网约车与人员失踪相挂钩,涉嫌误导公众认知,已依法提起诉讼",
-      "summary": "IT之家 7 月 23 日消息,百度萝卜快跑法务部今日发文称,此前,我司曾就部分网络账号传播涉“萝卜快跑”不实信息音频一事发布声明,并依法启动相关法律程序。近日,该事项取得进一步进展。 经核查,网络账号“福原 ***”“浩哥 ***”等传播针对萝卜快跑的相关音频内容,借惊悚化、夸张化叙事吸引流量。相关音频无事实依据地 将无人驾驶网约车与人员失踪相挂钩 ,并以身份背景、国别归属等标签化表述,歪曲萝卜...",
+      "id": "https://www.chinanews.com.cn/txy/2026/07-24/10666025.shtml",
+      "title": "童心启航 逐梦山海——2026年“我爱北京天安门”主题夏令营圆满举办",
+      "summary": "中新网北京7月24日电 7月16日至22日,由中国宋庆龄基金会主办的“我爱北京天安门”主题夏令营在北京和秦皇岛两地举办。来自安徽临泉、江西瑞金、贵州凯里、青海玉树、宁夏彭阳等地92名师生参加。...",
+      "source": "Chinanews",
+      "date": "2026-07-24",
+      "url": "https://www.chinanews.com.cn/txy/2026/07-24/10666025.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871591220284252572",
+      "title": "73岁老船长的心愿:寻找40年前船上出生的 “江生..",
+      "summary": "73岁的杜崇新有个埋藏在心底多年的愿望:找到他曾见证过的,出生在长江上的孩子。“若有幸找到,我想请他们坐一次三峡游船,重游长江!”说这句话时,杜崇新站在停靠在朝天门码头的阿波罗号游船甲板上,江风吹起他...",
+      "source": "News_Baidu",
+      "date": "2026-07-24",
+      "url": "http://baijiahao.baidu.com/s?id=1871591220284252572"
+    },
+    {
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1063545",
+      "title": "港股AI概念股日报(2026-07-24)-FX168",
+      "summary": "2026年7月24日港股收跌,阿里受罚单拖累科网股走低,而AI芯片与大模型板块逆势走强,澜起科技与智谱分别大涨6.7%和5.64%。政策面上,北京出台政策鼓励Token经济与推理芯片,东莞启动千亿算力岛建设。此外,智元创新启动赴港IPO,AMD更新AI芯片路线图,特斯拉暴跌短线承压智驾板块。...",
+      "source": "Fx168News",
+      "date": "2026-07-24",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1063545"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/07-24/10665997.shtml",
+      "title": "从失明重见到消费破圈 脑机接口加速“接入”现实",
+      "summary": "中新社北京7月24日电 (记者 陈杭)通过侵入式植入设备,将编码后的视频信号传入视觉网络,绕过受损通路,帮助全盲患者重建包含形状、亮度与颜色的视觉感知。这一科幻场景正加速成为现实,推动脑机接口“破圈”。...",
+      "source": "Chinanews",
+      "date": "2026-07-24",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-24/10665997.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871599903644160919",
+      "title": "成为世界“会客厅”,成都让世界看到了什么?",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-24",
+      "url": "http://baijiahao.baidu.com/s?id=1871599903644160919"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a823652n/",
+      "title": "超600km续航颜值电车,800V架构,激光雷达!仅11万级",
+      "summary": "不得不说,现在的新车真的很卷。想想看,几年前如果预算只有10万元,是不是能够买到的就只有比亚迪海豚?说实话,比亚迪海豚在当时来说是不错的选择,但当时只有300km左右的续航,也没有高阶智能驾驶辅助系统,配置方面更是一般。但即使如此,在当时来说也是非常值得......",
+      "source": "Smzdm",
+      "date": "2026-07-24",
+      "url": "https://post.smzdm.com/p/a823652n/"
+    },
+    {
+      "id": "https://www.ithome.com/0/981/373.htm",
+      "title": "吉利银河战舰 700 亮相:定位“AI 全地形硬核 SUV”,830kW 三电机四驱",
+      "summary": "IT之家 7 月 24 日消息,吉利银河战舰 700 今晚正式亮相,定位“AI 全地形硬核 SUV”,预计将于年内上市。 外观方面,该车采用硬朗的线条勾勒与方盒子车身造型,塑造出鲜明的硬派越野视觉风格。前脸采用长条矩形格栅轮廓,搭配贯穿式日间行车灯设计,品牌 Logo 具备点亮功能。车身侧面配备传统样式门把手与哑光黑色车顶行李架,前后凸起的轮眉线条强化了整车的肌肉感。车尾设计趋于简洁,纵向圆角矩形...",
       "source": "Ithome",
-      "date": "2026-07-23",
-      "url": "https://www.ithome.com/0/980/840.htm"
+      "date": "2026-07-24",
+      "url": "https://www.ithome.com/0/981/373.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871505720315999263",
-      "title": "全球首个右舵全无人驾驶落地香港 百度萝卜快跑全球化..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
+      "id": "https://www.devdiscourse.com/article/technology/3954776-leadership-shift-at-mobileye-amid-autonomous-driving-push",
+      "title": "Leadership Shift at Mobileye Amid Autonomous Driving Push",
+      "summary": "Amnon Shashua, CEO of Mobileye, is stepping down as the company focuses on expanding its robotaxi and robotics services. This leadership change comes as Mobileye faces a projected revenue drop and dec...",
+      "source": "Devdiscourse",
       "date": "2026-07-23",
-      "url": "http://baijiahao.baidu.com/s?id=1871505720315999263"
-    },
-    {
-      "id": "https://www.ithome.com/0/980/843.htm",
-      "title": "小米澎程新车布局示意图发布,雷军透露 N90 转弯半径很小",
-      "summary": "IT之家 7 月 23 日消息,小米创办人、董事长兼 CEO 雷军今日在微博分享了小米澎程新车的布局示意图。从画面可以看到,澎程布局有所优化, 三排座椅的空间相较传统 SUV 更方正、更宽敞 。 不少网友对澎程的轮拱去哪里感到好奇,雷军表示:“ 下了很大功夫,重新设计了技术架构。 ”还有网友询问澎程是否支持后轮转向功能,雷军回复称:“ 小米澎程 N90 转弯半径很小。 ” IT之家注意到,雷军还聊...",
-      "source": "Ithome",
-      "date": "2026-07-23",
-      "url": "https://www.ithome.com/0/980/843.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784808320129268.html",
-      "title": "极氪回应海外自驾“锁车”30小时",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-23",
-      "url": "https://www.bjnews.com.cn/detail/1784808320129268.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/980/833.htm",
-      "title": "蔚来乐道 Coconut / Coconut+ 椰子 3.1.0 版本推送:升级人机共驾模式、高德地图巡航红绿灯显示等",
-      "summary": "IT之家 7 月 23 日消息,蔚来旗下乐道汽车今日宣布,Coconut 椰子 3.1.0、Coconut+ 椰子 3.1.0 版本已开启推送。乐道面向超 17 万全量用户推送重磅版本更新,升级覆盖智能辅助驾驶、智能座舱、智能底盘等功能域。 IT之家整理如下: 乐道 OSD 端到端模型全面升级 换道更积极、变道更顺畅。 转向更丝滑、加减速更平缓。 全面提升驾驶体验与舒适性。 全场景领航辅助再升级 ...",
-      "source": "Ithome",
-      "date": "2026-07-23",
-      "url": "https://www.ithome.com/0/980/833.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871417663328190921",
-      "title": "通用汽车发布二季度财报,中国市场连续七个季度实现盈..",
-      "summary": "通用汽车公司7月21日于底特律发布2026年第二季度财报。数据显示,公司二季度净收入达480亿美元,净利润达13亿美元,调整后息税前利润达39亿美元,调整后息税前利润率达8.2%;调整后摊薄后每股收益...",
-      "source": "News_Baidu",
-      "date": "2026-07-23",
-      "url": "http://baijiahao.baidu.com/s?id=1871417663328190921"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871492694797205517",
-      "title": "哈萨克斯坦媒体:中哈经贸合作开启新“黄金三十年”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-23",
-      "url": "http://baijiahao.baidu.com/s?id=1871492694797205517"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3475667",
-      "title": "Cantor Fitzgerald下调特斯拉目标价至$485,关注利润率压力",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-23",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3475667"
+      "url": "https://www.devdiscourse.com/article/technology/3954776-leadership-shift-at-mobileye-amid-autonomous-driving-push"
     },
     {
       "id": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/",
@@ -245,14 +209,6 @@
       "source": "CNBC TV18",
       "date": "2026-07-21",
       "url": "https://www.cnbctv18.com/market/earnings/gabriel-india-q1-net-profit-rises-2-pc-acquires-30-pc-stake-in-hl-klemove-india-19950846.htm"
-    },
-    {
-      "id": "https://scanx.trade/stock-market-news/companies/gabriel-india-to-acquire-30-stake-in-hl-klemove-india-for-usd-98-44-million/46194956",
-      "title": "Gabriel India to acquire 30% stake in HL Klemove India for USD 98.44 million",
-      "summary": "Gabriel India Limited approved the acquisition of a 30% stake in HL Klemove India Private Limited for USD 98.44 million on July 21, 2026. The joint venture will focus on autonomous driving and automot...",
-      "source": "scanx.trade",
-      "date": "2026-07-21",
-      "url": "https://scanx.trade/stock-market-news/companies/gabriel-india-to-acquire-30-stake-in-hl-klemove-india-for-usd-98-44-million/46194956"
     }
   ]
 }
