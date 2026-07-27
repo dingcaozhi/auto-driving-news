@@ -1,17 +1,14 @@
 {
-  "lastUpdated": "2026-07-26 03:38:23",
-  "totalCount": 32,
+  "lastUpdated": "2026-07-27 03:48:08",
+  "totalCount": 29,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 7,
     "Imobile": 1,
-    "Zaobao": 1,
+    "Bjnews": 1,
+    "News_Baidu": 9,
     "Chinanews": 1,
-    "Rfi_Fr": 1,
-    "News_Seehua": 2,
-    "Prnasia": 1,
-    "Orientaldaily": 1,
-    "Ithome": 2,
+    "Investing_Cn": 1,
+    "Smzdm": 1,
     "Devdiscourse": 2,
     "MacRumors": 1,
     "Reuters": 1,
@@ -23,180 +20,156 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1VRgq64ECK",
-      "title": "【B站】【粤语时评】香港首次批准无人化自动驾驶车测试 有何技术挑战?（26/7/24）",
-      "summary": "ts\n2026年7月24日...",
+      "id": "https://www.bilibili.com/video/BV17r3j6zEEQ",
+      "title": "【B站】离谱！七年前的特斯拉！竟然出最新自动驾驶了？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-07-26",
-      "url": "https://www.bilibili.com/video/BV1VRgq64ECK"
+      "date": "2026-07-27",
+      "url": "https://www.bilibili.com/video/BV17r3j6zEEQ"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1pzK269EQv",
-      "title": "【B站】真正的自动驾驶",
-      "summary": "仅供参考...",
+      "id": "https://www.bilibili.com/video/BV1a33j6FEe4",
+      "title": "【B站】中国浙江高速路上出现了神秘的自动驾驶无人摩托车，自动驾驶距离长达5公里，技术遥遥领先！",
+      "summary": "【中日双语】中国浙江高速路上出现了神秘的自动驾驶无人摩托车，自动驾驶距离长达5公里，技术遥遥领先！\n（通知：月曜、跟拍去你家、纪实72小时等请移步同名微薄＆公从号上观看，此处发布会被×）...",
       "source": "Bilibili",
-      "date": "2026-07-26",
-      "url": "https://www.bilibili.com/video/BV1pzK269EQv"
+      "date": "2026-07-27",
+      "url": "https://www.bilibili.com/video/BV1a33j6FEe4"
     },
     {
       "id": "https://www.bilibili.com/video/BV1X43L6FEsF",
       "title": "【B站】fsd 一镜到底，看看到底能不能自动驾驶",
       "summary": "这台2019年的特斯拉，算力只有144tops，这个表现你们认为对于智能驾驶而言算力真的那么重要么？现在国产动辄两三千 tops 的算力，发布会上CEO 们吹的天花乱坠，一个个的恨不得全宇宙第一，等你上车实际体验的效果实在是一言难尽……特斯拉就是智商的检测神器，懂的都懂...",
       "source": "Bilibili",
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "url": "https://www.bilibili.com/video/BV1X43L6FEsF"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Dp3u6BEFw",
-      "title": "【B站】19357超长距离自动驾驶",
+      "id": "https://www.bilibili.com/video/BV1Wjg46kEW5",
+      "title": "【B站】19630公里自动驾驶",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-07-26",
-      "url": "https://www.bilibili.com/video/BV1Dp3u6BEFw"
+      "date": "2026-07-27",
+      "url": "https://www.bilibili.com/video/BV1Wjg46kEW5"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "id": "https://www.bilibili.com/video/BV1LD3u6JEU7",
+      "title": "【B站】自动驾驶与机器人中的SLAM技术 - ch9 自动驾驶车辆的离线地图的构建",
+      "summary": "自动驾驶与机器人中的SLAM技术 - 第九章 自动驾驶车辆的离线地图的构建\n\n这章主要演示了一个完整的点云地图构建、优化、切分、导出的程序。\n\n本系列视频中所有代码可以在以下链接找到\nhttps://github.com/seamanj/slam_in_autonomous_driving...",
       "source": "Bilibili",
-      "date": "2026-07-26",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "date": "2026-07-27",
+      "url": "https://www.bilibili.com/video/BV1LD3u6JEU7"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871579583296273197",
-      "title": "极氪获国家科学技术进步奖,新势力品牌唯一",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-25",
-      "url": "http://baijiahao.baidu.com/s?id=1871579583296273197"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0725/235074.shtml",
-      "title": "奇瑞风云 A9 正式上市 打造 15 万纯电性价比天花板",
-      "summary": "7 月 25 日,奇瑞风云旗下 “长续航智美纯电轿跑” 风云 A9 迎来全球正式上市。作为奇瑞全球累计第 2000 万辆交付的里程碑车型,风云 A9 共推出 3 款配置车型,官方指导价分别为:655Pro 版 10.99 万元、655Max 版 11.99 万元、655Max 激光雷达版 12.99 万元,可享 3000 元限时置换补贴。风云 A9 凭借全系标配 70kWh 大容量电池、越级智能与...",
+      "id": "http://news.imobile.com.cn/articles/2026/0726/235075.shtml",
+      "title": "特斯拉第二季度财报:全球多地交付量创新高,营收同比增长26%",
+      "summary": "北京时间2026年7月23日,特斯拉发布2026年第二季度财报。本季度特斯拉全球共生产纯电动车超45.1万辆,同比增长约10%;交付量超48万辆,同比增长约25%。Model Y 在多个市场蝉联销冠,Model Y L在全球多个市场掀起订购热潮。上海超级工厂6月交付电动车超8.9万辆,同比增长24.4%,创年内新高;上半年共交付近46.8万辆,同比增长28.4%。得益于车辆交付量增加与其他业务增长...",
       "source": "Imobile",
-      "date": "2026-07-25",
-      "url": "http://news.imobile.com.cn/articles/2026/0725/235074.shtml"
+      "date": "2026-07-26",
+      "url": "http://news.imobile.com.cn/articles/2026/0726/235075.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871689812481130736",
-      "title": "新一届“35岁以下科技创新35人”中国区名单发布,..",
-      "summary": "NewsData报道",
+      "id": "https://www.bjnews.com.cn/detail/1785072990169131.html",
+      "title": "甘肃一景区突发山洪已致10死23伤:情侣被冲走后被车拦住获救",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-26",
+      "url": "https://www.bjnews.com.cn/detail/1785072990169131.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871784887029169786",
+      "title": "四川一起超,才是“川超”|文化观察(下)",
+      "summary": "今晚(7月26日)8点,“川超”冠军挑战赛暨颁奖仪式门票正式开售。7月31日,联赛总冠军成都锦城队和其余20个市州联合组建的挑战队将共赴球场,一起迎接属于他们的热血与荣耀时刻。首届“川超”让人记住了“...",
       "source": "News_Baidu",
-      "date": "2026-07-25",
-      "url": "http://baijiahao.baidu.com/s?id=1871689812481130736"
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871784887029169786"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871678426815435124",
-      "title": "王一博在China GT3珠海站排位赛取得组别第五..",
-      "summary": "NewsData报道",
+      "id": "http://baijiahao.baidu.com/s?id=1871691809486163049",
+      "title": "“35岁以下科技创新35人”中国区名单发布,闵行2..",
+      "summary": "7月25日,2025年度《麻省理工科技评论》“35岁以下科技创新35人”(TR35)中国区入选者名单在闵行区大零号湾正式发布,闵行区2位青年科技人才入选,他们分别是上海交通大学助理教授陈一彤、上海交......",
       "source": "News_Baidu",
-      "date": "2026-07-25",
-      "url": "http://baijiahao.baidu.com/s?id=1871678426815435124"
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871691809486163049"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sports/story20260725-9420376",
-      "title": "迈凯伦车手诺里斯:F1过度商业化 须铭记运动本质",
-      "summary": "(布达佩斯路透电)迈凯伦车队的世界冠军车手诺里斯(Norris)指出,一级方程式(F1)赛车已过度受商业决策主导,必须重新找回它作为一项“体育运动”的本质。...",
-      "source": "Zaobao",
-      "date": "2026-07-25",
-      "url": "https://www.zaobao.com.sg/news/sports/story20260725-9420376"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871691285105920368",
-      "title": "工地上也有世外桃源?溜进这些角落看看吧",
-      "summary": "NewsData报道",
+      "id": "http://baijiahao.baidu.com/s?id=1871784292523820435",
+      "title": "先锋者、发明家、远见者...一份青年科创名单里的新变量",
+      "summary": "《周易》有“参伍以变,错综其数”之说。三与五交错,变化由此生发,并在推演中形成新的格局。近日,《麻省理工科技评论》“35岁以下科技创新35人”中国区发布及颁奖仪式在上海举行。 今年是TR35落地中国......",
       "source": "News_Baidu",
-      "date": "2026-07-25",
-      "url": "http://baijiahao.baidu.com/s?id=1871691285105920368"
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871784292523820435"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871686163208347556",
-      "title": "上海通过三大《意见》把宏伟蓝图化为“施工图”",
-      "summary": "中共上海市第十二届委员会第九次全会昨天举行。会场上,委员及列席代表们审议通过了《中共上海市委关于深入贯彻习近平总书记重要讲话精神加强基础研究强化科技创新策源功能的意见》《中共上海市委关于加快建设人工智...",
-      "source": "News_Baidu",
-      "date": "2026-07-25",
-      "url": "http://baijiahao.baidu.com/s?id=1871686163208347556"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-25/10666556.shtml",
-      "title": "印象唐山:凤凰之城的坚韧、智慧和魅力",
-      "summary": "NewsData报道",
+      "id": "https://www.chinanews.com.cn/gn/2026/07-26/10666950.shtml",
+      "title": "第四届滇商大会昆明开幕 约300名嘉宾共话“数智兴滇”",
+      "summary": "中新网昆明7月26日电 (记者 韩帅南)7月26日,第四届滇商大会在昆明举行。约300名中外企业家、商协会代表、专家学者等嘉宾汇聚一堂,围绕“滇商聚力数智兴滇”主题,聚焦数智赋能产业发展,畅叙乡情友谊,共商合作发展。...",
       "source": "Chinanews",
-      "date": "2026-07-25",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-25/10666556.shtml"
+      "date": "2026-07-26",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666950.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871683830564801109",
-      "title": "新一届“35岁以下科技创新35人”中国区名单在沪发..",
+      "id": "http://baijiahao.baidu.com/s?id=1871775937343407714",
+      "title": "APEC工商咨询理事会数字创新工作组主席薛珍纳:成..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-25",
-      "url": "http://baijiahao.baidu.com/s?id=1871683830564801109"
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871775937343407714"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260725-%E4%B8%81%E8%96%9B%E7%A5%A5%E5%9D%90%E9%95%87-%E4%B8%AD%E5%9B%BDai%E8%8A%AF%E7%89%87%E6%94%BB%E5%9D%9A%E5%85%A8%E9%9D%A2%E5%90%AF%E5%8A%A8%EF%BC%8C%E4%B8%AD%E7%BE%8E%E7%A7%91%E6%8A%80%E6%88%98%E7%99%BD%E7%83%AD%E5%8C%96-%E5%8F%AF%E8%BF%98%E6%9C%89%E5%90%88%E4%BD%9C%E7%A9%BA%E9%97%B4",
-      "title": "丁薛祥坐镇 中国AI芯片攻坚全面启动,中美科技战白热化 可还有合作空间?",
-      "summary": "据《华尔街日报》披露的一份内部文件显示,中共中央政治局常委、国务院副总理丁薛祥亲自组建了一个高规格委员会,在AI芯片的多个关键领域部署顶尖攻坚团队,试图在与美国的科技竞赛中实现弯道超车。这一消息揭示了中国在AI领域的战略部署已上升至国家最高层,也标志着中美科技竞争进入一个新的、更加激烈的阶段。...",
-      "source": "Rfi_Fr",
-      "date": "2026-07-25",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260725-%E4%B8%81%E8%96%9B%E7%A5%A5%E5%9D%90%E9%95%87-%E4%B8%AD%E5%9B%BDai%E8%8A%AF%E7%89%87%E6%94%BB%E5%9D%9A%E5%85%A8%E9%9D%A2%E5%90%AF%E5%8A%A8%EF%BC%8C%E4%B8%AD%E7%BE%8E%E7%A7%91%E6%8A%80%E6%88%98%E7%99%BD%E7%83%AD%E5%8C%96-%E5%8F%AF%E8%BF%98%E6%9C%89%E5%90%88%E4%BD%9C%E7%A9%BA%E9%97%B4"
+      "id": "http://baijiahao.baidu.com/s?id=1871549381527492289",
+      "title": "机器人陪你充电、“唠嗑”,无人车进村送快递......“A..",
+      "summary": "“茉莉茉莉,从南京开车到常州的高速路况怎么样?”“服务区能充电吗?”“沿途有什么好吃的?”7月23日,面对记者的连续提问,通行宝的咨询机器人对答如流。一旁,巡检机器人正用灵活的机械臂带动“眼睛”上下扫...",
+      "source": "News_Baidu",
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871549381527492289"
     },
     {
-      "id": "https://news.seehua.com/post/1520205",
-      "title": "沙巴农民喊“不够用” 李玉顺促燃油补贴提高至500公升",
-      "summary": "(亚庇25日讯)沙巴民统必打丹区部主席李玉顺呼吁联邦政府恢复汽油及柴油车辆燃油补贴配额的机制,认为现行制度未能 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-25",
-      "url": "https://news.seehua.com/post/1520205"
-    },
-    {
-      "id": "https://www.prnasia.com/story/541877-1.shtml",
-      "title": "潍柴五大技术路线全球首秀:以多元底色,绘就绿色智能新未来",
-      "summary": "越南河内 2026年7月25日 /美通社/ -- 7月21日,山东重工全球合作伙伴大会暨绿色智能产品展示会在越南国家会展中心启幕。面对全球商用车及重型装备的绿色转型浪潮,潍柴依托数十年的技术积淀,正式推出涵盖电池电动系统、混合动力系统、质子交换膜燃料电池、替代燃料内燃机以及智能驾驶辅助系统的五大核心技术路线。通过全链条自主掌控与技术突破,潍柴正为全球市场提供高效、低碳、智能的动力解决方案。 纯电动...",
-      "source": "Prnasia",
-      "date": "2026-07-25",
-      "url": "https://www.prnasia.com/story/541877-1.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871678652349552168",
-      "title": "00后演员周翊然 CHINA GT中国超级跑车锦标..",
+      "id": "http://baijiahao.baidu.com/s?id=1871781817399591302",
+      "title": "500斤西瓜送船头,淮南“淮河环保一号”助农送清凉..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-25",
-      "url": "http://baijiahao.baidu.com/s?id=1871678652349552168"
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871781817399591302"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/east-malaysia/2026/07/25/835744",
-      "title": "诗巫浓雾锁城 航班两度降落失败折返古晋",
-      "summary": "(诗巫25日讯)砂教育、创新及人才发展部副部长拿督安华拉巴益今日透露,由于低云层及浓雾影响,他乘搭从古晋飞往诗巫的航班未能顺利降落诗巫机场。他在面子书贴文说,飞机两度尝试降落后,最终仍无法安全着陆,只能折返古晋国际机场,而乘客当时也不获准下机。“飞机两次尝试降落失败后,被迫折返古晋机场,不过我们并没有获准下飞机。这是我第一次在飞机已经降落后,仍然在机舱内享用飞机餐。”也是南甲区立法议员的安华拉巴益...",
-      "source": "Orientaldaily",
-      "date": "2026-07-25",
-      "url": "https://www.orientaldaily.com.my/news/east-malaysia/2026/07/25/835744"
+      "id": "http://baijiahao.baidu.com/s?id=1871719947905493455",
+      "title": "车评人闫闯超跑车锦标赛珠海站撞墙退赛称“比赛剩7分..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871719947905493455"
     },
     {
-      "id": "https://news.seehua.com/post/1520107",
-      "title": "【车撞罗里6青年夹毙】弟参与祈福后与友人吃宵夜 胞姐:没想到竟成永诀",
-      "summary": "(淡马鲁25日讯)友人聚会竟成最后告别!彭亨文冬今晨发生一起严重车祸,25岁男子完成祈祷仪式后与5名朋友相约聚 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-25",
-      "url": "https://news.seehua.com/post/1520107"
+      "id": "http://baijiahao.baidu.com/s?id=1871789336619142553",
+      "title": "深市电力设备行业上半年业绩亮眼 龙头竞逐全球新能源..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871789336619142553"
     },
     {
-      "id": "https://www.ithome.com/0/981/579.htm",
-      "title": "领克 07GT 时间限量版交付:首发 1007 台,售 20.88 万元",
-      "summary": "IT之家 7 月 25 日消息,领克汽车今日宣布,首台领克 07GT 时间限量版正式交付。该车于 6 月 29 日上市,1007 台首发限量已售罄,上市指导价 20.88 万元。 IT之家注意到,领克 07GT 时间限量版车漆采用哑光勃朗灰专属色,内饰采用极地蓝专属色,还有专属蓝色 Downforce 字标、仪表台 Limited Edition 专属镭射标、GT 限量车尾徽标、高亮蓝专属四活塞运...",
-      "source": "Ithome",
-      "date": "2026-07-25",
-      "url": "https://www.ithome.com/0/981/579.htm"
+      "id": "http://baijiahao.baidu.com/s?id=1871759798403883227",
+      "title": "技术破局!贵州桥梁河北曲港L2标以桩板式路基创新破..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-26",
+      "url": "http://baijiahao.baidu.com/s?id=1871759798403883227"
     },
     {
-      "id": "https://www.ithome.com/0/981/575.htm",
-      "title": "奇瑞风云 A9 纯电轿跑上市,超级置换价 10.69 万元起",
-      "summary": "IT之家 7 月 25 日消息,奇瑞风云 A9 纯电轿跑今日正式上市,上市指导价 10.99 万元起, 超级置换价 10.69 万元起 : 655km Pro 版:上市指导价 10.99 万元,超级置换价 10.69 万元 655km Max 版:上市指导价 11.99 万元,超级置换价 11.69 万元 655km Max 激光雷达版:上市指导价 12.99 万元,超级置换价 12.69 万元 ...",
-      "source": "Ithome",
-      "date": "2026-07-25",
-      "url": "https://www.ithome.com/0/981/575.htm"
+      "id": "https://cn.investing.com/news/stock-market-news/article-3479051",
+      "title": "新股消息 | 拿森科技通过港交所聆讯 为中国前三大内资线控制动解决方案供货商之一",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-26",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3479051"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rk0693/",
+      "title": "OTA重磅升级!大众安徽两款车智能交互/手车互联/泊车体验全面提升",
+      "summary": "7月26日,大众安徽宣布为旗下与众06、与众07推送新一轮OTA升级,软件版本由OS 1.1.1升级至OS 1.2.1。此次升级覆盖智能座舱、手机车机互联、智能辅助驾驶及泊车辅助三大功能域,包含数十项本土化细节优化。作为两款车型上市后的首次整车OTA,这......",
+      "source": "Smzdm",
+      "date": "2026-07-26",
+      "url": "https://post.smzdm.com/p/a5rk0693/"
     },
     {
       "id": "https://www.devdiscourse.com/article/technology/3954776-leadership-shift-at-mobileye-amid-autonomous-driving-push",
@@ -261,6 +234,22 @@
       "source": "The Economic Times",
       "date": "2026-07-22",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-firms-raise-over-27-billion-in-hong-kong-to-fuel-ai-chip-expansion/articleshow/132554758.cms"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/earnings/26/07/60599635/gm-ceo-mary-barra-says-chinas-price-war-isnt-sustainable-backs-companys-autonomous-driving-efforts-amid-nearly-11-billion-in-ev-charges",
+      "title": "GM CEO Mary Barra Says China's Price War Isn't 'Sustainable,' Backs Company's Autonomous Driving Efforts",
+      "summary": "GM CEO Mary Barra says China's EV price war is unsustainable; believes autonomy will provide pricing power....",
+      "source": "Benzinga",
+      "date": "2026-07-22",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60599635/gm-ceo-mary-barra-says-chinas-price-war-isnt-sustainable-backs-companys-autonomous-driving-efforts-amid-nearly-11-billion-in-ev-charges"
+    },
+    {
+      "id": "https://www.cnbctv18.com/market/earnings/gabriel-india-q1-net-profit-rises-2-pc-acquires-30-pc-stake-in-hl-klemove-india-19950846.htm",
+      "title": "Gabriel India Q1 profit inches up 2%; to buy stake in Korean auto tech firm for ₹948 crore",
+      "summary": "Gabriel India reported a modest 2% rise in June-quarter profit as revenue grew in double digits. Separately, the company announced a ₹948-crore investment to acquire a stake in HL Klemove India, marki...",
+      "source": "CNBC TV18",
+      "date": "2026-07-21",
+      "url": "https://www.cnbctv18.com/market/earnings/gabriel-india-q1-net-profit-rises-2-pc-acquires-30-pc-stake-in-hl-klemove-india-19950846.htm"
     }
   ]
 }
