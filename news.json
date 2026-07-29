@@ -1,13 +1,16 @@
 {
-  "lastUpdated": "2026-07-28 03:18:40",
-  "totalCount": 26,
+  "lastUpdated": "2026-07-29 03:20:17",
+  "totalCount": 33,
   "sources": {
+    "Bilibili": 5,
+    "Cnblogs": 1,
     "News_Baidu": 9,
-    "Chinanews": 3,
-    "Smzdm": 1,
-    "Ithome": 1,
-    "Fx168News": 1,
+    "Zhidx": 1,
     "Bjnews": 1,
+    "Ithome": 2,
+    "Investing_Cn": 2,
+    "Rfi_Fr": 1,
+    "Chinanews": 1,
     "The Japan Times ": 1,
     "Devdiscourse": 2,
     "MacRumors": 1,
@@ -20,132 +23,188 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871877795178952254",
-      "title": "浙江清华长三角研究院李晓峰:低空经济迈入系统性发展..",
+      "id": "https://www.bilibili.com/video/BV18M3q6QEmW",
+      "title": "【B站】【新的体验、超越音速与自动驾驶】——  极限降落【Extreme Landings】",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-07-29",
+      "url": "https://www.bilibili.com/video/BV18M3q6QEmW"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1HYMn6SEbh",
+      "title": "【B站】欧卡2自动驾驶ETS2LA新版使用教程",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-07-29",
+      "url": "https://www.bilibili.com/video/BV1HYMn6SEbh"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-07-29",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
+      "title": "【B站】到底是自动驾驶还是自动送死？",
+      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
+      "source": "Bilibili",
+      "date": "2026-07-29",
+      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-07-29",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+    },
+    {
+      "id": "https://www.cnblogs.com/oldcpu/p/22016630",
+      "title": "开源了,一个人 + AI 肝出一个 AI 终端 | AShell 技术分享 - 幸福指北",
+      "summary": "开源了,一个人 + AI 肝出一个 AI 终端 | AShell 技术分享 事情是这样的:我日常工作是全栈开发,前端 Vue/TS、后端 Node,顺便管着几十台服务器。Rust 只算入门水平,没写过桌面应用,也没碰过 SSH 协议实现——但用 AI 辅助编程,从零肝出了一个开源 AI 终端工...",
+      "source": "Cnblogs",
+      "date": "2026-07-28",
+      "url": "https://www.cnblogs.com/oldcpu/p/22016630"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871964562222590096",
+      "title": "Momenta旗下Robovan业务落地苏州相城",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871877795178952254"
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871964562222590096"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871872288191237866",
-      "title": "Momenta Robovan落地苏州,世界模型加..",
-      "summary": "继以“物理AI第一股”登陆港股市场后,Momenta世界模型从乘用车进一步拓展至无人配送场景——7月27日,Momenta宣布旗下Robovan业务已落地苏州相城。据介绍,MomentaRobovan...",
-      "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871872288191237866"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871867336043404163",
-      "title": "树立和践行正确政绩观丨新增41条减速带、105个指..",
+      "id": "http://baijiahao.baidu.com/s?id=1871966937926871275",
+      "title": "当越南姑娘“开”上中国地铁:一次跨越山海的AI之约",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871867336043404163"
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871966937926871275"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871875310617930818",
-      "title": "全国政协委员江浩然:推动高级别自动驾驶驶入规模化快..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871875310617930818"
+      "id": "https://zhidx.com/p/579736.html",
+      "title": "奥尔特曼最新访谈:别指望AI开启每周4小时工作制",
+      "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西7月28日消息,7月26日,美国YouTube博主Relentless放出对美国大模型巨头OpenAI联合创始人兼CEO Sam Altman的访谈。Altman称,AI行业正在进入继聊天机器人、编程智能体后的第三阶段: 持续存在的AI智能体 。 Altman透露,OpenAI内部正在将更多计算资源、人才和产品力量投入编程智能体等关键方向,并为此放弃部...",
+      "source": "Zhidx",
+      "date": "2026-07-28",
+      "url": "https://zhidx.com/p/579736.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871867072666969438",
-      "title": "首发场景机会+能力清单 长三角一体化释放新机遇",
-      "summary": "凝聚优质市场资源,进一步赋能示范区跨区域协同,2026年长三角生态绿色一体化发展示范区开发者大会,今天在水乡客厅·方厅水院召开。会上,长三角AI+联合创新中心正式启用。长三角AI+联合创新中心由所在地...",
-      "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871867072666969438"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871875720043698048",
-      "title": "四川达州首辆智能无人警车已“上岗”近两月",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871875720043698048"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-27/10667557.shtml",
-      "title": "中国工信部:全国累计发放智能网联汽车测试示范牌照超2万张",
-      "summary": "中新社北京7月27日电 (记者 刘亮)中国工信部装备工业一司司长郭守刚27日在北京介绍,中国智能网联汽车试点示范稳步推进,全国各地累计发放测试示范牌照超过2万张,开放测试示范道路超5.7万公里,累计测试超过2.2亿公里;20个“车路云一体化”试点城市部署各类智能化设备超6万套,服务各类车辆超过十万台。...",
-      "source": "Chinanews",
-      "date": "2026-07-27",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-27/10667557.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-27/10667548.shtml",
-      "title": "2026世界智能网联汽车大会拟于10月在北京举办",
-      "summary": "中新网北京7月27日电 (记者 刘亮)2026世界智能网联汽车大会媒体圆桌会27日在北京召开。记者从会上获悉,2026世界智能网联汽车大会由工信部、交通运输部、北京市人民政府联合主办,拟于2026年10月21日至23日在北京亦庄北人亦创国际会展中心举办。...",
-      "source": "Chinanews",
-      "date": "2026-07-27",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-27/10667548.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871873297545815094",
-      "title": "“给我个面子!”全网爆火,湖北一交警累计减免罚金4..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871873297545815094"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871871850736598465",
-      "title": "石化行业的“京东商城”来了!东明石化宝典实现“一屏..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871871850736598465"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871866745004220166",
-      "title": "“红蜘蛛”今天穿梭进入松江区佘山镇横山村,隐患消除..",
-      "summary": "7月27日,申城骄阳似火,气温节节攀升。在松江区佘山镇的横山村,一台通体红白、外形好似“红蜘蛛”的履带式绝缘斗臂车,灵活地穿梭于村间狭小道路和茂密树林间,最终稳稳停靠在电杆旁——当天上午,国网上海松江...",
-      "source": "News_Baidu",
-      "date": "2026-07-27",
-      "url": "http://baijiahao.baidu.com/s?id=1871866745004220166"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-27/10667550.shtml",
-      "title": "台风“红霞”袭粤掀风雨 救援一线昼夜未歇",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-07-27",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-27/10667550.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a0373pg9/",
-      "title": "电动车驾照到底怎么选:F/E/D证区别搞清楚,少花冤枉钱还不用担惊受怕",
-      "summary": "先说个真事,看完你就不淡定了2026年7月17日凌晨,河源三位“勇士”骑电摩载人闯高速,不戴头盔被交警发现后冲卡逃跑。三天后被一锅端——三人均无驾照。最终行政拘留20日、罚款1200元。无证驾驶可拘留15天,冲卡再加5到10天。这不是个例,广东全省正在严......",
-      "source": "Smzdm",
-      "date": "2026-07-27",
-      "url": "https://post.smzdm.com/p/a0373pg9/"
-    },
-    {
-      "id": "https://www.ithome.com/0/982/240.htm",
-      "title": "长安全新深蓝 S05 内饰公布:全新悬浮星舰设计,搭载 256 色悬浮式环抱氛围灯",
-      "summary": "IT之家 7 月 27 日消息,长安汽车今日公布了全新深蓝 S05 内饰,采用 全新悬浮星舰设计 。 据介绍,全新深蓝 S05 内饰有星云紫、热浪橙、星岩灰三种颜色可选;搭载 256 色悬浮式环抱氛围灯,灯光支持随情景模式律动变化;采用高级木纹理装饰面板。 新车搭载副驾手套箱,全车 37 处储物空间 ;纯电车型还有 492L 双层后备箱和 159L 前备箱。 新车轴距 2880mm,加大了二排头部...",
-      "source": "Ithome",
-      "date": "2026-07-27",
-      "url": "https://www.ithome.com/0/982/240.htm"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1064408",
-      "title": "CryptoRank 研究表明,Bitget rTokens 滑点表现优于主流代币化股票平台,5 万美元订单场景下最高可降低 58%-FX168",
-      "summary": "塞舌尔维多利亚, July 27, 2026 (GLOBE NEWSWIRE) -- 在 CryptoRank 一项评估主流代币化股票产品流动性、市场结构和执行质量的研究中,全球最大的全景交易所 (UEX) Bitget 位列大额订单执行第一。研究发现,在所有参测同类资产中,Bitget Reality rTokens 的模拟滑点最低。在 5 万美元订单规模下,其滑点最高可比其他代币化股票竞品低 ...",
-      "source": "Fx168News",
-      "date": "2026-07-27",
-      "url": "https://www.fx168news.com/article/1064408"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785156507129619.html",
-      "title": "正奇未来宣布8个月完成3轮数亿元融资,资方包括恒旭资本、周大福等",
+      "id": "https://www.bjnews.com.cn/detail/1785209886129865.html",
+      "title": "机器人跑马拉松、开餐厅、进养老驿站......亦庄打造未来“试验场”",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-27",
-      "url": "https://www.bjnews.com.cn/detail/1785156507129619.html"
+      "date": "2026-07-28",
+      "url": "https://www.bjnews.com.cn/detail/1785209886129865.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871965187765630563",
+      "title": "(活力中国调研行)镜头里的中国高度:永新光学逐梦星..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871965187765630563"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871966494898855631",
+      "title": "全球首个右舵左行全无人落地",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871966494898855631"
+    },
+    {
+      "id": "https://www.ithome.com/0/982/767.htm",
+      "title": "东风日产启辰 × 哈啰首台 Robotaxi 交付:CLTC 续航 510 公里,拥有 3.64 立方米乘员舱",
+      "summary": "IT之家 7 月 28 日消息,东风汽车今日宣布,旗下东风日产启辰联合哈啰开发的 首款量产自动驾驶车型 HR1 近日在广州花都工厂正式交付。 据介绍,HR1 从签约到首车落地不到一年, 以东风日产启辰 VX6 纯电 SUV 为基底开展车规级正向研发 ,整车架构设计阶段就将自动驾驶软硬件深度融合,并适配了商业化运营标准。 针对共享出行高强度使用场景,研发团队采集全国多城真实路况数据,复现各类道路行驶...",
+      "source": "Ithome",
+      "date": "2026-07-28",
+      "url": "https://www.ithome.com/0/982/767.htm"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3482789",
+      "title": "RBC下调特斯拉目标价至$480,看好SpaceX协同效应",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-28",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3482789"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260728-%E6%9B%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8A%9E%E7%8F%AD-%E5%89%8D%E9%98%B5%E9%A3%8E%E8%88%B0%E8%BD%BD%E6%88%98%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%9B%A0-%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B%E8%BF%9B%E8%A1%8C%E6%83%85%E6%8A%A5%E5%8B%BE%E7%BB%93-%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A2%AB%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5",
+      "title": "曾在中国办班 前阵风舰载战机飞行员因“与外国势力进行情报勾结”等重罪被立案审查",
+      "summary": "曾驾驶“阵风”舰载战斗机的法国海军前飞行员舒埃特(Pierre-Henri Chuet)在遭法国对内安全总局(DGSI)拘押后,于上周出庭接受预审法官讯问;他随后被置于司法监管之下,并因涉嫌“与外国势力进行情报勾结”及“向外国势力传递信息”等罪名而被立案审查。...",
+      "source": "Rfi_Fr",
+      "date": "2026-07-28",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260728-%E6%9B%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8A%9E%E7%8F%AD-%E5%89%8D%E9%98%B5%E9%A3%8E%E8%88%B0%E8%BD%BD%E6%88%98%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%9B%A0-%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B%E8%BF%9B%E8%A1%8C%E6%83%85%E6%8A%A5%E5%8B%BE%E7%BB%93-%E7%AD%89%E9%87%8D%E7%BD%AA%E8%A2%AB%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871959331727048474",
+      "title": "萝卜快跑在伦敦开启右舵全无人车公开道路测试",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871959331727048474"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871964394320858413",
+      "title": "戈壁逐空 御风启航——酒泉市多点发力激活低空经济新..",
+      "summary": "老师给小学员讲解无人机应用知识。新甘肃·甘肃日报记者董文龙通讯员米静李晓艳“哇!飞过来了!”环形障碍前,一架穿越机极速俯冲、灵活穿梭,稳稳完成绕飞动作。七月的酒泉,戈壁晴空万里,各类无人机振翼长空。课...",
+      "source": "News_Baidu",
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871964394320858413"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/07-28/10668162.shtml",
+      "title": "“热搜视频”可能是假的!起底虚假摆拍背后的“流量生意”",
+      "summary": "这些年,网络短视频蓬勃发展,拓宽了信息传播渠道,也丰富了大众文化生活,成为记录生活、普及知识、传递正能量的重要载体。但行业快速发展的同时,各类乱象也相伴而生。网上时常会出现某个短视频短时间内刷屏发酵引发热议,可随后却舆论反转的情况。乍一看这些短视频的内容,直戳人心、有话题度、传播迅速......但是查证之后却被发现是摆拍。到底是谁在炮制这些虚假内容,他们的目的又是什么?...",
+      "source": "Chinanews",
+      "date": "2026-07-28",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-28/10668162.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871948354085186891",
+      "title": "时代人物|无人码头,一个老岸桥司机还能做什么",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871948354085186891"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871961173078850156",
+      "title": "2026年世界500强企业揭晓,9家总部在上海,A..",
+      "summary": "7月28日,2026年《财富》世界500强榜单正式发布。该榜单依据企业2025年的总营收排序,中国共有122家企业入围,总部位于上海的上榜企业共有9家。“硬科技”企业的崛起是今年榜单的明显特征。无论是...",
+      "source": "News_Baidu",
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871961173078850156"
+    },
+    {
+      "id": "https://www.ithome.com/0/982/776.htm",
+      "title": "华为 HiCar 迎 7.0 正式版更新,手机端可直接启动驾驶模式",
+      "summary": "IT之家 7 月 28 日消息,华为 HiCar 昨日在华为应用市场(App Gallery)推出 7.0.0.300 (70000300) 正式版本升级。根据要求,应用需要手机系统为 HarmonyOS 6.0 及以上版本,并在支持 HUAWEI HiCar 的汽车上使用。 IT之家附华为 HiCar 本次升级内容如下: 【新增】 1、手机支持驾驶模式,可通过“设置 - 多设备协同 - HUAW...",
+      "source": "Ithome",
+      "date": "2026-07-28",
+      "url": "https://www.ithome.com/0/982/776.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871962980399740756",
+      "title": "合肥包河交警让带娃就医道路更畅通",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-07-28",
+      "url": "http://baijiahao.baidu.com/s?id=1871962980399740756"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3482681",
+      "title": "Workhorse计划于2027年推出移动式AI数据中心产品线",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-28",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3482681"
     },
     {
       "id": "https://www.japantimes.co.jp/business/2026/07/27/companies/honda-nissan-sdv/",
@@ -202,30 +261,6 @@
       "source": "Devdiscourse",
       "date": "2026-07-22",
       "url": "https://www.devdiscourse.com/article/technology/3954269-teslas-free-cash-flow-and-the-race-against-time-in-ev-innovation"
-    },
-    {
-      "id": "https://www.theverge.com/transportation/969237/nhtsa-wants-to-know-why-tesla-got-rid-of-its-radar",
-      "title": "NHTSA wants to know why Tesla got rid of its radar.",
-      "summary": "Props to Fred Lambert at Electrek for catching this: the National Highway Traffic Safety Administration is requesting from Tesla all information about a document called “Radar Saves Us” in its investi...",
-      "source": "The Verge",
-      "date": "2026-07-22",
-      "url": "https://www.theverge.com/transportation/969237/nhtsa-wants-to-know-why-tesla-got-rid-of-its-radar"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-firms-raise-over-27-billion-in-hong-kong-to-fuel-ai-chip-expansion/articleshow/132554758.cms",
-      "title": "Global Market: Chinese tech firms raise over $27 billion in Hong Kong to fuel AI, chip expansion",
-      "summary": "Chinese technology firms are actively raising substantial funds in Hong Kong. These companies are financing growth in artificial intelligence and semiconductor sectors. Advanced manufacturing and auto...",
-      "source": "The Economic Times",
-      "date": "2026-07-22",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-firms-raise-over-27-billion-in-hong-kong-to-fuel-ai-chip-expansion/articleshow/132554758.cms"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/earnings/26/07/60599635/gm-ceo-mary-barra-says-chinas-price-war-isnt-sustainable-backs-companys-autonomous-driving-efforts-amid-nearly-11-billion-in-ev-charges",
-      "title": "GM CEO Mary Barra Says China's Price War Isn't 'Sustainable,' Backs Company's Autonomous Driving Efforts",
-      "summary": "GM CEO Mary Barra says China's EV price war is unsustainable; believes autonomy will provide pricing power....",
-      "source": "Benzinga",
-      "date": "2026-07-22",
-      "url": "https://www.benzinga.com/markets/earnings/26/07/60599635/gm-ceo-mary-barra-says-chinas-price-war-isnt-sustainable-backs-companys-autonomous-driving-efforts-amid-nearly-11-billion-in-ev-charges"
     }
   ]
 }
