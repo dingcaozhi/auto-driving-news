@@ -1,151 +1,167 @@
 {
-  "lastUpdated": "2026-07-31 03:36:38",
-  "totalCount": 26,
+  "lastUpdated": "2026-08-01 03:36:11",
+  "totalCount": 27,
   "sources": {
-    "Imobile": 2,
-    "Investing_Cn": 1,
-    "Pcauto_Cn": 2,
-    "News_Baidu": 5,
-    "Ithome": 3,
-    "Chinanews": 2,
-    "Jiemian": 1,
+    "Investing_Cn": 2,
+    "Eeo": 2,
+    "Fx168News": 2,
+    "Pcauto_Cn": 1,
+    "News_Baidu": 7,
+    "News_Seehua": 2,
+    "Zaobao": 1,
+    "The Dallas Morning News": 1,
     "Devdiscourse": 2,
     "City A.M.": 1,
     "SFGATE": 2,
     "The Globe and Mail": 1,
     "The Japan Times ": 1,
     "MacRumors": 1,
-    "Reuters": 1,
-    "The Star": 1
+    "Reuters": 1
   },
   "news": [
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0730/235118.shtml",
-      "title": "小米昆仑技术架构、澎程系列新车重磅发布,完成双系列完整布局",
-      "summary": "7月30日,小米集团在京举办造车以来的第二场技术发布会,重磅发布小米汽车全新技术平台:小米昆仑技术架构。这是小米继摩德纳纯电平台后推出的第二套技术架构,包含小米昆仑平台、小米昆仑超级增程和小米昆仑全域安全三大核心技术。 小米集团创始人、董事长兼CEO雷军称,小米昆仑技术架构历时三年半打造,目标是造一台既有SUV外观、驾驶性和通过性,同时像房车一样拥有超大空间和布置灵活性的大空间之车。 小米汽车新系...",
-      "source": "Imobile",
-      "date": "2026-07-30",
-      "url": "http://news.imobile.com.cn/articles/2026/0730/235118.shtml"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3489170",
-      "title": "雷军:50万内最好的增程SUV之一!小米澎程N90 Max预售29.99万元,能否复制YU7热度?",
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3492005",
+      "title": "Cantor Fitzgerald维持Rivian Automotive Inc股票中性评级",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-07-30",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3489170"
+      "date": "2026-07-31",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3492005"
     },
     {
-      "id": "http://www.pcauto.com.cn/news/5176/51765392.html",
-      "title": "小米澎程N90 Max 首搭RoboSense速腾聚创全固态激光雷达",
+      "id": "https://cn.investing.com/news/transcripts/article-93CH-3491965",
+      "title": "住友化学2026财年一季度利润大幅跃升,股价上涨4.4%",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-07-31",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3491965"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0731/982027.shtml",
+      "title": "小米汽车逆势加入增程赛道,澎程系列SUV能否担当大任",
+      "summary": "曾在2024年明确表示“在未来数年里,也没有增程车型”的小米汽车,已经“食言”。切入增程赛道后,小米汽车形成了“纯电+增程”双技术路线产品布局。...",
+      "source": "Eeo",
+      "date": "2026-07-31",
+      "url": "http://www.eeo.com.cn/2026/0731/982027.shtml"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0731/982026.shtml",
+      "title": "监管风暴延续!继埃安、小鹏后工信部再查奇瑞、蔚来、江淮",
+      "summary": "随着奇瑞、蔚来、江淮等更多企业被纳入检查范围,工信部的行动意图清晰显现:这是一次面向全行业的系统性“普查”,后续将有更多车企接受类似检查。...",
+      "source": "Eeo",
+      "date": "2026-07-31",
+      "url": "http://www.eeo.com.cn/2026/0731/982026.shtml"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1067209",
+      "title": "谷歌-A(GOOGL)股票7月31日盘中上涨3.12%:释放什么信号?-FX168",
+      "summary": "谷歌-A (GOOGL) 盘中上涨3.12%, 所属行业软件与信息技术服务上涨0.05% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 微软 (MSFT) 上涨 2.41%;Meta Platforms Inc (META) 上涨 1.39%;谷歌-A (GOOGL) 上涨 3.12%。 今日是什么导致了谷歌-A(GOOGL)股价上涨? Alphabet在今天的交易日中呈现出显著的上行趋势,这主要得...",
+      "source": "Fx168News",
+      "date": "2026-07-31",
+      "url": "https://www.fx168news.com/article/1067209"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1067206",
+      "title": "谷歌-C(GOOG)股票7月31日盘中上涨3.03%:原因全解读-FX168",
+      "summary": "谷歌-C (GOOG) 盘中上涨3.03%, 所属行业软件与信息技术服务上涨0.05% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 微软 (MSFT) 上涨 2.41%;Meta Platforms Inc (META) 上涨 1.39%;谷歌-A (GOOGL) 上涨 3.12%。 今日是什么导致了谷歌-C(GOOG)股价上涨? Alphabet的上升势头主要受到市场对其最新季度财报反应的推动,...",
+      "source": "Fx168News",
+      "date": "2026-07-31",
+      "url": "https://www.fx168news.com/article/1067206"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5176/51765571.html",
+      "title": "元戎启行Superfluid Lab负责人阮翀:基座模型是一种信仰",
       "summary": "NewsData报道",
       "source": "Pcauto_Cn",
-      "date": "2026-07-30",
-      "url": "http://www.pcauto.com.cn/news/5176/51765392.html"
+      "date": "2026-07-31",
+      "url": "http://www.pcauto.com.cn/news/5176/51765571.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872128856327544609",
-      "title": "不拼整机拼“大脑” 杭州滨江低空经济亮“肌肉”",
+      "id": "http://baijiahao.baidu.com/s?id=1872231565042626823",
+      "title": "中国建筑节能协会智慧建筑专业委员实地观摩万物云灵石..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-30",
-      "url": "http://baijiahao.baidu.com/s?id=1872128856327544609"
+      "date": "2026-07-31",
+      "url": "http://baijiahao.baidu.com/s?id=1872231565042626823"
     },
     {
-      "id": "https://www.ithome.com/0/983/903.htm",
-      "title": "小米澎程系列技术发布会一文汇总:雷军详解昆仑架构,N90/N70 预售价亮眼",
-      "summary": "久等了,小米澎程系列新车终于迎来首秀,就在今天(7 月 30 日)19:00,SKYNOMAD 小米澎程小米汽车技术发布会如期举行。 这是小米汽车的第二次技术发布会,距 2023 年 12 月 28 日的首场,已过去两年半之久。 如果说 SU7/YU7 系列是小米交出的第一份答卷,那么澎程这个历时三年半打磨的第二个产品系列,便是小米打出的第二张牌。 在本场发布会中,澎程系列两款全新车型 —— 大七...",
-      "source": "Ithome",
-      "date": "2026-07-30",
-      "url": "https://www.ithome.com/0/983/903.htm"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0730/235117.shtml",
-      "title": "纯平地台+旋转座椅,澎程N90玩出花",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-07-30",
-      "url": "http://news.imobile.com.cn/articles/2026/0730/235117.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/07-30/10669555.shtml",
-      "title": "中越跨境自驾游趋热 海关高效助力游客“丝滑过关”畅游山水",
-      "summary": "中新网广西凭祥7月30日电(谢豪 林洁琪)广西友谊关海关30日介绍,友谊关口岸作为直达越南河内的陆路便捷通道,吸引不少汽车、摩托车骑行爱好者组团赴越长线游览,海关优化专属通关模式,以精准监管、温情服务架起中越文旅交流“连心桥”。...",
-      "source": "Chinanews",
-      "date": "2026-07-30",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-30/10669555.shtml"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14852803.html",
-      "title": "小米澎程两款增程SUV亮相, 预售价N70 MAX 25.99万元、N90 MAX 29.99万元",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-07-30",
-      "url": "https://www.jiemian.com/article/14852803.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872141421564311775",
-      "title": "AI赋能千行百业,就业迎来哪些新变化?",
+      "id": "http://baijiahao.baidu.com/s?id=1872212876845812106",
+      "title": "孟丽霞:方向盘上的坚守",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-30",
-      "url": "http://baijiahao.baidu.com/s?id=1872141421564311775"
+      "date": "2026-07-31",
+      "url": "http://baijiahao.baidu.com/s?id=1872212876845812106"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872144709850865727",
-      "title": "全国首个!行深智能通过ASPICE 4.0认证",
+      "id": "https://news.seehua.com/post/1523236",
+      "title": "马路慢跑易生意外 砂陆交局提醒别在路上跑",
+      "summary": "(美里31日讯)陆路交通局提醒民众,慢跑和运动有益健康,但应选择安全地点进行,避免在马路上跑步,以免发生交通意 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-31",
+      "url": "https://news.seehua.com/post/1523236"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872237273680874991",
+      "title": "杨元飞做客“2026夏令热线·区长访谈”,回应了这..",
+      "summary": "今天(7月31日)上午,区委副书记、区长杨元飞走进上海人民广播电台《2026夏令热线·区长访谈》节目直播间,现场接听群众来电诉求,统筹督办各类民生问题,以实打实举措回应群众期盼、增进民生福祉。“乐高乐园的运营 离不开方方...",
+      "source": "News_Baidu",
+      "date": "2026-07-31",
+      "url": "http://baijiahao.baidu.com/s?id=1872237273680874991"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872236124384594530",
+      "title": "具身智能走到哪了:缺数据是共识,大模型“根基不稳”",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-30",
-      "url": "http://baijiahao.baidu.com/s?id=1872144709850865727"
+      "date": "2026-07-31",
+      "url": "http://baijiahao.baidu.com/s?id=1872236124384594530"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872144646569172782",
-      "title": "禁用科技手段猎捕野生动物!新版《重庆市野生动物保护..",
+      "id": "http://baijiahao.baidu.com/s?id=1872218163772285289",
+      "title": "单次生成视频时长提升至30秒!Seedance2...",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-30",
-      "url": "http://baijiahao.baidu.com/s?id=1872144646569172782"
+      "date": "2026-07-31",
+      "url": "http://baijiahao.baidu.com/s?id=1872218163772285289"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872144081073686284",
-      "title": "一查到底!“知名博主浦东机场遭抛客案”又有进展,揭..",
+      "id": "http://baijiahao.baidu.com/s?id=1872230305011798177",
+      "title": "人工智能让通关跑出加速度",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-30",
-      "url": "http://baijiahao.baidu.com/s?id=1872144081073686284"
+      "date": "2026-07-31",
+      "url": "http://baijiahao.baidu.com/s?id=1872230305011798177"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/07-30/10669517.shtml",
-      "title": "柯文哲妻子陈佩琪在大陆“爽游一周”,台网友:戳破“去大陆会消失”谎言......",
-      "summary": "台湾民众党前主席柯文哲妻子陈佩琪近日与儿子赴上海、杭州、北京旅行一周,返台后在社交媒体分享见闻,在岛内引发热议。有网友直呼其戳破了民进党当局“去大陆会消失”的谎言。...",
-      "source": "Chinanews",
-      "date": "2026-07-30",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669517.shtml"
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260731-9451302",
+      "title": "今年底前累积违规记分 驾驶者最多可减免六分",
+      "summary": "“驾驶者赏罚记分制”从2027年1月1日起收紧后,首次吊销驾驶执照的门槛将从累积24分降低到18分,吊销期也将延长。为确保驾驶者不会因新制度生效而突然面对被吊销或撤销驾照的风险,交通警察将对现有的累积记分进行一次性的过渡期调整。...",
+      "source": "Zaobao",
+      "date": "2026-07-31",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260731-9451302"
     },
     {
-      "id": "https://www.ithome.com/0/983/900.htm",
-      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 首台量产车正式下线:标配华为乾崑智驾,8 月 10 日开启预售",
-      "summary": "IT之家 7 月 30 日消息,由奇瑞 × 捷豹路虎合作打造的 FREELANDER 神行者品牌今日宣布,旗下首车 —— 神行者 8 的首台量产车正式下线。 新车将在 8 月 10 日开启预售 。 据介绍, 新车全系标配华为乾崑智驾 ADS 5 ;全球首批搭载高通骁龙最新一代 8397 车规级芯片;全系标配 800V 高压平台。 IT之家注意到,神行者 8 整车设计语言延续 Concept 97 ...",
-      "source": "Ithome",
-      "date": "2026-07-30",
-      "url": "https://www.ithome.com/0/983/900.htm"
+      "id": "https://news.seehua.com/post/1523157",
+      "title": "男子失联逾一天 家属菜园寻获遗体",
+      "summary": "(民都鲁31日讯)一名52岁伊班男子失联逾一天,家人四处寻找未果,今日傍晚在其自家菜园内发现他已身亡,警方接获 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-31",
+      "url": "https://news.seehua.com/post/1523157"
     },
     {
-      "id": "https://www.ithome.com/0/983/889.htm",
-      "title": "鸿蒙智行智界 RX 路测车曝光,消息称该车也经历了数百万公里路测",
-      "summary": "IT之家 7 月 30 日消息,博主 @爱叨叨的Steven 今日分享了鸿蒙智行智界 RX 的路测车照片。博主表示,路测是每辆车都会经历的事, 智界 RX 也是经历了数百万公里的路测 。 综合IT之家此前报道, 智界 RX 搭载“创新 L 形”星眸大灯和贯穿式环形星钻尾灯 ,宣称具有“极致”轮高比和悬浮式车身架构,全车 10 处气动设计布局。新车还将提供 20-22 英寸多款不同样式轮毂,并可选红...",
-      "source": "Ithome",
-      "date": "2026-07-30",
-      "url": "https://www.ithome.com/0/983/889.htm"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5176/51765358.html",
-      "title": "FREELANDER神行者8首款量产车下线 将于8月10日预售",
+      "id": "http://baijiahao.baidu.com/s?id=1872231188079612401",
+      "title": "科创文旅融合!青岛市市南区:科技消费“飞入寻常百姓..",
       "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
+      "source": "News_Baidu",
+      "date": "2026-07-31",
+      "url": "http://baijiahao.baidu.com/s?id=1872231188079612401"
+    },
+    {
+      "id": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php",
+      "title": "What to know about Tesla's gold Cybercabs in Dallas",
+      "summary": "From operating hours to service areas, here's what to know about Tesla's gold autonomous vehicles now driving through Dallas neighborhoods....",
+      "source": "The Dallas Morning News",
       "date": "2026-07-30",
-      "url": "http://www.pcauto.com.cn/news/5176/51765358.html"
+      "url": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php"
     },
     {
       "id": "https://www.devdiscourse.com/article/technology/3957234-zoox-makes-history-with-first-us-approval-for-steering-wheel-free-robotaxis",
@@ -218,14 +234,6 @@
       "source": "Reuters",
       "date": "2026-07-23",
       "url": "https://www.reuters.com/world/asia-pacific/mobileye-founder-shashua-plans-step-down-ceo-2026-07-23/"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/07/23/volkswagen-gearing-up-to-launch-self-driving-cars-in-china-from-2027",
-      "title": "Volkswagen gearing up to launch self-driving cars in China from 2027",
-      "summary": "Volkswagen plans to launch its first vehicles in China capable of Level 3 autonomous driving next year, as Europe's largest carmaker seeks to catch up in the fast-moving market for self-driving techno...",
-      "source": "The Star",
-      "date": "2026-07-23",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/23/volkswagen-gearing-up-to-launch-self-driving-cars-in-china-from-2027"
     }
   ]
 }
