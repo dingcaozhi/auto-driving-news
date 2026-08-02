@@ -1,14 +1,11 @@
 {
-  "lastUpdated": "2026-08-01 03:36:11",
-  "totalCount": 27,
+  "lastUpdated": "2026-08-02 03:36:00",
+  "totalCount": 23,
   "sources": {
-    "Investing_Cn": 2,
-    "Eeo": 2,
-    "Fx168News": 2,
-    "Pcauto_Cn": 1,
-    "News_Baidu": 7,
-    "News_Seehua": 2,
-    "Zaobao": 1,
+    "News_Baidu": 6,
+    "Time Weekly": 1,
+    "Chinanews": 5,
+    "Bjnews": 1,
     "The Dallas Morning News": 1,
     "Devdiscourse": 2,
     "City A.M.": 1,
@@ -20,140 +17,108 @@
   },
   "news": [
     {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3492005",
-      "title": "Cantor Fitzgerald维持Rivian Automotive Inc股票中性评级",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-31",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3492005"
-    },
-    {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3491965",
-      "title": "住友化学2026财年一季度利润大幅跃升,股价上涨4.4%",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-07-31",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3491965"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0731/982027.shtml",
-      "title": "小米汽车逆势加入增程赛道,澎程系列SUV能否担当大任",
-      "summary": "曾在2024年明确表示“在未来数年里,也没有增程车型”的小米汽车,已经“食言”。切入增程赛道后,小米汽车形成了“纯电+增程”双技术路线产品布局。...",
-      "source": "Eeo",
-      "date": "2026-07-31",
-      "url": "http://www.eeo.com.cn/2026/0731/982027.shtml"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0731/982026.shtml",
-      "title": "监管风暴延续!继埃安、小鹏后工信部再查奇瑞、蔚来、江淮",
-      "summary": "随着奇瑞、蔚来、江淮等更多企业被纳入检查范围,工信部的行动意图清晰显现:这是一次面向全行业的系统性“普查”,后续将有更多车企接受类似检查。...",
-      "source": "Eeo",
-      "date": "2026-07-31",
-      "url": "http://www.eeo.com.cn/2026/0731/982026.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1067209",
-      "title": "谷歌-A(GOOGL)股票7月31日盘中上涨3.12%:释放什么信号?-FX168",
-      "summary": "谷歌-A (GOOGL) 盘中上涨3.12%, 所属行业软件与信息技术服务上涨0.05% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 微软 (MSFT) 上涨 2.41%;Meta Platforms Inc (META) 上涨 1.39%;谷歌-A (GOOGL) 上涨 3.12%。 今日是什么导致了谷歌-A(GOOGL)股价上涨? Alphabet在今天的交易日中呈现出显著的上行趋势,这主要得...",
-      "source": "Fx168News",
-      "date": "2026-07-31",
-      "url": "https://www.fx168news.com/article/1067209"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1067206",
-      "title": "谷歌-C(GOOG)股票7月31日盘中上涨3.03%:原因全解读-FX168",
-      "summary": "谷歌-C (GOOG) 盘中上涨3.03%, 所属行业软件与信息技术服务上涨0.05% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 微软 (MSFT) 上涨 2.41%;Meta Platforms Inc (META) 上涨 1.39%;谷歌-A (GOOGL) 上涨 3.12%。 今日是什么导致了谷歌-C(GOOG)股价上涨? Alphabet的上升势头主要受到市场对其最新季度财报反应的推动,...",
-      "source": "Fx168News",
-      "date": "2026-07-31",
-      "url": "https://www.fx168news.com/article/1067206"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5176/51765571.html",
-      "title": "元戎启行Superfluid Lab负责人阮翀:基座模型是一种信仰",
-      "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-07-31",
-      "url": "http://www.pcauto.com.cn/news/5176/51765571.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872231565042626823",
-      "title": "中国建筑节能协会智慧建筑专业委员实地观摩万物云灵石..",
+      "id": "http://baijiahao.baidu.com/s?id=1872331880707295554",
+      "title": "戈壁深处的“橘色防线”——记甘肃省酒泉公路事业发展..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-31",
-      "url": "http://baijiahao.baidu.com/s?id=1872231565042626823"
+      "date": "2026-08-01",
+      "url": "http://baijiahao.baidu.com/s?id=1872331880707295554"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872212876845812106",
-      "title": "孟丽霞:方向盘上的坚守",
+      "id": "https://www.time-weekly.com/post/331550",
+      "title": "智驾“小蓝灯”监管将收紧:新车禁原厂搭载,存量车或OTA关停蓝光",
+      "summary": "本文来源:消费者报道 作者:郭美婷 行驶在路上,你是否注意过车尾亮起蓝青色光带的车辆? 图源:来源于网络 这种光带俗称为“小蓝灯”,专业名称为ADS自动驾驶系统标志灯,通常在车辆激活辅助驾驶时自动点亮,旨在向周边传递智驾系统正在工作的信号。 不过,近日有消息称,由于不符合GB 4785-2019《汽车及挂车外部照明和光信号装置的安装规定》,未来乘用车安装“小蓝灯”或将受到限制。前述安装规定为现行强...",
+      "source": "Time Weekly",
+      "date": "2026-08-01",
+      "url": "https://www.time-weekly.com/post/331550"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/08-01/10670652.shtml",
+      "title": "高端访谈丨专访斯洛伐克总统彼得·佩列格里尼",
+      "summary": "《高端访谈》专访斯洛伐克总统彼得·佩列格里尼。就任总统后首次对中国进行国事访问,佩列格里尼总统表示,“我看到了中国十多年来发生的巨大变化,今天的中国相较十多年前取得了显著发展,我真的非常钦佩。”他说,“我认为,在习近平主席的领导下,中国近年来取得了举世瞩目的发展成就。”...",
+      "source": "Chinanews",
+      "date": "2026-08-01",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670652.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872329869104751514",
+      "title": "王牌飞行员讲述:两夺“金头盔”的背后",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-31",
-      "url": "http://baijiahao.baidu.com/s?id=1872212876845812106"
+      "date": "2026-08-01",
+      "url": "http://baijiahao.baidu.com/s?id=1872329869104751514"
     },
     {
-      "id": "https://news.seehua.com/post/1523236",
-      "title": "马路慢跑易生意外 砂陆交局提醒别在路上跑",
-      "summary": "(美里31日讯)陆路交通局提醒民众,慢跑和运动有益健康,但应选择安全地点进行,避免在马路上跑步,以免发生交通意 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-31",
-      "url": "https://news.seehua.com/post/1523236"
+      "id": "https://www.chinanews.com.cn/sh/2026/08-01/10670648.shtml",
+      "title": "科技体验、夜间研学 暑期文旅花样上新",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-08-01",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670648.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872237273680874991",
-      "title": "杨元飞做客“2026夏令热线·区长访谈”,回应了这..",
-      "summary": "今天(7月31日)上午,区委副书记、区长杨元飞走进上海人民广播电台《2026夏令热线·区长访谈》节目直播间,现场接听群众来电诉求,统筹督办各类民生问题,以实打实举措回应群众期盼、增进民生福祉。“乐高乐园的运营 离不开方方...",
-      "source": "News_Baidu",
-      "date": "2026-07-31",
-      "url": "http://baijiahao.baidu.com/s?id=1872237273680874991"
+      "id": "https://www.chinanews.com.cn/gn/2026/08-01/10670628.shtml",
+      "title": "【长江十年行】长江十年 贵州用十个故事作答",
+      "summary": "长江,中华民族的母亲河,自唐古拉山的冰川发端,奔涌六千三百余公里,枝繁脉盛、河湖共生,横贯华夏大地。...",
+      "source": "Chinanews",
+      "date": "2026-08-01",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670628.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872236124384594530",
-      "title": "具身智能走到哪了:缺数据是共识,大模型“根基不稳”",
+      "id": "http://baijiahao.baidu.com/s?id=1872326628328158239",
+      "title": "脱下军装后,他们去了哪里?",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-31",
-      "url": "http://baijiahao.baidu.com/s?id=1872236124384594530"
+      "date": "2026-08-01",
+      "url": "http://baijiahao.baidu.com/s?id=1872326628328158239"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872218163772285289",
-      "title": "单次生成视频时长提升至30秒!Seedance2...",
+      "id": "http://baijiahao.baidu.com/s?id=1872320427343178325",
+      "title": "新思想引领新征程丨在党的旗帜下书写强军兴军新荣光",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-31",
-      "url": "http://baijiahao.baidu.com/s?id=1872218163772285289"
+      "date": "2026-08-01",
+      "url": "http://baijiahao.baidu.com/s?id=1872320427343178325"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872230305011798177",
-      "title": "人工智能让通关跑出加速度",
+      "id": "https://www.chinanews.com.cn/dwq/2026/08-01/10670594.shtml",
+      "title": "探访皇岗口岸港方口岸区:解锁快捷通关三组“密码”",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-08-01",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-01/10670594.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872310898832961765",
+      "title": "军情时间到丨建军百年在即 四军种今年迎来哪些新装备..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-31",
-      "url": "http://baijiahao.baidu.com/s?id=1872230305011798177"
+      "date": "2026-08-01",
+      "url": "http://baijiahao.baidu.com/s?id=1872310898832961765"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260731-9451302",
-      "title": "今年底前累积违规记分 驾驶者最多可减免六分",
-      "summary": "“驾驶者赏罚记分制”从2027年1月1日起收紧后,首次吊销驾驶执照的门槛将从累积24分降低到18分,吊销期也将延长。为确保驾驶者不会因新制度生效而突然面对被吊销或撤销驾照的风险,交通警察将对现有的累积记分进行一次性的过渡期调整。...",
-      "source": "Zaobao",
-      "date": "2026-07-31",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260731-9451302"
+      "id": "https://www.bjnews.com.cn/detail/1785557935129903.html",
+      "title": "征兵可以做哪些近视手术?连云港征兵摘镜合规术式权威科普",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-01",
+      "url": "https://www.bjnews.com.cn/detail/1785557935129903.html"
     },
     {
-      "id": "https://news.seehua.com/post/1523157",
-      "title": "男子失联逾一天 家属菜园寻获遗体",
-      "summary": "(民都鲁31日讯)一名52岁伊班男子失联逾一天,家人四处寻找未果,今日傍晚在其自家菜园内发现他已身亡,警方接获 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-07-31",
-      "url": "https://news.seehua.com/post/1523157"
+      "id": "https://www.chinanews.com.cn/gn/2026/08-01/10670631.shtml",
+      "title": "从算力底座到终端应用 “中国智造”全面出海",
+      "summary": "以高技术制造业、人工智能为代表的新兴产业,正成为我国经济的核心驱动力量。国家发展改革委今日在发布会上表示,上半年,人工智能相关行业保持30%以上的高增长。...",
+      "source": "Chinanews",
+      "date": "2026-08-01",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670631.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872231188079612401",
-      "title": "科创文旅融合!青岛市市南区:科技消费“飞入寻常百姓..",
+      "id": "http://baijiahao.baidu.com/s?id=1872319410343008240",
+      "title": "航天巾帼:星河逐梦征途不止|载人航天精神",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-07-31",
-      "url": "http://baijiahao.baidu.com/s?id=1872231188079612401"
+      "date": "2026-08-01",
+      "url": "http://baijiahao.baidu.com/s?id=1872319410343008240"
     },
     {
       "id": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php",
