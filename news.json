@@ -1,11 +1,16 @@
 {
-  "lastUpdated": "2026-08-02 03:36:00",
-  "totalCount": 23,
+  "lastUpdated": "2026-08-03 03:38:35",
+  "totalCount": 30,
   "sources": {
-    "News_Baidu": 6,
-    "Time Weekly": 1,
-    "Chinanews": 5,
-    "Bjnews": 1,
+    "Chinanews": 2,
+    "News_Baidu": 7,
+    "Bjnews": 2,
+    "Cri_Cn": 3,
+    "Jiemian": 1,
+    "Zaobao": 1,
+    "Orientaldaily": 2,
+    "A199It": 1,
+    "Ithome": 1,
     "The Dallas Morning News": 1,
     "Devdiscourse": 2,
     "City A.M.": 1,
@@ -17,108 +22,164 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872331880707295554",
-      "title": "戈壁深处的“橘色防线”——记甘肃省酒泉公路事业发展..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-01",
-      "url": "http://baijiahao.baidu.com/s?id=1872331880707295554"
-    },
-    {
-      "id": "https://www.time-weekly.com/post/331550",
-      "title": "智驾“小蓝灯”监管将收紧:新车禁原厂搭载,存量车或OTA关停蓝光",
-      "summary": "本文来源:消费者报道 作者:郭美婷 行驶在路上,你是否注意过车尾亮起蓝青色光带的车辆? 图源:来源于网络 这种光带俗称为“小蓝灯”,专业名称为ADS自动驾驶系统标志灯,通常在车辆激活辅助驾驶时自动点亮,旨在向周边传递智驾系统正在工作的信号。 不过,近日有消息称,由于不符合GB 4785-2019《汽车及挂车外部照明和光信号装置的安装规定》,未来乘用车安装“小蓝灯”或将受到限制。前述安装规定为现行强...",
-      "source": "Time Weekly",
-      "date": "2026-08-01",
-      "url": "https://www.time-weekly.com/post/331550"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-01/10670652.shtml",
-      "title": "高端访谈丨专访斯洛伐克总统彼得·佩列格里尼",
-      "summary": "《高端访谈》专访斯洛伐克总统彼得·佩列格里尼。就任总统后首次对中国进行国事访问,佩列格里尼总统表示,“我看到了中国十多年来发生的巨大变化,今天的中国相较十多年前取得了显著发展,我真的非常钦佩。”他说,“我认为,在习近平主席的领导下,中国近年来取得了举世瞩目的发展成就。”...",
-      "source": "Chinanews",
-      "date": "2026-08-01",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670652.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872329869104751514",
-      "title": "王牌飞行员讲述:两夺“金头盔”的背后",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-01",
-      "url": "http://baijiahao.baidu.com/s?id=1872329869104751514"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/08-01/10670648.shtml",
-      "title": "科技体验、夜间研学 暑期文旅花样上新",
+      "id": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
+      "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守",
       "summary": "NewsData报道",
       "source": "Chinanews",
-      "date": "2026-08-01",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-01/10670648.shtml"
+      "date": "2026-08-02",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-01/10670628.shtml",
-      "title": "【长江十年行】长江十年 贵州用十个故事作答",
-      "summary": "长江,中华民族的母亲河,自唐古拉山的冰川发端,奔涌六千三百余公里,枝繁脉盛、河湖共生,横贯华夏大地。...",
-      "source": "Chinanews",
-      "date": "2026-08-01",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670628.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872326628328158239",
-      "title": "脱下军装后,他们去了哪里?",
+      "id": "http://baijiahao.baidu.com/s?id=1872399419667281106",
+      "title": "「天眼问政」从“问题反复”到“多方认领”,花溪大道..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-01",
-      "url": "http://baijiahao.baidu.com/s?id=1872326628328158239"
+      "date": "2026-08-02",
+      "url": "http://baijiahao.baidu.com/s?id=1872399419667281106"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872320427343178325",
-      "title": "新思想引领新征程丨在党的旗帜下书写强军兴军新荣光",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-01",
-      "url": "http://baijiahao.baidu.com/s?id=1872320427343178325"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/dwq/2026/08-01/10670594.shtml",
-      "title": "探访皇岗口岸港方口岸区:解锁快捷通关三组“密码”",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-08-01",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-01/10670594.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872310898832961765",
-      "title": "军情时间到丨建军百年在即 四军种今年迎来哪些新装备..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-01",
-      "url": "http://baijiahao.baidu.com/s?id=1872310898832961765"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785557935129903.html",
-      "title": "征兵可以做哪些近视手术?连云港征兵摘镜合规术式权威科普",
+      "id": "https://www.bjnews.com.cn/detail/1785648476129365.html",
+      "title": "丹霞碧水间,青海尖扎如何守护黄河上游生态屏障",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-01",
-      "url": "https://www.bjnews.com.cn/detail/1785557935129903.html"
+      "date": "2026-08-02",
+      "url": "https://www.bjnews.com.cn/detail/1785648476129365.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-01/10670631.shtml",
-      "title": "从算力底座到终端应用 “中国智造”全面出海",
-      "summary": "以高技术制造业、人工智能为代表的新兴产业,正成为我国经济的核心驱动力量。国家发展改革委今日在发布会上表示,上半年,人工智能相关行业保持30%以上的高增长。...",
-      "source": "Chinanews",
-      "date": "2026-08-01",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670631.shtml"
+      "id": "https://news.cri.cn/20260802/67717299-d5af-5518-5ab0-cafd84e52add.html",
+      "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守-国际在线",
+      "summary": "天山网-新疆日报记者杨舒涵 7月30日清晨,戈壁尚在沉睡,晨曦微露,哈密市伊吾县下马崖乡坎儿井源头便响起铁锹掘地的声音。 第一缕阳光掠过艾孜木山时,渠水正泛着碎金般的光。村民阿不力孜·买买提尼亚孜蹲在渠边,粗糙的手掌探...",
+      "source": "Cri_Cn",
+      "date": "2026-08-02",
+      "url": "https://news.cri.cn/20260802/67717299-d5af-5518-5ab0-cafd84e52add.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872319410343008240",
-      "title": "航天巾帼:星河逐梦征途不止|载人航天精神",
+      "id": "http://baijiahao.baidu.com/s?id=1872417727890035371",
+      "title": "记者手记:亮剑“南大门”",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-01",
-      "url": "http://baijiahao.baidu.com/s?id=1872319410343008240"
+      "date": "2026-08-02",
+      "url": "http://baijiahao.baidu.com/s?id=1872417727890035371"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872414770150218548",
+      "title": "新石器无人车亮相“川超”冠军之夜 科技与体育同框",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-02",
+      "url": "http://baijiahao.baidu.com/s?id=1872414770150218548"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1785661674129482.html",
+      "title": "春秋航空回应摆渡车空调故障:系突发设备异常,已启动全队排查",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-02",
+      "url": "https://www.bjnews.com.cn/detail/1785661674129482.html"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14862333.html",
+      "title": "一周新车盘点|小米澎程首发两款增程SUV 奥迪首发新旗舰SUV Q9",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-08-02",
+      "url": "https://www.jiemian.com/article/14862333.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872405804938397733",
+      "title": "我飞行员强势回应外军:I just want to..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-02",
+      "url": "http://baijiahao.baidu.com/s?id=1872405804938397733"
+    },
+    {
+      "id": "https://news.cri.cn/20260802/66e54e37-bd3c-f9c2-ba5d-4cdf6982b8f7.html",
+      "title": "视频丨海外游客来了再来!城市见证入境游转型新图景-国际在线",
+      "summary": "这个夏天入境游热度持续攀升从一、二线核心都市到烟火浓郁的三、四线小城海外游客的旅行边界不断拓宽入境游市场发展已然从观光打卡的1.0时代迈入沉浸式体验的2.0时代一起走进几个特色城市看看他们对海外游客的核心吸引力北京一站式通关外国游客出行更省...",
+      "source": "Cri_Cn",
+      "date": "2026-08-02",
+      "url": "https://news.cri.cn/20260802/66e54e37-bd3c-f9c2-ba5d-4cdf6982b8f7.html"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/sea/story20260802-9459825",
+      "title": "马国平均每天18人死于车祸 59%是电单车骑士",
+      "summary": "马来西亚卫生部长祖基菲里披露,马国平均每天有18人死于道路交通事故,其中高达59%的死者是电单车骑士。...",
+      "source": "Zaobao",
+      "date": "2026-08-02",
+      "url": "https://www.zaobao.com.sg/news/sea/story20260802-9459825"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/08/02/837786",
+      "title": "倒退车疑误踏油门 轿车坠落河岸1人伤",
+      "summary": "(亚庇2日讯)一辆载有3人轿车在倒退时,疑误踏油门而失控坠落河岸,造成车内一人受轻伤送院治疗。这起事故于昨晚8时30分,在保佛再也商店后方发生。据悉,司机在路面从停车位上倒退车时,准备踩刹车器停车,不料疑似误踩油门踏板,导致车辆突然失控,直冲河边酿成这起意外事故。当地消防单位接获投报后,迅速派出7人小组前往2公里的案发现场展开救援行动。坠河车子在消防员抵达前,车内人员已获民众救上岸,一人脚部受轻伤...",
+      "source": "Orientaldaily",
+      "date": "2026-08-02",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/08/02/837786"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/08/02/837785",
+      "title": "南北大道摩哆失控撞休旅车酿连环撞 56岁狮城骑士当场不治",
+      "summary": "(新山2日讯)疑摩哆失控撞及轿车尾部引发连环撞,造成一名新加坡籍骑士当场不治,另有2名骑士受伤送院。古来警区主任陈胜利助理总监今日发出文告证实,上述事故是在今午2时05分许,在南北大道南下方向第44.6公里处发生,涉及一辆丰田休旅车以及3辆铃木摩哆。据警方初步调查,事故相信是由一名56岁新加坡籍男骑士所引发。事发时,该名骑士与另外两名分别57岁及39岁的本地籍骑士,一同从北往南方向行驶。他指出,当...",
+      "source": "Orientaldaily",
+      "date": "2026-08-02",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/08/02/837785"
+    },
+    {
+      "id": "http://www.199it.com/archives/1843267.html",
+      "title": "2026年7月极氪交付新车35837辆 同比暴涨111%",
+      "summary": "极氪官方公布2026年7月交付数据,单月交付35837辆,同比增长111%。累计用户超85万。9X蝉联50万级豪华SUV销量冠军,8X上市半小时大定破万,7X累计交付近17万辆,猎装车累计交付超38万辆,占全球七成份额。极氪参与一体化压铸获科技进步奖二等奖。...",
+      "source": "A199It",
+      "date": "2026-08-02",
+      "url": "http://www.199it.com/archives/1843267.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872407884137965297",
+      "title": "全球媒体聚焦|英媒:中国布局 AI 变革 值得西方..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-02",
+      "url": "http://baijiahao.baidu.com/s?id=1872407884137965297"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872366673791362910",
+      "title": "五个“第一”同框!带你走进功勋荣誉部队",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-02",
+      "url": "http://baijiahao.baidu.com/s?id=1872366673791362910"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/08-02/10670879.shtml",
+      "title": "以“第一”之名赴强军之约",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-08-02",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670879.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260802/ffd3fb48-ee56-4465-a4c1-7cd2db3a3f68.html",
+      "title": "以“第一”之名赴强军之约(强军路上)-国际在线",
+      "summary": "今年是中国人民解放军建军99周年,也是打好实现建军一百年奋斗目标攻坚战的关键一年。走过九十九载峥嵘岁月,人民军队历经硝烟战火,一路披荆斩棘,付出巨大牺牲,取得一个又一个辉煌胜利,为党和人民建立了伟大的历史功勋。 从三湾改编的军魂奠基,...",
+      "source": "Cri_Cn",
+      "date": "2026-08-02",
+      "url": "https://news.cri.cn/20260802/ffd3fb48-ee56-4465-a4c1-7cd2db3a3f68.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/984/752.htm",
+      "title": "长城魏牌 V9X 首次 OTA:新增小魏同学 Agent 可自然对话、多指令车控",
+      "summary": "IT之家 8 月 2 日消息,长城旗下魏牌官方宣布,魏牌 V9X 首次 OTA 新增 20+ 项功能、升级 150+ 项功能。 IT之家附本次 OTA 主要内容如下: 新增小魏同学 Agent 语音多地址导航:一句话包含多个地址,系统智能识别并按顺序规划路线; 生活小百科:有疑问的时候就说:“小魏同学,陪我聊一会”; AI 识别:理解精确 / 模糊语音指令,且支持多位置连续指令、精准识别需求。 高...",
+      "source": "Ithome",
+      "date": "2026-08-02",
+      "url": "https://www.ithome.com/0/984/752.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872388302936193601",
+      "title": "来顾村!三伏天“凉飕飕”开赛车~",
+      "summary": "暑期去哪儿玩?来宝山区顾村镇的智慧湾科创园体验赛车的速度与激情或许是个不错的选择。赛车迷、休闲党、聚会党都会喜欢的好去处,把赛车场搬进室内,不要风吹日晒,即可体验飞车般沉浸式赛车体验,硬件配置到位,环境好,氛围棒。在园区...",
+      "source": "News_Baidu",
+      "date": "2026-08-02",
+      "url": "http://baijiahao.baidu.com/s?id=1872388302936193601"
     },
     {
       "id": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php",
