@@ -1,185 +1,207 @@
 {
-  "lastUpdated": "2026-08-03 03:38:35",
-  "totalCount": 30,
+  "lastUpdated": "2026-08-04 03:21:43",
+  "totalCount": 31,
   "sources": {
-    "Chinanews": 2,
-    "News_Baidu": 7,
-    "Bjnews": 2,
-    "Cri_Cn": 3,
-    "Jiemian": 1,
-    "Zaobao": 1,
-    "Orientaldaily": 2,
-    "A199It": 1,
-    "Ithome": 1,
+    "Bilibili": 5,
+    "Fx168News": 1,
+    "Chinanews": 3,
+    "News_Baidu": 8,
+    "Bjnews": 1,
+    "Eeo": 1,
+    "Cri_Cn": 2,
+    "The Economic Times": 1,
+    "The Manila Times": 1,
     "The Dallas Morning News": 1,
     "Devdiscourse": 2,
     "City A.M.": 1,
     "SFGATE": 2,
     "The Globe and Mail": 1,
-    "The Japan Times ": 1,
-    "MacRumors": 1,
-    "Reuters": 1
+    "The Japan Times ": 1
   },
   "news": [
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml",
-      "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-08-02",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-02/10670954.shtml"
+      "id": "https://www.bilibili.com/video/BV1wjMd6EEpc",
+      "title": "【B站】FSD惊险一刻，告诉你不能完全信任自动驾驶",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-08-04",
+      "url": "https://www.bilibili.com/video/BV1wjMd6EEpc"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872399419667281106",
-      "title": "「天眼问政」从“问题反复”到“多方认领”,花溪大道..",
+      "id": "https://www.bilibili.com/video/BV1CV396pEPY",
+      "title": "【B站】无人驾驶15公里，这辆特斯拉太牛了",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-04",
+      "url": "https://www.bilibili.com/video/BV1CV396pEPY"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV19bM96hEew",
+      "title": "【B站】京承高速出京方向五环到怀柔段偶遇暴，Fsd雨中依然游刃有余，令人安心。#智能辅助驾驶 #特斯拉fsd自动驾驶 #高速驾驶辅助 #特斯拉智能驾驶 #特斯拉车主",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-08-04",
+      "url": "https://www.bilibili.com/video/BV19bM96hEew"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-08-04",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1LM386zEFy",
+      "title": "【B站】这是什么级的无人驾驶，好厉害啊",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-04",
+      "url": "https://www.bilibili.com/video/BV1LM386zEFy"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1068157",
+      "title": "特斯拉(TSLA)股票8月3日盘中上涨3.39%:背后推手曝光-FX168",
+      "summary": "特斯拉 (TSLA) 盘中上涨3.39%, 所属行业汽车与零部件上涨2.23% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.39%;Ford Motor Co (F) 上涨 1.29%;Rivian Automotive Inc (RIVN) 上涨 3.38%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉在本交易日的上涨势头似乎是由对其下一代车型平台的乐观...",
+      "source": "Fx168News",
+      "date": "2026-08-03",
+      "url": "https://www.fx168news.com/article/1068157"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/08-03/10671485.shtml",
+      "title": "“中国是一个高度创新的国家”(国际论道)",
+      "summary": "用于台风救灾的“现实版变形金刚”、全球AI界瞩目的“Kimi时刻”、世界人工智能大会上的“机器人天团”......近期,中国创新成果密集亮相,引发外媒持续讨论。越来越多海外媒体和研究机构注意到,中国多项原创技术、前沿研究和创新产品正跻身全球第一梯队。...",
+      "source": "Chinanews",
+      "date": "2026-08-03",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671485.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872498825672442723",
+      "title": "这五大产业,岗位人才紧缺",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-02",
-      "url": "http://baijiahao.baidu.com/s?id=1872399419667281106"
+      "date": "2026-08-03",
+      "url": "http://baijiahao.baidu.com/s?id=1872498825672442723"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1785648476129365.html",
-      "title": "丹霞碧水间,青海尖扎如何守护黄河上游生态屏障",
+      "id": "https://www.chinanews.com.cn/sh/2026/08-03/10671480.shtml",
+      "title": "开启一场自下而上的“真实中国”记录 多彩中国之“酷”圈粉全球游客沉浸体验",
+      "summary": "央视网消息:长期以来,暑期并非我国传统入境游的旺季。而2026年暑期,入境游市场不仅实现“淡季不淡”,更呈现“量质齐升”的向好态势。“China Cool”等词汇成为全球文旅热词,到中国旅游正在成为一种潮流。...",
+      "source": "Chinanews",
+      "date": "2026-08-03",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671480.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/08-03/10671472.shtml",
+      "title": "长江十年行 | 百里乌江源 处处气象新",
+      "summary": "“有迤逦碧水入眼,有奇峰峡谷相伴,坐在崖边喝一杯咖啡,便是盛夏独有的治愈享受。”沉醉在贵州省黔西市化屋村“花都里”度假营地的景致中,游客罗女士不禁感叹。...",
+      "source": "Chinanews",
+      "date": "2026-08-03",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671472.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872509868534962132",
+      "title": "5830米 猛士M817高性能版以智驾登顶世界公路..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-03",
+      "url": "http://baijiahao.baidu.com/s?id=1872509868534962132"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872510746970382822",
+      "title": "开局之年看中国·解码“产业大脑”|“一脑感知”为智..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-03",
+      "url": "http://baijiahao.baidu.com/s?id=1872510746970382822"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872509205939916929",
+      "title": "靠前慰问鼓干劲 夏送清凉护安康|六盘水公交凝心聚力..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-03",
+      "url": "http://baijiahao.baidu.com/s?id=1872509205939916929"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1785755484129186.html",
+      "title": "上海开出首批网约车平台集中处罚:12个平台479辆不合规车,罚款超2500万",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-02",
-      "url": "https://www.bjnews.com.cn/detail/1785648476129365.html"
+      "date": "2026-08-03",
+      "url": "https://www.bjnews.com.cn/detail/1785755484129186.html"
     },
     {
-      "id": "https://news.cri.cn/20260802/67717299-d5af-5518-5ab0-cafd84e52add.html",
-      "title": "铸牢中华民族共同体意识丨戈壁清泉畔的岁岁相守-国际在线",
-      "summary": "天山网-新疆日报记者杨舒涵 7月30日清晨,戈壁尚在沉睡,晨曦微露,哈密市伊吾县下马崖乡坎儿井源头便响起铁锹掘地的声音。 第一缕阳光掠过艾孜木山时,渠水正泛着碎金般的光。村民阿不力孜·买买提尼亚孜蹲在渠边,粗糙的手掌探...",
+      "id": "http://baijiahao.baidu.com/s?id=1872302403309947451",
+      "title": "严禁“特供”噱头,严禁食品“美颜”!涉食品广告,北..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-03",
+      "url": "http://baijiahao.baidu.com/s?id=1872302403309947451"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872511309932398429",
+      "title": "出租车转弯时突然停车!民警:快打120!",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-03",
+      "url": "http://baijiahao.baidu.com/s?id=1872511309932398429"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0803/985090.shtml",
+      "title": "从参数比拼到价值决胜:中大型SUV迈入家庭主场",
+      "summary": "本报讯 (记者矫月)近日,中国汽车消费者研究与评价(CCRT)发布了《CCRT新能源中大型及以上SUV用户体验洞察及趋势研判报告》(以下简称“报告”)。该报告基于2026年第一批车型评价,覆盖20款市场主流车型、2004份有效用户样本,结合4场用户定性工作坊,系统呈现了当前该品类的体验全貌与进化方向,提出市场竞争正从“参数内卷”转向“价值竞争”的研判,为行业就未来赛道的进化方向给出了多方面启示。 ...",
+      "source": "Eeo",
+      "date": "2026-08-03",
+      "url": "http://www.eeo.com.cn/2026/0803/985090.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872507318295748986",
+      "title": "中国无人驾驶出海再提速!文远知行Robotaxi驶..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-03",
+      "url": "http://baijiahao.baidu.com/s?id=1872507318295748986"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872508205069512404",
+      "title": "不对劲!上海一出租车转弯时突然停车!民警:快打12..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-03",
+      "url": "http://baijiahao.baidu.com/s?id=1872508205069512404"
+    },
+    {
+      "id": "https://news.cri.cn/20260803/a6fe8465-d202-34c0-a998-850cfecc9a54.html",
+      "title": "“中国是一个高度创新的国家”(国际论道)-国际在线",
+      "summary": "用于台风救灾的“现实版变形金刚”、全球AI界瞩目的“Kimi时刻”、世界人工智能大会上的“机器人天团”......近期,中国创新成果密集亮相,引...",
       "source": "Cri_Cn",
-      "date": "2026-08-02",
-      "url": "https://news.cri.cn/20260802/67717299-d5af-5518-5ab0-cafd84e52add.html"
+      "date": "2026-08-03",
+      "url": "https://news.cri.cn/20260803/a6fe8465-d202-34c0-a998-850cfecc9a54.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872417727890035371",
-      "title": "记者手记:亮剑“南大门”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-02",
-      "url": "http://baijiahao.baidu.com/s?id=1872417727890035371"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872414770150218548",
-      "title": "新石器无人车亮相“川超”冠军之夜 科技与体育同框",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-02",
-      "url": "http://baijiahao.baidu.com/s?id=1872414770150218548"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785661674129482.html",
-      "title": "春秋航空回应摆渡车空调故障:系突发设备异常,已启动全队排查",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-02",
-      "url": "https://www.bjnews.com.cn/detail/1785661674129482.html"
-    },
-    {
-      "id": "https://www.jiemian.com/article/14862333.html",
-      "title": "一周新车盘点|小米澎程首发两款增程SUV 奥迪首发新旗舰SUV Q9",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-08-02",
-      "url": "https://www.jiemian.com/article/14862333.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872405804938397733",
-      "title": "我飞行员强势回应外军:I just want to..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-02",
-      "url": "http://baijiahao.baidu.com/s?id=1872405804938397733"
-    },
-    {
-      "id": "https://news.cri.cn/20260802/66e54e37-bd3c-f9c2-ba5d-4cdf6982b8f7.html",
-      "title": "视频丨海外游客来了再来!城市见证入境游转型新图景-国际在线",
-      "summary": "这个夏天入境游热度持续攀升从一、二线核心都市到烟火浓郁的三、四线小城海外游客的旅行边界不断拓宽入境游市场发展已然从观光打卡的1.0时代迈入沉浸式体验的2.0时代一起走进几个特色城市看看他们对海外游客的核心吸引力北京一站式通关外国游客出行更省...",
+      "id": "https://news.cri.cn/20260803/7fe8b90f-6e96-327d-1aca-5899dbc28904.html",
+      "title": "开启一场自下而上的“真实中国”记录 多彩中国之“酷”圈粉全球游客沉浸体验-国际在线",
+      "summary": "央视网消息:长期以来,暑期并非我国传统入境游的旺季。而2026年暑期,入境游市场不仅实现“淡季不淡”,更呈现“量质齐升”的向好态势。“ChinaCool”等词汇成为...",
       "source": "Cri_Cn",
-      "date": "2026-08-02",
-      "url": "https://news.cri.cn/20260802/66e54e37-bd3c-f9c2-ba5d-4cdf6982b8f7.html"
+      "date": "2026-08-03",
+      "url": "https://news.cri.cn/20260803/7fe8b90f-6e96-327d-1aca-5899dbc28904.html"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sea/story20260802-9459825",
-      "title": "马国平均每天18人死于车祸 59%是电单车骑士",
-      "summary": "马来西亚卫生部长祖基菲里披露,马国平均每天有18人死于道路交通事故,其中高达59%的死者是电单车骑士。...",
-      "source": "Zaobao",
-      "date": "2026-08-02",
-      "url": "https://www.zaobao.com.sg/news/sea/story20260802-9459825"
+      "id": "https://economictimes.indiatimes.com/tech/technology/chinas-weride-enters-denmark-extending-european-footprint/articleshow/132820372.cms",
+      "title": "China's WeRide enters Denmark, extending European footprint",
+      "summary": "Europe has emerged as a key growth market for ‌China's autonomous driving ⁠companies, ⁠following an earlier push into the Gulf region, as they seek to ​commercialise their technology beyond their home...",
+      "source": "The Economic Times",
+      "date": "2026-08-03",
+      "url": "https://economictimes.indiatimes.com/tech/technology/chinas-weride-enters-denmark-extending-european-footprint/articleshow/132820372.cms"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/08/02/837786",
-      "title": "倒退车疑误踏油门 轿车坠落河岸1人伤",
-      "summary": "(亚庇2日讯)一辆载有3人轿车在倒退时,疑误踏油门而失控坠落河岸,造成车内一人受轻伤送院治疗。这起事故于昨晚8时30分,在保佛再也商店后方发生。据悉,司机在路面从停车位上倒退车时,准备踩刹车器停车,不料疑似误踩油门踏板,导致车辆突然失控,直冲河边酿成这起意外事故。当地消防单位接获投报后,迅速派出7人小组前往2公里的案发现场展开救援行动。坠河车子在消防员抵达前,车内人员已获民众救上岸,一人脚部受轻伤...",
-      "source": "Orientaldaily",
-      "date": "2026-08-02",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/08/02/837786"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/08/02/837785",
-      "title": "南北大道摩哆失控撞休旅车酿连环撞 56岁狮城骑士当场不治",
-      "summary": "(新山2日讯)疑摩哆失控撞及轿车尾部引发连环撞,造成一名新加坡籍骑士当场不治,另有2名骑士受伤送院。古来警区主任陈胜利助理总监今日发出文告证实,上述事故是在今午2时05分许,在南北大道南下方向第44.6公里处发生,涉及一辆丰田休旅车以及3辆铃木摩哆。据警方初步调查,事故相信是由一名56岁新加坡籍男骑士所引发。事发时,该名骑士与另外两名分别57岁及39岁的本地籍骑士,一同从北往南方向行驶。他指出,当...",
-      "source": "Orientaldaily",
-      "date": "2026-08-02",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/08/02/837785"
-    },
-    {
-      "id": "http://www.199it.com/archives/1843267.html",
-      "title": "2026年7月极氪交付新车35837辆 同比暴涨111%",
-      "summary": "极氪官方公布2026年7月交付数据,单月交付35837辆,同比增长111%。累计用户超85万。9X蝉联50万级豪华SUV销量冠军,8X上市半小时大定破万,7X累计交付近17万辆,猎装车累计交付超38万辆,占全球七成份额。极氪参与一体化压铸获科技进步奖二等奖。...",
-      "source": "A199It",
-      "date": "2026-08-02",
-      "url": "http://www.199it.com/archives/1843267.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872407884137965297",
-      "title": "全球媒体聚焦|英媒:中国布局 AI 变革 值得西方..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-02",
-      "url": "http://baijiahao.baidu.com/s?id=1872407884137965297"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872366673791362910",
-      "title": "五个“第一”同框!带你走进功勋荣誉部队",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-02",
-      "url": "http://baijiahao.baidu.com/s?id=1872366673791362910"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-02/10670879.shtml",
-      "title": "以“第一”之名赴强军之约",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-08-02",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670879.shtml"
-    },
-    {
-      "id": "https://news.cri.cn/20260802/ffd3fb48-ee56-4465-a4c1-7cd2db3a3f68.html",
-      "title": "以“第一”之名赴强军之约(强军路上)-国际在线",
-      "summary": "今年是中国人民解放军建军99周年,也是打好实现建军一百年奋斗目标攻坚战的关键一年。走过九十九载峥嵘岁月,人民军队历经硝烟战火,一路披荆斩棘,付出巨大牺牲,取得一个又一个辉煌胜利,为党和人民建立了伟大的历史功勋。 从三湾改编的军魂奠基,...",
-      "source": "Cri_Cn",
-      "date": "2026-08-02",
-      "url": "https://news.cri.cn/20260802/ffd3fb48-ee56-4465-a4c1-7cd2db3a3f68.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/984/752.htm",
-      "title": "长城魏牌 V9X 首次 OTA:新增小魏同学 Agent 可自然对话、多指令车控",
-      "summary": "IT之家 8 月 2 日消息,长城旗下魏牌官方宣布,魏牌 V9X 首次 OTA 新增 20+ 项功能、升级 150+ 项功能。 IT之家附本次 OTA 主要内容如下: 新增小魏同学 Agent 语音多地址导航:一句话包含多个地址,系统智能识别并按顺序规划路线; 生活小百科:有疑问的时候就说:“小魏同学,陪我聊一会”; AI 识别:理解精确 / 模糊语音指令,且支持多位置连续指令、精准识别需求。 高...",
-      "source": "Ithome",
-      "date": "2026-08-02",
-      "url": "https://www.ithome.com/0/984/752.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872388302936193601",
-      "title": "来顾村!三伏天“凉飕飕”开赛车~",
-      "summary": "暑期去哪儿玩?来宝山区顾村镇的智慧湾科创园体验赛车的速度与激情或许是个不错的选择。赛车迷、休闲党、聚会党都会喜欢的好去处,把赛车场搬进室内,不要风吹日晒,即可体验飞车般沉浸式赛车体验,硬件配置到位,环境好,氛围棒。在园区...",
-      "source": "News_Baidu",
-      "date": "2026-08-02",
-      "url": "http://baijiahao.baidu.com/s?id=1872388302936193601"
+      "id": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/weride-and-greenmobility-announce-strategic-partnership-to-advance-level-4-autonomous-mobility-in-denmark-marking-werides-entry-into-the-nordic-region/2396696",
+      "title": "WeRide and GreenMobility Announce Strategic Partnership to Advance Level 4 Autonomous Mobility in Denmark, Marking WeRide’s Entry into the Nordic Region",
+      "summary": "COPENHAGEN, Denmark, Aug. 03, 2026 (GLOBE NEWSWIRE) -- WeRide (Nasdaq: WRD, HKEX: 0800), a global leader in autonomous driving technology, and GreenMobility (Nasdaq Copenhagen: GREENM), Denmark's lead...",
+      "source": "The Manila Times",
+      "date": "2026-08-03",
+      "url": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/weride-and-greenmobility-announce-strategic-partnership-to-advance-level-4-autonomous-mobility-in-denmark-marking-werides-entry-into-the-nordic-region/2396696"
     },
     {
       "id": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php",
@@ -236,30 +258,6 @@
       "source": "The Japan Times ",
       "date": "2026-07-27",
       "url": "https://www.japantimes.co.jp/business/2026/07/27/companies/honda-nissan-sdv/"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3954776-leadership-shift-at-mobileye-amid-autonomous-driving-push",
-      "title": "Leadership Shift at Mobileye Amid Autonomous Driving Push",
-      "summary": "Amnon Shashua, CEO of Mobileye, is stepping down as the company focuses on expanding its robotaxi and robotics services. This leadership change comes as Mobileye faces a projected revenue drop and dec...",
-      "source": "Devdiscourse",
-      "date": "2026-07-23",
-      "url": "https://www.devdiscourse.com/article/technology/3954776-leadership-shift-at-mobileye-amid-autonomous-driving-push"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/",
-      "title": "Apple Maps to Help Power Autonomous Driving in Ford's 2027 EV",
-      "summary": "Apple and Ford today announced announced that Apple Maps will power the navigation system in Ford's upcoming Universal Electric Vehicle (UEV) Platform, launching in 2027 at a price point around $30,00...",
-      "source": "MacRumors",
-      "date": "2026-07-23",
-      "url": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/"
-    },
-    {
-      "id": "https://www.reuters.com/world/asia-pacific/mobileye-founder-shashua-plans-step-down-ceo-2026-07-23/",
-      "title": "Mobileye founder Shashua plans to step down as CEO",
-      "summary": "Mobileye Global said on Thursday that founder ​Amnon Shashua plans to ‌step down as chief executive officer once a successor is appointed, ​as the autonomous driving technology ​maker launched a searc...",
-      "source": "Reuters",
-      "date": "2026-07-23",
-      "url": "https://www.reuters.com/world/asia-pacific/mobileye-founder-shashua-plans-step-down-ceo-2026-07-23/"
     }
   ]
 }
