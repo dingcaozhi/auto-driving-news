@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-08-04 03:21:43",
-  "totalCount": 31,
+  "lastUpdated": "2026-08-05 03:17:27",
+  "totalCount": 28,
   "sources": {
-    "Bilibili": 5,
-    "Fx168News": 1,
-    "Chinanews": 3,
-    "News_Baidu": 8,
-    "Bjnews": 1,
+    "Bjnews": 2,
+    "Investing_Cn": 3,
+    "News_Baidu": 9,
+    "Chinanews": 1,
+    "Smzdm": 1,
+    "Orientaldaily": 1,
     "Eeo": 1,
-    "Cri_Cn": 2,
+    "Devdiscourse": 2,
     "The Economic Times": 1,
     "The Manila Times": 1,
     "The Dallas Morning News": 1,
-    "Devdiscourse": 2,
     "City A.M.": 1,
     "SFGATE": 2,
     "The Globe and Mail": 1,
@@ -20,172 +20,156 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1wjMd6EEpc",
-      "title": "【B站】FSD惊险一刻，告诉你不能完全信任自动驾驶",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-08-04",
-      "url": "https://www.bilibili.com/video/BV1wjMd6EEpc"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1CV396pEPY",
-      "title": "【B站】无人驾驶15公里，这辆特斯拉太牛了",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-04",
-      "url": "https://www.bilibili.com/video/BV1CV396pEPY"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV19bM96hEew",
-      "title": "【B站】京承高速出京方向五环到怀柔段偶遇暴，Fsd雨中依然游刃有余，令人安心。#智能辅助驾驶 #特斯拉fsd自动驾驶 #高速驾驶辅助 #特斯拉智能驾驶 #特斯拉车主",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-08-04",
-      "url": "https://www.bilibili.com/video/BV19bM96hEew"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-08-04",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1LM386zEFy",
-      "title": "【B站】这是什么级的无人驾驶，好厉害啊",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-04",
-      "url": "https://www.bilibili.com/video/BV1LM386zEFy"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1068157",
-      "title": "特斯拉(TSLA)股票8月3日盘中上涨3.39%:背后推手曝光-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.39%, 所属行业汽车与零部件上涨2.23% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.39%;Ford Motor Co (F) 上涨 1.29%;Rivian Automotive Inc (RIVN) 上涨 3.38%。 今日是什么导致了特斯拉(TSLA)股价上涨? 特斯拉在本交易日的上涨势头似乎是由对其下一代车型平台的乐观...",
-      "source": "Fx168News",
-      "date": "2026-08-03",
-      "url": "https://www.fx168news.com/article/1068157"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-03/10671485.shtml",
-      "title": "“中国是一个高度创新的国家”(国际论道)",
-      "summary": "用于台风救灾的“现实版变形金刚”、全球AI界瞩目的“Kimi时刻”、世界人工智能大会上的“机器人天团”......近期,中国创新成果密集亮相,引发外媒持续讨论。越来越多海外媒体和研究机构注意到,中国多项原创技术、前沿研究和创新产品正跻身全球第一梯队。...",
-      "source": "Chinanews",
-      "date": "2026-08-03",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671485.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872498825672442723",
-      "title": "这五大产业,岗位人才紧缺",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872498825672442723"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/08-03/10671480.shtml",
-      "title": "开启一场自下而上的“真实中国”记录 多彩中国之“酷”圈粉全球游客沉浸体验",
-      "summary": "央视网消息:长期以来,暑期并非我国传统入境游的旺季。而2026年暑期,入境游市场不仅实现“淡季不淡”,更呈现“量质齐升”的向好态势。“China Cool”等词汇成为全球文旅热词,到中国旅游正在成为一种潮流。...",
-      "source": "Chinanews",
-      "date": "2026-08-03",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671480.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-03/10671472.shtml",
-      "title": "长江十年行 | 百里乌江源 处处气象新",
-      "summary": "“有迤逦碧水入眼,有奇峰峡谷相伴,坐在崖边喝一杯咖啡,便是盛夏独有的治愈享受。”沉醉在贵州省黔西市化屋村“花都里”度假营地的景致中,游客罗女士不禁感叹。...",
-      "source": "Chinanews",
-      "date": "2026-08-03",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671472.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872509868534962132",
-      "title": "5830米 猛士M817高性能版以智驾登顶世界公路..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872509868534962132"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872510746970382822",
-      "title": "开局之年看中国·解码“产业大脑”|“一脑感知”为智..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872510746970382822"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872509205939916929",
-      "title": "靠前慰问鼓干劲 夏送清凉护安康|六盘水公交凝心聚力..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872509205939916929"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785755484129186.html",
-      "title": "上海开出首批网约车平台集中处罚:12个平台479辆不合规车,罚款超2500万",
+      "id": "https://www.bjnews.com.cn/detail/1785854300169278.html",
+      "title": "拉丁美洲最大垃圾场里,拾荒者在辨认世界的形状",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-03",
-      "url": "https://www.bjnews.com.cn/detail/1785755484129186.html"
+      "date": "2026-08-04",
+      "url": "https://www.bjnews.com.cn/detail/1785854300169278.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872302403309947451",
-      "title": "严禁“特供”噱头,严禁食品“美颜”!涉食品广告,北..",
+      "id": "https://cn.investing.com/news/assorted/article-432SI-3497084",
+      "title": "Nvidia发布自动驾驶推理模型Alpamayo 2 Super",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-04",
+      "url": "https://cn.investing.com/news/assorted/article-432SI-3497084"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872596688184518216",
+      "title": "港股公告精选|中国铁建上半年新签合同额同比降逾一成..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872302403309947451"
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872596688184518216"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872511309932398429",
-      "title": "出租车转弯时突然停车!民警:快打120!",
+      "id": "http://baijiahao.baidu.com/s?id=1872580298682986089",
+      "title": "主动“迎风” 承接未来!山西运城经开区全力打造高端..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872511309932398429"
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872580298682986089"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0803/985090.shtml",
-      "title": "从参数比拼到价值决胜:中大型SUV迈入家庭主场",
-      "summary": "本报讯 (记者矫月)近日,中国汽车消费者研究与评价(CCRT)发布了《CCRT新能源中大型及以上SUV用户体验洞察及趋势研判报告》(以下简称“报告”)。该报告基于2026年第一批车型评价,覆盖20款市场主流车型、2004份有效用户样本,结合4场用户定性工作坊,系统呈现了当前该品类的体验全貌与进化方向,提出市场竞争正从“参数内卷”转向“价值竞争”的研判,为行业就未来赛道的进化方向给出了多方面启示。 ...",
+      "id": "https://www.chinanews.com.cn/cj/2026/08-04/10672042.shtml",
+      "title": "中国出台强制性国标明确自动驾驶产品安全准入基线",
+      "summary": "中新社北京8月4日电 (记者 刘亮)中国工信部4日公布,其组织制定并归口的《智能网联汽车 自动驾驶系统安全要求》强制性国家标准(下称“标准”)近日获批发布,拟于2027年7月1日起正式实施,将为自动驾驶产品明确统一的安全准入基线。...",
+      "source": "Chinanews",
+      "date": "2026-08-04",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672042.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a958zzn0/",
+      "title": "强制国标落地!L3/L4 自动驾驶明年 7 月正式实施,真正智驾来了",
+      "summary": "#智能汽车自动驾驶强制性国标完整解读# 智能汽车自动驾驶强制性国标发布 #话题刷屏汽车与数码圈,国家市场监督管理总局、国标委正式批准《智能网联汽车 自动驾驶系统安全要求》(GB 44721—2026)强制性国家标准,明确标准将于 2027 年 7 月 1......",
+      "source": "Smzdm",
+      "date": "2026-08-04",
+      "url": "https://post.smzdm.com/p/a958zzn0/"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/perak/2026/08/04/838261",
+      "title": "安顺惊现10尺巨鳄趴岸疑护蛋 志消:勿靠近防遭攻击",
+      "summary": "(安顺4日讯)安顺双溪泗里村河畔惊现一条约10尺长的巨型鳄鱼,引起民众关注。这条体型庞大的鳄鱼是于昨日被发现停留在河岸边的沼泽草丛,即使挖掘机靠近推动,它仍不愿离开,引发外界猜测可能正处于筑巢或护蛋期。安顺志愿消防队署理主席陈喜麟接受《东方日报》访问时表示,事发时驾驶挖掘机的友人亲眼目睹巨鳄,并将现场照片传给他查看。 陈喜麟提醒民众,一旦发现鳄鱼,切勿靠近,更不要故意惊扰或挑衅。 他指出,从照片判...",
+      "source": "Orientaldaily",
+      "date": "2026-08-04",
+      "url": "https://www.orientaldaily.com.my/news/perak/2026/08/04/838261"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1785847969129883.html",
+      "title": "机器人项目适合做吗,先看清这三点,再决定入局",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-04",
+      "url": "https://www.bjnews.com.cn/detail/1785847969129883.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872594356936539739",
+      "title": "上海一出租车右转时突然停车,民警发现不对劲!高温天..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872594356936539739"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872593668526141223",
+      "title": "飞行员带女网红进驾驶舱合影?航司称正在调查核实,业..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872593668526141223"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872601847563942127",
+      "title": "网友爆料长龙航空飞行员巡航阶段将女网红带进驾驶舱合..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872601847563942127"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872499454998560980",
+      "title": "中国日报“游走中国”系列发布天津专题《依河傍海,津..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872499454998560980"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872595399176835341",
+      "title": "永州公安交警重拳整治摩电车辆,严查严管严治进行中!",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872595399176835341"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3496549",
+      "title": "多地收紧酒类广告监管:从酒企到主播全链条追责,“特供”“饮酒动作”这些红线碰不得",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-04",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3496549"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872596280141057390",
+      "title": "「财闻联播」央行预告!5000亿元,明日操作!“化..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872596280141057390"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872589705401259408",
+      "title": "自动驾驶系统安全要求国家标准发布",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872589705401259408"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0804/986256.shtml",
+      "title": "工信部:加快构建面向智能网联汽车的测试与评价体系",
+      "summary": "中新经纬8月4日电 据工信部网站消息,8月4日,工业和信息化部装备工业一司组织道路机动车辆检验检测机构开展座谈,分析当前产品安全和检验检测工作形势,部署规范道路机动车辆检验检测行业竞争秩序、提升检验检测工作质量相关工作。 会议强调,检验检测是质量基础设施的重要组成部分,是守牢道路机动车辆产品安全底线的重要关口。道路机动车辆检验检测机构肩负着保障产品质量安全和维护社会公平正义的重要责任。 会......",
       "source": "Eeo",
-      "date": "2026-08-03",
-      "url": "http://www.eeo.com.cn/2026/0803/985090.shtml"
+      "date": "2026-08-04",
+      "url": "http://www.eeo.com.cn/2026/0804/986256.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872507318295748986",
-      "title": "中国无人驾驶出海再提速!文远知行Robotaxi驶..",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3496541",
+      "title": "国内首个辅助生殖诊疗AI智能体上线:锦欣生殖(01951)推出自研“IVF领航员”",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872507318295748986"
+      "source": "Investing_Cn",
+      "date": "2026-08-04",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3496541"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872508205069512404",
-      "title": "不对劲!上海一出租车转弯时突然停车!民警:快打12..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872508205069512404"
-    },
-    {
-      "id": "https://news.cri.cn/20260803/a6fe8465-d202-34c0-a998-850cfecc9a54.html",
-      "title": "“中国是一个高度创新的国家”(国际论道)-国际在线",
-      "summary": "用于台风救灾的“现实版变形金刚”、全球AI界瞩目的“Kimi时刻”、世界人工智能大会上的“机器人天团”......近期,中国创新成果密集亮相,引...",
-      "source": "Cri_Cn",
-      "date": "2026-08-03",
-      "url": "https://news.cri.cn/20260803/a6fe8465-d202-34c0-a998-850cfecc9a54.html"
-    },
-    {
-      "id": "https://news.cri.cn/20260803/7fe8b90f-6e96-327d-1aca-5899dbc28904.html",
-      "title": "开启一场自下而上的“真实中国”记录 多彩中国之“酷”圈粉全球游客沉浸体验-国际在线",
-      "summary": "央视网消息:长期以来,暑期并非我国传统入境游的旺季。而2026年暑期,入境游市场不仅实现“淡季不淡”,更呈现“量质齐升”的向好态势。“ChinaCool”等词汇成为...",
-      "source": "Cri_Cn",
-      "date": "2026-08-03",
-      "url": "https://news.cri.cn/20260803/7fe8b90f-6e96-327d-1aca-5899dbc28904.html"
+      "id": "https://www.devdiscourse.com/article/technology/3959281-china-issues-mandatory-safety-requirements-for-autonomous-vehicles",
+      "title": "China issues mandatory safety requirements for autonomous vehicles",
+      "summary": "China has introduced mandatory safety requirements for vehicles with conditional or highly automated driving systems, set to take effect on July 1, 2027....",
+      "source": "Devdiscourse",
+      "date": "2026-08-04",
+      "url": "https://www.devdiscourse.com/article/technology/3959281-china-issues-mandatory-safety-requirements-for-autonomous-vehicles"
     },
     {
       "id": "https://economictimes.indiatimes.com/tech/technology/chinas-weride-enters-denmark-extending-european-footprint/articleshow/132820372.cms",
