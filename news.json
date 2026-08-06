@@ -1,167 +1,200 @@
 {
-  "lastUpdated": "2026-08-05 03:17:27",
-  "totalCount": 28,
+  "lastUpdated": "2026-08-06 03:20:13",
+  "totalCount": 26,
   "sources": {
+    "News_Baidu": 8,
+    "Cri_Cn": 2,
     "Bjnews": 2,
-    "Investing_Cn": 3,
-    "News_Baidu": 9,
-    "Chinanews": 1,
-    "Smzdm": 1,
-    "Orientaldaily": 1,
     "Eeo": 1,
-    "Devdiscourse": 2,
+    "Time Weekly": 1,
+    "Fx168News": 1,
+    "Ithome": 1,
+    "The Guardian": 1,
+    "The Irish Times": 1,
+    "The Manila Times": 2,
+    "Naked Capitalism": 1,
+    "TechStartups.com": 1,
+    "The News International": 1,
+    "Devdiscourse": 1,
     "The Economic Times": 1,
-    "The Manila Times": 1,
-    "The Dallas Morning News": 1,
-    "City A.M.": 1,
-    "SFGATE": 2,
-    "The Globe and Mail": 1,
-    "The Japan Times ": 1
+    "The Dallas Morning News": 1
   },
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1785854300169278.html",
-      "title": "拉丁美洲最大垃圾场里,拾荒者在辨认世界的形状",
+      "id": "http://baijiahao.baidu.com/s?id=1872692894420768914",
+      "title": "AI之问:智能的另几种可能",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-05",
+      "url": "http://baijiahao.baidu.com/s?id=1872692894420768914"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872680534369638126",
+      "title": "@危化品车辆驾驶人 这些细节不容忽视→",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-05",
+      "url": "http://baijiahao.baidu.com/s?id=1872680534369638126"
+    },
+    {
+      "id": "https://news.cri.cn/20260805/f152cbaf-3ef0-c9b5-2aab-a1aa7a797ed8.html",
+      "title": "这些“超级工厂”有何魔力?驻华外交官解码合肥智造新力量-国际在线",
+      "summary": "国际在线报道(记者魏寒冰):8月4日,来自埃塞俄比亚、拉脱维亚、土耳其、博茨瓦纳、几内亚、多米尼加、波斯尼亚和黑塞哥维那等国的十余位驻华外交官走进合肥国际传感智造港展示中心和安徽江淮汽车集团股份有限公司(以下简称:江汽集团),近距离感受...",
+      "source": "Cri_Cn",
+      "date": "2026-08-05",
+      "url": "https://news.cri.cn/20260805/f152cbaf-3ef0-c9b5-2aab-a1aa7a797ed8.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872693549096047093",
+      "title": "「财闻联播」9连板牛股,明日复牌!4天2板平安电工..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-05",
+      "url": "http://baijiahao.baidu.com/s?id=1872693549096047093"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872693551452652333",
+      "title": "硬派越野选购推荐:纵横G700/豹8/坦克500H..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-05",
+      "url": "http://baijiahao.baidu.com/s?id=1872693551452652333"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1785937992168657.html",
+      "title": "《冲呀,战斗机》:以135架战机,串起百年航空史",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-04",
-      "url": "https://www.bjnews.com.cn/detail/1785854300169278.html"
+      "date": "2026-08-05",
+      "url": "https://www.bjnews.com.cn/detail/1785937992168657.html"
     },
     {
-      "id": "https://cn.investing.com/news/assorted/article-432SI-3497084",
-      "title": "Nvidia发布自动驾驶推理模型Alpamayo 2 Super",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-04",
-      "url": "https://cn.investing.com/news/assorted/article-432SI-3497084"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872596688184518216",
-      "title": "港股公告精选|中国铁建上半年新签合同额同比降逾一成..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872596688184518216"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872580298682986089",
-      "title": "主动“迎风” 承接未来!山西运城经开区全力打造高端..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872580298682986089"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/08-04/10672042.shtml",
-      "title": "中国出台强制性国标明确自动驾驶产品安全准入基线",
-      "summary": "中新社北京8月4日电 (记者 刘亮)中国工信部4日公布,其组织制定并归口的《智能网联汽车 自动驾驶系统安全要求》强制性国家标准(下称“标准”)近日获批发布,拟于2027年7月1日起正式实施,将为自动驾驶产品明确统一的安全准入基线。...",
-      "source": "Chinanews",
-      "date": "2026-08-04",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672042.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a958zzn0/",
-      "title": "强制国标落地!L3/L4 自动驾驶明年 7 月正式实施,真正智驾来了",
-      "summary": "#智能汽车自动驾驶强制性国标完整解读# 智能汽车自动驾驶强制性国标发布 #话题刷屏汽车与数码圈,国家市场监督管理总局、国标委正式批准《智能网联汽车 自动驾驶系统安全要求》(GB 44721—2026)强制性国家标准,明确标准将于 2027 年 7 月 1......",
-      "source": "Smzdm",
-      "date": "2026-08-04",
-      "url": "https://post.smzdm.com/p/a958zzn0/"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/perak/2026/08/04/838261",
-      "title": "安顺惊现10尺巨鳄趴岸疑护蛋 志消:勿靠近防遭攻击",
-      "summary": "(安顺4日讯)安顺双溪泗里村河畔惊现一条约10尺长的巨型鳄鱼,引起民众关注。这条体型庞大的鳄鱼是于昨日被发现停留在河岸边的沼泽草丛,即使挖掘机靠近推动,它仍不愿离开,引发外界猜测可能正处于筑巢或护蛋期。安顺志愿消防队署理主席陈喜麟接受《东方日报》访问时表示,事发时驾驶挖掘机的友人亲眼目睹巨鳄,并将现场照片传给他查看。 陈喜麟提醒民众,一旦发现鳄鱼,切勿靠近,更不要故意惊扰或挑衅。 他指出,从照片判...",
-      "source": "Orientaldaily",
-      "date": "2026-08-04",
-      "url": "https://www.orientaldaily.com.my/news/perak/2026/08/04/838261"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785847969129883.html",
-      "title": "机器人项目适合做吗,先看清这三点,再决定入局",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-04",
-      "url": "https://www.bjnews.com.cn/detail/1785847969129883.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872594356936539739",
-      "title": "上海一出租车右转时突然停车,民警发现不对劲!高温天..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872594356936539739"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872593668526141223",
-      "title": "飞行员带女网红进驾驶舱合影?航司称正在调查核实,业..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872593668526141223"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872601847563942127",
-      "title": "网友爆料长龙航空飞行员巡航阶段将女网红带进驾驶舱合..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872601847563942127"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872499454998560980",
-      "title": "中国日报“游走中国”系列发布天津专题《依河傍海,津..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872499454998560980"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872595399176835341",
-      "title": "永州公安交警重拳整治摩电车辆,严查严管严治进行中!",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872595399176835341"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3496549",
-      "title": "多地收紧酒类广告监管:从酒企到主播全链条追责,“特供”“饮酒动作”这些红线碰不得",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-04",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3496549"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872596280141057390",
-      "title": "「财闻联播」央行预告!5000亿元,明日操作!“化..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872596280141057390"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872589705401259408",
-      "title": "自动驾驶系统安全要求国家标准发布",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-04",
-      "url": "http://baijiahao.baidu.com/s?id=1872589705401259408"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0804/986256.shtml",
-      "title": "工信部:加快构建面向智能网联汽车的测试与评价体系",
-      "summary": "中新经纬8月4日电 据工信部网站消息,8月4日,工业和信息化部装备工业一司组织道路机动车辆检验检测机构开展座谈,分析当前产品安全和检验检测工作形势,部署规范道路机动车辆检验检测行业竞争秩序、提升检验检测工作质量相关工作。 会议强调,检验检测是质量基础设施的重要组成部分,是守牢道路机动车辆产品安全底线的重要关口。道路机动车辆检验检测机构肩负着保障产品质量安全和维护社会公平正义的重要责任。 会......",
+      "id": "http://www.eeo.com.cn/2026/0805/987548.shtml",
+      "title": "“压线”续约,上汽与通用合资延期20年",
+      "summary": "对通用汽车而言,中国市场早已不再是“产品供不应求”的蓝海市场,伴随自主品牌崛起、全面电动化转型,中国市场的竞争压力增大。在上汽集团层面,传统合资板块红利逐步消退,自主品牌已成为新的增长核心动力。...",
       "source": "Eeo",
-      "date": "2026-08-04",
-      "url": "http://www.eeo.com.cn/2026/0804/986256.shtml"
+      "date": "2026-08-05",
+      "url": "http://www.eeo.com.cn/2026/0805/987548.shtml"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3496541",
-      "title": "国内首个辅助生殖诊疗AI智能体上线:锦欣生殖(01951)推出自研“IVF领航员”",
+      "id": "https://www.time-weekly.com/post/331658",
+      "title": "无人车开进深圳晚高峰,也开出了另一条全球化路径",
+      "summary": "本文来源:时代周报 作者:唐洛 根据港媒报道,2026年7月,香港机场岛。一辆无人车行驶在右舵左行的道路上,车内没有安全员。这是“全球首次”在右舵交通体系中开展的全无人驾驶公开道路测试,完成这次测试的,正是百度的萝卜快跑第六代无人车。 “全球首次”并不容易。左舵和右舵的差异不只是把方向盘挪个位置那么简单,背后是一整套工程体系的重新适配。 工程师需要在车型定义阶段就将灵活适配不同市场纳入考量,右舵地...",
+      "source": "Time Weekly",
+      "date": "2026-08-05",
+      "url": "https://www.time-weekly.com/post/331658"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872687884539965682",
+      "title": "三大指数低开高走,逾20只基金单日涨超8%",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
+      "source": "News_Baidu",
+      "date": "2026-08-05",
+      "url": "http://baijiahao.baidu.com/s?id=1872687884539965682"
+    },
+    {
+      "id": "https://news.cri.cn/20260805/4a216333-fc47-9032-fc46-e94e737e95ff.html",
+      "title": "制胜,一道坚定捍卫和平的时代锋芒-国际在线",
+      "summary": "思想解读类融媒体片《制胜》自7月30日一经推出,便让建军九十九周年的这个7月,“火”出一浪又一浪。 恰好,7月是一个颇有意味的月份。 132年前的7月甲午战争爆发,73年前的7月抗美援朝战争胜利。人类,总是选...",
+      "source": "Cri_Cn",
+      "date": "2026-08-05",
+      "url": "https://news.cri.cn/20260805/4a216333-fc47-9032-fc46-e94e737e95ff.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872689236288187462",
+      "title": "“金陵飞鹰”抓拍“低头族”:请抬头看路、放下手机!",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-05",
+      "url": "http://baijiahao.baidu.com/s?id=1872689236288187462"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872685870618535752",
+      "title": "活力中国调研行|合肥创新院:“科技盆景”如何长成“..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-05",
+      "url": "http://baijiahao.baidu.com/s?id=1872685870618535752"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1069773",
+      "title": "OSS 2026年第二季度财报:营收增长62.3%,上调全年指引-FX168",
+      "summary": "One Stop Systems(NASDAQ:OSS)2026年第二季度持续经营业务营收为935万美元,同比增长62.3%;持续经营业务稀释每股亏损0.29美元,上年同期亏损0.11美元。本季度营收增长主要来自医疗影像、军用服务器和自动驾驶设备客户,但625万美元的一次性法律和解费用扩大了GAAP亏损;与此同时,预订额创下1510万美元的季度纪录。 核心业绩数据 OSS本季度产品销售和客户出资开...",
+      "source": "Fx168News",
+      "date": "2026-08-05",
+      "url": "https://www.fx168news.com/article/1069773"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1785928977129516.html",
+      "title": "零行车道、核心地段空间翻倍:哥本哈根地标BLOX如何用罗地格自动化技术建立“隐形车库”",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-05",
+      "url": "https://www.bjnews.com.cn/detail/1785928977129516.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872689771430529542",
+      "title": "港股风向标|恒指温和放量延续做多氛围 全球科技资产..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-05",
+      "url": "http://baijiahao.baidu.com/s?id=1872689771430529542"
+    },
+    {
+      "id": "https://www.ithome.com/0/986/230.htm",
+      "title": "长城 H10 方盒子 SUV 上市,限时换新价 20.18 万-22.38 万元",
+      "summary": "IT之家 8 月 5 日消息,长城归元平台首款方盒子 SUV 车型 —— 长城 H10 今天(5 日)晚间正式上市,新车采用了“方鼎美学”设计语言,搭载 Coffee Pilot 3 高阶智驾辅助系统,提供五座、六座两种版本共 4 种不同配置,建议零售价 20.98 万-23.18 万元,限时换新价 20.18 万-22.38 万元。 Hi4 Max 五座版:建议零售价 20.98 万元,限时换新...",
+      "source": "Ithome",
+      "date": "2026-08-05",
+      "url": "https://www.ithome.com/0/986/230.htm"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
+      "title": "‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’",
+      "summary": "Wayve Uber wins first minicab licence for autonomous cabs from TfL but vehicles will have a safety driver (at first)...",
+      "source": "The Guardian",
+      "date": "2026-08-05",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber"
+    },
+    {
+      "id": "https://www.irishtimes.com/motors/review/2026/08/05/big-reduction-in-costs-could-see-explosion-of-robot-car-services/",
+      "title": "Big reduction in costs could see explosion of robot car services",
+      "summary": "As costs fall, partly thanks to AI, autonomous driving services including robotaxis are set to increase dramatically...",
+      "source": "The Irish Times",
+      "date": "2026-08-05",
+      "url": "https://www.irishtimes.com/motors/review/2026/08/05/big-reduction-in-costs-could-see-explosion-of-robot-car-services/"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/08/05/tmt-newswire/pr-newswire/tier-iv-to-jointly-develop-next-generation-development-platform-with-astemo-accelerating-e2e-autonomous-driving-ai-with-co-mlops-solution/2398575",
+      "title": "TIER IV to jointly develop next-generation development platform with Astemo, accelerating E2E autonomous driving AI with Co-MLOps solution",
+      "summary": "**media[1164178]**TOKYO, Aug. 5, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has signed a memorandum of understanding (MoU) with Astemo, to j...",
+      "source": "The Manila Times",
+      "date": "2026-08-05",
+      "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/pr-newswire/tier-iv-to-jointly-develop-next-generation-development-platform-with-astemo-accelerating-e2e-autonomous-driving-ai-with-co-mlops-solution/2398575"
+    },
+    {
+      "id": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-zero-latency-war.html",
+      "title": "Coffee Break: Armed Madhouse - Zero-Latency War",
+      "summary": "AI and autonomous weapons are driving warfare toward machine-speed decision cycles. This leads to the military technology challenge of governing zero-latency systems in combat....",
+      "source": "Naked Capitalism",
       "date": "2026-08-04",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3496541"
+      "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-zero-latency-war.html"
+    },
+    {
+      "id": "https://techstartups.com/2026/08/04/nvidia-launches-alpamayo-2-super-a-frontier-open-reasoning-model-for-robotaxis-and-autonomous-vehicles/",
+      "title": "Nvidia launches Alpamayo 2 Super, a frontier open reasoning model for robotaxis and autonomous vehicles",
+      "summary": "Nvidia has launched Alpamayo 2 Super, a new open reasoning model for autonomous vehicles that the chip giant says can analyze complicated driving situations, reason through what is happening around a ...",
+      "source": "TechStartups.com",
+      "date": "2026-08-04",
+      "url": "https://techstartups.com/2026/08/04/nvidia-launches-alpamayo-2-super-a-frontier-open-reasoning-model-for-robotaxis-and-autonomous-vehicles/"
+    },
+    {
+      "id": "https://www.thenews.com.pk/latest/1411250-what-is-nvidia-alpamayo-2-super-everything-you-need-to-know",
+      "title": "What is NVIDIA Alpamayo 2 Super? Everything you need to know",
+      "summary": "NVIDIA Alpamayo 2 Super is reportedly now available for commercial use on Hugging Face- a significant move for the most widely adopted family of open reasoning models for autonomous driving......",
+      "source": "The News International",
+      "date": "2026-08-04",
+      "url": "https://www.thenews.com.pk/latest/1411250-what-is-nvidia-alpamayo-2-super-everything-you-need-to-know"
     },
     {
       "id": "https://www.devdiscourse.com/article/technology/3959281-china-issues-mandatory-safety-requirements-for-autonomous-vehicles",
@@ -194,54 +227,6 @@
       "source": "The Dallas Morning News",
       "date": "2026-07-30",
       "url": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3957234-zoox-makes-history-with-first-us-approval-for-steering-wheel-free-robotaxis",
-      "title": "Zoox Makes History with First U.S. Approval for Steering-Wheel-Free Robotaxis",
-      "summary": "Zoox received U.S. approval for deploying steering-wheel-free robotaxis, marking a significant milestone for the autonomous ride industry. The exemption allows Zoox to operate 2,500 vehicles annually ...",
-      "source": "Devdiscourse",
-      "date": "2026-07-30",
-      "url": "https://www.devdiscourse.com/article/technology/3957234-zoox-makes-history-with-first-us-approval-for-steering-wheel-free-robotaxis"
-    },
-    {
-      "id": "https://www.cityam.com/lseg-boss-hails-growing-momentum-of-pisces-as-profit-soars/",
-      "title": "LSEG boss hails ‘growing momentum’ of Pisces as profit soars",
-      "summary": "Autonomous driving startup Wayve became one of the first companies to use LSEG's Pisces venue for its employee secondary share sale...",
-      "source": "City A.M.",
-      "date": "2026-07-30",
-      "url": "https://www.cityam.com/lseg-boss-hails-growing-momentum-of-pisces-as-profit-soars/"
-    },
-    {
-      "id": "https://www.sfgate.com/news/bayarea/article/wednesday-morning-news-roundup-22364992.php",
-      "title": "Wednesday Morning News Roundup",
-      "summary": "San Francisco firefighters have been practically writing the book on how to deal with autonomous vehicles during emergencies as they've dealt with cars driving over exploding fireworks, citywide......",
-      "source": "SFGATE",
-      "date": "2026-07-29",
-      "url": "https://www.sfgate.com/news/bayarea/article/wednesday-morning-news-roundup-22364992.php"
-    },
-    {
-      "id": "https://www.sfgate.com/news/bayarea/article/regional-feds-to-draw-on-sf-emergency-response-22364645.php",
-      "title": "Regional: Feds To Draw On Sf Emergency Response And Autonomous Vehicles",
-      "summary": "San Francisco firefighters have been practically writing the book on how to deal with autonomous vehicles during emergencies as they've dealt with cars driving over exploding fireworks, citywide......",
-      "source": "SFGATE",
-      "date": "2026-07-28",
-      "url": "https://www.sfgate.com/news/bayarea/article/regional-feds-to-draw-on-sf-emergency-response-22364645.php"
-    },
-    {
-      "id": "https://www.theglobeandmail.com/business/article-tfi-to-launch-autonomous-trucks-in-us/",
-      "title": "TFI to launch autonomous trucks in U.S.",
-      "summary": "The self-driving tractors would haul semi-trailers on fixed, long-distance legs between terminals or distribution centres in parts of the U.S....",
-      "source": "The Globe and Mail",
-      "date": "2026-07-28",
-      "url": "https://www.theglobeandmail.com/business/article-tfi-to-launch-autonomous-trucks-in-us/"
-    },
-    {
-      "id": "https://www.japantimes.co.jp/business/2026/07/27/companies/honda-nissan-sdv/",
-      "title": "Honda and Nissan to jointly develop next-generation car operating system",
-      "summary": "Functionality such as autonomous driving an be added or improved in software-defined vehicles through software updates, making the operating system a core technology....",
-      "source": "The Japan Times ",
-      "date": "2026-07-27",
-      "url": "https://www.japantimes.co.jp/business/2026/07/27/companies/honda-nissan-sdv/"
     }
   ]
 }
