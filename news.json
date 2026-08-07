@@ -1,152 +1,184 @@
 {
-  "lastUpdated": "2026-08-06 03:20:13",
+  "lastUpdated": "2026-08-07 03:08:10",
   "totalCount": 26,
   "sources": {
-    "News_Baidu": 8,
-    "Cri_Cn": 2,
-    "Bjnews": 2,
-    "Eeo": 1,
-    "Time Weekly": 1,
-    "Fx168News": 1,
+    "News_Baidu": 11,
     "Ithome": 1,
+    "Chinanews": 1,
+    "Investing_Cn": 1,
+    "Cri_Cn": 1,
+    "Zaobao": 1,
+    "Smzdm": 1,
+    "Benzinga": 1,
+    "The Tribune": 1,
+    "Morningstar": 1,
     "The Guardian": 1,
     "The Irish Times": 1,
-    "The Manila Times": 2,
+    "The Manila Times": 1,
     "Naked Capitalism": 1,
     "TechStartups.com": 1,
-    "The News International": 1,
-    "Devdiscourse": 1,
-    "The Economic Times": 1,
-    "The Dallas Morning News": 1
+    "The News International": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872692894420768914",
-      "title": "AI之问:智能的另几种可能",
+      "id": "http://baijiahao.baidu.com/s?id=1872785266336850488",
+      "title": "武汉街头织起一张立体降温网,为市民送清凉",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872692894420768914"
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872785266336850488"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872680534369638126",
-      "title": "@危化品车辆驾驶人 这些细节不容忽视→",
+      "id": "http://baijiahao.baidu.com/s?id=1872765112585300519",
+      "title": "四川15岁少年骑电动车独闯G318 摩旅大哥善意拖..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872680534369638126"
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872765112585300519"
     },
     {
-      "id": "https://news.cri.cn/20260805/f152cbaf-3ef0-c9b5-2aab-a1aa7a797ed8.html",
-      "title": "这些“超级工厂”有何魔力?驻华外交官解码合肥智造新力量-国际在线",
-      "summary": "国际在线报道(记者魏寒冰):8月4日,来自埃塞俄比亚、拉脱维亚、土耳其、博茨瓦纳、几内亚、多米尼加、波斯尼亚和黑塞哥维那等国的十余位驻华外交官走进合肥国际传感智造港展示中心和安徽江淮汽车集团股份有限公司(以下简称:江汽集团),近距离感受...",
-      "source": "Cri_Cn",
-      "date": "2026-08-05",
-      "url": "https://news.cri.cn/20260805/f152cbaf-3ef0-c9b5-2aab-a1aa7a797ed8.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872693549096047093",
-      "title": "「财闻联播」9连板牛股,明日复牌!4天2板平安电工..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872693549096047093"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872693551452652333",
-      "title": "硬派越野选购推荐:纵横G700/豹8/坦克500H..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872693551452652333"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785937992168657.html",
-      "title": "《冲呀,战斗机》:以135架战机,串起百年航空史",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-05",
-      "url": "https://www.bjnews.com.cn/detail/1785937992168657.html"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0805/987548.shtml",
-      "title": "“压线”续约,上汽与通用合资延期20年",
-      "summary": "对通用汽车而言,中国市场早已不再是“产品供不应求”的蓝海市场,伴随自主品牌崛起、全面电动化转型,中国市场的竞争压力增大。在上汽集团层面,传统合资板块红利逐步消退,自主品牌已成为新的增长核心动力。...",
-      "source": "Eeo",
-      "date": "2026-08-05",
-      "url": "http://www.eeo.com.cn/2026/0805/987548.shtml"
-    },
-    {
-      "id": "https://www.time-weekly.com/post/331658",
-      "title": "无人车开进深圳晚高峰,也开出了另一条全球化路径",
-      "summary": "本文来源:时代周报 作者:唐洛 根据港媒报道,2026年7月,香港机场岛。一辆无人车行驶在右舵左行的道路上,车内没有安全员。这是“全球首次”在右舵交通体系中开展的全无人驾驶公开道路测试,完成这次测试的,正是百度的萝卜快跑第六代无人车。 “全球首次”并不容易。左舵和右舵的差异不只是把方向盘挪个位置那么简单,背后是一整套工程体系的重新适配。 工程师需要在车型定义阶段就将灵活适配不同市场纳入考量,右舵地...",
-      "source": "Time Weekly",
-      "date": "2026-08-05",
-      "url": "https://www.time-weekly.com/post/331658"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872687884539965682",
-      "title": "三大指数低开高走,逾20只基金单日涨超8%",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872687884539965682"
-    },
-    {
-      "id": "https://news.cri.cn/20260805/4a216333-fc47-9032-fc46-e94e737e95ff.html",
-      "title": "制胜,一道坚定捍卫和平的时代锋芒-国际在线",
-      "summary": "思想解读类融媒体片《制胜》自7月30日一经推出,便让建军九十九周年的这个7月,“火”出一浪又一浪。 恰好,7月是一个颇有意味的月份。 132年前的7月甲午战争爆发,73年前的7月抗美援朝战争胜利。人类,总是选...",
-      "source": "Cri_Cn",
-      "date": "2026-08-05",
-      "url": "https://news.cri.cn/20260805/4a216333-fc47-9032-fc46-e94e737e95ff.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872689236288187462",
-      "title": "“金陵飞鹰”抓拍“低头族”:请抬头看路、放下手机!",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872689236288187462"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872685870618535752",
-      "title": "活力中国调研行|合肥创新院:“科技盆景”如何长成“..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872685870618535752"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1069773",
-      "title": "OSS 2026年第二季度财报:营收增长62.3%,上调全年指引-FX168",
-      "summary": "One Stop Systems(NASDAQ:OSS)2026年第二季度持续经营业务营收为935万美元,同比增长62.3%;持续经营业务稀释每股亏损0.29美元,上年同期亏损0.11美元。本季度营收增长主要来自医疗影像、军用服务器和自动驾驶设备客户,但625万美元的一次性法律和解费用扩大了GAAP亏损;与此同时,预订额创下1510万美元的季度纪录。 核心业绩数据 OSS本季度产品销售和客户出资开...",
-      "source": "Fx168News",
-      "date": "2026-08-05",
-      "url": "https://www.fx168news.com/article/1069773"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785928977129516.html",
-      "title": "零行车道、核心地段空间翻倍:哥本哈根地标BLOX如何用罗地格自动化技术建立“隐形车库”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-05",
-      "url": "https://www.bjnews.com.cn/detail/1785928977129516.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872689771430529542",
-      "title": "港股风向标|恒指温和放量延续做多氛围 全球科技资产..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872689771430529542"
-    },
-    {
-      "id": "https://www.ithome.com/0/986/230.htm",
-      "title": "长城 H10 方盒子 SUV 上市,限时换新价 20.18 万-22.38 万元",
-      "summary": "IT之家 8 月 5 日消息,长城归元平台首款方盒子 SUV 车型 —— 长城 H10 今天(5 日)晚间正式上市,新车采用了“方鼎美学”设计语言,搭载 Coffee Pilot 3 高阶智驾辅助系统,提供五座、六座两种版本共 4 种不同配置,建议零售价 20.98 万-23.18 万元,限时换新价 20.18 万-22.38 万元。 Hi4 Max 五座版:建议零售价 20.98 万元,限时换新...",
+      "id": "https://www.ithome.com/0/986/763.htm",
+      "title": "特斯拉 FSD v14 取消自定义限速后风波不断:超速被警方拦停后司机辩称是“自动驾驶”",
+      "summary": "IT之家 8 月 6 日消息,据 Electrek 今日报道,美国科罗拉多州帕克市警方于当地时间 8 月 5 日公布了一起交通违法案例。 一辆开启 FSD 功能的特斯拉车辆在限速 45 英里 / 小时(约 72 公里 / 小时)的道路上以 64 英里 / 小时(约 103 公里 / 小时)的速度行驶,被警方发现后要求停车。驾驶员被拦截后向警方辩称是自己开启了“自动驾驶”,所以超速不关他的事。 帕克...",
       "source": "Ithome",
-      "date": "2026-08-05",
-      "url": "https://www.ithome.com/0/986/230.htm"
+      "date": "2026-08-06",
+      "url": "https://www.ithome.com/0/986/763.htm"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/08-06/10673283.shtml",
+      "title": "晶采观察丨超7万亿元织密“六张网” 激活实体经济新动能",
+      "summary": "7月30日,中共中央政治局召开会议,分析研究当前经济形势,部署下半年经济工作。会议明确传递出八个关键字——“向新向优向好发展”,并作出一个重要部署:扎实推进“六张网”规划建设。...",
+      "source": "Chinanews",
+      "date": "2026-08-06",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10673283.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3503503",
+      "title": "鸿蒙智行推新车:尊界V800、尊界V680正式上市,享界G9同步预售",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3503503"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872732678687870066",
+      "title": "宁波六旬老人高温天气骑车出行,途中车辆方向失控,径..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872732678687870066"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872780873292843860",
+      "title": "纵横F700正式上市 限时权益价29.99万元起 ..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872780873292843860"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872754951377487942",
+      "title": "自动驾驶迈向“有标可依”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872754951377487942"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872781813650518982",
+      "title": "黄永斌:老兵的33年坚守",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872781813650518982"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872774263692178648",
+      "title": "一身盐霜护通途,衡阳热浪下的真“汗”子",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872774263692178648"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872783824734119966",
+      "title": "铁骑绕桩、特警索降、无人机探路......金山公安夏季练兵..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872783824734119966"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872765142949770138",
+      "title": "对话艾欧智能联创丁哲章:“人类数据”成具身预训练核..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872765142949770138"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872763474305608129",
+      "title": "德媒:世界石油市场的喘息时间即将结束",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872763474305608129"
+    },
+    {
+      "id": "https://news.cri.cn/20260806/ab88a751-1be1-fc91-6a99-3a62a841532d.html",
+      "title": "“三个转变”看中原-国际在线",
+      "summary": "“十五五”开局之年,“河南制造”佳音频传—— 中铁工程装备集团有限公司参与研发的“江汉神农号”硬岩掘进机下线,助力引江补汉工程; 宇通客...",
+      "source": "Cri_Cn",
+      "date": "2026-08-06",
+      "url": "https://news.cri.cn/20260806/ab88a751-1be1-fc91-6a99-3a62a841532d.html"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260806-9482636",
+      "title": "Grab首批自动驾驶安全操作员结业 为“随需而至”服务提供支持",
+      "summary": "44岁的莎拉(Sarah Binte Ahmad)曾是家庭主妇,之后当了三年私召车司机。去年6月,她所属的私召车业者Grab联络她,告知正在招募自动驾驶车辆的首批安全操作员。一直对人工智能和科技感兴趣的莎拉,毫不犹豫就报名上课。...",
+      "source": "Zaobao",
+      "date": "2026-08-06",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260806-9482636"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a3monqvr/",
+      "title": "全新深蓝S05上市11.59万元起,天枢领航智能驾驶辅助系统重磅加持",
+      "summary": "8月6日,“全球时尚激光智能SUV”全新深蓝S05正式上市,提供520智行版、520智臻版、520智臻版激光版、620智臻版、620智臻激光版共5款车型,限时优惠价为11.59万元-14.49万元,下订即享至高价值38360元的八大超值礼包。作为深蓝汽车......",
+      "source": "Smzdm",
+      "date": "2026-08-06",
+      "url": "https://post.smzdm.com/p/a3monqvr/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872770459767156115",
+      "title": "高温天气,途经故宫北海公交线路将调整运营计划减少乘..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872770459767156115"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses",
+      "title": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
+      "summary": "Gary Black backs Uber as the leader in autonomous driving and Robotaxi race as Uber delivers mixed Q2 earnings...",
+      "source": "Benzinga",
+      "date": "2026-08-06",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses"
+    },
+    {
+      "id": "https://www.tribuneindia.com/news/business/uber-building-infrastructure-to-commercialise-autonomous-mobility-at-global-scale-q2-earnings-report/",
+      "title": "Uber building infrastructure to commercialise autonomous mobility at global scale: Q2 earnings report",
+      "summary": "Ride-hailing and delivery platform Uber said it is laying the foundation to commercialise autonomous mobility at a global scale, as the company expands its self-driving vehicle ecosystem through partn...",
+      "source": "The Tribune",
+      "date": "2026-08-06",
+      "url": "https://www.tribuneindia.com/news/business/uber-building-infrastructure-to-commercialise-autonomous-mobility-at-global-scale-q2-earnings-report/"
+    },
+    {
+      "id": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software",
+      "title": "Rivian Poised for Growth From Shift to Lower-Priced Vehicles and Autonomous Driving Software",
+      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
+      "source": "Morningstar",
+      "date": "2026-08-06",
+      "url": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
     },
     {
       "id": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
@@ -195,38 +227,6 @@
       "source": "The News International",
       "date": "2026-08-04",
       "url": "https://www.thenews.com.pk/latest/1411250-what-is-nvidia-alpamayo-2-super-everything-you-need-to-know"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3959281-china-issues-mandatory-safety-requirements-for-autonomous-vehicles",
-      "title": "China issues mandatory safety requirements for autonomous vehicles",
-      "summary": "China has introduced mandatory safety requirements for vehicles with conditional or highly automated driving systems, set to take effect on July 1, 2027....",
-      "source": "Devdiscourse",
-      "date": "2026-08-04",
-      "url": "https://www.devdiscourse.com/article/technology/3959281-china-issues-mandatory-safety-requirements-for-autonomous-vehicles"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/tech/technology/chinas-weride-enters-denmark-extending-european-footprint/articleshow/132820372.cms",
-      "title": "China's WeRide enters Denmark, extending European footprint",
-      "summary": "Europe has emerged as a key growth market for ‌China's autonomous driving ⁠companies, ⁠following an earlier push into the Gulf region, as they seek to ​commercialise their technology beyond their home...",
-      "source": "The Economic Times",
-      "date": "2026-08-03",
-      "url": "https://economictimes.indiatimes.com/tech/technology/chinas-weride-enters-denmark-extending-european-footprint/articleshow/132820372.cms"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/weride-and-greenmobility-announce-strategic-partnership-to-advance-level-4-autonomous-mobility-in-denmark-marking-werides-entry-into-the-nordic-region/2396696",
-      "title": "WeRide and GreenMobility Announce Strategic Partnership to Advance Level 4 Autonomous Mobility in Denmark, Marking WeRide’s Entry into the Nordic Region",
-      "summary": "COPENHAGEN, Denmark, Aug. 03, 2026 (GLOBE NEWSWIRE) -- WeRide (Nasdaq: WRD, HKEX: 0800), a global leader in autonomous driving technology, and GreenMobility (Nasdaq Copenhagen: GREENM), Denmark's lead...",
-      "source": "The Manila Times",
-      "date": "2026-08-03",
-      "url": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/weride-and-greenmobility-announce-strategic-partnership-to-advance-level-4-autonomous-mobility-in-denmark-marking-werides-entry-into-the-nordic-region/2396696"
-    },
-    {
-      "id": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php",
-      "title": "What to know about Tesla's gold Cybercabs in Dallas",
-      "summary": "From operating hours to service areas, here's what to know about Tesla's gold autonomous vehicles now driving through Dallas neighborhoods....",
-      "source": "The Dallas Morning News",
-      "date": "2026-07-30",
-      "url": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php"
     }
   ]
 }
