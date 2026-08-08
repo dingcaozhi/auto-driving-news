@@ -1,160 +1,241 @@
 {
-  "lastUpdated": "2026-08-07 03:08:10",
-  "totalCount": 26,
+  "lastUpdated": "2026-08-08 02:04:25",
+  "totalCount": 33,
   "sources": {
-    "News_Baidu": 11,
-    "Ithome": 1,
+    "Bilibili": 5,
+    "Ithome": 3,
+    "Bjnews": 2,
+    "News_Baidu": 10,
     "Chinanews": 1,
-    "Investing_Cn": 1,
-    "Cri_Cn": 1,
-    "Zaobao": 1,
-    "Smzdm": 1,
+    "Imobile": 1,
+    "Pcauto_Cn": 1,
+    "Time Weekly": 1,
+    "Mashable India": 1,
+    "TechRadar": 1,
+    "Forbes": 1,
     "Benzinga": 1,
     "The Tribune": 1,
     "Morningstar": 1,
     "The Guardian": 1,
     "The Irish Times": 1,
-    "The Manila Times": 1,
-    "Naked Capitalism": 1,
-    "TechStartups.com": 1,
-    "The News International": 1
+    "The Manila Times": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872785266336850488",
-      "title": "武汉街头织起一张立体降温网,为市民送清凉",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872785266336850488"
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-08",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872765112585300519",
-      "title": "四川15岁少年骑电动车独闯G318 摩旅大哥善意拖..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872765112585300519"
+      "id": "https://www.bilibili.com/video/BV1rYMr6gEw9",
+      "title": "【B站】自动驾驶“安全底线”来了 自动驾驶开车水平不能比人差",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-08",
+      "url": "https://www.bilibili.com/video/BV1rYMr6gEw9"
     },
     {
-      "id": "https://www.ithome.com/0/986/763.htm",
-      "title": "特斯拉 FSD v14 取消自定义限速后风波不断:超速被警方拦停后司机辩称是“自动驾驶”",
-      "summary": "IT之家 8 月 6 日消息,据 Electrek 今日报道,美国科罗拉多州帕克市警方于当地时间 8 月 5 日公布了一起交通违法案例。 一辆开启 FSD 功能的特斯拉车辆在限速 45 英里 / 小时(约 72 公里 / 小时)的道路上以 64 英里 / 小时(约 103 公里 / 小时)的速度行驶,被警方发现后要求停车。驾驶员被拦截后向警方辩称是自己开启了“自动驾驶”,所以超速不关他的事。 帕克...",
+      "id": "https://www.bilibili.com/video/BV1Xaut64EFV",
+      "title": "【B站】FSD终于来了！长途返航1小时+，尝试0接管：一镜到底，全程无剪辑，100%真实记录北京下班，使用智驾前必看！",
+      "summary": "FSD终于来了：0接管？\n从顺义郊区返回北京市区\n长途返航：全程无剪辑\n100%无剪辑真实记录：\n北京上下班！一镜到底！\n99%的人都不知道的：\n智能驾驶的高能情况！\n使用智能驾驶前必看！...",
+      "source": "Bilibili",
+      "date": "2026-08-08",
+      "url": "https://www.bilibili.com/video/BV1Xaut64EFV"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-08-08",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Pyux6rEy6",
+      "title": "【B站】新国标落地！高阶自动驾驶时代要来了",
+      "summary": "自动驾驶新国标正式落地，2027年7月1日实施，针对 L3、L4级别，对车企全链路安全保障提出硬性要求。\n仅个人行业观察，不做购车推荐。...",
+      "source": "Bilibili",
+      "date": "2026-08-08",
+      "url": "https://www.bilibili.com/video/BV1Pyux6rEy6"
+    },
+    {
+      "id": "https://www.ithome.com/0/987/196.htm",
+      "title": "大众高尔夫混动版海外上市,3.58 万欧元起",
+      "summary": "IT之家 8 月 7 日消息,据外媒 motor.es 今天报道,大众高尔夫混动版现已在西班牙上市,新车为油电混合动力(HEV)品类,拥有 Style 和 R-Line 两种版本,售价 35,800 欧元(IT之家注:现汇率约合 27.9 万元人民币)起。 据介绍,这款汽车主要为不考虑插电式混合动力(PHEV)车型的用户设计,直接竞争目标正是丰田卡罗拉。 搭载 1.5 升 TSI evo2 汽油发...",
       "source": "Ithome",
-      "date": "2026-08-06",
-      "url": "https://www.ithome.com/0/986/763.htm"
+      "date": "2026-08-07",
+      "url": "https://www.ithome.com/0/987/196.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/08-06/10673283.shtml",
-      "title": "晶采观察丨超7万亿元织密“六张网” 激活实体经济新动能",
-      "summary": "7月30日,中共中央政治局召开会议,分析研究当前经济形势,部署下半年经济工作。会议明确传递出八个关键字——“向新向优向好发展”,并作出一个重要部署:扎实推进“六张网”规划建设。...",
+      "id": "https://www.bjnews.com.cn/detail/1786089998129808.html",
+      "title": "五预警齐发!北京晚高峰交通压力大,请尽量错峰出行",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-07",
+      "url": "https://www.bjnews.com.cn/detail/1786089998129808.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872870713314766534",
+      "title": "浙江世宝抛出13.94亿元定增计划 拟重点布局汽车..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872870713314766534"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872870740179184134",
+      "title": "8月中旬起,“复兴公园游乐场”要来了",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872870740179184134"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872848755246094571",
+      "title": "敲代码、调实车、拉投资!全国百所高校队伍齐聚苏州相..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872848755246094571"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872864798868526195",
+      "title": "自动驾驶有了安全准入基线 从这些方面读懂新国标",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872864798868526195"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gj/2026/08-07/10673905.shtml",
+      "title": "尼泊尔塔托帕尼口岸海关场地遭落石破坏",
+      "summary": "中新社加德满都8月7日电 (记者 崔楠)位于尼泊尔与中国边境的塔托帕尼—樟木口岸尼方海关场地自6日开始遭落石破坏,尼海关工作人员被迫撤离,口岸运行受阻。...",
       "source": "Chinanews",
-      "date": "2026-08-06",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10673283.shtml"
+      "date": "2026-08-07",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673905.shtml"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3503503",
-      "title": "鸿蒙智行推新车:尊界V800、尊界V680正式上市,享界G9同步预售",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-06",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3503503"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872732678687870066",
-      "title": "宁波六旬老人高温天气骑车出行,途中车辆方向失控,径..",
+      "id": "http://baijiahao.baidu.com/s?id=1872866905421082052",
+      "title": "复用Robotaxi技术底座 小马智行Robotr..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872732678687870066"
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872866905421082052"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872780873292843860",
-      "title": "纵横F700正式上市 限时权益价29.99万元起 ..",
+      "id": "http://baijiahao.baidu.com/s?id=1872858382408909666",
+      "title": "直通部委|前7月货物贸易进出口总值超30万亿 8月..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872780873292843860"
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872858382408909666"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872754951377487942",
-      "title": "自动驾驶迈向“有标可依”",
+      "id": "http://baijiahao.baidu.com/s?id=1872865962457567412",
+      "title": "北京推出积水地图服务!实时更新,积水深度精确到厘米",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872754951377487942"
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872865962457567412"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872781813650518982",
-      "title": "黄永斌:老兵的33年坚守",
+      "id": "http://baijiahao.baidu.com/s?id=1872859041433744571",
+      "title": "曾经的“堵点”变“畅点”!武汉交警治理儿童医院就医..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872781813650518982"
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872859041433744571"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872774263692178648",
-      "title": "一身盐霜护通途,衡阳热浪下的真“汗”子",
+      "id": "http://news.imobile.com.cn/articles/2026/0807/235186.shtml",
+      "title": "尊界V800震撼上市,HUAWEI XMC乾崑数字底盘加持",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-08-07",
+      "url": "http://news.imobile.com.cn/articles/2026/0807/235186.shtml"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1786098237129997.html",
+      "title": "第十五届财经峰会圆满落幕,无问智科双奖加冕,科技实力再获权威认可",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-07",
+      "url": "https://www.bjnews.com.cn/detail/1786098237129997.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872863952210653819",
+      "title": "鑫闻界丨十年前创立时在星巴克办公数月,拿森科技上市..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872774263692178648"
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872863952210653819"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872783824734119966",
-      "title": "铁骑绕桩、特警索降、无人机探路......金山公安夏季练兵..",
+      "id": "http://www.pcauto.com.cn/news/5177/51773727.html",
+      "title": "星途车属于什么档次?性能、安全与颜值全面进阶",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-08-07",
+      "url": "http://www.pcauto.com.cn/news/5177/51773727.html"
+    },
+    {
+      "id": "https://time-weekly.com/post/331728",
+      "title": "AI自作主张,未经授权行为频发!专访中国信通院何波:治理核心在于落地现有制度",
+      "summary": "本文来源:时代周报 作者:袁佳薇 赵鹏 从“互联网+”到“人工智能+”,技术的每一次跃进都对治理提出了更高要求。技术前进一小步,治理难度或许增加一大步。人工智能技术快速发展,安全风险也加速累积。 环球网援引报道称,英国人工智能安全研究所8月4日披露,在对美国人工智能公司Anthropic和OpenAI模型进行安全测试时,发现AI智能体作出多项未经授权的行为。其中,最严重的一起事件涉及编写恶意代码,...",
+      "source": "Time Weekly",
+      "date": "2026-08-07",
+      "url": "https://time-weekly.com/post/331728"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872862658305846844",
+      "title": "AI高阶辅助驾驶PCR具身智能代步机器人新品发布会..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872783824734119966"
+      "date": "2026-08-07",
+      "url": "http://baijiahao.baidu.com/s?id=1872862658305846844"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872765142949770138",
-      "title": "对话艾欧智能联创丁哲章:“人类数据”成具身预训练核..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872765142949770138"
+      "id": "https://www.ithome.com/0/987/186.htm",
+      "title": "小米汽车解答澎程内饰风格和 SU7 / YU7 差别大:系列定位不同,设计理念也会有区别",
+      "summary": "IT之家 8 月 7 日消息,小米汽车官方今日发布答网友问(第 271 集),解答了澎程系列新车的相关问题,包括展车进店情况、内饰风格和 SU7 / YU7 差别大的原因等。 IT之家附小米汽车本集答网友问重点内容如下: 周末想去看小米澎程,哪里可以看? 目前,小米澎程实车已经全面进店, 覆盖全国 146 个城市、499 家门店 。您可前往【小米汽车 APP > 发现 > 附近门店】查询离您最近的...",
+      "source": "Ithome",
+      "date": "2026-08-07",
+      "url": "https://www.ithome.com/0/987/186.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872763474305608129",
-      "title": "德媒:世界石油市场的喘息时间即将结束",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872763474305608129"
+      "id": "https://www.ithome.com/0/987/184.htm",
+      "title": "方盒子插混硬派 SUV:广汽传祺越 7 启动先享计划,9 月初开启预售",
+      "summary": "IT之家 8 月 7 日消息,广汽传祺全新硬派插混 SUV—— 传祺越 7 今日首发亮相。新车同步开启“先享计划”,用户支付 199 元即可限时锁定至高价值 20000 元的先享臻选权益。广汽宣布,传祺越 7 将于 9 月初正式开启预售。IT之家届时将为大家带来详细报道。 传祺越 7 是广汽传祺品牌首款硬派越野 SUV,新车采用当下硬派越野流行的“方盒子”车身轮廓,前脸为封闭式设计,搭配纵向排列的...",
+      "source": "Ithome",
+      "date": "2026-08-07",
+      "url": "https://www.ithome.com/0/987/184.htm"
     },
     {
-      "id": "https://news.cri.cn/20260806/ab88a751-1be1-fc91-6a99-3a62a841532d.html",
-      "title": "“三个转变”看中原-国际在线",
-      "summary": "“十五五”开局之年,“河南制造”佳音频传—— 中铁工程装备集团有限公司参与研发的“江汉神农号”硬岩掘进机下线,助力引江补汉工程; 宇通客...",
-      "source": "Cri_Cn",
-      "date": "2026-08-06",
-      "url": "https://news.cri.cn/20260806/ab88a751-1be1-fc91-6a99-3a62a841532d.html"
+      "id": "https://in.mashable.com/tech/112593/uber-reportedly-plans-10-billion-robotaxi-expansion-raising-questions-about-driver-jobs",
+      "title": "Uber Reportedly Plans USD 10 Billion Robotaxi Expansion, Raising Questions About Driver Jobs",
+      "summary": "Uber is set to spend over $10 billion (roughly Rs 95,000 crore) to deploy 1.2 lakh self-driving cabs as it ramps up its autonomous mobility strategy....",
+      "source": "Mashable India",
+      "date": "2026-08-07",
+      "url": "https://in.mashable.com/tech/112593/uber-reportedly-plans-10-billion-robotaxi-expansion-raising-questions-about-driver-jobs"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260806-9482636",
-      "title": "Grab首批自动驾驶安全操作员结业 为“随需而至”服务提供支持",
-      "summary": "44岁的莎拉(Sarah Binte Ahmad)曾是家庭主妇,之后当了三年私召车司机。去年6月,她所属的私召车业者Grab联络她,告知正在招募自动驾驶车辆的首批安全操作员。一直对人工智能和科技感兴趣的莎拉,毫不犹豫就报名上课。...",
-      "source": "Zaobao",
+      "id": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/waymo-ceo-says-camera-only-self-driving-systems-cant-support-fully-autonomous-driving-systems-and-after-testing-multiple-robotaxis-i-have-to-agree",
+      "title": "Waymo CEO says camera-only self-driving systems can’t support fully autonomous driving systems, and after testing multiple robotaxis, I have to agree",
+      "summary": "Waymo co-CEO Dmitri Dolgov laid out reasons why Lidar and radar are required...",
+      "source": "TechRadar",
       "date": "2026-08-06",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260806-9482636"
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/waymo-ceo-says-camera-only-self-driving-systems-cant-support-fully-autonomous-driving-systems-and-after-testing-multiple-robotaxis-i-have-to-agree"
     },
     {
-      "id": "https://post.smzdm.com/p/a3monqvr/",
-      "title": "全新深蓝S05上市11.59万元起,天枢领航智能驾驶辅助系统重磅加持",
-      "summary": "8月6日,“全球时尚激光智能SUV”全新深蓝S05正式上市,提供520智行版、520智臻版、520智臻版激光版、620智臻版、620智臻激光版共5款车型,限时优惠价为11.59万元-14.49万元,下订即享至高价值38360元的八大超值礼包。作为深蓝汽车......",
-      "source": "Smzdm",
+      "id": "https://www.forbes.com/sites/technology/article/self-driving-cars/",
+      "title": "The Technology Behind Self",
+      "summary": "What exactly is a self-driving car? Learn how autonomous vehicles work, the technology behind them, and where the industry is headed....",
+      "source": "Forbes",
       "date": "2026-08-06",
-      "url": "https://post.smzdm.com/p/a3monqvr/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872770459767156115",
-      "title": "高温天气,途经故宫北海公交线路将调整运营计划减少乘..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-06",
-      "url": "http://baijiahao.baidu.com/s?id=1872770459767156115"
+      "url": "https://www.forbes.com/sites/technology/article/self-driving-cars/"
     },
     {
       "id": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses",
@@ -179,54 +260,6 @@
       "source": "Morningstar",
       "date": "2026-08-06",
       "url": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
-      "title": "‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’",
-      "summary": "Wayve Uber wins first minicab licence for autonomous cabs from TfL but vehicles will have a safety driver (at first)...",
-      "source": "The Guardian",
-      "date": "2026-08-05",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber"
-    },
-    {
-      "id": "https://www.irishtimes.com/motors/review/2026/08/05/big-reduction-in-costs-could-see-explosion-of-robot-car-services/",
-      "title": "Big reduction in costs could see explosion of robot car services",
-      "summary": "As costs fall, partly thanks to AI, autonomous driving services including robotaxis are set to increase dramatically...",
-      "source": "The Irish Times",
-      "date": "2026-08-05",
-      "url": "https://www.irishtimes.com/motors/review/2026/08/05/big-reduction-in-costs-could-see-explosion-of-robot-car-services/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/05/tmt-newswire/pr-newswire/tier-iv-to-jointly-develop-next-generation-development-platform-with-astemo-accelerating-e2e-autonomous-driving-ai-with-co-mlops-solution/2398575",
-      "title": "TIER IV to jointly develop next-generation development platform with Astemo, accelerating E2E autonomous driving AI with Co-MLOps solution",
-      "summary": "**media[1164178]**TOKYO, Aug. 5, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has signed a memorandum of understanding (MoU) with Astemo, to j...",
-      "source": "The Manila Times",
-      "date": "2026-08-05",
-      "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/pr-newswire/tier-iv-to-jointly-develop-next-generation-development-platform-with-astemo-accelerating-e2e-autonomous-driving-ai-with-co-mlops-solution/2398575"
-    },
-    {
-      "id": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-zero-latency-war.html",
-      "title": "Coffee Break: Armed Madhouse - Zero-Latency War",
-      "summary": "AI and autonomous weapons are driving warfare toward machine-speed decision cycles. This leads to the military technology challenge of governing zero-latency systems in combat....",
-      "source": "Naked Capitalism",
-      "date": "2026-08-04",
-      "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-zero-latency-war.html"
-    },
-    {
-      "id": "https://techstartups.com/2026/08/04/nvidia-launches-alpamayo-2-super-a-frontier-open-reasoning-model-for-robotaxis-and-autonomous-vehicles/",
-      "title": "Nvidia launches Alpamayo 2 Super, a frontier open reasoning model for robotaxis and autonomous vehicles",
-      "summary": "Nvidia has launched Alpamayo 2 Super, a new open reasoning model for autonomous vehicles that the chip giant says can analyze complicated driving situations, reason through what is happening around a ...",
-      "source": "TechStartups.com",
-      "date": "2026-08-04",
-      "url": "https://techstartups.com/2026/08/04/nvidia-launches-alpamayo-2-super-a-frontier-open-reasoning-model-for-robotaxis-and-autonomous-vehicles/"
-    },
-    {
-      "id": "https://www.thenews.com.pk/latest/1411250-what-is-nvidia-alpamayo-2-super-everything-you-need-to-know",
-      "title": "What is NVIDIA Alpamayo 2 Super? Everything you need to know",
-      "summary": "NVIDIA Alpamayo 2 Super is reportedly now available for commercial use on Hugging Face- a significant move for the most widely adopted family of open reasoning models for autonomous driving......",
-      "source": "The News International",
-      "date": "2026-08-04",
-      "url": "https://www.thenews.com.pk/latest/1411250-what-is-nvidia-alpamayo-2-super-everything-you-need-to-know"
     }
   ]
 }
