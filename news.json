@@ -1,15 +1,14 @@
 {
-  "lastUpdated": "2026-08-08 02:04:25",
-  "totalCount": 33,
+  "lastUpdated": "2026-08-09 02:13:12",
+  "totalCount": 28,
   "sources": {
-    "Bilibili": 5,
-    "Ithome": 3,
-    "Bjnews": 2,
-    "News_Baidu": 10,
+    "News_Baidu": 9,
+    "Ithome": 5,
     "Chinanews": 1,
-    "Imobile": 1,
+    "Cri_Cn": 2,
     "Pcauto_Cn": 1,
-    "Time Weekly": 1,
+    "Orientaldaily": 1,
+    "Ars Technica": 1,
     "Mashable India": 1,
     "TechRadar": 1,
     "Forbes": 1,
@@ -17,201 +16,168 @@
     "The Tribune": 1,
     "Morningstar": 1,
     "The Guardian": 1,
-    "The Irish Times": 1,
-    "The Manila Times": 1
+    "The Irish Times": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "http://baijiahao.baidu.com/s?id=1872962070565920793",
+      "title": "买菜、接娃、遛弯“神器”?老年人注意了!上海交警明..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
       "date": "2026-08-08",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+      "url": "http://baijiahao.baidu.com/s?id=1872962070565920793"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1rYMr6gEw9",
-      "title": "【B站】自动驾驶“安全底线”来了 自动驾驶开车水平不能比人差",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-08",
-      "url": "https://www.bilibili.com/video/BV1rYMr6gEw9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Xaut64EFV",
-      "title": "【B站】FSD终于来了！长途返航1小时+，尝试0接管：一镜到底，全程无剪辑，100%真实记录北京下班，使用智驾前必看！",
-      "summary": "FSD终于来了：0接管？\n从顺义郊区返回北京市区\n长途返航：全程无剪辑\n100%无剪辑真实记录：\n北京上下班！一镜到底！\n99%的人都不知道的：\n智能驾驶的高能情况！\n使用智能驾驶前必看！...",
-      "source": "Bilibili",
-      "date": "2026-08-08",
-      "url": "https://www.bilibili.com/video/BV1Xaut64EFV"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-08-08",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Pyux6rEy6",
-      "title": "【B站】新国标落地！高阶自动驾驶时代要来了",
-      "summary": "自动驾驶新国标正式落地，2027年7月1日实施，针对 L3、L4级别，对车企全链路安全保障提出硬性要求。\n仅个人行业观察，不做购车推荐。...",
-      "source": "Bilibili",
-      "date": "2026-08-08",
-      "url": "https://www.bilibili.com/video/BV1Pyux6rEy6"
-    },
-    {
-      "id": "https://www.ithome.com/0/987/196.htm",
-      "title": "大众高尔夫混动版海外上市,3.58 万欧元起",
-      "summary": "IT之家 8 月 7 日消息,据外媒 motor.es 今天报道,大众高尔夫混动版现已在西班牙上市,新车为油电混合动力(HEV)品类,拥有 Style 和 R-Line 两种版本,售价 35,800 欧元(IT之家注:现汇率约合 27.9 万元人民币)起。 据介绍,这款汽车主要为不考虑插电式混合动力(PHEV)车型的用户设计,直接竞争目标正是丰田卡罗拉。 搭载 1.5 升 TSI evo2 汽油发...",
+      "id": "https://www.ithome.com/0/987/441.htm",
+      "title": "手机端横屏驾驶模式确认为新特性,华为 HiCar 7.0 正式版更多功能曝光",
+      "summary": "IT之家 8 月 8 日消息,华为 HiCar 已于今年 7 月底在华为应用市场(App Gallery)推出 7.0.0.300 (70000300) 正式版本升级。 新版本支持手机端直接启动驾驶模式 。 IT之家实测,在升级最新版的 HiCar 后,用户可以在手机端直接启动驾驶模式。而值得一提的是,最新版的驾驶模式还支持横屏使用,体验会更加友好。 根据华为官方最新介绍, 华为 HiCar 的手...",
       "source": "Ithome",
-      "date": "2026-08-07",
-      "url": "https://www.ithome.com/0/987/196.htm"
+      "date": "2026-08-08",
+      "url": "https://www.ithome.com/0/987/441.htm"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1786089998129808.html",
-      "title": "五预警齐发!北京晚高峰交通压力大,请尽量错峰出行",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-07",
-      "url": "https://www.bjnews.com.cn/detail/1786089998129808.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872870713314766534",
-      "title": "浙江世宝抛出13.94亿元定增计划 拟重点布局汽车..",
+      "id": "http://baijiahao.baidu.com/s?id=1872948349089522677",
+      "title": "军政兼优立标杆 他给出身为指导员的硬核答卷",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872870713314766534"
+      "date": "2026-08-08",
+      "url": "http://baijiahao.baidu.com/s?id=1872948349089522677"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872870740179184134",
-      "title": "8月中旬起,“复兴公园游乐场”要来了",
+      "id": "http://baijiahao.baidu.com/s?id=1872961215739846883",
+      "title": "破浪深蓝大洋,传递和平友谊",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872870740179184134"
+      "date": "2026-08-08",
+      "url": "http://baijiahao.baidu.com/s?id=1872961215739846883"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872848755246094571",
-      "title": "敲代码、调实车、拉投资!全国百所高校队伍齐聚苏州相..",
+      "id": "https://www.chinanews.com.cn/sh/2026/08-08/10674437.shtml",
+      "title": "“新疆的交警怎么个个像我妈!”",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872848755246094571"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872864798868526195",
-      "title": "自动驾驶有了安全准入基线 从这些方面读懂新国标",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872864798868526195"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gj/2026/08-07/10673905.shtml",
-      "title": "尼泊尔塔托帕尼口岸海关场地遭落石破坏",
-      "summary": "中新社加德满都8月7日电 (记者 崔楠)位于尼泊尔与中国边境的塔托帕尼—樟木口岸尼方海关场地自6日开始遭落石破坏,尼海关工作人员被迫撤离,口岸运行受阻。...",
       "source": "Chinanews",
-      "date": "2026-08-07",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673905.shtml"
+      "date": "2026-08-08",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-08/10674437.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872866905421082052",
-      "title": "复用Robotaxi技术底座 小马智行Robotr..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872866905421082052"
+      "id": "https://news.cri.cn/20260808/40c1f5b2-770f-b95f-b830-f290f4f57b85.html",
+      "title": "特稿丨赋能发展 推动共赢——“零关税”百日见证中非合作新气象-国际在线",
+      "summary": "2026年3月31日,在位于南非开普敦葡萄酒产区德班维尔小镇的黛眉斯多酒庄,工人驾驶叉车运送酒瓶。新华社记者王雷摄 新华社内罗毕8月8日电 特稿|赋能发展 推动共赢——&...",
+      "source": "Cri_Cn",
+      "date": "2026-08-08",
+      "url": "https://news.cri.cn/20260808/40c1f5b2-770f-b95f-b830-f290f4f57b85.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872858382408909666",
-      "title": "直通部委|前7月货物贸易进出口总值超30万亿 8月..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872858382408909666"
+      "id": "https://news.cri.cn/20260808/7f43e00b-dc65-d690-c738-6bec1293fe1d.html",
+      "title": "视频丨“新疆的交警怎么个个像我妈!”-国际在线",
+      "summary": "近日,一位摩旅爱好者 在骑行新疆途中 接连偶遇交警 每一次都被轮番“拦下” 送上暖心叮嘱 这段视频迅速走红网络 △视频源自@娜女骑180 这位骑手叫李娜,来自北京 今年6月底 她独自骑摩托车抵达...",
+      "source": "Cri_Cn",
+      "date": "2026-08-08",
+      "url": "https://news.cri.cn/20260808/7f43e00b-dc65-d690-c738-6bec1293fe1d.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872865962457567412",
-      "title": "北京推出积水地图服务!实时更新,积水深度精确到厘米",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872865962457567412"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872859041433744571",
-      "title": "曾经的“堵点”变“畅点”!武汉交警治理儿童医院就医..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872859041433744571"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0807/235186.shtml",
-      "title": "尊界V800震撼上市,HUAWEI XMC乾崑数字底盘加持",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-08-07",
-      "url": "http://news.imobile.com.cn/articles/2026/0807/235186.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1786098237129997.html",
-      "title": "第十五届财经峰会圆满落幕,无问智科双奖加冕,科技实力再获权威认可",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-07",
-      "url": "https://www.bjnews.com.cn/detail/1786098237129997.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872863952210653819",
-      "title": "鑫闻界丨十年前创立时在星巴克办公数月,拿森科技上市..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872863952210653819"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5177/51773727.html",
-      "title": "星途车属于什么档次?性能、安全与颜值全面进阶",
+      "id": "http://www.pcauto.com.cn/news/5177/51774068.html",
+      "title": "一汽悦意08华南区上市 售9.99万起 增程/纯电动力",
       "summary": "NewsData报道",
       "source": "Pcauto_Cn",
-      "date": "2026-08-07",
-      "url": "http://www.pcauto.com.cn/news/5177/51773727.html"
+      "date": "2026-08-08",
+      "url": "http://www.pcauto.com.cn/news/5177/51774068.html"
     },
     {
-      "id": "https://time-weekly.com/post/331728",
-      "title": "AI自作主张,未经授权行为频发!专访中国信通院何波:治理核心在于落地现有制度",
-      "summary": "本文来源:时代周报 作者:袁佳薇 赵鹏 从“互联网+”到“人工智能+”,技术的每一次跃进都对治理提出了更高要求。技术前进一小步,治理难度或许增加一大步。人工智能技术快速发展,安全风险也加速累积。 环球网援引报道称,英国人工智能安全研究所8月4日披露,在对美国人工智能公司Anthropic和OpenAI模型进行安全测试时,发现AI智能体作出多项未经授权的行为。其中,最严重的一起事件涉及编写恶意代码,...",
-      "source": "Time Weekly",
-      "date": "2026-08-07",
-      "url": "https://time-weekly.com/post/331728"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872862658305846844",
-      "title": "AI高阶辅助驾驶PCR具身智能代步机器人新品发布会..",
+      "id": "http://baijiahao.baidu.com/s?id=1872911857949156698",
+      "title": "具身智能,在物理世界中成长",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-07",
-      "url": "http://baijiahao.baidu.com/s?id=1872862658305846844"
+      "date": "2026-08-08",
+      "url": "http://baijiahao.baidu.com/s?id=1872911857949156698"
     },
     {
-      "id": "https://www.ithome.com/0/987/186.htm",
-      "title": "小米汽车解答澎程内饰风格和 SU7 / YU7 差别大:系列定位不同,设计理念也会有区别",
-      "summary": "IT之家 8 月 7 日消息,小米汽车官方今日发布答网友问(第 271 集),解答了澎程系列新车的相关问题,包括展车进店情况、内饰风格和 SU7 / YU7 差别大的原因等。 IT之家附小米汽车本集答网友问重点内容如下: 周末想去看小米澎程,哪里可以看? 目前,小米澎程实车已经全面进店, 覆盖全国 146 个城市、499 家门店 。您可前往【小米汽车 APP > 发现 > 附近门店】查询离您最近的...",
-      "source": "Ithome",
-      "date": "2026-08-07",
-      "url": "https://www.ithome.com/0/987/186.htm"
+      "id": "https://www.orientaldaily.com.my/news/society/2026/08/08/839194",
+      "title": "半个身子探出车外兜风 女子危险举动惹议",
+      "summary": "(吉隆坡8日讯)一名女子被拍到坐在一辆行驶中的轿车车窗边,将半个身子探出车外,危险举动在社群媒体上引发网民的批评。网民指出,女子的行为不仅危害自身安全,也危害其他道路使用者的安危。一位用户Zhafirkz在Threads的应用程式上分享视频,指女子乘车时做出了危险的举动。从视频画面可见,一名当时坐在副驾驶座的女乘客,在轿车行驶在最右侧快速车道时,故意将半个身体探出车窗外。然而,目前尚不清楚该名女乘...",
+      "source": "Orientaldaily",
+      "date": "2026-08-08",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/08/08/839194"
     },
     {
-      "id": "https://www.ithome.com/0/987/184.htm",
-      "title": "方盒子插混硬派 SUV:广汽传祺越 7 启动先享计划,9 月初开启预售",
-      "summary": "IT之家 8 月 7 日消息,广汽传祺全新硬派插混 SUV—— 传祺越 7 今日首发亮相。新车同步开启“先享计划”,用户支付 199 元即可限时锁定至高价值 20000 元的先享臻选权益。广汽宣布,传祺越 7 将于 9 月初正式开启预售。IT之家届时将为大家带来详细报道。 传祺越 7 是广汽传祺品牌首款硬派越野 SUV,新车采用当下硬派越野流行的“方盒子”车身轮廓,前脸为封闭式设计,搭配纵向排列的...",
+      "id": "http://baijiahao.baidu.com/s?id=1872954218583219898",
+      "title": "老人注意!这种网红老年代步车不能上路!",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-08",
+      "url": "http://baijiahao.baidu.com/s?id=1872954218583219898"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872954508814695632",
+      "title": "青浦又有这几处暂停开放,风雨天行车停车安全指南请收..",
+      "summary": "上海大观园 上海大观园景区将于2026年8月9日起紧急临时闭园,恢复开园时间另行公告,敬请关注“上海大观园”微信公众号或拨打服务电话咨询:021-59262831。青西郊野公园 青西郊野公园将于20......",
+      "source": "News_Baidu",
+      "date": "2026-08-08",
+      "url": "http://baijiahao.baidu.com/s?id=1872954508814695632"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872749288908239306",
+      "title": "活力中国调研行|沉浸式体验无人驾驶载人航空器",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-08",
+      "url": "http://baijiahao.baidu.com/s?id=1872749288908239306"
+    },
+    {
+      "id": "https://www.ithome.com/0/987/432.htm",
+      "title": "东风风行星海 V6 乾崑版预售开启:10.49 万元起,定位大六座 MPV",
+      "summary": "IT之家 8 月 8 日消息,东风风行星海 V6 乾崑版今天开启预售,新车定位大六座 MPV,一共拥有两种配置, 配备华为乾崑 ADS 5.0 辅助驾驶系统 。 IT之家附该车各版本预售价如下: 400km 乾崑尊享型:10.49 万元 510km 乾崑旗舰型:12.49 万元 据介绍,风行星海 V6 乾崑采用分离式前大灯设计,搭配封闭式前格栅,使车辆的辨识度更强。侧面车窗拥有镀铬饰条装饰,尾部带...",
       "source": "Ithome",
-      "date": "2026-08-07",
-      "url": "https://www.ithome.com/0/987/184.htm"
+      "date": "2026-08-08",
+      "url": "https://www.ithome.com/0/987/432.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/987/429.htm",
+      "title": "阿维塔 07L 大五座 SUV 上市:华为乾崑智驾 ADS 5 + 鸿蒙座舱,限时权益价 21.99 万元起",
+      "summary": "IT之家 8 月 8 日消息,阿维塔 07L 大五座 SUV 今晚正式上市,全球品牌代言人为张凌赫也来到了现场。此次共推出三款车型(相比预售多一款 Elite 车型),均搭载华为乾崑智驾 ADS 5 + 鸿蒙座舱, 售价 22.99 万元起、限时权益价 21.99 万元起 。 阿维塔 07L Ultra 三电机纯电版:官方指导价 27.99 万元、 限时权益价 26.99 万元 ; 阿维塔 07L...",
+      "source": "Ithome",
+      "date": "2026-08-08",
+      "url": "https://www.ithome.com/0/987/429.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/987/419.htm",
+      "title": "阿维塔王辉:华为乾崑智驾里程突破 137 亿公里,位居全国第一",
+      "summary": "IT之家 8 月 8 日消息,在今天的阿维塔 07L 上市发布会上,阿维塔科技董事长王辉登台发表主题演讲。据他介绍, 华为乾崑智驾里程突破 137 亿公里,位居全国第一 。 另外,阿维塔 07L 搭载了华为乾崑新一代 896 线双光路图像级激光雷达, 且上市即预装华为乾崑智驾 ADS 5 。 据IT之家此前报道,华为乾崑智能汽车解决方案官方在 8 月 6 日发布了华为乾崑 7 月安全出行报告。当时...",
+      "source": "Ithome",
+      "date": "2026-08-08",
+      "url": "https://www.ithome.com/0/987/419.htm"
+    },
+    {
+      "id": "https://www.ithome.com/0/987/411.htm",
+      "title": "长城魏牌 V8X 大五座旗舰 SUV 定档 8 月 14 日发布:零百最快 4.5 秒、综合续航 1659km",
+      "summary": "IT之家 8 月 8 日消息,长城汽车董事长魏建军今日发布视频,宣布魏牌 V8X 大五座旗舰 SUV 定档 8 月 14 日(预计准确时间为 8 月 14 日 19:30)发布 。 据IT之家此前报道,这款新车已于今年 7 月正式开启预订, 定位归元 S 平台的智慧驾控五座旗舰车型 。 IT之家汇总新车主要信息: 该车外观主打“东方美学”,长宽高分别为 5125/2025/1821mm,轴距 30...",
+      "source": "Ithome",
+      "date": "2026-08-08",
+      "url": "https://www.ithome.com/0/987/411.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872945928312460679",
+      "title": "第28届中国机器人及人工智能大赛智能驾驶专项赛全国..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-08",
+      "url": "http://baijiahao.baidu.com/s?id=1872945928312460679"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872946272233619195",
+      "title": "智构立体防控网,联筑高速平安!青岛公安交管董胶高速..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-08",
+      "url": "http://baijiahao.baidu.com/s?id=1872946272233619195"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous....",
+      "source": "Ars Technica",
+      "date": "2026-08-08",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
     },
     {
       "id": "https://in.mashable.com/tech/112593/uber-reportedly-plans-10-billion-robotaxi-expansion-raising-questions-about-driver-jobs",
@@ -260,6 +226,22 @@
       "source": "Morningstar",
       "date": "2026-08-06",
       "url": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
+      "title": "‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’",
+      "summary": "Wayve Uber wins first minicab licence for autonomous cabs from TfL but vehicles will have a safety driver (at first)...",
+      "source": "The Guardian",
+      "date": "2026-08-05",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber"
+    },
+    {
+      "id": "https://www.irishtimes.com/motors/review/2026/08/05/big-reduction-in-costs-could-see-explosion-of-robot-car-services/",
+      "title": "Big reduction in costs could see explosion of robot car services",
+      "summary": "As costs fall, partly thanks to AI, autonomous driving services including robotaxis are set to increase dramatically...",
+      "source": "The Irish Times",
+      "date": "2026-08-05",
+      "url": "https://www.irishtimes.com/motors/review/2026/08/05/big-reduction-in-costs-could-see-explosion-of-robot-car-services/"
     }
   ]
 }
