@@ -1,15 +1,14 @@
 {
-  "lastUpdated": "2026-08-10 02:21:13",
-  "totalCount": 31,
+  "lastUpdated": "2026-08-11 02:11:11",
+  "totalCount": 32,
   "sources": {
     "Bilibili": 5,
-    "Chinanews": 1,
-    "News_Baidu": 7,
-    "Ithome": 4,
-    "Cri_Cn": 1,
-    "A199It": 2,
-    "Eeo": 1,
-    "Time Weekly": 1,
+    "Jiemian": 1,
+    "Investing_Cn": 1,
+    "News_Baidu": 11,
+    "Chinanews": 3,
+    "Ithome": 1,
+    "Orientaldaily": 1,
     "Ars Technica": 1,
     "Mashable India": 1,
     "TechRadar": 1,
@@ -26,176 +25,184 @@
       "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Axum6PEkU",
-      "title": "【B站】自动驾驶新国标出来了，很多人看到没有强制要求配备激光雷达，就觉得特斯拉，小鹏 #自动驾驶 #汽车驾驶自动化分级 #深圳精艺陪驾 #l3级自动驾驶 #l4自动驾驶",
-      "summary": "自动驾驶新国标出来了，很多人看到没有强制要求配备激光雷达，就觉得特斯拉，小鹏赢麻了，睡觉都能笑醒了，但是你有没有想过，不管你用什么方案，你都要通过极端工况测试，才可以，你要想通过测试，就要满足2个条件，1、时速120的时候，恶劣工况你的探测距离大于110米，在逆光、暴雨、大雾传感器脏了，或者传感器老...",
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-08-10",
-      "url": "https://www.bilibili.com/video/BV1Axum6PEkU"
+      "date": "2026-08-11",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV16Huu6HEDx",
-      "title": "【B站】自动驾驶L4级落地时间推测以及哪些车型达标",
+      "id": "https://www.bilibili.com/video/BV1rYMr6gEw9",
+      "title": "【B站】自动驾驶“安全底线”来了 自动驾驶开车水平不能比人差",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-08-10",
-      "url": "https://www.bilibili.com/video/BV16Huu6HEDx"
+      "date": "2026-08-11",
+      "url": "https://www.bilibili.com/video/BV1rYMr6gEw9"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1hou768ELH",
-      "title": "【B站】怎么搭建自动驾驶工程？基于深度学习的无人驾驶实战项目，AI交通领域主流落地场景实战！深度估计|车道线检测|关键点检测|三维重建|NeuralRecon",
-      "summary": "配套代码【关·注·公·众·号：咕泡AI 回复：965】即可获取\nAI学习路线规划/系统课程/毕设/论文指导 🉑后台滴滴UP\n觉得视频对你有帮助的话 记得三连支持一下~...",
+      "id": "https://www.bilibili.com/video/BV1k8um68E5Z",
+      "title": "【B站】自动驾驶",
+      "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-08-10",
-      "url": "https://www.bilibili.com/video/BV1hou768ELH"
+      "date": "2026-08-11",
+      "url": "https://www.bilibili.com/video/BV1k8um68E5Z"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1kWu16dELR",
-      "title": "【B站】zoox自动驾驶体验",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1npM26pEff",
+      "title": "【B站】开YU7第一次下班全程使用辅助驾驶，没想到居然。。。。",
+      "summary": "小米的辅助驾驶任重而道远啊！还有很大的进步空间！...",
       "source": "Bilibili",
-      "date": "2026-08-10",
-      "url": "https://www.bilibili.com/video/BV1kWu16dELR"
+      "date": "2026-08-11",
+      "url": "https://www.bilibili.com/video/BV1npM26pEff"
     },
     {
-      "id": "https://www.chinanews.com.cn/gj/2026/08-09/10674842.shtml",
-      "title": "全球媒体聚焦 | 美媒:中国在AI竞赛中有独特优势",
-      "summary": "美国消费者新闻与商业频道近日刊文称,中国人工智能企业正缩小与美国前沿实验室的性能差距,部分领域甚至实现反超。当前全球性能顶尖的开源模型(即可下载、修改、自主部署的模型)均来自中国。此外,多位专家表示,中国的机器人技术同样处于世界领先水平。...",
+      "id": "https://www.jiemian.com/article/14901589.html",
+      "title": "两周拿下1000张订单,比亚迪闯入日本车企最熟悉的战场",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-08-10",
+      "url": "https://www.jiemian.com/article/14901589.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3509129",
+      "title": "波音“以资产换股权”花式押注Archer(ACHR.US) “低空经济”从烧钱竞赛迈向商业兑现",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-10",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3509129"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873143887611345939",
+      "title": "顺义好风气丨细心司机守护迷路老人,顺62路传递文明..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873143887611345939"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gj/2026/08-10/10675403.shtml",
+      "title": "英国加码资金扶持零排放汽车技术研发",
+      "summary": "中新社伦敦8月10日电 (记者 欧阳开宇)当地时间8月10日,英国政府宣布推出新一轮专项资金扶持计划,集中加码零排放汽车技术研发,全面提速本土汽车产业绿色转型进程,巩固英国在新能源汽车领域的产业竞争力。...",
       "source": "Chinanews",
-      "date": "2026-08-09",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674842.shtml"
+      "date": "2026-08-10",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675403.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873051255577858841",
-      "title": "从“看见低空”到“进入低空”:深圳本土无人机游戏《..",
+      "id": "http://baijiahao.baidu.com/s?id=1873136409505013069",
+      "title": "证监会严打“小作文”乱象;北京楼市新政首批受益者房..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-09",
-      "url": "http://baijiahao.baidu.com/s?id=1873051255577858841"
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873136409505013069"
     },
     {
-      "id": "https://www.ithome.com/0/987/616.htm",
-      "title": "标致将在欧洲“下饺子”,2030 年前推出 7 款新车",
-      "summary": "IT之家 8 月 9 日消息,据外媒 Auto Express 当地时间 6 日报道,标致准备在欧洲展开新一轮产品攻势。按照集团最新的 FaSTLAne 战略,标致 将在 2030 年前推出 7 款新车 ,并率先应用多项 Stellantis 关键技术。 标致 CEO 阿兰 · 法韦表示,新一轮换代将从 208 和 2008 开始,随后覆盖 308、308 SW 和 408 所在的紧凑型车市场。最...",
+      "id": "http://baijiahao.baidu.com/s?id=1873133540271431978",
+      "title": "总台周看点丨绿色,底色",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873133540271431978"
+    },
+    {
+      "id": "https://www.ithome.com/0/988/028.htm",
+      "title": "2027 款奇瑞艾瑞泽 8 PRO 上市,超值置换价 8.99 万-11.69 万元",
+      "summary": "IT之家 8 月 10 日消息,2027 款艾瑞泽 8 PRO 今天(10 日)晚间正式上市,新车共提供 5 款不同配置,超值置换价 8.99 万-11.69 万元。新车对外观进行了小幅调整,座舱升级高通骁龙 8255 芯片并搭载猎鹰 500 智驾。 IT之家汇总该车主要信息如下: 1.6T-7DCT 舒适型:官方指导价 11.39 万元,限时指导价 10.49 万元,超值置换价 8.99 万元 ...",
       "source": "Ithome",
-      "date": "2026-08-09",
-      "url": "https://www.ithome.com/0/987/616.htm"
+      "date": "2026-08-10",
+      "url": "https://www.ithome.com/0/988/028.htm"
     },
     {
-      "id": "https://news.cri.cn/20260809/4590b07c-2358-c335-13fb-de252bb0331d.html",
-      "title": "焦点访谈|新场地、新设备、新模式 全民健身融入群众日常生活-国际在线",
-      "summary": "央视网消息(焦点访谈):2026年8月8日是我国第18个“全民健身日”。就在不久前,国务院印发《全民健身计划(2026—2030年)》,对“十五五”时期全民健身事业高质量发展作...",
-      "source": "Cri_Cn",
-      "date": "2026-08-09",
-      "url": "https://news.cri.cn/20260809/4590b07c-2358-c335-13fb-de252bb0331d.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/987/612.htm",
-      "title": "未来汽车“地理围栏”可帮你告别超速罚单,阿姆斯特丹大学教授称技术已成熟",
-      "summary": "IT之家 8 月 9 日消息,未来,超速罚单或许会逐渐成为历史,但背后原因可能并不值得司机高兴: 因为汽车本身将不允许你超速 。 据外媒 Carscoops 今天(9 日)报道,阿姆斯特丹大学城市交通未来学讲席教授马尔科 · 特 · 布勒梅尔斯特鲁特认为, 地理围栏 最终可能直接限制汽车在城市道路上的最高车速,而 GPS、摄像头、电子节气门和 OTA 更新等关键技术,其实已经出现在大量新车上。 图...",
-      "source": "Ithome",
-      "date": "2026-08-09",
-      "url": "https://www.ithome.com/0/987/612.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873037435443310321",
-      "title": "最美新时代革命军人步佳文:向战奋飞 制胜空天",
+      "id": "http://baijiahao.baidu.com/s?id=1873141156010239814",
+      "title": "全市公安民警闻讯而动,守护市民安全",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-09",
-      "url": "http://baijiahao.baidu.com/s?id=1873037435443310321"
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873141156010239814"
     },
     {
-      "id": "https://www.ithome.com/0/987/608.htm",
-      "title": "AutoPacific 近两万美国人调查显示,最受青睐新车配置是座椅加热",
-      "summary": "IT之家 8 月 9 日消息,AutoPacific 最新调查显示,新车消费者对舒适和便利配置的要求越来越高,而且并不介意为此多花钱。其中,座椅加热登顶消费者青睐的 15 项配置。 调查覆盖全美超过 19,000 名持有驾照、并计划在未来三年内购买新车的消费者。其中 47% 希望新车配备座椅加热 ,需求甚至超过前后驻车雷达。驻车雷达在去年的调查中还是最受欢迎的配置之一,今年的 选择比例为 45% ...",
-      "source": "Ithome",
-      "date": "2026-08-09",
-      "url": "https://www.ithome.com/0/987/608.htm"
-    },
-    {
-      "id": "http://www.199it.com/archives/1844418.html",
-      "title": "J.D. Power:2026年国内新能源车问题发生率46.1%,同比上涨12%",
-      "summary": "J.D. Power君迪发布的2026年国内新能源车售后调研显示,新能源车问题发生率升至46.1%,同比上涨12%,故障负面体验影响翻倍。近八成半用车困扰源于智能功能不熟练;事故维修均价为燃油车1.7倍,单车维修均价提升23.3%,导致保费高于同级燃油车。一体化压铸车身和传感器更换成本高,4S店只换不修推高维修开支,车主满意度下滑。...",
-      "source": "A199It",
-      "date": "2026-08-09",
-      "url": "http://www.199it.com/archives/1844418.html"
-    },
-    {
-      "id": "http://www.199it.com/archives/1844535.html",
-      "title": "2026年上半年中国品牌汽车在德国新车注册量占比3.8%,高于2025年2.2%",
-      "summary": "行业数据显示,2026年上半年中国品牌汽车在德国新车注册量占比达3.8%,高于2025年的2.2%。DAT调查发现,近一半韩国品牌车主考虑购买中国品牌汽车,日本品牌约三分之一,德国品牌约四分之一。MG和比亚迪新增客户主要来自现代、起亚、大众等品牌。比亚迪2026年上半年海外销量超78万辆,同比增长145%。...",
-      "source": "A199It",
-      "date": "2026-08-09",
-      "url": "http://www.199it.com/archives/1844535.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873045489979044731",
-      "title": "活力中国调研行|安徽最懂算力的硬核城市,为何是芜湖..",
+      "id": "http://baijiahao.baidu.com/s?id=1873137189383271633",
+      "title": "风雨中的粉色卡通电车成为患儿就医的“摆渡者”",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-09",
-      "url": "http://baijiahao.baidu.com/s?id=1873045489979044731"
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873137189383271633"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0809/992129.shtml",
-      "title": "月交付过万辆,智界汽车开练体系“内功”",
-      "summary": "智界汽车强调其工厂的高柔性、高效率和高品质,某种程度上是为了让行业和用户感知智界V9产品交付的“确定性”,并给接下来要上马的新产品留下产能冗余空间。...",
-      "source": "Eeo",
-      "date": "2026-08-09",
-      "url": "http://www.eeo.com.cn/2026/0809/992129.shtml"
+      "id": "https://www.chinanews.com.cn/cj/2026/08-10/10675326.shtml",
+      "title": "中国市场监管部门出手整治驾培垄断乱象",
+      "summary": "中新社北京8月10日电 (记者 刘亮)中国国家市场监管总局10日披露,近年来,全国机动车保有量持续增长,县域及三四线城市出行需求旺盛,但部分县域及三四线城市驾培行业滋生抱团涨价、协会串谋、收费失规、培训缩水等乱象,成为民众反映强烈的民生痛点。...",
+      "source": "Chinanews",
+      "date": "2026-08-10",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675326.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873044011112482684",
-      "title": "战高温 保畅通 岳塘交警全天候守护道路安全",
+      "id": "http://baijiahao.baidu.com/s?id=1873144507080319538",
+      "title": "“十五五”开好局起好步|推动高质量充分就业取得新进..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-09",
-      "url": "http://baijiahao.baidu.com/s?id=1873044011112482684"
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873144507080319538"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873018420031352059",
-      "title": "《功夫女足》票房已破22.48亿,周星驰深情致谢观..",
+      "id": "https://www.chinanews.com.cn/gn/2026/08-10/10675362.shtml",
+      "title": "推动高质量充分就业取得新进展(“十五五”开好局起好步)",
+      "summary": "从薪资福利到晋升空间,求职者问得仔细;从岗位内容到企业文化,招聘方答得详尽。在四川宜宾学院临港校区前不久举办的一场就业双选会上,人工智能、新能源、生物医药等领域超200家用人单位进场,吸引2500多名毕业生参加。今年3月以来,宜宾学院开展各类招聘会超100场,提供岗位近万个,帮助毕业生更好择业就业。...",
+      "source": "Chinanews",
+      "date": "2026-08-10",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675362.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/08/10/839638",
+      "title": "酒后驾驶认罪 男子被判监1天罚1万",
+      "summary": "(亚庇10日讯)一名36岁本地男子因酒后驾驶被控上丹南推事庭,他在认罪后,被判处监禁1天及罚款1万令吉。被告被控含有超标酒精含量驾车,于8月5日在丹南推事庭面控时承认罪行。推事判处被告监禁1天及罚款1万令吉;若无法缴清罚款,被告将面对法庭所规定的额外监禁刑罚。丹南警区总部发出文指出,此案援引1987年陆路交通法令第45(1)条文调查及提控。文告强调,执法机构将持续加强取缔酒后驾驶的执法行动,并对任...",
+      "source": "Orientaldaily",
+      "date": "2026-08-10",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/08/10/839638"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873136559467302897",
+      "title": "一名交警在台风天“最满足的事”是什么?",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-09",
-      "url": "http://baijiahao.baidu.com/s?id=1873018420031352059"
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873136559467302897"
     },
     {
-      "id": "https://www.ithome.com/0/987/601.htm",
-      "title": "上汽大众:ID. ERA 5X 定位“超能纯电 SUV”,搭载“行云智行”智能辅助驾驶系统",
-      "summary": "IT之家 8 月 9 日消息,工信部周五发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示,上汽大众 ID. ERA 5X 纯电动多用途乘用车完成申报。 上汽大众官方昨日对新车进行详细介绍,作为 ID. ERA 家族首款纯电车型,ID. ERA 5X 定位为“超能纯电 SUV”,新车也是 大众全球首款基于 CMP 平台打造、搭载 CEA 电子电气架构的量产车型 。 新车前脸采用贯穿式灯...",
-      "source": "Ithome",
-      "date": "2026-08-09",
-      "url": "https://www.ithome.com/0/987/601.htm"
-    },
-    {
-      "id": "https://www.time-weekly.com/post/331752",
-      "title": "拉卡拉上半年赚6.7亿,主业盈利仍不如两年前!已清仓蓝色光标,二季度净利缩水42%",
-      "summary": "本文来源:时代周报 作者:谢怡雯 8月7日晚间,跨境支付概念股拉卡拉发布2026年半年报。 财报显示,2026年上半年,公司实现营收32.57亿元,同比增长22.86%;实现归母净利润6.69亿元,同比大增191.67%;但扣除非经常性损益后归母净利润仅2.19亿元,同比增长50.28%。 财报数据显示,这笔非经常性损益主要与清仓所持蓝色光标股份相关。 今年6月,拉卡拉在投资者互动平台上回复称,公...",
-      "source": "Time Weekly",
-      "date": "2026-08-09",
-      "url": "https://www.time-weekly.com/post/331752"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873013182937292036",
-      "title": "周末重点速递|招商证券:市场调整告一段落,将迎来蓄..",
+      "id": "http://baijiahao.baidu.com/s?id=1873125612560980452",
+      "title": "蓄势待发!2026电博会定档9月4日-6日",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-09",
-      "url": "http://baijiahao.baidu.com/s?id=1873013182937292036"
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873125612560980452"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873006609631443179",
-      "title": "共享制造,生产也能“拼单”",
+      "id": "http://baijiahao.baidu.com/s?id=1873142811527922454",
+      "title": "绷紧安全弦,决战决胜打赢台风防御仗",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-09",
-      "url": "http://baijiahao.baidu.com/s?id=1873006609631443179"
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873142811527922454"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873132626237643397",
+      "title": "宇通客车发2026年半年报:上半年营收约167.1..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873132626237643397"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873138036537718675",
+      "title": "位列全市第十、超出全市平均4.6个百分点 重庆荣昌..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-10",
+      "url": "http://baijiahao.baidu.com/s?id=1873138036537718675"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
@@ -252,14 +259,6 @@
       "source": "Morningstar",
       "date": "2026-08-06",
       "url": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
-      "title": "‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’",
-      "summary": "Wayve Uber wins first minicab licence for autonomous cabs from TfL but vehicles will have a safety driver (at first)...",
-      "source": "The Guardian",
-      "date": "2026-08-05",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber"
     }
   ]
 }
