@@ -1,219 +1,171 @@
 {
-  "lastUpdated": "2026-08-12 02:29:33",
-  "totalCount": 33,
+  "lastUpdated": "2026-08-13 02:31:05",
+  "totalCount": 26,
   "sources": {
-    "Bilibili": 5,
-    "Ithome": 2,
-    "Chinanews": 3,
     "News_Baidu": 7,
-    "Theportugalnews": 1,
-    "Fx168News": 1,
-    "Bjnews": 2,
-    "Cnblogs": 1,
-    "Imobile": 1,
+    "Bjnews": 1,
+    "Chinanews": 2,
+    "Investing_Cn": 1,
     "Eeo": 1,
+    "Prnasia": 1,
+    "Pcauto_Cn": 1,
+    "A199It": 1,
+    "Sinotf": 1,
+    "Cri_Cn": 1,
+    "TechBullion": 1,
     "Ars Technica": 1,
     "Mashable India": 1,
     "TechRadar": 1,
     "Forbes": 1,
     "Benzinga": 1,
     "The Tribune": 1,
-    "Morningstar": 1,
-    "The Guardian": 1,
-    "The Irish Times": 1
+    "City A.M.": 1,
+    "Morningstar": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-12",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1rYMr6gEw9",
-      "title": "【B站】自动驾驶“安全底线”来了 自动驾驶开车水平不能比人差",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-12",
-      "url": "https://www.bilibili.com/video/BV1rYMr6gEw9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV15Aui6JEuk",
-      "title": "【B站】真-自动驾驶",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-08-12",
-      "url": "https://www.bilibili.com/video/BV15Aui6JEuk"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-08-12",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1hou768ELH",
-      "title": "【B站】怎么搭建自动驾驶工程？基于深度学习的无人驾驶实战项目，AI交通领域主流落地场景实战！深度估计|车道线检测|关键点检测|三维重建|NeuralRecon",
-      "summary": "配套代码【关·注·公·众·号：咕泡AI 回复：965】即可获取\nAI学习路线规划/系统课程/毕设/论文指导 🉑后台滴滴UP\n觉得视频对你有帮助的话 记得三连支持一下~...",
-      "source": "Bilibili",
-      "date": "2026-08-12",
-      "url": "https://www.bilibili.com/video/BV1hou768ELH"
-    },
-    {
-      "id": "https://www.ithome.com/0/988/517.htm",
-      "title": "何小鹏谈电池和自动驾驶新国标:确保不只有长板,更重要的是没有短板",
-      "summary": "IT之家 8 月 11 日消息,今日晚间,在小鹏 G9L 发布会后的媒体沟通会中,小鹏集团董事长、CEO 何小鹏谈及动力电池安全和自动驾驶安全两项新国标时表示,小鹏也是标准的参与者与制定者。 何小鹏指出,以自动驾驶为例,小鹏和其他造车新势力在 2020 年左右就将高速辅助驾驶带到了中国,甚至走向全球。如今越来越多车企将自动辅助驾驶作为标配,这对中国及全球用户而言都是好事。但他同时强调,许多车主并不...",
-      "source": "Ithome",
-      "date": "2026-08-11",
-      "url": "https://www.ithome.com/0/988/517.htm"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/08-11/10676021.shtml",
-      "title": "河南启动营运客车突出问题专项整治行动",
-      "summary": "中新网郑州8月11日电 (记者 刘鹏)记者11日从河南省交通运输厅获悉,即日起至2026年12月31日,河南省交通运输厅联合河南省公安厅、河南省文化和旅游厅、河南省应急管理厅等部门,在全省范围内开展营运客车突出问题专项整治行动,通过严查非法改装、非法营运等七类顽疾,明确多项整治措施,为民众出行系紧“安全带”。...",
-      "source": "Chinanews",
-      "date": "2026-08-11",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676021.shtml"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/dwq/2026/08-11/10676043.shtml",
-      "title": "香港青少年广西开启“少年强”国防教育之旅",
-      "summary": "中新社南宁8月11日电 (韦佳秀)“这次活动中,我非常期待亲手操控无人机,近距离感受祖国国防科技的发展。”8月11日,桂港澳台青少年交流计划暨“少年强”2026香港青少年广西夏令营学员苏锦雄在南宁说。...",
-      "source": "Chinanews",
-      "date": "2026-08-11",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-11/10676043.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873234863302339713",
-      "title": "雨天开车怕涉水?北京近800处监测点数据已接入导航..",
+      "id": "http://baijiahao.baidu.com/s?id=1873304036496106755",
+      "title": "重庆多家驾校合伙垄断抬价被罚,学员目前统一在政务平..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-11",
-      "url": "http://baijiahao.baidu.com/s?id=1873234863302339713"
+      "date": "2026-08-12",
+      "url": "http://baijiahao.baidu.com/s?id=1873304036496106755"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873232219929854055",
-      "title": "「致敬最美」邬世杰:245公里峡谷路上的30年坚守",
+      "id": "http://baijiahao.baidu.com/s?id=1873324800391597777",
+      "title": "荆楚交警之星1|曾怀庆:一声声“碎碎念”,他把柔法..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-11",
-      "url": "http://baijiahao.baidu.com/s?id=1873232219929854055"
+      "date": "2026-08-12",
+      "url": "http://baijiahao.baidu.com/s?id=1873324800391597777"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-08-11/the-n2-in-a-ferrari-355-gts/1068393",
-      "title": "法拉利 355 GTS 中的 N2",
-      "summary": "NewsData报道",
-      "source": "Theportugalnews",
-      "date": "2026-08-11",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-08-11/the-n2-in-a-ferrari-355-gts/1068393"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/dwq/2026/08-11/10676009.shtml",
-      "title": "香港批准“空铁联运”自动驾驶车辆测试项目",
-      "summary": "中新社香港8月11日电 香港特区政府运输署11日公布消息称,根据《道路交通(自动驾驶车辆)规例》(第374AA章)第4(1)条批出1个自动驾驶车辆先导牌照,批准往来香港西九龙站与机场快线九龙站的自动驾驶车辆测试项目。...",
-      "source": "Chinanews",
-      "date": "2026-08-11",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-11/10676009.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1073501",
-      "title": "从盈利兑现到能力扩张,亿咖通迈入高质量增长新阶段-FX168",
-      "summary": "NewsData报道",
-      "source": "Fx168News",
-      "date": "2026-08-11",
-      "url": "https://www.fx168news.com/article/1073501"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873220706067873046",
-      "title": "全国首创!南京智能预约公交站落地",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-11",
-      "url": "http://baijiahao.baidu.com/s?id=1873220706067873046"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873231212047096877",
-      "title": "规避积水风险,“积水地图”全新升级,使用方法来了!",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-11",
-      "url": "http://baijiahao.baidu.com/s?id=1873231212047096877"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873230677335611133",
-      "title": "告别豪华车队 甘肃民勤“00后”新人以公交婚车诠释..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-11",
-      "url": "http://baijiahao.baidu.com/s?id=1873230677335611133"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1786446431168746.html",
-      "title": "公交考核能耗不开空调,别让乘客热得受不了 | 新京报快评",
+      "id": "https://www.bjnews.com.cn/detail/1786540768168778.html",
+      "title": "《海上婚姻》:“老娘与海”还是“老人与海”?",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-11",
-      "url": "https://www.bjnews.com.cn/detail/1786446431168746.html"
+      "date": "2026-08-12",
+      "url": "https://www.bjnews.com.cn/detail/1786540768168778.html"
     },
     {
-      "id": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_7_3",
-      "title": "C# .NET 周刊 |2026 年 7 月 3 期 - InCerry",
-      "summary": "C# .NET 周刊 |2026 年 7 月 3 期 2026-07-19 dotnet_week_26_7_3 国内文章 22 届微软 MVP 连任:一个.NET 技术人的社区长跑 https://www.cnblogs.com/shanyou/p/21523972 作者在 2026 年收到第 2...",
-      "source": "Cnblogs",
-      "date": "2026-08-11",
-      "url": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_7_3"
+      "id": "https://www.chinanews.com.cn/sh/2026/08-12/10676596.shtml",
+      "title": "湖北山区客运司机成功避险塌方事故 获万元奖励",
+      "summary": "中新网湖北长阳8月12日电 (郭晓莹 税浪)湖北省宜昌市自然资源和城乡建设局12日向农村客运司机熊飞颁发1万元“成功避险奖金”,对其及时预判山体塌方险情、果断停车避险,保障乘客及过往车辆安全的先进事迹予以嘉奖。...",
+      "source": "Chinanews",
+      "date": "2026-08-12",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676596.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873126397493416965",
-      "title": "保持定力、向质提升 我国民营企业创新动能持续增强",
+      "id": "http://baijiahao.baidu.com/s?id=1873322534648654966",
+      "title": "“海豚”过境 “大鱼”突围",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-11",
-      "url": "http://baijiahao.baidu.com/s?id=1873126397493416965"
+      "date": "2026-08-12",
+      "url": "http://baijiahao.baidu.com/s?id=1873322534648654966"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0811/235203.shtml",
-      "title": "西湖边唱响热爱零跑A05的你,年轻人的精品轿车来了!",
-      "summary": "2026年8月11日,杭州。零跑汽车把新车发布会搬到了杭州西子廊桥——这座汇聚年轻潮流生活方式的城市地标,不再局限于传统发布会空间,而是把新品真正带到年轻人的生活现场,与年轻用户面对面、打成一片。伴随阿肆现场演唱特别曲目《热爱A05的你》,以一场主题为“天生懂你,有我都灵”的上市发布会,正式推出全新A平台第二款全球化车型——零跑A05。新车定位“智能灵动精品轿车”,以“好看、好开、好玩、好安心”四...",
-      "source": "Imobile",
-      "date": "2026-08-11",
-      "url": "http://news.imobile.com.cn/articles/2026/0811/235203.shtml"
+      "id": "https://cn.investing.com/news/transcripts/article-93CH-3513946",
+      "title": "Aptiv出席摩根大通汽车会议:在中国业务承压背景下押注增长",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-12",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3513946"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873212785988712029",
-      "title": "「好评中国」东湖评论丨“东方智慧”出海,中国制造扬..",
+      "id": "http://baijiahao.baidu.com/s?id=1873321433960838897",
+      "title": "近6万元现金遗落车上!呼和浩特的哥6小时不眠不休寻..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-11",
-      "url": "http://baijiahao.baidu.com/s?id=1873212785988712029"
+      "date": "2026-08-12",
+      "url": "http://baijiahao.baidu.com/s?id=1873321433960838897"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0811/994738.shtml",
-      "title": "埃泰克:公司现阶段战略重心仍聚焦车身域、智能座舱、智能驾驶等汽车电子主业",
-      "summary": "证券日报网讯 8月11日,埃泰克在互动平台回答投资者提问时表示,公司现阶段战略重心仍聚焦车身域、智能座舱、智能驾驶等汽车电子主业。 (编辑 楚丽君)...",
+      "id": "http://www.eeo.com.cn/2026/0812/995992.shtml",
+      "title": "合资新能源拼了!ID.ERA 5S将城市NOA下探至15万元级",
+      "summary": "到了新能源时代,上汽大众融合“全球智慧+中国速度”,依托行云智行、云栖智舱、黄金超混、黄金标准等核心技术,打造新能源产品,上汽大众称之为“国民家轿4.0”。...",
       "source": "Eeo",
-      "date": "2026-08-11",
-      "url": "http://www.eeo.com.cn/2026/0811/994738.shtml"
+      "date": "2026-08-12",
+      "url": "http://www.eeo.com.cn/2026/0812/995992.shtml"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1786449484129584.html",
-      "title": "车涵——“电-碳-数”协同共生,数字基建开启能源零碳新局",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-11",
-      "url": "https://www.bjnews.com.cn/detail/1786449484129584.html"
+      "id": "https://www.prnasia.com/story/543803-1.shtml",
+      "title": "耐世特发布2026年上半年业绩",
+      "summary": "客户项目斩获、技术突破与数字化转型持续巩固运动控制领域领导地位 美国密歇根州奥本山 2026年8月12日 /美通社/ -- 耐世特汽车系统(HK 1316)今日公布2026年中期业绩,得益于跑赢市场的增长表现、战略性客户项目的成功获取以及下一代运动控制技术的持续突破,公司上半年业绩创下历史新高。公司当期营业收入为23亿美元,较2025年上半年增长4%;新增客户订单总额达33亿美元,其中新客户或新获...",
+      "source": "Prnasia",
+      "date": "2026-08-12",
+      "url": "https://www.prnasia.com/story/543803-1.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/988/487.htm",
-      "title": "比亚迪 2027 款海豹 06 家轿上市:天神之眼 B-辅助驾驶激光版、第二代刀片电池,9.99 万元起",
-      "summary": "IT之家 8 月 11 日消息,比亚迪 2027 款海豹 06 今晚正式上市,该车定位“B 级满配家轿”,满电满油综合续航 2370km、搭载天神之眼 B-辅助驾驶激光版, 上市价 9.99 万元起 。 2027 款海豹 06 EV 630 旗舰型:15.59 万元; 630 尊享型:14.29 万元; 630 智享型:13.29 万元; 530 尊享型:12.99 万元; 530 智享型:11....",
-      "source": "Ithome",
+      "id": "http://www.pcauto.com.cn/news/5177/51778558.html",
+      "title": "2026年功能安全咨询&专业认证公司推荐:功能安全合规路径下的专业服务商选择",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-08-12",
+      "url": "http://www.pcauto.com.cn/news/5177/51778558.html"
+    },
+    {
+      "id": "http://www.199it.com/archives/1845046.html",
+      "title": "懂车帝:2026年7月全国乘用车零售销量,吉利星愿32306辆夺冠",
+      "summary": "懂车帝发布2026年7月乘用车零售销量榜,吉利星愿32306辆夺冠,零跑A10 26424辆居次,Model Y 25158辆第三。小米SU7 21044辆列国产中高端轿车第一。前十新能源占八席,合资仅卡罗拉锐放等入围,国产新能源全面领先。...",
+      "source": "A199It",
+      "date": "2026-08-12",
+      "url": "http://www.199it.com/archives/1845046.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873324831719560454",
+      "title": "“通”堵点,行路“畅”!城市副中心交通综合治理惠民..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-12",
+      "url": "http://baijiahao.baidu.com/s?id=1873324831719560454"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873301174668380174",
+      "title": "浦东一小区紧急叫停充电桩施工,专家建议:基层监管落..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-12",
+      "url": "http://baijiahao.baidu.com/s?id=1873301174668380174"
+    },
+    {
+      "id": "http://www.sinotf.com/GB/News/Enterprise/2026-08-12/0MMDAwMDM4MTc0MA.html",
+      "title": "平安产险广东分公司:以科技和专业守护“两司两员”每一程平安",
+      "summary": "NewsData报道",
+      "source": "Sinotf",
+      "date": "2026-08-12",
+      "url": "http://www.sinotf.com/GB/News/Enterprise/2026-08-12/0MMDAwMDM4MTc0MA.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873319576780428461",
+      "title": "聚焦智能驾驶、机器人、光伏产业 创业板再添三条新指..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-12",
+      "url": "http://baijiahao.baidu.com/s?id=1873319576780428461"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/08-12/10676572.shtml",
+      "title": "强降雨持续影响多地 各地各部门以“雨”为令全力保通保畅保安全",
+      "summary": "央视网消息:入汛以来,北京降雨明显偏多,短时强降雨、冰雹等极端天气频发。针对严峻防汛形势,北京交通部门依托智慧调度、应急值守等多项举措,守护市民及游客出行安全。...",
+      "source": "Chinanews",
+      "date": "2026-08-12",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676572.shtml"
+    },
+    {
+      "id": "https://news.cri.cn/20260812/573faf78-726d-ce1f-522e-aca11aedb957.html",
+      "title": "强降雨持续影响多地 各地各部门以“雨”为令全力保通保畅保安全-国际在线",
+      "summary": "央视网消息:入汛以来,北京降雨明显偏多,短时强降雨、冰雹等极端天气频发。针对严峻防汛形势,北京交通部门依托智慧调度、应急值守等多项举措,守护市民及游客出行安全。 北京市交通委员会应急指挥大厅内,电子大屏实时展示全市重点点位防汛值守动态...",
+      "source": "Cri_Cn",
+      "date": "2026-08-12",
+      "url": "https://news.cri.cn/20260812/573faf78-726d-ce1f-522e-aca11aedb957.html"
+    },
+    {
+      "id": "https://techbullion.com/the-best-data-annotation-providers-for-autonomous-driving/",
+      "title": "The Best Data Annotation Providers for Autonomous Driving",
+      "summary": "The main challenge in autonomous driving today is the transition to the concept of \"embodied AI\" and the implementation of complex sensor fusion....",
+      "source": "TechBullion",
       "date": "2026-08-11",
-      "url": "https://www.ithome.com/0/988/487.htm"
+      "url": "https://techbullion.com/the-best-data-annotation-providers-for-autonomous-driving/"
     },
     {
       "id": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
@@ -262,6 +214,22 @@
       "source": "The Tribune",
       "date": "2026-08-06",
       "url": "https://www.tribuneindia.com/news/business/uber-building-infrastructure-to-commercialise-autonomous-mobility-at-global-scale-q2-earnings-report/"
+    },
+    {
+      "id": "https://www.cityam.com/tfl-greenlights-wayves-autonomous-vehicles-in-the-city/",
+      "title": "TfL greenlights Wayve's autonomous vehicles in the City",
+      "summary": "Transport for London (TfL) has granted British autonomous driving firm Wayve a licence to operate their cars in the City, a move which will see robotaxis will make their first appearance in London lat...",
+      "source": "City A.M.",
+      "date": "2026-08-06",
+      "url": "https://www.cityam.com/tfl-greenlights-wayves-autonomous-vehicles-in-the-city/"
+    },
+    {
+      "id": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software",
+      "title": "Rivian Poised for Growth From Shift to Lower-Priced Vehicles and Autonomous Driving Software",
+      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
+      "source": "Morningstar",
+      "date": "2026-08-06",
+      "url": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
     }
   ]
 }
