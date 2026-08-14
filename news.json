@@ -1,17 +1,16 @@
 {
-  "lastUpdated": "2026-08-13 02:31:05",
-  "totalCount": 26,
+  "lastUpdated": "2026-08-14 02:29:24",
+  "totalCount": 24,
   "sources": {
-    "News_Baidu": 7,
-    "Bjnews": 1,
-    "Chinanews": 2,
-    "Investing_Cn": 1,
-    "Eeo": 1,
-    "Prnasia": 1,
-    "Pcauto_Cn": 1,
-    "A199It": 1,
-    "Sinotf": 1,
-    "Cri_Cn": 1,
+    "Imobile": 1,
+    "Jiemian": 2,
+    "Fx168News": 1,
+    "News_Baidu": 4,
+    "Ithome": 2,
+    "Pcauto_Cn": 2,
+    "Ign_Cn": 1,
+    "Smzdm": 1,
+    "Woshipm": 1,
     "TechBullion": 1,
     "Ars Technica": 1,
     "Mashable India": 1,
@@ -24,140 +23,124 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873304036496106755",
-      "title": "重庆多家驾校合伙垄断抬价被罚,学员目前统一在政务平..",
+      "id": "http://news.imobile.com.cn/articles/2026/0813/235226.shtml",
+      "title": "年轻人首选B级闪充轿车秦MAX正式上市,售价10.99-14.39万元",
+      "summary": "8月13日,比亚迪秦MAX正式上市,推出EV与DM-i双动力版本,官方指导价9.99-14.39万元,并带多重上市权益。整场发布会以“大有不同,尽秦MAX”为主题,王朝网总经理路天用三“大”五“不同”,生动介绍了秦MAX的超强产品力。作为面向都市青年、务实家庭与科技尝鲜族的全新车型,秦MAX集第二代刀片电池、闪充技术、天神之眼B等多项尖端科技于一身,重新定义B级轿车价值标准,成为年轻人首选的B级轿...",
+      "source": "Imobile",
+      "date": "2026-08-13",
+      "url": "http://news.imobile.com.cn/articles/2026/0813/235226.shtml"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14919797.html",
+      "title": "8月13日晚间公告集锦|宇树科技网上投资者放弃认购8734股,中科曙光上半年净利润同比增长34%,中际旭创拟17.47亿元受让中石科技10.47%股份",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-08-13",
+      "url": "https://www.jiemian.com/article/14919797.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1075052",
+      "title": "今日晚间重要公告抢先看——宇树科技披露发行结果,散户弃购8734股;中际旭创拟豪掷17.47亿元受让中石科技10.47%股份,强化光模块散热产业链协同;中芯国际二季度营收达30亿美元,环比大增20%-FX168",
+      "summary": "今日晚间重要公告抢先看——宇树科技:网上投资者放弃认购8734股;中际旭创:拟17.47亿元受让中石科技10.47%股份;中芯国际:二季度整体实现销售收入30亿美元,环比增长20%;海光信息:上半年净利润17.98亿元,同比增长49.69%;中科曙光业绩快报:上半年净利润9.78亿元,同...",
+      "source": "Fx168News",
+      "date": "2026-08-13",
+      "url": "https://www.fx168news.com/article/1075052"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14919733.html",
+      "title": "领克连续四个月销量下滑,部分车型陷激光雷达故障风波",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-08-13",
+      "url": "https://www.jiemian.com/article/14919733.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873406431970946136",
+      "title": "滴滴2026年Q2业绩报告:滴滴中国出行单量连续1..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873304036496106755"
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873406431970946136"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873324800391597777",
-      "title": "荆楚交警之星1|曾怀庆:一声声“碎碎念”,他把柔法..",
+      "id": "http://baijiahao.baidu.com/s?id=1873406128205008153",
+      "title": "他们在高速检查站扔“垃圾”,这个行为太反常!",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873324800391597777"
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873406128205008153"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1786540768168778.html",
-      "title": "《海上婚姻》:“老娘与海”还是“老人与海”?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-12",
-      "url": "https://www.bjnews.com.cn/detail/1786540768168778.html"
+      "id": "https://www.ithome.com/0/989/454.htm",
+      "title": "长安汽车与荣耀手机达成合作,全新深蓝 S05 官宣首发荣耀车联 3.0 系统",
+      "summary": "IT之家 8 月 13 日消息,荣耀手机、长安汽车官方今日宣布达成合作,并正式揭牌「联合创新开放实验室」。 据介绍,长安汽车 21 款主力车型已搭载荣耀车联功能。此次合作, 长安全新深蓝 S05 将首发荣耀车联 3.0 系统 ,支持手机镜像投屏与车机融合列表投屏等多种方式,可根据驾驶场景自由切换小窗与全屏显示。行车时小窗显示导航、驻车一键全屏看视频。 IT之家注意到,双方还首次打通跨端语音交互控制...",
+      "source": "Ithome",
+      "date": "2026-08-13",
+      "url": "https://www.ithome.com/0/989/454.htm"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/08-12/10676596.shtml",
-      "title": "湖北山区客运司机成功避险塌方事故 获万元奖励",
-      "summary": "中新网湖北长阳8月12日电 (郭晓莹 税浪)湖北省宜昌市自然资源和城乡建设局12日向农村客运司机熊飞颁发1万元“成功避险奖金”,对其及时预判山体塌方险情、果断停车避险,保障乘客及过往车辆安全的先进事迹予以嘉奖。...",
-      "source": "Chinanews",
-      "date": "2026-08-12",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676596.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873322534648654966",
-      "title": "“海豚”过境 “大鱼”突围",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873322534648654966"
-    },
-    {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3513946",
-      "title": "Aptiv出席摩根大通汽车会议:在中国业务承压背景下押注增长",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-12",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3513946"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873321433960838897",
-      "title": "近6万元现金遗落车上!呼和浩特的哥6小时不眠不休寻..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873321433960838897"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0812/995992.shtml",
-      "title": "合资新能源拼了!ID.ERA 5S将城市NOA下探至15万元级",
-      "summary": "到了新能源时代,上汽大众融合“全球智慧+中国速度”,依托行云智行、云栖智舱、黄金超混、黄金标准等核心技术,打造新能源产品,上汽大众称之为“国民家轿4.0”。...",
-      "source": "Eeo",
-      "date": "2026-08-12",
-      "url": "http://www.eeo.com.cn/2026/0812/995992.shtml"
-    },
-    {
-      "id": "https://www.prnasia.com/story/543803-1.shtml",
-      "title": "耐世特发布2026年上半年业绩",
-      "summary": "客户项目斩获、技术突破与数字化转型持续巩固运动控制领域领导地位 美国密歇根州奥本山 2026年8月12日 /美通社/ -- 耐世特汽车系统(HK 1316)今日公布2026年中期业绩,得益于跑赢市场的增长表现、战略性客户项目的成功获取以及下一代运动控制技术的持续突破,公司上半年业绩创下历史新高。公司当期营业收入为23亿美元,较2025年上半年增长4%;新增客户订单总额达33亿美元,其中新客户或新获...",
-      "source": "Prnasia",
-      "date": "2026-08-12",
-      "url": "https://www.prnasia.com/story/543803-1.shtml"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5177/51778558.html",
-      "title": "2026年功能安全咨询&专业认证公司推荐:功能安全合规路径下的专业服务商选择",
-      "summary": "NewsData报道",
+      "id": "http://www.pcauto.com.cn/news/5178/51781475.html",
+      "title": "六年深耕汽车托运 拖车帝以品质服务护航大众出行",
+      "summary": "近些年,高速公路上时常能看到这样的场景-双层轿运大板车整齐码放着崭新的商品车、各地牌照的私家车乃至满身个性涂鸦的改装车...",
       "source": "Pcauto_Cn",
-      "date": "2026-08-12",
-      "url": "http://www.pcauto.com.cn/news/5177/51778558.html"
+      "date": "2026-08-13",
+      "url": "http://www.pcauto.com.cn/news/5178/51781475.html"
     },
     {
-      "id": "http://www.199it.com/archives/1845046.html",
-      "title": "懂车帝:2026年7月全国乘用车零售销量,吉利星愿32306辆夺冠",
-      "summary": "懂车帝发布2026年7月乘用车零售销量榜,吉利星愿32306辆夺冠,零跑A10 26424辆居次,Model Y 25158辆第三。小米SU7 21044辆列国产中高端轿车第一。前十新能源占八席,合资仅卡罗拉锐放等入围,国产新能源全面领先。...",
-      "source": "A199It",
-      "date": "2026-08-12",
-      "url": "http://www.199it.com/archives/1845046.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873324831719560454",
-      "title": "“通”堵点,行路“畅”!城市副中心交通综合治理惠民..",
+      "id": "http://baijiahao.baidu.com/s?id=1873411946703542704",
+      "title": "橡木果机器人发布Natus具身本能模型 获招商局创..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873324831719560454"
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873411946703542704"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873301174668380174",
-      "title": "浦东一小区紧急叫停充电桩施工,专家建议:基层监管落..",
+      "id": "http://baijiahao.baidu.com/s?id=1873409858691770002",
+      "title": "淘宝闪购在京沪试点:骑手等红灯时间不计入配送考核",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873301174668380174"
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873409858691770002"
     },
     {
-      "id": "http://www.sinotf.com/GB/News/Enterprise/2026-08-12/0MMDAwMDM4MTc0MA.html",
-      "title": "平安产险广东分公司:以科技和专业守护“两司两员”每一程平安",
-      "summary": "NewsData报道",
-      "source": "Sinotf",
-      "date": "2026-08-12",
-      "url": "http://www.sinotf.com/GB/News/Enterprise/2026-08-12/0MMDAwMDM4MTc0MA.html"
+      "id": "https://www.ithome.com/0/989/467.htm",
+      "title": "吉利银河 TT 纯电轿车预售发布:全域 800V 高压平台、千里浩瀚 H5 / H7,14.59 万元起",
+      "summary": "IT之家 8 月 13 日消息,吉利银河 TT 纯电轿车今晚预售发布,全系标配全域 800V 高压平台、宁德时代神行 TT 高定电池,预售指导价 14.59 万元起。 540 后驱尊享版:14.59 万元; 540 后驱尊贵版:15.59 万元; 640 后驱旗舰版:16.99 万元。 外观方面,吉利银河 TT 的尺寸为 4999×1919×1479mm、轴距 2920mm,采用量体裁风运动身姿设...",
+      "source": "Ithome",
+      "date": "2026-08-13",
+      "url": "https://www.ithome.com/0/989/467.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873319576780428461",
-      "title": "聚焦智能驾驶、机器人、光伏产业 创业板再添三条新指..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873319576780428461"
+      "id": "https://www.ign.com.cn/topic/61933/nautus-gong-bu-yu-gao",
+      "title": "《NAUTUS》公布预告",
+      "summary": "海面悠然惬意 深海暗藏危机 在《NAUTUS》中,玩家收到叔叔Bernard Torpedo 发来的一则令人不安的无线电讯息后,来到偏远的N.A.U.T.U.S.研究站。抵达后,玩家发现这里的科学家们全都失去了记忆,并对海洋产生了令人瘫痪般的恐惧。作为唯一愿意勇闯深海的人,玩家必须驾驶一艘可升级的潜艇,抵御变异海洋生物,并找回神秘的遗物石,以恢复当地居民的记忆,同时揭开叔叔突然失踪背后的真相。游戏...",
+      "source": "Ign_Cn",
+      "date": "2026-08-13",
+      "url": "https://www.ign.com.cn/topic/61933/nautus-gong-bu-yu-gao"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-12/10676572.shtml",
-      "title": "强降雨持续影响多地 各地各部门以“雨”为令全力保通保畅保安全",
-      "summary": "央视网消息:入汛以来,北京降雨明显偏多,短时强降雨、冰雹等极端天气频发。针对严峻防汛形势,北京交通部门依托智慧调度、应急值守等多项举措,守护市民及游客出行安全。...",
-      "source": "Chinanews",
-      "date": "2026-08-12",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676572.shtml"
+      "id": "https://post.smzdm.com/p/a3moml5k/",
+      "title": "特斯拉Robotaxi标配星链:花3万买车还要每月交$165?这笔账值不值",
+      "summary": "特斯拉宣布未来全系车型标配星链卫星互联网,首发车型是无人驾驶出租车Cybercab。这套车载星链峰值下载速度375Mbps,足以在车内流畅播放4K视频,号称能补上郊区、隧道等地面基站盲区的网络短板。不过消息一出,质疑声同样不少:城市里5G完全够用,为一台......",
+      "source": "Smzdm",
+      "date": "2026-08-13",
+      "url": "https://post.smzdm.com/p/a3moml5k/"
     },
     {
-      "id": "https://news.cri.cn/20260812/573faf78-726d-ce1f-522e-aca11aedb957.html",
-      "title": "强降雨持续影响多地 各地各部门以“雨”为令全力保通保畅保安全-国际在线",
-      "summary": "央视网消息:入汛以来,北京降雨明显偏多,短时强降雨、冰雹等极端天气频发。针对严峻防汛形势,北京交通部门依托智慧调度、应急值守等多项举措,守护市民及游客出行安全。 北京市交通委员会应急指挥大厅内,电子大屏实时展示全市重点点位防汛值守动态...",
-      "source": "Cri_Cn",
-      "date": "2026-08-12",
-      "url": "https://news.cri.cn/20260812/573faf78-726d-ce1f-522e-aca11aedb957.html"
+      "id": "https://www.woshipm.com/share/6446559.html",
+      "title": "AI 时代 Vibe Design 必备的 50 种 UI 风格名词!",
+      "summary": "哈喽大家好,我是萤柳! 最近用 Codex、Claude Code 做页面的人越来越多,我也经常看到一句熟悉的提示词。 帮我做得高级一点。 这句话听起来没毛病,真交给 AI 以后,结果就很看运气了。 你脑子里想的是干净的瑞士网格,它可能端来一套蓝紫渐变。 你想要年轻、有点野,它又给你铺满玻璃卡片。两边都没偷懒, 只是“高级”这个词实在太大了。 所以我整理了 UI设计场景里比较常用的部分,凑成这份 ...",
+      "source": "Woshipm",
+      "date": "2026-08-13",
+      "url": "https://www.woshipm.com/share/6446559.html"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5178/51781460.html",
+      "title": "iX3价格曝光?26年新iX3售价与30万级竞争力分析",
+      "summary": "随着新世代BMW iX3长轴距版进入中国市场节奏逐步明确,“宝马iX3新款多少钱、宝马iX3落地价大概多少”正在成为消费者关注的问题...",
+      "source": "Pcauto_Cn",
+      "date": "2026-08-13",
+      "url": "http://www.pcauto.com.cn/news/5178/51781460.html"
     },
     {
       "id": "https://techbullion.com/the-best-data-annotation-providers-for-autonomous-driving/",
