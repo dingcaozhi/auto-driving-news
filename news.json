@@ -1,146 +1,208 @@
 {
-  "lastUpdated": "2026-08-14 02:29:24",
-  "totalCount": 24,
+  "lastUpdated": "2026-08-15 01:39:48",
+  "totalCount": 30,
   "sources": {
-    "Imobile": 1,
-    "Jiemian": 2,
+    "Bilibili": 5,
+    "Ithome": 3,
+    "News_Baidu": 8,
     "Fx168News": 1,
-    "News_Baidu": 4,
-    "Ithome": 2,
-    "Pcauto_Cn": 2,
-    "Ign_Cn": 1,
-    "Smzdm": 1,
-    "Woshipm": 1,
+    "Jiemian": 2,
+    "Iimedia_Cn": 1,
+    "Euronews": 1,
+    "The Manila Times": 1,
+    "PR Newswire UK": 1,
     "TechBullion": 1,
     "Ars Technica": 1,
     "Mashable India": 1,
     "TechRadar": 1,
     "Forbes": 1,
     "Benzinga": 1,
-    "The Tribune": 1,
-    "City A.M.": 1,
-    "Morningstar": 1
+    "The Tribune": 1
   },
   "news": [
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0813/235226.shtml",
-      "title": "年轻人首选B级闪充轿车秦MAX正式上市,售价10.99-14.39万元",
-      "summary": "8月13日,比亚迪秦MAX正式上市,推出EV与DM-i双动力版本,官方指导价9.99-14.39万元,并带多重上市权益。整场发布会以“大有不同,尽秦MAX”为主题,王朝网总经理路天用三“大”五“不同”,生动介绍了秦MAX的超强产品力。作为面向都市青年、务实家庭与科技尝鲜族的全新车型,秦MAX集第二代刀片电池、闪充技术、天神之眼B等多项尖端科技于一身,重新定义B级轿车价值标准,成为年轻人首选的B级轿...",
-      "source": "Imobile",
-      "date": "2026-08-13",
-      "url": "http://news.imobile.com.cn/articles/2026/0813/235226.shtml"
+      "id": "https://www.bilibili.com/video/BV1Dzgw6SEzF",
+      "title": "【B站】25条重磅新闻速览！核能、高铁、自动驾驶全都有",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-15",
+      "url": "https://www.bilibili.com/video/BV1Dzgw6SEzF"
     },
     {
-      "id": "https://www.jiemian.com/article/14919797.html",
-      "title": "8月13日晚间公告集锦|宇树科技网上投资者放弃认购8734股,中科曙光上半年净利润同比增长34%,中际旭创拟17.47亿元受让中石科技10.47%股份",
+      "id": "https://www.bilibili.com/video/BV1YhgF6EE8j",
+      "title": "【B站】新能源车内卷，新赛道究竟在哪？#新能源汽车 #自动驾驶 #车载智能 #动力电池",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-08-15",
+      "url": "https://www.bilibili.com/video/BV1YhgF6EE8j"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1PSgF6KEz2",
+      "title": "【B站】明年会有好戏看。#l3级自动驾驶 #乾坤智驾 #岚图",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-08-15",
+      "url": "https://www.bilibili.com/video/BV1PSgF6KEz2"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1yhgW6vEui",
+      "title": "【B站】LTR3.0站台和自动驾驶教程，有轨道放置，站台设置，停车位置，限速轨道等内容。",
+      "summary": "感谢您的观看，欢迎留言，交流讨论哦，祝你生活愉快。...",
+      "source": "Bilibili",
+      "date": "2026-08-15",
+      "url": "https://www.bilibili.com/video/BV1yhgW6vEui"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1tCgp6BEgi",
+      "title": "【B站】上海市，14号线地铁自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-15",
+      "url": "https://www.bilibili.com/video/BV1tCgp6BEgi"
+    },
+    {
+      "id": "https://www.ithome.com/0/989/937.htm",
+      "title": "长城魏牌 V8X 上市:定位大五座旗舰 SUV,限时权益价 22.68 万元起",
+      "summary": "感谢IT之家网友 風見暉一 、 推荐 的线索投递! IT之家 8 月 14 日消息,长城魏牌 V8X 汽车今日上市,新车主打豪华质感及运动姿态兼具,拥有“双 VLA”原生 AI 舱驾智能体,配备超级 Hi4 混动系统, 限时权益价 22.68 万元起 。 IT之家附该车各版本定价如下: 运动版: 运动版 Max:统一零售价 23.98 万元,限时权益价 22.68 万元起 运动版 Ultra:统一...",
+      "source": "Ithome",
+      "date": "2026-08-14",
+      "url": "https://www.ithome.com/0/989/937.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873503073023443008",
+      "title": "「深圳特区报」深圳国资一年开放168个应用场景 打..",
       "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-08-13",
-      "url": "https://www.jiemian.com/article/14919797.html"
+      "source": "News_Baidu",
+      "date": "2026-08-14",
+      "url": "http://baijiahao.baidu.com/s?id=1873503073023443008"
     },
     {
-      "id": "https://www.fx168news.com/article/1075052",
-      "title": "今日晚间重要公告抢先看——宇树科技披露发行结果,散户弃购8734股;中际旭创拟豪掷17.47亿元受让中石科技10.47%股份,强化光模块散热产业链协同;中芯国际二季度营收达30亿美元,环比大增20%-FX168",
-      "summary": "今日晚间重要公告抢先看——宇树科技:网上投资者放弃认购8734股;中际旭创:拟17.47亿元受让中石科技10.47%股份;中芯国际:二季度整体实现销售收入30亿美元,环比增长20%;海光信息:上半年净利润17.98亿元,同比增长49.69%;中科曙光业绩快报:上半年净利润9.78亿元,同...",
+      "id": "http://baijiahao.baidu.com/s?id=1873476286857014553",
+      "title": "车队专属管家来了 中国重汽车队管理系统·标准版重磅..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-14",
+      "url": "http://baijiahao.baidu.com/s?id=1873476286857014553"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873503758528592069",
+      "title": "明起施行,广场舞扰民最高可罚1000元,“炸街”最..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-14",
+      "url": "http://baijiahao.baidu.com/s?id=1873503758528592069"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873503174567027113",
+      "title": "交通安全课送到社区,小手牵大手守护平安",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-14",
+      "url": "http://baijiahao.baidu.com/s?id=1873503174567027113"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1075794",
+      "title": "今日晚间重要公告抢先看——半导体产业链业绩冷热分化!生益科技上半年净利润同比大增130%;紫光国微整体净利增长15%;网宿科技净利微降6.61%;*ST闻泰上半年亏损4.06亿元-FX168",
+      "summary": "今日晚间重要公告抢先看——网宿科技:上半年净利润同比下降6.61%,拟10派0.8元;生益科技:上半年净利润同比增长130%,覆铜板销量及产品销售结构持续优化;紫光国微:上半年净利润同比增长15%,存储器板块同比大幅增长305%;*ST闻泰:上半年亏损4.06亿元。【重大事项】...",
       "source": "Fx168News",
-      "date": "2026-08-13",
-      "url": "https://www.fx168news.com/article/1075052"
+      "date": "2026-08-14",
+      "url": "https://www.fx168news.com/article/1075794"
     },
     {
-      "id": "https://www.jiemian.com/article/14919733.html",
-      "title": "领克连续四个月销量下滑,部分车型陷激光雷达故障风波",
+      "id": "https://www.ithome.com/0/989/934.htm",
+      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 开启预售,33.99 万-44.99 万元",
+      "summary": "IT之家 8 月 14 日消息,奇瑞捷豹路虎 FREELANDER 神行者 8 今天(14 日)晚间正式迎来预售。新车全系标配华为乾崑智驾 ADS 5;全球首批搭载高通骁龙最新一代 8397 车规级芯片;全系标配 800V 高压平台。 首发限定版(限量 1000 台):45.99 万元(锁单权益价 44.99 万元) Max+ 版:42.99 万元 Max 版:37.99 万元 Pro 版:34....",
+      "source": "Ithome",
+      "date": "2026-08-14",
+      "url": "https://www.ithome.com/0/989/934.htm"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14925679.html",
+      "title": "8月14日晚间公告集锦|贵州茅台上半年净利润同比下降1.95%,立新能源上半年净利润7302.39万元同比增长715.75%,富乐德拟发行不超11.76亿元可转债",
       "summary": "NewsData报道",
       "source": "Jiemian",
-      "date": "2026-08-13",
-      "url": "https://www.jiemian.com/article/14919733.html"
+      "date": "2026-08-14",
+      "url": "https://www.jiemian.com/article/14925679.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873406431970946136",
-      "title": "滴滴2026年Q2业绩报告:滴滴中国出行单量连续1..",
+      "id": "http://baijiahao.baidu.com/s?id=1873471713133475616",
+      "title": "水陆空全域布局,人机协同精细管护!浦东依托智能化手..",
+      "summary": "台风过后,闷热不减。往日里养护工人清扫道路、修剪草坪的身影大幅减少,取而代之的是无人设备高效完成各类养护工作。面对人力成本高、极端天气作业风险大、监管覆盖有盲区等生态治理难点,浦东新区绿化部门多点布局,试点使用树木智能修...",
+      "source": "News_Baidu",
+      "date": "2026-08-14",
+      "url": "http://baijiahao.baidu.com/s?id=1873471713133475616"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873495265563624334",
+      "title": "晚间公告|8月14日这些公告有看头",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-13",
-      "url": "http://baijiahao.baidu.com/s?id=1873406431970946136"
+      "date": "2026-08-14",
+      "url": "http://baijiahao.baidu.com/s?id=1873495265563624334"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873406128205008153",
-      "title": "他们在高速检查站扔“垃圾”,这个行为太反常!",
+      "id": "http://baijiahao.baidu.com/s?id=1873499549883028755",
+      "title": "新闻8点见丨油价迎年内第五跌;北京绿色空间生态监测..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-13",
-      "url": "http://baijiahao.baidu.com/s?id=1873406128205008153"
+      "date": "2026-08-14",
+      "url": "http://baijiahao.baidu.com/s?id=1873499549883028755"
     },
     {
-      "id": "https://www.ithome.com/0/989/454.htm",
-      "title": "长安汽车与荣耀手机达成合作,全新深蓝 S05 官宣首发荣耀车联 3.0 系统",
-      "summary": "IT之家 8 月 13 日消息,荣耀手机、长安汽车官方今日宣布达成合作,并正式揭牌「联合创新开放实验室」。 据介绍,长安汽车 21 款主力车型已搭载荣耀车联功能。此次合作, 长安全新深蓝 S05 将首发荣耀车联 3.0 系统 ,支持手机镜像投屏与车机融合列表投屏等多种方式,可根据驾驶场景自由切换小窗与全屏显示。行车时小窗显示导航、驻车一键全屏看视频。 IT之家注意到,双方还首次打通跨端语音交互控制...",
+      "id": "http://baijiahao.baidu.com/s?id=1873495171626134277",
+      "title": "河南周口河堤溃口致第五医院积水 卫健委:所有医患均..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-14",
+      "url": "http://baijiahao.baidu.com/s?id=1873495171626134277"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14823186.html",
+      "title": "一汽奥迪还没等到电动时代的“A6”",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-08-14",
+      "url": "https://www.jiemian.com/article/14823186.html"
+    },
+    {
+      "id": "https://www.iimedia.cn/c1104/114228.html",
+      "title": "全球存储芯片短缺验证 消费电子产业链迎资本热潮",
+      "summary": "存储芯片短缺已从市场预期走向现实验证,8月7日A股消费电子ETF放量大涨冲击四连阳,超级牛散葛卫东二季度逆势增持兆易创新超121万股。苹果、英伟达、台积电等全球科技巨头正面临严重的DRAM供应瓶颈,马斯克警告AI热潮下内存供需增速剪刀差高达十倍,产业链新一轮景气周期或已开启。...",
+      "source": "Iimedia_Cn",
+      "date": "2026-08-14",
+      "url": "https://www.iimedia.cn/c1104/114228.html"
+    },
+    {
+      "id": "https://www.ithome.com/0/989/919.htm",
+      "title": "奇瑞 iCAR V25 首发亮相:方盒子造型 + 1.5T 增程器,预计今年 Q4 上市",
+      "summary": "IT之家 8 月 14 日消息,奇瑞旗下 iCAR 品牌全新车型 V25 今日在成都首发亮相。新车定位“科技时尚轻旗舰 SUV”,是 iCAR V 系列继 V23 之后的第三款产品,采用增程式动力系统,预计今年第四季度正式上市。 外观方面,iCAR V25 延续了家族标志性的“方盒子”造型,车身尺寸为 4636mm(含外挂备胎 / 储物箱)1920mm1855mm,轴距 2820mm。提供包括白色...",
       "source": "Ithome",
-      "date": "2026-08-13",
-      "url": "https://www.ithome.com/0/989/454.htm"
+      "date": "2026-08-14",
+      "url": "https://www.ithome.com/0/989/919.htm"
     },
     {
-      "id": "http://www.pcauto.com.cn/news/5178/51781475.html",
-      "title": "六年深耕汽车托运 拖车帝以品质服务护航大众出行",
-      "summary": "近些年,高速公路上时常能看到这样的场景-双层轿运大板车整齐码放着崭新的商品车、各地牌照的私家车乃至满身个性涂鸦的改装车...",
-      "source": "Pcauto_Cn",
-      "date": "2026-08-13",
-      "url": "http://www.pcauto.com.cn/news/5178/51781475.html"
+      "id": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
+      "title": "Uber and China’s Pony AI to launch over 2,000 robotaxis across Europe",
+      "summary": "The expanded partnership with blend a mobility platform, fleet management capacity and autonomous driving technology....",
+      "source": "Euronews",
+      "date": "2026-08-14",
+      "url": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873411946703542704",
-      "title": "橡木果机器人发布Natus具身本能模型 获招商局创..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-13",
-      "url": "http://baijiahao.baidu.com/s?id=1873411946703542704"
+      "id": "https://www.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program-to-open-source-ai-chip-designs-for-autonomous-driving/2405491",
+      "title": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving",
+      "summary": "**media[1176768]**TOKYO, Aug. 14, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has joined the Next-Generation Edge AI Semiconductor Research a...",
+      "source": "The Manila Times",
+      "date": "2026-08-14",
+      "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program-to-open-source-ai-chip-designs-for-autonomous-driving/2405491"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873409858691770002",
-      "title": "淘宝闪购在京沪试点:骑手等红灯时间不计入配送考核",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-13",
-      "url": "http://baijiahao.baidu.com/s?id=1873409858691770002"
-    },
-    {
-      "id": "https://www.ithome.com/0/989/467.htm",
-      "title": "吉利银河 TT 纯电轿车预售发布:全域 800V 高压平台、千里浩瀚 H5 / H7,14.59 万元起",
-      "summary": "IT之家 8 月 13 日消息,吉利银河 TT 纯电轿车今晚预售发布,全系标配全域 800V 高压平台、宁德时代神行 TT 高定电池,预售指导价 14.59 万元起。 540 后驱尊享版:14.59 万元; 540 后驱尊贵版:15.59 万元; 640 后驱旗舰版:16.99 万元。 外观方面,吉利银河 TT 的尺寸为 4999×1919×1479mm、轴距 2920mm,采用量体裁风运动身姿设...",
-      "source": "Ithome",
-      "date": "2026-08-13",
-      "url": "https://www.ithome.com/0/989/467.htm"
-    },
-    {
-      "id": "https://www.ign.com.cn/topic/61933/nautus-gong-bu-yu-gao",
-      "title": "《NAUTUS》公布预告",
-      "summary": "海面悠然惬意 深海暗藏危机 在《NAUTUS》中,玩家收到叔叔Bernard Torpedo 发来的一则令人不安的无线电讯息后,来到偏远的N.A.U.T.U.S.研究站。抵达后,玩家发现这里的科学家们全都失去了记忆,并对海洋产生了令人瘫痪般的恐惧。作为唯一愿意勇闯深海的人,玩家必须驾驶一艘可升级的潜艇,抵御变异海洋生物,并找回神秘的遗物石,以恢复当地居民的记忆,同时揭开叔叔突然失踪背后的真相。游戏...",
-      "source": "Ign_Cn",
-      "date": "2026-08-13",
-      "url": "https://www.ign.com.cn/topic/61933/nautus-gong-bu-yu-gao"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3moml5k/",
-      "title": "特斯拉Robotaxi标配星链:花3万买车还要每月交$165?这笔账值不值",
-      "summary": "特斯拉宣布未来全系车型标配星链卫星互联网,首发车型是无人驾驶出租车Cybercab。这套车载星链峰值下载速度375Mbps,足以在车内流畅播放4K视频,号称能补上郊区、隧道等地面基站盲区的网络短板。不过消息一出,质疑声同样不少:城市里5G完全够用,为一台......",
-      "source": "Smzdm",
-      "date": "2026-08-13",
-      "url": "https://post.smzdm.com/p/a3moml5k/"
-    },
-    {
-      "id": "https://www.woshipm.com/share/6446559.html",
-      "title": "AI 时代 Vibe Design 必备的 50 种 UI 风格名词!",
-      "summary": "哈喽大家好,我是萤柳! 最近用 Codex、Claude Code 做页面的人越来越多,我也经常看到一句熟悉的提示词。 帮我做得高级一点。 这句话听起来没毛病,真交给 AI 以后,结果就很看运气了。 你脑子里想的是干净的瑞士网格,它可能端来一套蓝紫渐变。 你想要年轻、有点野,它又给你铺满玻璃卡片。两边都没偷懒, 只是“高级”这个词实在太大了。 所以我整理了 UI设计场景里比较常用的部分,凑成这份 ...",
-      "source": "Woshipm",
-      "date": "2026-08-13",
-      "url": "https://www.woshipm.com/share/6446559.html"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5178/51781460.html",
-      "title": "iX3价格曝光?26年新iX3售价与30万级竞争力分析",
-      "summary": "随着新世代BMW iX3长轴距版进入中国市场节奏逐步明确,“宝马iX3新款多少钱、宝马iX3落地价大概多少”正在成为消费者关注的问题...",
-      "source": "Pcauto_Cn",
-      "date": "2026-08-13",
-      "url": "http://www.pcauto.com.cn/news/5178/51781460.html"
+      "id": "https://www.prnewswire.co.uk/news-releases/ponyai-and-uber-expand-partnership-to-deploy-over-2-000-robotaxis-in-europe-302850985.html",
+      "title": "Pony.ai and Uber Expand Partnership to Deploy Over 2,000 Robotaxis in Europe",
+      "summary": "/PRNewswire/ -- Pony AI Inc. (\"Pony.ai\") (NASDAQ: PONY; HKEX: 2026), a global leader in the large-scale commercialization of autonomous driving technology, and......",
+      "source": "PR Newswire UK",
+      "date": "2026-08-14",
+      "url": "https://www.prnewswire.co.uk/news-releases/ponyai-and-uber-expand-partnership-to-deploy-over-2-000-robotaxis-in-europe-302850985.html"
     },
     {
       "id": "https://techbullion.com/the-best-data-annotation-providers-for-autonomous-driving/",
@@ -197,22 +259,6 @@
       "source": "The Tribune",
       "date": "2026-08-06",
       "url": "https://www.tribuneindia.com/news/business/uber-building-infrastructure-to-commercialise-autonomous-mobility-at-global-scale-q2-earnings-report/"
-    },
-    {
-      "id": "https://www.cityam.com/tfl-greenlights-wayves-autonomous-vehicles-in-the-city/",
-      "title": "TfL greenlights Wayve's autonomous vehicles in the City",
-      "summary": "Transport for London (TfL) has granted British autonomous driving firm Wayve a licence to operate their cars in the City, a move which will see robotaxis will make their first appearance in London lat...",
-      "source": "City A.M.",
-      "date": "2026-08-06",
-      "url": "https://www.cityam.com/tfl-greenlights-wayves-autonomous-vehicles-in-the-city/"
-    },
-    {
-      "id": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software",
-      "title": "Rivian Poised for Growth From Shift to Lower-Priced Vehicles and Autonomous Driving Software",
-      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today....",
-      "source": "Morningstar",
-      "date": "2026-08-06",
-      "url": "https://www.morningstar.com/company-reports/1493440-rivian-poised-for-growth-from-shift-to-lower-priced-vehicles-and-autonomous-driving-software"
     }
   ]
 }
