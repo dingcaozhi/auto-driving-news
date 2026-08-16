@@ -1,13 +1,16 @@
 {
-  "lastUpdated": "2026-08-15 01:39:48",
-  "totalCount": 30,
+  "lastUpdated": "2026-08-16 01:46:38",
+  "totalCount": 28,
   "sources": {
-    "Bilibili": 5,
-    "Ithome": 3,
-    "News_Baidu": 8,
-    "Fx168News": 1,
-    "Jiemian": 2,
-    "Iimedia_Cn": 1,
+    "Ithome": 2,
+    "News_Baidu": 10,
+    "Cri_Cn": 1,
+    "Nbd_Cn": 1,
+    "Bjnews": 1,
+    "Orientaldaily": 1,
+    "Smzdm": 2,
+    "South China Morning Post": 1,
+    "International Business Times": 1,
     "Euronews": 1,
     "The Manila Times": 1,
     "PR Newswire UK": 1,
@@ -15,170 +18,168 @@
     "Ars Technica": 1,
     "Mashable India": 1,
     "TechRadar": 1,
-    "Forbes": 1,
-    "Benzinga": 1,
-    "The Tribune": 1
+    "Forbes": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Dzgw6SEzF",
-      "title": "【B站】25条重磅新闻速览！核能、高铁、自动驾驶全都有",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-15",
-      "url": "https://www.bilibili.com/video/BV1Dzgw6SEzF"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1YhgF6EE8j",
-      "title": "【B站】新能源车内卷，新赛道究竟在哪？#新能源汽车 #自动驾驶 #车载智能 #动力电池",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-08-15",
-      "url": "https://www.bilibili.com/video/BV1YhgF6EE8j"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1PSgF6KEz2",
-      "title": "【B站】明年会有好戏看。#l3级自动驾驶 #乾坤智驾 #岚图",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-08-15",
-      "url": "https://www.bilibili.com/video/BV1PSgF6KEz2"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1yhgW6vEui",
-      "title": "【B站】LTR3.0站台和自动驾驶教程，有轨道放置，站台设置，停车位置，限速轨道等内容。",
-      "summary": "感谢您的观看，欢迎留言，交流讨论哦，祝你生活愉快。...",
-      "source": "Bilibili",
-      "date": "2026-08-15",
-      "url": "https://www.bilibili.com/video/BV1yhgW6vEui"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1tCgp6BEgi",
-      "title": "【B站】上海市，14号线地铁自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-15",
-      "url": "https://www.bilibili.com/video/BV1tCgp6BEgi"
-    },
-    {
-      "id": "https://www.ithome.com/0/989/937.htm",
-      "title": "长城魏牌 V8X 上市:定位大五座旗舰 SUV,限时权益价 22.68 万元起",
-      "summary": "感谢IT之家网友 風見暉一 、 推荐 的线索投递! IT之家 8 月 14 日消息,长城魏牌 V8X 汽车今日上市,新车主打豪华质感及运动姿态兼具,拥有“双 VLA”原生 AI 舱驾智能体,配备超级 Hi4 混动系统, 限时权益价 22.68 万元起 。 IT之家附该车各版本定价如下: 运动版: 运动版 Max:统一零售价 23.98 万元,限时权益价 22.68 万元起 运动版 Ultra:统一...",
+      "id": "https://www.ithome.com/0/990/173.htm",
+      "title": "最强敞篷野马登场:福特推出 Mustang Dark Horse SC 敞篷版,最大 795 马力",
+      "summary": "IT之家 8 月 15 日消息,据外媒 Carscoop 今天(15 日)报道,福特正式发布 Mustang Dark Horse SC 敞篷版。新车比硬顶版晚 7 个月亮相,并成为福特 迄今动力最强的敞篷 Mustang 。 福特希望把 Dark Horse SC 敞篷版打造成“终极敞篷 GT 车型”。相比更加激进的硬顶版,新车更注重 兼顾性能与舒适性 ,配备经过专门调校的 MagneRide ...",
       "source": "Ithome",
-      "date": "2026-08-14",
-      "url": "https://www.ithome.com/0/989/937.htm"
+      "date": "2026-08-15",
+      "url": "https://www.ithome.com/0/990/173.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873503073023443008",
-      "title": "「深圳特区报」深圳国资一年开放168个应用场景 打..",
+      "id": "http://baijiahao.baidu.com/s?id=1873592881366611122",
+      "title": "全程系好安全带 守护旅途平安路",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-14",
-      "url": "http://baijiahao.baidu.com/s?id=1873503073023443008"
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873592881366611122"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873476286857014553",
-      "title": "车队专属管家来了 中国重汽车队管理系统·标准版重磅..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-14",
-      "url": "http://baijiahao.baidu.com/s?id=1873476286857014553"
+      "id": "https://news.cri.cn/20260815/e846fdcd-c77f-15cc-5685-f82d8d4bef1c.html",
+      "title": "我的新疆日记·第四天|准东与江布拉克:一予一迎-国际在线",
+      "summary": "我今天一整天都没有离开昌吉。这听起来平淡无奇,但在经历了近八个小时的车程、看到完全不同的两个世界之后,我认为这相当壮观。 我们的行程始于准东的一座换流站。在那里,来自新疆的电力踏上了长达3000多公里的旅程,沿准东—皖南&...",
+      "source": "Cri_Cn",
+      "date": "2026-08-15",
+      "url": "https://news.cri.cn/20260815/e846fdcd-c77f-15cc-5685-f82d8d4bef1c.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873503758528592069",
-      "title": "明起施行,广场舞扰民最高可罚1000元,“炸街”最..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-14",
-      "url": "http://baijiahao.baidu.com/s?id=1873503758528592069"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873503174567027113",
-      "title": "交通安全课送到社区,小手牵大手守护平安",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-14",
-      "url": "http://baijiahao.baidu.com/s?id=1873503174567027113"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1075794",
-      "title": "今日晚间重要公告抢先看——半导体产业链业绩冷热分化!生益科技上半年净利润同比大增130%;紫光国微整体净利增长15%;网宿科技净利微降6.61%;*ST闻泰上半年亏损4.06亿元-FX168",
-      "summary": "今日晚间重要公告抢先看——网宿科技:上半年净利润同比下降6.61%,拟10派0.8元;生益科技:上半年净利润同比增长130%,覆铜板销量及产品销售结构持续优化;紫光国微:上半年净利润同比增长15%,存储器板块同比大幅增长305%;*ST闻泰:上半年亏损4.06亿元。【重大事项】...",
-      "source": "Fx168News",
-      "date": "2026-08-14",
-      "url": "https://www.fx168news.com/article/1075794"
-    },
-    {
-      "id": "https://www.ithome.com/0/989/934.htm",
-      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 开启预售,33.99 万-44.99 万元",
-      "summary": "IT之家 8 月 14 日消息,奇瑞捷豹路虎 FREELANDER 神行者 8 今天(14 日)晚间正式迎来预售。新车全系标配华为乾崑智驾 ADS 5;全球首批搭载高通骁龙最新一代 8397 车规级芯片;全系标配 800V 高压平台。 首发限定版(限量 1000 台):45.99 万元(锁单权益价 44.99 万元) Max+ 版:42.99 万元 Max 版:37.99 万元 Pro 版:34....",
+      "id": "https://www.ithome.com/0/990/168.htm",
+      "title": "沃尔沃推出“安全教练”应用:能分析你的驾驶行为并打分,降低事故风险",
+      "summary": "IT之家 8 月 15 日消息,据外媒 Carscoops 今天(15 日)报道,沃尔沃将推出全新的“安全教练”应用,开始把更多精力放到事故发生之前,希望通过软件 提前降低事故风险 ,而不是只依靠车辆本身。 “安全教练”提供车机、手机应用,会结合真实事故数据和沃尔沃自身的安全研究,在驾驶过程中 分析驾驶行为并给出建议 。 驾驶者可以自行选择是否启用“安全教练”。启用后,每个人都会获得一个评分,并得...",
       "source": "Ithome",
-      "date": "2026-08-14",
-      "url": "https://www.ithome.com/0/989/934.htm"
+      "date": "2026-08-15",
+      "url": "https://www.ithome.com/0/990/168.htm"
     },
     {
-      "id": "https://www.jiemian.com/article/14925679.html",
-      "title": "8月14日晚间公告集锦|贵州茅台上半年净利润同比下降1.95%,立新能源上半年净利润7302.39万元同比增长715.75%,富乐德拟发行不超11.76亿元可转债",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-08-14",
-      "url": "https://www.jiemian.com/article/14925679.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873471713133475616",
-      "title": "水陆空全域布局,人机协同精细管护!浦东依托智能化手..",
-      "summary": "台风过后,闷热不减。往日里养护工人清扫道路、修剪草坪的身影大幅减少,取而代之的是无人设备高效完成各类养护工作。面对人力成本高、极端天气作业风险大、监管覆盖有盲区等生态治理难点,浦东新区绿化部门多点布局,试点使用树木智能修...",
-      "source": "News_Baidu",
-      "date": "2026-08-14",
-      "url": "http://baijiahao.baidu.com/s?id=1873471713133475616"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873495265563624334",
-      "title": "晚间公告|8月14日这些公告有看头",
+      "id": "http://baijiahao.baidu.com/s?id=1873589369396870676",
+      "title": "湖州再问:一个城市能把“绿色”变成什么",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-14",
-      "url": "http://baijiahao.baidu.com/s?id=1873495265563624334"
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873589369396870676"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873499549883028755",
-      "title": "新闻8点见丨油价迎年内第五跌;北京绿色空间生态监测..",
+      "id": "http://baijiahao.baidu.com/s?id=1873585513842604968",
+      "title": "人工智能辅助胸外科手术导航探索“自动驾驶”:如何让..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-14",
-      "url": "http://baijiahao.baidu.com/s?id=1873499549883028755"
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873585513842604968"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873495171626134277",
-      "title": "河南周口河堤溃口致第五医院积水 卫健委:所有医患均..",
+      "id": "http://baijiahao.baidu.com/s?id=1873462398414044040",
+      "title": "人民锐评:求职者需“无信访证明”?还有多少隐性门槛..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-14",
-      "url": "http://baijiahao.baidu.com/s?id=1873495171626134277"
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873462398414044040"
     },
     {
-      "id": "https://www.jiemian.com/article/14823186.html",
-      "title": "一汽奥迪还没等到电动时代的“A6”",
+      "id": "https://www.nbd.com.cn/articles/2026-08-15/4542992.html",
+      "title": "8月上半月A股机构调研图谱:仕佳光子累计接待机构数量高达434家,电子行业仍为热门选择",
+      "summary": "8月前两周,机构投资者对A股上市公司的调研活动热度依旧不低。接待机构数量排在前三位的公司,分别为仕佳光子、百济神州和九号公司。另外,机构调研数据可以归纳出两大特征:一是科技成长主线清晰,二是龙头效应显著。...",
+      "source": "Nbd_Cn",
+      "date": "2026-08-15",
+      "url": "https://www.nbd.com.cn/articles/2026-08-15/4542992.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873585595823290055",
+      "title": "8月上半月A股机构调研图谱:仕佳光子累计接待机构数..",
       "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-08-14",
-      "url": "https://www.jiemian.com/article/14823186.html"
+      "source": "News_Baidu",
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873585595823290055"
     },
     {
-      "id": "https://www.iimedia.cn/c1104/114228.html",
-      "title": "全球存储芯片短缺验证 消费电子产业链迎资本热潮",
-      "summary": "存储芯片短缺已从市场预期走向现实验证,8月7日A股消费电子ETF放量大涨冲击四连阳,超级牛散葛卫东二季度逆势增持兆易创新超121万股。苹果、英伟达、台积电等全球科技巨头正面临严重的DRAM供应瓶颈,马斯克警告AI热潮下内存供需增速剪刀差高达十倍,产业链新一轮景气周期或已开启。...",
-      "source": "Iimedia_Cn",
-      "date": "2026-08-14",
-      "url": "https://www.iimedia.cn/c1104/114228.html"
+      "id": "http://baijiahao.baidu.com/s?id=1873583410126858354",
+      "title": "突破1000万吨!达茂旗满都拉口岸过货量创同期历史..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873583410126858354"
     },
     {
-      "id": "https://www.ithome.com/0/989/919.htm",
-      "title": "奇瑞 iCAR V25 首发亮相:方盒子造型 + 1.5T 增程器,预计今年 Q4 上市",
-      "summary": "IT之家 8 月 14 日消息,奇瑞旗下 iCAR 品牌全新车型 V25 今日在成都首发亮相。新车定位“科技时尚轻旗舰 SUV”,是 iCAR V 系列继 V23 之后的第三款产品,采用增程式动力系统,预计今年第四季度正式上市。 外观方面,iCAR V25 延续了家族标志性的“方盒子”造型,车身尺寸为 4636mm(含外挂备胎 / 储物箱)1920mm1855mm,轴距 2820mm。提供包括白色...",
-      "source": "Ithome",
+      "id": "http://baijiahao.baidu.com/s?id=1873580958889408762",
+      "title": "北京亦庄:机器人消费走近老百姓身边",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873580958889408762"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1786763356129691.html",
+      "title": "2026 E-Town机器人消费节启动",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-15",
+      "url": "https://www.bjnews.com.cn/detail/1786763356129691.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873585391851662090",
+      "title": "开战一天后伊朗用美制战机轰炸美军基地,前北美防空司..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873585391851662090"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873580448778151125",
+      "title": "“白胖科技小哥” 上岗!顺丰无人车驰骋街头,24 ..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873580448778151125"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873570589606740092",
+      "title": "拿下国家级水上赛事,淮安市洪泽区怎么做到的?",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-15",
+      "url": "http://baijiahao.baidu.com/s?id=1873570589606740092"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/international/2026/08/15/840885",
+      "title": "【俄乌开战】乌克兰打击炼油厂 俄罗斯出现新一轮燃料短缺",
+      "summary": "(莫斯科15日讯)乌克兰加强对俄罗斯炼油厂的袭击,莫斯科承认部分地区面临新的汽油短缺问题。法新社报导,乌克兰将远程无人机和导弹打击的重点对准了炼油厂,试图削弱俄罗斯继续战争的能力。在距离前线约1300公里的奥伦堡州奥尔斯克市,一家大型炼油厂在本周遭到袭击后,被关闭长达6个月。政府在社交媒体发文称,该国多个地区的加油站燃料供应情况依然紧张。根据声明,石油公司正“采取必要措施,增加对最脆弱地区的供应”...",
+      "source": "Orientaldaily",
+      "date": "2026-08-15",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/08/15/840885"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggdemk7/",
+      "title": "26款阿维塔07真实用车感受:全车都满意,唯独电吸门太鸡肋",
+      "summary": "作为26款阿维塔07真实车主,说实话,这台车的整体产品力完全超出预期。不管是整车的智能化系统、底盘调校,还是内饰质感、静谧性、动力响应,日常家用、通勤代步、高速出行都挑不出毛病。智能辅助驾驶流畅稳定、车机交互丝滑不卡顿,整车配置厚道,驾驶体验和乘坐舒适度......",
+      "source": "Smzdm",
+      "date": "2026-08-15",
+      "url": "https://post.smzdm.com/p/aggdemk7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgrl3r9/",
+      "title": "零跑A05上市,我劝你冷静:你买的是通勤,不是发布会",
+      "summary": "零跑A05上市了,6.39万起步,顶配9.09万。4米2的车长,轴距2米6,A0级小车。高配带激光雷达、高通8295座舱芯片加8650智驾芯片,号称车位到车位辅助驾驶。续航405km和510km两档,14.6寸中控屏,座椅能放平当床。纸面上看,这车把\"越......",
+      "source": "Smzdm",
+      "date": "2026-08-15",
+      "url": "https://post.smzdm.com/p/avgrl3r9/"
+    },
+    {
+      "id": "https://www.scmp.com/lifestyle/motoring/article/3363916/self-driving-cars-china-can-park-change-lanes-and-drive-humans-next-stop-europe",
+      "title": "Self-driving cars in China can park, change lanes and drive like humans. Next stop: Europe",
+      "summary": "Autonomous cars in China can navigate chaotic city traffic with human-like precision, even parking themselves when the occupants have gone....",
+      "source": "South China Morning Post",
+      "date": "2026-08-15",
+      "url": "https://www.scmp.com/lifestyle/motoring/article/3363916/self-driving-cars-china-can-park-change-lanes-and-drive-humans-next-stop-europe"
+    },
+    {
+      "id": "https://www.ibtimes.com/uber-bringing-thousands-chinese-robotaxis-europe-its-driverless-push-gets-bigger-3806411",
+      "title": "Uber Is Bringing Thousands Of Chinese Robotaxis To Europe As Its Driverless Push Gets Bigger",
+      "summary": "The expansion follows the March launch of a commercial robotaxi service in Zagreb involving Uber, Pony.ai and Croatian autonomous-driving company Verne....",
+      "source": "International Business Times",
       "date": "2026-08-14",
-      "url": "https://www.ithome.com/0/989/919.htm"
+      "url": "https://www.ibtimes.com/uber-bringing-thousands-chinese-robotaxis-europe-its-driverless-push-gets-bigger-3806411"
     },
     {
       "id": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
@@ -243,22 +244,6 @@
       "source": "Forbes",
       "date": "2026-08-06",
       "url": "https://www.forbes.com/sites/technology/article/self-driving-cars/"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses",
-      "title": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
-      "summary": "Gary Black backs Uber as the leader in autonomous driving and Robotaxi race as Uber delivers mixed Q2 earnings...",
-      "source": "Benzinga",
-      "date": "2026-08-06",
-      "url": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses"
-    },
-    {
-      "id": "https://www.tribuneindia.com/news/business/uber-building-infrastructure-to-commercialise-autonomous-mobility-at-global-scale-q2-earnings-report/",
-      "title": "Uber building infrastructure to commercialise autonomous mobility at global scale: Q2 earnings report",
-      "summary": "Ride-hailing and delivery platform Uber said it is laying the foundation to commercialise autonomous mobility at a global scale, as the company expands its self-driving vehicle ecosystem through partn...",
-      "source": "The Tribune",
-      "date": "2026-08-06",
-      "url": "https://www.tribuneindia.com/news/business/uber-building-infrastructure-to-commercialise-autonomous-mobility-at-global-scale-q2-earnings-report/"
     }
   ]
 }
