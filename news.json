@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-16 01:46:38",
-  "totalCount": 28,
+  "lastUpdated": "2026-08-17 01:44:48",
+  "totalCount": 25,
   "sources": {
-    "Ithome": 2,
-    "News_Baidu": 10,
-    "Cri_Cn": 1,
+    "Woshipm": 1,
+    "Chinanews": 3,
+    "Zaobao": 1,
+    "News_Baidu": 7,
     "Nbd_Cn": 1,
-    "Bjnews": 1,
-    "Orientaldaily": 1,
-    "Smzdm": 2,
+    "Investing_Cn": 1,
+    "A199It": 1,
     "South China Morning Post": 1,
     "International Business Times": 1,
     "Euronews": 1,
@@ -22,148 +22,124 @@
   },
   "news": [
     {
-      "id": "https://www.ithome.com/0/990/173.htm",
-      "title": "最强敞篷野马登场:福特推出 Mustang Dark Horse SC 敞篷版,最大 795 马力",
-      "summary": "IT之家 8 月 15 日消息,据外媒 Carscoop 今天(15 日)报道,福特正式发布 Mustang Dark Horse SC 敞篷版。新车比硬顶版晚 7 个月亮相,并成为福特 迄今动力最强的敞篷 Mustang 。 福特希望把 Dark Horse SC 敞篷版打造成“终极敞篷 GT 车型”。相比更加激进的硬顶版,新车更注重 兼顾性能与舒适性 ,配备经过专门调校的 MagneRide ...",
-      "source": "Ithome",
-      "date": "2026-08-15",
-      "url": "https://www.ithome.com/0/990/173.htm"
+      "id": "https://www.woshipm.com/ai/6447944.html",
+      "title": "AI互联网日报:阿里通义千问下载破20亿、腾讯QQ Bot接入Harness、微信框架升级与PayPal交易传出变局",
+      "summary": "当工具开始接手开发、社交和支付入口,真正被重写的是哪一步?入口正在变近。DeepSeek进国家超算互联网,腾讯把QQ Bot接上Harness,NVIDIA把算力融资和能源伙伴一起推进,说明AI工作流正在从模型能力变成可交付系统。PayPal出售谈判和微信小程序框架升级,也在提醒平台入口仍会换形态。我这次想盯住一件事:入口越靠近任务执行,信任和成本越不能含糊。 一起来看看这两天发生的AI和互联网赛...",
+      "source": "Woshipm",
+      "date": "2026-08-16",
+      "url": "https://www.woshipm.com/ai/6447944.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873592881366611122",
-      "title": "全程系好安全带 守护旅途平安路",
+      "id": "https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml",
+      "title": "我的新疆日记·第五天|北庭与天山,在遗址与群山之间",
+      "summary": "这几天,我随人民网2026“行进中国”调研行前往新疆维吾尔自治区采访,以日记的形式,记录一路的所见所闻、所思所感。...",
+      "source": "Chinanews",
+      "date": "2026-08-16",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260816-9524384",
+      "title": "新马跨境德士服务放宽后需求上升 每日往返趟次增加近两成",
+      "summary": "新马两国扩大跨境德士服务范围及调整收费措施已满三个月,乘客需求稳健上升。陆路交通管理局数据显示,新措施落实一个月后,每日载客跨境趟次增加近两成。...",
+      "source": "Zaobao",
+      "date": "2026-08-16",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260816-9524384"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873682879655465743",
+      "title": "京东旗下24小时智能化无人咖啡店落地北京;拼多多上..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873592881366611122"
+      "date": "2026-08-16",
+      "url": "http://baijiahao.baidu.com/s?id=1873682879655465743"
     },
     {
-      "id": "https://news.cri.cn/20260815/e846fdcd-c77f-15cc-5685-f82d8d4bef1c.html",
-      "title": "我的新疆日记·第四天|准东与江布拉克:一予一迎-国际在线",
-      "summary": "我今天一整天都没有离开昌吉。这听起来平淡无奇,但在经历了近八个小时的车程、看到完全不同的两个世界之后,我认为这相当壮观。 我们的行程始于准东的一座换流站。在那里,来自新疆的电力踏上了长达3000多公里的旅程,沿准东—皖南&...",
-      "source": "Cri_Cn",
-      "date": "2026-08-15",
-      "url": "https://news.cri.cn/20260815/e846fdcd-c77f-15cc-5685-f82d8d4bef1c.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/990/168.htm",
-      "title": "沃尔沃推出“安全教练”应用:能分析你的驾驶行为并打分,降低事故风险",
-      "summary": "IT之家 8 月 15 日消息,据外媒 Carscoops 今天(15 日)报道,沃尔沃将推出全新的“安全教练”应用,开始把更多精力放到事故发生之前,希望通过软件 提前降低事故风险 ,而不是只依靠车辆本身。 “安全教练”提供车机、手机应用,会结合真实事故数据和沃尔沃自身的安全研究,在驾驶过程中 分析驾驶行为并给出建议 。 驾驶者可以自行选择是否启用“安全教练”。启用后,每个人都会获得一个评分,并得...",
-      "source": "Ithome",
-      "date": "2026-08-15",
-      "url": "https://www.ithome.com/0/990/168.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873589369396870676",
-      "title": "湖州再问:一个城市能把“绿色”变成什么",
+      "id": "http://baijiahao.baidu.com/s?id=1873684671901592869",
+      "title": "法拉利首款纯电动跑车来了,全新法拉利Luce亮相长..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873589369396870676"
+      "date": "2026-08-16",
+      "url": "http://baijiahao.baidu.com/s?id=1873684671901592869"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873585513842604968",
-      "title": "人工智能辅助胸外科手术导航探索“自动驾驶”:如何让..",
+      "id": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
+      "title": "特稿|开放发展、可靠担当、魅力十足——国际人士眼里的中国",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873585513842604968"
+      "source": "Chinanews",
+      "date": "2026-08-16",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873462398414044040",
-      "title": "人民锐评:求职者需“无信访证明”?还有多少隐性门槛..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873462398414044040"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-08-15/4542992.html",
-      "title": "8月上半月A股机构调研图谱:仕佳光子累计接待机构数量高达434家,电子行业仍为热门选择",
-      "summary": "8月前两周,机构投资者对A股上市公司的调研活动热度依旧不低。接待机构数量排在前三位的公司,分别为仕佳光子、百济神州和九号公司。另外,机构调研数据可以归纳出两大特征:一是科技成长主线清晰,二是龙头效应显著。...",
+      "id": "https://www.nbd.com.cn/articles/2026-08-16/4543237.html",
+      "title": "京东旗下24小时智能化无人咖啡店落地北京;拼多多上线“最快明天达”|一周未来商业",
+      "summary": "| 2026年8月10日—8月16日 |#电商新零售NO.1 京东集团二季度收入3464亿元,归母净利润同比增长15.4%8月13日,京东集团发布2026年第二季度及上半年业绩。财报显示,第二季度,京...",
       "source": "Nbd_Cn",
-      "date": "2026-08-15",
-      "url": "https://www.nbd.com.cn/articles/2026-08-15/4542992.html"
+      "date": "2026-08-16",
+      "url": "https://www.nbd.com.cn/articles/2026-08-16/4543237.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873585595823290055",
-      "title": "8月上半月A股机构调研图谱:仕佳光子累计接待机构数..",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3520155",
+      "title": "从扩权强县到强县扩权:湖南广东四川为县“松绑”,释放什么信号?",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-16",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3520155"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873676804610134867",
+      "title": "IPO周报:加特兰申报前20余家机构突击入股,每股..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873585595823290055"
+      "date": "2026-08-16",
+      "url": "http://baijiahao.baidu.com/s?id=1873676804610134867"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873583410126858354",
-      "title": "突破1000万吨!达茂旗满都拉口岸过货量创同期历史..",
+      "id": "http://baijiahao.baidu.com/s?id=1873669991388248434",
+      "title": "“中国赛道设计第一人”走进上海科技馆,上海科普大讲..",
+      "summary": "提到赛车,首先浮现在人们脑海中的是引擎轰鸣、极速冲刺的热血画面。F1赛车直道速度可达300km/h。如何保障这场速度盛宴的安全?8月15日,同济大学设计集团副总工程师姚启明教授来到上海科技馆,作为第245期上海科普大讲坛...",
+      "source": "News_Baidu",
+      "date": "2026-08-16",
+      "url": "http://baijiahao.baidu.com/s?id=1873669991388248434"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873412007095639516",
+      "title": "谁在制造驾校“退费难”",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873583410126858354"
+      "date": "2026-08-16",
+      "url": "http://baijiahao.baidu.com/s?id=1873412007095639516"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873580958889408762",
-      "title": "北京亦庄:机器人消费走近老百姓身边",
+      "id": "https://www.chinanews.com.cn/cj/2026/08-16/10678749.shtml",
+      "title": "“我是廊坊推荐官”走进8大领域 解锁产业发展新动能",
+      "summary": "中新网廊坊8月16日电 8月14日至15日,由中共廊坊市委网信办组织开展的“我是廊坊推荐官”之行在河北廊坊举行。活动聚焦新材料、空港装备、智慧康养、数字档案、航空实训、柔性显示、高端医疗、文化科教八大领域,系统记录并展示廊坊现代化产业体系建设的阶段性成果。...",
+      "source": "Chinanews",
+      "date": "2026-08-16",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678749.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873645322991173501",
+      "title": "英伟达持仓股票曝光!位列SpaceX第六大股东,持..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873580958889408762"
+      "date": "2026-08-16",
+      "url": "http://baijiahao.baidu.com/s?id=1873645322991173501"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1786763356129691.html",
-      "title": "2026 E-Town机器人消费节启动",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-15",
-      "url": "https://www.bjnews.com.cn/detail/1786763356129691.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873585391851662090",
-      "title": "开战一天后伊朗用美制战机轰炸美军基地,前北美防空司..",
+      "id": "http://baijiahao.baidu.com/s?id=1873630470828179030",
+      "title": "四大场景打造“机器人消费”新地标",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873585391851662090"
+      "date": "2026-08-16",
+      "url": "http://baijiahao.baidu.com/s?id=1873630470828179030"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873580448778151125",
-      "title": "“白胖科技小哥” 上岗!顺丰无人车驰骋街头,24 ..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873580448778151125"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873570589606740092",
-      "title": "拿下国家级水上赛事,淮安市洪泽区怎么做到的?",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-15",
-      "url": "http://baijiahao.baidu.com/s?id=1873570589606740092"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/international/2026/08/15/840885",
-      "title": "【俄乌开战】乌克兰打击炼油厂 俄罗斯出现新一轮燃料短缺",
-      "summary": "(莫斯科15日讯)乌克兰加强对俄罗斯炼油厂的袭击,莫斯科承认部分地区面临新的汽油短缺问题。法新社报导,乌克兰将远程无人机和导弹打击的重点对准了炼油厂,试图削弱俄罗斯继续战争的能力。在距离前线约1300公里的奥伦堡州奥尔斯克市,一家大型炼油厂在本周遭到袭击后,被关闭长达6个月。政府在社交媒体发文称,该国多个地区的加油站燃料供应情况依然紧张。根据声明,石油公司正“采取必要措施,增加对最脆弱地区的供应”...",
-      "source": "Orientaldaily",
-      "date": "2026-08-15",
-      "url": "https://www.orientaldaily.com.my/news/international/2026/08/15/840885"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggdemk7/",
-      "title": "26款阿维塔07真实用车感受:全车都满意,唯独电吸门太鸡肋",
-      "summary": "作为26款阿维塔07真实车主,说实话,这台车的整体产品力完全超出预期。不管是整车的智能化系统、底盘调校,还是内饰质感、静谧性、动力响应,日常家用、通勤代步、高速出行都挑不出毛病。智能辅助驾驶流畅稳定、车机交互丝滑不卡顿,整车配置厚道,驾驶体验和乘坐舒适度......",
-      "source": "Smzdm",
-      "date": "2026-08-15",
-      "url": "https://post.smzdm.com/p/aggdemk7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgrl3r9/",
-      "title": "零跑A05上市,我劝你冷静:你买的是通勤,不是发布会",
-      "summary": "零跑A05上市了,6.39万起步,顶配9.09万。4米2的车长,轴距2米6,A0级小车。高配带激光雷达、高通8295座舱芯片加8650智驾芯片,号称车位到车位辅助驾驶。续航405km和510km两档,14.6寸中控屏,座椅能放平当床。纸面上看,这车把\"越......",
-      "source": "Smzdm",
-      "date": "2026-08-15",
-      "url": "https://post.smzdm.com/p/avgrl3r9/"
+      "id": "http://www.199it.com/archives/1845738.html",
+      "title": "2025年印度电动乘用车销量17.7万辆,同比增长77%",
+      "summary": "据报道,跨国车企正调整印度市场战略,福特亏损超二十亿美元退出,本田将整车平台外包。车企试图复刻中国经验,但印度缺乏成熟新能源产业链。2025年印度电动车销量17.7万辆,同比增长77%,渗透率4.0%,远低于中国超50%的水平。...",
+      "source": "A199It",
+      "date": "2026-08-16",
+      "url": "http://www.199it.com/archives/1845738.html"
     },
     {
       "id": "https://www.scmp.com/lifestyle/motoring/article/3363916/self-driving-cars-china-can-park-change-lanes-and-drive-humans-next-stop-europe",
