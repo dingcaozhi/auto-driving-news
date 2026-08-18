@@ -1,15 +1,14 @@
 {
-  "lastUpdated": "2026-08-17 01:44:48",
-  "totalCount": 25,
+  "lastUpdated": "2026-08-18 01:39:36",
+  "totalCount": 32,
   "sources": {
-    "Woshipm": 1,
-    "Chinanews": 3,
-    "Zaobao": 1,
-    "News_Baidu": 7,
-    "Nbd_Cn": 1,
-    "Investing_Cn": 1,
-    "A199It": 1,
-    "South China Morning Post": 1,
+    "Bilibili": 5,
+    "News_Baidu": 13,
+    "Cri_Cn": 1,
+    "Chinanews": 1,
+    "Bjnews": 1,
+    "Ithome": 1,
+    "South China Morning Post": 2,
     "International Business Times": 1,
     "Euronews": 1,
     "The Manila Times": 1,
@@ -17,129 +16,192 @@
     "TechBullion": 1,
     "Ars Technica": 1,
     "Mashable India": 1,
-    "TechRadar": 1,
-    "Forbes": 1
+    "TechRadar": 1
   },
   "news": [
     {
-      "id": "https://www.woshipm.com/ai/6447944.html",
-      "title": "AI互联网日报:阿里通义千问下载破20亿、腾讯QQ Bot接入Harness、微信框架升级与PayPal交易传出变局",
-      "summary": "当工具开始接手开发、社交和支付入口,真正被重写的是哪一步?入口正在变近。DeepSeek进国家超算互联网,腾讯把QQ Bot接上Harness,NVIDIA把算力融资和能源伙伴一起推进,说明AI工作流正在从模型能力变成可交付系统。PayPal出售谈判和微信小程序框架升级,也在提醒平台入口仍会换形态。我这次想盯住一件事:入口越靠近任务执行,信任和成本越不能含糊。 一起来看看这两天发生的AI和互联网赛...",
-      "source": "Woshipm",
-      "date": "2026-08-16",
-      "url": "https://www.woshipm.com/ai/6447944.html"
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-18",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml",
-      "title": "我的新疆日记·第五天|北庭与天山,在遗址与群山之间",
-      "summary": "这几天,我随人民网2026“行进中国”调研行前往新疆维吾尔自治区采访,以日记的形式,记录一路的所见所闻、所思所感。...",
+      "id": "https://www.bilibili.com/video/BV1kqbX6fEoK",
+      "title": "【B站】启境L3有条件自动驾驶，没有L3+",
+      "summary": "启境L3有条件自动驾驶，没有L3+...",
+      "source": "Bilibili",
+      "date": "2026-08-18",
+      "url": "https://www.bilibili.com/video/BV1kqbX6fEoK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
+      "title": "【B站】到底是自动驾驶还是自动送死？",
+      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
+      "source": "Bilibili",
+      "date": "2026-08-18",
+      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1S9b269EVd",
+      "title": "【B站】难以驾驭的野生轮胎，L3级自动驾驶！",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-08-18",
+      "url": "https://www.bilibili.com/video/BV1S9b269EVd"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Fdgp68EU1",
+      "title": "【B站】哎还是不够聪明啊？MG07智驾又说大实话！",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-18",
+      "url": "https://www.bilibili.com/video/BV1Fdgp68EU1"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873777311758548773",
+      "title": "2026成都车展|越野文化催生新机遇 新能源硬派车..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873777311758548773"
+    },
+    {
+      "id": "https://news.cri.cn/20260817/b7c26283-14a0-1a32-127d-3eff89b49f49.html",
+      "title": "外眼看新疆丨隧道里感受中国基建的民生温度-国际在线",
+      "summary": "天山网-新疆日报记者沈祖孝 8月12日,天山深处,巍峨的雪峰在阳光下熠熠生辉。当天,“海外高校教师看新疆”参访团一行来到天山胜利隧道地质展览馆,近距离感受这项“世界之最”超级工程背后的中...",
+      "source": "Cri_Cn",
+      "date": "2026-08-17",
+      "url": "https://news.cri.cn/20260817/b7c26283-14a0-1a32-127d-3eff89b49f49.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873766239052201761",
+      "title": "给AI“上班”提速降本!理想汽车或自研云端推理芯片..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873766239052201761"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873773287121975434",
+      "title": "平凡岗位显温情,青岛有轨电车司机常年暖心护送深夜滞..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873773287121975434"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/08-17/10679278.shtml",
+      "title": "三个醉驾案例告诉你:这些“小聪明”没用",
+      "summary": "“喝酒不开车,开车不喝酒”在当下已成为社会共识,但随着汽车驾驶越来越智能化,各类辅助驾驶功能层出不穷。于是,有些人出于侥幸或无知,在酒后启动辅助驾驶功能,企图将“智驾”当“代驾”,终酿车祸。...",
       "source": "Chinanews",
-      "date": "2026-08-16",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml"
+      "date": "2026-08-17",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679278.shtml"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260816-9524384",
-      "title": "新马跨境德士服务放宽后需求上升 每日往返趟次增加近两成",
-      "summary": "新马两国扩大跨境德士服务范围及调整收费措施已满三个月,乘客需求稳健上升。陆路交通管理局数据显示,新措施落实一个月后,每日载客跨境趟次增加近两成。...",
-      "source": "Zaobao",
-      "date": "2026-08-16",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260816-9524384"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873682879655465743",
-      "title": "京东旗下24小时智能化无人咖啡店落地北京;拼多多上..",
+      "id": "http://baijiahao.baidu.com/s?id=1873770107462146452",
+      "title": "铁塔矗立红土地 数字赋能新长征",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873682879655465743"
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873770107462146452"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873684671901592869",
-      "title": "法拉利首款纯电动跑车来了,全新法拉利Luce亮相长..",
+      "id": "http://baijiahao.baidu.com/s?id=1873770989388521755",
+      "title": "“火洲”极限试炼|北京越野接受70°C戈壁大考,夯实..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873684671901592869"
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873770989388521755"
     },
     {
-      "id": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
-      "title": "特稿|开放发展、可靠担当、魅力十足——国际人士眼里的中国",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-08-16",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-08-16/4543237.html",
-      "title": "京东旗下24小时智能化无人咖啡店落地北京;拼多多上线“最快明天达”|一周未来商业",
-      "summary": "| 2026年8月10日—8月16日 |#电商新零售NO.1 京东集团二季度收入3464亿元,归母净利润同比增长15.4%8月13日,京东集团发布2026年第二季度及上半年业绩。财报显示,第二季度,京...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-16",
-      "url": "https://www.nbd.com.cn/articles/2026-08-16/4543237.html"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3520155",
-      "title": "从扩权强县到强县扩权:湖南广东四川为县“松绑”,释放什么信号?",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-16",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3520155"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873676804610134867",
-      "title": "IPO周报:加特兰申报前20余家机构突击入股,每股..",
+      "id": "http://baijiahao.baidu.com/s?id=1873730692769872851",
+      "title": "整零协同 向“新”而行——西安商用车产业链半年报里..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873676804610134867"
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873730692769872851"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873669991388248434",
-      "title": "“中国赛道设计第一人”走进上海科技馆,上海科普大讲..",
-      "summary": "提到赛车,首先浮现在人们脑海中的是引擎轰鸣、极速冲刺的热血画面。F1赛车直道速度可达300km/h。如何保障这场速度盛宴的安全?8月15日,同济大学设计集团副总工程师姚启明教授来到上海科技馆,作为第245期上海科普大讲坛...",
-      "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873669991388248434"
+      "id": "https://www.bjnews.com.cn/detail/1786957574129870.html",
+      "title": "中国无人机灯光秀表演服务行业深度研究报告暨头部服务商行业分析",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-17",
+      "url": "https://www.bjnews.com.cn/detail/1786957574129870.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873412007095639516",
-      "title": "谁在制造驾校“退费难”",
+      "id": "http://baijiahao.baidu.com/s?id=1873768126957450863",
+      "title": "关注|以案说法(二):海洋生态“债”这样还",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873412007095639516"
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873768126957450863"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/08-16/10678749.shtml",
-      "title": "“我是廊坊推荐官”走进8大领域 解锁产业发展新动能",
-      "summary": "中新网廊坊8月16日电 8月14日至15日,由中共廊坊市委网信办组织开展的“我是廊坊推荐官”之行在河北廊坊举行。活动聚焦新材料、空港装备、智慧康养、数字档案、航空实训、柔性显示、高端医疗、文化科教八大领域,系统记录并展示廊坊现代化产业体系建设的阶段性成果。...",
-      "source": "Chinanews",
-      "date": "2026-08-16",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678749.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873645322991173501",
-      "title": "英伟达持仓股票曝光!位列SpaceX第六大股东,持..",
+      "id": "http://baijiahao.baidu.com/s?id=1873773661302061395",
+      "title": "三一无人驾驶矿卡首次出口南美",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873645322991173501"
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873773661302061395"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873630470828179030",
-      "title": "四大场景打造“机器人消费”新地标",
+      "id": "http://baijiahao.baidu.com/s?id=1873775207459833761",
+      "title": "种下一颗科技的种子!壹点公益带少年开启“数字”初遇",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873630470828179030"
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873775207459833761"
     },
     {
-      "id": "http://www.199it.com/archives/1845738.html",
-      "title": "2025年印度电动乘用车销量17.7万辆,同比增长77%",
-      "summary": "据报道,跨国车企正调整印度市场战略,福特亏损超二十亿美元退出,本田将整车平台外包。车企试图复刻中国经验,但印度缺乏成熟新能源产业链。2025年印度电动车销量17.7万辆,同比增长77%,渗透率4.0%,远低于中国超50%的水平。...",
-      "source": "A199It",
-      "date": "2026-08-16",
-      "url": "http://www.199it.com/archives/1845738.html"
+      "id": "http://baijiahao.baidu.com/s?id=1873775502113221282",
+      "title": "一家三口在云南昆明游玩,幼童呕吐弄脏网约车,家长被..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873775502113221282"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873773697469313176",
+      "title": "筑牢夏季滨海安全防线,奉贤公安为文旅保驾护航",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873773697469313176"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873774290464998117",
+      "title": "控制权或变更!002906,明起停牌",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873774290464998117"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873774609179036822",
+      "title": "控制权或变更!华阳集团,明起停牌",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873774609179036822"
+    },
+    {
+      "id": "https://www.ithome.com/0/990/813.htm",
+      "title": "华为乾崑智驾车位到车位累计使用次数突破 1 亿次",
+      "summary": "IT之家 8 月 17 日消息,华为乾崑智能汽车解决方案官方刚刚宣布, 华为乾崑智驾车位到车位累计使用次数突破 1 亿次 ,辅助泊车累计使用突破 10 亿次。 IT之家查询华为乾崑官网获悉, 乾崑智驾累计辅助驾驶里程截至目前已突破 141 亿公里 ,搭载乾崑智驾车辆累计行驶总里程也已突破 406 亿公里。 华为乾崑 7 月安全出行报告显示,乾崑智驾月度辅助驾驶里程已突破 10.6 亿公里、月度辅助...",
+      "source": "Ithome",
+      "date": "2026-08-17",
+      "url": "https://www.ithome.com/0/990/813.htm"
+    },
+    {
+      "id": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand",
+      "title": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
+      "summary": "Deutsche Bank raises its price target for Momenta while Pony.ai widens partnership with Uber to accelerate autonomous-vehicle roll-out in European cities....",
+      "source": "South China Morning Post",
+      "date": "2026-08-17",
+      "url": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand"
     },
     {
       "id": "https://www.scmp.com/lifestyle/motoring/article/3363916/self-driving-cars-china-can-park-change-lanes-and-drive-humans-next-stop-europe",
@@ -196,30 +258,6 @@
       "source": "Ars Technica",
       "date": "2026-08-08",
       "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
-    },
-    {
-      "id": "https://in.mashable.com/tech/112593/uber-reportedly-plans-10-billion-robotaxi-expansion-raising-questions-about-driver-jobs",
-      "title": "Uber Reportedly Plans USD 10 Billion Robotaxi Expansion, Raising Questions About Driver Jobs",
-      "summary": "Uber is set to spend over $10 billion (roughly Rs 95,000 crore) to deploy 1.2 lakh self-driving cabs as it ramps up its autonomous mobility strategy....",
-      "source": "Mashable India",
-      "date": "2026-08-07",
-      "url": "https://in.mashable.com/tech/112593/uber-reportedly-plans-10-billion-robotaxi-expansion-raising-questions-about-driver-jobs"
-    },
-    {
-      "id": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/waymo-ceo-says-camera-only-self-driving-systems-cant-support-fully-autonomous-driving-systems-and-after-testing-multiple-robotaxis-i-have-to-agree",
-      "title": "Waymo CEO says camera-only self-driving systems can’t support fully autonomous driving systems, and after testing multiple robotaxis, I have to agree",
-      "summary": "Waymo co-CEO Dmitri Dolgov laid out reasons why Lidar and radar are required...",
-      "source": "TechRadar",
-      "date": "2026-08-06",
-      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/waymo-ceo-says-camera-only-self-driving-systems-cant-support-fully-autonomous-driving-systems-and-after-testing-multiple-robotaxis-i-have-to-agree"
-    },
-    {
-      "id": "https://www.forbes.com/sites/technology/article/self-driving-cars/",
-      "title": "The Technology Behind Self",
-      "summary": "What exactly is a self-driving car? Learn how autonomous vehicles work, the technology behind them, and where the industry is headed....",
-      "source": "Forbes",
-      "date": "2026-08-06",
-      "url": "https://www.forbes.com/sites/technology/article/self-driving-cars/"
     }
   ]
 }
