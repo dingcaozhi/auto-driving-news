@@ -1,138 +1,260 @@
 {
-  "lastUpdated": "2026-08-19 01:41:43",
-  "totalCount": 24,
+  "lastUpdated": "2026-08-20 01:40:22",
+  "totalCount": 36,
   "sources": {
-    "Rfi_Fr": 1,
-    "Ithome": 2,
-    "Zaobao": 1,
-    "News_Baidu": 5,
-    "Fx168News": 1,
-    "Woshipm": 1,
-    "Nbd_Cn": 1,
-    "A199It": 1,
+    "Bilibili": 5,
+    "Bjnews": 2,
+    "Nbd_Cn": 4,
+    "Chinanews": 2,
+    "Investing_Cn": 1,
+    "News_Baidu": 7,
     "Eeo": 1,
+    "Zaobao": 1,
+    "Jiemian": 1,
+    "Ithome": 1,
+    "A199It": 1,
+    "NewsX": 1,
+    "CNA": 1,
+    "Devdiscourse": 1,
     "TNW": 1,
     "NewsBreak": 1,
     "South China Morning Post": 2,
     "International Business Times": 1,
     "Euronews": 1,
-    "The Manila Times": 1,
-    "PR Newswire UK": 1,
-    "TechBullion": 1,
-    "Ars Technica": 1
+    "The Manila Times": 1
   },
   "news": [
     {
-      "id": "https://www.rfi.fr/cn/%E6%B3%95%E5%85%B0%E8%A5%BF%E7%9A%84%E9%AA%84%E5%82%B2-%E7%B4%A2%E8%8F%B2%C2%B7%E9%98%BF%E5%BE%B7%E8%AF%BA%E6%88%90%E4%B8%BA%E6%B3%95%E5%9B%BD%E9%A6%96%E4%BD%8D-%E6%BC%AB%E6%AD%A5%E5%A4%AA%E7%A9%BA-%E7%9A%84%E5%A5%B3%E5%AE%87%E8%88%AA%E5%91%98",
-      "title": "“法兰西的骄傲”:索菲·阿德诺成为法国首位“漫步太空”的女宇航员",
-      "summary": "8月18日,法国媒体聚焦宇航员索菲·阿德诺(Sophie Adenot),这位自今年二月起就在国际空间站执行任务的法国女宇航员,将与美国宇航员阿尼尔·梅农一起,走出空间站,共同完成一项约6个半小时的舱外任务,而44岁的阿德诺也将成为法国首个太空出舱活动的女性宇航员,总统马克龙今天称她是“法兰西的骄傲”。...",
-      "source": "Rfi_Fr",
-      "date": "2026-08-18",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%85%B0%E8%A5%BF%E7%9A%84%E9%AA%84%E5%82%B2-%E7%B4%A2%E8%8F%B2%C2%B7%E9%98%BF%E5%BE%B7%E8%AF%BA%E6%88%90%E4%B8%BA%E6%B3%95%E5%9B%BD%E9%A6%96%E4%BD%8D-%E6%BC%AB%E6%AD%A5%E5%A4%AA%E7%A9%BA-%E7%9A%84%E5%A5%B3%E5%AE%87%E8%88%AA%E5%91%98"
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-20",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://www.ithome.com/0/991/331.htm",
-      "title": "丰田 GR GT 超跑美国配额已售罄,公开订购前就被抢空",
-      "summary": "IT之家 8 月 18 日消息,据汽车媒体 CarCoops 今天报道,丰田近日确认,所有计划销往美国的 GR GT 超跑已经名花有主。 IT之家从原报道获悉,丰田此次在美国市场投放大约 200-250 辆 GR GT,这些车辆已在公开订购前全部售出。 丰田汽车运营高级副总裁 Andrew Gilleland 对此表示:“我们的产量不会满足市场需求,这是刻意而为之。丰田章男希望打造出一款世界级高性...",
-      "source": "Ithome",
-      "date": "2026-08-18",
-      "url": "https://www.ithome.com/0/991/331.htm"
+      "id": "https://www.bilibili.com/video/BV1n48E6aER3",
+      "title": "【B站】自动驾驶时代要来了？全球首个强制国标发布！",
+      "summary": "工信部发布针对L3/L4级自动驾驶的全球首个强制国标，今天我们就来聊聊这里面到底要求了些什么。...",
+      "source": "Bilibili",
+      "date": "2026-08-20",
+      "url": "https://www.bilibili.com/video/BV1n48E6aER3"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/world/story20260818-9539057",
-      "title": "美机构:中国将数据视为战略资产 AI竞赛或占优势",
-      "summary": "美国国会一个咨询机构说,中国正将数据作为一种战略国家资产进行商业化和货币化,以推动人工智能(AI)及科技发展,这可能让中国在AI竞赛中取得领先于美国的优势。...",
-      "source": "Zaobao",
-      "date": "2026-08-18",
-      "url": "https://www.zaobao.com.sg/news/world/story20260818-9539057"
+      "id": "https://www.bilibili.com/video/BV1v9gA6FEbk",
+      "title": "【B站】全自动驾驶 今后可以边喝咖啡边玩欧卡了哈哈",
+      "summary": "研究好几个小时…….....",
+      "source": "Bilibili",
+      "date": "2026-08-20",
+      "url": "https://www.bilibili.com/video/BV1v9gA6FEbk"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873863725718448341",
-      "title": "涨超 1091%!3000亿元存储龙头兆易创新上半..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-18",
-      "url": "http://baijiahao.baidu.com/s?id=1873863725718448341"
+      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
+      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
+      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
+      "source": "Bilibili",
+      "date": "2026-08-20",
+      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873860515797935262",
-      "title": "打开后备箱,里面竟坐着4名成年人!这辆车让民警都倒..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-18",
-      "url": "http://baijiahao.baidu.com/s?id=1873860515797935262"
+      "id": "https://www.bilibili.com/video/BV18zgV6JEWi",
+      "title": "【B站】特斯拉拿下L4认证，人类第一辆真无人驾驶！",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-20",
+      "url": "https://www.bilibili.com/video/BV18zgV6JEWi"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873862812169458538",
-      "title": "三个月拒载率降一半!上海治理出租车乱象“有新招”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-18",
-      "url": "http://baijiahao.baidu.com/s?id=1873862812169458538"
+      "id": "https://www.bjnews.com.cn/detail/1787126272129237.html",
+      "title": "吉利上半年营收超1700亿元,全域AI转型破内卷难题",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-19",
+      "url": "https://www.bjnews.com.cn/detail/1787126272129237.html"
     },
     {
-      "id": "https://www.fx168news.com/article/1077508",
-      "title": "提质增效!京东安联2026上半年连续两季度承保盈利 业务结构持续优化-FX168",
-      "summary": "近日,京东安联保险发布2026年上半年经营数据。上半年,公司实现保险保费收入36.4亿元,综合成本率降至98.8%,同比改善1.9个百分点,连续两个季度实现承保盈利,经营质量持续提升。公司业务结构也得到进一步优化,健康险和意外险保费同比增长明显,科技赋能和风险减...",
-      "source": "Fx168News",
-      "date": "2026-08-18",
-      "url": "https://www.fx168news.com/article/1077508"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873861115246226550",
-      "title": "人形机器人怎样从样机奔赴实景落地?记者实地探访解密..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-18",
-      "url": "http://baijiahao.baidu.com/s?id=1873861115246226550"
-    },
-    {
-      "id": "https://www.woshipm.com/ai/6450443.html",
-      "title": "实测DeepSeek-V4-Pro:强于逻辑闭环,弱于视觉与交互",
-      "summary": "在大模型的牌桌上,DeepSeek 一直是个挺特别的存在:价格还不到美国闭源旗舰的零头,靠着极致的稀疏架构,把前沿能力的使用成本压到了地板上。 面对规则复杂、验收标准明确的真实工程任务,它能不能直接交出一个能运行、能交互、能播放的成果?这次,我们让 DeepSeek-V4-Pro 和 Kimi K3、Qwen3.8-Max 站在同一个擂台上,跑完全相同的五道硬核场景题。 五个真实工程任务实测 判断...",
-      "source": "Woshipm",
-      "date": "2026-08-18",
-      "url": "https://www.woshipm.com/ai/6450443.html"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-08-18/4545484.html",
-      "title": "涨超 1091%!3000亿元存储龙头兆易创新上半年净利大爆发,大佬葛卫东二季度加仓超18万股",
-      "summary": "8月18日晚间,兆易创新(SH603986,股价436.74元,市值3068.53亿元)发布2026年半年度报告。财报显示,上半年公司实现营业收入115.66亿元,同比增长178.67%;归属于上市公...",
+      "id": "https://www.nbd.com.cn/articles/2026-08-19/4546712.html",
+      "title": "“成都智造”突围:本地整车企业重塑西南新能源汽车供应体系 | 智造蓉城・链启西南2",
+      "summary": "2026年,成都汽车产业集群再掀发展热潮。 “成都造”新能源汽车迎来产品“大年”,奕境X9、捷达M6纯电产品、领克全新混动车型均实现本地工厂下线,并将陆续上市。整车企业扎根在成都布局智造基地,牵引上下...",
       "source": "Nbd_Cn",
-      "date": "2026-08-18",
-      "url": "https://www.nbd.com.cn/articles/2026-08-18/4545484.html"
+      "date": "2026-08-19",
+      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546712.html"
     },
     {
-      "id": "https://www.ithome.com/0/991/316.htm",
-      "title": "全球首款 Prof. Jimmy Choo 联名车:全新一代智己 L6 都市高定轿跑发布,预售权益价 21.99 万元起",
-      "summary": "IT之家 8 月 18 日消息,全球首款 Prof. Jimmy Choo 联名车 —— 全新一代智己 L6 今晚正式发布。新车定位“都市高定轿跑”, 全系预售权益价 21.99 万元起 。 全新一代智己 L6 各版本价格如下: Prof. Jimmy Choo 高定限定版(76kWh):23.49 万元; Prof. Jimmy Choo 高定限定版(93kWh):24.99 万元; Max 版...",
-      "source": "Ithome",
-      "date": "2026-08-18",
-      "url": "https://www.ithome.com/0/991/316.htm"
+      "id": "https://www.chinanews.com.cn/gn/2026/08-19/10680648.shtml",
+      "title": "【新思想引领新征程】建设更高水平自贸试验区 打造改革开放新高地",
+      "summary": "央视网消息(新闻联播):建设自由贸易试验区是党中央在新时代推进改革开放的重要战略举措。习近平总书记指出,要深入推进制度型开放,加强改革整体谋划和系统集成,推动全产业链创新发展,让自贸试验区更好发挥示范作用。落实总书记要求,我国23个自贸试验区以高水平开放为引领、以制度创新为核心,加快打造新时代改革开放新高地。...",
+      "source": "Chinanews",
+      "date": "2026-08-19",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680648.shtml"
     },
     {
-      "id": "http://www.199it.com/archives/1846270.html",
-      "title": "CNBC&世代实验室:18-34岁年轻人对科技高管AI责任感信任度最高仅35%",
-      "summary": "CNBC与世代实验室民调显示,18-34岁年轻人普遍不信任科技高管AI责任感。九位高管中,微软CEO纳德拉信任度最高,仅35%;Palantir CEO卡普最低,仅19%。45%受访者认为AI将对其职业产生负面影响,60%呼吁放缓数据中心扩张。...",
-      "source": "A199It",
-      "date": "2026-08-18",
-      "url": "http://www.199it.com/archives/1846270.html"
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3525833",
+      "title": "Samsara推出面向车队运营商的燃油管理平台",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-19",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3525833"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873862412055504665",
-      "title": "助行康复设备、陪聊机器人......高科技让养老生活更美好",
-      "summary": "近日,记者来到徐汇区华泾镇孝民路109号的乐龄汇养老院,探访数字化赋能养老服务的实践和成效。据了解,该养老院积极探索“AI+养老”的创新模式,构建了“智慧入住管理”“智慧餐饮管理”“智慧健康管理”“智慧生活照护”“智慧安...",
+      "id": "http://baijiahao.baidu.com/s?id=1873923368321006460",
+      "title": "中国联通山东省分公司举办2026年国企开放日系列活..",
+      "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-18",
-      "url": "http://baijiahao.baidu.com/s?id=1873862412055504665"
+      "date": "2026-08-19",
+      "url": "http://baijiahao.baidu.com/s?id=1873923368321006460"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0818/1002997.shtml",
-      "title": "V观财报|百度二季度净利润同比降68%,GPU云收入猛增283%,正推进香港双重主要上市转换工作",
-      "summary": "中新经纬8月18日电 18日下午,百度公布2026年第二季度业绩称,收入为人民币313亿元(46.2亿美元),环比减少2%及同比减少4%。 百度一般性业务收入为人民币252亿元(37.1亿美元),环比减少3%及同比减少4%。爱奇艺收入为人民币63亿元(9.27亿美元),环比增长1%及同比减少5%。 百度港股公告截......",
+      "id": "http://baijiahao.baidu.com/s?id=1873942920899632564",
+      "title": "上海民声|智绘上海·聚邻力:打通快递“最后一米”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-19",
+      "url": "http://baijiahao.baidu.com/s?id=1873942920899632564"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873947780860234659",
+      "title": "狂飙之后展现狂野,F1之后布拉德·皮特首部大片《野..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-19",
+      "url": "http://baijiahao.baidu.com/s?id=1873947780860234659"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0819/1004257.shtml",
+      "title": "覆盖5万到50万元价格带 北汽新能源为“扭亏”冲刺",
+      "summary": "NewsData报道",
       "source": "Eeo",
+      "date": "2026-08-19",
+      "url": "http://www.eeo.com.cn/2026/0819/1004257.shtml"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260819-9542261",
+      "title": "31人涉酒驾 星期四将面控",
+      "summary": "NewsData报道",
+      "source": "Zaobao",
+      "date": "2026-08-19",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260819-9542261"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-08-19/4546677.html",
+      "title": "赛力斯上半年营收574.93亿元 上游原材料价格上涨影响利润表现",
+      "summary": "8月19日,赛力斯集团发布2026年半年度报告显示,今年上半年,赛力斯营业收入约574.93亿元,同比下滑7.87%。图片来源:赛力斯公告对于上半年营业收入减少的原因,赛力斯方面解释称,主要系产品销售...",
+      "source": "Nbd_Cn",
+      "date": "2026-08-19",
+      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546677.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873950516533661644",
+      "title": "守好“出山班列”第一棒",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-19",
+      "url": "http://baijiahao.baidu.com/s?id=1873950516533661644"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14939082.html",
+      "title": "为什么你逛商场看到的新车越来越相似?",
+      "summary": "市场竞争降低了企业承担创新风险的意愿,平台和供应链提高了对标开发的速度,经营要求又推动汽车公司以更少投入、更短周期不断投放新品。...",
+      "source": "Jiemian",
+      "date": "2026-08-19",
+      "url": "https://www.jiemian.com/article/14939082.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873941644854955191",
+      "title": "“Robotaxi双子星”上半年增收不增利,文远知..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-19",
+      "url": "http://baijiahao.baidu.com/s?id=1873941644854955191"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/08-19/10680568.shtml",
+      "title": "重庆今年以来办理“免申即领”建设用地规划许可证332个",
+      "summary": "中新网重庆8月19日电 (张旭)重庆市规划和自然资源局19日发布消息称,该市持续推进建设用地规划许可“免申即领”改革,2026年以来,通过“免申即领”模式累计办理332个建设用地规划许可证。...",
+      "source": "Chinanews",
+      "date": "2026-08-19",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680568.shtml"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1787134194129437.html",
+      "title": "六安角膜薄、超高度近视ICL怎么选?官方培训资质是硬指标",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-19",
+      "url": "https://www.bjnews.com.cn/detail/1787134194129437.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873938563244166686",
+      "title": "哈萨克斯坦骑乘电动滑板车新规将生效 中国驻哈使领馆..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-19",
+      "url": "http://baijiahao.baidu.com/s?id=1873938563244166686"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873945472849768012",
+      "title": "一辆快递无人车的旅程→",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-19",
+      "url": "http://baijiahao.baidu.com/s?id=1873945472849768012"
+    },
+    {
+      "id": "https://www.ithome.com/0/991/837.htm",
+      "title": "全新捷途山海 L7 PLUS 上市:顶配搭载激光雷达,超级置换价 10.99 万-15.99 万元",
+      "summary": "IT之家 8 月 19 日消息,全新捷途山海 L7 PLUS 今天(19 日)晚间正式上市,新车提供 1.5L C-DM 经济型、1.5TD C-DM 性能型两种动力共 6 种配置,官方指导价 11.99 万-16.99 万元,超级置换价 10.99-15.99 万元。 1.5L C-DM 经济型 220km 五座启航版:官方指导价 11.99 万元,超级置换价 10.99 万元 220km 五座...",
+      "source": "Ithome",
+      "date": "2026-08-19",
+      "url": "https://www.ithome.com/0/991/837.htm"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-08-19/4546752.html",
+      "title": "华为、宁德时代加持!广汽埃安新车系首款产品Ray 7亮相,欲再度弱化“网约车标签”?",
+      "summary": "8月19日,广汽埃安旗下全新独立车系“Ray”正式发布,首款车型Ray 7同步亮相。广汽集团昊铂埃安BU总裁张雄透露,未来Ray车系将覆盖轿车、轿跑、SUV等多个品类。作为埃安进入第十年节点推出的首款...",
+      "source": "Nbd_Cn",
+      "date": "2026-08-19",
+      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546752.html"
+    },
+    {
+      "id": "http://www.199it.com/archives/1846414.html",
+      "title": "小马智行:2026年Q2总营收2.46亿元,同比增长68.8%",
+      "summary": "小马智行2026年Q2财报显示,总营收2.46亿元,同比增长68.8%。Robotaxi收入同比增长691.2%,环比增长40.9%,营收占比升至三分之一;上半年Robotaxi收入1.40亿元,超2025年全年。...",
+      "source": "A199It",
+      "date": "2026-08-19",
+      "url": "http://www.199it.com/archives/1846414.html"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-08-19/4546439.html",
+      "title": "透视头部Robotaxi企业二季报:收入、毛利双增长,文远知行瞄准2029年整体盈亏平衡;小马智行称“至少4万至5万辆Robotaxi规模”方可自由现金流转正",
+      "summary": "透视头部Robotaxi企业二季报:收入、毛利双增长,文远知行瞄准2029年整体盈亏平衡;小马智行称“至少4万至5万辆Robotaxi规模”方可自由现金流转正...",
+      "source": "Nbd_Cn",
+      "date": "2026-08-19",
+      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546439.html"
+    },
+    {
+      "id": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/",
+      "title": "5 Things AI Can Do In 2026 That Sound Like Science Fiction",
+      "summary": "From humanoid robots and autonomous AI agents to multimodal systems, self-driving technology and AI that checks its own work, these five breakthroughs show how science fiction is becoming reality in 2...",
+      "source": "NewsX",
+      "date": "2026-08-19",
+      "url": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/"
+    },
+    {
+      "id": "https://www.channelnewsasia.com/singapore/polytechnics-autonomous-transport-vehicles-training-6328186",
+      "title": "Polytechnics step up autonomous mobility training as industry needs evolve",
+      "summary": "From longer internships to training in driver-assistance systems, polytechnics in Singapore are strengthening their curriculum to prepare students for a future with self-driving vehicles....",
+      "source": "CNA",
+      "date": "2026-08-19",
+      "url": "https://www.channelnewsasia.com/singapore/polytechnics-autonomous-transport-vehicles-training-6328186"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3964906-from-black-box-to-accountability-why-explainable-ai-could-make-or-break-autonomous-driving",
+      "title": "From Black Box to Accountability: Why Explainable AI Could Make or Break Autonomous Driving",
+      "summary": "Read more about From Black Box to Accountability: Why Explainable AI Could Make or Break Autonomous Driving on Devdiscourse...",
+      "source": "Devdiscourse",
       "date": "2026-08-18",
-      "url": "http://www.eeo.com.cn/2026/0818/1002997.shtml"
+      "url": "https://www.devdiscourse.com/article/technology/3964906-from-black-box-to-accountability-why-explainable-ai-could-make-or-break-autonomous-driving"
     },
     {
       "id": "https://thenextweb.com/news/california-autonomous-truck-permits-aurora-kodiak-teamsters",
@@ -141,78 +263,6 @@
       "source": "TNW",
       "date": "2026-08-17",
       "url": "https://thenextweb.com/news/california-autonomous-truck-permits-aurora-kodiak-teamsters"
-    },
-    {
-      "id": "https://www.newsbreak.com/business-insider-562169/4833754587610-first-came-self-driving-cars-now-waymo-veterans-are-building-autonomous-construction-equipment",
-      "title": "driving cars. Now, Waymo veterans are building autonomous construction equipment.",
-      "summary": "Bedrock Robotics said its excavators equipped with its autonomous AI system are working without human operators on three sites in Texas and Nevada....",
-      "source": "NewsBreak",
-      "date": "2026-08-17",
-      "url": "https://www.newsbreak.com/business-insider-562169/4833754587610-first-came-self-driving-cars-now-waymo-veterans-are-building-autonomous-construction-equipment"
-    },
-    {
-      "id": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand",
-      "title": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
-      "summary": "Deutsche Bank raises its price target for Momenta while Pony.ai widens partnership with Uber to accelerate autonomous-vehicle roll-out in European cities....",
-      "source": "South China Morning Post",
-      "date": "2026-08-17",
-      "url": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand"
-    },
-    {
-      "id": "https://www.scmp.com/lifestyle/motoring/article/3363916/self-driving-cars-china-can-park-change-lanes-and-drive-humans-next-stop-europe",
-      "title": "Self-driving cars in China can park, change lanes and drive like humans. Next stop: Europe",
-      "summary": "Autonomous cars in China can navigate chaotic city traffic with human-like precision, even parking themselves when the occupants have gone....",
-      "source": "South China Morning Post",
-      "date": "2026-08-15",
-      "url": "https://www.scmp.com/lifestyle/motoring/article/3363916/self-driving-cars-china-can-park-change-lanes-and-drive-humans-next-stop-europe"
-    },
-    {
-      "id": "https://www.ibtimes.com/uber-bringing-thousands-chinese-robotaxis-europe-its-driverless-push-gets-bigger-3806411",
-      "title": "Uber Is Bringing Thousands Of Chinese Robotaxis To Europe As Its Driverless Push Gets Bigger",
-      "summary": "The expansion follows the March launch of a commercial robotaxi service in Zagreb involving Uber, Pony.ai and Croatian autonomous-driving company Verne....",
-      "source": "International Business Times",
-      "date": "2026-08-14",
-      "url": "https://www.ibtimes.com/uber-bringing-thousands-chinese-robotaxis-europe-its-driverless-push-gets-bigger-3806411"
-    },
-    {
-      "id": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
-      "title": "Uber and China’s Pony AI to launch over 2,000 robotaxis across Europe",
-      "summary": "The expanded partnership with blend a mobility platform, fleet management capacity and autonomous driving technology....",
-      "source": "Euronews",
-      "date": "2026-08-14",
-      "url": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program-to-open-source-ai-chip-designs-for-autonomous-driving/2405491",
-      "title": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving",
-      "summary": "**media[1176768]**TOKYO, Aug. 14, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has joined the Next-Generation Edge AI Semiconductor Research a...",
-      "source": "The Manila Times",
-      "date": "2026-08-14",
-      "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program-to-open-source-ai-chip-designs-for-autonomous-driving/2405491"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/ponyai-and-uber-expand-partnership-to-deploy-over-2-000-robotaxis-in-europe-302850985.html",
-      "title": "Pony.ai and Uber Expand Partnership to Deploy Over 2,000 Robotaxis in Europe",
-      "summary": "/PRNewswire/ -- Pony AI Inc. (\"Pony.ai\") (NASDAQ: PONY; HKEX: 2026), a global leader in the large-scale commercialization of autonomous driving technology, and......",
-      "source": "PR Newswire UK",
-      "date": "2026-08-14",
-      "url": "https://www.prnewswire.co.uk/news-releases/ponyai-and-uber-expand-partnership-to-deploy-over-2-000-robotaxis-in-europe-302850985.html"
-    },
-    {
-      "id": "https://techbullion.com/the-best-data-annotation-providers-for-autonomous-driving/",
-      "title": "The Best Data Annotation Providers for Autonomous Driving",
-      "summary": "The main challenge in autonomous driving today is the transition to the concept of \"embodied AI\" and the implementation of complex sensor fusion....",
-      "source": "TechBullion",
-      "date": "2026-08-11",
-      "url": "https://techbullion.com/the-best-data-annotation-providers-for-autonomous-driving/"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous....",
-      "source": "Ars Technica",
-      "date": "2026-08-08",
-      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
     }
   ]
 }
