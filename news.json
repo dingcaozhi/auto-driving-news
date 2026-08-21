@@ -1,236 +1,161 @@
 {
-  "lastUpdated": "2026-08-20 01:40:22",
-  "totalCount": 36,
+  "lastUpdated": "2026-08-21 01:45:22",
+  "totalCount": 25,
   "sources": {
-    "Bilibili": 5,
-    "Bjnews": 2,
-    "Nbd_Cn": 4,
-    "Chinanews": 2,
-    "Investing_Cn": 1,
+    "Nbd_Cn": 1,
+    "Bjnews": 1,
     "News_Baidu": 7,
-    "Eeo": 1,
-    "Zaobao": 1,
-    "Jiemian": 1,
     "Ithome": 1,
-    "A199It": 1,
+    "Cnblogs": 1,
+    "News_Seehua": 1,
+    "Fx168News": 1,
+    "Smzdm": 2,
+    "The Star": 1,
+    "Ventura County Star": 1,
     "NewsX": 1,
     "CNA": 1,
     "Devdiscourse": 1,
     "TNW": 1,
     "NewsBreak": 1,
     "South China Morning Post": 2,
-    "International Business Times": 1,
-    "Euronews": 1,
-    "The Manila Times": 1
+    "International Business Times": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.nbd.com.cn/articles/2026-08-20/4548412.html",
+      "title": "不做本体、不卖数据,这家智驾仿真市占率超50%的厂商跨界做具身智能,能否吸引竞品买单?",
+      "summary": "“当前市场对具身智能、对物理AI的期望过高,无论一级市场,还是二级市场的企业,都在‘卷’如何在行业震动中还能站在‘船’上。”日前,“国内Physical AI第一股”五一视界(HK06651,股价61...",
+      "source": "Nbd_Cn",
       "date": "2026-08-20",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+      "url": "https://www.nbd.com.cn/articles/2026-08-20/4548412.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1n48E6aER3",
-      "title": "【B站】自动驾驶时代要来了？全球首个强制国标发布！",
-      "summary": "工信部发布针对L3/L4级自动驾驶的全球首个强制国标，今天我们就来聊聊这里面到底要求了些什么。...",
-      "source": "Bilibili",
-      "date": "2026-08-20",
-      "url": "https://www.bilibili.com/video/BV1n48E6aER3"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1v9gA6FEbk",
-      "title": "【B站】全自动驾驶 今后可以边喝咖啡边玩欧卡了哈哈",
-      "summary": "研究好几个小时…….....",
-      "source": "Bilibili",
-      "date": "2026-08-20",
-      "url": "https://www.bilibili.com/video/BV1v9gA6FEbk"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
-      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
-      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
-      "source": "Bilibili",
-      "date": "2026-08-20",
-      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV18zgV6JEWi",
-      "title": "【B站】特斯拉拿下L4认证，人类第一辆真无人驾驶！",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-20",
-      "url": "https://www.bilibili.com/video/BV18zgV6JEWi"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1787126272129237.html",
-      "title": "吉利上半年营收超1700亿元,全域AI转型破内卷难题",
+      "id": "https://www.bjnews.com.cn/detail/1787232126129373.html",
+      "title": "无人车进入“主机厂时间”,新吉奥汽车们为何成为稀缺资源?",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-19",
-      "url": "https://www.bjnews.com.cn/detail/1787126272129237.html"
+      "date": "2026-08-20",
+      "url": "https://www.bjnews.com.cn/detail/1787232126129373.html"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-19/4546712.html",
-      "title": "“成都智造”突围:本地整车企业重塑西南新能源汽车供应体系 | 智造蓉城・链启西南2",
-      "summary": "2026年,成都汽车产业集群再掀发展热潮。 “成都造”新能源汽车迎来产品“大年”,奕境X9、捷达M6纯电产品、领克全新混动车型均实现本地工厂下线,并将陆续上市。整车企业扎根在成都布局智造基地,牵引上下...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-19",
-      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546712.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-19/10680648.shtml",
-      "title": "【新思想引领新征程】建设更高水平自贸试验区 打造改革开放新高地",
-      "summary": "央视网消息(新闻联播):建设自由贸易试验区是党中央在新时代推进改革开放的重要战略举措。习近平总书记指出,要深入推进制度型开放,加强改革整体谋划和系统集成,推动全产业链创新发展,让自贸试验区更好发挥示范作用。落实总书记要求,我国23个自贸试验区以高水平开放为引领、以制度创新为核心,加快打造新时代改革开放新高地。...",
-      "source": "Chinanews",
-      "date": "2026-08-19",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680648.shtml"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3525833",
-      "title": "Samsara推出面向车队运营商的燃油管理平台",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-19",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3525833"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873923368321006460",
-      "title": "中国联通山东省分公司举办2026年国企开放日系列活..",
+      "id": "http://baijiahao.baidu.com/s?id=1874045892072806821",
+      "title": "对话慧仑科技张爱民:车企入局人形机器人,不能简单照..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-19",
-      "url": "http://baijiahao.baidu.com/s?id=1873923368321006460"
+      "date": "2026-08-20",
+      "url": "http://baijiahao.baidu.com/s?id=1874045892072806821"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873942920899632564",
-      "title": "上海民声|智绘上海·聚邻力:打通快递“最后一米”",
+      "id": "http://baijiahao.baidu.com/s?id=1874047279738105828",
+      "title": "暴走2万步实探“2026世界机器人大会”:车企跨界..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-19",
-      "url": "http://baijiahao.baidu.com/s?id=1873942920899632564"
+      "date": "2026-08-20",
+      "url": "http://baijiahao.baidu.com/s?id=1874047279738105828"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873947780860234659",
-      "title": "狂飙之后展现狂野,F1之后布拉德·皮特首部大片《野..",
+      "id": "http://baijiahao.baidu.com/s?id=1874047405507070239",
+      "title": "晚AI大众|神舟二十一号乘组获航天功勋奖章;四六级..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-19",
-      "url": "http://baijiahao.baidu.com/s?id=1873947780860234659"
+      "date": "2026-08-20",
+      "url": "http://baijiahao.baidu.com/s?id=1874047405507070239"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0819/1004257.shtml",
-      "title": "覆盖5万到50万元价格带 北汽新能源为“扭亏”冲刺",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-08-19",
-      "url": "http://www.eeo.com.cn/2026/0819/1004257.shtml"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260819-9542261",
-      "title": "31人涉酒驾 星期四将面控",
-      "summary": "NewsData报道",
-      "source": "Zaobao",
-      "date": "2026-08-19",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260819-9542261"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-08-19/4546677.html",
-      "title": "赛力斯上半年营收574.93亿元 上游原材料价格上涨影响利润表现",
-      "summary": "8月19日,赛力斯集团发布2026年半年度报告显示,今年上半年,赛力斯营业收入约574.93亿元,同比下滑7.87%。图片来源:赛力斯公告对于上半年营业收入减少的原因,赛力斯方面解释称,主要系产品销售...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-19",
-      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546677.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873950516533661644",
-      "title": "守好“出山班列”第一棒",
+      "id": "http://baijiahao.baidu.com/s?id=1874047184053052157",
+      "title": "视频丨“你快点走!”司机高速隧道口违规停车,交警嘶..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-19",
-      "url": "http://baijiahao.baidu.com/s?id=1873950516533661644"
+      "date": "2026-08-20",
+      "url": "http://baijiahao.baidu.com/s?id=1874047184053052157"
     },
     {
-      "id": "https://www.jiemian.com/article/14939082.html",
-      "title": "为什么你逛商场看到的新车越来越相似?",
-      "summary": "市场竞争降低了企业承担创新风险的意愿,平台和供应链提高了对标开发的速度,经营要求又推动汽车公司以更少投入、更短周期不断投放新品。...",
-      "source": "Jiemian",
-      "date": "2026-08-19",
-      "url": "https://www.jiemian.com/article/14939082.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873941644854955191",
-      "title": "“Robotaxi双子星”上半年增收不增利,文远知..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-19",
-      "url": "http://baijiahao.baidu.com/s?id=1873941644854955191"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/08-19/10680568.shtml",
-      "title": "重庆今年以来办理“免申即领”建设用地规划许可证332个",
-      "summary": "中新网重庆8月19日电 (张旭)重庆市规划和自然资源局19日发布消息称,该市持续推进建设用地规划许可“免申即领”改革,2026年以来,通过“免申即领”模式累计办理332个建设用地规划许可证。...",
-      "source": "Chinanews",
-      "date": "2026-08-19",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680568.shtml"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1787134194129437.html",
-      "title": "六安角膜薄、超高度近视ICL怎么选?官方培训资质是硬指标",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-19",
-      "url": "https://www.bjnews.com.cn/detail/1787134194129437.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873938563244166686",
-      "title": "哈萨克斯坦骑乘电动滑板车新规将生效 中国驻哈使领馆..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-19",
-      "url": "http://baijiahao.baidu.com/s?id=1873938563244166686"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873945472849768012",
-      "title": "一辆快递无人车的旅程→",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-19",
-      "url": "http://baijiahao.baidu.com/s?id=1873945472849768012"
-    },
-    {
-      "id": "https://www.ithome.com/0/991/837.htm",
-      "title": "全新捷途山海 L7 PLUS 上市:顶配搭载激光雷达,超级置换价 10.99 万-15.99 万元",
-      "summary": "IT之家 8 月 19 日消息,全新捷途山海 L7 PLUS 今天(19 日)晚间正式上市,新车提供 1.5L C-DM 经济型、1.5TD C-DM 性能型两种动力共 6 种配置,官方指导价 11.99 万-16.99 万元,超级置换价 10.99-15.99 万元。 1.5L C-DM 经济型 220km 五座启航版:官方指导价 11.99 万元,超级置换价 10.99 万元 220km 五座...",
+      "id": "https://www.ithome.com/0/992/356.htm",
+      "title": "小鹏辟谣:近日网传我司部分车型辅助驾驶研发进度,相关信息为不实消息",
+      "summary": "IT之家 8 月 20 日消息,小鹏集团官方微博 @小鹏辟谣 今日发文,称网传公司部分车型辅助驾驶研发进度,相关信息为不实消息,第二代 VLA 蒸馏上车工作正按计划有序推进。 近日网传我司部分车型辅助驾驶研发进度, 相关信息为不实消息 。目前, 第二代 VLA 蒸馏上车工作正按计划有序推进 。后续如有最新进展,我司将第一时间通过官方渠道同步。 据IT之家此前报道, 在 3 月 2 日下午,小鹏第二...",
       "source": "Ithome",
-      "date": "2026-08-19",
-      "url": "https://www.ithome.com/0/991/837.htm"
+      "date": "2026-08-20",
+      "url": "https://www.ithome.com/0/992/356.htm"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-19/4546752.html",
-      "title": "华为、宁德时代加持!广汽埃安新车系首款产品Ray 7亮相,欲再度弱化“网约车标签”?",
-      "summary": "8月19日,广汽埃安旗下全新独立车系“Ray”正式发布,首款车型Ray 7同步亮相。广汽集团昊铂埃安BU总裁张雄透露,未来Ray车系将覆盖轿车、轿跑、SUV等多个品类。作为埃安进入第十年节点推出的首款...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-19",
-      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546752.html"
+      "id": "http://baijiahao.baidu.com/s?id=1874046010610271985",
+      "title": "阿里Q1财报:AI+云增长加速,阿里云增长45%,..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-20",
+      "url": "http://baijiahao.baidu.com/s?id=1874046010610271985"
     },
     {
-      "id": "http://www.199it.com/archives/1846414.html",
-      "title": "小马智行:2026年Q2总营收2.46亿元,同比增长68.8%",
-      "summary": "小马智行2026年Q2财报显示,总营收2.46亿元,同比增长68.8%。Robotaxi收入同比增长691.2%,环比增长40.9%,营收占比升至三分之一;上半年Robotaxi收入1.40亿元,超2025年全年。...",
-      "source": "A199It",
-      "date": "2026-08-19",
-      "url": "http://www.199it.com/archives/1846414.html"
+      "id": "https://www.cnblogs.com/qq21497936/p/22601743",
+      "title": "VTK开发笔记(十):VTK介绍,Qt5.15.2+VS2019x64+VTK9.1编译 - 长沙红胖子Qt·西安",
+      "summary": "前言 本篇主要是Qt5.15.2+VS2019x64+VTK9.1.0源码编译流程。 这里注意我们走的是C++技术流,对内存、性能和交互实时性是我们承担研制开发项目和产品所追求的。 版本区分 根据网上搜索的,整理一下:根据网上搜索的,整理一下: Qt5.9.2 + VS2017 x64 + VTK8...",
+      "source": "Cnblogs",
+      "date": "2026-08-20",
+      "url": "https://www.cnblogs.com/qq21497936/p/22601743"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-19/4546439.html",
-      "title": "透视头部Robotaxi企业二季报:收入、毛利双增长,文远知行瞄准2029年整体盈亏平衡;小马智行称“至少4万至5万辆Robotaxi规模”方可自由现金流转正",
-      "summary": "透视头部Robotaxi企业二季报:收入、毛利双增长,文远知行瞄准2029年整体盈亏平衡;小马智行称“至少4万至5万辆Robotaxi规模”方可自由现金流转正...",
-      "source": "Nbd_Cn",
+      "id": "https://news.seehua.com/post/1539455",
+      "title": "有钱买豪车却不缴路税 霹陆交局扣190辆 揭有人只为“炫耀”",
+      "summary": "(怡保20日讯)有能力驾驶豪华轿车,却不愿缴付路税及购买有效保险!霹雳州陆路交通局今年截至8月20日已扣押19 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-08-20",
+      "url": "https://news.seehua.com/post/1539455"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874041965022815267",
+      "title": "让AI成为青少年的良师益友",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-20",
+      "url": "http://baijiahao.baidu.com/s?id=1874041965022815267"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874035292254421439",
+      "title": "炎夏有清凉、遇事有人帮!全国首家滴滴司机服务旗舰店..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-20",
+      "url": "http://baijiahao.baidu.com/s?id=1874035292254421439"
+    },
+    {
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1079033",
+      "title": "五一视界(06651.HK):与深圳联合影像设立合资公司,发布具身智能数据平台AperData-FX168",
+      "summary": "新时空(newtimespace.com)讯:2026年8月20日,五一视界(06651.HK)与深圳联合影像设立合资公司并发布具身智能数据平台AperData,已获超一万套订单、8月底首批量产交付,不构成须予公布交易。...",
+      "source": "Fx168News",
+      "date": "2026-08-20",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1079033"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70dqmxd/",
+      "title": "华为智驾再下探!预售10.49万起,星海V6乾崑版9月上市",
+      "summary": "现在不少消费者选购新能源车,都会看重智能驾驶能力,希望感受高科技赋能出行的体验。华为智驾已经处于行业第一梯队水准,因此不少车型都将搭载华为智驾作为核心卖点。随着技术持续下放,华为智驾不再只局限于高端车型,越来越多平价产品也开始配备这套系统。今年8月初,东......",
+      "source": "Smzdm",
+      "date": "2026-08-20",
+      "url": "https://post.smzdm.com/p/a70dqmxd/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70k7eoo/",
+      "title": "吉利银河TT:800V高压平台,智能驾驶辅助",
+      "summary": "8月13日,吉利银河旗下的中大型轿车——吉利银河TT开启预售,共提供3款车型可选,预售价区间为14.59-16.99万元。新车全系支持全域800V高压平台,采用了溜背式的动感外观造型,还配有随速电动扰流板,CLTC最长续航达640km。值得一提的是,高性......",
+      "source": "Smzdm",
+      "date": "2026-08-20",
+      "url": "https://post.smzdm.com/p/a70k7eoo/"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/08/20/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe",
+      "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
+      "summary": "Aug 19 (Reuters) - Uber, ⁠Verne and Pony.ai said on Wednesday they had ⁠launched autonomous rides in Zagreb, making ‌the Croatian capital the first European city where users can book a self-driving ve...",
+      "source": "The Star",
       "date": "2026-08-19",
-      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546439.html"
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/20/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe"
+    },
+    {
+      "id": "https://www.vcstar.com/story/news/state/california/2026/08/19/california-approves-testing-for-self-driving-semi-trucks/91371512007/",
+      "title": "Autonomous trucks get California permits for road testing",
+      "summary": "California now allows testing of self-driving semi-trucks, with two companies holding the first permits....",
+      "source": "Ventura County Star",
+      "date": "2026-08-19",
+      "url": "https://www.vcstar.com/story/news/state/california/2026/08/19/california-approves-testing-for-self-driving-semi-trucks/91371512007/"
     },
     {
       "id": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/",
@@ -263,6 +188,38 @@
       "source": "TNW",
       "date": "2026-08-17",
       "url": "https://thenextweb.com/news/california-autonomous-truck-permits-aurora-kodiak-teamsters"
+    },
+    {
+      "id": "https://www.newsbreak.com/business-insider-562169/4833754587610-first-came-self-driving-cars-now-waymo-veterans-are-building-autonomous-construction-equipment",
+      "title": "driving cars. Now, Waymo veterans are building autonomous construction equipment.",
+      "summary": "Bedrock Robotics said its excavators equipped with its autonomous AI system are working without human operators on three sites in Texas and Nevada....",
+      "source": "NewsBreak",
+      "date": "2026-08-17",
+      "url": "https://www.newsbreak.com/business-insider-562169/4833754587610-first-came-self-driving-cars-now-waymo-veterans-are-building-autonomous-construction-equipment"
+    },
+    {
+      "id": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand",
+      "title": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
+      "summary": "Deutsche Bank raises its price target for Momenta while Pony.ai widens partnership with Uber to accelerate autonomous-vehicle roll-out in European cities....",
+      "source": "South China Morning Post",
+      "date": "2026-08-17",
+      "url": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand"
+    },
+    {
+      "id": "https://www.scmp.com/lifestyle/motoring/article/3363916/self-driving-cars-china-can-park-change-lanes-and-drive-humans-next-stop-europe",
+      "title": "Self-driving cars in China can park, change lanes and drive like humans. Next stop: Europe",
+      "summary": "Autonomous cars in China can navigate chaotic city traffic with human-like precision, even parking themselves when the occupants have gone....",
+      "source": "South China Morning Post",
+      "date": "2026-08-15",
+      "url": "https://www.scmp.com/lifestyle/motoring/article/3363916/self-driving-cars-china-can-park-change-lanes-and-drive-humans-next-stop-europe"
+    },
+    {
+      "id": "https://www.ibtimes.com/uber-bringing-thousands-chinese-robotaxis-europe-its-driverless-push-gets-bigger-3806411",
+      "title": "Uber Is Bringing Thousands Of Chinese Robotaxis To Europe As Its Driverless Push Gets Bigger",
+      "summary": "The expansion follows the March launch of a commercial robotaxi service in Zagreb involving Uber, Pony.ai and Croatian autonomous-driving company Verne....",
+      "source": "International Business Times",
+      "date": "2026-08-14",
+      "url": "https://www.ibtimes.com/uber-bringing-thousands-chinese-robotaxis-europe-its-driverless-push-gets-bigger-3806411"
     }
   ]
 }
