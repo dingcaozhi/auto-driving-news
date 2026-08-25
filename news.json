@@ -1,19 +1,18 @@
 {
-  "lastUpdated": "2026-08-24 01:46:13",
-  "totalCount": 31,
+  "lastUpdated": "2026-08-25 01:40:50",
+  "totalCount": 34,
   "sources": {
-    "News_Baidu": 7,
-    "Imobile": 1,
-    "A199It": 3,
-    "Cri_Cn": 1,
+    "Bilibili": 5,
+    "News_Baidu": 5,
+    "Investing_Cn": 3,
+    "Chinanews": 1,
+    "Smzdm": 1,
+    "Ithome": 4,
     "Nbd_Cn": 2,
-    "Fx168News": 1,
-    "Theportugalnews": 1,
-    "Cnblogs": 1,
-    "News_Seehua": 1,
-    "Orientaldaily": 1,
-    "Pcauto_Cn": 1,
-    "Eeo": 1,
+    "Zaobao": 1,
+    "Imobile": 1,
+    "Bjnews": 1,
+    "The Korea Times": 2,
     "Engadget": 1,
     "The Manila Times": 1,
     "SiliconANGLE News": 1,
@@ -21,178 +20,216 @@
     "The Star": 1,
     "Ventura County Star": 1,
     "NewsX": 1,
-    "CNA": 1,
-    "Devdiscourse": 1,
-    "TNW": 1
+    "CNA": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874297081712660088",
-      "title": "国际锐评丨“超级买家+超级卖家”让全球共享中国红利",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-23",
-      "url": "http://baijiahao.baidu.com/s?id=1874297081712660088"
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-25",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0823/235293.shtml",
-      "title": "2分30秒 荣耀闪电1500米决赛再破人类世界纪录",
-      "summary": "8月23日,第二届世界机器人运动会1500米决赛,荣耀机器人闪电跑出成绩2分30秒22,展现出强悍的瞬时爆发和稳定输出能力。此次大赛,荣耀机器人闪电展现出极强的综合实力,100米、400米、1500米均打破人类世界纪录。 荣耀机器人闪电瞬时动力爆发、高速步态切换、毫秒级平衡控制能力,突破机器人极速运动上限。此次在田径赛场上验证的超强续航能力、超强散热和超强可靠性设计,正是源自荣耀Magic系列的技...",
+      "id": "https://www.bilibili.com/video/BV1RChP67Ena",
+      "title": "【B站】还吹自动驾驶？差点从6楼掉下去送走一车人！",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-25",
+      "url": "https://www.bilibili.com/video/BV1RChP67Ena"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1AR8U6RE96",
+      "title": "【B站】特斯拉自动驾驶FSD美国实测第三段",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-25",
+      "url": "https://www.bilibili.com/video/BV1AR8U6RE96"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1wu8Y63EhH",
+      "title": "【B站】纯视觉与激光雷达：自动驾驶大辩论_成片完整版",
+      "summary": "为什么纯视觉和激光雷达路线吵得不可开交？\n让我们试着从这个点切入分析：两种方案的技术路径、成本差异与各自的“长尾问题”。...",
+      "source": "Bilibili",
+      "date": "2026-08-25",
+      "url": "https://www.bilibili.com/video/BV1wu8Y63EhH"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1n48E6aER3",
+      "title": "【B站】自动驾驶时代要来了？全球首个强制国标发布！",
+      "summary": "工信部发布针对L3/L4级自动驾驶的全球首个强制国标，今天我们就来聊聊这里面到底要求了些什么。...",
+      "source": "Bilibili",
+      "date": "2026-08-25",
+      "url": "https://www.bilibili.com/video/BV1n48E6aER3"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874409130169756724",
+      "title": "荣立二等功1次,还是射击、通信一级技术能手,这位政..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-24",
+      "url": "http://baijiahao.baidu.com/s?id=1874409130169756724"
+    },
+    {
+      "id": "https://cn.investing.com/news/transcripts/article-93CH-3532781",
+      "title": "零跑汽车2026年上半年营收强劲增长,但下调全年利润预期",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-24",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3532781"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/08-24/10683418.shtml",
+      "title": "第十届广州老博会闭幕 达成意向合作金额超7.6亿元",
+      "summary": "中新网广州8月24日电 (记者 蔡敏婕)广州市民政局24日称,第十届中国(广州)国际养老健康产业博览会23日在广州落下帷幕。本届广州老博会汇聚来自17个国家和地区的433家银发产业领军企业,吸引专业观众及市民9.1万人次,现场成交额1362万元,产业合作签约36项,意向合作金额超7.6亿元。...",
+      "source": "Chinanews",
+      "date": "2026-08-24",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683418.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3532703",
+      "title": "Stifel维持Rivian Automotive Inc买入评级,看好其强劲二季度业绩",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-24",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3532703"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg4rom7/",
+      "title": "小米玄戒 O3 性能碾压 A19 Pro,阔折叠 9 月将正面硬刚苹果",
+      "summary": "就在今日,小米一口气放出三款自研芯片,直接搅动国内半导体与智能终端行业。三款芯片各有定位,覆盖手机、AI 计算、智能驾驶三大赛道,其中玄戒 O3 更是实现 CPU、GPU 性能双双超越苹果 A19 Pro,国产芯片迎来关键突破。此次亮相的玄戒 O3,是小......",
+      "source": "Smzdm",
+      "date": "2026-08-24",
+      "url": "https://post.smzdm.com/p/agg4rom7/"
+    },
+    {
+      "id": "https://www.ithome.com/0/993/725.htm",
+      "title": "零跑汽车:已在具身智能机器人领域有所规划",
+      "summary": "IT之家 8 月 24 日消息,据财联社报道,在 2026 年中期业绩会上,零跑汽车管理层表示,机器人方面,公司认为新能源汽车企业,尤其是具备全域自研能力的新能源汽车企业,是完全具备条件做具身智能机器人的企业之一, 零跑已经在该领域有所规划 ,且公司将在近期公告相关具体信息。 IT之家注意到,工商信息显示,零跑旗下浙江凌昇动力科技有限公司于 2026 年 7 月全资设立湖州凌昇精密制造有限公司,注...",
+      "source": "Ithome",
+      "date": "2026-08-24",
+      "url": "https://www.ithome.com/0/993/725.htm"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-08-24/4552711.html",
+      "title": "车展季·大咖说丨东风奕派科技邓留超:控本关键在于取舍,辅助驾驶功能要“好用”“实用”",
+      "summary": "“东风是行业内出了名的‘沙发厂’。风神L8Y的座椅采用10层叠层设计,有的负责承托,有的负责减震,有的负责支撑与包裹。以座椅发泡密度这一指标为例,行业平均是50公斤每立方,我们的产品达到了70公斤每立...",
+      "source": "Nbd_Cn",
+      "date": "2026-08-24",
+      "url": "https://www.nbd.com.cn/articles/2026-08-24/4552711.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874407403429092297",
+      "title": "夷陵暖“新”:从贴心守护到同心共治",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-24",
+      "url": "http://baijiahao.baidu.com/s?id=1874407403429092297"
+    },
+    {
+      "id": "https://www.ithome.com/0/993/722.htm",
+      "title": "零跑汽车 2026 年度技术发布会定档 9 月,发布“全行业第一梯队水平”辅助驾驶世界模型",
+      "summary": "IT之家 8 月 24 日消息,今天(24 日)晚间,零跑汽车通过上半年财报宣布,零跑将于 9 月举办 2026 年度技术发布会,届时将发布达到“全行业第一梯队水平”的智能辅助驾驶世界模型,以及三电领域一系列最新的技术成果。 今年 6 月,零跑汽车创始人朱江明在媒体采访活动中透露,“零跑经过长期的全域自研,打下了非常好的基础,这也为后面的发展,创造了很好的条件。我们也在十周年的发布会上,讲了今年第...",
+      "source": "Ithome",
+      "date": "2026-08-24",
+      "url": "https://www.ithome.com/0/993/722.htm"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-08-24/4553112.html",
+      "title": "获批5000辆,股价涨超5%,特斯拉Robotaxi迎来规模化拐点?业内人士:若放到L4场景,FSD仍无法完全处理所有极端情况",
+      "summary": "获批5000辆,股价涨超5%,特斯拉Robotaxi迎来规模化拐点?业内人士:若放到L4场景,FSD仍无法完全处理所有极端情况...",
+      "source": "Nbd_Cn",
+      "date": "2026-08-24",
+      "url": "https://www.nbd.com.cn/articles/2026-08-24/4553112.html"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260824-9555656",
+      "title": "【红蚂蚁】马路上最危险的是“应该没事”",
+      "summary": "新加坡的道路安全吗?对比几十年前,答案是肯定的,但从数据来看,近两年来,无论是行人乱过马路,还是驾车者闯红灯或醉酒驾驶,新加坡的道路似乎变得越来越危险。...",
+      "source": "Zaobao",
+      "date": "2026-08-24",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260824-9555656"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874405608062805063",
+      "title": "获批5000辆,股价涨超5%,特斯拉Robotax..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-24",
+      "url": "http://baijiahao.baidu.com/s?id=1874405608062805063"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3532471",
+      "title": "纯电无人矿卡规模近 1500 台!易控智驾(07687)驶入“纯电时代”",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-24",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3532471"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874401204594154470",
+      "title": "广西崇左公安:风雨同舟 不漏一人",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-24",
+      "url": "http://baijiahao.baidu.com/s?id=1874401204594154470"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874399484098547043",
+      "title": "指导员又双叒“出去玩”了?他的答案是:向空制胜!",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-24",
+      "url": "http://baijiahao.baidu.com/s?id=1874399484098547043"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0824/235301.shtml",
+      "title": "比亚迪大汉EV预售24.99万-29.99万元 以旗舰实力回应时代实干者",
+      "summary": "8月21日,2026成都国际车展盛大开幕,比亚迪王朝网旗下全新D+级旗舰轿车——大汉EV正式开启预售。新车为企业管理者、专业高知、工程师等时代实干者而来,集同级第一90.8%得房率、1008公里纯电续航、闪充技术及百万级智能底盘于一身,囊括44项全球领先硬核技术,重塑D+级旗舰轿车价值标杆,车型亮相构建新品矩阵。 此次大汉EV共推出1008KM后驱尊享型、1008KM后驱旗舰型、880KM四驱旗舰...",
       "source": "Imobile",
-      "date": "2026-08-23",
-      "url": "http://news.imobile.com.cn/articles/2026/0823/235293.shtml"
+      "date": "2026-08-24",
+      "url": "http://news.imobile.com.cn/articles/2026/0824/235301.shtml"
     },
     {
-      "id": "http://www.199it.com/archives/1847474.html",
-      "title": "CNBC:美国品牌在华遇冷,耐克中国业务规模自2021年以来缩水约30%",
-      "summary": "CNBC报道,耐克、星巴克、通用汽车等美国品牌在华遇冷。耐克中国业务自2021年缩水约30%,营收近八年最低;瑞幸门店数量是星巴克三倍有余;通用汽车在华年利润曾超20亿美元,现连续两年亏损。本土品牌安踏、李宁等崛起,新能源汽车渗透率超六成。...",
-      "source": "A199It",
-      "date": "2026-08-23",
-      "url": "http://www.199it.com/archives/1847474.html"
+      "id": "https://www.ithome.com/0/993/735.htm",
+      "title": "千里科技上半年营收 51.2 亿元:智驾业务覆盖 16 款车型、净利润大增 151%",
+      "summary": "IT之家 8 月 24 日消息,8 月 24 日,千里科技发布 2026 年半年度报告。报告显示,公司上半年实现营业收入 51.20 亿元,同比增长 22.36%;归属于上市公司股东的净利润为 0.78 亿元,同比增长 151.25%;扣除非经常性损益后的归母净利润为 0.56 亿元。千里科技称,加大研发投入的同时实现收入利润双增长,核心经营指标全面改善。 业务方面,智能辅助驾驶业务商业化进展较快...",
+      "source": "Ithome",
+      "date": "2026-08-24",
+      "url": "https://www.ithome.com/0/993/735.htm"
     },
     {
-      "id": "http://www.199it.com/archives/1847155.html",
-      "title": "奇瑞汽车:2026上半年营收1432.8亿元,同比增长1.2%",
-      "summary": "奇瑞汽车2026年中期业绩:营收1432.8亿元,同比增长1.2%;海外收入989.68亿元,同比增长51%,占比近七成。集团销量135.75万辆,同比增长7.7%;新能源47.5万辆,同比增长32.3%;出口94.38万辆,同比增长71.5%。净利润率6.3%...",
-      "source": "A199It",
-      "date": "2026-08-23",
-      "url": "http://www.199it.com/archives/1847155.html"
+      "id": "https://www.ithome.com/0/993/732.htm",
+      "title": "一汽、零跑深化战略合作,将围绕整车、智驾等领域开展深度协同",
+      "summary": "IT之家 8 月 24 日消息,据“中国一汽”公众号,8 月 24 日,中国一汽与零跑汽车在长春举行深化战略合作协议签署仪式。根据协议,双方将围绕 资本合作、新能源整车、智能驾驶、动力总成、动力电池、智能底盘、车身工艺装备、轻量化部件、具身智能机器人、金融 等领域开展深度协同。 此前在 2025 年 3 月,双方就已达成战略合作并签署谅解备忘录。同年 11 月,零跑汽车副总裁李腾飞谈及与一汽集团的...",
+      "source": "Ithome",
+      "date": "2026-08-24",
+      "url": "https://www.ithome.com/0/993/732.htm"
     },
     {
-      "id": "http://www.199it.com/archives/1847157.html",
-      "title": "阿里巴巴集团:2027财年第一季度营收2689.5亿元,同比增长9%",
-      "summary": "阿里巴巴2027财年Q1财报显示,营收2689.5亿元,同比增长9%;阿里云商业化收入同比增长45%,创22个季度新高;AI产品收入123.76亿元,连续12个季度三位数增长;Qwen模型全球下载量超30亿次;88VIP会员约6400万。...",
-      "source": "A199It",
-      "date": "2026-08-23",
-      "url": "http://www.199it.com/archives/1847157.html"
+      "id": "https://www.bjnews.com.cn/detail/1787479458129039.html",
+      "title": "首发“算力保”、首创“金融+科创”联展模式,服贸会金融亮点前瞻",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-24",
+      "url": "https://www.bjnews.com.cn/detail/1787479458129039.html"
     },
     {
-      "id": "https://news.cri.cn/20260823/a851bbfc-3149-5739-562f-1ed814b96191.html",
-      "title": "国际锐评丨“超级买家+超级卖家”让全球共享中国红利-国际在线",
-      "summary": "商超货架上琳琅满目的“全球好物”、港口码头上运往各国的“中国制造”......一进一出、一来一往,成为当前中国外贸的生动缩影。今年前7个月,中国货物贸易进出口同比增长1...",
-      "source": "Cri_Cn",
-      "date": "2026-08-23",
-      "url": "https://news.cri.cn/20260823/a851bbfc-3149-5739-562f-1ed814b96191.html"
+      "id": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests",
+      "title": "Korea expands autonomous driving AI tests",
+      "summary": "The government said Monday it will significantly expand pilot projects for locally developed autonomous driving artificial intelligence (AI) and st......",
+      "source": "The Korea Times",
+      "date": "2026-08-24",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-23/4551657.html",
-      "title": "每经热评丨从成都车展看汽车产业的“林”“树”之变,“链式竞争”才是长久考验",
-      "summary": "每经评论员 裴健如22万平方米展区、近120个品牌、约1600台展车——2026成都车展的规模并不令人意外。真正让这届车展区别于往届的,是一个此前从未出现过的设置:1000平方米的“成都造”智能网联汽...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-23",
-      "url": "https://www.nbd.com.cn/articles/2026-08-23/4551657.html"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1080148",
-      "title": "AI应用周度观察(2026.08.17-2026.08.23)-FX168",
-      "summary": "赛道一:通用消费级AI应用(C端流量+生态) 1、字节跳动:豆包将推出独立办公App 8月22日,豆包最快将于下周发布独立办公App,将豆包中的“工作任务”功能独立出来,直接对标腾讯WorkBuddy。豆包网页端已可见“新工作任务”与“新对话”并排布局,AI办公不再作为附加功能,而是独立主战场。此前一周豆包已陆续上线多项办公功能,8月17日推出手机远程控制电脑功能,8月18日上线Windows虚拟...",
-      "source": "Fx168News",
-      "date": "2026-08-23",
-      "url": "https://www.fx168news.com/article/1080148"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874311424334573771",
-      "title": "视频丨铁甲砺尖兵 直击装甲特级技术能手考核",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-23",
-      "url": "http://baijiahao.baidu.com/s?id=1874311424334573771"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874310309746791209",
-      "title": "新石器创始人余恩源:打造1000万辆无人车以及1亿..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-23",
-      "url": "http://baijiahao.baidu.com/s?id=1874310309746791209"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874298400559837971",
-      "title": "盐城男子误将自己反锁汽车后备箱5小时,急喊手机语音..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-23",
-      "url": "http://baijiahao.baidu.com/s?id=1874298400559837971"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874302712998719067",
-      "title": "由“演示模式”迈向“作业模式”:机器人在真实作业场..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-23",
-      "url": "http://baijiahao.baidu.com/s?id=1874302712998719067"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874304786409605735",
-      "title": "新石器余恩源:成为扎根物流行业的机器人公司",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-23",
-      "url": "http://baijiahao.baidu.com/s?id=1874304786409605735"
-    },
-    {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-08-23/bangernomics-a-compelling-case/1074540",
-      "title": "“班格经济学”:一个令人信服的案例吗?",
-      "summary": "NewsData报道",
-      "source": "Theportugalnews",
-      "date": "2026-08-23",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-08-23/bangernomics-a-compelling-case/1074540"
-    },
-    {
-      "id": "https://www.cnblogs.com/shanyou/p/22641879",
-      "title": "人工智能最先替代的,是人工智能学院自己 - 张善友",
-      "summary": "大学从来不只是一栋教学楼。在知识生产的链条里,它同时扮演着四种角色:生产资料的配置者、知识流通的枢纽、人才的培养者与认证者、长周期研究的承担者。而这页PPT的真正含义是:这四个功能,正在被逐一替代。...",
-      "source": "Cnblogs",
-      "date": "2026-08-23",
-      "url": "https://www.cnblogs.com/shanyou/p/22641879"
-    },
-    {
-      "id": "https://news.seehua.com/post/1541550/",
-      "title": "新山关卡巴士车道遭轿车占用 霸气巴士司机雨中下车开骂获乘客网民赞爆",
-      "summary": "(新山23日讯)新山关卡附近路段出现轿车违规占用巴士车道导致交通瘫痪,一名巴士司机不忍了,直接在雨中下车怒斥违 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-08-23",
-      "url": "https://news.seehua.com/post/1541550/"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/south/2026/08/23/842632",
-      "title": "轿车占关卡巴士道酿堵塞 巴士司机雨中下车开骂获赞爆",
-      "summary": "(新山23日讯)新山关卡附近路段出现轿车违规占用巴士车道导致交通瘫痪,一名巴士司机不忍了,直接在雨中下车怒斥违规占道的轿车司机,霸气举动获全车乘客拍手喝彩,相关视频也在社交媒体疯传,获得广大网民赞许。根据新加坡时政网站慈母舰(Mothership)报导,一名Instagram用户于本月20日上传的视频显示,事发地点位于新山关卡附近的巴士专用车道。当时该路段因多辆轿车占用而无法通行。视频中可见,该名...",
-      "source": "Orientaldaily",
-      "date": "2026-08-23",
-      "url": "https://www.orientaldaily.com.my/news/south/2026/08/23/842632"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-08-23/4551655.html",
-      "title": "天海电子拟出资4.8亿元设立两家孙公司,押注高压零部件与高速连接器",
-      "summary": "8月23日,天海电子(SZ001365,股价35.03元,市值184亿元)公告称,公司全资子公司河南天海电器有限公司(天海电器)拟以自有资金,分别出资2.6亿元、2.2亿元,设立河南天海驭联科技有限公...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-23",
-      "url": "https://www.nbd.com.cn/articles/2026-08-23/4551655.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874313941100003262",
-      "title": "1500亿全球钨制品龙头,拟投资AI PCB用微型..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-23",
-      "url": "http://baijiahao.baidu.com/s?id=1874313941100003262"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5179/51793092.html",
-      "title": "大五座SUV成都车展必看极狐阿尔法T7、小米YU7、追光S、问界M6、理想L8",
-      "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-08-23",
-      "url": "http://www.pcauto.com.cn/news/5179/51793092.html"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0823/1008947.shtml",
-      "title": "新世代BMW iX3定价击穿预期,宝马在华电动化进入“决战时刻”",
-      "summary": "在预售开启前,行业预估入门版售价约在30万元左右,最终26.99万元的定价不仅击穿了预期,更较奔驰纯电GLC的入门预售价低了约3万元。...",
-      "source": "Eeo",
-      "date": "2026-08-23",
-      "url": "http://www.eeo.com.cn/2026/0823/1008947.shtml"
+      "id": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests-deep-tech-startup-support",
+      "title": "Korea expands autonomous driving AI tests, deep",
+      "summary": "The government said Monday it will significantly expand pilot projects for locally developed autonomous driving artificial intelligence (AI) and st......",
+      "source": "The Korea Times",
+      "date": "2026-08-24",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests-deep-tech-startup-support"
     },
     {
       "id": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
@@ -225,46 +262,6 @@
       "source": "Moneycontrol",
       "date": "2026-08-20",
       "url": "https://www.moneycontrol.com/news/business/waymo-rolls-out-custom-chip-for-robotaxis-as-alphabet-expands-ai-chip-push-14011754.html"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/08/20/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe",
-      "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
-      "summary": "Aug 19 (Reuters) - Uber, ⁠Verne and Pony.ai said on Wednesday they had ⁠launched autonomous rides in Zagreb, making ‌the Croatian capital the first European city where users can book a self-driving ve...",
-      "source": "The Star",
-      "date": "2026-08-19",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/20/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe"
-    },
-    {
-      "id": "https://www.vcstar.com/story/news/state/california/2026/08/19/california-approves-testing-for-self-driving-semi-trucks/91371512007/",
-      "title": "Autonomous trucks get California permits for road testing",
-      "summary": "California now allows testing of self-driving semi-trucks, with two companies holding the first permits....",
-      "source": "Ventura County Star",
-      "date": "2026-08-19",
-      "url": "https://www.vcstar.com/story/news/state/california/2026/08/19/california-approves-testing-for-self-driving-semi-trucks/91371512007/"
-    },
-    {
-      "id": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/",
-      "title": "5 Things AI Can Do In 2026 That Sound Like Science Fiction",
-      "summary": "From humanoid robots and autonomous AI agents to multimodal systems, self-driving technology and AI that checks its own work, these five breakthroughs show how science fiction is becoming reality in 2...",
-      "source": "NewsX",
-      "date": "2026-08-19",
-      "url": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/"
-    },
-    {
-      "id": "https://www.channelnewsasia.com/singapore/polytechnics-autonomous-transport-vehicles-training-6328186",
-      "title": "Polytechnics step up autonomous mobility training as industry needs evolve",
-      "summary": "From longer internships to training in driver-assistance systems, polytechnics in Singapore are strengthening their curriculum to prepare students for a future with self-driving vehicles....",
-      "source": "CNA",
-      "date": "2026-08-19",
-      "url": "https://www.channelnewsasia.com/singapore/polytechnics-autonomous-transport-vehicles-training-6328186"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3964906-from-black-box-to-accountability-why-explainable-ai-could-make-or-break-autonomous-driving",
-      "title": "From Black Box to Accountability: Why Explainable AI Could Make or Break Autonomous Driving",
-      "summary": "Read more about From Black Box to Accountability: Why Explainable AI Could Make or Break Autonomous Driving on Devdiscourse...",
-      "source": "Devdiscourse",
-      "date": "2026-08-18",
-      "url": "https://www.devdiscourse.com/article/technology/3964906-from-black-box-to-accountability-why-explainable-ai-could-make-or-break-autonomous-driving"
     }
   ]
 }
