@@ -1,219 +1,141 @@
 {
-  "lastUpdated": "2026-08-25 01:40:50",
-  "totalCount": 34,
+  "lastUpdated": "2026-08-26 01:46:32",
+  "totalCount": 24,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 5,
-    "Investing_Cn": 3,
-    "Chinanews": 1,
-    "Smzdm": 1,
-    "Ithome": 4,
-    "Nbd_Cn": 2,
-    "Zaobao": 1,
-    "Imobile": 1,
-    "Bjnews": 1,
+    "Nbd_Cn": 1,
+    "News_Baidu": 8,
+    "Imobile": 3,
+    "Investing_Cn": 1,
+    "Ithome": 1,
+    "The Manila Times": 2,
     "The Korea Times": 2,
     "Engadget": 1,
-    "The Manila Times": 1,
     "SiliconANGLE News": 1,
     "Moneycontrol": 1,
     "The Star": 1,
     "Ventura County Star": 1,
-    "NewsX": 1,
-    "CNA": 1
+    "NewsX": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-25",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RChP67Ena",
-      "title": "【B站】还吹自动驾驶？差点从6楼掉下去送走一车人！",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-25",
-      "url": "https://www.bilibili.com/video/BV1RChP67Ena"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1AR8U6RE96",
-      "title": "【B站】特斯拉自动驾驶FSD美国实测第三段",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-25",
-      "url": "https://www.bilibili.com/video/BV1AR8U6RE96"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1wu8Y63EhH",
-      "title": "【B站】纯视觉与激光雷达：自动驾驶大辩论_成片完整版",
-      "summary": "为什么纯视觉和激光雷达路线吵得不可开交？\n让我们试着从这个点切入分析：两种方案的技术路径、成本差异与各自的“长尾问题”。...",
-      "source": "Bilibili",
-      "date": "2026-08-25",
-      "url": "https://www.bilibili.com/video/BV1wu8Y63EhH"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1n48E6aER3",
-      "title": "【B站】自动驾驶时代要来了？全球首个强制国标发布！",
-      "summary": "工信部发布针对L3/L4级自动驾驶的全球首个强制国标，今天我们就来聊聊这里面到底要求了些什么。...",
-      "source": "Bilibili",
-      "date": "2026-08-25",
-      "url": "https://www.bilibili.com/video/BV1n48E6aER3"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874409130169756724",
-      "title": "荣立二等功1次,还是射击、通信一级技术能手,这位政..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-24",
-      "url": "http://baijiahao.baidu.com/s?id=1874409130169756724"
-    },
-    {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3532781",
-      "title": "零跑汽车2026年上半年营收强劲增长,但下调全年利润预期",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-24",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3532781"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/08-24/10683418.shtml",
-      "title": "第十届广州老博会闭幕 达成意向合作金额超7.6亿元",
-      "summary": "中新网广州8月24日电 (记者 蔡敏婕)广州市民政局24日称,第十届中国(广州)国际养老健康产业博览会23日在广州落下帷幕。本届广州老博会汇聚来自17个国家和地区的433家银发产业领军企业,吸引专业观众及市民9.1万人次,现场成交额1362万元,产业合作签约36项,意向合作金额超7.6亿元。...",
-      "source": "Chinanews",
-      "date": "2026-08-24",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683418.shtml"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3532703",
-      "title": "Stifel维持Rivian Automotive Inc买入评级,看好其强劲二季度业绩",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-24",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3532703"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg4rom7/",
-      "title": "小米玄戒 O3 性能碾压 A19 Pro,阔折叠 9 月将正面硬刚苹果",
-      "summary": "就在今日,小米一口气放出三款自研芯片,直接搅动国内半导体与智能终端行业。三款芯片各有定位,覆盖手机、AI 计算、智能驾驶三大赛道,其中玄戒 O3 更是实现 CPU、GPU 性能双双超越苹果 A19 Pro,国产芯片迎来关键突破。此次亮相的玄戒 O3,是小......",
-      "source": "Smzdm",
-      "date": "2026-08-24",
-      "url": "https://post.smzdm.com/p/agg4rom7/"
-    },
-    {
-      "id": "https://www.ithome.com/0/993/725.htm",
-      "title": "零跑汽车:已在具身智能机器人领域有所规划",
-      "summary": "IT之家 8 月 24 日消息,据财联社报道,在 2026 年中期业绩会上,零跑汽车管理层表示,机器人方面,公司认为新能源汽车企业,尤其是具备全域自研能力的新能源汽车企业,是完全具备条件做具身智能机器人的企业之一, 零跑已经在该领域有所规划 ,且公司将在近期公告相关具体信息。 IT之家注意到,工商信息显示,零跑旗下浙江凌昇动力科技有限公司于 2026 年 7 月全资设立湖州凌昇精密制造有限公司,注...",
-      "source": "Ithome",
-      "date": "2026-08-24",
-      "url": "https://www.ithome.com/0/993/725.htm"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-08-24/4552711.html",
-      "title": "车展季·大咖说丨东风奕派科技邓留超:控本关键在于取舍,辅助驾驶功能要“好用”“实用”",
-      "summary": "“东风是行业内出了名的‘沙发厂’。风神L8Y的座椅采用10层叠层设计,有的负责承托,有的负责减震,有的负责支撑与包裹。以座椅发泡密度这一指标为例,行业平均是50公斤每立方,我们的产品达到了70公斤每立...",
+      "id": "https://www.nbd.com.cn/articles/2026-08-25/4555860.html",
+      "title": "严防越权支付行为,探索建立KYA机制!智能体支付应用自律公约正式出台",
+      "summary": "8月24日,中国支付清算协会发布《智能体支付应用自律公约》(以下简称“自律公约”),要求会员单位基于“了解你的客户(KYC)”进一步探索建立“了解你的智能体(KYA)”机制。自律公约提出,会员单位应加...",
       "source": "Nbd_Cn",
-      "date": "2026-08-24",
-      "url": "https://www.nbd.com.cn/articles/2026-08-24/4552711.html"
+      "date": "2026-08-25",
+      "url": "https://www.nbd.com.cn/articles/2026-08-25/4555860.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874407403429092297",
-      "title": "夷陵暖“新”:从贴心守护到同心共治",
+      "id": "http://baijiahao.baidu.com/s?id=1874500799555464774",
+      "title": "比亚迪王朝新旗舰大汉EV开启预售,24.99万元起..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-24",
-      "url": "http://baijiahao.baidu.com/s?id=1874407403429092297"
+      "date": "2026-08-25",
+      "url": "http://baijiahao.baidu.com/s?id=1874500799555464774"
     },
     {
-      "id": "https://www.ithome.com/0/993/722.htm",
-      "title": "零跑汽车 2026 年度技术发布会定档 9 月,发布“全行业第一梯队水平”辅助驾驶世界模型",
-      "summary": "IT之家 8 月 24 日消息,今天(24 日)晚间,零跑汽车通过上半年财报宣布,零跑将于 9 月举办 2026 年度技术发布会,届时将发布达到“全行业第一梯队水平”的智能辅助驾驶世界模型,以及三电领域一系列最新的技术成果。 今年 6 月,零跑汽车创始人朱江明在媒体采访活动中透露,“零跑经过长期的全域自研,打下了非常好的基础,这也为后面的发展,创造了很好的条件。我们也在十周年的发布会上,讲了今年第...",
-      "source": "Ithome",
-      "date": "2026-08-24",
-      "url": "https://www.ithome.com/0/993/722.htm"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-08-24/4553112.html",
-      "title": "获批5000辆,股价涨超5%,特斯拉Robotaxi迎来规模化拐点?业内人士:若放到L4场景,FSD仍无法完全处理所有极端情况",
-      "summary": "获批5000辆,股价涨超5%,特斯拉Robotaxi迎来规模化拐点?业内人士:若放到L4场景,FSD仍无法完全处理所有极端情况...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-24",
-      "url": "https://www.nbd.com.cn/articles/2026-08-24/4553112.html"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260824-9555656",
-      "title": "【红蚂蚁】马路上最危险的是“应该没事”",
-      "summary": "新加坡的道路安全吗?对比几十年前,答案是肯定的,但从数据来看,近两年来,无论是行人乱过马路,还是驾车者闯红灯或醉酒驾驶,新加坡的道路似乎变得越来越危险。...",
-      "source": "Zaobao",
-      "date": "2026-08-24",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260824-9555656"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874405608062805063",
-      "title": "获批5000辆,股价涨超5%,特斯拉Robotax..",
+      "id": "http://baijiahao.baidu.com/s?id=1874500405099841999",
+      "title": "上海17家网约车平台签署新版行业自律公约,规范人车..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-24",
-      "url": "http://baijiahao.baidu.com/s?id=1874405608062805063"
+      "date": "2026-08-25",
+      "url": "http://baijiahao.baidu.com/s?id=1874500405099841999"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3532471",
-      "title": "纯电无人矿卡规模近 1500 台!易控智驾(07687)驶入“纯电时代”",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-24",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3532471"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874401204594154470",
-      "title": "广西崇左公安:风雨同舟 不漏一人",
+      "id": "http://baijiahao.baidu.com/s?id=1874500265503139197",
+      "title": "“云脑”赋能、精细管护!太平山中央公园打造城市暖心..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-24",
-      "url": "http://baijiahao.baidu.com/s?id=1874401204594154470"
+      "date": "2026-08-25",
+      "url": "http://baijiahao.baidu.com/s?id=1874500265503139197"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874399484098547043",
-      "title": "指导员又双叒“出去玩”了?他的答案是:向空制胜!",
+      "id": "http://baijiahao.baidu.com/s?id=1874500777336302999",
+      "title": "从“坐地铁”到“开地铁”,这群青少年走进了真正的“..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-24",
-      "url": "http://baijiahao.baidu.com/s?id=1874399484098547043"
+      "date": "2026-08-25",
+      "url": "http://baijiahao.baidu.com/s?id=1874500777336302999"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0824/235301.shtml",
-      "title": "比亚迪大汉EV预售24.99万-29.99万元 以旗舰实力回应时代实干者",
-      "summary": "8月21日,2026成都国际车展盛大开幕,比亚迪王朝网旗下全新D+级旗舰轿车——大汉EV正式开启预售。新车为企业管理者、专业高知、工程师等时代实干者而来,集同级第一90.8%得房率、1008公里纯电续航、闪充技术及百万级智能底盘于一身,囊括44项全球领先硬核技术,重塑D+级旗舰轿车价值标杆,车型亮相构建新品矩阵。 此次大汉EV共推出1008KM后驱尊享型、1008KM后驱旗舰型、880KM四驱旗舰...",
+      "id": "http://baijiahao.baidu.com/s?id=1874487176328803069",
+      "title": "界面晚报|道交法修订草案明确“盲驾”“暴走团”等治..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-25",
+      "url": "http://baijiahao.baidu.com/s?id=1874487176328803069"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874500453164292766",
+      "title": "晚AI大众|外交部回应中国同伊朗的合作;A股午后回..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-25",
+      "url": "http://baijiahao.baidu.com/s?id=1874500453164292766"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0825/235314.shtml",
+      "title": "9天3万公里淬炼量产实力,仰望U7驾驶者大会解锁豪华驾控新可能",
+      "summary": "近日,“自在掌控,前所未有”仰望U7驾驶者大会在比亚迪绍兴赛车场举办。仰望汽车官宣,仰望U7以8天19时58分的成绩完成3万公里耐久测试,创造新的极限耐久世界纪录!在这场驾驶爱好者的盛会现场,仰望U7车主、车迷以以及专业媒体,共同回望仰望U7的成长之路,于专业赛道深度试驾,试炼仰望U7操控上限。同时,仰望“调校大师”等驾驶新功能发布,仰望U7改装计划同期启动,让一台驾驶者之车,可以拥有千人千面的表...",
       "source": "Imobile",
-      "date": "2026-08-24",
-      "url": "http://news.imobile.com.cn/articles/2026/0824/235301.shtml"
+      "date": "2026-08-25",
+      "url": "http://news.imobile.com.cn/articles/2026/0825/235314.shtml"
     },
     {
-      "id": "https://www.ithome.com/0/993/735.htm",
-      "title": "千里科技上半年营收 51.2 亿元:智驾业务覆盖 16 款车型、净利润大增 151%",
-      "summary": "IT之家 8 月 24 日消息,8 月 24 日,千里科技发布 2026 年半年度报告。报告显示,公司上半年实现营业收入 51.20 亿元,同比增长 22.36%;归属于上市公司股东的净利润为 0.78 亿元,同比增长 151.25%;扣除非经常性损益后的归母净利润为 0.56 亿元。千里科技称,加大研发投入的同时实现收入利润双增长,核心经营指标全面改善。 业务方面,智能辅助驾驶业务商业化进展较快...",
+      "id": "http://news.imobile.com.cn/articles/2026/0825/235315.shtml",
+      "title": "荣耀机器人闪电百米竞速跑出8秒94!突破速度边界",
+      "summary": "8月25日,荣耀机器人闪电在第二届世界机器人运动会100米复赛中突破上限,跑出8秒94,且五位进入决赛的选手占据三席。百米竞速项目对机器人的瞬时动力输出、高速步态稳定性以及抗扰动能力都提出严苛考验。 荣耀机器人在田径赛场上验证的技术实力,正是源自荣耀Magic系列的技术基因;而这些经过极限工况锤炼的技术成果,也将在Magic9系列上完整回归,让每一台Magic9都拥有硬核实力。...",
+      "source": "Imobile",
+      "date": "2026-08-25",
+      "url": "http://news.imobile.com.cn/articles/2026/0825/235315.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/transcripts/article-93CH-3534994",
+      "title": "亿航智能2026年第二季度实现盈利,但营收大幅低于预期",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-08-25",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3534994"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0825/235316.shtml",
+      "title": "全新深蓝G318正式上市",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-08-25",
+      "url": "http://news.imobile.com.cn/articles/2026/0825/235316.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874498422428777542",
+      "title": "《文汇报》聚焦第48届世界技能大赛新增赛项:汗水锻..",
+      "summary": "来源:文汇报 作者:占悦《文汇报》头版聚焦第48届世界技能大赛新增赛项:轨道车辆技术八月申城,热浪灼人。上海交通职业技术学院实训基地内,19岁的马毅飞身着红蓝工装,手持电筒,俯身于列车车厢之下。转向架、牵引变流器......逐项...",
+      "source": "News_Baidu",
+      "date": "2026-08-25",
+      "url": "http://baijiahao.baidu.com/s?id=1874498422428777542"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874499035893395410",
+      "title": "歼-16 PK “阵风”,中国新锐军机扎堆亮相非洲",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-25",
+      "url": "http://baijiahao.baidu.com/s?id=1874499035893395410"
+    },
+    {
+      "id": "https://www.ithome.com/0/994/216.htm",
+      "title": "全新一代智己 L6 定档 8 月 28 日正式上市,新车预售权益价 21.99 万元起",
+      "summary": "IT之家 8 月 25 日消息,智己汽车官方今日宣布, 全新一代智己 L6 定档 8 月 28 日正式上市 。新车是全球首款 Prof. Jimmy Choo 联名车,预售权益价 21.99 万元起。 全新一代智己 L6 各版本预售价格如下: Prof. Jimmy Choo 高定限定版(76kWh):23.49 万元; Prof. Jimmy Choo 高定限定版(93kWh):24.99 万元...",
       "source": "Ithome",
-      "date": "2026-08-24",
-      "url": "https://www.ithome.com/0/993/735.htm"
+      "date": "2026-08-25",
+      "url": "https://www.ithome.com/0/994/216.htm"
     },
     {
-      "id": "https://www.ithome.com/0/993/732.htm",
-      "title": "一汽、零跑深化战略合作,将围绕整车、智驾等领域开展深度协同",
-      "summary": "IT之家 8 月 24 日消息,据“中国一汽”公众号,8 月 24 日,中国一汽与零跑汽车在长春举行深化战略合作协议签署仪式。根据协议,双方将围绕 资本合作、新能源整车、智能驾驶、动力总成、动力电池、智能底盘、车身工艺装备、轻量化部件、具身智能机器人、金融 等领域开展深度协同。 此前在 2025 年 3 月,双方就已达成战略合作并签署谅解备忘录。同年 11 月,零跑汽车副总裁李腾飞谈及与一汽集团的...",
-      "source": "Ithome",
-      "date": "2026-08-24",
-      "url": "https://www.ithome.com/0/993/732.htm"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1787479458129039.html",
-      "title": "首发“算力保”、首创“金融+科创”联展模式,服贸会金融亮点前瞻",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-24",
-      "url": "https://www.bjnews.com.cn/detail/1787479458129039.html"
+      "id": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/einride-scales-electric-freight-operations-with-lidl-in-sweden/2411450",
+      "title": "Einride Scales Electric Freight Operations with Lidl in Sweden",
+      "summary": "Einride expands its partnership with Lidl in Sweden, nearly doubling annual electric freight volumes from 474,000 to 832,000 kilometersExpansion extends beyond Stockholm to longer-haul transport acros...",
+      "source": "The Manila Times",
+      "date": "2026-08-25",
+      "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/einride-scales-electric-freight-operations-with-lidl-in-sweden/2411450"
     },
     {
       "id": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests",
@@ -262,6 +184,30 @@
       "source": "Moneycontrol",
       "date": "2026-08-20",
       "url": "https://www.moneycontrol.com/news/business/waymo-rolls-out-custom-chip-for-robotaxis-as-alphabet-expands-ai-chip-push-14011754.html"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/08/20/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe",
+      "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
+      "summary": "Aug 19 (Reuters) - Uber, ⁠Verne and Pony.ai said on Wednesday they had ⁠launched autonomous rides in Zagreb, making ‌the Croatian capital the first European city where users can book a self-driving ve...",
+      "source": "The Star",
+      "date": "2026-08-19",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/20/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe"
+    },
+    {
+      "id": "https://www.vcstar.com/story/news/state/california/2026/08/19/california-approves-testing-for-self-driving-semi-trucks/91371512007/",
+      "title": "Autonomous trucks get California permits for road testing",
+      "summary": "California now allows testing of self-driving semi-trucks, with two companies holding the first permits....",
+      "source": "Ventura County Star",
+      "date": "2026-08-19",
+      "url": "https://www.vcstar.com/story/news/state/california/2026/08/19/california-approves-testing-for-self-driving-semi-trucks/91371512007/"
+    },
+    {
+      "id": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/",
+      "title": "5 Things AI Can Do In 2026 That Sound Like Science Fiction",
+      "summary": "From humanoid robots and autonomous AI agents to multimodal systems, self-driving technology and AI that checks its own work, these five breakthroughs show how science fiction is becoming reality in 2...",
+      "source": "NewsX",
+      "date": "2026-08-19",
+      "url": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/"
     }
   ]
 }
