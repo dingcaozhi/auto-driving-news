@@ -1,133 +1,197 @@
 {
-  "lastUpdated": "2026-08-26 01:46:32",
+  "lastUpdated": "2026-08-27 08:50:19",
   "totalCount": 24,
   "sources": {
-    "Nbd_Cn": 1,
-    "News_Baidu": 8,
-    "Imobile": 3,
-    "Investing_Cn": 1,
-    "Ithome": 1,
+    "Gmw": 2,
+    "News_Baidu": 4,
+    "Bjnews": 3,
+    "Zhidx": 1,
+    "Smzdm": 4,
+    "The Economic Times": 2,
+    "Free Press Journal": 1,
+    "CNBC TV18": 1,
+    "Outlook Business": 1,
     "The Manila Times": 2,
-    "The Korea Times": 2,
-    "Engadget": 1,
-    "SiliconANGLE News": 1,
-    "Moneycontrol": 1,
     "The Star": 1,
-    "Ventura County Star": 1,
-    "NewsX": 1
+    "TNW": 1,
+    "The Korea Times": 1
   },
   "news": [
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-25/4555860.html",
-      "title": "严防越权支付行为,探索建立KYA机制!智能体支付应用自律公约正式出台",
-      "summary": "8月24日,中国支付清算协会发布《智能体支付应用自律公约》(以下简称“自律公约”),要求会员单位基于“了解你的客户(KYC)”进一步探索建立“了解你的智能体(KYA)”机制。自律公约提出,会员单位应加...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-25",
-      "url": "https://www.nbd.com.cn/articles/2026-08-25/4555860.html"
+      "id": "https://news.gmw.cn/2026-08/27/content_38966319.htm",
+      "title": "数智时代,快递业质效再跃升",
+      "summary": "NewsData报道",
+      "source": "Gmw",
+      "date": "2026-08-26",
+      "url": "https://news.gmw.cn/2026-08/27/content_38966319.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874500799555464774",
-      "title": "比亚迪王朝新旗舰大汉EV开启预售,24.99万元起..",
+      "id": "https://news.gmw.cn/2026-08/27/content_38966338.htm",
+      "title": "【新闻随笔】农学专业“上新”背后的时代之变",
+      "summary": "NewsData报道",
+      "source": "Gmw",
+      "date": "2026-08-26",
+      "url": "https://news.gmw.cn/2026-08/27/content_38966338.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874582272107797323",
+      "title": "北京地铁智慧车站将升级!员工手上佩戴的智能终端有大..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-25",
-      "url": "http://baijiahao.baidu.com/s?id=1874500799555464774"
+      "date": "2026-08-26",
+      "url": "http://baijiahao.baidu.com/s?id=1874582272107797323"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874500405099841999",
-      "title": "上海17家网约车平台签署新版行业自律公约,规范人车..",
+      "id": "https://www.bjnews.com.cn/detail/1787768714189407.html",
+      "title": "机器人自主进化学院亮相HICOOL",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-26",
+      "url": "https://www.bjnews.com.cn/detail/1787768714189407.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874496610518287946",
+      "title": "欧菲光“光启未来”战略:四大业务矩阵浮现 光学底座..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-25",
-      "url": "http://baijiahao.baidu.com/s?id=1874500405099841999"
+      "date": "2026-08-26",
+      "url": "http://baijiahao.baidu.com/s?id=1874496610518287946"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874500265503139197",
-      "title": "“云脑”赋能、精细管护!太平山中央公园打造城市暖心..",
+      "id": "https://www.bjnews.com.cn/detail/1787758794169632.html",
+      "title": "“AI交警”上岗,提升通行效率也是治堵良策 | 新京报快评",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-26",
+      "url": "https://www.bjnews.com.cn/detail/1787758794169632.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874482428625324053",
+      "title": "刺刀与蜂翼——记“最美新时代革命军人”王晓明",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-25",
-      "url": "http://baijiahao.baidu.com/s?id=1874500265503139197"
+      "date": "2026-08-26",
+      "url": "http://baijiahao.baidu.com/s?id=1874482428625324053"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874500777336302999",
-      "title": "从“坐地铁”到“开地铁”,这群青少年走进了真正的“..",
+      "id": "http://baijiahao.baidu.com/s?id=1874505049876070276",
+      "title": "歼-16对抗“阵风”,现场画面公布",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-25",
-      "url": "http://baijiahao.baidu.com/s?id=1874500777336302999"
+      "date": "2026-08-26",
+      "url": "http://baijiahao.baidu.com/s?id=1874505049876070276"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874487176328803069",
-      "title": "界面晚报|道交法修订草案明确“盲驾”“暴走团”等治..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-25",
-      "url": "http://baijiahao.baidu.com/s?id=1874487176328803069"
+      "id": "https://zhidx.com/p/588393.html",
+      "title": "对话高通执行副总裁:6G与AI催生新型终端,高通以四大切入点布局数据中心",
+      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西圣迭戈8月26日报道,昨日,在高通圣迭戈总部,高通执行副总裁兼技术规划、边缘解决方案与数据中心业务总经理马德嘉(Durga Malladi)与智东西等媒体进行深入交流,分享高通在即将于2029年商用部署的6G技术以及数据中心领域的思考与布局。 马德嘉谈道,AI与6G将产生深度融合。AI智能体会根据任务需求,动态决定推理是在终端、边缘还是云端执行。6...",
+      "source": "Zhidx",
+      "date": "2026-08-26",
+      "url": "https://zhidx.com/p/588393.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874500453164292766",
-      "title": "晚AI大众|外交部回应中国同伊朗的合作;A股午后回..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-25",
-      "url": "http://baijiahao.baidu.com/s?id=1874500453164292766"
+      "id": "https://www.bjnews.com.cn/detail/1787750465129422.html",
+      "title": "四项重磅发布、200个获奖项目登台,HICOOL峰会开幕",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-26",
+      "url": "https://www.bjnews.com.cn/detail/1787750465129422.html"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0825/235314.shtml",
-      "title": "9天3万公里淬炼量产实力,仰望U7驾驶者大会解锁豪华驾控新可能",
-      "summary": "近日,“自在掌控,前所未有”仰望U7驾驶者大会在比亚迪绍兴赛车场举办。仰望汽车官宣,仰望U7以8天19时58分的成绩完成3万公里耐久测试,创造新的极限耐久世界纪录!在这场驾驶爱好者的盛会现场,仰望U7车主、车迷以以及专业媒体,共同回望仰望U7的成长之路,于专业赛道深度试驾,试炼仰望U7操控上限。同时,仰望“调校大师”等驾驶新功能发布,仰望U7改装计划同期启动,让一台驾驶者之车,可以拥有千人千面的表...",
-      "source": "Imobile",
-      "date": "2026-08-25",
-      "url": "http://news.imobile.com.cn/articles/2026/0825/235314.shtml"
+      "id": "https://post.smzdm.com/p/axkld4w9/",
+      "title": "极氪8X的稳定杆只给Ultra+:核完配置表、两条争议视频和改装店数据流,给三种人算三笔账",
+      "summary": "最近极氪8X的圈子里,吵得最凶的不是价格,而是一根杆。起因是8月下旬B站一条标题很直白的视频——《没有主动稳定杆的话,极氪8X还能买吗?》,一天多时间播放破万,评论区涌进来五十多条,几乎每一条都在报自己的版本和配置。哔哩哔哩再往前翻,5月初一条《极氪8X......",
+      "source": "Smzdm",
+      "date": "2026-08-26",
+      "url": "https://post.smzdm.com/p/axkld4w9/"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0825/235315.shtml",
-      "title": "荣耀机器人闪电百米竞速跑出8秒94!突破速度边界",
-      "summary": "8月25日,荣耀机器人闪电在第二届世界机器人运动会100米复赛中突破上限,跑出8秒94,且五位进入决赛的选手占据三席。百米竞速项目对机器人的瞬时动力输出、高速步态稳定性以及抗扰动能力都提出严苛考验。 荣耀机器人在田径赛场上验证的技术实力,正是源自荣耀Magic系列的技术基因;而这些经过极限工况锤炼的技术成果,也将在Magic9系列上完整回归,让每一台Magic9都拥有硬核实力。...",
-      "source": "Imobile",
-      "date": "2026-08-25",
-      "url": "http://news.imobile.com.cn/articles/2026/0825/235315.shtml"
+      "id": "https://post.smzdm.com/p/avgwdrn9/",
+      "title": "九号的长尾配件被抢着装:400-600元配件、100-200元工时费,装之前先算清3笔账和1条红线",
+      "summary": "七八月九号新国标车圈子里最热的讨论,不是新车,而是\"尾巴\"。打开小红书搜\"九号长尾\":8月26日当天还有fz5一体长尾的安装帖,8月24日有mz3长尾座椅安装,8月23日有人晒MZ330长尾加铁锂电池......",
+      "source": "Smzdm",
+      "date": "2026-08-26",
+      "url": "https://post.smzdm.com/p/avgwdrn9/"
     },
     {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3534994",
-      "title": "亿航智能2026年第二季度实现盈利,但营收大幅低于预期",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-08-25",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3534994"
+      "id": "https://post.smzdm.com/p/arz6dp37/",
+      "title": "MG07上市直降2万,L06正在月底冲量:两车都试驾过的人,纠结的其实是同一件事",
+      "summary": "如果你最近在12–16万这个价位看轿跑,大概率绕不开这两台车:深蓝L06和名爵MG07。时间点也很巧。8月21日成都车展,MG07正式上市,限时补贴价10.59万–15.69万,比7月底的预售价直接砍......",
+      "source": "Smzdm",
+      "date": "2026-08-26",
+      "url": "https://post.smzdm.com/p/arz6dp37/"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0825/235316.shtml",
-      "title": "全新深蓝G318正式上市",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-08-25",
-      "url": "http://news.imobile.com.cn/articles/2026/0825/235316.shtml"
+      "id": "https://post.smzdm.com/p/aqrxznov/",
+      "title": "小鹏智驾记住前30秒、能预判6秒后:大升级明天落地,但先看你车里的芯片再激动",
+      "summary": "明天下午3点,小鹏要在广州办一场「物理AI分享暨第二代VLA全新版本体验日」,主题就两个词:TIME,时间。小红书8月25日官方同步官宣,第二代VLA智驾迎来首次模型重大升级,版本号6.3.0,由G9......",
+      "source": "Smzdm",
+      "date": "2026-08-26",
+      "url": "https://post.smzdm.com/p/aqrxznov/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874498422428777542",
-      "title": "《文汇报》聚焦第48届世界技能大赛新增赛项:汗水锻..",
-      "summary": "来源:文汇报 作者:占悦《文汇报》头版聚焦第48届世界技能大赛新增赛项:轨道车辆技术八月申城,热浪灼人。上海交通职业技术学院实训基地内,19岁的马毅飞身着红蓝工装,手持电筒,俯身于列车车厢之下。转向架、牵引变流器......逐项...",
-      "source": "News_Baidu",
-      "date": "2026-08-25",
-      "url": "http://baijiahao.baidu.com/s?id=1874498422428777542"
+      "id": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-south-koreas-hl-klemove-form-jv-for-autonomous-driving/articleshow/133541512.cms",
+      "title": "Gabriel India, South Korea’s HL Klemove form JV for autonomous driving",
+      "summary": "Gabriel India Limited has formed a joint venture with South Korea's HL Klemove. This partnership will focus on manufacturing and selling autonomous driving solutions within India. The collaboration ai...",
+      "source": "The Economic Times",
+      "date": "2026-08-26",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-south-koreas-hl-klemove-form-jv-for-autonomous-driving/articleshow/133541512.cms"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874499035893395410",
-      "title": "歼-16 PK “阵风”,中国新锐军机扎堆亮相非洲",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-25",
-      "url": "http://baijiahao.baidu.com/s?id=1874499035893395410"
+      "id": "https://www.freepressjournal.in/business/gabriel-india-makes-935-crore-mega-bet-on-autonomous-driving-partners-with-south-koreas-hl-klemove-in-joint-venture",
+      "title": "Gabriel India Makes ₹935 Crore Mega Bet On Autonomous Driving, Partners With South Korea’s HL Klemove In Joint Venture",
+      "summary": "Gabriel India has entered a joint venture with South Korea’s HL Klemove to expand into autonomous driving, ADAS and automotive electronics. Gabriel India will acquire a 30% less one share stake in HL ...",
+      "source": "Free Press Journal",
+      "date": "2026-08-26",
+      "url": "https://www.freepressjournal.in/business/gabriel-india-makes-935-crore-mega-bet-on-autonomous-driving-partners-with-south-koreas-hl-klemove-in-joint-venture"
     },
     {
-      "id": "https://www.ithome.com/0/994/216.htm",
-      "title": "全新一代智己 L6 定档 8 月 28 日正式上市,新车预售权益价 21.99 万元起",
-      "summary": "IT之家 8 月 25 日消息,智己汽车官方今日宣布, 全新一代智己 L6 定档 8 月 28 日正式上市 。新车是全球首款 Prof. Jimmy Choo 联名车,预售权益价 21.99 万元起。 全新一代智己 L6 各版本预售价格如下: Prof. Jimmy Choo 高定限定版(76kWh):23.49 万元; Prof. Jimmy Choo 高定限定版(93kWh):24.99 万元...",
-      "source": "Ithome",
+      "id": "https://www.cnbctv18.com/business/companies/gabriel-india-hl-klemove-korea-joint-venture-stake-acquisition-adas-autonomous-driving-automotive-19977438.htm",
+      "title": "based firm bets ₹935 crore on South Korean firm to crack self",
+      "summary": "Gabriel India will acquire a 30% minus one share stake in South Korea's HL Klemove for ₹935 crore, further entering ADAS, autonomous driving and automotive electronics segments in India....",
+      "source": "CNBC TV18",
+      "date": "2026-08-26",
+      "url": "https://www.cnbctv18.com/business/companies/gabriel-india-hl-klemove-korea-joint-venture-stake-acquisition-adas-autonomous-driving-automotive-19977438.htm"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology/articleshow/133534551.cms",
+      "title": "Gabriel India forms JV with South Korea's HL Klemove for autonomous driving technology",
+      "summary": "Gabriel India has formed a joint venture with South Korea's HL Klemove. This partnership aims to expand presence in autonomous driving solutions and electronics. Gabriel India will acquire a thirty pe...",
+      "source": "The Economic Times",
+      "date": "2026-08-26",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology/articleshow/133534551.cms"
+    },
+    {
+      "id": "https://www.outlookbusiness.com/corporate/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology",
+      "title": "Gabriel India Forms JV With South Korea's HL Klemove For Autonomous Driving Technology",
+      "summary": "To form the joint venture, Gabriel India Ltd will acquire a 30% less one share stake in HL Klemove India for $98.44 million (approximately ₹935 crore), it added....",
+      "source": "Outlook Business",
+      "date": "2026-08-26",
+      "url": "https://www.outlookbusiness.com/corporate/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/tier-iv-to-showcase-integrated-ai-data-and-computing-solution-for-sdvs-at-automotive-world-2026/2412255",
+      "title": "TIER IV to showcase integrated AI, data, and computing solution for SDVs at Automotive World 2026",
+      "summary": "**media[1190500]**TOKYO, Aug. 26, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, will showcase a solution for software-defined vehicles (SDVs) t...",
+      "source": "The Manila Times",
+      "date": "2026-08-26",
+      "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/tier-iv-to-showcase-integrated-ai-data-and-computing-solution-for-sdvs-at-automotive-world-2026/2412255"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/08/25/waymo-to-begin-testing-autonomous-vehicles-in-munich",
+      "title": "Waymo to begin testing autonomous vehicles in Munich",
+      "summary": "Aug 25 (Reuters) - Self-driving ⁠technology company Waymo said on Tuesday it ⁠would begin testing its autonomous vehicles in ‌Munich in the coming weeks, laying the groundwork for a commercial ride-ha...",
+      "source": "The Star",
       "date": "2026-08-25",
-      "url": "https://www.ithome.com/0/994/216.htm"
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/25/waymo-to-begin-testing-autonomous-vehicles-in-munich"
+    },
+    {
+      "id": "https://thenextweb.com/news/waymo-munich-germany-autonomous-ride-hailing-2027",
+      "title": "Waymo is coming to Munich, with commercial service targeted for late 2027",
+      "summary": "Waymo will begin mapping and manually driving Munich in the coming weeks, targeting commercial autonomous ride-hailing in Germany by the end of 2027....",
+      "source": "TNW",
+      "date": "2026-08-25",
+      "url": "https://thenextweb.com/news/waymo-munich-germany-autonomous-ride-hailing-2027"
     },
     {
       "id": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/einride-scales-electric-freight-operations-with-lidl-in-sweden/2411450",
@@ -138,76 +202,12 @@
       "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/einride-scales-electric-freight-operations-with-lidl-in-sweden/2411450"
     },
     {
-      "id": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests",
-      "title": "Korea expands autonomous driving AI tests",
-      "summary": "The government said Monday it will significantly expand pilot projects for locally developed autonomous driving artificial intelligence (AI) and st......",
-      "source": "The Korea Times",
-      "date": "2026-08-24",
-      "url": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests"
-    },
-    {
       "id": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests-deep-tech-startup-support",
       "title": "Korea expands autonomous driving AI tests, deep",
       "summary": "The government said Monday it will significantly expand pilot projects for locally developed autonomous driving artificial intelligence (AI) and st......",
       "source": "The Korea Times",
       "date": "2026-08-24",
       "url": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests-deep-tech-startup-support"
-    },
-    {
-      "id": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
-      "title": "If Waymo Cars Are Level 4 Automation, What Does It Take To Be A Level 5?",
-      "summary": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve....",
-      "source": "Engadget",
-      "date": "2026-08-22",
-      "url": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/21/tmt-newswire/pr-newswire/tier-iv-joins-open-invention-network-20-to-drive-the-expansion-of-the-open-source-ecosystem-for-autonomous-driving-through-a-patent-strategy/2409752",
-      "title": "TIER IV joins Open Invention Network 2.0 to drive the expansion of the open-source ecosystem for autonomous driving through a patent strategy",
-      "summary": "**media[1185242]**TOKYO, Aug. 21, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has joined Open Invention Network (OIN) 2.0, a new framework es...",
-      "source": "The Manila Times",
-      "date": "2026-08-21",
-      "url": "https://www.manilatimes.net/2026/08/21/tmt-newswire/pr-newswire/tier-iv-joins-open-invention-network-20-to-drive-the-expansion-of-the-open-source-ecosystem-for-autonomous-driving-through-a-patent-strategy/2409752"
-    },
-    {
-      "id": "https://siliconangle.com/2026/08/20/waymo-details-the-custom-chip-in-its-autonomous-driving-system/",
-      "title": "Waymo details the custom chip in its autonomous driving system",
-      "summary": "Waymo details the custom chip in its autonomous driving system - SiliconANGLE...",
-      "source": "SiliconANGLE News",
-      "date": "2026-08-20",
-      "url": "https://siliconangle.com/2026/08/20/waymo-details-the-custom-chip-in-its-autonomous-driving-system/"
-    },
-    {
-      "id": "https://www.moneycontrol.com/news/business/waymo-rolls-out-custom-chip-for-robotaxis-as-alphabet-expands-ai-chip-push-14011754.html",
-      "title": "Waymo rolls out custom chip for robotaxis as Alphabet expands AI chip push",
-      "summary": "Alphabet’s Waymo has developed a custom AI chip for its latest robotaxis, aiming to improve autonomous driving performance while reducing its reliance on third-party chipmakers such as Nvidia....",
-      "source": "Moneycontrol",
-      "date": "2026-08-20",
-      "url": "https://www.moneycontrol.com/news/business/waymo-rolls-out-custom-chip-for-robotaxis-as-alphabet-expands-ai-chip-push-14011754.html"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/08/20/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe",
-      "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
-      "summary": "Aug 19 (Reuters) - Uber, ⁠Verne and Pony.ai said on Wednesday they had ⁠launched autonomous rides in Zagreb, making ‌the Croatian capital the first European city where users can book a self-driving ve...",
-      "source": "The Star",
-      "date": "2026-08-19",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/20/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe"
-    },
-    {
-      "id": "https://www.vcstar.com/story/news/state/california/2026/08/19/california-approves-testing-for-self-driving-semi-trucks/91371512007/",
-      "title": "Autonomous trucks get California permits for road testing",
-      "summary": "California now allows testing of self-driving semi-trucks, with two companies holding the first permits....",
-      "source": "Ventura County Star",
-      "date": "2026-08-19",
-      "url": "https://www.vcstar.com/story/news/state/california/2026/08/19/california-approves-testing-for-self-driving-semi-trucks/91371512007/"
-    },
-    {
-      "id": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/",
-      "title": "5 Things AI Can Do In 2026 That Sound Like Science Fiction",
-      "summary": "From humanoid robots and autonomous AI agents to multimodal systems, self-driving technology and AI that checks its own work, these five breakthroughs show how science fiction is becoming reality in 2...",
-      "source": "NewsX",
-      "date": "2026-08-19",
-      "url": "https://www.newsx.com/tech-and-auto/5-things-ai-can-do-in-2026-that-sound-like-science-fiction-262226/"
     }
   ]
 }
