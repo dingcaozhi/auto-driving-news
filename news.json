@@ -1,133 +1,200 @@
 {
-  "lastUpdated": "2026-08-27 08:50:19",
-  "totalCount": 24,
+  "lastUpdated": "2026-08-28 11:03:06",
+  "totalCount": 30,
   "sources": {
-    "Gmw": 2,
+    "Bilibili": 5,
     "News_Baidu": 4,
-    "Bjnews": 3,
-    "Zhidx": 1,
     "Smzdm": 4,
-    "The Economic Times": 2,
+    "Nbd_Cn": 2,
+    "Bjnews": 2,
+    "Orientaldaily": 1,
+    "Chinanews": 1,
+    "Ithome": 1,
+    "Livemint": 1,
+    "The Economic Times": 3,
     "Free Press Journal": 1,
     "CNBC TV18": 1,
     "Outlook Business": 1,
-    "The Manila Times": 2,
+    "The Manila Times": 1,
     "The Star": 1,
-    "TNW": 1,
-    "The Korea Times": 1
+    "TNW": 1
   },
   "news": [
     {
-      "id": "https://news.gmw.cn/2026-08/27/content_38966319.htm",
-      "title": "数智时代,快递业质效再跃升",
-      "summary": "NewsData报道",
-      "source": "Gmw",
-      "date": "2026-08-26",
-      "url": "https://news.gmw.cn/2026-08/27/content_38966319.htm"
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-08-28",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
     },
     {
-      "id": "https://news.gmw.cn/2026-08/27/content_38966338.htm",
-      "title": "【新闻随笔】农学专业“上新”背后的时代之变",
-      "summary": "NewsData报道",
-      "source": "Gmw",
-      "date": "2026-08-26",
-      "url": "https://news.gmw.cn/2026-08/27/content_38966338.htm"
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-28",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874582272107797323",
-      "title": "北京地铁智慧车站将升级!员工手上佩戴的智能终端有大..",
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-08-28",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV19zh36PEn6",
+      "title": "【B站】道交法修订草案：自动驾驶汽车在自动驾驶功能激活状态下，发生道路交通安全违法行为，由自动驾驶汽车生产企业、进口企业接受处理",
+      "summary": "8月25日，道交法修订草案：自动驾驶汽车在自动驾驶功能激活状态下，发生道路交通安全违法行为，由自动驾驶汽车生产企业、进口企业接受处理...",
+      "source": "Bilibili",
+      "date": "2026-08-28",
+      "url": "https://www.bilibili.com/video/BV19zh36PEn6"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1QK4o6UEnC",
+      "title": "【B站】L4自动驾驶会在五年内开放个人购买吗？还需要驾照吗？",
+      "summary": "L4自动驾驶普及多年后普通人会被禁止驾驶车辆上路吗？...",
+      "source": "Bilibili",
+      "date": "2026-08-28",
+      "url": "https://www.bilibili.com/video/BV1QK4o6UEnC"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874575257685159213",
+      "title": "闪电新闻记者实地体验:外卖“等灯不计时” 最安心的..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874582272107797323"
+      "date": "2026-08-27",
+      "url": "http://baijiahao.baidu.com/s?id=1874575257685159213"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1787768714189407.html",
-      "title": "机器人自主进化学院亮相HICOOL",
+      "id": "https://post.smzdm.com/p/axkl68rd/",
+      "title": "神行者8首批试驾口碑出炉:越野内容基本是官方局,真正能听的判断在城市这一边",
+      "summary": "这两天只要打开任何一个App,大概率刷到过几台方盒子爬火山的视频。先把背景说清楚:8月26日,奇瑞捷豹路虎FREELANDER神行者的首款车神行者8,在大同办了上市前规模最大的一场官方全地形试驾,演员......",
+      "source": "Smzdm",
+      "date": "2026-08-27",
+      "url": "https://post.smzdm.com/p/axkl68rd/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-08-27/4562052.html",
+      "title": "美官员称“罗斯福”航母将被派往中东;英伟达市值暴增2.9万亿元;西藏吉隆泥石流原因查明;商务部回应美考虑对华额外加征7.5%关税丨每经早参",
+      "summary": "美官员称“罗斯福”航母将被派往中东;英伟达市值暴增2.9万亿元;西藏吉隆泥石流原因查明;商务部回应美考虑对华额外加征7.5%关税丨每经早参...",
+      "source": "Nbd_Cn",
+      "date": "2026-08-27",
+      "url": "https://www.nbd.com.cn/articles/2026-08-27/4562052.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874679630334120416",
+      "title": "数智向新,人机协同:山西培育新质生产力的转型密码",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-27",
+      "url": "http://baijiahao.baidu.com/s?id=1874679630334120416"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874711657083700546",
+      "title": "真心待兵 用心育兵 全心为兵——记陆军某合成旅政治..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-27",
+      "url": "http://baijiahao.baidu.com/s?id=1874711657083700546"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1787836275129195.html",
+      "title": "享界G9正式发布,全系首发华为智擎自适应差速锁电驱,以精准控制守护出行安全",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-26",
-      "url": "https://www.bjnews.com.cn/detail/1787768714189407.html"
+      "date": "2026-08-27",
+      "url": "https://www.bjnews.com.cn/detail/1787836275129195.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874496610518287946",
-      "title": "欧菲光“光启未来”战略:四大业务矩阵浮现 光学底座..",
+      "id": "https://www.nbd.com.cn/articles/2026-08-27/4560647.html",
+      "title": "影响市场重大事件:上海卫星互联网智算中心正式投运;福建加快开发面向5G/6G宏基站及低轨卫星通信的射频芯片与微波组件;三星电机调涨四季度OEM报价,开启MLCC产业上升周期",
+      "summary": "影响市场重大事件:上海卫星互联网智算中心正式投运;福建加快开发面向5G/6G宏基站及低轨卫星通信的射频芯片与微波组件;三星电机调涨四季度OEM报价,开启MLCC产业上升周期...",
+      "source": "Nbd_Cn",
+      "date": "2026-08-27",
+      "url": "https://www.nbd.com.cn/articles/2026-08-27/4560647.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70dglld/",
+      "title": "驾照上的分,别硬扛:学法减分实操指南,9种驳回情形先自查",
+      "summary": "最近刷到两条内容,一条是B站60多万播放的视频:一个小伙走应急车道被交警拦下,发现分不够扣,当场说了句\"等我学法减分你再处理\"。哔哩哔哩另一条是微博网友的自述,去年底被扣6分,没多久又来一个3分,他硬......",
+      "source": "Smzdm",
+      "date": "2026-08-27",
+      "url": "https://post.smzdm.com/p/a70dglld/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a267qppn/",
+      "title": "任周灿破纪录后最忙的事:教车主学会“怕”",
+      "summary": "7月中旬,小米的一场车主活动上,有小朋友问任周灿:紧张吗?他没有回答\"不紧张\",而是认真讲了一课怎么管理紧张,记录现场的车友把标题写成了\"他的回答我没想到\"。哔哩哔哩很多人没意识到,这位刚用YU7 G......",
+      "source": "Smzdm",
+      "date": "2026-08-27",
+      "url": "https://post.smzdm.com/p/a267qppn/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am9xolld/",
+      "title": "电车改灯,翻了几十个全网案例才明白:最大的坑不是价格,是照抄燃油车思路",
+      "summary": "最近有几条消息,值得放在一起看。8月24日深夜,乌鲁木齐交警夜巡时拦下一辆中网位置装爆闪灯的小客车,车主被依法处罚。微博今年6月,北京交警联合多部门突击查处了两家暗做非法改装的汽修门店。微博而在8月2......",
+      "source": "Smzdm",
+      "date": "2026-08-27",
+      "url": "https://post.smzdm.com/p/am9xolld/"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/nation/2026/08/28/843678",
+      "title": "勿为躲避警示声使用假安全带扣",
+      "summary": "(美里28日讯)安全带不是“要不要系”的选择题,而是发生车祸时保护生命的重要防线。根据严重交通事故伤亡相关报告显示,车内人员一旦没有正确系上安全带,在发生严重碰撞时,受伤甚至死亡的风险也会随之增加。然而,仍有一些驾驶人士为了避免车辆发出安全带警告声,使用所谓的“假安全带扣”欺骗车辆系统,让警示声停止。交警单位提醒,假安全带扣只能让车辆“以为”安全带已经扣上,却无法在发生碰撞时提供任何保护。一旦发生...",
+      "source": "Orientaldaily",
+      "date": "2026-08-27",
+      "url": "https://www.orientaldaily.com.my/news/nation/2026/08/28/843678"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/08-28/10685542.shtml",
+      "title": "大学专业迎来一轮“上新” 就业前景如何?",
+      "summary": "又是一年开学季,大学专业也迎来一轮“上新”。今年,教育部新增38个本科专业,具身智能、智慧植保、国际组织与全球治理等专业集中亮相。这些新专业究竟学什么?就业前景如何?...",
+      "source": "Chinanews",
+      "date": "2026-08-27",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685542.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874563160311140701",
+      "title": "电动三轮车上路,手续齐了吗?",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874496610518287946"
+      "date": "2026-08-27",
+      "url": "http://baijiahao.baidu.com/s?id=1874563160311140701"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1787758794169632.html",
-      "title": "“AI交警”上岗,提升通行效率也是治堵良策 | 新京报快评",
+      "id": "https://www.ithome.com/0/995/339.htm",
+      "title": "吉利银河 TT 小订突破 2 万:预售 14.59 万元起,将于 9 月上市",
+      "summary": "IT之家 8 月 28 日消息,吉利银河昨日宣布,吉利银河 TT 小订突破 2 万 ,将于 9 月上市。 官方还宣布,将为用户追加专属权益: 限时 2500 元享价值 5000 元醇红专属内饰(追加开放 540 后驱尊贵 / 640 后驱旗舰,其中橄榄绿 / 晴午蓝车色可选) 预售期下订用户,可赠送价值 298 元天幕遮阳帘 据IT之家此前报道, 吉利银河 TT 于 8 月 13 日预售发布 ,全...",
+      "source": "Ithome",
+      "date": "2026-08-27",
+      "url": "https://www.ithome.com/0/995/339.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1787834555129167.html",
+      "title": "企业盒子数字孪生平台:三维可视化与虚实联动,重塑智慧园区运营新体验",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-26",
-      "url": "https://www.bjnews.com.cn/detail/1787758794169632.html"
+      "date": "2026-08-27",
+      "url": "https://www.bjnews.com.cn/detail/1787834555129167.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874482428625324053",
-      "title": "刺刀与蜂翼——记“最美新时代革命军人”王晓明",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874482428625324053"
+      "id": "https://www.livemint.com/auto-news/autonomous-driving-technology-gabriel-india-joins-hands-with-south-koreas-hl-klemove-whats-inside-the-joint-venture-11787828253279.html",
+      "title": "Autonomous driving technology: Gabriel India joins hands with South Korea's HL Klemove - what's inside the joint venture",
+      "summary": "Gabriel India HL Klemove joint venture, ₹935 crore investment, 30% stake, ADAS, autonomous driving technology and automotive electronics in India....",
+      "source": "Livemint",
+      "date": "2026-08-27",
+      "url": "https://www.livemint.com/auto-news/autonomous-driving-technology-gabriel-india-joins-hands-with-south-koreas-hl-klemove-whats-inside-the-joint-venture-11787828253279.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874505049876070276",
-      "title": "歼-16对抗“阵风”,现场画面公布",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874505049876070276"
-    },
-    {
-      "id": "https://zhidx.com/p/588393.html",
-      "title": "对话高通执行副总裁:6G与AI催生新型终端,高通以四大切入点布局数据中心",
-      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西圣迭戈8月26日报道,昨日,在高通圣迭戈总部,高通执行副总裁兼技术规划、边缘解决方案与数据中心业务总经理马德嘉(Durga Malladi)与智东西等媒体进行深入交流,分享高通在即将于2029年商用部署的6G技术以及数据中心领域的思考与布局。 马德嘉谈道,AI与6G将产生深度融合。AI智能体会根据任务需求,动态决定推理是在终端、边缘还是云端执行。6...",
-      "source": "Zhidx",
-      "date": "2026-08-26",
-      "url": "https://zhidx.com/p/588393.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1787750465129422.html",
-      "title": "四项重磅发布、200个获奖项目登台,HICOOL峰会开幕",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-26",
-      "url": "https://www.bjnews.com.cn/detail/1787750465129422.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkld4w9/",
-      "title": "极氪8X的稳定杆只给Ultra+:核完配置表、两条争议视频和改装店数据流,给三种人算三笔账",
-      "summary": "最近极氪8X的圈子里,吵得最凶的不是价格,而是一根杆。起因是8月下旬B站一条标题很直白的视频——《没有主动稳定杆的话,极氪8X还能买吗?》,一天多时间播放破万,评论区涌进来五十多条,几乎每一条都在报自己的版本和配置。哔哩哔哩再往前翻,5月初一条《极氪8X......",
-      "source": "Smzdm",
-      "date": "2026-08-26",
-      "url": "https://post.smzdm.com/p/axkld4w9/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgwdrn9/",
-      "title": "九号的长尾配件被抢着装:400-600元配件、100-200元工时费,装之前先算清3笔账和1条红线",
-      "summary": "七八月九号新国标车圈子里最热的讨论,不是新车,而是\"尾巴\"。打开小红书搜\"九号长尾\":8月26日当天还有fz5一体长尾的安装帖,8月24日有mz3长尾座椅安装,8月23日有人晒MZ330长尾加铁锂电池......",
-      "source": "Smzdm",
-      "date": "2026-08-26",
-      "url": "https://post.smzdm.com/p/avgwdrn9/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arz6dp37/",
-      "title": "MG07上市直降2万,L06正在月底冲量:两车都试驾过的人,纠结的其实是同一件事",
-      "summary": "如果你最近在12–16万这个价位看轿跑,大概率绕不开这两台车:深蓝L06和名爵MG07。时间点也很巧。8月21日成都车展,MG07正式上市,限时补贴价10.59万–15.69万,比7月底的预售价直接砍......",
-      "source": "Smzdm",
-      "date": "2026-08-26",
-      "url": "https://post.smzdm.com/p/arz6dp37/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrxznov/",
-      "title": "小鹏智驾记住前30秒、能预判6秒后:大升级明天落地,但先看你车里的芯片再激动",
-      "summary": "明天下午3点,小鹏要在广州办一场「物理AI分享暨第二代VLA全新版本体验日」,主题就两个词:TIME,时间。小红书8月25日官方同步官宣,第二代VLA智驾迎来首次模型重大升级,版本号6.3.0,由G9......",
-      "source": "Smzdm",
-      "date": "2026-08-26",
-      "url": "https://post.smzdm.com/p/aqrxznov/"
+      "id": "https://economictimes.indiatimes.com/industry/auto/auto-components/gabriel-india-teams-up-with-south-koreas-hl-klemove-for-autonomous-driving/articleshow/133559487.cms",
+      "title": "Gabriel India teams up with South Korea’s HL Klemove for autonomous driving",
+      "summary": "Gabriel India has formed a strategic joint venture with South Korea's HL Klemove. This partnership aims to expand Gabriel India's presence in high-growth automotive segments. The collaboration will fo...",
+      "source": "The Economic Times",
+      "date": "2026-08-27",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-components/gabriel-india-teams-up-with-south-koreas-hl-klemove-for-autonomous-driving/articleshow/133559487.cms"
     },
     {
       "id": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-south-koreas-hl-klemove-form-jv-for-autonomous-driving/articleshow/133541512.cms",
@@ -192,22 +259,6 @@
       "source": "TNW",
       "date": "2026-08-25",
       "url": "https://thenextweb.com/news/waymo-munich-germany-autonomous-ride-hailing-2027"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/einride-scales-electric-freight-operations-with-lidl-in-sweden/2411450",
-      "title": "Einride Scales Electric Freight Operations with Lidl in Sweden",
-      "summary": "Einride expands its partnership with Lidl in Sweden, nearly doubling annual electric freight volumes from 474,000 to 832,000 kilometersExpansion extends beyond Stockholm to longer-haul transport acros...",
-      "source": "The Manila Times",
-      "date": "2026-08-25",
-      "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/einride-scales-electric-freight-operations-with-lidl-in-sweden/2411450"
-    },
-    {
-      "id": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests-deep-tech-startup-support",
-      "title": "Korea expands autonomous driving AI tests, deep",
-      "summary": "The government said Monday it will significantly expand pilot projects for locally developed autonomous driving artificial intelligence (AI) and st......",
-      "source": "The Korea Times",
-      "date": "2026-08-24",
-      "url": "https://www.koreatimes.co.kr/business/companies/20260824/korea-expands-autonomous-driving-ai-tests-deep-tech-startup-support"
     }
   ]
 }
