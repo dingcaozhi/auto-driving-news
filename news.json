@@ -1,23 +1,20 @@
 {
-  "lastUpdated": "2026-08-28 11:03:06",
-  "totalCount": 30,
+  "lastUpdated": "2026-08-29 06:48:15",
+  "totalCount": 31,
   "sources": {
     "Bilibili": 5,
-    "News_Baidu": 4,
-    "Smzdm": 4,
-    "Nbd_Cn": 2,
-    "Bjnews": 2,
-    "Orientaldaily": 1,
-    "Chinanews": 1,
-    "Ithome": 1,
+    "Smzdm": 12,
+    "Investing_Cn": 2,
+    "Bjnews": 1,
+    "News_Baidu": 1,
+    "TechBullion": 1,
     "Livemint": 1,
     "The Economic Times": 3,
     "Free Press Journal": 1,
     "CNBC TV18": 1,
     "Outlook Business": 1,
     "The Manila Times": 1,
-    "The Star": 1,
-    "TNW": 1
+    "The Star": 1
   },
   "news": [
     {
@@ -25,23 +22,23 @@
       "title": "【B站】L3 自动驾驶，又是狼来了吗？",
       "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
       "source": "Bilibili",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "id": "https://www.bilibili.com/video/BV1AqtA6XEWx",
+      "title": "【B站】赛道自动驾驶如此成熟，老一辈车手还在坚持手搓",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-08-28",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+      "date": "2026-08-29",
+      "url": "https://www.bilibili.com/video/BV1AqtA6XEWx"
     },
     {
       "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
       "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
@@ -49,136 +46,152 @@
       "title": "【B站】道交法修订草案：自动驾驶汽车在自动驾驶功能激活状态下，发生道路交通安全违法行为，由自动驾驶汽车生产企业、进口企业接受处理",
       "summary": "8月25日，道交法修订草案：自动驾驶汽车在自动驾驶功能激活状态下，发生道路交通安全违法行为，由自动驾驶汽车生产企业、进口企业接受处理...",
       "source": "Bilibili",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "url": "https://www.bilibili.com/video/BV19zh36PEn6"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1QK4o6UEnC",
-      "title": "【B站】L4自动驾驶会在五年内开放个人购买吗？还需要驾照吗？",
-      "summary": "L4自动驾驶普及多年后普通人会被禁止驾驶车辆上路吗？...",
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
       "source": "Bilibili",
+      "date": "2026-08-29",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03d3p4w/",
+      "title": "智界RX预售29.98万起被叫\"科技法拉利\":没有圈速只有AMG大师调校,驾驶乐趣党该当真吗",
+      "summary": "今天成都车展开幕,刷微博大概率绕不开一个话题:#保时捷车主称智界RX是科技法拉利#。事情的起点是8月20日智界RX开启预售,智界汽车执行董事赵长江随后发文称,预售24小时里,L3级自动驾驶架构版本的下......",
+      "source": "Smzdm",
       "date": "2026-08-28",
-      "url": "https://www.bilibili.com/video/BV1QK4o6UEnC"
+      "url": "https://post.smzdm.com/p/a03d3p4w/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874575257685159213",
-      "title": "闪电新闻记者实地体验:外卖“等灯不计时” 最安心的..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-27",
-      "url": "http://baijiahao.baidu.com/s?id=1874575257685159213"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkl68rd/",
-      "title": "神行者8首批试驾口碑出炉:越野内容基本是官方局,真正能听的判断在城市这一边",
-      "summary": "这两天只要打开任何一个App,大概率刷到过几台方盒子爬火山的视频。先把背景说清楚:8月26日,奇瑞捷豹路虎FREELANDER神行者的首款车神行者8,在大同办了上市前规模最大的一场官方全地形试驾,演员......",
+      "id": "https://post.smzdm.com/p/a95g53o0/",
+      "title": "操控是玄学还是科学?工程师视频让评论区吵翻:驾驶乐趣,恰恰是车展上唯一看不见的东西",
+      "summary": "这周发生了一件值得聊的事。8月27日,B站UP主石头SKP发了一条27分钟的视频,叫《操控,是玄学还是科学?听底盘工程师怎么解释》,请了一位底盘工程师(观众熟悉的\"饺子老师\")来讲\"操控\"这两个字。哔......",
       "source": "Smzdm",
-      "date": "2026-08-27",
-      "url": "https://post.smzdm.com/p/axkl68rd/"
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/a95g53o0/"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-27/4562052.html",
-      "title": "美官员称“罗斯福”航母将被派往中东;英伟达市值暴增2.9万亿元;西藏吉隆泥石流原因查明;商务部回应美考虑对华额外加征7.5%关税丨每经早参",
-      "summary": "美官员称“罗斯福”航母将被派往中东;英伟达市值暴增2.9万亿元;西藏吉隆泥石流原因查明;商务部回应美考虑对华额外加征7.5%关税丨每经早参...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-27",
-      "url": "https://www.nbd.com.cn/articles/2026-08-27/4562052.html"
+      "id": "https://post.smzdm.com/p/awwkw27p/",
+      "title": "航海家生产线搬回美国:国产工厂不停,但22.69万入手前,先看清你属于哪一类",
+      "summary": "“航海家生产线要搬回美国”这条消息,这两周在车友圈里发酵得不轻,评论区直接吵成两派:一派说福特这是要放弃中国,另一派说这是抄底捡漏的最后窗口。知乎上相关问题的补充语说得更直接——“福特:这车,再也不从......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/awwkw27p/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874679630334120416",
-      "title": "数智向新,人机协同:山西培育新质生产力的转型密码",
+      "id": "https://post.smzdm.com/p/axklknvw/",
+      "title": "奔驰AMG去纽北跑\"自动驾驶\",据说一圈约20分钟:小米10分29秒的含金量在上升?",
+      "summary": "8月26日,纽博格林北环来了一位\"不速之客\":一辆车顶架着传感器的奔驰AMG GT 63测试车完成了两圈放手式自动驾驶跑圈,但两圈成绩都远不及小米YU7 GT创下的自动驾驶圈速纪录。微博消息传回,小米......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/axklknvw/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rdr9ll/",
+      "title": "电动摩托车主扎堆考D证:报名费599到一千多都有,但最大的坑不在考场里",
+      "summary": "最近刷到南阳一位电动车主的求助帖,挺有代表性:南阳交管支队发了通告,意思是大部分人骑的这种车都算轻便摩托车,两轮三轮都得考证、都得买保险。小红书这位楼主纠结的不是考不考,而是——南阳目前能考D证的只有......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/a5rdr9ll/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomxm2g9/",
+      "title": "极氪车机被骂\"关系户\":核完全网这周的吐槽帖,问题就4类,出路有3条",
+      "summary": "昨晚,小红书上一篇《极氪的软件团队都是关系户?》的帖子吵了起来,到我写这篇时评论已经86条,还在涨。小红书到了今天,又有人发帖说\"极氪车机团队真无敌了\"。小红书偏偏成都车展开幕,极氪展台围观的人不少,......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/aomxm2g9/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70d0m4o/",
+      "title": "比亚迪半年报出炉:利润降了两成,反而说明9月大概率没有全线大降价",
+      "summary": "8月28日晚上,比亚迪把2026年上半年的成绩单交了出来:营收3448.15亿元,同比下降7.13%;归母净利润123.25亿元,同比下降20.54%;基本每股收益1.35元,半年度不派发现金红利。界......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/a70d0m4o/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arz6z5rx/",
+      "title": "对完七八月的颗粒捕捉器恐慌潮和真实维修单,我捋清了:堵分两种,只有一种归保养花的钱管",
+      "summary": "最近“颗粒捕捉器”又在短视频平台上刷屏了。B站播放量最高的一条,标题是《买车一定不能选,带颗粒捕捉器的,否则真的会后悔终身》。哔哩哔哩小红书上已经有人在喊,赶紧去看看你的车有没有加装颗粒捕捉器吧!小红......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/arz6z5rx/"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3543029",
+      "title": "佑驾创新(02431)旗下曜行动力获增资2.4亿元 推进物理AI与无人车商业化",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-27",
-      "url": "http://baijiahao.baidu.com/s?id=1874679630334120416"
+      "source": "Investing_Cn",
+      "date": "2026-08-28",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3543029"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874711657083700546",
-      "title": "真心待兵 用心育兵 全心为兵——记陆军某合成旅政治..",
+      "id": "https://post.smzdm.com/p/al3x3rn8/",
+      "title": "2856元买的折叠车,当天带女儿就摔出胸椎骨折:翻完全网亲子骑行帖,我把带娃的红线和靠谱的座椅整理出来了",
+      "summary": "今年夏天,给折叠车装上儿童座椅、带娃出门的人明显变多了。翻小红书你会发现,亲子骑行的帖子几乎天天有:\"春天带娃骑行好快乐呀🎉取个快递~去个公园~赶个集~买个菜~视野很好,储备娃视力。“这篇迪卡侬TILT120亲子骑行帖,点赞3200多、收藏3100多。小......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/al3x3rn8/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8x8q0k/",
+      "title": "“免考拿摩托车D证”全是骗子:考证焦虑期,三条正规路线和真实成本一次说清",
+      "summary": "今天刷到一条广东博主的实测帖,后背发凉:一种叫\"免考增加摩托车D证\"的新型骗局正在盯着想考证的骑士,套路一环扣一环——先把你从平台引到微信,只打语音不留文字;再让你交证件照和本人照片;然后引导你下载一个所谓\"驾考学时打卡\"的APP;关键一步来了,报名时会......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/ak8x8q0k/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03d3w98/",
+      "title": "雅迪门店承认“先上牌再调速”:解限速一趟省9分钟,你要拿什么换?四笔账替你算清了",
+      "summary": "8月28日晚,#电动自行车调速成灰产# 上热搜。每日经济记者走访发现,从品牌专卖店到电商平台,“先上牌、后改装”的“调速”灰色操作产业链仍在照常运转。每日经济新闻 一家雅迪门店的销售对记者说:“你在店里提完车去上牌,之后再来店里调速,现在给你调高速度,到......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/a03d3w98/"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3542973",
+      "title": "亿航智能完成香港首次eVTOL公开飞行演示",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-27",
-      "url": "http://baijiahao.baidu.com/s?id=1874711657083700546"
+      "source": "Investing_Cn",
+      "date": "2026-08-28",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3542973"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1787836275129195.html",
-      "title": "享界G9正式发布,全系首发华为智擎自适应差速锁电驱,以精准控制守护出行安全",
+      "id": "https://www.bjnews.com.cn/detail/1787923207129120.html",
+      "title": "道路交通安全法拟修订,自动驾驶汽车道路交通安全制度将写入法律",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-27",
-      "url": "https://www.bjnews.com.cn/detail/1787836275129195.html"
+      "date": "2026-08-28",
+      "url": "https://www.bjnews.com.cn/detail/1787923207129120.html"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-27/4560647.html",
-      "title": "影响市场重大事件:上海卫星互联网智算中心正式投运;福建加快开发面向5G/6G宏基站及低轨卫星通信的射频芯片与微波组件;三星电机调涨四季度OEM报价,开启MLCC产业上升周期",
-      "summary": "影响市场重大事件:上海卫星互联网智算中心正式投运;福建加快开发面向5G/6G宏基站及低轨卫星通信的射频芯片与微波组件;三星电机调涨四季度OEM报价,开启MLCC产业上升周期...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-27",
-      "url": "https://www.nbd.com.cn/articles/2026-08-27/4560647.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a70dglld/",
-      "title": "驾照上的分,别硬扛:学法减分实操指南,9种驳回情形先自查",
-      "summary": "最近刷到两条内容,一条是B站60多万播放的视频:一个小伙走应急车道被交警拦下,发现分不够扣,当场说了句\"等我学法减分你再处理\"。哔哩哔哩另一条是微博网友的自述,去年底被扣6分,没多久又来一个3分,他硬......",
-      "source": "Smzdm",
-      "date": "2026-08-27",
-      "url": "https://post.smzdm.com/p/a70dglld/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a267qppn/",
-      "title": "任周灿破纪录后最忙的事:教车主学会“怕”",
-      "summary": "7月中旬,小米的一场车主活动上,有小朋友问任周灿:紧张吗?他没有回答\"不紧张\",而是认真讲了一课怎么管理紧张,记录现场的车友把标题写成了\"他的回答我没想到\"。哔哩哔哩很多人没意识到,这位刚用YU7 G......",
-      "source": "Smzdm",
-      "date": "2026-08-27",
-      "url": "https://post.smzdm.com/p/a267qppn/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am9xolld/",
-      "title": "电车改灯,翻了几十个全网案例才明白:最大的坑不是价格,是照抄燃油车思路",
-      "summary": "最近有几条消息,值得放在一起看。8月24日深夜,乌鲁木齐交警夜巡时拦下一辆中网位置装爆闪灯的小客车,车主被依法处罚。微博今年6月,北京交警联合多部门突击查处了两家暗做非法改装的汽修门店。微博而在8月2......",
-      "source": "Smzdm",
-      "date": "2026-08-27",
-      "url": "https://post.smzdm.com/p/am9xolld/"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/nation/2026/08/28/843678",
-      "title": "勿为躲避警示声使用假安全带扣",
-      "summary": "(美里28日讯)安全带不是“要不要系”的选择题,而是发生车祸时保护生命的重要防线。根据严重交通事故伤亡相关报告显示,车内人员一旦没有正确系上安全带,在发生严重碰撞时,受伤甚至死亡的风险也会随之增加。然而,仍有一些驾驶人士为了避免车辆发出安全带警告声,使用所谓的“假安全带扣”欺骗车辆系统,让警示声停止。交警单位提醒,假安全带扣只能让车辆“以为”安全带已经扣上,却无法在发生碰撞时提供任何保护。一旦发生...",
-      "source": "Orientaldaily",
-      "date": "2026-08-27",
-      "url": "https://www.orientaldaily.com.my/news/nation/2026/08/28/843678"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/08-28/10685542.shtml",
-      "title": "大学专业迎来一轮“上新” 就业前景如何?",
-      "summary": "又是一年开学季,大学专业也迎来一轮“上新”。今年,教育部新增38个本科专业,具身智能、智慧植保、国际组织与全球治理等专业集中亮相。这些新专业究竟学什么?就业前景如何?...",
-      "source": "Chinanews",
-      "date": "2026-08-27",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685542.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874563160311140701",
-      "title": "电动三轮车上路,手续齐了吗?",
+      "id": "http://baijiahao.baidu.com/s?id=1874781206245358852",
+      "title": "数博会:在林城与机器人一起“赶集”",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-27",
-      "url": "http://baijiahao.baidu.com/s?id=1874563160311140701"
+      "date": "2026-08-28",
+      "url": "http://baijiahao.baidu.com/s?id=1874781206245358852"
     },
     {
-      "id": "https://www.ithome.com/0/995/339.htm",
-      "title": "吉利银河 TT 小订突破 2 万:预售 14.59 万元起,将于 9 月上市",
-      "summary": "IT之家 8 月 28 日消息,吉利银河昨日宣布,吉利银河 TT 小订突破 2 万 ,将于 9 月上市。 官方还宣布,将为用户追加专属权益: 限时 2500 元享价值 5000 元醇红专属内饰(追加开放 540 后驱尊贵 / 640 后驱旗舰,其中橄榄绿 / 晴午蓝车色可选) 预售期下订用户,可赠送价值 298 元天幕遮阳帘 据IT之家此前报道, 吉利银河 TT 于 8 月 13 日预售发布 ,全...",
-      "source": "Ithome",
-      "date": "2026-08-27",
-      "url": "https://www.ithome.com/0/995/339.htm"
+      "id": "https://post.smzdm.com/p/a8252m87/",
+      "title": "830马力、单座、官方明说暂无量产:我把凯迪拉克V-ONE的实锤、外媒解读和评论区脑洞分成三档",
+      "summary": "8月底的加州卡梅尔,蒙特雷汽车周的The Quail草坪上,凯迪拉克放出了一台\"买不到的车\":V-ONE概念车,830马力、单座驾驶舱、源自跑勒芒和IMSA的V-Series.R赛车的碳纤维单体壳。而......",
+      "source": "Smzdm",
+      "date": "2026-08-28",
+      "url": "https://post.smzdm.com/p/a8252m87/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1787834555129167.html",
-      "title": "企业盒子数字孪生平台:三维可视化与虚实联动,重塑智慧园区运营新体验",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-27",
-      "url": "https://www.bjnews.com.cn/detail/1787834555129167.html"
+      "id": "https://techbullion.com/chinese-robotaxi-leading-players-accelerate-deployment-caocao-mobility-advances/",
+      "title": "Chinese Robotaxi Leading Players​ Accelerate Deployment: CaoCao Mobility Advances",
+      "summary": ", providing a new practical sample for autonomous driving mobility to move from technology validation to scaled operations....",
+      "source": "TechBullion",
+      "date": "2026-08-28",
+      "url": "https://techbullion.com/chinese-robotaxi-leading-players-accelerate-deployment-caocao-mobility-advances/"
     },
     {
       "id": "https://www.livemint.com/auto-news/autonomous-driving-technology-gabriel-india-joins-hands-with-south-koreas-hl-klemove-whats-inside-the-joint-venture-11787828253279.html",
@@ -243,22 +256,6 @@
       "source": "The Manila Times",
       "date": "2026-08-26",
       "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/tier-iv-to-showcase-integrated-ai-data-and-computing-solution-for-sdvs-at-automotive-world-2026/2412255"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/08/25/waymo-to-begin-testing-autonomous-vehicles-in-munich",
-      "title": "Waymo to begin testing autonomous vehicles in Munich",
-      "summary": "Aug 25 (Reuters) - Self-driving ⁠technology company Waymo said on Tuesday it ⁠would begin testing its autonomous vehicles in ‌Munich in the coming weeks, laying the groundwork for a commercial ride-ha...",
-      "source": "The Star",
-      "date": "2026-08-25",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/25/waymo-to-begin-testing-autonomous-vehicles-in-munich"
-    },
-    {
-      "id": "https://thenextweb.com/news/waymo-munich-germany-autonomous-ride-hailing-2027",
-      "title": "Waymo is coming to Munich, with commercial service targeted for late 2027",
-      "summary": "Waymo will begin mapping and manually driving Munich in the coming weeks, targeting commercial autonomous ride-hailing in Germany by the end of 2027....",
-      "source": "TNW",
-      "date": "2026-08-25",
-      "url": "https://thenextweb.com/news/waymo-munich-germany-autonomous-ride-hailing-2027"
     }
   ]
 }
