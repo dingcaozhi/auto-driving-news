@@ -1,207 +1,148 @@
 {
-  "lastUpdated": "2026-08-30 05:00:57",
-  "totalCount": 41,
+  "lastUpdated": "2026-08-31 05:07:54",
+  "totalCount": 24,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 4,
-    "News_Baidu": 6,
-    "Bjnews": 1,
-    "Pcauto_Cn": 2,
-    "Ithome": 2,
-    "Chinanews": 1,
-    "Vietnamplus": 1,
+    "News_Baidu": 4,
+    "Ign_Cn": 1,
+    "Smzdm": 8,
+    "Fx168News": 1,
+    "The Korea Times": 1,
+    "Santa Rosa Press Democrat": 1,
     "TechBullion": 1,
-    "EUROPE SAYS": 2,
     "Livemint": 1,
-    "The Economic Times": 4,
+    "The Economic Times": 3,
     "Free Press Journal": 1,
     "CNBC TV18": 1,
-    "Outlook Business": 1,
-    "The Manila Times": 1,
-    "The Star": 1,
-    "The Verge": 1,
-    "Seeking Alpha": 1,
-    "CNBC": 1,
-    "South China Morning Post": 1,
-    "Republic World": 1,
-    "TechRadar": 1
+    "Outlook Business": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
+      "id": "http://baijiahao.baidu.com/s?id=1874952353719427956",
+      "title": "“超级接口产业”崛起!引领了全球汽车行业的哪些新标..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
       "date": "2026-08-30",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+      "url": "http://baijiahao.baidu.com/s?id=1874952353719427956"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.ign.com.cn/the-witcher-3-wild-hunt-songs-of-the-past/62409/wu-shi-3kuang-xi-zhong-zhi-ban-ji-jiu-shi-qu-zhu-chuang-fang-tan-jue-bu-zhi-shi-gao-qing-fu-ke",
+      "title": "《巫师 3:狂猎 重制版》及“旧时曲”主创访谈:绝不只是高清复刻",
+      "summary": "NewsData报道",
+      "source": "Ign_Cn",
       "date": "2026-08-30",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+      "url": "https://www.ign.com.cn/the-witcher-3-wild-hunt-songs-of-the-past/62409/wu-shi-3kuang-xi-zhong-zhi-ban-ji-jiu-shi-qu-zhu-chuang-fang-tan-jue-bu-zhi-shi-gao-qing-fu-ke"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-30",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1AqtA6XEWx",
-      "title": "【B站】赛道自动驾驶如此成熟，老一辈车手还在坚持手搓",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-08-30",
-      "url": "https://www.bilibili.com/video/BV1AqtA6XEWx"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV14k426LEcy",
-      "title": "【B站】小鹏第二代VLA(6.3.0版），自动驾驶时代要来了！",
-      "summary": "小鹏第二代VLA全新版本(XOS 6.3.0版）体验完了，超高难度小路，全程只按1次喇叭，丝滑高效到令人震惊的程度。\n\n一句话：自动驾驶时代真的要来了！...",
-      "source": "Bilibili",
-      "date": "2026-08-30",
-      "url": "https://www.bilibili.com/video/BV14k426LEcy"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrxwrk7/",
-      "title": "埃安i60第二次OTA明日开始推送:20项升级先别急着开心,谁能拿到RAEB、谁还要等年款,先算清再上车",
-      "summary": "明天(8月30日),埃安i60的第二次OTA开始分批推送。CNMO科技官方给这轮升级的定调是\"听劝型宠粉\":8大核心升级+12项体验优化,合计20项,覆盖安全、座舱、屏显三个维度,挂着\"埃安i60产品......",
+      "id": "https://post.smzdm.com/p/ae6nlv9k/",
+      "title": "李斌当众夸过的灯,现在成了回旋镖:星宇劝退107个应届生后,“抵制蔚来”的喊话冲进了ET9会客厅",
+      "summary": "8月30日上午,蔚来官方节目《ET9会客厅》第32期的评论区突然涌进一批陌生面孔。那期节目是去年11月李斌对话星宇股份董事长周晓萍的,标题原本讲的是\"创新、选择、女性力量\",如今置顶热评是一句:“谁用......",
       "source": "Smzdm",
-      "date": "2026-08-29",
-      "url": "https://post.smzdm.com/p/aqrxwrk7/"
+      "date": "2026-08-30",
+      "url": "https://post.smzdm.com/p/ae6nlv9k/"
     },
     {
-      "id": "https://post.smzdm.com/p/a825m2z6/",
-      "title": "《人民日报》为玄戒O3等点赞 雷军表态继续努力!小米已是中国半导体前三规模的公司",
-      "summary": "快科技8月29日消息,不少消费者此前都没意识到,要是按照营收规模和研发投入的维度统计,如今的小米已经跻身中国本土半导体行业规模前三的第一梯队阵营。最近小米正式对外发布了玄戒O3、O100、D100三款......",
+      "id": "https://post.smzdm.com/p/am9xzx5v/",
+      "title": "智驾小蓝灯被禁,埃安回应只有\"评估中\":i60和N60的车主、准车主,各要做三件事",
+      "summary": "智驾小蓝灯被禁,埃安回应只有\"评估中\":i60和N60的车主、准车主,各要做三件事8月28日,B站账号\"广汽凌新新\"——埃安i60产品首席服务生——发了一条92秒的短视频,回应最近i60车主圈里问得最......",
       "source": "Smzdm",
-      "date": "2026-08-29",
-      "url": "https://post.smzdm.com/p/a825m2z6/"
+      "date": "2026-08-30",
+      "url": "https://post.smzdm.com/p/am9xzx5v/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874825200853020920",
-      "title": "泰钽700焕新价24.98万起!树立华系智能豪华越..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-29",
-      "url": "http://baijiahao.baidu.com/s?id=1874825200853020920"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874856425819627174",
-      "title": "低空经济带火“飞手”考证热:17岁高中生与47岁宝..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-29",
-      "url": "http://baijiahao.baidu.com/s?id=1874856425819627174"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1787995909168087.html",
-      "title": "北京警方提前开展校园周边整治,确保秋季开学安全有序",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-29",
-      "url": "https://www.bjnews.com.cn/detail/1787995909168087.html"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5179/51799812.html",
-      "title": "第二十届交通安全论坛落幕 智能汽车产业规范路径明确",
-      "summary": "8月25日北京举办第二十届中国道路交通安全论坛,聚焦智能新能源汽车安全等议题,形成行业共识,为产业规范发展提供参考。...",
-      "source": "Pcauto_Cn",
-      "date": "2026-08-29",
-      "url": "http://www.pcauto.com.cn/news/5179/51799812.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7283on/",
-      "title": "干货来了!新一代奥迪Q5L带乾崑智驾,看懂配置不踩坑",
-      "summary": "现在的豪华中型SUV市场,更新迭代速度真的特别快,不光是动力系统在升级,智能辅助配置也在持续补齐。以往大家选这个级别车型,基本只看重底盘质感、品牌调性和整车稳定性,现在混动动力、高阶智驾已经成为主流升级方向。新一代奥迪Q5L完成全面迭代之后,最大的变化就......",
+      "id": "https://post.smzdm.com/p/aomx2x6n/",
+      "title": "四部门严查“速成车”:我把《通知》逐行读完,智驾这6个问题现在可以拿去为难销售",
+      "summary": "8月27日,工信部、公安部、生态环境部、市场监管总局四部门联合发了一份文件:《关于开展道路机动车辆产品生产一致性和质量提升专项行动的通知》。专项行动从当天开始,全国范围,为期一年。第一财经知乎\"速成车......",
       "source": "Smzdm",
-      "date": "2026-08-29",
-      "url": "https://post.smzdm.com/p/ad7283on/"
+      "date": "2026-08-30",
+      "url": "https://post.smzdm.com/p/aomx2x6n/"
     },
     {
-      "id": "https://www.ithome.com/0/996/046.htm",
-      "title": "R 星确认《GTA6》新增压制火力机制,可避免击杀警察与无辜平民",
-      "summary": "IT之家 8 月 29 日消息,日媒 Fami 通昨日发布博文,报道称 Rockstar North 工作室近日发布《GTA6》加长实机预告片,开发负责人罗伯 · 尼尔森(Rob Nelson)也在近期回答了玩家关心的游戏机制、细节玩法问题。 罗伯表示,玩家在游戏中除了偷车,还可以靠抢劫商店来赚钱。当你靠近商店准备举枪闯入时,旁边好心的路人可能会报警。这时候如果你已经完成洗劫并准备推门离开,警察可...",
-      "source": "Ithome",
-      "date": "2026-08-29",
-      "url": "https://www.ithome.com/0/996/046.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874865924004019145",
-      "title": "一杯贵州茶 温暖赶路人",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-29",
-      "url": "http://baijiahao.baidu.com/s?id=1874865924004019145"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gj/2026/08-29/10686579.shtml",
-      "title": "中国新能源公交车驶入比什凯克市民日常",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-08-29",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686579.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874819867013685263",
-      "title": "河南父亲自驾上万公里送双胞胎上大学:女儿去黑龙江佳..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-29",
-      "url": "http://baijiahao.baidu.com/s?id=1874819867013685263"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874821819422852030",
-      "title": "河南父亲自驾上万公里送双胞胎上大学:女儿去祖国东端..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-29",
-      "url": "http://baijiahao.baidu.com/s?id=1874821819422852030"
-    },
-    {
-      "id": "https://www.ithome.com/0/996/033.htm",
-      "title": "一汽红旗全新 H7 推出限时置换优惠,16.18 万元起",
-      "summary": "IT之家 8 月 29 日消息,一汽红旗官方宣布,首发 18.18 万元起的全新红旗 H7 开启限时置换优惠活动,限时置换价 16.18 万元起。 全新红旗 H7 采用了红旗品牌最新的家族式设计语言。前脸部分,无边框直瀑式格栅与一体化 LED 大灯巧妙融合,配合飞翼样式的镀铬双饰面板,整体造型端庄大气。车身侧面采用动感的溜背造型和半隐藏式门把手。车尾并未采用贯穿式尾灯,而是以造型犀利的修长灯组提升...",
-      "source": "Ithome",
-      "date": "2026-08-29",
-      "url": "https://www.ithome.com/0/996/033.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak8xzmw4/",
-      "title": "成都高端车市格局重塑",
-      "summary": "成都人民偏爱BBA是汽车圈都深表认可的事。一直以来,成都的机动车保有量全国靠前,大量拥有家庭第二/第三台车,巴适的成都人民早年如果有30万以上的预算,BBA几乎是买高端车的默认选项,街上BBA能见度非常高。2021年前后,BBA经常能冲进成都品牌销量前五......",
+      "id": "https://post.smzdm.com/p/a95grg70/",
+      "title": "一汽大众高管那句“新能源成功率仅8%”火了:先拆700款的口径,再看下单前这4个硬核对",
+      "summary": "预售发布会上的那句\"8%\",比价格更扎心8月28日,一汽-大众把全新新能源序列的首款车型ID.AURA T6推上预售,四个版本,预售价13.59万元起。电动星球 但真正在行业群里刷屏的,是销售总经理王......",
       "source": "Smzdm",
-      "date": "2026-08-29",
-      "url": "https://post.smzdm.com/p/ak8xzmw4/"
+      "date": "2026-08-30",
+      "url": "https://post.smzdm.com/p/a95grg70/"
     },
     {
-      "id": "https://zh.vietnamplus.vn/article-post267539.vnp",
-      "title": "岘港继续搜救QNa-90859-TS号渔船失联船员",
-      "summary": "8月29日,岘港市人民委员会就QNa-90859-TS号渔船搜救工作发布通报。该渔船在海上作业期间失联,船上共有49名船员。 越南金瓯省加大打击IUU捕捞力度 实现渔船管理全面数字化 解除IUU“黄牌”警告:强化监管,严防渔船违规作业 越南“魁元18”号船搜救工作:已有48人获救 黄沙特区南部海域9名岘港渔民获救 广义省遇险渔船及船员及时获救 国际豪华邮轮遇险 乘客成功获救 复杂多器官移植手术成功...",
-      "source": "Vietnamplus",
-      "date": "2026-08-29",
-      "url": "https://zh.vietnamplus.vn/article-post267539.vnp"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874857302944859254",
-      "title": "专访心言集团创始人任永亮:当机器人进入家庭,“人机..",
+      "id": "http://baijiahao.baidu.com/s?id=1874736127724601333",
+      "title": "成都一男生高考592分,超过本科线157分却报考高..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-29",
-      "url": "http://baijiahao.baidu.com/s?id=1874857302944859254"
+      "date": "2026-08-30",
+      "url": "http://baijiahao.baidu.com/s?id=1874736127724601333"
     },
     {
-      "id": "http://www.pcauto.com.cn/news/5179/51799804.html",
-      "title": "比亚迪发布2026半年财报:营收3448亿元/海外销量同比大涨",
+      "id": "https://post.smzdm.com/p/agg434mw/",
+      "title": "比亚迪海狮08即将上市:5.1米车长+900km续航+后轮转向,23万起!",
+      "summary": "9月2日,比亚迪海洋网全新旗舰中大型SUV海狮08将在成都正式上市,一台车长超5.1米、轴距超3米、CLTC最高续航900km、标配云辇-A+后轮转向+激光雷达的中大型SUV,预售价23万起。一、尺寸......",
+      "source": "Smzdm",
+      "date": "2026-08-30",
+      "url": "https://post.smzdm.com/p/agg434mw/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg43d2d/",
+      "title": "比亚迪智驾叫板华为,要的不是承认,而是用户关于智驾的心智!",
+      "summary": "8 月 19 日,比亚迪海洋网销售事业部总经理张卓坐在 2027 款海豹 06 上市后的采访席上,扔出一句话:现在比亚迪的智能驾驶能力比华为强,只不过没人相信而已。车圈当天就炸了。可真正值得盯的不是这......",
+      "source": "Smzdm",
+      "date": "2026-08-30",
+      "url": "https://post.smzdm.com/p/agg43d2d/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae6nld3z/",
+      "title": "A股轮动创年内新高,哑铃式配置如何在结构市中逢低布局",
+      "summary": "A股现在的轮动速度已经创下年内新高,8月的主线留存率直接飙到历史97.5%分位,相当于电风扇行情开到了最大档。这种存量博弈下,机会根本不在当天的涨幅榜里,而是在“高低切换”的洼地中。想在快速轮动中不被左右打脸,核心法则就四个字:逢低布局。资金没走,只是在......",
+      "source": "Smzdm",
+      "date": "2026-08-30",
+      "url": "https://post.smzdm.com/p/ae6nld3z/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874952933292757285",
+      "title": "智驭数博|办好一场会,提升一座城 How the ..",
       "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
+      "source": "News_Baidu",
+      "date": "2026-08-30",
+      "url": "http://baijiahao.baidu.com/s?id=1874952933292757285"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874957181411247943",
+      "title": "武汉铁院与卡斯柯信号有限公司签约共建“楚天青苗学院..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-08-30",
+      "url": "http://baijiahao.baidu.com/s?id=1874957181411247943"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al3q2z3p/",
+      "title": "AI 开服了:LingBot-World 2.0 做成了可玩的开源无限世界",
+      "summary": "作者|樊雅婷**|FFF111f__《楚门的世界》里,街道、天气、邻居、广播都按剧本运行,但当楚门开始偏离路线,幕后团队只能狼狈地临时调整灯光、天气和对白,徒劳地维持那个世界的“正常”。这像极了上一代......",
+      "source": "Smzdm",
+      "date": "2026-08-30",
+      "url": "https://post.smzdm.com/p/al3q2z3p/"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1084767",
+      "title": "AI应用周度观察(2026.08.24-2026.08.30)-FX168",
+      "summary": "赛道一:通用消费级AI应用(C端流量+生态) 1、字节跳动:发布\"豆包工作\"AI办公智能体,深度打通飞书生态 8月25日,字节跳动正式发布面向生产力场景的全新Agent产品品牌\"豆包工作\",实现从问答式AI助手向可自主执行复杂任务的数字办公助手跨越。用户输入工作目标后,产品自动完成任务拆解、工具调用、信息搜集与多步骤流转,输出可直接使用的文档、表格、PPT及多媒体文件;产品与飞书深度打通,可读取聊...",
+      "source": "Fx168News",
+      "date": "2026-08-30",
+      "url": "https://www.fx168news.com/article/1084767"
+    },
+    {
+      "id": "https://www.koreatimes.co.kr/business/tech-science/20260830/ponyai-to-bring-200-level-4-robotaxis-to-korea-by-2028",
+      "title": "Pony.ai to bring 200 Level 4 robotaxis to Korea by 2028",
+      "summary": "Chinese autonomous driving company Pony.ai is partnering with local mobility firm FutureLink to introduce 200 Level 4 self-driving taxis to Korea b......",
+      "source": "The Korea Times",
+      "date": "2026-08-30",
+      "url": "https://www.koreatimes.co.kr/business/tech-science/20260830/ponyai-to-bring-200-level-4-robotaxis-to-korea-by-2028"
+    },
+    {
+      "id": "https://www.pressdemocrat.com/2026/08/29/california-regulators-rushed-their-decision-on-driverless-trucks-teamsters-lawsuit-says-3/",
+      "title": "California regulators rushed their decision on driverless trucks, Teamsters’ lawsuit says",
+      "summary": "As self-driving vehicles spread across the country, a major California labor union is taking a stand against state regulators who say autonomous trucks are ready for the road....",
+      "source": "Santa Rosa Press Democrat",
       "date": "2026-08-29",
-      "url": "http://www.pcauto.com.cn/news/5179/51799804.html"
+      "url": "https://www.pressdemocrat.com/2026/08/29/california-regulators-rushed-their-decision-on-driverless-trucks-teamsters-lawsuit-says-3/"
     },
     {
       "id": "https://techbullion.com/chinese-robotaxi-leading-players-accelerate-deployment-caocao-mobility-advances/",
@@ -210,14 +151,6 @@
       "source": "TechBullion",
       "date": "2026-08-28",
       "url": "https://techbullion.com/chinese-robotaxi-leading-players-accelerate-deployment-caocao-mobility-advances/"
-    },
-    {
-      "id": "https://www.europesays.com/3220490/",
-      "title": "Tesla Confirms FSD v14 Lite in Development for Australia & New Zealand",
-      "summary": "Owners of older Hardware 3 (HW3/AI3) vehicles in Australia and New Zealand have been waiting patiently for news regarding Full Self-Driving v14 Lite. Now,...",
-      "source": "EUROPE SAYS",
-      "date": "2026-08-28",
-      "url": "https://www.europesays.com/3220490/"
     },
     {
       "id": "https://www.livemint.com/auto-news/autonomous-driving-technology-gabriel-india-joins-hands-with-south-koreas-hl-klemove-whats-inside-the-joint-venture-11787828253279.html",
@@ -266,6 +199,14 @@
       "source": "The Economic Times",
       "date": "2026-08-26",
       "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology/articleshow/133534551.cms"
+    },
+    {
+      "id": "https://www.outlookbusiness.com/corporate/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology",
+      "title": "Gabriel India Forms JV With South Korea's HL Klemove For Autonomous Driving Technology",
+      "summary": "To form the joint venture, Gabriel India Ltd will acquire a 30% less one share stake in HL Klemove India for $98.44 million (approximately ₹935 crore), it added....",
+      "source": "Outlook Business",
+      "date": "2026-08-26",
+      "url": "https://www.outlookbusiness.com/corporate/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology"
     }
   ]
 }
