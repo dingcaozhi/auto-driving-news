@@ -1,13 +1,16 @@
 {
-  "lastUpdated": "2026-09-01 04:44:37",
-  "totalCount": 28,
+  "lastUpdated": "2026-09-02 04:06:03",
+  "totalCount": 25,
   "sources": {
-    "Bilibili": 5,
-    "Investing_Cn": 1,
-    "Rednet_Cn": 2,
-    "Smzdm": 5,
-    "News_Baidu": 4,
+    "21Jingji": 1,
+    "Bjnews": 4,
+    "News_Baidu": 5,
     "Ithome": 1,
+    "Smzdm": 2,
+    "Chinanews": 1,
+    "Investing_Cn": 1,
+    "Westword": 1,
+    "Caixin": 1,
     "The Straits Times": 1,
     "The Manila Times": 1,
     "PR Newswire UK": 1,
@@ -15,153 +18,144 @@
     "The Korea Times": 1,
     "Santa Rosa Press Democrat": 1,
     "TechBullion": 1,
-    "Livemint": 1,
-    "The Economic Times": 2
+    "Livemint": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
+      "id": "https://m.21jingji.com/article/20260901/herald/ea739cd5a74ae1cd37528e67a66824d8.html",
+      "title": "深圳红树林湿地有了专门法规保护",
+      "summary": "作为深圳一张亮眼的生态名片,红树林湿地有了专门的法规护航。《深圳经济特区红树林湿地保护若干规定》(以下简称《规定》)经市人大常委会会议表决通过,拟于11月5日起正式实施。这部“小切口”法规,构建覆盖保......",
+      "source": "21Jingji",
       "date": "2026-09-01",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+      "url": "https://m.21jingji.com/article/20260901/herald/ea739cd5a74ae1cd37528e67a66824d8.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1788266563129301.html",
+      "title": "时延4毫秒、电价三毛五:AI的“大脑”为什么长在草原上?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-09-01",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+      "url": "https://www.bjnews.com.cn/detail/1788266563129301.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1z5ta6cEkZ",
-      "title": "【B站】马斯克又放大招！特斯拉Cybercab正式量产！美国进入自动驾驶时代！",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1788265598169744.html",
+      "title": "开学首日,北京海淀公安护航46万学子平安返校",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-09-01",
-      "url": "https://www.bilibili.com/video/BV1z5ta6cEkZ"
+      "url": "https://www.bjnews.com.cn/detail/1788265598169744.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1bztn65E1D",
-      "title": "【B站】特斯拉正式打响无人驾驶终局之战！9月3日奥斯汀CyberCab发布会！",
-      "summary": "特斯拉正式打响无人驾驶终局之战！9月3日奥斯汀CyberCab发布会！...",
-      "source": "Bilibili",
+      "id": "http://baijiahao.baidu.com/s?id=1875140175582608996",
+      "title": "开学典礼上,“世赛选手”对协和学子都说了啥?",
+      "summary": "9月1日,以“技能连世界,文化共传承”为主题的静安区协和双语培明学校2026学年第一学期开学典礼暨“地铁安全进校园”开学第一课启动仪式在学校小剧场举行。来自地铁维保企业、团区委的相关嘉宾,世赛赛事教练、地铁维保技能工匠来...",
+      "source": "News_Baidu",
       "date": "2026-09-01",
-      "url": "https://www.bilibili.com/video/BV1bztn65E1D"
+      "url": "http://baijiahao.baidu.com/s?id=1875140175582608996"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1nTtt6JEh3",
-      "title": "【B站】L3自动驾驶安全国标出炉！划重点解读：还是不能开车睡觉！",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.ithome.com/0/997/173.htm",
+      "title": "百度 CFO 何海建:AI 业务有望很快带来与搜索业务相当的利润和现金回报",
+      "summary": "IT之家 9 月 1 日消息,据彭博社今天(1 日)报道,百度首席财务官何海建表示,公司在 AI 领域的大规模投入 有望 很快带来与搜索业务相当的利润和现金回报 ,也将证明百度从互联网企业向 AI 公司的转型方向正确。 目前,百度 AI 相关收入已经覆盖 云计算、应用等多个业务领域 ,占公司总收入的一半以上。何海建预计,这一增长趋势仍会持续。随着云服务和 AI 芯片需求增长,AI 业务的利润率近期...",
+      "source": "Ithome",
       "date": "2026-09-01",
-      "url": "https://www.bilibili.com/video/BV1nTtt6JEh3"
+      "url": "https://www.ithome.com/0/997/173.htm"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3545468",
-      "title": "上半年研发投入1213亿再创新高!华为赌未来,利润先靠边?",
+      "id": "https://post.smzdm.com/p/am9x0pqk/",
+      "title": "雷克萨斯新款NX发布 搭LSS+4.0智能安全系统",
+      "summary": "在当下的豪华紧凑 SUV 市场,竞争早就进入了贴身肉搏的阶段,BBA 阵营靠加长降价稳住基本盘,自主新势力则靠堆配置、打价格战不断上探,留给进口豪华车型的空间正在被一步步挤压。作为雷克萨斯 SUV 阵......",
+      "source": "Smzdm",
+      "date": "2026-09-01",
+      "url": "https://post.smzdm.com/p/am9x0pqk/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1788267202168159.html",
+      "title": "人机共驾,出了事故谁负责?|新京报中文学术文摘",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-01",
+      "url": "https://www.bjnews.com.cn/detail/1788267202168159.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875136486580680662",
+      "title": "“智驾双雄”同日交财报:Momenta主营业务接近..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-01",
+      "url": "http://baijiahao.baidu.com/s?id=1875136486580680662"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/09-01/10688301.shtml",
+      "title": "汽车保有量全国第一 成都通过“开门治堵”提升市民出行体验",
+      "summary": "中新网成都9月1日电 (祝欢)9月1日,正值秋季学期开学首日,成都交通迎来通勤与通学叠加的“繁忙模式”。当日,由四川省人民政府新闻办公室主办的《发言人在现场》栏目正式亮相,首期发布会走进成都市公安局交通管理局情报指挥中心,聚焦成都这座汽车保有量超760万辆的超大城市如何“开门治堵”。...",
+      "source": "Chinanews",
+      "date": "2026-09-01",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688301.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad72w49d/",
+      "title": "哈弗大狗首付1.69万,五年贷款利息是多少?",
+      "summary": "1.69万,这是2026款哈弗大狗1.5T边牧版在限时权益政策下的裸车首付金额。数字看着确实让人心动,但首付低只是把压力挪到了后面,五年分期的利息到底要吃掉多少钱,这笔账得在签合同之前算明白。我前阵子......",
+      "source": "Smzdm",
+      "date": "2026-09-01",
+      "url": "https://post.smzdm.com/p/ad72w49d/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1788261135129240.html",
+      "title": "2026年北京市住建系统“质量月”活动启动",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-01",
+      "url": "https://www.bjnews.com.cn/detail/1788261135129240.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3547294",
+      "title": "五菱汽车3大主业撑起营收,但净利下滑26%!新业务亏损拖累业绩",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-08-31",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3545468"
+      "date": "2026-09-01",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3547294"
     },
     {
-      "id": "https://yz.rednet.cn/content/646042/75/16224605.html",
-      "title": "你好,新学期!永州公安与你一起准时“报到”!_政务_永州站",
-      "summary": "NewsData报道",
-      "source": "Rednet_Cn",
-      "date": "2026-08-31",
-      "url": "https://yz.rednet.cn/content/646042/75/16224605.html"
-    },
-    {
-      "id": "https://yz.rednet.cn/content/646042/75/16225124.html",
-      "title": "永州高速:收费员一眼识破ETC诈骗 帮货车司机保住“钱袋子”_政务_永州站",
-      "summary": "NewsData报道",
-      "source": "Rednet_Cn",
-      "date": "2026-08-31",
-      "url": "https://yz.rednet.cn/content/646042/75/16225124.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrxvxzx/",
-      "title": "91%跌到7.9%,保时捷承认混动与手动“物理不兼容”、新911却加回第三个踏板:想买手动的,先算三笔账",
-      "summary": "8月28日到现在,保时捷北美CEO雷施的几句话在汽车圈来回传。翻译成驾驶乐趣党能听懂的话,就两条:好消息:2027款911 Carrera S重新提供六速手动变速箱,甚至下一代911仍可能保留第三个踏......",
-      "source": "Smzdm",
-      "date": "2026-08-31",
-      "url": "https://post.smzdm.com/p/aqrxvxzx/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqx9xm0/",
-      "title": "为期1年的国家级“质量风暴”开场:奔驰宝马联手嘲讽“速成车”,等买新车的先看懂这4个信号",
-      "summary": "8月31日,成都车展闭幕。盘点这十来天场馆里密集的发布会,你可能会觉得行业\"卷得热闹\";但场外全行业的讨论焦点,其实是一个更难听的词——速成车。宝马中国一个月前发了条短片,前半段用车模撞击榴莲、菠萝、......",
-      "source": "Smzdm",
-      "date": "2026-08-31",
-      "url": "https://post.smzdm.com/p/apqx9xm0/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874940098482014135",
-      "title": "数博会观察:以“数”赋能加..",
+      "id": "http://baijiahao.baidu.com/s?id=1875055141966414106",
+      "title": "智驾行业盈利样本浮现:Momenta上半年营收同比..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-31",
-      "url": "http://baijiahao.baidu.com/s?id=1874940098482014135"
+      "date": "2026-09-01",
+      "url": "http://baijiahao.baidu.com/s?id=1875055141966414106"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875051364329915819",
-      "title": "聚焦2026数博会丨移动KTV、咖啡机器人、无人驾..",
+      "id": "http://baijiahao.baidu.com/s?id=1875114717213445372",
+      "title": "蓬二小搬家记|新民特稿",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-08-31",
-      "url": "http://baijiahao.baidu.com/s?id=1875051364329915819"
+      "date": "2026-09-01",
+      "url": "http://baijiahao.baidu.com/s?id=1875114717213445372"
     },
     {
-      "id": "https://post.smzdm.com/p/anvx8xk7/",
-      "title": "方向盘在自己手里,命才能攥在自己手里:致每一位理想车主的智驾",
-      "summary": "这两年,理想汽车的智能驾驶铺天盖地地宣传,NOA在全国高速上一键开启,LCC能在城市拥堵里自动跟脚,ACC更是把长途右脚彻底解放。说实话,我自己的车每次OTA升级智驾功能,都像换了半台新车,那种“未来......",
-      "source": "Smzdm",
-      "date": "2026-08-31",
-      "url": "https://post.smzdm.com/p/anvx8xk7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al3xkxv0/",
-      "title": "大众ID.AURA T6预售分析",
-      "summary": "说实话,如果放在几年前,有人告诉我一辆车长超过4.8米的大众纯电中型SUV,预售价只要13万多,我大概率会觉得他少看了一个“2”。但就在8月28日,一汽-大众ID.AURA T6正式开启预售,价格公布......",
-      "source": "Smzdm",
-      "date": "2026-08-31",
-      "url": "https://post.smzdm.com/p/al3xkxv0/"
-    },
-    {
-      "id": "https://www.ithome.com/0/996/681.htm",
-      "title": "福特中国首款出口欧洲等发达市场的纯电动商用车,全新福特 Transit City 在江铃小蓝工厂下线",
-      "summary": "IT之家 8 月 31 日消息,福特中国今日宣布,全新福特 Transit City 下线仪式今日在江铃汽车小蓝工厂举行,首批约 1,000 台车辆即将装船发往海外市场。 据介绍,全新福特 Transit City 由福特中国与全球工程团队以及江铃汽车协同开发,是 福特中国首款出口欧洲等发达市场的纯电动商用车 ,提供 L1H1 厢式车、L2H2 厢式车和单排底盘车(Chassis Cab)三种车身...",
-      "source": "Ithome",
-      "date": "2026-08-31",
-      "url": "https://www.ithome.com/0/996/681.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875053099862735350",
-      "title": "上半年利润增近四成,中国人保如何“稳住”投资收益?",
-      "summary": "NewsData报道",
+      "id": "http://baijiahao.baidu.com/s?id=1875134520886323127",
+      "title": "沉浸式实景“闯关”!徐汇学子解锁别样安全第一课",
+      "summary": "开学伊始,安全先行。校园安全是守护学子成长的第一道防线,也是新学期教育教学工作的重中之重。为增强学生安全防护意识,让应急避险知识真正扎根童心、融入日常,9月1日上午,2026年徐汇区中小学生安全“开学第一课”主题活动在逸...",
       "source": "News_Baidu",
-      "date": "2026-08-31",
-      "url": "http://baijiahao.baidu.com/s?id=1875053099862735350"
+      "date": "2026-09-01",
+      "url": "http://baijiahao.baidu.com/s?id=1875134520886323127"
     },
     {
-      "id": "https://post.smzdm.com/p/a6zdkd60/",
-      "title": "试驾海狮06闪充版后,我的真实想法:抄底老款还是冲新技术?",
-      "summary": "试驾海狮06闪充版后,我的真实想法:抄底老款还是冲新技术?比亚迪技术发布会刚开完,我就去试了海狮06的闪充版。坦白说,开起来跟老款差别不大——空间依旧宽敞,云辇-C底盘过坑洼路面时那种闷闷的扎实感让人......",
-      "source": "Smzdm",
-      "date": "2026-08-31",
-      "url": "https://post.smzdm.com/p/a6zdkd60/"
+      "id": "https://www.westword.com/news/waymo-self-driving-taxis-launch-denver-kind-of-40929588/",
+      "title": "Waymo self-driving taxis are open to the Denver public … kind of",
+      "summary": "Waymo's first autonomous rides open to Denver residents on Tuesday, Sept. 1 — but only to select members of the public....",
+      "source": "Westword",
+      "date": "2026-09-01",
+      "url": "https://www.westword.com/news/waymo-self-driving-taxis-launch-denver-kind-of-40929588/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874992762071185524",
-      "title": "重庆出台37条硬核举措,推动经济持续向新向优向好发..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-08-31",
-      "url": "http://baijiahao.baidu.com/s?id=1874992762071185524"
+      "id": "https://www.caixinglobal.com/2026-09-01/momenta-to-mass-produce-level-3-autonomous-vehicles-eyes-subscription-model-102480549.html",
+      "title": "Momenta to Mass-Produce Level 3 Autonomous Vehicles, Eyes Subscription Model",
+      "summary": "Momenta to Mass-Produce Level 3 Autonomous Vehicles, Eyes Subscription Model - Chinese autonomous-driving supplier says production rollout could begin in 2027 as regulation catches up...",
+      "source": "Caixin",
+      "date": "2026-09-01",
+      "url": "https://www.caixinglobal.com/2026-09-01/momenta-to-mass-produce-level-3-autonomous-vehicles-eyes-subscription-model-102480549.html"
     },
     {
       "id": "https://www.straitstimes.com/business/honda-nissan-to-roll-out-jointly-developed-vehicle-software-control-units-in-fy2029",
@@ -226,22 +220,6 @@
       "source": "Livemint",
       "date": "2026-08-27",
       "url": "https://www.livemint.com/auto-news/autonomous-driving-technology-gabriel-india-joins-hands-with-south-koreas-hl-klemove-whats-inside-the-joint-venture-11787828253279.html"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/industry/auto/auto-components/gabriel-india-teams-up-with-south-koreas-hl-klemove-for-autonomous-driving/articleshow/133559487.cms",
-      "title": "Gabriel India teams up with South Korea’s HL Klemove for autonomous driving",
-      "summary": "Gabriel India has formed a strategic joint venture with South Korea's HL Klemove. This partnership aims to expand Gabriel India's presence in high-growth automotive segments. The collaboration will fo...",
-      "source": "The Economic Times",
-      "date": "2026-08-27",
-      "url": "https://economictimes.indiatimes.com/industry/auto/auto-components/gabriel-india-teams-up-with-south-koreas-hl-klemove-for-autonomous-driving/articleshow/133559487.cms"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-south-koreas-hl-klemove-form-jv-for-autonomous-driving/articleshow/133541512.cms",
-      "title": "Gabriel India, South Korea’s HL Klemove form JV for autonomous driving",
-      "summary": "Gabriel India Limited has formed a joint venture with South Korea's HL Klemove. This partnership will focus on manufacturing and selling autonomous driving solutions within India. The collaboration ai...",
-      "source": "The Economic Times",
-      "date": "2026-08-26",
-      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-south-koreas-hl-klemove-form-jv-for-autonomous-driving/articleshow/133541512.cms"
     }
   ]
 }
