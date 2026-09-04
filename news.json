@@ -1,24 +1,25 @@
 {
-  "lastUpdated": "2026-09-03 04:03:41",
-  "totalCount": 31,
+  "lastUpdated": "2026-09-04 04:08:16",
+  "totalCount": 33,
   "sources": {
     "Bilibili": 5,
-    "Rfi_Fr": 1,
-    "News_Baidu": 4,
-    "Orientaldaily": 1,
+    "News_Baidu": 6,
+    "Pcauto_Cn": 1,
     "Smzdm": 5,
-    "Nbd_Cn": 2,
+    "Investing_Cn": 1,
+    "21Jingji": 2,
+    "Eeo": 1,
+    "Bjnews": 1,
     "Chinanews": 1,
-    "Bjnews": 2,
-    "The Verge": 1,
+    "Ithome": 1,
+    "Metro.co.uk": 1,
+    "Free Press Journal": 1,
+    "The Star": 1,
+    "The Mirror": 1,
+    "Times of India": 1,
+    "NewsBytes": 1,
     "Caixin": 2,
-    "TechStartups.com": 1,
-    "Westword": 1,
-    "The Straits Times": 1,
-    "The Manila Times": 1,
-    "PR Newswire UK": 1,
-    "Business Today": 1,
-    "The Korea Times": 1
+    "The Verge": 1
   },
   "news": [
     {
@@ -26,240 +27,240 @@
       "title": "【B站】L3 自动驾驶，又是狼来了吗？",
       "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
       "source": "Bilibili",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV195tv6ZEbp",
+      "title": "【B站】2026年9月3日 纯视觉L4级特斯拉无人驾驶出租车正式上路",
+      "summary": "搭载特斯拉L4级FSD软件系统的纯视觉无人驾驶出租车CyberCab 正式开启上路面对消费者提供服务。全车无方向盘，加速和刹车踏板，仅依靠纯视觉的8个摄像头以及背后强大的人工智能神经网络运行。历史会记住这一天。#自动驾驶 #无人驾驶 #人工智能 #FSDV15 #robotaxi...",
+      "source": "Bilibili",
+      "date": "2026-09-04",
+      "url": "https://www.bilibili.com/video/BV195tv6ZEbp"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1KhtZ6LEdf",
+      "title": "【B站】特斯拉Cybercab 无人驾驶出租车来了！",
+      "summary": "https://www.youtube.com/watch?v=s5iHukg5744...",
+      "source": "Bilibili",
+      "date": "2026-09-04",
+      "url": "https://www.bilibili.com/video/BV1KhtZ6LEdf"
     },
     {
       "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
       "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1tjtJ63EWY",
-      "title": "【B站】你所在的城市能进行 自动驾驶 吗？",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1bztn65E1D",
+      "title": "【B站】特斯拉正式打响无人驾驶终局之战！9月3日奥斯汀CyberCab发布会！",
+      "summary": "特斯拉正式打响无人驾驶终局之战！9月3日奥斯汀CyberCab发布会！...",
       "source": "Bilibili",
-      "date": "2026-09-03",
-      "url": "https://www.bilibili.com/video/BV1tjtJ63EWY"
+      "date": "2026-09-04",
+      "url": "https://www.bilibili.com/video/BV1bztn65E1D"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1iVtj61EQM",
-      "title": "【B站】《赛博对话》第55期精彩看点：无人驾驶距离我们还有多远？",
-      "summary": "打到一辆车，驾驶座上空无一人，你敢坐吗？十年前，这件事还像科幻片里的设定；十年后，北上广深街头已经出现常态化运营的自动驾驶出租车，曾经的幻想成为现实。在《赛博对话》中，小马智行创始人、CEO彭军回望无人驾驶行业十年发展，从实验室原型到全无人合规上路，法规突破超预期，共享出行模式已经跑通，未来三五年体...",
-      "source": "Bilibili",
-      "date": "2026-09-03",
-      "url": "https://www.bilibili.com/video/BV1iVtj61EQM"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-03",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E8%BF%90%E5%8A%A8%E5%A4%A9%E5%9C%B0/20260902-%E8%80%81%E8%99%8E%E4%BC%8D%E5%85%B9%E5%B0%B1%E4%BD%9B%E5%B7%9E%E8%BD%A6%E7%A5%B8%E6%A1%88%E8%BE%BE%E6%88%90%E8%AE%A4%E7%BD%AA%E5%8D%8F%E5%AE%9A-%E5%90%8A%E6%89%A3%E9%A9%BE%E7%85%A75%E5%B9%B4",
-      "title": "老虎伍兹就佛州车祸案达成认罪协定 吊扣驾照5年",
-      "summary": "老虎伍兹在佛罗里达州马丁郡(Martin County)出庭,并接受前述程度较轻的控罪,法官则勒令吊扣驾照5年。 老虎伍兹现年50岁,他先前对于「在受影响情况下开车」(driving under the influence)的指控不承认有罪。 事发当时,老虎伍兹在佛罗里达州朱比特岛(Jupiter Island)一条道路上开着一辆运动休旅车,却撞到一台货车的后方且导致自己车辆侧翻,随后他被逮捕。 ...",
-      "source": "Rfi_Fr",
-      "date": "2026-09-02",
-      "url": "https://www.rfi.fr/cn/%E8%BF%90%E5%8A%A8%E5%A4%A9%E5%9C%B0/20260902-%E8%80%81%E8%99%8E%E4%BC%8D%E5%85%B9%E5%B0%B1%E4%BD%9B%E5%B7%9E%E8%BD%A6%E7%A5%B8%E6%A1%88%E8%BE%BE%E6%88%90%E8%AE%A4%E7%BD%AA%E5%8D%8F%E5%AE%9A-%E5%90%8A%E6%89%A3%E9%A9%BE%E7%85%A75%E5%B9%B4"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875224096351871296",
-      "title": "“风浪越大,鱼越贵”——七级海风下,记者与渔民一起..",
+      "id": "http://baijiahao.baidu.com/s?id=1875002675060665591",
+      "title": "保值率最高的油车SUV有哪些?20多万预算看这几款",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-02",
-      "url": "http://baijiahao.baidu.com/s?id=1875224096351871296"
+      "date": "2026-09-03",
+      "url": "http://baijiahao.baidu.com/s?id=1875002675060665591"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875095404265597699",
-      "title": "整治停车秩序微改造巧增车位——田村路街道盘活存量空..",
+      "id": "http://www.pcauto.com.cn/news/5180/51807231.html",
+      "title": "五代进阶再启新程,第5代帝豪i-HEV智擎混动实力登场",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-09-03",
+      "url": "http://www.pcauto.com.cn/news/5180/51807231.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875325892197996543",
+      "title": "自动驾驶,将正式入法",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-02",
-      "url": "http://baijiahao.baidu.com/s?id=1875095404265597699"
+      "date": "2026-09-03",
+      "url": "http://baijiahao.baidu.com/s?id=1875325892197996543"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/north/2026/09/02/845072",
-      "title": "父母未注册婚姻 在槟出生长大却无公民权",
-      "summary": "(槟城2日讯)在槟城出生、长大及接受教育,20岁青年王鑫男却因父母当年没有正式注册结婚,长期未拥有马来西亚公民权。历经约3年11个月申请及多重身份查证程序后,他终于在8月27日成功取得公民权及蓝色大马卡(MyKad),也把这份得来不易的身份,视为20岁生日前最珍贵的礼物。取得蓝卡后,过去因身份问题受到限制的日常生活,也开始逐一改变,王鑫男已成功开设银行户头,目前在杂货店工作,希望先赚钱稳定生活,再...",
-      "source": "Orientaldaily",
-      "date": "2026-09-02",
-      "url": "https://www.orientaldaily.com.my/news/north/2026/09/02/845072"
-    },
-    {
-      "id": "https://post.smzdm.com/p/az830l30/",
-      "title": "马斯克终于宣布:特斯拉FSD要加上避坑这个基本的功能了",
-      "summary": "驱车有道消息,当地时间8月31日,马斯克在社交平台公开确认,特斯拉FSD即将上线路面坑洼自动避让功能,这一被用户反复呼吁多年的基础能力,终于迎来落地节点。该功能已列入FSD v14.3版本更新预告清单......",
+      "id": "https://post.smzdm.com/p/apqx3279/",
+      "title": "《最终幻想7:启示》公布10分钟最新实机 确认2027年4月8日发售",
+      "summary": "快科技9月3日消息,PlayStation State of Play发布会上,Square Enix放出接近10分钟的《最终幻想7:启示》实机演示,同时敲定发售日期,游戏定在2027年4月8日正式上......",
       "source": "Smzdm",
-      "date": "2026-09-02",
-      "url": "https://post.smzdm.com/p/az830l30/"
+      "date": "2026-09-03",
+      "url": "https://post.smzdm.com/p/apqx3279/"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-09-02/4570821.html",
-      "title": "“2026世界动力电池大会”启幕前夜,这场对话透露了哪些信号?",
-      "summary": "9月3日,“2026世界动力电池大会”将在四川宜宾正式拉开帷幕。本届大会以“电驱万物·融合共生”为主题,全面聚焦全球动力电池产业由规模扩张向新一代技术产业化、全面低碳化发展的变革全过程。作为本届大会的...",
-      "source": "Nbd_Cn",
-      "date": "2026-09-02",
-      "url": "https://www.nbd.com.cn/articles/2026-09-02/4570821.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae6nz984/",
-      "title": "特斯拉Cybercab,无方向盘无人车量产,是噱头还是真革命?",
-      "summary": "最近特斯拉Cybercab量产消息刷屏,无方向盘、无油门刹车的全自动驾驶出租车,直接把未来感拉满。很多人喊着网约车要被颠覆,也有人说又是PPT造车。结合目前公开的信息和行业现状,好好聊聊这台车的真实分......",
-      "source": "Smzdm",
-      "date": "2026-09-02",
-      "url": "https://post.smzdm.com/p/ae6nz984/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/edu/2026/09-02/10689151.shtml",
-      "title": "新学期,新变化——各地多措并举护航学生成长",
+      "id": "https://cn.investing.com/news/transcripts/article-93CH-3551450",
+      "title": "托罗公司第三财季业绩超预期,但股价盘前下跌逾6%",
       "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-09-03",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3551450"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260903/herald/a43e658f5a5e6bc0275ebd7b069fed05.html",
+      "title": "美联储加息预期生变,美股、黄金上涨",
+      "summary": "当地时间9月3日,美股三大指数开盘全线上涨,截至发稿,道指上涨0.81%,纳指上涨0.73%,标普500指数上涨0.54%。道指期货、纳指期货、标普500指数期货快速拉升。当地时间9月3日,美国劳工部......",
+      "source": "21Jingji",
+      "date": "2026-09-03",
+      "url": "https://m.21jingji.com/article/20260903/herald/a43e658f5a5e6bc0275ebd7b069fed05.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al3xwnwo/",
+      "title": "全新三菱帕杰罗官图发布!外观造型硬朗大气,搭载2.4T柴油发动机",
+      "summary": "大家熟悉的三菱汽车,近日正式发布了一组全新三菱帕杰罗的官图。而这也预示着三菱帕杰罗这款经典老车,终于要进行大换代了。从发布的官图来看,全新三菱帕杰罗整个外观造型依旧是相当的硬朗。该车前脸设计的非常粗狂......",
+      "source": "Smzdm",
+      "date": "2026-09-03",
+      "url": "https://post.smzdm.com/p/al3xwnwo/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875321112139099506",
+      "title": "2026中国(太原)国际能博会开幕 海内外企业共话..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-03",
+      "url": "http://baijiahao.baidu.com/s?id=1875321112139099506"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875313888212300641",
+      "title": "媒体聚焦 | 一棵胡杨,一座城",
+      "summary": "在新疆喀什泽普县,金湖杨国家森林公园拥有胡杨、水、绿洲、戈壁交叠的独特景观。2013年,它被正式命名为南疆首个国家5A级旅游景区——从3A到5A,上海援疆干部接力奋斗了八年,此后又持续深耕,将这片戈壁深处的胡杨林打造成全...",
+      "source": "News_Baidu",
+      "date": "2026-09-03",
+      "url": "http://baijiahao.baidu.com/s?id=1875313888212300641"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875313841541813596",
+      "title": "AI赋能财税服务提速,诚创企服创始人乔掌门亮相20..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-03",
+      "url": "http://baijiahao.baidu.com/s?id=1875313841541813596"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0903/1022818.shtml",
+      "title": "特斯拉大涨6%,美股芯片半导体股下挫,博通跌超6%",
+      "summary": "北京时间9月3日晚间,美股三大指数集体高开,截至22:34,纳指涨近1%,道指涨0.84%,标普500涨0.62%。 美国科技七巨头集体上涨,其中特斯拉大涨6%,市值逼近1.5万亿美元,较上一个交易日的1.41万亿美元增加约800亿美元(约合人民币5374.8亿元)。同日,特斯拉无人驾驶出租车Cybercab正式发布。值得注意的是,SpaceX同步大涨近6%,市值逼近2万亿美元。 英伟达涨近2%,...",
+      "source": "Eeo",
+      "date": "2026-09-03",
+      "url": "http://www.eeo.com.cn/2026/0903/1022818.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875278014061343505",
+      "title": "再见,赛考斯;我们期待,再见赛考斯",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-03",
+      "url": "http://baijiahao.baidu.com/s?id=1875278014061343505"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260903/herald/4030e41cd7a5644c5f12535e002b646f.html",
+      "title": "特斯拉大涨6%,市值一夜增加超5300亿元,美股芯片半导体股下挫",
+      "summary": "北京时间9月3日晚间,美股三大指数集体高开,截至22时34分,纳指涨近1%,道指涨0.84%,标普500涨0.62%。美国科技七巨头集体上涨,其中特斯拉大涨6%,市值逼近1.5万亿美元,较上一个交易日......",
+      "source": "21Jingji",
+      "date": "2026-09-03",
+      "url": "https://m.21jingji.com/article/20260903/herald/4030e41cd7a5644c5f12535e002b646f.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1788428988129657.html",
+      "title": "今年服贸会将开两条免费接驳专线,1路公交常态西延至首钢园",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-03",
+      "url": "https://www.bjnews.com.cn/detail/1788428988129657.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkl29zw/",
+      "title": "特斯拉Cybercab正式上路,无方向盘纯视觉自驾,每英里仅需0.2美元",
+      "summary": "9月3日,特斯拉将在得州奥斯汀举办名为“We, Robot”的发布会,主角是那台传说已久的无人驾驶出租车Cybercab。这次马斯克不是在画饼,得州机动车管理局的数据显示,已有45辆Cybercab完成注册准备上路。这车从设计之初就没打算让人开:方向盘、......",
+      "source": "Smzdm",
+      "date": "2026-09-03",
+      "url": "https://post.smzdm.com/p/axkl29zw/"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/09-03/10689904.shtml",
+      "title": "2026中国(太原)国际能博会开幕 海内外企业共话绿色未来",
+      "summary": "中新网太原9月3日电 (记者 范丽芳)9月3日,2026中国(太原)国际能源产业博览会在山西潇河国际会展中心开幕,以“双碳引领能源转型 创新加速绿色未来”为主题,聚焦能源革命、绿色低碳、数智融合、开放合作等重点方向,搭建集技术展示、交流研讨、经贸对接于一体的国际化平台。...",
       "source": "Chinanews",
-      "date": "2026-09-02",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10689151.shtml"
+      "date": "2026-09-03",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689904.shtml"
     },
     {
-      "id": "https://post.smzdm.com/p/anvxgolp/",
-      "title": "小鹏第二代VLA大升级,记忆30秒预判6秒,安全能力提升20倍",
-      "summary": "小鹏第二代VLA大模型迎来了上车后的首次大升级,核心就一件事:让AI学会了“看表”,从看空间的3D跃迁到了懂时间的4D时空。这带来的直接好处是,车不再只看眼前这一帧画面,而是能记住前30秒发生了什么、......",
+      "id": "https://www.ithome.com/0/998/193.htm",
+      "title": "领克 10 EM-P 将继续销售现款车型,官方确认 2026 年没有车型更新计划",
+      "summary": "IT之家 9 月 3 日消息,针对“网传领克 10 EM-P 今年会有新年款”的问题,领克官方今日发文回应。 公告称,领克 10 EM-P 自上市以来受广大用户的喜爱,凭借原创外观设计与舒享豪华空间、全系标配 eAWD 智电四驱系统、LYNK FlymeAuto2 智能座舱系统,吸引了大量高价值用户群体, 成为 2026 年上半年中大型高端混动轿车销量冠军 。上市以来领克 10 EM-P 售价、权...",
+      "source": "Ithome",
+      "date": "2026-09-03",
+      "url": "https://www.ithome.com/0/998/193.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae6nepnz/",
+      "title": "20万级纯电轿跑新黑马,小鹏智驾+德系底盘,这组合能打吗?",
+      "summary": "20万级别的纯电轿跑市场最近又多了一个新面孔——大众安徽推出的与众09。这是大众与小鹏合作的首款B级纯电轿跑,搭载了小鹏赋能的VLA大模型智能驾驶系统,同时保留了德系底盘的调校功底。上市前后围绕它的讨论不少,有人看重小鹏智驾技术下放的期待,有人关心大众在......",
       "source": "Smzdm",
-      "date": "2026-09-02",
-      "url": "https://post.smzdm.com/p/anvxgolp/"
+      "date": "2026-09-03",
+      "url": "https://post.smzdm.com/p/ae6nepnz/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1788358606169766.html",
-      "title": "合规体系下,中国汽车出海增长曲线如何改写?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-02",
-      "url": "https://www.bjnews.com.cn/detail/1788358606169766.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anvqp2g0/",
-      "title": "本周 AI 项目推荐:WorldModelBench,WorldScore,WorldLens...世界模型井喷,需要新的Benchmark",
-      "summary": "作者|樊雅婷**|FFF111f__2026 年上半年,“世界模型”已经从论文里的技术词,变成了 AI 公司、机器人公司、自动驾驶公司和 VC 讨论里绕不开的关键词。视频生成模型说自己能模拟物理世界,......",
+      "id": "https://post.smzdm.com/p/a70dz2wg/",
+      "title": "皆碑:腾势D9 DM-i,MPV江湖“新晋霸主”位置不好坐?",
+      "summary": "综合叙述前些年,公务级MPV一直是别克GL8的天下,当腾势D9 DM-i出现后不久,一切都改变了,它迅速成为这个市场的扛鼎之作。当然,随着腾势D9热销,别克GL8也迎来了动力新能源化,这是一种顺应时代的做法。但无论如何,在公务MPV的市场,已经被腾势D9......",
       "source": "Smzdm",
-      "date": "2026-09-02",
-      "url": "https://post.smzdm.com/p/anvqp2g0/"
+      "date": "2026-09-03",
+      "url": "https://post.smzdm.com/p/a70dz2wg/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875189617538511138",
-      "title": "成都春熙路有“黑车”冒公交集团之名揽客,记者暗访后..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-02",
-      "url": "http://baijiahao.baidu.com/s?id=1875189617538511138"
+      "id": "https://metro.co.uk/2026/09/03/londoners-can-hail-a-limited-uber-wayve-robotaxi-new-trial-starts-29527627/",
+      "title": "Londoners can hail a limited Uber Wayve robotaxi after new trial starts",
+      "summary": "Uber customers can now ride Wayve self-driving robotaxis in London as part of a trial using electric Ford Mustang Mach-E autonomous vehicles....",
+      "source": "Metro.co.uk",
+      "date": "2026-09-03",
+      "url": "https://metro.co.uk/2026/09/03/londoners-can-hail-a-limited-uber-wayve-robotaxi-new-trial-starts-29527627/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1788331397129685.html",
-      "title": "敏视360全景环视影像系统采用哪些AI技术?如何实现车辆周身智能感知与主动预警?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-02",
-      "url": "https://www.bjnews.com.cn/detail/1788331397129685.html"
+      "id": "https://www.freepressjournal.in/business/wayve-uber-launch-londons-1st-self-driving-taxis-with-human-safety-drivers",
+      "title": "Wayve, Uber Launch London’s 1st Self-Driving Taxis With Human Safety Drivers",
+      "summary": "Wayve and Uber have launched London’s first self-driving taxi fleet, with human safety drivers supervising the vehicles. Passengers booking UberX, Uber Electric or Uber Comfort may be matched with an ...",
+      "source": "Free Press Journal",
+      "date": "2026-09-03",
+      "url": "https://www.freepressjournal.in/business/wayve-uber-launch-londons-1st-self-driving-taxis-with-human-safety-drivers"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874999961697133121",
-      "title": "2026数博会落下帷幕",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-02",
-      "url": "http://baijiahao.baidu.com/s?id=1874999961697133121"
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/09/03/france-starts-tests-on-tesla039s-self-driving-tech",
+      "title": "France starts tests on Tesla's self-driving tech",
+      "summary": "PARIS, Sept 3 (Reuters) - ⁠France has begun tests on two cars to better assess Tesla's FSD ⁠advanced driver assistance system, French Minister of Transport Philippe Tabarot said, ‌in a move that could...",
+      "source": "The Star",
+      "date": "2026-09-03",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/03/france-starts-tests-on-tesla039s-self-driving-tech"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-09-02/4570800.html",
-      "title": "新一代理想MEGA上市,售价50.98万元,比老款便宜",
-      "summary": "记者|孙磊编辑|梁露月 余婷婷 杜恒峰 校对|段炼9月2日,理想汽车旗下旗舰纯电MPV——新一代理想MEGA迎来上市。新车仅推出Home版一款车型,售价为50.98万元,相比老款车型的起售价便宜了2万...",
-      "source": "Nbd_Cn",
-      "date": "2026-09-02",
-      "url": "https://www.nbd.com.cn/articles/2026-09-02/4570800.html"
+      "id": "https://www.mirror.co.uk/news/uk-news/robotaxi-uber-driverless-cabs-travel-37622300",
+      "title": "How to hail a robotaxi and how much they cost as space age driverless cabs arrive in UK",
+      "summary": "The race is on to become one of the first people to test out Uber's autonomous cars in Britain, but there's a catch - there will still be a human in the driving seat...",
+      "source": "The Mirror",
+      "date": "2026-09-03",
+      "url": "https://www.mirror.co.uk/news/uk-news/robotaxi-uber-driverless-cabs-travel-37622300"
     },
     {
-      "id": "https://post.smzdm.com/p/ad72r46z/",
-      "title": "又一用上PHUD的国产新能源 广汽传祺越7预售:17.18万起",
-      "summary": "快科技9月2日消息,广汽传祺越7开启预售,共推出4款车型,预售价17.98-22.58万元,预售权益价17.18-21.78万元。该车长宽高分别为5045mm(含备胎)/2004mm/1933mm,轴......",
-      "source": "Smzdm",
-      "date": "2026-09-02",
-      "url": "https://post.smzdm.com/p/ad72r46z/"
+      "id": "https://timesofindia.indiatimes.com/education/news/mit-researchers-develop-ai-that-could-help-predict-mistakes-made-by-self-driving-cars/articleshow/133728459.cms",
+      "title": "MIT researchers develop AI that could help predict mistakes made by self-driving cars",
+      "summary": "News News: A new artificial intelligence system developed by researchers at MIT and autonomous vehicle company Motional could help safety drivers and passengers ....",
+      "source": "Times of India",
+      "date": "2026-09-03",
+      "url": "https://timesofindia.indiatimes.com/education/news/mit-researchers-develop-ai-that-could-help-predict-mistakes-made-by-self-driving-cars/articleshow/133728459.cms"
     },
     {
-      "id": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar",
-      "title": "Elon Musk’s heterodox robotaxi philosophy gets put to the test",
-      "summary": "Tesla is launching the Cybercab, the ultimate test of Elon Musk’s heterodox, stripped down, camera-only approach to autonomous driving....",
-      "source": "The Verge",
-      "date": "2026-09-02",
-      "url": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar"
-    },
-    {
-      "id": "https://www.caixinglobal.com/2026-09-02/horizon-robotics-losses-widen-as-rd-spending-stays-high-102481105.html",
-      "title": "Horizon Robotics’ Losses Widen as R&D Spending Stays High",
-      "summary": "Horizon Robotics’ Losses Widen as R&D Spending Stays High - The Chinese autonomous-driving solutions provider is relying on its technology licensing business to offset losses from aggressive hardware ...",
-      "source": "Caixin",
-      "date": "2026-09-02",
-      "url": "https://www.caixinglobal.com/2026-09-02/horizon-robotics-losses-widen-as-rd-spending-stays-high-102481105.html"
-    },
-    {
-      "id": "https://techstartups.com/2026/09/01/waymo-expands-robotaxi-service-to-3-more-u-s-cities-as-zoox-and-tesla-race-to-catch-up/",
-      "title": "Waymo expands robotaxi service to 3 more U.S. cities as Zoox and Tesla race to catch up",
-      "summary": "Waymo is widening the gap with its robotaxi rivals. Alphabet’s autonomous driving company is launching driverless rides for customers in San Diego, Tampa, and Denver, bringing commercial operations to...",
-      "source": "TechStartups.com",
-      "date": "2026-09-01",
-      "url": "https://techstartups.com/2026/09/01/waymo-expands-robotaxi-service-to-3-more-u-s-cities-as-zoox-and-tesla-race-to-catch-up/"
-    },
-    {
-      "id": "https://www.westword.com/news/waymo-self-driving-taxis-launch-denver-kind-of-40929588/",
-      "title": "Waymo self-driving taxis are open to the Denver public … kind of",
-      "summary": "Waymo's first autonomous rides open to Denver residents on Tuesday, Sept. 1 — but only to select members of the public....",
-      "source": "Westword",
-      "date": "2026-09-01",
-      "url": "https://www.westword.com/news/waymo-self-driving-taxis-launch-denver-kind-of-40929588/"
-    },
-    {
-      "id": "https://www.caixinglobal.com/2026-09-01/momenta-to-mass-produce-level-3-autonomous-vehicles-eyes-subscription-model-102480549.html",
-      "title": "Momenta to Mass-Produce Level 3 Autonomous Vehicles, Eyes Subscription Model",
-      "summary": "Momenta to Mass-Produce Level 3 Autonomous Vehicles, Eyes Subscription Model - Chinese autonomous-driving supplier says production rollout could begin in 2027 as regulation catches up...",
-      "source": "Caixin",
-      "date": "2026-09-01",
-      "url": "https://www.caixinglobal.com/2026-09-01/momenta-to-mass-produce-level-3-autonomous-vehicles-eyes-subscription-model-102480549.html"
-    },
-    {
-      "id": "https://www.straitstimes.com/business/honda-nissan-to-roll-out-jointly-developed-vehicle-software-control-units-in-fy2029",
-      "title": "Honda, Nissan to roll out jointly developed vehicle software, control units in FY2029",
-      "summary": "Software has become a key battleground for automakers as vehicles take on more autonomous-driving functions. Read more at straitstimes.com....",
-      "source": "The Straits Times",
-      "date": "2026-08-31",
-      "url": "https://www.straitstimes.com/business/honda-nissan-to-roll-out-jointly-developed-vehicle-software-control-units-in-fy2029"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/31/tmt-newswire/globenewswire/weride-included-in-hkex-tech-100-index-following-september-2026-quarterly-review/2414907",
-      "title": "WeRide Included in HKEX Tech 100 Index Following September 2026 Quarterly Review",
-      "summary": "HONG KONG, Aug. 31, 2026 (GLOBE NEWSWIRE) -- WeRide (Nasdaq: WRD, HKEX: 0800), a global leader in autonomous driving technology, today announced its inclusion as a constituent of the HKEX Tech 100 Ind...",
-      "source": "The Manila Times",
-      "date": "2026-08-31",
-      "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/globenewswire/weride-included-in-hkex-tech-100-index-following-september-2026-quarterly-review/2414907"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/didi-autonomous-driving-begins-fully-driverless-service-trials-with-next-generation-robotaxi-r2-302864756.html",
-      "title": "DiDi Autonomous Driving Begins Fully Driverless Service Trials with Next-Generation Robotaxi R2",
-      "summary": "/PRNewswire/ -- DiDi Autonomous Driving began fully driverless service trials with its next-generation Robotaxi R2. Jointly developed by DiDi Autonomous......",
-      "source": "PR Newswire UK",
-      "date": "2026-08-31",
-      "url": "https://www.prnewswire.co.uk/news-releases/didi-autonomous-driving-begins-fully-driverless-service-trials-with-next-generation-robotaxi-r2-302864756.html"
-    },
-    {
-      "id": "https://www.businesstoday.in/technology/artificial-intelligence/story/next-space-race-could-be-fuelled-by-ai-how-technology-may-reshape-the-orbital-economy-by-2030-552062-2026-08-31",
-      "title": "Next space race could be fuelled by AI: How technology may reshape the orbital economy by 2030",
-      "summary": "Artificial intelligence is poised to accelerate the next phase of space exploration, driving autonomous systems, advanced manufacturing and cheaper access to orbit. The IEEE Megatrends 2030 report exp...",
-      "source": "Business Today",
-      "date": "2026-08-30",
-      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/next-space-race-could-be-fuelled-by-ai-how-technology-may-reshape-the-orbital-economy-by-2030-552062-2026-08-31"
+      "id": "https://www.newsbytesapp.com/news/auto/uber-launches-robotaxis-in-london/story",
+      "title": "Uber's robotaxis hit London streets",
+      "summary": "Uber has introduced autonomous rides in London through a partnership with Wayve, featuring Ford Mustang Mach-E vehicles equipped with self-driving technology....",
+      "source": "NewsBytes",
+      "date": "2026-09-03",
+      "url": "https://www.newsbytesapp.com/news/auto/uber-launches-robotaxis-in-london/story"
     }
   ]
 }
