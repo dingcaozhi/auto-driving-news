@@ -1,143 +1,216 @@
 {
-  "lastUpdated": "2026-09-05 04:04:25",
-  "totalCount": 24,
+  "lastUpdated": "2026-09-06 04:11:55",
+  "totalCount": 32,
   "sources": {
-    "News_Baidu": 3,
-    "21Jingji": 2,
-    "Smzdm": 5,
-    "Bjnews": 1,
-    "Eeo": 1,
-    "Nbd_Cn": 1,
-    "Ithome": 2,
+    "Bilibili": 5,
+    "News_Baidu": 6,
+    "Chinanews": 2,
+    "Smzdm": 7,
+    "21Jingji": 1,
+    "Fx168News": 1,
+    "Ithome": 1,
+    "TechRadar": 1,
     "Metro.co.uk": 1,
     "Free Press Journal": 1,
     "The Star": 1,
     "The Mirror": 1,
     "Times of India": 1,
     "NewsBytes": 1,
-    "Caixin": 2,
+    "Caixin": 1,
     "The Verge": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875406422181915485",
-      "title": "晚AI大众|广电总局:对用户上传微短剧 平台凡播必..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-04",
-      "url": "http://baijiahao.baidu.com/s?id=1875406422181915485"
+      "id": "https://www.bilibili.com/video/BV1Gstz6qEW4",
+      "title": "【B站】Cybercab投入运营！特斯拉要把网约车的价格打下来了？",
+      "summary": "不为司机设计，汽车会变成什么样？...",
+      "source": "Bilibili",
+      "date": "2026-09-06",
+      "url": "https://www.bilibili.com/video/BV1Gstz6qEW4"
     },
     {
-      "id": "https://m.21jingji.com/article/20260904/herald/89b74adf92ee92dc241ddbb40b109bb0.html",
-      "title": "香江观澜:港口刷新装卸纪录,香港航运“金字招牌”更亮",
-      "summary": "中新社记者 香卢平香港海港联盟近日为地中海航运公司超大型集装箱船“MSC FEBE”完成8335次集装箱装卸,刷新香港港口单航次集装箱装卸历史纪录。这既是对香港码头作业能力的检验,更让外界再次看到香港......",
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-09-06",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1iPbj61Ejd",
+      "title": "【B站】大批人奔赴奥斯汀乘坐CyberCab！这才是无人驾驶该有的样子！",
+      "summary": "大批人奔赴奥斯汀乘坐CyberCab！这才是无人驾驶该有的样子！...",
+      "source": "Bilibili",
+      "date": "2026-09-06",
+      "url": "https://www.bilibili.com/video/BV1iPbj61Ejd"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-06",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1QSt961E9S",
+      "title": "【B站】第一次开没方向盘的车！是什么体验？",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-09-06",
+      "url": "https://www.bilibili.com/video/BV1QSt961E9S"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875504819387255719",
+      "title": "减仓泛科技,加仓低位赛道!百亿私募持仓再平衡,AI..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-05",
+      "url": "http://baijiahao.baidu.com/s?id=1875504819387255719"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875491317840394766",
+      "title": "游客称在苏州住店遭遇停车“刺客”,停车18小时6分..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-05",
+      "url": "http://baijiahao.baidu.com/s?id=1875491317840394766"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875401263928086343",
+      "title": "开局之年看中国·日新江淮|从“云”到“算”,宿州抢..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-05",
+      "url": "http://baijiahao.baidu.com/s?id=1875401263928086343"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/dwq/2026/09-05/10691184.shtml",
+      "title": "香港特区立法会议员访京考察运输政策 冀有助精准建言",
+      "summary": "中新网北京9月5日电 香港特区立法会交通事务委员会考察团5日结束在北京的职务考察。考察团团长、香港特区立法会交通事务委员会主席陈恒镔表示,此次考察成果丰硕,有助于议员今后就香港北部都会区发展及整体运输政策向特区政府精准建言。...",
+      "source": "Chinanews",
+      "date": "2026-09-05",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-05/10691184.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arz6nmgx/",
+      "title": "预售14.79万起,长安启源Q06全系配激光雷达,15万级SUV要变天了",
+      "summary": "老朋友们,长安启源Q06的预售价格出来了,抢订价14.79万起。这个价格一公布,我第一反应就是:长安这次下手挺重的,没打算给对手留太多面子。今天咱不从参数表念配置,就从咱们老百姓真正买车、用车的角度,把这车聊透了,看完你心里就有数了。长安启源Q06车长4......",
+      "source": "Smzdm",
+      "date": "2026-09-05",
+      "url": "https://post.smzdm.com/p/arz6nmgx/"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260905/herald/6b52885eeebaf97896f9a3a4e9817409.html",
+      "title": "首批授信近20亿元,北京经开区在全市率先落地Token词元算力贷",
+      "summary": "据北京亦庄公众号,近日,由北京经开区创新推出的“亦企Token(词元)贷”首批业务在区内落地,这也是全市范围内落地的首批 Token 算力贷。农业银行经开区分行、中信银行经开区支行、兴业银行经开区支行......",
       "source": "21Jingji",
-      "date": "2026-09-04",
-      "url": "https://m.21jingji.com/article/20260904/herald/89b74adf92ee92dc241ddbb40b109bb0.html"
+      "date": "2026-09-05",
+      "url": "https://m.21jingji.com/article/20260905/herald/6b52885eeebaf97896f9a3a4e9817409.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a5rd45e8/",
-      "title": "14.79万起启源Q06预售:标配长安全栈自研一段式辅助驾驶",
-      "summary": "快科技9月4日消息,长安启源全新中型SUV启源Q06正式开启预售,共计推出 9 款配置,预售价14.99-19.19 万元,权益后价格为14.79-18.99万元,预计将于本月内上市。新车基于SDA天......",
-      "source": "Smzdm",
-      "date": "2026-09-04",
-      "url": "https://post.smzdm.com/p/a5rd45e8/"
+      "id": "https://www.fx168news.com/article/1088227",
+      "title": "到场·2026亚布力论坛夏季年会|地平线余凯:2027年目标,超越英伟达,在中国智驾芯片市场成为第一名-FX168",
+      "summary": "9月5日,2026亚布力企业家论坛第二十二届夏季年会在四川成都盛大启幕。本届夏季年会以“企业创新与周期跨越”为主题,汇聚数百位企业家与专家学者,共同探讨企业发展思维、商业模式、组织能力与产业协作的全方位革新路径。金融界上市公司研究院特别推出“到场?...",
+      "source": "Fx168News",
+      "date": "2026-09-05",
+      "url": "https://www.fx168news.com/article/1088227"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1788519954168212.html",
-      "title": "员工因工作时间多次不在工位被辞退,法院认定公司违法",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-04",
-      "url": "https://www.bjnews.com.cn/detail/1788519954168212.html"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260904/herald/d22231e8ce8c53a3b85f77fbe9ce00b2.html",
-      "title": "多款“硬核”人形机器人亮相第二十一届中博会具身智能展",
-      "summary": "多款“硬核”人形机器人亮相第二十一届中博会具身智能展多款“硬核”人形机器人亮相第二十一届中博会具身智能展中新网 广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会正在广州举行,在具身智能......",
-      "source": "21Jingji",
-      "date": "2026-09-04",
-      "url": "https://m.21jingji.com/article/20260904/herald/d22231e8ce8c53a3b85f77fbe9ce00b2.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a70d59md/",
-      "title": "13.99万!2027 款帕萨特Pro,大众这次是真的“急”了?",
-      "summary": "“B级车的身板,A级车的价格”——这句话又被大众自己坐实了。近日,2027款帕萨特Pro上市,官方定位“智能新奢中高级轿车”,五款车型指导价17.2-23.99万元,限时一口价13.99-20.99万......",
-      "source": "Smzdm",
-      "date": "2026-09-04",
-      "url": "https://post.smzdm.com/p/a70d59md/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875392425383015164",
-      "title": "福建莆田强降雨:有居民被困,工作人员连夜开展救援,..",
+      "id": "http://baijiahao.baidu.com/s?id=1875494218111511752",
+      "title": "晶采观察·青春华章丨青年科创者,用实干重新定义“创..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-04",
-      "url": "http://baijiahao.baidu.com/s?id=1875392425383015164"
+      "date": "2026-09-05",
+      "url": "http://baijiahao.baidu.com/s?id=1875494218111511752"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875409194275973986",
-      "title": "自驾上万公里送龙凤胎上大学的河南父亲已抵乌鲁木齐,..",
+      "id": "http://baijiahao.baidu.com/s?id=1875498847816626484",
+      "title": "特斯拉“赛博出租车”上路当天被调查",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-04",
-      "url": "http://baijiahao.baidu.com/s?id=1875409194275973986"
+      "date": "2026-09-05",
+      "url": "http://baijiahao.baidu.com/s?id=1875498847816626484"
     },
     {
-      "id": "https://post.smzdm.com/p/arz6n4lx/",
-      "title": "北京广州已能打到无人出租车:实测避坑指南,费用省一半但有三个大坑必须知道",
-      "summary": "方向盘在自己转,你敢不敢坐上去?这不是测试场里的画面,北京和广州部分区域,已经能直接打到这样的车了。8月31日,滴滴新一代Robotaxi R2正式在北京、广州开放无人载客测试,方向盘前面空无一人,全程自己开自己停。费用比普通网约车还便宜将近一半。但大多......",
-      "source": "Smzdm",
-      "date": "2026-09-04",
-      "url": "https://post.smzdm.com/p/arz6n4lx/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomxzr7n/",
-      "title": "特斯拉Cybercab量产落地,无方向盘出租车每公里不到1元",
-      "summary": "9月3日,特斯拉在美国奥斯汀把方向盘和踏板彻底从一辆量产车上抹掉了。这台名为Cybercab的无人驾驶出租车,车内没有给人类留任何操控接口,只剩下两个乘客座椅和一块中控屏。这不是概念车,它是全球首款原生无方向盘的量产车,目标售价控制在3万美元以内(约合2......",
-      "source": "Smzdm",
-      "date": "2026-09-04",
-      "url": "https://post.smzdm.com/p/aomxzr7n/"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0904/1024355.shtml",
-      "title": "Cybercab发布:无方向盘踏板,出行成本仅0.8元/km",
-      "summary": "21世纪经济报道记者 郑植文 当地时间9月3日,特斯拉在美国得州奥斯汀举行Cybercab赛博无人驾驶电动车发布会。作为全球首款专为无人驾驶场景打造的量产车型,Cybercab在设计上取消了方向盘、踏板与传统后视镜,车辆行驶完全由特斯拉无人驾驶软件驱动,座舱内仅保留两张长椅式座椅与一块中控触摸屏。该车采用双座布局与蝴蝶门设计,搭载8颗高清摄像头组成的感知阵列,采用端到端纯视觉方案,不依赖激光雷达与...",
-      "source": "Eeo",
-      "date": "2026-09-04",
-      "url": "http://www.eeo.com.cn/2026/0904/1024355.shtml"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-09-04/4573379.html",
-      "title": "“国家队”站台的加特兰闯关科创板:报告期累亏超9亿元,去年第一大终端客户今年持续承压并传导至公司",
-      "summary": "近日,加特兰微电子科技(上海)股份有限公司(以下简称加特兰)IPO进入问询阶段,正加速冲刺科创板上市。根据招股说明书(申报稿)(以下简称招股书)披露,公司实控人陈嘉澍是毕业于美国加州伯克利大学的80后...",
-      "source": "Nbd_Cn",
-      "date": "2026-09-04",
-      "url": "https://www.nbd.com.cn/articles/2026-09-04/4573379.html"
-    },
-    {
-      "id": "https://www.ithome.com/0/998/622.htm",
-      "title": "全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市,首批搭载 Momenta R7",
-      "summary": "IT之家 9 月 4 日消息,据易车今日报道,全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市。新车采用最新设计语言,加长后的轴距达到 3115mm。内饰采用三联屏设计,内置豆包 AI 大模型虚拟助手,并且后续还将搭载 Momenta R7 世界模型。 IT之家注意到,9 月 1 日,全新国产梅赛德斯-奔驰长轴距 GLE SUV 在顺义工厂正式下线。该车配备“双星徽”前大灯,构成车头独特...",
+      "id": "https://www.ithome.com/0/998/832.htm",
+      "title": "奇瑞风云 T11 第二次 OTA 推送:新增远程一键备车、高速 ETC 自主通行等",
+      "summary": "IT之家 9 月 5 日消息,奇瑞旗下风云 T11 今日开启第二次 OTA 全域推送,带来 9 项全新功能、4 项深度优化。 IT之家整理如下: 新增猎鹰 700 紧急转向辅助功能 :当你遇到突发情况猛打方向盘避让时,如果系统发现转向力不足,将智能增加转向辅助力,提升行车安全 (需在车机设置-智驾-主动安全界面-打开紧急转向辅助功能) 优化猎鹰 700 窄路通行能力:智驾模式下,车辆在狭窄路段的车...",
       "source": "Ithome",
-      "date": "2026-09-04",
-      "url": "https://www.ithome.com/0/998/622.htm"
+      "date": "2026-09-05",
+      "url": "https://www.ithome.com/0/998/832.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/az83gqwo/",
-      "title": "14.79万!长安启源Q06预售,纯电602km起步,增程28度电!",
-      "summary": "长安启源在9月4日晚上预售了一款全新的车型——启源Q06,该车型分为增程版和纯电版。纯电版有七个版本——602 越享型、602 智享型(分为天枢领航 Pro版和天枢领航 Ultra版)、700 智享型......",
+      "id": "https://post.smzdm.com/p/a5rd4wxl/",
+      "title": "特斯拉Cybercab遭美监管审查,股价单日暴跌6%市值蒸发5910亿",
+      "summary": "马斯克刚在社交平台上盖章“我们正在进入交通运输的黄金时代”,现实立刻给了一记闷棍。美东时间9月4日,特斯拉股价大跌近6%,市值单日蒸发5910亿元。让资本市场踩踏的导火索,是特斯拉刚上路几天的无人驾驶......",
       "source": "Smzdm",
-      "date": "2026-09-04",
-      "url": "https://post.smzdm.com/p/az83gqwo/"
+      "date": "2026-09-05",
+      "url": "https://post.smzdm.com/p/a5rd4wxl/"
     },
     {
-      "id": "https://www.ithome.com/0/998/612.htm",
-      "title": "长城魏牌豪华方盒子新车官图公布:2.0T 插混、采用承载式车身",
-      "summary": "IT之家 9 月 4 日消息,长城魏牌昨日官宣了全新豪华方盒子车型。魏牌 CEO 赵永坡今日表示, 致力于打造一款前所未有的产品 。今晚,魏牌官方公布了新车的官图。 这款新车配备复古圆形大灯、魏牌发光 logo,采用传统外拉式门把手,车顶配备激光雷达,有望带来高级辅助驾驶功能。 IT之家注意到,长城汽车董事长魏建军今日还透露,这辆车采用 承载式车身 ,更舒适、比越野车更适合城市用车场景。它拥有 2...",
-      "source": "Ithome",
-      "date": "2026-09-04",
-      "url": "https://www.ithome.com/0/998/612.htm"
+      "id": "https://post.smzdm.com/p/aqrx2e3v/",
+      "title": "25.98万起,空悬+后轮转向全系标配?小鹏G9L到底值不值得冲?",
+      "summary": "写在前面说实话,小鹏G9当年上市的时候我是真替它可惜。产品力不差,价格也不算离谱,但就是卖得不温不火,后来改款降价才慢慢找回点节奏。所以这次G9L亮相,我一开始没抱太大期待——不就是G9拉个皮、加个L......",
+      "source": "Smzdm",
+      "date": "2026-09-05",
+      "url": "https://post.smzdm.com/p/aqrx2e3v/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8xvq8e/",
+      "title": "皆碑:岚图梦想家PHEV,江湖早听说过",
+      "summary": "综合叙述中大型MPV市场,向来分为“商务派”和“智能派”。两者当中,“商务派”可能卖的是品牌、卖的是车型影响力,但“智能派”可替代性更低。毕竟,车辆智能化拥有更强的技术壁垒,让仍然秉承传统、不思进取的......",
+      "source": "Smzdm",
+      "date": "2026-09-05",
+      "url": "https://post.smzdm.com/p/ak8xvq8e/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az83grqp/",
+      "title": "全网实测开玩Fable 5.1,听说写作说话和真人没区别?",
+      "summary": "文章转载于量子位作者:程浅Anthropic前脚刚发布了Fable 5.1(具体可见Claude最强Fable 5.1发布!8项屠榜,最高降价45%,反蒸馏机制上线),后脚第三方权威跑分和个人第一手实......",
+      "source": "Smzdm",
+      "date": "2026-09-05",
+      "url": "https://post.smzdm.com/p/az83grqp/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875479811628750580",
+      "title": "「2026打卡中国」赣州南康:一场“无中生有”的产..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-05",
+      "url": "http://baijiahao.baidu.com/s?id=1875479811628750580"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a4qdogx8/",
+      "title": "华为ADS对比理想AD Max谁更强?实测数据告诉你真相",
+      "summary": "买智能驾驶,到底买的是什么?买高阶智驾的用户,图的不是“炫技”,而是真正省心省力。长途高速能解放双脚、城区拥堵能少踩几脚刹车、停车时不用自己揉方向盘——这些才是高频刚需。当前主流选择里,华为乾崑ADS......",
+      "source": "Smzdm",
+      "date": "2026-09-05",
+      "url": "https://post.smzdm.com/p/a4qdogx8/"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/09-05/10691191.shtml",
+      "title": "海南省首批出口车型公开道路测试牌照落地 服务全国车企出海验证",
+      "summary": "中新网海南琼海9月5日电 (黄荟运 林俊山)据海南省琼海市融媒体中心5日消息,海南省首批出口车型公开道路测试牌照4日正式落地,车辆在琼海市开展测试。中汽长检海南热带汽车试验有限公司(海南检测)通过市县级、省级多政府部门及专家联合评审,成为海南自贸港首批具备出口车辆公开道路合规测试资质的专业汽车国检机构,面向全国车企提供专业化、标准化、高可信度的出口整车道路验证服务。...",
+      "source": "Chinanews",
+      "date": "2026-09-05",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691191.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgwo089/",
+      "title": "20万内燃油SUV配激光雷达+空悬!星越L PLUS让途观L怎么活",
+      "summary": "燃油车还能谈智能驾驶吗?吉利星越L PLUS给出了不一样的答案——车顶带着激光雷达、燃油版直接上NOA功能,20万以内能买到的智驾燃油SUV一只手数得过来。新车9月5日正式亮相,尺寸比现款星越L大了一......",
+      "source": "Smzdm",
+      "date": "2026-09-05",
+      "url": "https://post.smzdm.com/p/avgwo089/"
+    },
+    {
+      "id": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/i-rode-in-a-self-driving-powered-wheelchair-that-avoids-obstacles-and-people-and-can-be-summoned-when-you-need-it-its-like-teslas-autopilot-for-personal-mobility",
+      "title": "I rode in a self-driving powered wheelchair that avoids obstacles and people, and can be summoned when you need it — it’s like Tesla’s Autopilot for personal mobility",
+      "summary": "The Strutt ev1c adds autonomous smarts that are smartly implemented....",
+      "source": "TechRadar",
+      "date": "2026-09-05",
+      "url": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/i-rode-in-a-self-driving-powered-wheelchair-that-avoids-obstacles-and-people-and-can-be-summoned-when-you-need-it-its-like-teslas-autopilot-for-personal-mobility"
     },
     {
       "id": "https://metro.co.uk/2026/09/03/londoners-can-hail-a-limited-uber-wayve-robotaxi-new-trial-starts-29527627/",
@@ -186,30 +259,6 @@
       "source": "NewsBytes",
       "date": "2026-09-03",
       "url": "https://www.newsbytesapp.com/news/auto/uber-launches-robotaxis-in-london/story"
-    },
-    {
-      "id": "https://www.caixinglobal.com/2026-09-03/cx-daily-chinas-autonomous-driving-race-shifts-from-hype-to-high-stakes-102481200.html",
-      "title": "CX Daily: China’s Autonomous Driving Race Shifts From Hype to High Stakes",
-      "summary": "CX Daily: China’s Autonomous Driving Race Shifts From Hype to High Stakes...",
-      "source": "Caixin",
-      "date": "2026-09-03",
-      "url": "https://www.caixinglobal.com/2026-09-03/cx-daily-chinas-autonomous-driving-race-shifts-from-hype-to-high-stakes-102481200.html"
-    },
-    {
-      "id": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar",
-      "title": "Elon Musk’s robotaxi heterodoxy gets put to the test",
-      "summary": "Tesla is launching the Cybercab, the ultimate test of Elon Musk’s heterodox, stripped down, camera-only approach to autonomous driving....",
-      "source": "The Verge",
-      "date": "2026-09-02",
-      "url": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar"
-    },
-    {
-      "id": "https://www.caixinglobal.com/2026-09-02/horizon-robotics-losses-widen-as-rd-spending-stays-high-102481105.html",
-      "title": "Horizon Robotics’ Losses Widen as R&D Spending Stays High",
-      "summary": "Horizon Robotics’ Losses Widen as R&D Spending Stays High - The Chinese autonomous-driving solutions provider is relying on its technology licensing business to offset losses from aggressive hardware ...",
-      "source": "Caixin",
-      "date": "2026-09-02",
-      "url": "https://www.caixinglobal.com/2026-09-02/horizon-robotics-losses-widen-as-rd-spending-stays-high-102481105.html"
     }
   ]
 }
