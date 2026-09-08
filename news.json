@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-09-07 04:11:08",
-  "totalCount": 22,
+  "lastUpdated": "2026-09-08 04:12:26",
+  "totalCount": 25,
   "sources": {
-    "News_Baidu": 4,
-    "Smzdm": 4,
-    "Bjnews": 1,
-    "Woshipm": 1,
-    "21Jingji": 1,
-    "Fx168News": 1,
-    "Cri_Cn": 1,
+    "Bilibili": 5,
+    "Chinanews": 1,
+    "Smzdm": 2,
+    "News_Baidu": 3,
+    "21Jingji": 3,
+    "Jiemian": 1,
+    "Imobile": 1,
     "TechRadar": 1,
     "Metro.co.uk": 1,
     "Free Press Journal": 1,
@@ -21,108 +21,132 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875559114565480326",
-      "title": "男子自驾撞上羊群赔偿8.48万元,羊为什么不能带走..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-06",
-      "url": "http://baijiahao.baidu.com/s?id=1875559114565480326"
+      "id": "https://www.bilibili.com/video/BV1NCbP6hENx",
+      "title": "【B站】L3自动驾驶也不能撒手开！",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-09-08",
+      "url": "https://www.bilibili.com/video/BV1NCbP6hENx"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875589785739482760",
-      "title": "第二十六届中国国际投资贸易洽谈会9月8日至11日在..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-06",
-      "url": "http://baijiahao.baidu.com/s?id=1875589785739482760"
+      "id": "https://www.bilibili.com/video/BV1Yfbu6REth",
+      "title": "【B站】极氪智己Thor自动驾驶车机玩本地大模型？警告不要玩",
+      "summary": "极氪智己Thor自动驾驶车机玩本地大模型？警告不要玩...",
+      "source": "Bilibili",
+      "date": "2026-09-08",
+      "url": "https://www.bilibili.com/video/BV1Yfbu6REth"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875588684597111513",
-      "title": "男子自驾撞上羊群赔偿8.48万元,死伤的羊为什么不..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-06",
-      "url": "http://baijiahao.baidu.com/s?id=1875588684597111513"
+      "id": "https://www.bilibili.com/video/BV1kZbJ6KEMB",
+      "title": "【B站】专访天澄动力｜国内首创L4级电动重卡自动驾驶重组编队方案，掘金万亿大宗智慧物流赛道。",
+      "summary": "本期36氪项目推荐专访的事杭州天澄动力科技有限公司，是国内 L4 级新能源电动重卡自动驾驶重组编队解决方案服务商。\n\n公司聚焦大宗智慧物流赛道，自研1+N 混合编队技术，依托 5G‑V2X 车路协同、多传感器融合 AI 算法，实现重卡自动集结、编队行驶、动态解散重组，可降低能耗 15‑20%，解决传...",
+      "source": "Bilibili",
+      "date": "2026-09-08",
+      "url": "https://www.bilibili.com/video/BV1kZbJ6KEMB"
     },
     {
-      "id": "https://post.smzdm.com/p/ae6n7r24/",
-      "title": "华境S怎么样,质量好吗?首批车主聊聊这台车真实长处与优缺点",
-      "summary": "作为华境S首批车主,提车使用许久,今天我想抛开官方宣传,结合我自己的用车体验,比如日常通勤、家用出行场景,分享这台车的真实质量品质和动态表现,希望能给准备购车的朋友做个靠谱参考。华境S整车品质做工是一......",
+      "id": "https://www.bilibili.com/video/BV1xgUUY3ECG",
+      "title": "【B站】自动驾驶",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-09-08",
+      "url": "https://www.bilibili.com/video/BV1xgUUY3ECG"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-09-08",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/09-07/10692296.shtml",
+      "title": "定动力、装“耳朵”、防风险 我国牵头制定多项汽车国际标准",
+      "summary": "记者今天从国家标准委了解到,由我国牵头完成的纯电动汽车整车领域首个国际标准,《电动车辆道路运行特性-第1部分:乘用车和轻型货车》近日正式发布。...",
+      "source": "Chinanews",
+      "date": "2026-09-07",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692296.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg4ppxd/",
+      "title": "预售29.98万到39.98万,智界RX这台车值不值,线下刚看完实车",
+      "summary": "昨天去泉州万达逛街,中庭最近摆了一台智界RX展车,就是鸿蒙智行上个月20日刚开完预售发布会的新SUV,预售价29.98万到39.98万。周末去逛商场,围着车看了半天,把看到的和查到的整理一下。智界为什么突然不按数字起名了智界以前卖过轿车S7,也卖过主打商......",
       "source": "Smzdm",
-      "date": "2026-09-06",
-      "url": "https://post.smzdm.com/p/ae6n7r24/"
+      "date": "2026-09-07",
+      "url": "https://post.smzdm.com/p/agg4ppxd/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1788689132129307.html",
-      "title": "七年,四川宜宾用一块电池重新定义“万里长江第一城”",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-06",
-      "url": "https://www.bjnews.com.cn/detail/1788689132129307.html"
+      "id": "https://post.smzdm.com/p/a5ro8ezk/",
+      "title": "20.99 万‐29.99 万,小米澎程 SUV 拆解:定价到底诚意几分",
+      "summary": "小米澎程系列一次性推出四款增程 SUV,价格跨度从 20.99 万到 29.99 万,不到十万的价差,覆盖城市通勤、家庭多人出行、户外旅居等多个细分场景。四款车型共享昆仑架构,智驾、车身安全硬件全系不......",
+      "source": "Smzdm",
+      "date": "2026-09-07",
+      "url": "https://post.smzdm.com/p/a5ro8ezk/"
     },
     {
-      "id": "https://www.woshipm.com/ai/6460553.html",
-      "title": "AI互联网日报:千问开源Qwen-Drive/Kimi、MiniMax洽谈天猫开店/国内首款AI辅助创新药艾普司韦获批上市",
-      "summary": "一起来看看这两天发生的AI和互联网赛道的大事件吧! 📌 今日AI互联网大事件速览 1,OpenAI承认德国Wiki事故,将制定智能体失准披露框架 2,《西雅图时报》和Newsday起诉OpenAI与Microsoft 3,三名登山者依赖Gemini规划遇险,官方提醒勿把AI当唯一依据 4,Microsoft用AI把WinUI原生应用开发压缩到30分钟 5,Windows提出“无计量智能”,日常AI...",
-      "source": "Woshipm",
-      "date": "2026-09-06",
-      "url": "https://www.woshipm.com/ai/6460553.html"
+      "id": "http://baijiahao.baidu.com/s?id=1875676355692505066",
+      "title": "新华鲜报|法治护航 让人工智能这匹千里马既跑得快又..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-07",
+      "url": "http://baijiahao.baidu.com/s?id=1875676355692505066"
     },
     {
-      "id": "https://m.21jingji.com/article/20260906/herald/0d1c554a858d59852af2f2a604db9446.html",
-      "title": "山海同心 残健同行 | 广东省第十届残疾人运动会在茂名圆满闭幕",
-      "summary": "广东省第十届残运会圆满闭幕 | 残健共融书写厚重答卷,“好心”之名彰显城市温度9月6日下午茂名奥体中心体育馆内座无虚席掌声与歌声交织涌动随着主题曲《心念山海》的最后一缕旋律缓缓消散广东省第十届残疾人运......",
+      "id": "http://baijiahao.baidu.com/s?id=1875685306820693543",
+      "title": "20.99万元起,小米澎程四款新车齐发“中折叠”旗..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-07",
+      "url": "http://baijiahao.baidu.com/s?id=1875685306820693543"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875684345192427366",
+      "title": "特稿|亚太媒体人士的APEC期待",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-07",
+      "url": "http://baijiahao.baidu.com/s?id=1875684345192427366"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260907/herald/75fc50de9b13ce4a843f03db00ce93cc.html",
+      "title": "河南农机总动力达1.14亿千瓦 拖拉机保有量全国居首",
+      "summary": "2026年“活力中国调研行”河南站主题采访活动7日在郑州举行情况介绍会通报称,河南农机总动力达1.14亿千瓦,拖拉机及配套机具保有量全国第一。河南是农业大省、粮食大省,粮食总产量连续9年稳定在1300......",
       "source": "21Jingji",
-      "date": "2026-09-06",
-      "url": "https://m.21jingji.com/article/20260906/herald/0d1c554a858d59852af2f2a604db9446.html"
+      "date": "2026-09-07",
+      "url": "https://m.21jingji.com/article/20260907/herald/75fc50de9b13ce4a843f03db00ce93cc.html"
     },
     {
-      "id": "https://www.fx168news.com/article/1088305",
-      "title": "开源证券:给予云星宇增持评级-FX168",
-      "summary": "开源证券股份有限公司诸海滨近期对云星宇进行研究并发布了研究报告《北交所信息更新:智慧交通“小巨人”在手合同充足,“人工智能+交通运输”政策加持》,给予云星宇增持评级。 云星宇(920806) 智慧交通系统集成类业务在手合同额充足 智慧交通“小巨人”云星宇2026H1实现营业收入70,590.89万元,同比增长7.52%;实现归属于上市公司股东的净利润2,321.06万元,同比下降12.85%。在手...",
-      "source": "Fx168News",
-      "date": "2026-09-06",
-      "url": "https://www.fx168news.com/article/1088305"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03dl2r0/",
-      "title": "魏牌豪华方盒子SUV官图发布,承载式车身配双差速锁,预计35万起",
-      "summary": "魏牌全新豪华方盒子SUV官图正式发布,这台被官方称为“前所未有”的新车,直接把复古硬派造型和车顶激光雷达捏到了一起。新车预计今年Q4正式推出,瞄准30万级市场,给那些嫌城市SUV太柔、硬派越野太糙的家庭用户,提供了一个兼顾通勤舒适与越野气场的新选项。复古......",
-      "source": "Smzdm",
-      "date": "2026-09-06",
-      "url": "https://post.smzdm.com/p/a03dl2r0/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3mdq26k/",
-      "title": "2026凯威德值得推荐吗:九个真实使用维度深度解析",
-      "summary": "凯威德即凯迪拉克 VISTIQ 凯威德,是凯迪拉克推出的全尺寸纯电豪华旗舰SUV。要回答\"凯威德值得推荐吗\"这个问题,不能只靠一句结论,而需要把它放进真实的使用维度里逐一检验。本文从九个维度展开:目标......",
-      "source": "Smzdm",
-      "date": "2026-09-06",
-      "url": "https://post.smzdm.com/p/a3mdq26k/"
-    },
-    {
-      "id": "https://news.cri.cn/20260906/9f2130cc-b315-4203-9d20-d1600cf52640.html",
-      "title": "低空物流员 供应链管理师 一个快递背后“藏”着多少新职业?-国际在线",
-      "summary": "如今,在物联网、人工智能、大数据等新技术的支撑下,快递从下单到配送,越来越快捷,物流从业者也不仅仅是跑跑腿搬搬货这么简单了。今天一起看看在物流领域,一个快递的背后都催生出哪些新职业。 快递旅程的第一站,就是仓储分拣中心。海量快递涌入仓...",
-      "source": "Cri_Cn",
-      "date": "2026-09-06",
-      "url": "https://news.cri.cn/20260906/9f2130cc-b315-4203-9d20-d1600cf52640.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad72e4kp/",
-      "title": "排面拉满!小米澎程明日上市,多家车企送上祝福,是否能刷新纪录",
-      "summary": "今天就是9月6日了,明天就是9月7日了,9月7日小米将要召开发布会了,发布会上的主角有两个,一个是小米首款增程式SUV——小米澎程系列以及大家最近都很熟的小米18 Fold。那么对于小米来说,最重要的产品那肯定的还得是小米澎程系列了,毕竟小米18Fold......",
-      "source": "Smzdm",
-      "date": "2026-09-06",
-      "url": "https://post.smzdm.com/p/ad72e4kp/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875581889063738241",
-      "title": "16分钟!重庆“00后”出租车司机护送孕妇紧急就医",
+      "id": "https://www.jiemian.com/article/15065785.html",
+      "title": "最便宜的小米汽车上市,澎程系列4分钟锁单破万",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-06",
-      "url": "http://baijiahao.baidu.com/s?id=1875581889063738241"
+      "source": "Jiemian",
+      "date": "2026-09-07",
+      "url": "https://www.jiemian.com/article/15065785.html"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0907/235434.shtml",
+      "title": "小米澎程N70、N90系列、小米18 Fold重磅发布",
+      "summary": "9月7日,小米秋季旗舰新品发布会在京举办,小米集团创始人、董事长兼CEO雷军正式发布小米澎程N70 Pro、N70 Max、N90 Max及全新N90 Max探索版四款新车。同场发布的还有两款搭载玄戒O3的旗舰新品:全新折叠屏旗舰小米18 Fold、小米平板9 Pro Max。 本次发布会的新品,是小米底层自研技术的集大成之作:小米澎程系列基于小米昆仑技术架构三大核心技术打造,在业内首创“智能可变...",
+      "source": "Imobile",
+      "date": "2026-09-07",
+      "url": "http://news.imobile.com.cn/articles/2026/0907/235434.shtml"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260907/herald/ba10163b73df39ec99f236b0e18f6415.html",
+      "title": "AI“换脸拟声”、仿冒名人带货如何追责?司法裁判规则来了",
+      "summary": "9月7日,最高人民法院召开新闻发布会,发布《关于依法审理涉人工智能纠纷案件的意见》(下称《意见》)。这是首部由国家最高审判机构发布的涉人工智能司法裁判规则文件。 《意见》分为5部分、共24条......",
+      "source": "21Jingji",
+      "date": "2026-09-07",
+      "url": "https://m.21jingji.com/article/20260907/herald/ba10163b73df39ec99f236b0e18f6415.html"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260907/herald/069ceabab6a9eb89d190028d19a16618.html",
+      "title": "AI换脸拟声,侵权!最高法发布首部涉人工智能司法裁判规则",
+      "summary": "最高法发布首部涉人工智能司法裁判规则,明确AI换脸拟声侵权行为。9月7日,最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》(下称《意见》),分为5个部分,共24条,聚焦社会各界广泛关注的、涉人......",
+      "source": "21Jingji",
+      "date": "2026-09-07",
+      "url": "https://m.21jingji.com/article/20260907/herald/069ceabab6a9eb89d190028d19a16618.html"
     },
     {
       "id": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/i-rode-in-a-self-driving-powered-wheelchair-that-avoids-obstacles-and-people-and-can-be-summoned-when-you-need-it-its-like-teslas-autopilot-for-personal-mobility",
