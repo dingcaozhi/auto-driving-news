@@ -1,15 +1,14 @@
 {
-  "lastUpdated": "2026-09-09 04:18:52",
-  "totalCount": 28,
+  "lastUpdated": "2026-09-10 04:16:02",
+  "totalCount": 26,
   "sources": {
-    "News_Baidu": 8,
-    "Bjnews": 3,
-    "Orientaldaily": 1,
-    "Fx168News": 1,
-    "Smzdm": 2,
-    "Ithome": 1,
-    "Cri_Cn": 1,
-    "21Jingji": 2,
+    "Bilibili": 5,
+    "Bjnews": 1,
+    "News_Baidu": 4,
+    "Chinanews": 1,
+    "21Jingji": 1,
+    "Investing_Cn": 2,
+    "Smzdm": 3,
     "PR Newswire UK": 1,
     "TechRadar": 1,
     "Metro.co.uk": 1,
@@ -22,156 +21,140 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875776233595662444",
-      "title": "雷军在小米澎程发布会后发长文:看完了1400多条评..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-08",
-      "url": "http://baijiahao.baidu.com/s?id=1875776233595662444"
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-10",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1788863724129655.html",
-      "title": "与创新脉动同频 与首都发展共振 光大银行北京分行奋力书写科技金融大文章",
+      "id": "https://www.bilibili.com/video/BV16uYb6vExg",
+      "title": "【B站】自动驾驶的秘诀？",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-09-10",
+      "url": "https://www.bilibili.com/video/BV16uYb6vExg"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1AAtr68Eq2",
+      "title": "【B站】懒人福音：自动驾驶模组！",
+      "summary": "游戏：僵尸毁灭工程、projectzomboid\n模组：DerpyAutodrive\nID：3775160975\nBGM：雨后和猫，作者Idbony...",
+      "source": "Bilibili",
+      "date": "2026-09-10",
+      "url": "https://www.bilibili.com/video/BV1AAtr68Eq2"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Yfbu6REth",
+      "title": "【B站】极氪智己Thor自动驾驶车机玩本地大模型？警告不要玩",
+      "summary": "极氪智己Thor自动驾驶车机玩本地大模型？警告不要玩...",
+      "source": "Bilibili",
+      "date": "2026-09-10",
+      "url": "https://www.bilibili.com/video/BV1Yfbu6REth"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-09-10",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1788964349168303.html",
+      "title": "一女子在行车途中突然爬上车顶跳车,律师:乘客和司机或将遭处罚",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-09-08",
-      "url": "https://www.bjnews.com.cn/detail/1788863724129655.html"
+      "date": "2026-09-09",
+      "url": "https://www.bjnews.com.cn/detail/1788964349168303.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875753543643731360",
-      "title": "长话短说,继续唠起!",
+      "id": "http://baijiahao.baidu.com/s?id=1875865762288535950",
+      "title": "光谷将建城市级聚合智能中试平台,开放场景让智能汽车..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-08",
-      "url": "http://baijiahao.baidu.com/s?id=1875753543643731360"
+      "date": "2026-09-09",
+      "url": "http://baijiahao.baidu.com/s?id=1875865762288535950"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875760159992406180",
-      "title": "商乘并举!江铃集团加速出口步伐",
+      "id": "https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml",
+      "title": "2026年服贸会开幕 新科技点亮趣味生活",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-08",
-      "url": "http://baijiahao.baidu.com/s?id=1875760159992406180"
+      "source": "Chinanews",
+      "date": "2026-09-09",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875775301757798046",
-      "title": "(活力中国调研行)无人驾驶拖拉机能在耕地上“绣花”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-08",
-      "url": "http://baijiahao.baidu.com/s?id=1875775301757798046"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/09/08/846444",
-      "title": "【古来追撞车祸少女身亡】警明提控7人其中一人控谋杀 14人转为控方证人",
-      "summary": "(新山8日讯)17岁少女吴宇恩乘车遭追撞身亡案,柔佛警方调查过程中发现非单纯意外,前后逮捕21人助查后完成调查,其中7人将于明日在新山法庭和古来推事庭,分别面对谋杀、企图谋杀和蓄意破坏的罪名。柔佛总警长拿督拉哈曼今晚发文告表示,这起案件调查报告已于昨日提呈至柔佛州检察署,并获得提控的指示。他透露,其中一名嫌犯将被控刑事法典第302条文(谋杀),若罪名成立,可被判处死刑,或不少于30年,最高不超过4...",
-      "source": "Orientaldaily",
-      "date": "2026-09-08",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/09/08/846444"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1089542",
-      "title": "特斯拉(TSLA)股票9月8日盘中上涨3.18%:真相来了-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.18%, 所属行业汽车与零部件上涨0.63% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.18%;通用汽车 (GM) 下跌 2.14%;Ford Motor Co (F) 下跌 2.98%。 今日是什么导致了特斯拉(TSLA)股价上涨? 随着市场参与者对关键国际监管里程碑以及近期自动驾驶车队更新后的情绪转变做出反应,特斯拉出现上涨动...",
-      "source": "Fx168News",
-      "date": "2026-09-08",
-      "url": "https://www.fx168news.com/article/1089542"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a260ww02/",
-      "title": "凯迪拉克 XT5 PHEV 上市:25.99 万起的豪华插混也卷起来了?",
-      "summary": "凯迪拉克全新 XT5 PHEV 正式上市,一共就 2 款车型,但价格体系玩得相当明白:建议零售价 31-35 万,全款一口价直接干到 27.99-29.99 万,要是赶上两周年购车权益,限时权益价最低 25.99 万就能提车。先别急着心动,把这次的料一件......",
-      "source": "Smzdm",
-      "date": "2026-09-08",
-      "url": "https://post.smzdm.com/p/a260ww02/"
-    },
-    {
-      "id": "https://www.ithome.com/0/999/939.htm",
-      "title": "吉利银河战舰 700 将于 9 月 15 日开启预售,首发搭载 AI 新能源越野技术",
-      "summary": "IT之家 9 月 8 日消息,吉利汽车传播策略部长、吉利银河公关部长 @单爱富William 今天(8 日)晚间宣布,吉利银河战舰 700 将于 9 月 15 日 开启全球预售。 据IT之家了解,银河战舰 700 长宽分别为 5085/1999mm,高度提供 1895mm、1912mm、1925mm 不同版本,轴距为 2900mm。 新车搭载吉利自研的 GVMC 动态控制系统,官方宣称该系统可支持...",
-      "source": "Ithome",
-      "date": "2026-09-08",
-      "url": "https://www.ithome.com/0/999/939.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875776015909556686",
-      "title": "接连参加三场联训 中国战机展现全域作战能力",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-08",
-      "url": "http://baijiahao.baidu.com/s?id=1875776015909556686"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875678997233271009",
-      "title": "开局之年看中国·日新江淮|「海报」探“能”寻“新”..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-08",
-      "url": "http://baijiahao.baidu.com/s?id=1875678997233271009"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1788863185129646.html",
-      "title": "小螺号|最高法为AI划红线,划出创新的确定性",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-08",
-      "url": "https://www.bjnews.com.cn/detail/1788863185129646.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1788876019168283.html",
-      "title": "工人手指被机器砸断,北京西城民警警车开道紧急送医",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-08",
-      "url": "https://www.bjnews.com.cn/detail/1788876019168283.html"
-    },
-    {
-      "id": "https://news.cri.cn/20260908/b96a44b4-15d9-1c7b-7e0a-a0b2d1033640.html",
-      "title": "平陆运河通航后缩短内河航程560公里 节约运输费超50亿-国际在线",
-      "summary": "记者今天(9月7日)从广西壮族自治区人民政府新闻办公室举行的新闻发布会上获悉,经过四年艰苦奋战,平陆运河主体工程已经顺利通过验收,广西水运江河海一体化智慧调度平台全面上线,应急保障、货源组织与运营筹备等工作落实到位,各项运行手续全部齐备...",
-      "source": "Cri_Cn",
-      "date": "2026-09-08",
-      "url": "https://news.cri.cn/20260908/b96a44b4-15d9-1c7b-7e0a-a0b2d1033640.html"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260908/herald/1b4ef55a2c188ad8f01ea7d8a37335f1.html",
-      "title": "自动驾驶小巴来了!每车限载6人,往返T3航站楼与地铁高增站",
-      "summary": "近日,广州白云国际机场T3航站楼至地铁高增站自动驾驶示范线路正式开通。该线路实行双向发班,串联地铁高增站总站与白云国际机场T3航站楼东客运站,每车限载6人,运营时间内每30分钟发一班。目前,该线路正处......",
+      "id": "https://m.21jingji.com/article/20260909/herald/55101dc0c321e2985caecff1897f9cd9.html",
+      "title": "跨越1500公里的邀约:广州将携14万个次岗位赴长三角揽才",
+      "summary": "有一种奔赴,不问山海,只问前程。9月的长三角,梧桐叶渐染秋色,又一批学子站在人生的十字路口。而1500公里外的珠江之畔,广州这座城市已备好舞台,即将开启一场跨越千里的“双向奔赴”。9月16日至20日,......",
       "source": "21Jingji",
-      "date": "2026-09-08",
-      "url": "https://m.21jingji.com/article/20260908/herald/1b4ef55a2c188ad8f01ea7d8a37335f1.html"
+      "date": "2026-09-09",
+      "url": "https://m.21jingji.com/article/20260909/herald/55101dc0c321e2985caecff1897f9cd9.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875761071568871944",
-      "title": "接学生放学回家!从13个娃到2个娃,这趟乡村公交连..",
+      "id": "https://cn.investing.com/news/transcripts/article-93CH-3558781",
+      "title": "SBA通信出席花旗会议:着眼2028年增长拐点",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-09-09",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3558781"
+    },
+    {
+      "id": "https://cn.investing.com/news/transcripts/article-93CH-3558780",
+      "title": "UL Solutions出席2026年杰富瑞全球工业会议:聚焦增长与利润率提升",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-09-09",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3558780"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875865141694132846",
+      "title": "2026外滩大会抢先看:机器狗买水、智能体定时点咖..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-08",
-      "url": "http://baijiahao.baidu.com/s?id=1875761071568871944"
+      "date": "2026-09-09",
+      "url": "http://baijiahao.baidu.com/s?id=1875865141694132846"
     },
     {
-      "id": "https://post.smzdm.com/p/awwz3gng/",
-      "title": "3.79万!一汽新车发布:续航222km",
-      "summary": "马路上看到老头乐我一般都会尽量避开,不是因为老头乐动力弱、速度慢,而是因为都是小厂打造不够安全。其实这类小型代步车的需求一直都有,要不然也不会出现这么多老头乐,但相对而言我还是更建议买大厂的小型代步车......",
+      "id": "http://baijiahao.baidu.com/s?id=1875866171115804937",
+      "title": "第一之外,我们看到了一些“真问题”",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-09",
+      "url": "http://baijiahao.baidu.com/s?id=1875866171115804937"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875865462249634686",
+      "title": "中宣部、国家发改委联合发布“诚信之星”:9人+1家..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-09",
+      "url": "http://baijiahao.baidu.com/s?id=1875865462249634686"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8kng4r/",
+      "title": "全新捷途X90上市 指导价12.29万起",
+      "summary": "9月9日,全新捷途X90迎来正式上市,新车官方指导价落在12.29到15.99万元区间,针对有旧车置换需求的用户,官方给到极具吸引力的超级置换价,仅需 9.99 万起,最高版本置换价 13.19 万元......",
       "source": "Smzdm",
-      "date": "2026-09-08",
-      "url": "https://post.smzdm.com/p/awwz3gng/"
+      "date": "2026-09-09",
+      "url": "https://post.smzdm.com/p/ak8kng4r/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875774345675805324",
-      "title": "创业板消费电子指数将于9月11日发布",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-08",
-      "url": "http://baijiahao.baidu.com/s?id=1875774345675805324"
+      "id": "https://post.smzdm.com/p/ak8kng7e/",
+      "title": "坦克700长轴版申报图 6座布局 搭2.0T/3.0T插混动力",
+      "summary": "工信部最新申报目录放出坦克700长轴距版本的申报资料,这款新车最大的亮点就是拉长车身与轴距,采用六座布局,在保留硬派越野底子的同时,重点优化车内多人乘坐空间。新车外观大体延续现款坦克 700 的硬派设计,提供两套插混动力方案,2.0T Hi4-Z 和 3......",
+      "source": "Smzdm",
+      "date": "2026-09-09",
+      "url": "https://post.smzdm.com/p/ak8kng7e/"
     },
     {
-      "id": "https://m.21jingji.com/article/20260908/herald/008f1eef9eb4553d7ade5453cbf20d02.html",
-      "title": "华为乾崑智驾与座舱搭载破200万,安全行驶里程达150亿公里",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-08",
-      "url": "https://m.21jingji.com/article/20260908/herald/008f1eef9eb4553d7ade5453cbf20d02.html"
+      "id": "https://post.smzdm.com/p/agg8e8lw/",
+      "title": "短途露营神器,枭龙MAX外放电功能实用",
+      "summary": "“你上次露营带的那套装备,我看你又是卡式炉又是移动电源的,后备箱塞得满满当当,就没想过直接从车上取电?”同事老周盯着手机里我发的营地照片,突然冒出这么一句。我指了指照片角落里那台二代枭龙MAX,跟他说这车自带外放电功能,插上转接头就能当大号充电宝用。老周......",
+      "source": "Smzdm",
+      "date": "2026-09-09",
+      "url": "https://post.smzdm.com/p/agg8e8lw/"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-surpasses-1-billion-kilometers-in-commercial-autonomous-trucking-accelerating-the-development-of-freight-physical-ai-302872025.html",
