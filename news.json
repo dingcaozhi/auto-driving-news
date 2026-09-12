@@ -1,167 +1,226 @@
 {
-  "lastUpdated": "2026-09-11 04:15:31",
-  "totalCount": 27,
+  "lastUpdated": "2026-09-12 04:14:14",
+  "totalCount": 33,
   "sources": {
-    "News_Baidu": 4,
-    "Smzdm": 5,
-    "Ithome": 3,
-    "Hypebeast_Cn": 1,
-    "Bjnews": 2,
-    "21Jingji": 2,
-    "Investing_Cn": 1,
+    "Bilibili": 5,
+    "News_Baidu": 7,
+    "Pcauto_Cn": 1,
+    "21Jingji": 5,
+    "Zaobao": 1,
+    "Ithome": 1,
+    "Theportugalnews": 1,
+    "Smzdm": 1,
+    "Bjnews": 1,
+    "Majorca Daily Bulletin": 1,
+    "TNW": 1,
     "Washington Examiner": 1,
     "PR Newswire UK": 2,
     "The Financial Express": 1,
     "TechRadar": 1,
     "Metro.co.uk": 1,
     "Free Press Journal": 1,
-    "The Star": 1,
-    "The Mirror": 1
+    "The Star": 1
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1875959607844640129",
-      "title": "自驾G331遇棕熊扒引擎盖索食,大兴安岭林草局:不..",
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-12",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-12",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1NJYD6MEjz",
+      "title": "【B站】全程自动驾驶，成都，夜景",
+      "summary": "行驶在成都的夜里。...",
+      "source": "Bilibili",
+      "date": "2026-09-12",
+      "url": "https://www.bilibili.com/video/BV1NJYD6MEjz"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1xWYE6LEFn",
+      "title": "【B站】辅助驾驶不是自动驾驶！",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-12",
+      "url": "https://www.bilibili.com/video/BV1xWYE6LEFn"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-09-12",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876050174740469502",
+      "title": "中国空军四型主战装备亮相埃及 这套作战链条有多强?",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-10",
-      "url": "http://baijiahao.baidu.com/s?id=1875959607844640129"
+      "date": "2026-09-11",
+      "url": "http://baijiahao.baidu.com/s?id=1876050174740469502"
     },
     {
-      "id": "https://post.smzdm.com/p/a70n9el5/",
-      "title": "收获超50万份信赖,传祺M8正改写中国豪华MPV竞争逻辑!",
-      "summary": "文 | AUTO芯球作者 | 三缸先生近日,传祺M8累计销量正式突破50万辆,成为首个突破50万销量的自主品牌豪华MPV。行业内对这件事的讨论,可能大多偏向于产品维度,分析它的定价策略、配置水平或者混动技术优势,把50万当成一次产品战役的胜利。但如果把视......",
-      "source": "Smzdm",
-      "date": "2026-09-10",
-      "url": "https://post.smzdm.com/p/a70n9el5/"
+      "id": "http://www.pcauto.com.cn/news/5181/51816915.html",
+      "title": "对话|智己汽车:只有经销商满意,消费者才会满意",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-09-11",
+      "url": "http://www.pcauto.com.cn/news/5181/51816915.html"
     },
     {
-      "id": "https://www.ithome.com/1/001/043.htm",
-      "title": "法国总统马克龙呼吁欧洲大力发展自主载人航天,力争 10 年内送宇航员上太空",
-      "summary": "IT之家 9 月 10 日消息,据法新社报道,当地时间 10 日,法国总统埃马纽埃尔 · 马克龙呼吁欧洲在 10 年内 具备自主载人航天能力 ,推动欧洲航天业发展。 欧洲航天局(ESA)局长约瑟夫 · 阿施巴赫尔也提出了类似呼吁。当地时间 9 日,他在闭门会议上敦促各国部长和政要增加投入,建设 独立自主的欧洲航天业 。他在演讲稿中问道:“我们要做乘客,还是驾驶员?” 阿施巴赫尔指出,各国航天技术突...",
+      "id": "https://m.21jingji.com/article/20260911/herald/ccf1e9069fc95727df6c16cd04e2d9c8.html",
+      "title": "百公里11.5度电!2030年新能源汽车什么样?",
+      "summary": "工业和信息化部等九部门今天(11日)发布了《智能网联新能源汽车产业发展“十五五”规划》。规划中提到“纯电动乘用车平均电能消耗量达到每百公里11.5千瓦时左右”、“高速公路、城市快速路、部分城市道路等场......",
+      "source": "21Jingji",
+      "date": "2026-09-11",
+      "url": "https://m.21jingji.com/article/20260911/herald/ccf1e9069fc95727df6c16cd04e2d9c8.html"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/world/story20260911-9664908",
+      "title": "据报胡塞武装已控制曼德海峡",
+      "summary": "(华盛顿/迪拜综合电)据报道,伊朗支持的胡塞武装组织占领了也门的三处红海战略要地,基本控制了曼德海峡通航的咽喉要道,并占领了也门西岸的所有据点。...",
+      "source": "Zaobao",
+      "date": "2026-09-11",
+      "url": "https://www.zaobao.com.sg/news/world/story20260911-9664908"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260911/herald/359c1b59be586f909799426b033365ad.html",
+      "title": "九部门发布规划:2030年新能源乘用车销量占比达到70%",
+      "summary": "近日,工业和信息化部等九部门印发《智能网联新能源汽车产业发展“十五五”规划》(以下简称《规划》)。《规划》提出,到2030年,我国智能网联新能源汽车全产业链优势进一步巩固,进入世界汽车强国行列,国内市......",
+      "source": "21Jingji",
+      "date": "2026-09-11",
+      "url": "https://m.21jingji.com/article/20260911/herald/359c1b59be586f909799426b033365ad.html"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260911/herald/ba790c55a0d5dfd939710a9d35110138.html",
+      "title": "物流“跑起来”内需“活起来” 经济循环潜力持续释放",
+      "summary": "中国物流与采购联合会9月11日发布8月份中国电商物流指数。8月指数止跌回升,升至年内较高水平,电商物流活力进一步提升。8月份,中国电商物流指数为111.5点,环比回升0.3点。9个分项指数中,有8项较......",
+      "source": "21Jingji",
+      "date": "2026-09-11",
+      "url": "https://m.21jingji.com/article/20260911/herald/ba790c55a0d5dfd939710a9d35110138.html"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260911/herald/53f4d96971ba3dcca65c91920d2c2dcd.html",
+      "title": "汽车业“十五五”规划出台!高渗透率目标下 智能汽车进入算力、数据、AI全域竞争时代",
+      "summary": "正处于智电转型关键阶段的中国汽车 产业,迎来面向“十五五”的顶层设计。9月11日,工信部等九部门联合印发《智能网联新能源 汽车产业发展“十五五”规划》。《规划》明确了“十五五”期间智能网联新能源汽车产......",
+      "source": "21Jingji",
+      "date": "2026-09-11",
+      "url": "https://m.21jingji.com/article/20260911/herald/53f4d96971ba3dcca65c91920d2c2dcd.html"
+    },
+    {
+      "id": "https://www.ithome.com/1/001/471.htm",
+      "title": "2027 款雷克萨斯 LS 登陆日本老家:全系 3.5L V6 混动,1414 万日元起",
+      "summary": "IT之家 9 月 11 日消息,9 月 10 日,雷克萨斯在日本正式推出经过 2027 款 LS 旗舰轿车。此次升级继续围绕“Lexus Driving Signature”展开,从基础性能到整车调校都进行了进一步优化。 为了改善行驶质感,新款 LS 重点从强化车身刚性和降低振动入手。在原有车头和车尾加强结构的基础上,新车进一步强化中央通道,从而提升整车刚性。后悬架加强件和后备箱加强件则加入 RE...",
       "source": "Ithome",
-      "date": "2026-09-10",
-      "url": "https://www.ithome.com/1/001/043.htm"
+      "date": "2026-09-11",
+      "url": "https://www.ithome.com/1/001/471.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/awwzgldg/",
-      "title": "782km续航、全域800V,全新一代智己LS6开启预售",
-      "summary": "20.99万元起,近5米的车身、782km纯电续航、全域800V平台,再加上一套全线控底盘,全新一代智己LS6这次预售,显然是冲着家庭纯电SUV市场来的。对于家庭用户来说,选车不能只看尺寸够不够大,也......",
-      "source": "Smzdm",
-      "date": "2026-09-10",
-      "url": "https://post.smzdm.com/p/awwzgldg/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qd0vg7/",
-      "title": "好险!差点刹车片就磨完了,赶紧试试途虎定制的博世致静Pro刹车片效果",
-      "summary": "大家好我是维修小能手雷恩。我的油车已经开了近七万公里了,前轮刹车片换过一次。但是后轮一直没换过,因为我一直以为后轮是有刹车线磨完提醒的。直到前几天做完保养顺带看了下后轮刹车片,感觉好像已经不多了,于是......",
-      "source": "Smzdm",
-      "date": "2026-09-10",
-      "url": "https://post.smzdm.com/p/a4qd0vg7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgx50lp/",
-      "title": "12.99 万!吉利“半价SU7”杀疯了!全系 800V+宁德时代电池",
-      "summary": "又一款15万级的轿车公布了,它就是银河TT,从外观到整体宣传调性都是紧扣“小米Su7”,正式的公布价格如下所示:12.99万元起!此次上市共推出 5 款车型,上市指导价为:640km 后驱尊享版:13......",
-      "source": "Smzdm",
-      "date": "2026-09-10",
-      "url": "https://post.smzdm.com/p/avgx50lp/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875947278465972119",
-      "title": "全球领先无人驾驶科技公司广州总部落地白云",
+      "id": "http://baijiahao.baidu.com/s?id=1876044288779210703",
+      "title": "为创新护航 为安全划界",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-10",
-      "url": "http://baijiahao.baidu.com/s?id=1875947278465972119"
+      "date": "2026-09-11",
+      "url": "http://baijiahao.baidu.com/s?id=1876044288779210703"
     },
     {
-      "id": "https://hypebeast.cn/2026/9/breitling-avenger-automatic-gmt-44-cathay-pacific-80th-anniversary-edition-collaboration-release-info",
-      "title": "Cathay Pacific 联乘 Breitling 推出限量 Avenger GMT 腕表",
-      "summary": "Breitling 与香港航空公司 Cathay Pacific 携手推出 Avenger Automatic GMT 44 Cathay Pacific 80th Anniversary Edition。这枚限量腕表为纪念 Cathay Pacific 营运 80 周年而设,揉合 Breitling 深厚的航空传统,以及 Cathay 所代表的旅行生活方式。全球严格限量 300 枚,44 毫米表...",
-      "source": "Hypebeast_Cn",
-      "date": "2026-09-10",
-      "url": "https://hypebeast.cn/2026/9/breitling-avenger-automatic-gmt-44-cathay-pacific-80th-anniversary-edition-collaboration-release-info"
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-09-11/driving-licence-could-be-seized-despite-being-within-its-expiry-date-in-portugal/1085167",
+      "title": "在葡萄牙,即使驾照仍在有效期内,也可能被吊销",
+      "summary": "NewsData报道",
+      "source": "Theportugalnews",
+      "date": "2026-09-11",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-09-11/driving-licence-could-be-seized-despite-being-within-its-expiry-date-in-portugal/1085167"
     },
     {
-      "id": "https://www.ithome.com/1/001/033.htm",
-      "title": "全新一汽红旗 H7 将于 9 月 16 日上市,限时置换价 16.18 万元-20.18 万元",
-      "summary": "IT之家 9 月 10 日消息,据易车今天报道,全新一汽红旗 H7 将于 9 月 16 日上市,新车拥有 180 智混版、240 智混版以及 210 四驱智混版, 限时置换价 16.18 万元-20.18 万元 。 IT之家了解到,红旗 H7 已于上个月预售发布,该车尺寸为 5060×1910×1480mm、轴距 2970mm,采用流影穿云外观设计,行业首创前排渐变隔音隐私玻璃,并配备半隐藏式门把...",
-      "source": "Ithome",
-      "date": "2026-09-10",
-      "url": "https://www.ithome.com/1/001/033.htm"
+      "id": "https://m.21jingji.com/article/20260911/herald/5680071b4ada0916e728b98560242c34.html",
+      "title": "九部门发文!产能预警调控首次写入《规划》,AI、自动驾驶、电池回收全安排!专家预判",
+      "summary": "9月11日,工信部等九部门联合印发的《智能网联新能源汽车产业发展“十五五”规划》(以下简称《规划》)提出,到2030年,我国智能网联新能源汽车全产业链优势进一步巩固,进入世界汽车强国行列,《规划》同时......",
+      "source": "21Jingji",
+      "date": "2026-09-11",
+      "url": "https://m.21jingji.com/article/20260911/herald/5680071b4ada0916e728b98560242c34.html"
     },
     {
-      "id": "https://www.ithome.com/1/001/031.htm",
-      "title": "美众议员呼吁 NHTSA 调查特斯拉:有司机故意开着辅助驾驶睡觉",
-      "summary": "IT之家 9 月 10 日消息,据美国 CNBC 今天(10 日)上午报道,针对特斯拉驾驶员在车辆行驶时故意睡觉的行为,美国伊利诺伊州民主党籍众议员拉贾 · 克里希纳穆尔蒂当地时间 9 日呼吁政府展开调查。 克里希纳穆尔蒂致信美国交通部长肖恩 · 达菲,表达了对这一现象的安全担忧:部分驾驶员对辅助驾驶软件的信任,甚至 超过了监管机构和特斯拉自身 。 他敦促美国交通部和国家公路交通安全管理局(NHT...",
-      "source": "Ithome",
-      "date": "2026-09-10",
-      "url": "https://www.ithome.com/1/001/031.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875950145322114628",
-      "title": "服贸会上的科技新看点",
+      "id": "http://baijiahao.baidu.com/s?id=1876043430305093824",
+      "title": "最美新时代革命军人风采丨步步为“赢”——记“最美新..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-10",
-      "url": "http://baijiahao.baidu.com/s?id=1875950145322114628"
+      "date": "2026-09-11",
+      "url": "http://baijiahao.baidu.com/s?id=1876043430305093824"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1789042339129496.html",
-      "title": "2026服贸会经开区文旅服务专题展沉浸式演绎城市新场景",
+      "id": "https://post.smzdm.com/p/a950o5mp/",
+      "title": "20万级买家轿,海豹08值不值得买?喵哥一次给你讲清楚",
+      "summary": "20万的预算考虑家轿,到底是选合资燃油还是国产新能源呢?以前在这个价位,基本上都被合资占据的死死的,但是现在很多朋友开始选择国产新能源。尤其是前不久我刚去试驾的海豹08,这款车从还没上市起,就有不少朋友问喵哥到底值不值得买?今天喵哥给大家一次讲清楚。......",
+      "source": "Smzdm",
+      "date": "2026-09-11",
+      "url": "https://post.smzdm.com/p/a950o5mp/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876029777236032839",
+      "title": "未来5年,我国智能网联新能源汽车产业如何发展?",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-11",
+      "url": "http://baijiahao.baidu.com/s?id=1876029777236032839"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876043053728949519",
+      "title": "五年后90%的创投将涌入AI?外滩大会上投资人的判..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-11",
+      "url": "http://baijiahao.baidu.com/s?id=1876043053728949519"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876029243080035164",
+      "title": "直通部委|中方回应上调日本公民赴华签证费 国内成品..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-11",
+      "url": "http://baijiahao.baidu.com/s?id=1876029243080035164"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1789129773129411.html",
+      "title": "智能网联汽车下一个五年怎么走?九部门联合发文,信息量很大",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-09-10",
-      "url": "https://www.bjnews.com.cn/detail/1789042339129496.html"
+      "date": "2026-09-11",
+      "url": "https://www.bjnews.com.cn/detail/1789129773129411.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a03q5pmw/",
-      "title": "吉利银河TT先享价12.99万起 搭载全域800V平台",
-      "summary": "9月10日,吉利银河TT正式迎来上市,新车一共推出五款配置版本,上市限时先享价从12.99万元起步。这台车最大的看点就是入门即高配,哪怕是最低配车型,也直接给到全域 800V 高压平台、宁德时代专门定......",
-      "source": "Smzdm",
-      "date": "2026-09-10",
-      "url": "https://post.smzdm.com/p/a03q5pmw/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875932993566550723",
-      "title": "新质产业|TIC:成本变身资产,合规升级与数字信任..",
-      "summary": "行业观点未来市场洞察首席分析师尼基尔凯特韦德表示,能够依托数字化服务平台与全球实验室网络,跨领域提供一体化解决方案的检验、检测与认证(Testing,Inspection and Certification,简称TIC...",
+      "id": "http://baijiahao.baidu.com/s?id=1876046418710289711",
+      "title": "自动驾驶迎机遇期!九部门:到2030年具备自动驾驶..",
+      "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-10",
-      "url": "http://baijiahao.baidu.com/s?id=1875932993566550723"
+      "date": "2026-09-11",
+      "url": "http://baijiahao.baidu.com/s?id=1876046418710289711"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1789045361129567.html",
-      "title": "选车必看:核心部件参数核验,用这个平台效率翻倍",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-10",
-      "url": "https://www.bjnews.com.cn/detail/1789045361129567.html"
+      "id": "https://www.majorcadailybulletin.com/news/local/2026/09/11/145703/could-self-driving-taxis-heading-for-palma-after-madrid-gets-green-light.html",
+      "title": "Could self-driving taxis be heading for Palma after Madrid gets green light?",
+      "summary": "WeRide, Uber and Avomo secure Spain’s first operating licence for autonomous vehicles. Move is considered an important foundation for the future roll-out of autonomous transport services across Spain ...",
+      "source": "Majorca Daily Bulletin",
+      "date": "2026-09-11",
+      "url": "https://www.majorcadailybulletin.com/news/local/2026/09/11/145703/could-self-driving-taxis-heading-for-palma-after-madrid-gets-green-light.html"
     },
     {
-      "id": "https://m.21jingji.com/article/20260910/herald/201c9c4b240e888970361cc2979abbc8.html",
-      "title": "当机器人卡在台阶前,城市空间如何留位?深圳发布《人机友好型社区建设导则(征求意见稿)》",
-      "summary": "配送机器人穿行小区,却在台阶前停滞;清洁机器人清扫路面,却在狭窄通道卡住;巡检机器人守护安全,却因半路缺电“趴窝”......智能机器人已悄悄走进深圳人的日常生活,但“落地”的尴尬,每天都在上演。这不仅是技术......",
-      "source": "21Jingji",
+      "id": "https://thenextweb.com/news/weride-uber-spain-first-level-4-permit-madrid",
+      "title": "Spain gives WeRide and Uber its first permit for Level 4 self-driving cars",
+      "summary": "WeRide and Uber get Spain's first Level 4 permit for autonomous cars, with 20 supervised vehicles in Madrid. Commercial rides are due by end-2026....",
+      "source": "TNW",
       "date": "2026-09-10",
-      "url": "https://m.21jingji.com/article/20260910/herald/201c9c4b240e888970361cc2979abbc8.html"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260910/herald/20972448921d987caea4db2698e6b881.html",
-      "title": "大批上岗,广东制造的“机器人时代”",
-      "summary": "一边是工厂里的机械臂昼夜不停,另一边是羽毛球馆里的人形机器人挥拍迎战。田野上,无人机低空掠过,电网中,巡检机器人穿梭于设备之间,仓库里,无人运输车按照系统指令自动调度。机器人正在广东变得越来越忙。它们......",
-      "source": "21Jingji",
-      "date": "2026-09-10",
-      "url": "https://m.21jingji.com/article/20260910/herald/20972448921d987caea4db2698e6b881.html"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3561157",
-      "title": "美股知名投资人Eric Jackson加入盛大科技(SDA.US)顾问委员会 助力公司国际化战略与投资者关系建设",
-      "summary": "美股知名投资人Eric Jackson加入盛大科技(SDA.US)顾问委员会 助力公司国际化战略与投资者关系建设...",
-      "source": "Investing_Cn",
-      "date": "2026-09-10",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3561157"
+      "url": "https://thenextweb.com/news/weride-uber-spain-first-level-4-permit-madrid"
     },
     {
       "id": "https://www.washingtonexaminer.com/op-eds/4717390/spacex-satellite-collision-avoidance-policy-public-safety-data-software/",
@@ -202,38 +261,6 @@
       "source": "TechRadar",
       "date": "2026-09-05",
       "url": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/i-rode-in-a-self-driving-powered-wheelchair-that-avoids-obstacles-and-people-and-can-be-summoned-when-you-need-it-its-like-teslas-autopilot-for-personal-mobility"
-    },
-    {
-      "id": "https://metro.co.uk/2026/09/03/londoners-can-hail-a-limited-uber-wayve-robotaxi-new-trial-starts-29527627/",
-      "title": "Londoners can hail a limited Uber Wayve robotaxi after new trial starts",
-      "summary": "Uber customers can now ride Wayve self-driving robotaxis in London as part of a trial using electric Ford Mustang Mach-E autonomous vehicles....",
-      "source": "Metro.co.uk",
-      "date": "2026-09-03",
-      "url": "https://metro.co.uk/2026/09/03/londoners-can-hail-a-limited-uber-wayve-robotaxi-new-trial-starts-29527627/"
-    },
-    {
-      "id": "https://www.freepressjournal.in/business/wayve-uber-launch-londons-1st-self-driving-taxis-with-human-safety-drivers",
-      "title": "Wayve, Uber Launch London’s 1st Self-Driving Taxis With Human Safety Drivers",
-      "summary": "Wayve and Uber have launched London’s first self-driving taxi fleet, with human safety drivers supervising the vehicles. Passengers booking UberX, Uber Electric or Uber Comfort may be matched with an ...",
-      "source": "Free Press Journal",
-      "date": "2026-09-03",
-      "url": "https://www.freepressjournal.in/business/wayve-uber-launch-londons-1st-self-driving-taxis-with-human-safety-drivers"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/09/03/france-starts-tests-on-tesla039s-self-driving-tech",
-      "title": "France starts tests on Tesla's self-driving tech",
-      "summary": "PARIS, Sept 3 (Reuters) - ⁠France has begun tests on two cars to better assess Tesla's FSD ⁠advanced driver assistance system, French Minister of Transport Philippe Tabarot said, ‌in a move that could...",
-      "source": "The Star",
-      "date": "2026-09-03",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/03/france-starts-tests-on-tesla039s-self-driving-tech"
-    },
-    {
-      "id": "https://www.mirror.co.uk/news/uk-news/robotaxi-uber-driverless-cabs-travel-37622300",
-      "title": "How to hail a robotaxi and how much they cost as space age driverless cabs arrive in UK",
-      "summary": "The race is on to become one of the first people to test out Uber's autonomous cars in Britain, but there's a catch - there will still be a human in the driving seat...",
-      "source": "The Mirror",
-      "date": "2026-09-03",
-      "url": "https://www.mirror.co.uk/news/uk-news/robotaxi-uber-driverless-cabs-travel-37622300"
     }
   ]
 }
