@@ -1,210 +1,133 @@
 {
-  "lastUpdated": "2026-09-12 04:14:14",
-  "totalCount": 33,
+  "lastUpdated": "2026-09-13 05:29:47",
+  "totalCount": 22,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 7,
-    "Pcauto_Cn": 1,
-    "21Jingji": 5,
-    "Zaobao": 1,
-    "Ithome": 1,
-    "Theportugalnews": 1,
-    "Smzdm": 1,
+    "Smzdm": 8,
+    "Chinanews": 1,
+    "News_Baidu": 2,
     "Bjnews": 1,
+    "The Verge": 1,
+    "The Guardian": 1,
     "Majorca Daily Bulletin": 1,
     "TNW": 1,
     "Washington Examiner": 1,
     "PR Newswire UK": 2,
     "The Financial Express": 1,
-    "TechRadar": 1,
-    "Metro.co.uk": 1,
-    "Free Press Journal": 1,
-    "The Star": 1
+    "FinanzNachrichten": 1,
+    "TechRadar": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-12",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-12",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1NJYD6MEjz",
-      "title": "【B站】全程自动驾驶，成都，夜景",
-      "summary": "行驶在成都的夜里。...",
-      "source": "Bilibili",
-      "date": "2026-09-12",
-      "url": "https://www.bilibili.com/video/BV1NJYD6MEjz"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1xWYE6LEFn",
-      "title": "【B站】辅助驾驶不是自动驾驶！",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-12",
-      "url": "https://www.bilibili.com/video/BV1xWYE6LEFn"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-09-12",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876050174740469502",
-      "title": "中国空军四型主战装备亮相埃及 这套作战链条有多强?",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-11",
-      "url": "http://baijiahao.baidu.com/s?id=1876050174740469502"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5181/51816915.html",
-      "title": "对话|智己汽车:只有经销商满意,消费者才会满意",
-      "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-09-11",
-      "url": "http://www.pcauto.com.cn/news/5181/51816915.html"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260911/herald/ccf1e9069fc95727df6c16cd04e2d9c8.html",
-      "title": "百公里11.5度电!2030年新能源汽车什么样?",
-      "summary": "工业和信息化部等九部门今天(11日)发布了《智能网联新能源汽车产业发展“十五五”规划》。规划中提到“纯电动乘用车平均电能消耗量达到每百公里11.5千瓦时左右”、“高速公路、城市快速路、部分城市道路等场......",
-      "source": "21Jingji",
-      "date": "2026-09-11",
-      "url": "https://m.21jingji.com/article/20260911/herald/ccf1e9069fc95727df6c16cd04e2d9c8.html"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/world/story20260911-9664908",
-      "title": "据报胡塞武装已控制曼德海峡",
-      "summary": "(华盛顿/迪拜综合电)据报道,伊朗支持的胡塞武装组织占领了也门的三处红海战略要地,基本控制了曼德海峡通航的咽喉要道,并占领了也门西岸的所有据点。...",
-      "source": "Zaobao",
-      "date": "2026-09-11",
-      "url": "https://www.zaobao.com.sg/news/world/story20260911-9664908"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260911/herald/359c1b59be586f909799426b033365ad.html",
-      "title": "九部门发布规划:2030年新能源乘用车销量占比达到70%",
-      "summary": "近日,工业和信息化部等九部门印发《智能网联新能源汽车产业发展“十五五”规划》(以下简称《规划》)。《规划》提出,到2030年,我国智能网联新能源汽车全产业链优势进一步巩固,进入世界汽车强国行列,国内市......",
-      "source": "21Jingji",
-      "date": "2026-09-11",
-      "url": "https://m.21jingji.com/article/20260911/herald/359c1b59be586f909799426b033365ad.html"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260911/herald/ba790c55a0d5dfd939710a9d35110138.html",
-      "title": "物流“跑起来”内需“活起来” 经济循环潜力持续释放",
-      "summary": "中国物流与采购联合会9月11日发布8月份中国电商物流指数。8月指数止跌回升,升至年内较高水平,电商物流活力进一步提升。8月份,中国电商物流指数为111.5点,环比回升0.3点。9个分项指数中,有8项较......",
-      "source": "21Jingji",
-      "date": "2026-09-11",
-      "url": "https://m.21jingji.com/article/20260911/herald/ba790c55a0d5dfd939710a9d35110138.html"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260911/herald/53f4d96971ba3dcca65c91920d2c2dcd.html",
-      "title": "汽车业“十五五”规划出台!高渗透率目标下 智能汽车进入算力、数据、AI全域竞争时代",
-      "summary": "正处于智电转型关键阶段的中国汽车 产业,迎来面向“十五五”的顶层设计。9月11日,工信部等九部门联合印发《智能网联新能源 汽车产业发展“十五五”规划》。《规划》明确了“十五五”期间智能网联新能源汽车产......",
-      "source": "21Jingji",
-      "date": "2026-09-11",
-      "url": "https://m.21jingji.com/article/20260911/herald/53f4d96971ba3dcca65c91920d2c2dcd.html"
-    },
-    {
-      "id": "https://www.ithome.com/1/001/471.htm",
-      "title": "2027 款雷克萨斯 LS 登陆日本老家:全系 3.5L V6 混动,1414 万日元起",
-      "summary": "IT之家 9 月 11 日消息,9 月 10 日,雷克萨斯在日本正式推出经过 2027 款 LS 旗舰轿车。此次升级继续围绕“Lexus Driving Signature”展开,从基础性能到整车调校都进行了进一步优化。 为了改善行驶质感,新款 LS 重点从强化车身刚性和降低振动入手。在原有车头和车尾加强结构的基础上,新车进一步强化中央通道,从而提升整车刚性。后悬架加强件和后备箱加强件则加入 RE...",
-      "source": "Ithome",
-      "date": "2026-09-11",
-      "url": "https://www.ithome.com/1/001/471.htm"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876044288779210703",
-      "title": "为创新护航 为安全划界",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-11",
-      "url": "http://baijiahao.baidu.com/s?id=1876044288779210703"
-    },
-    {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-09-11/driving-licence-could-be-seized-despite-being-within-its-expiry-date-in-portugal/1085167",
-      "title": "在葡萄牙,即使驾照仍在有效期内,也可能被吊销",
-      "summary": "NewsData报道",
-      "source": "Theportugalnews",
-      "date": "2026-09-11",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-09-11/driving-licence-could-be-seized-despite-being-within-its-expiry-date-in-portugal/1085167"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260911/herald/5680071b4ada0916e728b98560242c34.html",
-      "title": "九部门发文!产能预警调控首次写入《规划》,AI、自动驾驶、电池回收全安排!专家预判",
-      "summary": "9月11日,工信部等九部门联合印发的《智能网联新能源汽车产业发展“十五五”规划》(以下简称《规划》)提出,到2030年,我国智能网联新能源汽车全产业链优势进一步巩固,进入世界汽车强国行列,《规划》同时......",
-      "source": "21Jingji",
-      "date": "2026-09-11",
-      "url": "https://m.21jingji.com/article/20260911/herald/5680071b4ada0916e728b98560242c34.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876043430305093824",
-      "title": "最美新时代革命军人风采丨步步为“赢”——记“最美新..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-11",
-      "url": "http://baijiahao.baidu.com/s?id=1876043430305093824"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a950o5mp/",
-      "title": "20万级买家轿,海豹08值不值得买?喵哥一次给你讲清楚",
-      "summary": "20万的预算考虑家轿,到底是选合资燃油还是国产新能源呢?以前在这个价位,基本上都被合资占据的死死的,但是现在很多朋友开始选择国产新能源。尤其是前不久我刚去试驾的海豹08,这款车从还没上市起,就有不少朋友问喵哥到底值不值得买?今天喵哥给大家一次讲清楚。......",
+      "id": "https://post.smzdm.com/p/aom9eol6/",
+      "title": "T6把“防晕率超90%”摆上货架,日产喊过80%、本田喊过72%:9月20日上市前,晕车家庭先进店对完这三个口径",
+      "summary": "9月11日,一汽-大众官宣:ID. AURA T6定档9月20日上市,预售13.59万—16.99万元、共4个版本。 预售首个周末,多地门店报出“单店单日订单破百”,官方却一直没发战报。IT之家今日头条“晕不晕”,正在变成2026年纯电家用车发布会的新考......",
       "source": "Smzdm",
-      "date": "2026-09-11",
-      "url": "https://post.smzdm.com/p/a950o5mp/"
+      "date": "2026-09-12",
+      "url": "https://post.smzdm.com/p/aom9eol6/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876029777236032839",
-      "title": "未来5年,我国智能网联新能源汽车产业如何发展?",
+      "id": "https://post.smzdm.com/p/apqvoz80/",
+      "title": "前置儿童座椅被官媒调查点名\"人肉安全气囊\",电动自行车儿童座椅却至今没有统一国标:法治日报买回三类座椅实测、北京明确前置...",
+      "summary": "开学第二周,幼儿园和小学门口又停满了电动自行车。最近小红书上关于\"电动车儿童座椅\"的帖子明显多起来。一条前置座椅的种草帖拿了2.8万赞、7500多收藏,配文是\"一个人带娃出门方便多了\"。另一边,一条叫\"儿童座椅害人不浅\"的帖子也有一千多条评论,评论区全在......",
+      "source": "Smzdm",
+      "date": "2026-09-12",
+      "url": "https://post.smzdm.com/p/apqvoz80/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrm6n3x/",
+      "title": "华南农大把“电鸡科目二”搬进军训考核,900名新生挨个考:高校对小电驴收紧管理——开学季买车前,先问学校三句话、分清三种车、算清两笔账",
+      "summary": "开学第一周,最\"卷\"的军训可能在华南农业大学。站军姿、练队列都是常规操作,华农的新生还多了一门\"电鸡科目二\":平稳起步、直线行驶、直角转弯、S型绕弯、制动停车,理论加实操两个科目,逐项考核。据南方都市......",
+      "source": "Smzdm",
+      "date": "2026-09-12",
+      "url": "https://post.smzdm.com/p/aqrm6n3x/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkze072/",
+      "title": "理想8.6推送、近百万台AD Max解锁马赫VLA 2.0:我把李想长文、三层蒸馏、127条\"没用的都上\"评论和车主实测两极全对完了——老车主点更新前,先看清车里是谁家的芯",
+      "summary": "9月10日傍晚18:10,李想在微博发长文,把6月的承诺又讲了一遍:6月的Livis Day上说过,第三季度要把基于马赫M100芯片的马赫VLA能力,带给搭载Orin、Thor平台的AD Max车型;......",
+      "source": "Smzdm",
+      "date": "2026-09-12",
+      "url": "https://post.smzdm.com/p/axkze072/"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
+      "title": "当物流装上“AI引擎” 如何跑出新速度?",
+      "summary": "网上下单、家门口收快递,早已融入普通人的日常生活。但亿万件包裹如何实现高效流转、精准投递?在服贸会上,记者发现,人工智能正在改变传统物流的运行逻辑。...",
+      "source": "Chinanews",
+      "date": "2026-09-12",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aom9e7m7/",
+      "title": "马自达新车官宣:9月26日,即将上市",
+      "summary": "在之前8月成都车展上有多款新车开启了预售,我记得其中就包括马自达EZ-60激光版,现在官方已经官宣了该车即将在9月26日上市。每次看到这台车的宣传海报我都会笑,因为它的代言人是梁家辉,之前一句开马自达塞车的电影台词很多人应该都看过,如今马自达签约梁家辉代......",
+      "source": "Smzdm",
+      "date": "2026-09-12",
+      "url": "https://post.smzdm.com/p/aom9e7m7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al3lg7ro/",
+      "title": "「租一天送两天」152/天,成都租车行提前开打价格战:合同里\"非营运\"那行字、3500的押金和\"停驶费\",才决定这趟是赚...",
+      "summary": "先把时间摆出来:今年中秋和国庆只隔3天,\"请3休13\"的拼法已经有人在用了——8月13日小红书上就有一位01年的摩友发招募帖,9.25-10.7,人飞海口、车发物流,落地环岛。 海南日报8月26日报道,离放假还有一个月,海口租车(汽车)提前预订量已经月环......",
+      "source": "Smzdm",
+      "date": "2026-09-12",
+      "url": "https://post.smzdm.com/p/al3lg7ro/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a260eopn/",
+      "title": "“你家是L几?”成了家电销售新话术:智能等级国标落地4个月,海尔晒L4认证、华为渠道“摸L5门槛”、美的玩文字游戏——9...",
+      "summary": "九月逛家电卖场,你可能已经听到这句新话术:“姐,咱家这套是L4认证的,行业最高等级。”这话有出处。2025年11月,市场监管总局批准发布两项智能家电国家标准——GB/T 28219.1-2025《智能家用电器的智能化技术要求和评价》和GB/T 46505......",
+      "source": "Smzdm",
+      "date": "2026-09-12",
+      "url": "https://post.smzdm.com/p/a260eopn/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1875929936907744721",
+      "title": "为何说AI的尽头是能源?",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-11",
-      "url": "http://baijiahao.baidu.com/s?id=1876029777236032839"
+      "date": "2026-09-12",
+      "url": "http://baijiahao.baidu.com/s?id=1875929936907744721"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876043053728949519",
-      "title": "五年后90%的创投将涌入AI?外滩大会上投资人的判..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-11",
-      "url": "http://baijiahao.baidu.com/s?id=1876043053728949519"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876029243080035164",
-      "title": "直通部委|中方回应上调日本公民赴华签证费 国内成品..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-11",
-      "url": "http://baijiahao.baidu.com/s?id=1876029243080035164"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1789129773129411.html",
-      "title": "智能网联汽车下一个五年怎么走?九部门联合发文,信息量很大",
+      "id": "https://www.bjnews.com.cn/detail/1789224008129116.html",
+      "title": "大学生入门两轮电动车选哪一款:雅迪摩登麦芒Pro深度解析",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-09-11",
-      "url": "https://www.bjnews.com.cn/detail/1789129773129411.html"
+      "date": "2026-09-12",
+      "url": "https://www.bjnews.com.cn/detail/1789224008129116.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876046418710289711",
-      "title": "自动驾驶迎机遇期!九部门:到2030年具备自动驾驶..",
+      "id": "https://post.smzdm.com/p/a5ro7n33/",
+      "title": "理想i9定档9月16日发布:纠结ES8要不要等的人,先把这四本账对完",
+      "summary": "9月11日,第一批理想i9Home展车进店;三天后的9月16日19:30,发布会正式开讲。李想称这是\"100分答卷\",是他口中\"迈过三重难关\"后的集中交卷。他顺手把两台旗舰排了个座次:MEGA是\"远郊......",
+      "source": "Smzdm",
+      "date": "2026-09-12",
+      "url": "https://post.smzdm.com/p/a5ro7n33/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876140700021085426",
+      "title": "北京首单数字人民币科技团体保险保单签约",
       "summary": "NewsData报道",
       "source": "News_Baidu",
+      "date": "2026-09-12",
+      "url": "http://baijiahao.baidu.com/s?id=1876140700021085426"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/994206/tesla-cybercabs-turn-up-in-nyc",
+      "title": "Tesla Cybercabs turn up in NYC.",
+      "summary": "Miami is looking like the next market for Elon Musk’s steering-wheel-less autonomous vehicles. But a few of the gold two-seaters were spotted in New York City — albeit with steering wheels and human s...",
+      "source": "The Verge",
       "date": "2026-09-11",
-      "url": "http://baijiahao.baidu.com/s?id=1876046418710289711"
+      "url": "https://www.theverge.com/transportation/994206/tesla-cybercabs-turn-up-in-nyc"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges",
+      "title": "Self-driving cars should be taxed to offset job losses, thinktank urges",
+      "summary": "Report says widespread autonomous vehicle adoption would put hundreds of thousands of private hire jobs at risk...",
+      "source": "The Guardian",
+      "date": "2026-09-11",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges"
     },
     {
       "id": "https://www.majorcadailybulletin.com/news/local/2026/09/11/145703/could-self-driving-taxis-heading-for-palma-after-madrid-gets-green-light.html",
@@ -253,6 +176,14 @@
       "source": "PR Newswire UK",
       "date": "2026-09-08",
       "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-surpasses-1-billion-kilometers-in-commercial-autonomous-trucking-accelerating-the-development-of-freight-physical-ai-302872025.html"
+    },
+    {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-09/69562505-hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-008.htm",
+      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel",
+      "summary": "Hyundai Motor Group hosts \"HMG Autonomous Driving Media Day\", outlining its roadmap for the next era of autonomous driving; first showcase of Level 2++ technologyDual-Track strategy accelerates Level...",
+      "source": "FinanzNachrichten",
+      "date": "2026-09-06",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69562505-hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-008.htm"
     },
     {
       "id": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/i-rode-in-a-self-driving-powered-wheelchair-that-avoids-obstacles-and-people-and-can-be-summoned-when-you-need-it-its-like-teslas-autopilot-for-personal-mobility",
