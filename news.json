@@ -1,117 +1,200 @@
 {
-  "lastUpdated": "2026-09-13 05:29:47",
-  "totalCount": 22,
+  "lastUpdated": "2026-09-14 04:33:17",
+  "totalCount": 28,
   "sources": {
-    "Smzdm": 8,
-    "Chinanews": 1,
-    "News_Baidu": 2,
-    "Bjnews": 1,
+    "Smzdm": 7,
+    "News_Baidu": 5,
+    "Eeo": 1,
+    "Orientaldaily": 2,
+    "Ithome": 1,
+    "21Jingji": 1,
+    "Cnblogs": 1,
+    "Free Press Journal": 1,
+    "The Korea Times": 1,
+    "EUROPE SAYS": 1,
+    "PR Newswire UK": 2,
     "The Verge": 1,
     "The Guardian": 1,
     "Majorca Daily Bulletin": 1,
     "TNW": 1,
-    "Washington Examiner": 1,
-    "PR Newswire UK": 2,
-    "The Financial Express": 1,
-    "FinanzNachrichten": 1,
-    "TechRadar": 1
+    "Washington Examiner": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/aom9eol6/",
-      "title": "T6把“防晕率超90%”摆上货架,日产喊过80%、本田喊过72%:9月20日上市前,晕车家庭先进店对完这三个口径",
-      "summary": "9月11日,一汽-大众官宣:ID. AURA T6定档9月20日上市,预售13.59万—16.99万元、共4个版本。 预售首个周末,多地门店报出“单店单日订单破百”,官方却一直没发战报。IT之家今日头条“晕不晕”,正在变成2026年纯电家用车发布会的新考......",
+      "id": "https://post.smzdm.com/p/a5ro7lol/",
+      "title": "咖啡因对身心机能的双重影响",
+      "summary": "咖啡的作用主要来自咖啡因,它能在短时间内提升警觉性、改善情绪和运动表现,但过量也会带来焦虑、失眠等副作用。提神醒脑,提升专注力咖啡因能阻断大脑中的腺苷受体,腺苷是让人感到困倦的物质。阻断后,多巴胺和去甲肾上腺素等神经递质更活跃,从而减轻疲劳感、缩短反应时......",
       "source": "Smzdm",
-      "date": "2026-09-12",
-      "url": "https://post.smzdm.com/p/aom9eol6/"
+      "date": "2026-09-13",
+      "url": "https://post.smzdm.com/p/a5ro7lol/"
     },
     {
-      "id": "https://post.smzdm.com/p/apqvoz80/",
-      "title": "前置儿童座椅被官媒调查点名\"人肉安全气囊\",电动自行车儿童座椅却至今没有统一国标:法治日报买回三类座椅实测、北京明确前置...",
-      "summary": "开学第二周,幼儿园和小学门口又停满了电动自行车。最近小红书上关于\"电动车儿童座椅\"的帖子明显多起来。一条前置座椅的种草帖拿了2.8万赞、7500多收藏,配文是\"一个人带娃出门方便多了\"。另一边,一条叫\"儿童座椅害人不浅\"的帖子也有一千多条评论,评论区全在......",
-      "source": "Smzdm",
-      "date": "2026-09-12",
-      "url": "https://post.smzdm.com/p/apqvoz80/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrm6n3x/",
-      "title": "华南农大把“电鸡科目二”搬进军训考核,900名新生挨个考:高校对小电驴收紧管理——开学季买车前,先问学校三句话、分清三种车、算清两笔账",
-      "summary": "开学第一周,最\"卷\"的军训可能在华南农业大学。站军姿、练队列都是常规操作,华农的新生还多了一门\"电鸡科目二\":平稳起步、直线行驶、直角转弯、S型绕弯、制动停车,理论加实操两个科目,逐项考核。据南方都市......",
-      "source": "Smzdm",
-      "date": "2026-09-12",
-      "url": "https://post.smzdm.com/p/aqrm6n3x/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkze072/",
-      "title": "理想8.6推送、近百万台AD Max解锁马赫VLA 2.0:我把李想长文、三层蒸馏、127条\"没用的都上\"评论和车主实测两极全对完了——老车主点更新前,先看清车里是谁家的芯",
-      "summary": "9月10日傍晚18:10,李想在微博发长文,把6月的承诺又讲了一遍:6月的Livis Day上说过,第三季度要把基于马赫M100芯片的马赫VLA能力,带给搭载Orin、Thor平台的AD Max车型;......",
-      "source": "Smzdm",
-      "date": "2026-09-12",
-      "url": "https://post.smzdm.com/p/axkze072/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
-      "title": "当物流装上“AI引擎” 如何跑出新速度?",
-      "summary": "网上下单、家门口收快递,早已融入普通人的日常生活。但亿万件包裹如何实现高效流转、精准投递?在服贸会上,记者发现,人工智能正在改变传统物流的运行逻辑。...",
-      "source": "Chinanews",
-      "date": "2026-09-12",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aom9e7m7/",
-      "title": "马自达新车官宣:9月26日,即将上市",
-      "summary": "在之前8月成都车展上有多款新车开启了预售,我记得其中就包括马自达EZ-60激光版,现在官方已经官宣了该车即将在9月26日上市。每次看到这台车的宣传海报我都会笑,因为它的代言人是梁家辉,之前一句开马自达塞车的电影台词很多人应该都看过,如今马自达签约梁家辉代......",
-      "source": "Smzdm",
-      "date": "2026-09-12",
-      "url": "https://post.smzdm.com/p/aom9e7m7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al3lg7ro/",
-      "title": "「租一天送两天」152/天,成都租车行提前开打价格战:合同里\"非营运\"那行字、3500的押金和\"停驶费\",才决定这趟是赚...",
-      "summary": "先把时间摆出来:今年中秋和国庆只隔3天,\"请3休13\"的拼法已经有人在用了——8月13日小红书上就有一位01年的摩友发招募帖,9.25-10.7,人飞海口、车发物流,落地环岛。 海南日报8月26日报道,离放假还有一个月,海口租车(汽车)提前预订量已经月环......",
-      "source": "Smzdm",
-      "date": "2026-09-12",
-      "url": "https://post.smzdm.com/p/al3lg7ro/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a260eopn/",
-      "title": "“你家是L几?”成了家电销售新话术:智能等级国标落地4个月,海尔晒L4认证、华为渠道“摸L5门槛”、美的玩文字游戏——9...",
-      "summary": "九月逛家电卖场,你可能已经听到这句新话术:“姐,咱家这套是L4认证的,行业最高等级。”这话有出处。2025年11月,市场监管总局批准发布两项智能家电国家标准——GB/T 28219.1-2025《智能家用电器的智能化技术要求和评价》和GB/T 46505......",
-      "source": "Smzdm",
-      "date": "2026-09-12",
-      "url": "https://post.smzdm.com/p/a260eopn/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1875929936907744721",
-      "title": "为何说AI的尽头是能源?",
+      "id": "http://baijiahao.baidu.com/s?id=1876224029478217332",
+      "title": "2026外滩大会|2026外滩大会闭幕,7.8万人..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-12",
-      "url": "http://baijiahao.baidu.com/s?id=1875929936907744721"
+      "date": "2026-09-13",
+      "url": "http://baijiahao.baidu.com/s?id=1876224029478217332"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1789224008129116.html",
-      "title": "大学生入门两轮电动车选哪一款:雅迪摩登麦芒Pro深度解析",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-12",
-      "url": "https://www.bjnews.com.cn/detail/1789224008129116.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5ro7n33/",
-      "title": "理想i9定档9月16日发布:纠结ES8要不要等的人,先把这四本账对完",
-      "summary": "9月11日,第一批理想i9Home展车进店;三天后的9月16日19:30,发布会正式开讲。李想称这是\"100分答卷\",是他口中\"迈过三重难关\"后的集中交卷。他顺手把两台旗舰排了个座次:MEGA是\"远郊......",
-      "source": "Smzdm",
-      "date": "2026-09-12",
-      "url": "https://post.smzdm.com/p/a5ro7n33/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876140700021085426",
-      "title": "北京首单数字人民币科技团体保险保单签约",
+      "id": "http://baijiahao.baidu.com/s?id=1876202102914545844",
+      "title": "观察|成立仅两年的上海创智学院,如何加快迈向全球顶..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-12",
-      "url": "http://baijiahao.baidu.com/s?id=1876140700021085426"
+      "date": "2026-09-13",
+      "url": "http://baijiahao.baidu.com/s?id=1876202102914545844"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03qeoe9/",
+      "title": "Epic又双叒送游戏!《星界战士》《天空奇兵》本周免费领,手慢无",
+      "summary": "各位玩家朋友们,准备好迎接本周的快乐源泉了吗?Epic Games商城的“喜加一”传统艺能又准时上线了!这一次,Epic没有让大家失望,直接大手一挥送出了两款风格迥异但同样极具诚意的佳作——《星界战士......",
+      "source": "Smzdm",
+      "date": "2026-09-13",
+      "url": "https://post.smzdm.com/p/a03qeoe9/"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0913/1035345.shtml",
+      "title": "比原定晚两年!现代汽车宣布自动驾驶计划,业界担忧其竞争不过中国汽车",
+      "summary": "中新经纬9月13日电 据路透社报道,现代汽车集团将与英伟达合作,于2028年推出先进驾驶辅助系统(ADAS),即Level 2+和Level 2++,并将于2029年底推出配备其专有驾驶辅助软件的车辆。 该项目原定于2027年底推出。业界认为,晚了两年,说明现代汽车在开发自动驾驶软件方面正在面临挑战。 随着这一消息的发布,市场出现了“现代汽车对英伟达依赖日益加深”的担忧;同时担忧其进一步落后于特斯...",
+      "source": "Eeo",
+      "date": "2026-09-13",
+      "url": "http://www.eeo.com.cn/2026/0913/1035345.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/international/2026/09/13/847647",
+      "title": "北京市再收紧无人机管制 11月15日起全域禁飞禁存禁运",
+      "summary": "(北京13日讯)中国首都北京市再次修订无人机管理规定,明定北京市全域为无人驾驶航空器管制空域,禁止无人机飞行,也禁止持有、存放及运输、携带无人机及其核心部件进入北京市。新规将于11月15日实施。台湾中央社引述《北京日报》报导,北京市十六届人大常委会第26次会议表决通过了新修订的“北京市无人驾驶航空器管理规定”。该规定明确北京市行政区域全域为无人驾驶航空器管制空域,禁止在北京市行政区域内实施无人驾驶...",
+      "source": "Orientaldaily",
+      "date": "2026-09-13",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/09/13/847647"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876218679742458671",
+      "title": "歌王诞生!“声动闵行我是歌王”市民歌手争霸赛落幕..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-13",
+      "url": "http://baijiahao.baidu.com/s?id=1876218679742458671"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5ro7673/",
+      "title": "T6定档9月20日,评论区押注降价2万:等正式价之前,先把这三摞信息分清",
+      "summary": "9月11日,一汽-大众官宣ID.AURA T6将在9月20日正式上市。预售8月28日就开了,四款配置:540Pro、660Pro、660Max激光雷达版、660Ultra激光雷达版,预售价13.59万......",
+      "source": "Smzdm",
+      "date": "2026-09-13",
+      "url": "https://post.smzdm.com/p/a5ro7673/"
+    },
+    {
+      "id": "https://www.ithome.com/1/001/848.htm",
+      "title": "宽度仅 50.2 厘米,全球最窄可行驶汽车获吉尼斯认证",
+      "summary": "IT之家 9 月 13 日消息,全球最窄可行驶汽车宽度仅 50.20 厘米,比大部分登机箱还要窄,大约只有普通自行车一半宽,刷新了人们对一台能正常行驶的汽车到底最少需要多大空间的认知。 吉尼斯世界纪录已于 2026 年 9 月正式认证该项纪录。该纪录的创造者是来自意大利巴尼奥洛克雷马斯科的机械师安德烈亚 · 马拉齐,车辆由他在自家汽车回收企业 Autodemolizione Marazzi 内打造...",
+      "source": "Ithome",
+      "date": "2026-09-13",
+      "url": "https://www.ithome.com/1/001/848.htm"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/international/2026/09/13/847646",
+      "title": "中国智能技术助力全球南方矿业发展",
+      "summary": "(天津13日讯)在中国天津梅江会展中心举行的2026中国国际矿业大会上,丹东东方测控技术股份有限公司的展台上,工作人员正在介绍公司业务。现场,几位外国客商在谘询智能矿山装备,旁边还有客商等着交换名片。新华社报导,近年来,中国矿业智能化建设不断提速,一批复盖勘探、开采、运输、管控的智能技术和装备日趋成熟。这一进展吸引越来越多全球南方国家企业前来寻求合作。“中国的矿业技术发展很快,人工智能已应用到地质...",
+      "source": "Orientaldaily",
+      "date": "2026-09-13",
+      "url": "https://www.orientaldaily.com.my/news/international/2026/09/13/847646"
+    },
+    {
+      "id": "https://m.21jingji.com/article/20260913/herald/8b3f8b0201c37089e9e32b0dd274a131.html",
+      "title": "执法权威不容挑衅!珠海海警局查处一起阻碍执行职务案",
+      "summary": "近日,珠海海警局成功查处一起海上阻碍执行职务案件,以实际行动捍卫法律尊严和海警执法权威,有力维护海上治安秩序。8月下旬,珠海海警局横岗艇在执行海上巡逻任务时,发现一艘违规出海作业渔船。在执法员表明身份......",
+      "source": "21Jingji",
+      "date": "2026-09-13",
+      "url": "https://m.21jingji.com/article/20260913/herald/8b3f8b0201c37089e9e32b0dd274a131.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aom9e65n/",
+      "title": "无方向盘的Cybercab出事了你怎么办?三层应急机制的真实边界一次说清",
+      "summary": "没方向盘的车出了事,你连一把方向盘都抓不到——这是大多数人听到Cybercab设计后的第一反应。特斯拉在奥斯汀投入商业运营的无方向盘出租车,靠8颗摄像头和一块中控屏完成所有驾驶决策,车内仅保留紧急停止按钮。这种“把命交给AI”的设计,让安全不再是踩不踩刹......",
+      "source": "Smzdm",
+      "date": "2026-09-13",
+      "url": "https://post.smzdm.com/p/aom9e65n/"
+    },
+    {
+      "id": "https://www.cnblogs.com/xxsdtk/p/22957474",
+      "title": "中国十大竞争对手(竞对)调查研究公司 - 信息时代天空",
+      "summary": "竞争对手调查(竞对分析)是企业制定市场策略、进行产品迭代以及资本运作(如IPO、并购)的核心环节。企业调查或竞争调查核心主营竞品暗访、渠道摸排、对手全维度竞争信息调研、产业链对标分析,分「全球快消零售竞调龙头、本土渠道暗访专业机构、产业投融资竞调智库、数字互联网信息机构」四大类,无官方排名,按线下实...",
+      "source": "Cnblogs",
+      "date": "2026-09-13",
+      "url": "https://www.cnblogs.com/xxsdtk/p/22957474"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876215804093883162",
+      "title": "飞驰海湾,破圈生长,MXGP上海站释放赛事经济新动..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-13",
+      "url": "http://baijiahao.baidu.com/s?id=1876215804093883162"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a950zv0o/",
+      "title": "15-20万大六座智驾SUV,开了2000公里后这些点真的打动我",
+      "summary": "这次OTA升级,具体变了什么华境S推送了大版本OTA,智驾系统从底层算法到功能体验都有调整。最直接的变化是全系车型都支持最新版本的ADS 5 Pro智能驾驶系统,官方把这次升级定义为\"全面升级\"。从实......",
+      "source": "Smzdm",
+      "date": "2026-09-13",
+      "url": "https://post.smzdm.com/p/a950zv0o/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03qemqz/",
+      "title": "新车:合资也能做好、卖好新能源?大众与众08小改款",
+      "summary": "与众08小改款:9月12日,大众安徽-与众08小改款上市,和2026款停售车型相比,入门指导价降低一万元,顶配价格降低两万元!新车型还得到全系三万元的优惠,基础版本Pure权益价低至18.99万元,顶配价格也从26.99万元拉低至24.99万元,这进一步......",
+      "source": "Smzdm",
+      "date": "2026-09-13",
+      "url": "https://post.smzdm.com/p/a03qemqz/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876221227654722867",
+      "title": "“八十一弯”成往事:渭源养路人50载接力护坦途",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-13",
+      "url": "http://baijiahao.baidu.com/s?id=1876221227654722867"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgx4009/",
+      "title": "10.99万!长安UNI-V鲸超擎上市,1.5T+180kW电机!",
+      "summary": "长安在9月12日推出了一款油电混动车型——长安UNI-V 鲸超擎,该车型分为两个版本——智悦型、智领型,上市价格分别为10.99万元和11.39万元。尺寸方面,长安UNI-V 鲸超擎的长宽高分别为47......",
+      "source": "Smzdm",
+      "date": "2026-09-13",
+      "url": "https://post.smzdm.com/p/avgx4009/"
+    },
+    {
+      "id": "https://www.freepressjournal.in/tech/tesla-to-unveil-next-generation-roadster-on-october-1-after-years-of-development-delays",
+      "title": "Tesla To Unveil Next-Generation Roadster On October 1 After Years Of Development Delays",
+      "summary": "Tesla CEO Elon Musk announced that the company will unveil its long-delayed next-generation Roadster on October 1. First showcased in 2017, the electric sports car has faced repeated delays. The redes...",
+      "source": "Free Press Journal",
+      "date": "2026-09-13",
+      "url": "https://www.freepressjournal.in/tech/tesla-to-unveil-next-generation-roadster-on-october-1-after-years-of-development-delays"
+    },
+    {
+      "id": "https://www.koreatimes.co.kr/business/companies/20260913/hyundai-motor-group-targets-hands-free-urban-driving-by-2029",
+      "title": "Hyundai Motor Group targets hands",
+      "summary": "Hyundai Motor Group plans to start mass-producing vehicles capable of hands-free autonomous driving in urban areas in the second half of 2029, whil......",
+      "source": "The Korea Times",
+      "date": "2026-09-13",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260913/hyundai-motor-group-targets-hands-free-urban-driving-by-2029"
+    },
+    {
+      "id": "https://www.europesays.com/3248169/",
+      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI",
+      "summary": "The Group also released video footage demonstrating an Atria AI-equipped SDV Testbed navigating actual Seoul urban traffic without driver intervention. The...",
+      "source": "EUROPE SAYS",
+      "date": "2026-09-13",
+      "url": "https://www.europesays.com/3248169/"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876372.html",
+      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel",
+      "summary": "Hyundai Motor Group hosts \"HMG Autonomous Driving Media Day\", outlining its roadmap for the next era of autonomous driving; first showcase of Level 2++......",
+      "source": "PR Newswire UK",
+      "date": "2026-09-13",
+      "url": "https://www.prnewswire.co.uk/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876372.html"
     },
     {
       "id": "https://www.theverge.com/transportation/994206/tesla-cybercabs-turn-up-in-nyc",
@@ -160,38 +243,6 @@
       "source": "PR Newswire UK",
       "date": "2026-09-10",
       "url": "https://www.prnewswire.co.uk/news-releases/ponyai-and-verne-kick-off-fully-driverless-robotaxi-test-rides-in-zagreb-302874860.html"
-    },
-    {
-      "id": "https://www.financialexpress.com/opinion/agentic-ai-changes-the-business-services-playbook/4335977/",
-      "title": "Agentic AI changes the business services playbook",
-      "summary": "Business process services are evolving with agentic AI agents driving autonomous decision-making and execution across functions, emphasizing human oversight, closed-loop governance, and scalable, tran...",
-      "source": "The Financial Express",
-      "date": "2026-09-10",
-      "url": "https://www.financialexpress.com/opinion/agentic-ai-changes-the-business-services-playbook/4335977/"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-surpasses-1-billion-kilometers-in-commercial-autonomous-trucking-accelerating-the-development-of-freight-physical-ai-302872025.html",
-      "title": "Inceptio Technology Surpasses 1 Billion Kilometers in Commercial Autonomous Trucking, Accelerating the Development of Freight Physical AI",
-      "summary": "/PRNewswire/ -- Inceptio Technology (\"Inceptio\" or the \"Company\"), an industry-leading developer of autonomous driving technologies for trucks, today announced......",
-      "source": "PR Newswire UK",
-      "date": "2026-09-08",
-      "url": "https://www.prnewswire.co.uk/news-releases/inceptio-technology-surpasses-1-billion-kilometers-in-commercial-autonomous-trucking-accelerating-the-development-of-freight-physical-ai-302872025.html"
-    },
-    {
-      "id": "https://www.finanznachrichten.de/nachrichten-2026-09/69562505-hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-008.htm",
-      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel",
-      "summary": "Hyundai Motor Group hosts \"HMG Autonomous Driving Media Day\", outlining its roadmap for the next era of autonomous driving; first showcase of Level 2++ technologyDual-Track strategy accelerates Level...",
-      "source": "FinanzNachrichten",
-      "date": "2026-09-06",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69562505-hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-008.htm"
-    },
-    {
-      "id": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/i-rode-in-a-self-driving-powered-wheelchair-that-avoids-obstacles-and-people-and-can-be-summoned-when-you-need-it-its-like-teslas-autopilot-for-personal-mobility",
-      "title": "I rode in a self-driving powered wheelchair that avoids obstacles and people, and can be summoned when you need it — it’s like Tesla’s Autopilot for personal mobility",
-      "summary": "The Strutt ev1c adds autonomous smarts that are smartly implemented....",
-      "source": "TechRadar",
-      "date": "2026-09-05",
-      "url": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/i-rode-in-a-self-driving-powered-wheelchair-that-avoids-obstacles-and-people-and-can-be-summoned-when-you-need-it-its-like-teslas-autopilot-for-personal-mobility"
     }
   ]
 }
