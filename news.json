@@ -1,202 +1,217 @@
 {
-  "lastUpdated": "2026-09-15 04:33:22",
-  "totalCount": 32,
+  "lastUpdated": "2026-09-16 04:28:58",
+  "totalCount": 30,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 4,
-    "21Jingji": 6,
+    "Smzdm": 5,
     "News_Baidu": 3,
-    "Imobile": 1,
-    "Pcauto_Cn": 1,
+    "Bjnews": 1,
+    "21Jingji": 2,
+    "Ithome": 1,
+    "Eeo": 1,
+    "Wallstreetcn": 1,
     "Cri_Cn": 1,
-    "Zaobao": 1,
-    "The Star": 1,
+    "The Star": 2,
+    "The Straits Times": 1,
+    "The Japan Times ": 1,
+    "The Korea Times": 2,
     "Markets Insider": 1,
     "Free Press Journal": 1,
-    "The Korea Times": 1,
     "EUROPE SAYS": 1,
-    "PR Newswire UK": 1,
-    "The Verge": 1,
-    "The Guardian": 1,
-    "Majorca Daily Bulletin": 1,
-    "TNW": 1
+    "PR Newswire UK": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1spYr65EYH",
-      "title": "【B站】懂车帝美国奥斯丁体验特斯拉的无人自动驾驶出租车",
-      "summary": "-...",
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-09-15",
-      "url": "https://www.bilibili.com/video/BV1spYr65EYH"
+      "date": "2026-09-16",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1UcYY64Enq",
-      "title": "【B站】自动驾驶的秘诀？",
-      "summary": "-...",
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-09-15",
-      "url": "https://www.bilibili.com/video/BV1UcYY64Enq"
+      "date": "2026-09-16",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-09-16",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-16",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
       "id": "https://www.bilibili.com/video/BV18ZYa6bE7e",
       "title": "【B站】交通法最新草案：自动驾驶出事，车企全责！",
       "summary": "自动驾驶出事，到底是司机担责还是车企担责？随着新版道交法修订草案初审，有答案了。...",
       "source": "Bilibili",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "url": "https://www.bilibili.com/video/BV18ZYa6bE7e"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1mtY164Efv",
-      "title": "【B站】特斯拉FSD v14.3.9再次进化自动碰撞规避功能，你不好好开车 那FSD会直接拿驾驶权#特斯拉#fsd#辅助驾驶#新能源汽车#特费电",
-      "summary": "-...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/aqrmpxxv/",
+      "title": "摩博会周六开幕,先别急着交车款:手握C1骑电摩,查到就是记9分、罚200到2000——增驾D证有人花390、有人花168...",
+      "summary": "本周六(9月19日),第24届中国国际摩托车博览会将在重庆国际博览中心开幕,展期一直持续到22日,19万平方米展馆、1120家企业,规模创历史新高。 这两天提车帖、晒订单帖肉眼可见地多起来,但评论区出现频率最高的一句话,不是\"落地多少\",而是——“这车,......",
+      "source": "Smzdm",
       "date": "2026-09-15",
-      "url": "https://www.bilibili.com/video/BV1mtY164Efv"
+      "url": "https://post.smzdm.com/p/aqrmpxxv/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1bve56LEYD",
-      "title": "【B站】小米自动驾驶全新方案：摆脱人类演示限制，端到端自动驾驶刷新SOTA 【自动驾驶】【AI论文解读】",
-      "summary": "本期解读论文：DriveZero: End-to-End Driving Beyond Human Demonstrations\n\n作者：AD &amp; Robotics, L3 Team Xiaomi EV\n论文链接：https://arxiv.org/abs/2609.06055\n代码库：暂未...",
-      "source": "Bilibili",
-      "date": "2026-09-15",
-      "url": "https://www.bilibili.com/video/BV1bve56LEYD"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrm4r6p/",
-      "title": "雷军杭州交付小米澎程时偶遇仙桃老乡:开这车回老家 中途不用加油",
-      "summary": "快科技9月15日消息,小米创办人雷军在杭州为小米澎程车主交付新车。在交付仪式上,一位来自湖北仙桃的老乡与雷军握手交流。雷军表示:“开小米澎程回仙桃,满油满电出发,中途不用加油。”据悉,小米澎程N90 ......",
-      "source": "Smzdm",
-      "date": "2026-09-14",
-      "url": "https://post.smzdm.com/p/aqrm4r6p/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggq6gz7/",
-      "title": "理想i8开6天就被撞、官方称“智驾表现正常”:行车记录仪里56降到50的那两秒——把车交给NOA之前,先分清“无异常”和“能避险”",
-      "summary": "深圳李先生这单,今天被荔枝新闻拍成了\"连续剧\":上月底在理想深圳南山嘉进隆店提了辆i8,裸车32.98万,刚开六天,就在买车的这家店门口,用NOA导航辅助驾驶时被右侧汇进来的白色轿车撞了。 他30多米......",
-      "source": "Smzdm",
-      "date": "2026-09-14",
-      "url": "https://post.smzdm.com/p/aggq6gz7/"
-    },
-    {
-      "id": "https://m.21jingji.com/article/20260914/herald/4cfd07fd42458cf4f5da13848d6d4d71.html",
-      "title": "九部门:2030年国内新能源乘用车新车销量占比达70%",
-      "summary": "近日,工信部、国家发展改革委等九部门联合发布的《智能网联新能源汽车产业发展“十五五”规划》(以下简称《规划》)提出,到2030年,我国智能网联新能源汽车全产业链优势进一步巩固,进入世界汽车强国行列,国......",
-      "source": "21Jingji",
-      "date": "2026-09-14",
-      "url": "https://m.21jingji.com/article/20260914/herald/4cfd07fd42458cf4f5da13848d6d4d71.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876319820746450321",
-      "title": "酷!金山商场里还能“开飞机”?",
-      "summary": "“来,拉杆用力,是不是飞起来了?”为丰富中小学生课余生活,解锁沉浸式科普新体验,爱琴海·缤纷里携手金山博物馆“金小博学院”开启Bingo特色研学营。9月13日下午,在Bingo研学营的首场航空主题活动现场,孩子们走进翱际...",
-      "source": "News_Baidu",
-      "date": "2026-09-14",
-      "url": "http://baijiahao.baidu.com/s?id=1876319820746450321"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0914/235492.shtml",
-      "title": "搭载百万级豪车六活塞定钳,腾势N8L纯电上市29.98万元起",
-      "summary": "9月14日,腾势N8L纯电正式上市,推出闪充尊荣型、闪充旗舰型两个版本,官方指导价为29.98万元、32.98万元。腾势N8L纯电首搭AI超级智能体迪迪虾,是行业首款AI智能豪华汽车;搭载比亚迪第二代刀片电池及闪充技术、天神之眼5.0、云辇-A智能空气车身控制系统等。闪充纯电版上市后,进一步丰富腾势N8L闪充版产品序列,与混动版车型一起,为家庭用户带来更从容的豪华出行体验。 AI超级智能体迪迪虾,...",
-      "source": "Imobile",
-      "date": "2026-09-14",
-      "url": "http://news.imobile.com.cn/articles/2026/0914/235492.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqv4wkx/",
-      "title": "N8L纯电比插混便宜2万:29.98万下订前,先弄清易三方去哪了、9分钟在哪充、10万权益怎么算",
-      "summary": "今晚7点,腾势把N8L纯电版端上桌了:闪充尊荣型29.98万、闪充旗舰型32.98万。同一场发布会,插混版新增两个配置,31.98万和34.98万,把迪迪虾智能体补上了,纯电比插混同型便宜2万。微博微......",
-      "source": "Smzdm",
-      "date": "2026-09-14",
-      "url": "https://post.smzdm.com/p/apqv4wkx/"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5181/51819257.html",
-      "title": "东风第十届科技创新周暨首届用户生活节开幕 发布三大核心计划",
-      "summary": "9月14日武汉,东风举办科技创新周,发布三大计划及“东风有信”服务品牌,深化生态合作,展示科技成果与用户体验。...",
-      "source": "Pcauto_Cn",
-      "date": "2026-09-14",
-      "url": "http://www.pcauto.com.cn/news/5181/51819257.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876304715184120140",
-      "title": "豆包手机助手“转正”",
+      "id": "http://baijiahao.baidu.com/s?id=1876395587817252849",
+      "title": "Jeep牧马人越野灯条选购测评与解析",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-14",
-      "url": "http://baijiahao.baidu.com/s?id=1876304715184120140"
+      "date": "2026-09-15",
+      "url": "http://baijiahao.baidu.com/s?id=1876395587817252849"
     },
     {
-      "id": "https://m.21jingji.com/article/20260914/herald/8b34b9de7689d7e67e01c0f5fc7726e1.html",
-      "title": "广汽集团筹划重大资产重组,一汽股份拟成第二大股东",
-      "summary": "9月14日晚,广汽集团发布关于筹划重大资产重组事项的停牌公告。公告显示,当日广汽集团与中国第一汽车股份有限公司(以下简称“一汽股份”)签署《意向协议》。广汽集团拟通过发行股份方式,购买一汽股份持有的某......",
+      "id": "https://www.bjnews.com.cn/detail/1789442474129479.html",
+      "title": "从“被动抢险”到“主动管控”,北京重塑超大城市汛期出行韧性",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-15",
+      "url": "https://www.bjnews.com.cn/detail/1789442474129479.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260915/herald/d1fb07b2d0772f86d74bc212113dfc80.html",
+      "title": "以“智变”促“质变” 电子信息制造业“十五五”规划发布",
+      "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-14",
-      "url": "https://m.21jingji.com/article/20260914/herald/8b34b9de7689d7e67e01c0f5fc7726e1.html"
+      "date": "2026-09-15",
+      "url": "https://www.21jingji.com/article/20260915/herald/d1fb07b2d0772f86d74bc212113dfc80.html"
     },
     {
-      "id": "https://m.21jingji.com/article/20260914/herald/caf8dc1d0fc631a3506e566ace6df859.html",
-      "title": "中国银行协助德国大陆集团成功发行7.5亿欧元债",
-      "summary": "近日,中国银行作为唯一中资联席主承销商,协助大陆集团(Continental AG)成功发行7.5亿欧元高级公募债券,票面利率为3.625%。本次债券最终发行价格较初始指导价大幅收窄27个基点,并获2......",
-      "source": "21Jingji",
-      "date": "2026-09-14",
-      "url": "https://m.21jingji.com/article/20260914/herald/caf8dc1d0fc631a3506e566ace6df859.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z02z2n/",
-      "title": "伦敦警察骑极蜂抓飞车党又刷屏:想入一台虬龙,先把四本账对完——3C道路版能不能上牌、26款极蜂实测续航、退坑二手的秒出价、哪里能骑哪里不能",
-      "summary": "9月9日,那条\"伦敦警察买中国电摩、买的还是抓贼同款\"的帖子又在微博转了起来,387赞130转发。 B站视频下点赞最高的一条留言(231赞)说得更损:抢劫犯骑这款电摩,又快又静音,警察抓不住,最后警局......",
+      "id": "https://post.smzdm.com/p/avgxqw2p/",
+      "title": "19.7米的台场独角兽「下头」退役:14300日元告别限定被嘲「换张贴纸」、绝版PG挂牌冲1600、RG立像款反而254...",
+      "summary": "上周四,拆除队给东京台场那只1/1独角兽高达的兽角做了封印、对头部做完最终检查;周五一场大雨里,19.7米高的立像头部被吊机整个卸了下来。不是动画里爆甲那种「头没了」,是DiverCity门前这座19.7米高、49吨重的实物大立像,真的开始一件件往回拆。......",
       "source": "Smzdm",
-      "date": "2026-09-14",
-      "url": "https://post.smzdm.com/p/a6z02z2n/"
+      "date": "2026-09-15",
+      "url": "https://post.smzdm.com/p/avgxqw2p/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876320889788540191",
-      "title": "深圳男子买理想i8第六天使用智驾被撞车,车主:该路..",
+      "id": "https://post.smzdm.com/p/awwzpkpp/",
+      "title": "186mg醉驾开辅助驾驶睡着,车自己拨了110、法院说不算自首:当乐子看之前,先把责任、机制、成本这三本账分清",
+      "summary": "今晚微博上好几个话题在刷同一件事:#男子将110设为紧急联系人醉驾被查#、#法院驳回智驾自动报警算自首#。新闻荒诞到有段子手潜质——一个男的喝到断片,开着辅助驾驶往家走,半路睡着了,最后是车替他「报的警」。我把判决书的公开报道和法院说理从头到尾读了一遍,......",
+      "source": "Smzdm",
+      "date": "2026-09-15",
+      "url": "https://post.smzdm.com/p/awwzpkpp/"
+    },
+    {
+      "id": "https://www.ithome.com/1/002/810.htm",
+      "title": "华为监事会主席郭平:虚心向苹果学习供应链,在 ICT 及计算领域的目标是成为英伟达",
+      "summary": "9 月 15 日晚间消息,近日,华为心声社区对外披露了华为监事会主席郭平与新员工座谈纪要。在与新员工的沟通中,郭平回应了手机业务与苹果对比、车 BU 发展、大模型战略、半导体业务方向等话题。 谈超越苹果:专注做好自身,虚心向苹果学习 被问及未来华为手机的销量有望超越苹果公司吗?郭平表示,苹果的首席执行官是业界供应链管理的大师,是华为学习的榜样。在当前华为的供应形势受到约束的情况下,供应是华为的保障...",
+      "source": "Ithome",
+      "date": "2026-09-15",
+      "url": "https://www.ithome.com/1/002/810.htm"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0915/1037441.shtml",
+      "title": "华为高层内部讲话万字纪要曝光,郭平回应大模型、昇腾及智能驾驶布局",
+      "summary": "本文来源:时代财经 近日,华为心声社区对外披露了监事会主席郭平与新员工座谈纪要。在该纪要中,郭平回应了人工智能、大模型战略等大众关心的热点话题。他表示,面向未来,华为的核心战略是“聚焦”,即深耕擅长的“连接”和“计算”领域,没有业务扩展计划。华为聚焦于连接与计算领域,但不同业务板块对自研大模型的需求存在差异。 郭平称,在ICT及计算领域,华为的目标是“成为英伟达”,核心并非拥有自研大模......",
+      "source": "Eeo",
+      "date": "2026-09-15",
+      "url": "http://www.eeo.com.cn/2026/0915/1037441.shtml"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260915/herald/4f0c3eb31c34e7423452a7280b4d7a3d.html",
+      "title": "媒体聚焦 | 电A-D00008!中山首台市政环卫无人清扫车上岗",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-15",
+      "url": "https://www.21jingji.com/article/20260915/herald/4f0c3eb31c34e7423452a7280b4d7a3d.html"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3781834",
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月16日",
+      "summary": "NewsData报道",
+      "source": "Wallstreetcn",
+      "date": "2026-09-15",
+      "url": "https://wallstreetcn.com/articles/3781834"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876409847096419490",
+      "title": "“没有北斗,就没有数智化交通”",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-14",
-      "url": "http://baijiahao.baidu.com/s?id=1876320889788540191"
+      "date": "2026-09-15",
+      "url": "http://baijiahao.baidu.com/s?id=1876409847096419490"
     },
     {
-      "id": "https://news.cri.cn/20260914/82a3e27a-3f0a-ad8b-a807-1f27dc04a6bb.html",
-      "title": "探访马道枢纽 看平陆运河超级船闸里的精密巧思-国际在线",
-      "summary": "作为平陆运河三大枢纽中体量最大的核心枢纽工程,马道枢纽目前已经全面建成。经过四年的劈山凿谷、攻坚克难,这座扎根群山坳谷间的超级船闸,彻底打通了通往北部湾的水运关键节点。跟随总台央视记者一起去探访这座世界规模最大的内河省水船闸。 在平陆...",
+      "id": "https://post.smzdm.com/p/ae6v9ddm/",
+      "title": "云鲸逍遥003 Ultra·冰川甄选版:当极地冰川住进你的家",
+      "summary": "扫地机器人发展至今,早就过了“能扫能拖就行”的蛮荒时代。当基础功能不再稀缺,真正拉开差距的,是审美、是智能、是那种“回到家地板已经干净了,而你几乎没意识到它工作过”的无感体验。云鲸刚刚发布的逍遥003......",
+      "source": "Smzdm",
+      "date": "2026-09-15",
+      "url": "https://post.smzdm.com/p/ae6v9ddm/"
+    },
+    {
+      "id": "https://news.cri.cn/20260915/018fd627-386f-48b9-a970-6bfb01cc3663.html",
+      "title": "4年,727亿元,不只是“逆天改命”!全景式解锁平陆运河→-国际在线",
+      "summary": "央视网消息:9月16日,新中国成立以来第一条国家层面统筹建设的通江达海运河工程——平陆运河将迎来通航。 平陆运河全长134.2公里,按内河I级航道建设,可通航5000吨级船舶。为解决水位落差难题,运河自上而下建设的马道、企石、青年三大...",
       "source": "Cri_Cn",
-      "date": "2026-09-14",
-      "url": "https://news.cri.cn/20260914/82a3e27a-3f0a-ad8b-a807-1f27dc04a6bb.html"
+      "date": "2026-09-15",
+      "url": "https://news.cri.cn/20260915/018fd627-386f-48b9-a970-6bfb01cc3663.html"
     },
     {
-      "id": "https://m.21jingji.com/article/20260914/herald/d602bfaf93f401ec5bbaa5edf56fd797.html",
-      "title": "移动工位6分钟下线一台重卡 湖南制造逆势突围",
-      "summary": "长征铸造的伟大长征精神,留下了闪亮的湖湘印记。三湘四水激荡的英雄壮歌,为伟大长征精神的生成和锻造书写了历史荣光。湖南是红军长征经过的15个省份之一。自1934年8月至1936年1月,红六军团先遣西征,......",
-      "source": "21Jingji",
-      "date": "2026-09-14",
-      "url": "https://m.21jingji.com/article/20260914/herald/d602bfaf93f401ec5bbaa5edf56fd797.html"
+      "id": "http://baijiahao.baidu.com/s?id=1876380339243012407",
+      "title": "从“通道”到“舞台”,中新互联互通项目迈进“金色十..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-15",
+      "url": "http://baijiahao.baidu.com/s?id=1876380339243012407"
     },
     {
-      "id": "https://m.21jingji.com/article/20260914/herald/b807abba7a24bcd4cc396e842617c855.html",
-      "title": "燃油车,有点卖不动了?",
-      "summary": "当固态电池与更高阶的智能驾驶等新技术陆续进入生活,这场由科技驱动的换道超车,也许才刚刚开始刚过去的8月,中国的汽车市场再次见证了历史。前几天,中国汽车流通协会乘用车市场信息联席分会发布的数据显示,8月......",
-      "source": "21Jingji",
-      "date": "2026-09-14",
-      "url": "https://m.21jingji.com/article/20260914/herald/b807abba7a24bcd4cc396e842617c855.html"
+      "id": "https://post.smzdm.com/p/a82xrlq0/",
+      "title": "19.98万!吉利银河战舰700开启预售,可选2.0T+三电机!",
+      "summary": "吉利银河在9月15日预售了一款全新的方盒子车型——战舰700,该车型分为六个版本——305km 1.5T 两驱探索版、305km 1.5T 两驱探索+版、280km 1.5T 三电机四驱驭峰版、280......",
+      "source": "Smzdm",
+      "date": "2026-09-15",
+      "url": "https://post.smzdm.com/p/a82xrlq0/"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/china/story20260914-9673602",
-      "title": "下午察:从禁飞到禁存 北京严管无人机",
-      "summary": "如果你住在北京,家里有一架积灰已久的无人机,现在得考虑把它送走了——回购、报废,或者寄出北京,因为两个月后,就连把它放在家里也不行。...",
-      "source": "Zaobao",
-      "date": "2026-09-14",
-      "url": "https://www.zaobao.com.sg/news/china/story20260914-9673602"
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-japanese-partners-target-driverless-taxi-service-in-tokyo-in-2027",
+      "title": "Waymo, Japanese partners target driverless taxi service in Tokyo in 2027",
+      "summary": "TOKYO, Sept 15 (Reuters) - Alphabet's ⁠autonomous driving unit Waymo, Japanese taxi app operator ⁠GO and taxi company Nihon Kotsu said on ‌Tuesday they aim to launch Japan's first fully autonomous com...",
+      "source": "The Star",
+      "date": "2026-09-15",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-japanese-partners-target-driverless-taxi-service-in-tokyo-in-2027"
     },
     {
-      "id": "https://m.21jingji.com/article/20260914/herald/0cc0903a429892cb176dee8587b1e6b1.html",
-      "title": "北京落地词元算力贷 首批授信近20亿元",
-      "summary": "北京落地词元算力贷 首批授信近20亿元中新网 北京9月14日电 (记者 杜燕)由北京经济技术开发区(简称“北京经开区”,又称“北京亦庄”)创新推出的“亦企Token(词元)贷”首批业务在区内落地,这也......",
-      "source": "21Jingji",
+      "id": "https://www.straitstimes.com/singapore/transport/no-hands-on-steering-wheel-but-fully-alert-safety-operators-key-to-success-of-self-driving-vehicles",
+      "title": "safety operators and the future of autonomous vehicles",
+      "summary": "Learn how safety operators enhance self-driving vehicle safety in Singapore by monitoring, controlling, and improving autonomous shuttle operations daily. Read more at straitstimes.com....",
+      "source": "The Straits Times",
+      "date": "2026-09-15",
+      "url": "https://www.straitstimes.com/singapore/transport/no-hands-on-steering-wheel-but-fully-alert-safety-operators-key-to-success-of-self-driving-vehicles"
+    },
+    {
+      "id": "https://www.japantimes.co.jp/business/2026/09/15/companies/waymo-tokyo-robotaxi-launch/",
+      "title": "Waymo to start Tokyo robotaxi service next year in Asia push",
+      "summary": "Autonomous driving was long seen as a pipe dream in Japan, where the streets are narrow and crowded, and regulation is notoriously strict....",
+      "source": "The Japan Times ",
+      "date": "2026-09-15",
+      "url": "https://www.japantimes.co.jp/business/2026/09/15/companies/waymo-tokyo-robotaxi-launch/"
+    },
+    {
+      "id": "https://www.koreatimes.co.kr/business/companies/20260915/hyundai-plays-catch-up-as-tesla-strengthens-grip-on-koreas-ev-market",
+      "title": "up as Tesla strengthens grip on Korea's EV market",
+      "summary": "Hyundai Motor’s autonomous driving road map is putting its ability to keep pace with Tesla under scrutiny, as the U.S. automaker rapidly gains stro......",
+      "source": "The Korea Times",
       "date": "2026-09-14",
-      "url": "https://m.21jingji.com/article/20260914/herald/0cc0903a429892cb176dee8587b1e6b1.html"
+      "url": "https://www.koreatimes.co.kr/business/companies/20260915/hyundai-plays-catch-up-as-tesla-strengthens-grip-on-koreas-ev-market"
     },
     {
       "id": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-to-bring-autonomous-ride-hailing-to-las-vegas",
@@ -245,22 +260,6 @@
       "source": "PR Newswire UK",
       "date": "2026-09-13",
       "url": "https://www.prnewswire.co.uk/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876372.html"
-    },
-    {
-      "id": "https://www.theverge.com/transportation/994206/tesla-cybercabs-turn-up-in-nyc",
-      "title": "Tesla Cybercabs turn up in NYC.",
-      "summary": "Miami is looking like the next market for Elon Musk’s steering-wheel-less autonomous vehicles. But a few of the gold two-seaters were spotted in New York City — albeit with steering wheels and human s...",
-      "source": "The Verge",
-      "date": "2026-09-11",
-      "url": "https://www.theverge.com/transportation/994206/tesla-cybercabs-turn-up-in-nyc"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges",
-      "title": "Self-driving cars should be taxed to offset job losses, thinktank urges",
-      "summary": "Report says widespread autonomous vehicle adoption would put hundreds of thousands of private hire jobs at risk...",
-      "source": "The Guardian",
-      "date": "2026-09-11",
-      "url": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges"
     }
   ]
 }
