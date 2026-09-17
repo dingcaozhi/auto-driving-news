@@ -1,16 +1,14 @@
 {
-  "lastUpdated": "2026-09-16 04:28:58",
-  "totalCount": 30,
+  "lastUpdated": "2026-09-17 04:34:47",
+  "totalCount": 25,
   "sources": {
-    "Bilibili": 5,
+    "21Jingji": 1,
+    "Imobile": 1,
+    "News_Baidu": 5,
     "Smzdm": 5,
-    "News_Baidu": 3,
-    "Bjnews": 1,
-    "21Jingji": 2,
-    "Ithome": 1,
-    "Eeo": 1,
     "Wallstreetcn": 1,
-    "Cri_Cn": 1,
+    "Nbd_Cn": 1,
+    "Ithome": 1,
     "The Star": 2,
     "The Straits Times": 1,
     "The Japan Times ": 1,
@@ -22,164 +20,124 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://www.21jingji.com/article/20260917/127ed6388f1adcacbdf9cf4738416095.html",
+      "title": "Arm的野心 从云AI到物理AI,CPU战场正在被重新定义",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
       "date": "2026-09-16",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+      "url": "https://www.21jingji.com/article/20260917/127ed6388f1adcacbdf9cf4738416095.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
+      "id": "http://news.imobile.com.cn/articles/2026/0916/235533.shtml",
+      "title": "预售21天订单破6万 极狐阿尔法T7上市补贴价13.28万起",
+      "summary": "预售21天累计订单突破6万台,年轻人共同选择的爆款“时尚大单品”终于正式出道了!9月16日,定位智美AI越级大五座SUV的极狐阿尔法T7迎来重磅上市,新车推出纯电、增程双动力版本共9款版型,上市补贴价为13.28万元-16.88万元。 作为一款完美融合FUV高颜值和SUV大空间的大五座SUV,阿尔法T7集齐华为、宁德时代、麦格纳、国家大剧院、阿里千问、豆包智能体,以及北汽二十余年豪华车制造底蕴七大...",
+      "source": "Imobile",
       "date": "2026-09-16",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "url": "http://news.imobile.com.cn/articles/2026/0916/235533.shtml"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-09-16",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-16",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV18ZYa6bE7e",
-      "title": "【B站】交通法最新草案：自动驾驶出事，车企全责！",
-      "summary": "自动驾驶出事，到底是司机担责还是车企担责？随着新版道交法修订草案初审，有答案了。...",
-      "source": "Bilibili",
-      "date": "2026-09-16",
-      "url": "https://www.bilibili.com/video/BV18ZYa6bE7e"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrmpxxv/",
-      "title": "摩博会周六开幕,先别急着交车款:手握C1骑电摩,查到就是记9分、罚200到2000——增驾D证有人花390、有人花168...",
-      "summary": "本周六(9月19日),第24届中国国际摩托车博览会将在重庆国际博览中心开幕,展期一直持续到22日,19万平方米展馆、1120家企业,规模创历史新高。 这两天提车帖、晒订单帖肉眼可见地多起来,但评论区出现频率最高的一句话,不是\"落地多少\",而是——“这车,......",
-      "source": "Smzdm",
-      "date": "2026-09-15",
-      "url": "https://post.smzdm.com/p/aqrmpxxv/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876395587817252849",
-      "title": "Jeep牧马人越野灯条选购测评与解析",
+      "id": "http://baijiahao.baidu.com/s?id=1876502015025749053",
+      "title": "AI时代,一位前医生重新思考医疗公平",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-15",
-      "url": "http://baijiahao.baidu.com/s?id=1876395587817252849"
+      "date": "2026-09-16",
+      "url": "http://baijiahao.baidu.com/s?id=1876502015025749053"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1789442474129479.html",
-      "title": "从“被动抢险”到“主动管控”,北京重塑超大城市汛期出行韧性",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-15",
-      "url": "https://www.bjnews.com.cn/detail/1789442474129479.html"
+      "id": "http://baijiahao.baidu.com/s?id=1876499115540409174",
+      "title": "弃教从戎,他成为了万里挑一的飞行员丨闵行情",
+      "summary": "一切向前走都不能忘记走过的路走得再远 走到再光辉的未来也不能忘记为什么出发“发现闵行之美”系列丛书诵读活动的第四十季,我们邀请了闵行区碧江路小学的学生来诵读《岁月有痕辑·不能忘却的纪念》。今天,你将......",
+      "source": "News_Baidu",
+      "date": "2026-09-16",
+      "url": "http://baijiahao.baidu.com/s?id=1876499115540409174"
     },
     {
-      "id": "https://www.21jingji.com/article/20260915/herald/d1fb07b2d0772f86d74bc212113dfc80.html",
-      "title": "以“智变”促“质变” 电子信息制造业“十五五”规划发布",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-15",
-      "url": "https://www.21jingji.com/article/20260915/herald/d1fb07b2d0772f86d74bc212113dfc80.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgxqw2p/",
-      "title": "19.7米的台场独角兽「下头」退役:14300日元告别限定被嘲「换张贴纸」、绝版PG挂牌冲1600、RG立像款反而254...",
-      "summary": "上周四,拆除队给东京台场那只1/1独角兽高达的兽角做了封印、对头部做完最终检查;周五一场大雨里,19.7米高的立像头部被吊机整个卸了下来。不是动画里爆甲那种「头没了」,是DiverCity门前这座19.7米高、49吨重的实物大立像,真的开始一件件往回拆。......",
+      "id": "https://post.smzdm.com/p/a5ronvl8/",
+      "title": "方程豹开始卷轿车了,方程S&S; GT上市,18.99万元起",
+      "summary": "方程豹方程S与S GT正式上市,其中方程S售价18.99万-22.99万元,S GT售价21.99万-23.99万元。这次方程豹没有继续卷SUV,而是把目光放到了运动轿车上。看完实车,我觉得方程S最值得聊的,其实不是堆了多少配置,而是它确实想做一台有性格......",
       "source": "Smzdm",
-      "date": "2026-09-15",
-      "url": "https://post.smzdm.com/p/avgxqw2p/"
+      "date": "2026-09-16",
+      "url": "https://post.smzdm.com/p/a5ronvl8/"
     },
     {
-      "id": "https://post.smzdm.com/p/awwzpkpp/",
-      "title": "186mg醉驾开辅助驾驶睡着,车自己拨了110、法院说不算自首:当乐子看之前,先把责任、机制、成本这三本账分清",
-      "summary": "今晚微博上好几个话题在刷同一件事:#男子将110设为紧急联系人醉驾被查#、#法院驳回智驾自动报警算自首#。新闻荒诞到有段子手潜质——一个男的喝到断片,开着辅助驾驶往家走,半路睡着了,最后是车替他「报的警」。我把判决书的公开报道和法院说理从头到尾读了一遍,......",
+      "id": "https://post.smzdm.com/p/a6z0oq8e/",
+      "title": "纯原创设计,666匹马力,可选磁流变悬架,方程S&S; GT到底值不值",
+      "summary": "就在刚刚,方程豹旗下全新的方程S和S GT已经正式上市,不少人看完发布会都在琢磨,以前的方程豹不一直都是主打硬派越野吗?现在突然开始涉足运动轿车,其到底值不值?我在看过了实车之后,也我给大家聊聊我的感受。设计这东西很主观,但方程S做到了不雷同现在市面上有......",
       "source": "Smzdm",
-      "date": "2026-09-15",
-      "url": "https://post.smzdm.com/p/awwzpkpp/"
+      "date": "2026-09-16",
+      "url": "https://post.smzdm.com/p/a6z0oq8e/"
     },
     {
-      "id": "https://www.ithome.com/1/002/810.htm",
-      "title": "华为监事会主席郭平:虚心向苹果学习供应链,在 ICT 及计算领域的目标是成为英伟达",
-      "summary": "9 月 15 日晚间消息,近日,华为心声社区对外披露了华为监事会主席郭平与新员工座谈纪要。在与新员工的沟通中,郭平回应了手机业务与苹果对比、车 BU 发展、大模型战略、半导体业务方向等话题。 谈超越苹果:专注做好自身,虚心向苹果学习 被问及未来华为手机的销量有望超越苹果公司吗?郭平表示,苹果的首席执行官是业界供应链管理的大师,是华为学习的榜样。在当前华为的供应形势受到约束的情况下,供应是华为的保障...",
-      "source": "Ithome",
-      "date": "2026-09-15",
-      "url": "https://www.ithome.com/1/002/810.htm"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0915/1037441.shtml",
-      "title": "华为高层内部讲话万字纪要曝光,郭平回应大模型、昇腾及智能驾驶布局",
-      "summary": "本文来源:时代财经 近日,华为心声社区对外披露了监事会主席郭平与新员工座谈纪要。在该纪要中,郭平回应了人工智能、大模型战略等大众关心的热点话题。他表示,面向未来,华为的核心战略是“聚焦”,即深耕擅长的“连接”和“计算”领域,没有业务扩展计划。华为聚焦于连接与计算领域,但不同业务板块对自研大模型的需求存在差异。 郭平称,在ICT及计算领域,华为的目标是“成为英伟达”,核心并非拥有自研大模......",
-      "source": "Eeo",
-      "date": "2026-09-15",
-      "url": "http://www.eeo.com.cn/2026/0915/1037441.shtml"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260915/herald/4f0c3eb31c34e7423452a7280b4d7a3d.html",
-      "title": "媒体聚焦 | 电A-D00008!中山首台市政环卫无人清扫车上岗",
+      "id": "http://baijiahao.baidu.com/s?id=1876500364189459528",
+      "title": "交通安全“警”相随泸溪交警守护幼儿平安上学路",
       "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-15",
-      "url": "https://www.21jingji.com/article/20260915/herald/4f0c3eb31c34e7423452a7280b4d7a3d.html"
+      "source": "News_Baidu",
+      "date": "2026-09-16",
+      "url": "http://baijiahao.baidu.com/s?id=1876500364189459528"
     },
     {
-      "id": "https://wallstreetcn.com/articles/3781834",
-      "title": "华尔街见闻早餐FM-Radio | 2026年9月16日",
+      "id": "https://post.smzdm.com/p/a5ronv6l/",
+      "title": "比 MEGA Home 便宜 14 万!理想 i9 Home 上市定价 36.98 万元,六座旗舰变天了",
+      "summary": "今天,理想 i9 Home 正式发布,理想 i 系列终于迎来了它的顶峰之作。和 L 系列从 L9 一路向下不同,理想的纯电 SUV 先有 i8,再向下延伸到 i6,但在今天之前,i 系列一直没有属于自......",
+      "source": "Smzdm",
+      "date": "2026-09-16",
+      "url": "https://post.smzdm.com/p/a5ronv6l/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876500631894803290",
+      "title": "方程豹轿车系列方程 S及S GT上市 售价18.9..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-16",
+      "url": "http://baijiahao.baidu.com/s?id=1876500631894803290"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3781931",
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月17日",
       "summary": "NewsData报道",
       "source": "Wallstreetcn",
-      "date": "2026-09-15",
-      "url": "https://wallstreetcn.com/articles/3781834"
+      "date": "2026-09-16",
+      "url": "https://wallstreetcn.com/articles/3781931"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876409847096419490",
-      "title": "“没有北斗,就没有数智化交通”",
+      "id": "http://baijiahao.baidu.com/s?id=1876502456271656045",
+      "title": "三湘大地,一场退役军人的“职场转身”",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-15",
-      "url": "http://baijiahao.baidu.com/s?id=1876409847096419490"
+      "date": "2026-09-16",
+      "url": "http://baijiahao.baidu.com/s?id=1876502456271656045"
     },
     {
-      "id": "https://post.smzdm.com/p/ae6v9ddm/",
-      "title": "云鲸逍遥003 Ultra·冰川甄选版:当极地冰川住进你的家",
-      "summary": "扫地机器人发展至今,早就过了“能扫能拖就行”的蛮荒时代。当基础功能不再稀缺,真正拉开差距的,是审美、是智能、是那种“回到家地板已经干净了,而你几乎没意识到它工作过”的无感体验。云鲸刚刚发布的逍遥003......",
+      "id": "https://post.smzdm.com/p/ad79v44x/",
+      "title": "极狐阿尔法T7上市补贴价13.28万起,解锁全维越级SUV新标杆",
+      "summary": "爆款实力,终迎登场!凭借超高人气领跑市场的新生代SUV——极狐阿尔法T7,于9月16日正式重磅上市。新车定位智美AI越级大五座SUV,凭借极致产品力收获市场广泛认可,预售21天累计订单突破60000台,成为年轻人首选的国民级“汽车时尚大单品”。本次上市,......",
       "source": "Smzdm",
-      "date": "2026-09-15",
-      "url": "https://post.smzdm.com/p/ae6v9ddm/"
+      "date": "2026-09-16",
+      "url": "https://post.smzdm.com/p/ad79v44x/"
     },
     {
-      "id": "https://news.cri.cn/20260915/018fd627-386f-48b9-a970-6bfb01cc3663.html",
-      "title": "4年,727亿元,不只是“逆天改命”!全景式解锁平陆运河→-国际在线",
-      "summary": "央视网消息:9月16日,新中国成立以来第一条国家层面统筹建设的通江达海运河工程——平陆运河将迎来通航。 平陆运河全长134.2公里,按内河I级航道建设,可通航5000吨级船舶。为解决水位落差难题,运河自上而下建设的马道、企石、青年三大...",
-      "source": "Cri_Cn",
-      "date": "2026-09-15",
-      "url": "https://news.cri.cn/20260915/018fd627-386f-48b9-a970-6bfb01cc3663.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876380339243012407",
-      "title": "从“通道”到“舞台”,中新互联互通项目迈进“金色十..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-15",
-      "url": "http://baijiahao.baidu.com/s?id=1876380339243012407"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a82xrlq0/",
-      "title": "19.98万!吉利银河战舰700开启预售,可选2.0T+三电机!",
-      "summary": "吉利银河在9月15日预售了一款全新的方盒子车型——战舰700,该车型分为六个版本——305km 1.5T 两驱探索版、305km 1.5T 两驱探索+版、280km 1.5T 三电机四驱驭峰版、280......",
+      "id": "https://post.smzdm.com/p/aqrmgppv/",
+      "title": "智美AI越级大五座SUV 极狐阿尔法T7重磅上市 补贴价13.28万起",
+      "summary": "预售21天累计订单突破6万台,年轻人共同选择的爆款“时尚大单品”终于正式出道了!9月16日,定位智美AI越级大五座SUV的极狐阿尔法T7迎来重磅上市,新车推出纯电、增程双动力版本共9款版型,上市补贴价......",
       "source": "Smzdm",
-      "date": "2026-09-15",
-      "url": "https://post.smzdm.com/p/a82xrlq0/"
+      "date": "2026-09-16",
+      "url": "https://post.smzdm.com/p/aqrmgppv/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-16/4583532.html",
+      "title": "极狐阿尔法T7上市,补贴价13.28万元起,北汽蓝谷加码15万元级SUV市场",
+      "summary": "9月16日,极狐阿尔法T7上市,新车共推出9款车型,官方指导价13.68万至17.28万元,上市补贴价13.28万至16.88万元。作为极狐今年下半年重点推出的全新车型,阿尔法T7提供纯电和增程两种动...",
+      "source": "Nbd_Cn",
+      "date": "2026-09-16",
+      "url": "https://www.nbd.com.cn/articles/2026-09-16/4583532.html"
+    },
+    {
+      "id": "https://www.ithome.com/1/003/323.htm",
+      "title": "极狐阿尔法 T7 大五座 SUV 上市 1 小时大定锁单超 3 万台,新车上市补贴价 13.28 万元起",
+      "summary": "IT之家 9 月 16 日消息, 极狐阿尔法 T7 大五座 SUV 今日正式上市 ,提供增程、纯电两种动力,部分型号搭载华为乾崑智驾 ADS 5 Pro,全系标配宁德时代电池, 上市补贴价 13.28 万元起 。 IT之家注意到,极狐官方刚刚宣布, 极狐阿尔法 T7 上市 1 小时,大定锁单超过 30,000 台 。 新车搭载全球首款 5G 4nm 车规级芯片,以及 1.1 米超宽全景 P-HUD...",
+      "source": "Ithome",
+      "date": "2026-09-16",
+      "url": "https://www.ithome.com/1/003/323.htm"
     },
     {
       "id": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-japanese-partners-target-driverless-taxi-service-in-tokyo-in-2027",
