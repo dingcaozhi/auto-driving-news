@@ -1,143 +1,175 @@
 {
-  "lastUpdated": "2026-09-17 04:34:47",
-  "totalCount": 25,
+  "lastUpdated": "2026-09-18 04:19:53",
+  "totalCount": 24,
   "sources": {
-    "21Jingji": 1,
-    "Imobile": 1,
-    "News_Baidu": 5,
-    "Smzdm": 5,
-    "Wallstreetcn": 1,
+    "Smzdm": 6,
+    "News_Baidu": 3,
+    "Fx168News": 1,
     "Nbd_Cn": 1,
-    "Ithome": 1,
+    "21Jingji": 2,
+    "Jiemian": 1,
+    "Ign_Cn": 1,
+    "ANI (Asian News International)": 1,
+    "Malay Mail": 1,
+    "PR Newswire UK": 1,
+    "TechCrunch": 1,
     "The Star": 2,
     "The Straits Times": 1,
     "The Japan Times ": 1,
-    "The Korea Times": 2,
-    "Markets Insider": 1,
-    "Free Press Journal": 1,
-    "EUROPE SAYS": 1,
-    "PR Newswire UK": 1
+    "The Korea Times": 1
   },
   "news": [
     {
-      "id": "https://www.21jingji.com/article/20260917/127ed6388f1adcacbdf9cf4738416095.html",
-      "title": "Arm的野心 从云AI到物理AI,CPU战场正在被重新定义",
+      "id": "https://post.smzdm.com/p/aggq8n9m/",
+      "title": "18.99 万起!方程豹 S/S GT 登场,20 万纯电轿车市场迎来狠角色",
+      "summary": "当大家对方程豹的印象还停留在硬派越野 SUV 时,品牌正式跨界,在上海发布了全新轿车系列:方程 S 三厢版与方程 S GT 猎装版。18.99 万的起售价,相比此前市场预估的 23 万起预估价大幅下调,上市一周就开启交付,直接杀入竞争白热化的 20 万级......",
+      "source": "Smzdm",
+      "date": "2026-09-17",
+      "url": "https://post.smzdm.com/p/aggq8n9m/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az865lgr/",
+      "title": "小鹏G9L上市:用A级车的灵活性,造9系旗舰的大五座",
+      "summary": "今日,小鹏G9L在中国市场正式上市,官方限时售价23.18万元起。新车定位为黄金大五座科技旗舰,提供纯电、超级增程两种动力系统,共6个版本。其中,纯电702两驱Max版23.18万元、660四驱Ultra SE版24.98万元、660四驱Ultra版27......",
+      "source": "Smzdm",
+      "date": "2026-09-17",
+      "url": "https://post.smzdm.com/p/az865lgr/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876594656924837247",
+      "title": "从氢能研发到打造智能实验室,科技人才走进北化工分享..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-17",
+      "url": "http://baijiahao.baidu.com/s?id=1876594656924837247"
+    },
+    {
+      "id": "https://www.fx168news.com/article/%E4%BC%81%E4%B8%9A%E5%8A%A8%E6%80%81-1093972",
+      "title": "福龙马拟与华为云签2亿元独家战略合作 环卫自动驾驶业务加速落地-FX168",
+      "summary": "9月17日晚间,福龙马公告称,公司拟与华为云计算技术有限公司开展环卫自动驾驶技术开发合作,双方将在环卫智能化领域建立独家性战略合作关系,合同总金额2亿元(含税)。根据规划,华为云将围绕3吨级、6吨级车型平台及清扫、洗扫等场景,开展车辆智能化改造、线控优化、云端适配及自动驾驶算法开发,并为福龙马研发部署专属环卫自动驾驶系统。今年上半年,福龙马实现营收26.08亿元,同比增长7.63%;归母净利润1....",
+      "source": "Fx168News",
+      "date": "2026-09-17",
+      "url": "https://www.fx168news.com/article/%E4%BC%81%E4%B8%9A%E5%8A%A8%E6%80%81-1093972"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqvz8zw/",
+      "title": "比亚迪质量真的好吗?从技术参数看车主客观评价",
+      "summary": "比亚迪质量真的好吗?围绕这一消费者核心关切,本文以可量化的技术参数和公开评测数据为依据,从车身安全、电池安全、智能驾驶、市场表现四个维度进行客观解读。车身架构:CTB技术与云辇系统构建被动安全基础CT......",
+      "source": "Smzdm",
+      "date": "2026-09-17",
+      "url": "https://post.smzdm.com/p/apqvz8zw/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-17/4584783.html",
+      "title": "603686报利好:拟和华为云计算开展“独家性战略合作”",
+      "summary": "记者|黄博文编辑|梁露月 张益铭 杜恒峰 校对|段炼9月17日盘后,福龙马(SH603686,股价14.06元,市值58亿元)公告称,公司拟签署环卫自动驾驶技术开发相关合同,并与华为云计算技术有限公司...",
+      "source": "Nbd_Cn",
+      "date": "2026-09-17",
+      "url": "https://www.nbd.com.cn/articles/2026-09-17/4584783.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260917/herald/935eeb6022c075d1adb7ed785fcb7cb8.html",
+      "title": "空中喊话+路面劝导,交警特警护航摩电行人安全",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-16",
-      "url": "https://www.21jingji.com/article/20260917/127ed6388f1adcacbdf9cf4738416095.html"
+      "date": "2026-09-17",
+      "url": "https://www.21jingji.com/article/20260917/herald/935eeb6022c075d1adb7ed785fcb7cb8.html"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0916/235533.shtml",
-      "title": "预售21天订单破6万 极狐阿尔法T7上市补贴价13.28万起",
-      "summary": "预售21天累计订单突破6万台,年轻人共同选择的爆款“时尚大单品”终于正式出道了!9月16日,定位智美AI越级大五座SUV的极狐阿尔法T7迎来重磅上市,新车推出纯电、增程双动力版本共9款版型,上市补贴价为13.28万元-16.88万元。 作为一款完美融合FUV高颜值和SUV大空间的大五座SUV,阿尔法T7集齐华为、宁德时代、麦格纳、国家大剧院、阿里千问、豆包智能体,以及北汽二十余年豪华车制造底蕴七大...",
-      "source": "Imobile",
-      "date": "2026-09-16",
-      "url": "http://news.imobile.com.cn/articles/2026/0916/235533.shtml"
+      "id": "https://post.smzdm.com/p/a260526q/",
+      "title": "理想9系旗舰发布,纯电门面担当价格炸裂",
+      "summary": "好久没侃过车了,刚好借着理想i9 Home上市说说这台新的理想“纯电9系”。I9是理想的一个很重要的车型,主要是因为它是纯电i系列的旗舰,肩负着9系旗舰需要有的门面责任。直接先说说配置,理想这次i9只......",
+      "source": "Smzdm",
+      "date": "2026-09-17",
+      "url": "https://post.smzdm.com/p/a260526q/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876502015025749053",
-      "title": "AI时代,一位前医生重新思考医疗公平",
+      "id": "https://www.jiemian.com/article/15109616.html",
+      "title": "索罗斯、马斯克领衔,美国富翁们为中期选举豪赌",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-09-17",
+      "url": "https://www.jiemian.com/article/15109616.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260917/herald/0a1f80634d16892a86c75233d0520c7a.html",
+      "title": "“十五五”期间汽车市场以“稳”为主",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-17",
+      "url": "https://www.21jingji.com/article/20260917/herald/0a1f80634d16892a86c75233d0520c7a.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876565244689676202",
+      "title": "潍坊:无人车通行“约法三章”10条规范出台",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-16",
-      "url": "http://baijiahao.baidu.com/s?id=1876502015025749053"
+      "date": "2026-09-17",
+      "url": "http://baijiahao.baidu.com/s?id=1876565244689676202"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876499115540409174",
-      "title": "弃教从戎,他成为了万里挑一的飞行员丨闵行情",
-      "summary": "一切向前走都不能忘记走过的路走得再远 走到再光辉的未来也不能忘记为什么出发“发现闵行之美”系列丛书诵读活动的第四十季,我们邀请了闵行区碧江路小学的学生来诵读《岁月有痕辑·不能忘却的纪念》。今天,你将......",
-      "source": "News_Baidu",
-      "date": "2026-09-16",
-      "url": "http://baijiahao.baidu.com/s?id=1876499115540409174"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5ronvl8/",
-      "title": "方程豹开始卷轿车了,方程S&S; GT上市,18.99万元起",
-      "summary": "方程豹方程S与S GT正式上市,其中方程S售价18.99万-22.99万元,S GT售价21.99万-23.99万元。这次方程豹没有继续卷SUV,而是把目光放到了运动轿车上。看完实车,我觉得方程S最值得聊的,其实不是堆了多少配置,而是它确实想做一台有性格......",
-      "source": "Smzdm",
-      "date": "2026-09-16",
-      "url": "https://post.smzdm.com/p/a5ronvl8/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z0oq8e/",
-      "title": "纯原创设计,666匹马力,可选磁流变悬架,方程S&S; GT到底值不值",
-      "summary": "就在刚刚,方程豹旗下全新的方程S和S GT已经正式上市,不少人看完发布会都在琢磨,以前的方程豹不一直都是主打硬派越野吗?现在突然开始涉足运动轿车,其到底值不值?我在看过了实车之后,也我给大家聊聊我的感受。设计这东西很主观,但方程S做到了不雷同现在市面上有......",
-      "source": "Smzdm",
-      "date": "2026-09-16",
-      "url": "https://post.smzdm.com/p/a6z0oq8e/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876500364189459528",
-      "title": "交通安全“警”相随泸溪交警守护幼儿平安上学路",
+      "id": "http://baijiahao.baidu.com/s?id=1876573242958808118",
+      "title": "聚焦网络黑客、网络黑灰产......四川公安公布10起净网..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-16",
-      "url": "http://baijiahao.baidu.com/s?id=1876500364189459528"
+      "date": "2026-09-17",
+      "url": "http://baijiahao.baidu.com/s?id=1876573242958808118"
     },
     {
-      "id": "https://post.smzdm.com/p/a5ronv6l/",
-      "title": "比 MEGA Home 便宜 14 万!理想 i9 Home 上市定价 36.98 万元,六座旗舰变天了",
-      "summary": "今天,理想 i9 Home 正式发布,理想 i 系列终于迎来了它的顶峰之作。和 L 系列从 L9 一路向下不同,理想的纯电 SUV 先有 i8,再向下延伸到 i6,但在今天之前,i 系列一直没有属于自......",
-      "source": "Smzdm",
-      "date": "2026-09-16",
-      "url": "https://post.smzdm.com/p/a5ronv6l/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876500631894803290",
-      "title": "方程豹轿车系列方程 S及S GT上市 售价18.9..",
+      "id": "https://www.ign.com.cn/dying-light-the-beast/62781/xiao-shi-de-guang-mang-kun-shou-you-xi-she-ji-zong-jian-nathan-lemaire-zhuan-fang-ign-zhong-guo",
+      "title": "《消逝的光芒:困兽》游戏设计总监 Nathan Lemaire 专访|IGN 中国",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-16",
-      "url": "http://baijiahao.baidu.com/s?id=1876500631894803290"
+      "source": "Ign_Cn",
+      "date": "2026-09-17",
+      "url": "https://www.ign.com.cn/dying-light-the-beast/62781/xiao-shi-de-guang-mang-kun-shou-you-xi-she-ji-zong-jian-nathan-lemaire-zhuan-fang-ign-zhong-guo"
     },
     {
-      "id": "https://wallstreetcn.com/articles/3781931",
-      "title": "华尔街见闻早餐FM-Radio | 2026年9月17日",
-      "summary": "NewsData报道",
-      "source": "Wallstreetcn",
-      "date": "2026-09-16",
-      "url": "https://wallstreetcn.com/articles/3781931"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876502456271656045",
-      "title": "三湘大地,一场退役军人的“职场转身”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-16",
-      "url": "http://baijiahao.baidu.com/s?id=1876502456271656045"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad79v44x/",
-      "title": "极狐阿尔法T7上市补贴价13.28万起,解锁全维越级SUV新标杆",
-      "summary": "爆款实力,终迎登场!凭借超高人气领跑市场的新生代SUV——极狐阿尔法T7,于9月16日正式重磅上市。新车定位智美AI越级大五座SUV,凭借极致产品力收获市场广泛认可,预售21天累计订单突破60000台,成为年轻人首选的国民级“汽车时尚大单品”。本次上市,......",
+      "id": "https://post.smzdm.com/p/arzq044x/",
+      "title": "吉利星瑞L PLUS预售11.57万起,油混B级车首搭激光雷达城市NOA",
+      "summary": "9月16日,吉利星瑞L PLUS i-HEV正式开启预售,4个配置的限时预售价格为11.57万-14.57万元。11.57万起的价格直接扎进了合资B级轿车的腹地,更关键的是,这台车把激光雷达、城市NO......",
       "source": "Smzdm",
-      "date": "2026-09-16",
-      "url": "https://post.smzdm.com/p/ad79v44x/"
+      "date": "2026-09-17",
+      "url": "https://post.smzdm.com/p/arzq044x/"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrmgppv/",
-      "title": "智美AI越级大五座SUV 极狐阿尔法T7重磅上市 补贴价13.28万起",
-      "summary": "预售21天累计订单突破6万台,年轻人共同选择的爆款“时尚大单品”终于正式出道了!9月16日,定位智美AI越级大五座SUV的极狐阿尔法T7迎来重磅上市,新车推出纯电、增程双动力版本共9款版型,上市补贴价......",
+      "id": "https://post.smzdm.com/p/a82x3k2n/",
+      "title": "方程S与S GT正式上市,18.99万起定义全能轿车新标杆",
+      "summary": "9月16日,方程豹旗下全场景多形态个性轿车 —— 方程S与方程S GT于上海正式上市。方程S售价18.99 万- 22.99万元,方程S GT售价21.99 万 - 23.99万元,同步推出十一重购车......",
       "source": "Smzdm",
-      "date": "2026-09-16",
-      "url": "https://post.smzdm.com/p/aqrmgppv/"
+      "date": "2026-09-17",
+      "url": "https://post.smzdm.com/p/a82x3k2n/"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-09-16/4583532.html",
-      "title": "极狐阿尔法T7上市,补贴价13.28万元起,北汽蓝谷加码15万元级SUV市场",
-      "summary": "9月16日,极狐阿尔法T7上市,新车共推出9款车型,官方指导价13.68万至17.28万元,上市补贴价13.28万至16.88万元。作为极狐今年下半年重点推出的全新车型,阿尔法T7提供纯电和增程两种动...",
-      "source": "Nbd_Cn",
-      "date": "2026-09-16",
-      "url": "https://www.nbd.com.cn/articles/2026-09-16/4583532.html"
+      "id": "https://www.aninews.in/news/national/general-news/ministry-of-power-launches-8220special-campaign-68221-to-institutionalise-swachhata-and-minimise-pendency20260917212306/",
+      "title": "6” to institutionalise Swachhata and minimise pendency",
+      "summary": "Bolstering the Government of India's push to institutionalise cleanliness and curb official pendency, the Ministry of Power and its associated entities, including autonomous bodies and Central Public ...",
+      "source": "ANI (Asian News International)",
+      "date": "2026-09-17",
+      "url": "https://www.aninews.in/news/national/general-news/ministry-of-power-launches-8220special-campaign-68221-to-institutionalise-swachhata-and-minimise-pendency20260917212306/"
     },
     {
-      "id": "https://www.ithome.com/1/003/323.htm",
-      "title": "极狐阿尔法 T7 大五座 SUV 上市 1 小时大定锁单超 3 万台,新车上市补贴价 13.28 万元起",
-      "summary": "IT之家 9 月 16 日消息, 极狐阿尔法 T7 大五座 SUV 今日正式上市 ,提供增程、纯电两种动力,部分型号搭载华为乾崑智驾 ADS 5 Pro,全系标配宁德时代电池, 上市补贴价 13.28 万元起 。 IT之家注意到,极狐官方刚刚宣布, 极狐阿尔法 T7 上市 1 小时,大定锁单超过 30,000 台 。 新车搭载全球首款 5G 4nm 车规级芯片,以及 1.1 米超宽全景 P-HUD...",
-      "source": "Ithome",
+      "id": "https://www.malaymail.com/news/singapore/2026/09/17/singapore-tests-self-driving-excavators-to-cut-construction-manpower-needs/235546",
+      "title": "Singapore tests self-driving excavators to cut construction manpower needs",
+      "summary": "SINGAPORE, Sept 17 — Singapore has rolled out its first pilot project to explore the use of autonomous heavy construction equipment to ease manpower constraints and improve......",
+      "source": "Malay Mail",
+      "date": "2026-09-17",
+      "url": "https://www.malaymail.com/news/singapore/2026/09/17/singapore-tests-self-driving-excavators-to-cut-construction-manpower-needs/235546"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/hl-klemove-and-lenovo-forge-partnership-to-lead-the-autonomous-driving-market-302880452.html",
+      "title": "HL Klemove and Lenovo Forge Partnership to Lead the Autonomous Driving Market",
+      "summary": "/PRNewswire/ -- HL Klemove, HL Group's autonomous driving solutions specialist, has entered into a strategic partnership with global IT company Lenovo to......",
+      "source": "PR Newswire UK",
+      "date": "2026-09-17",
+      "url": "https://www.prnewswire.co.uk/news-releases/hl-klemove-and-lenovo-forge-partnership-to-lead-the-autonomous-driving-market-302880452.html"
+    },
+    {
+      "id": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley....",
+      "source": "TechCrunch",
       "date": "2026-09-16",
-      "url": "https://www.ithome.com/1/003/323.htm"
+      "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/"
     },
     {
       "id": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-japanese-partners-target-driverless-taxi-service-in-tokyo-in-2027",
@@ -178,46 +210,6 @@
       "source": "The Star",
       "date": "2026-09-14",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-to-bring-autonomous-ride-hailing-to-las-vegas"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/stocks/hyundai-puts-data-flywheel-in-full-operation-to-roll-out-drive-assist-in-2029-1036541938",
-      "title": "Hyundai puts Data Flywheel in full operation, to roll-out drive-assist in 2029",
-      "summary": "Hyundai Motor (HYMTF) announced that it has put its Data Flywheel into full operation, marking a new phase in its autonomous driving technology ......",
-      "source": "Markets Insider",
-      "date": "2026-09-14",
-      "url": "https://markets.businessinsider.com/news/stocks/hyundai-puts-data-flywheel-in-full-operation-to-roll-out-drive-assist-in-2029-1036541938"
-    },
-    {
-      "id": "https://www.freepressjournal.in/tech/tesla-to-unveil-next-generation-roadster-on-october-1-after-years-of-development-delays",
-      "title": "Tesla To Unveil Next-Generation Roadster On October 1 After Years Of Development Delays",
-      "summary": "Tesla CEO Elon Musk announced that the company will unveil its long-delayed next-generation Roadster on October 1. First showcased in 2017, the electric sports car has faced repeated delays. The redes...",
-      "source": "Free Press Journal",
-      "date": "2026-09-13",
-      "url": "https://www.freepressjournal.in/tech/tesla-to-unveil-next-generation-roadster-on-october-1-after-years-of-development-delays"
-    },
-    {
-      "id": "https://www.koreatimes.co.kr/business/companies/20260913/hyundai-motor-group-targets-hands-free-urban-driving-by-2029",
-      "title": "Hyundai Motor Group targets hands",
-      "summary": "Hyundai Motor Group plans to start mass-producing vehicles capable of hands-free autonomous driving in urban areas in the second half of 2029, whil......",
-      "source": "The Korea Times",
-      "date": "2026-09-13",
-      "url": "https://www.koreatimes.co.kr/business/companies/20260913/hyundai-motor-group-targets-hands-free-urban-driving-by-2029"
-    },
-    {
-      "id": "https://www.europesays.com/3248169/",
-      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI",
-      "summary": "The Group also released video footage demonstrating an Atria AI-equipped SDV Testbed navigating actual Seoul urban traffic without driver intervention. The...",
-      "source": "EUROPE SAYS",
-      "date": "2026-09-13",
-      "url": "https://www.europesays.com/3248169/"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876372.html",
-      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel",
-      "summary": "Hyundai Motor Group hosts \"HMG Autonomous Driving Media Day\", outlining its roadmap for the next era of autonomous driving; first showcase of Level 2++......",
-      "source": "PR Newswire UK",
-      "date": "2026-09-13",
-      "url": "https://www.prnewswire.co.uk/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876372.html"
     }
   ]
 }
