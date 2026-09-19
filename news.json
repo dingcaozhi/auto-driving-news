@@ -1,143 +1,223 @@
 {
-  "lastUpdated": "2026-09-18 04:19:53",
-  "totalCount": 24,
+  "lastUpdated": "2026-09-19 04:16:34",
+  "totalCount": 30,
   "sources": {
-    "Smzdm": 6,
-    "News_Baidu": 3,
-    "Fx168News": 1,
+    "Bilibili": 5,
+    "Bjnews": 1,
+    "21Jingji": 8,
+    "News_Baidu": 1,
+    "Smzdm": 3,
+    "Ithome": 1,
+    "Theportugalnews": 1,
     "Nbd_Cn": 1,
-    "21Jingji": 2,
-    "Jiemian": 1,
-    "Ign_Cn": 1,
-    "ANI (Asian News International)": 1,
-    "Malay Mail": 1,
-    "PR Newswire UK": 1,
-    "TechCrunch": 1,
+    "Malay Mail": 2,
     "The Star": 2,
+    "Devdiscourse": 1,
     "The Straits Times": 1,
-    "The Japan Times ": 1,
-    "The Korea Times": 1
+    "ANI (Asian News International)": 1,
+    "PR Newswire UK": 1,
+    "TechCrunch": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/aggq8n9m/",
-      "title": "18.99 万起!方程豹 S/S GT 登场,20 万纯电轿车市场迎来狠角色",
-      "summary": "当大家对方程豹的印象还停留在硬派越野 SUV 时,品牌正式跨界,在上海发布了全新轿车系列:方程 S 三厢版与方程 S GT 猎装版。18.99 万的起售价,相比此前市场预估的 23 万起预估价大幅下调,上市一周就开启交付,直接杀入竞争白热化的 20 万级......",
-      "source": "Smzdm",
-      "date": "2026-09-17",
-      "url": "https://post.smzdm.com/p/aggq8n9m/"
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-09-19",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://post.smzdm.com/p/az865lgr/",
-      "title": "小鹏G9L上市:用A级车的灵活性,造9系旗舰的大五座",
-      "summary": "今日,小鹏G9L在中国市场正式上市,官方限时售价23.18万元起。新车定位为黄金大五座科技旗舰,提供纯电、超级增程两种动力系统,共6个版本。其中,纯电702两驱Max版23.18万元、660四驱Ultra SE版24.98万元、660四驱Ultra版27......",
-      "source": "Smzdm",
-      "date": "2026-09-17",
-      "url": "https://post.smzdm.com/p/az865lgr/"
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-09-19",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876594656924837247",
-      "title": "从氢能研发到打造智能实验室,科技人才走进北化工分享..",
+      "id": "https://www.bilibili.com/video/BV1Deej6XEih",
+      "title": "【B站】2026优化版【基于深度学习的无人驾驶实战课】106集全！学完即可上岗，从入门到提升的自动驾驶算法（人工智能/深度学习/目标检测/计算机视觉/神经网络）",
+      "summary": "【课件代码+AI学习路线资料包】无偿分享👉👉【➤➤https://www.bilibili.com/read/cv53008105/】\n✅ AI入门完整学习路线图（从零开始一步步学）\n✅ 视频教程+课件源码+学习笔记\n✅ 经典实战项目案例\n✅ 面试题 + 简历模板\n✅ 必读书籍PDF+岗位分析...",
+      "source": "Bilibili",
+      "date": "2026-09-19",
+      "url": "https://www.bilibili.com/video/BV1Deej6XEih"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
+      "title": "【B站】【科普】自动驾驶分级及原理",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-19",
+      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-19",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1789719412129014.html",
+      "title": "清朗金融网络、守护安心消费,平安健康险开展2026金融教育宣传周活动",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-18",
+      "url": "https://www.bjnews.com.cn/detail/1789719412129014.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260919/846ab8742acd881c51bed3154b134856.html",
+      "title": "中原农业进阶之路 耕者新变,为大国粮仓注入新动能",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-18",
+      "url": "https://www.21jingji.com/article/20260919/846ab8742acd881c51bed3154b134856.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260919/a99cef4df86ccdef030c4f4c7858d933.html",
+      "title": "算力之外拼记忆 华为云亮出企业级AI产品矩阵",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-18",
+      "url": "https://www.21jingji.com/article/20260919/a99cef4df86ccdef030c4f4c7858d933.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876684152651553071",
+      "title": "“数聚仙谷”数据要素主题分享会在渝举行 仙桃数据谷..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-17",
-      "url": "http://baijiahao.baidu.com/s?id=1876594656924837247"
+      "date": "2026-09-18",
+      "url": "http://baijiahao.baidu.com/s?id=1876684152651553071"
     },
     {
-      "id": "https://www.fx168news.com/article/%E4%BC%81%E4%B8%9A%E5%8A%A8%E6%80%81-1093972",
-      "title": "福龙马拟与华为云签2亿元独家战略合作 环卫自动驾驶业务加速落地-FX168",
-      "summary": "9月17日晚间,福龙马公告称,公司拟与华为云计算技术有限公司开展环卫自动驾驶技术开发合作,双方将在环卫智能化领域建立独家性战略合作关系,合同总金额2亿元(含税)。根据规划,华为云将围绕3吨级、6吨级车型平台及清扫、洗扫等场景,开展车辆智能化改造、线控优化、云端适配及自动驾驶算法开发,并为福龙马研发部署专属环卫自动驾驶系统。今年上半年,福龙马实现营收26.08亿元,同比增长7.63%;归母净利润1....",
-      "source": "Fx168News",
-      "date": "2026-09-17",
-      "url": "https://www.fx168news.com/article/%E4%BC%81%E4%B8%9A%E5%8A%A8%E6%80%81-1093972"
+      "id": "https://www.21jingji.com/article/20260919/97331c67dbea272a73a798def9f13ddb.html",
+      "title": "一粒粮的产业链之旅:河南从田间链到餐桌",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-18",
+      "url": "https://www.21jingji.com/article/20260919/97331c67dbea272a73a798def9f13ddb.html"
     },
     {
-      "id": "https://post.smzdm.com/p/apqvz8zw/",
-      "title": "比亚迪质量真的好吗?从技术参数看车主客观评价",
-      "summary": "比亚迪质量真的好吗?围绕这一消费者核心关切,本文以可量化的技术参数和公开评测数据为依据,从车身安全、电池安全、智能驾驶、市场表现四个维度进行客观解读。车身架构:CTB技术与云辇系统构建被动安全基础CT......",
+      "id": "https://www.21jingji.com/article/20260918/herald/c53f58d3b4465b3f1f8b6628793b673b.html",
+      "title": "中国气象局公布三部部门规章 强化升放气球和防雷领域安全管理",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-18",
+      "url": "https://www.21jingji.com/article/20260918/herald/c53f58d3b4465b3f1f8b6628793b673b.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260918/herald/26325baeb2e627e02be051d6c5e12199.html",
+      "title": "促进房车消费9项措施",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-18",
+      "url": "https://www.21jingji.com/article/20260918/herald/26325baeb2e627e02be051d6c5e12199.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqvzg9x/",
+      "title": "《极限竞速:地平线5》的周末自驾游,可以从沙漠转进丛林",
+      "summary": "把“随便逛”换成几个明确动作周末想体验开车看景,《极限竞速:地平线5》更适合把目的地放在墨西哥、又不想始终追着比赛名次走的人。所谓随便逛,可以先拆成选一种地貌出发、途中观察环境变化、碰到感兴趣的活动再......",
       "source": "Smzdm",
-      "date": "2026-09-17",
-      "url": "https://post.smzdm.com/p/apqvz8zw/"
+      "date": "2026-09-18",
+      "url": "https://post.smzdm.com/p/apqvzg9x/"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-09-17/4584783.html",
-      "title": "603686报利好:拟和华为云计算开展“独家性战略合作”",
-      "summary": "记者|黄博文编辑|梁露月 张益铭 杜恒峰 校对|段炼9月17日盘后,福龙马(SH603686,股价14.06元,市值58亿元)公告称,公司拟签署环卫自动驾驶技术开发相关合同,并与华为云计算技术有限公司...",
+      "id": "https://www.ithome.com/1/004/340.htm",
+      "title": "极狐阿尔法 T7 公布安心交付承诺:延期按天补偿现金,上限 3000 元",
+      "summary": "IT之家 9 月 18 日消息,极狐汽车今日公布阿尔法 T7 安心交付承诺,如出现不能及时交付的情况,将进行延期交付补偿。 适用对象 :2026 年 10 月 31 日 (含) 前下定并锁单的用户。 补偿标准 :自锁单之日起至车辆到店之日止,若等待超过 21 天,则从第 22 天开始,每多等待 1 天,补偿用户现金 150 元,上限 3000 元。 兑现方式 :以尾款抵扣形式进行兑现。 IT之家注...",
+      "source": "Ithome",
+      "date": "2026-09-18",
+      "url": "https://www.ithome.com/1/004/340.htm"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260918/herald/3c7d7fbaa9a697df6db11c419ea334d7.html",
+      "title": "中国气象局:强化升放气球和防雷领域安全管理",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-18",
+      "url": "https://www.21jingji.com/article/20260918/herald/3c7d7fbaa9a697df6db11c419ea334d7.html"
+    },
+    {
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-09-18/drivers-licences-medical-certificates-in-portugal-can-be-refused-by-doctors/1088155",
+      "title": "在葡萄牙,医生可以拒绝签发驾驶执照所需的体检证明",
+      "summary": "医学会向SIC Verifica事实核查项目提供的说明指出,受雇于公共卫生系统的医生有权基于良心或技术上的反对理由,拒绝出具申请或更新驾驶执照所需的医疗证明。...",
+      "source": "Theportugalnews",
+      "date": "2026-09-18",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-09-18/drivers-licences-medical-certificates-in-portugal-can-be-refused-by-doctors/1088155"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-18/4585818.html",
+      "title": "600502,公司董事长被查!",
+      "summary": "安徽建工(SH600502,股价4.27元,市值73.30亿元)9月18日盘后发布公告,公司董事长、党委书记杨善斌涉嫌严重违纪违法,目前正在接受相关纪委监委纪律审查和监察调查。今年以来,公司股价累计下...",
       "source": "Nbd_Cn",
-      "date": "2026-09-17",
-      "url": "https://www.nbd.com.cn/articles/2026-09-17/4584783.html"
+      "date": "2026-09-18",
+      "url": "https://www.nbd.com.cn/articles/2026-09-18/4585818.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20260917/herald/935eeb6022c075d1adb7ed785fcb7cb8.html",
-      "title": "空中喊话+路面劝导,交警特警护航摩电行人安全",
+      "id": "https://www.21jingji.com/article/20260918/herald/15a79250f0326550994f6429357e2555.html",
+      "title": "文旅部等十部门出台促进房车消费新措施",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-17",
-      "url": "https://www.21jingji.com/article/20260917/herald/935eeb6022c075d1adb7ed785fcb7cb8.html"
+      "date": "2026-09-18",
+      "url": "https://www.21jingji.com/article/20260918/herald/15a79250f0326550994f6429357e2555.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a260526q/",
-      "title": "理想9系旗舰发布,纯电门面担当价格炸裂",
-      "summary": "好久没侃过车了,刚好借着理想i9 Home上市说说这台新的理想“纯电9系”。I9是理想的一个很重要的车型,主要是因为它是纯电i系列的旗舰,肩负着9系旗舰需要有的门面责任。直接先说说配置,理想这次i9只......",
+      "id": "https://post.smzdm.com/p/avgx7m99/",
+      "title": "澳大利亚旅游行前Q&A,你想问的都在这了",
+      "summary": "Q1:十一去澳大利亚,气候如何,怎么带衣服?🌡️十一期间,澳大利亚大部分地区正值春季(9月至11月),此时白天温暖宜人,偶有少量降雨,很适宜前往各个景点参观游玩。夜间则略微偏凉,需注意保暖。出发前,建......",
       "source": "Smzdm",
-      "date": "2026-09-17",
-      "url": "https://post.smzdm.com/p/a260526q/"
+      "date": "2026-09-18",
+      "url": "https://post.smzdm.com/p/avgx7m99/"
     },
     {
-      "id": "https://www.jiemian.com/article/15109616.html",
-      "title": "索罗斯、马斯克领衔,美国富翁们为中期选举豪赌",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-09-17",
-      "url": "https://www.jiemian.com/article/15109616.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260917/herald/0a1f80634d16892a86c75233d0520c7a.html",
-      "title": "“十五五”期间汽车市场以“稳”为主",
+      "id": "https://www.21jingji.com/article/20260918/herald/6622e6d0c80bb588b632a0e25d4f592b.html",
+      "title": "人员与机械同竞赛,广州举办环卫技能竞赛",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-17",
-      "url": "https://www.21jingji.com/article/20260917/herald/0a1f80634d16892a86c75233d0520c7a.html"
+      "date": "2026-09-18",
+      "url": "https://www.21jingji.com/article/20260918/herald/6622e6d0c80bb588b632a0e25d4f592b.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876565244689676202",
-      "title": "潍坊:无人车通行“约法三章”10条规范出台",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-17",
-      "url": "http://baijiahao.baidu.com/s?id=1876565244689676202"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876573242958808118",
-      "title": "聚焦网络黑客、网络黑灰产......四川公安公布10起净网..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-17",
-      "url": "http://baijiahao.baidu.com/s?id=1876573242958808118"
-    },
-    {
-      "id": "https://www.ign.com.cn/dying-light-the-beast/62781/xiao-shi-de-guang-mang-kun-shou-you-xi-she-ji-zong-jian-nathan-lemaire-zhuan-fang-ign-zhong-guo",
-      "title": "《消逝的光芒:困兽》游戏设计总监 Nathan Lemaire 专访|IGN 中国",
-      "summary": "NewsData报道",
-      "source": "Ign_Cn",
-      "date": "2026-09-17",
-      "url": "https://www.ign.com.cn/dying-light-the-beast/62781/xiao-shi-de-guang-mang-kun-shou-you-xi-she-ji-zong-jian-nathan-lemaire-zhuan-fang-ign-zhong-guo"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzq044x/",
-      "title": "吉利星瑞L PLUS预售11.57万起,油混B级车首搭激光雷达城市NOA",
-      "summary": "9月16日,吉利星瑞L PLUS i-HEV正式开启预售,4个配置的限时预售价格为11.57万-14.57万元。11.57万起的价格直接扎进了合资B级轿车的腹地,更关键的是,这台车把激光雷达、城市NO......",
+      "id": "https://post.smzdm.com/p/anv3dg60/",
+      "title": "最高法给智驾责任划了线:一个好消息,一个坏消息,还有一件今晚就该办的事",
+      "summary": "先说坏消息。如果你最近刷到过\"智驾出事车企赔\"这类标题,正琢磨着以后上了高速就能放心刷手机,那这篇文章可能会让你失望。9月7日,最高人民法院发布了《关于依法审理涉人工智能纠纷案件的意见》,这是最高审判机关第一份专门针对人工智能纠纷的司法裁判规则文件,一共......",
       "source": "Smzdm",
-      "date": "2026-09-17",
-      "url": "https://post.smzdm.com/p/arzq044x/"
+      "date": "2026-09-18",
+      "url": "https://post.smzdm.com/p/anv3dg60/"
     },
     {
-      "id": "https://post.smzdm.com/p/a82x3k2n/",
-      "title": "方程S与S GT正式上市,18.99万起定义全能轿车新标杆",
-      "summary": "9月16日,方程豹旗下全场景多形态个性轿车 —— 方程S与方程S GT于上海正式上市。方程S售价18.99 万- 22.99万元,方程S GT售价21.99 万 - 23.99万元,同步推出十一重购车......",
-      "source": "Smzdm",
-      "date": "2026-09-17",
-      "url": "https://post.smzdm.com/p/a82x3k2n/"
+      "id": "https://www.malaymail.com/news/singapore/2026/09/18/alphabets-waymo-to-deploy-fully-autonomous-ridehailing-service-in-singapore-in-2028/235681",
+      "title": "Alphabet’s Waymo to deploy fully autonomous ride‑hailing service in Singapore in 2028",
+      "summary": "SINGAPORE, Sept 18 — Alphabet’s autonomous‑driving company Waymo said today it will launch a fully driverless ride‑hailing service in Singapore in 2028, marking its first......",
+      "source": "Malay Mail",
+      "date": "2026-09-18",
+      "url": "https://www.malaymail.com/news/singapore/2026/09/18/alphabets-waymo-to-deploy-fully-autonomous-ridehailing-service-in-singapore-in-2028/235681"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/09/18/waymo-to-bring-autonomous-ride-hailing-to-singapore-in-2028",
+      "title": "Waymo to bring autonomous ride-hailing to Singapore in 2028",
+      "summary": "SINGAPORE, Sept 18 (Reuters) - ⁠Alphabet's autonomous driving unit Waymo will roll ⁠out its autonomous all-electric ride-hailing service in Singapore by ‌2028, Waymo announced on Friday, marking its f...",
+      "source": "The Star",
+      "date": "2026-09-18",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/18/waymo-to-bring-autonomous-ride-hailing-to-singapore-in-2028"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/business/3978775-waymo-gears-up-for-autonomous-ride-hailing-launch-in-singapore-by-2028",
+      "title": "Waymo Gears Up for Autonomous Ride-Hailing Launch in Singapore by 2028",
+      "summary": "Waymo, Google's self-driving car unit, plans to introduce its autonomous, all-electric ride-hailing service in Singapore by 2028, marking its debut in Southeast Asia....",
+      "source": "Devdiscourse",
+      "date": "2026-09-18",
+      "url": "https://www.devdiscourse.com/article/business/3978775-waymo-gears-up-for-autonomous-ride-hailing-launch-in-singapore-by-2028"
+    },
+    {
+      "id": "https://www.straitstimes.com/singapore/transport/waymos-driverless-ride-share-cars-to-start-offering-services-in-singapore-in-2028",
+      "title": "Waymo’s self-driving cars to debut in Singapore in 2028",
+      "summary": "Waymo’s self-driving cars will debut in Singapore in 2028, marking a significant step in autonomous vehicle technology and urban mobility. Read more at straitstimes.com....",
+      "source": "The Straits Times",
+      "date": "2026-09-18",
+      "url": "https://www.straitstimes.com/singapore/transport/waymos-driverless-ride-share-cars-to-start-offering-services-in-singapore-in-2028"
     },
     {
       "id": "https://www.aninews.in/news/national/general-news/ministry-of-power-launches-8220special-campaign-68221-to-institutionalise-swachhata-and-minimise-pendency20260917212306/",
@@ -178,38 +258,6 @@
       "source": "The Star",
       "date": "2026-09-15",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-japanese-partners-target-driverless-taxi-service-in-tokyo-in-2027"
-    },
-    {
-      "id": "https://www.straitstimes.com/singapore/transport/no-hands-on-steering-wheel-but-fully-alert-safety-operators-key-to-success-of-self-driving-vehicles",
-      "title": "safety operators and the future of autonomous vehicles",
-      "summary": "Learn how safety operators enhance self-driving vehicle safety in Singapore by monitoring, controlling, and improving autonomous shuttle operations daily. Read more at straitstimes.com....",
-      "source": "The Straits Times",
-      "date": "2026-09-15",
-      "url": "https://www.straitstimes.com/singapore/transport/no-hands-on-steering-wheel-but-fully-alert-safety-operators-key-to-success-of-self-driving-vehicles"
-    },
-    {
-      "id": "https://www.japantimes.co.jp/business/2026/09/15/companies/waymo-tokyo-robotaxi-launch/",
-      "title": "Waymo to start Tokyo robotaxi service next year in Asia push",
-      "summary": "Autonomous driving was long seen as a pipe dream in Japan, where the streets are narrow and crowded, and regulation is notoriously strict....",
-      "source": "The Japan Times ",
-      "date": "2026-09-15",
-      "url": "https://www.japantimes.co.jp/business/2026/09/15/companies/waymo-tokyo-robotaxi-launch/"
-    },
-    {
-      "id": "https://www.koreatimes.co.kr/business/companies/20260915/hyundai-plays-catch-up-as-tesla-strengthens-grip-on-koreas-ev-market",
-      "title": "up as Tesla strengthens grip on Korea's EV market",
-      "summary": "Hyundai Motor’s autonomous driving road map is putting its ability to keep pace with Tesla under scrutiny, as the U.S. automaker rapidly gains stro......",
-      "source": "The Korea Times",
-      "date": "2026-09-14",
-      "url": "https://www.koreatimes.co.kr/business/companies/20260915/hyundai-plays-catch-up-as-tesla-strengthens-grip-on-koreas-ev-market"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-to-bring-autonomous-ride-hailing-to-las-vegas",
-      "title": "Waymo to bring autonomous ride-hailing to Las Vegas",
-      "summary": "Sept 14 (Reuters) - Alphabet's ⁠self-driving unit Waymo said on Monday it will ⁠offer rides to the general public in Las Vegas, ‌marking its first foray into Nevada, as it expands its robotaxi service...",
-      "source": "The Star",
-      "date": "2026-09-14",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-to-bring-autonomous-ride-hailing-to-las-vegas"
     }
   ]
 }
