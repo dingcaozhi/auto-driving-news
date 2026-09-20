@@ -1,15 +1,18 @@
 {
-  "lastUpdated": "2026-09-19 04:16:34",
-  "totalCount": 30,
+  "lastUpdated": "2026-09-20 04:35:14",
+  "totalCount": 31,
   "sources": {
     "Bilibili": 5,
+    "Smzdm": 5,
+    "21Jingji": 1,
     "Bjnews": 1,
-    "21Jingji": 8,
-    "News_Baidu": 1,
-    "Smzdm": 3,
+    "Eeo": 2,
     "Ithome": 1,
+    "News_Baidu": 3,
+    "Zaobao": 1,
+    "Cri_Cn": 1,
     "Theportugalnews": 1,
-    "Nbd_Cn": 1,
+    "Chinanews": 1,
     "Malay Mail": 2,
     "The Star": 2,
     "Devdiscourse": 1,
@@ -20,172 +23,180 @@
   },
   "news": [
     {
+      "id": "https://www.bilibili.com/video/BV1Mpeb6SEfo",
+      "title": "【B站】2027年，真正的自动驾驶车型一定不贵。",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-09-20",
+      "url": "https://www.bilibili.com/video/BV1Mpeb6SEfo"
+    },
+    {
       "id": "https://www.bilibili.com/video/BV182GnzRERu",
       "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
       "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-09-19",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Deej6XEih",
-      "title": "【B站】2026优化版【基于深度学习的无人驾驶实战课】106集全！学完即可上岗，从入门到提升的自动驾驶算法（人工智能/深度学习/目标检测/计算机视觉/神经网络）",
-      "summary": "【课件代码+AI学习路线资料包】无偿分享👉👉【➤➤https://www.bilibili.com/read/cv53008105/】\n✅ AI入门完整学习路线图（从零开始一步步学）\n✅ 视频教程+课件源码+学习笔记\n✅ 经典实战项目案例\n✅ 面试题 + 简历模板\n✅ 必读书籍PDF+岗位分析...",
-      "source": "Bilibili",
-      "date": "2026-09-19",
-      "url": "https://www.bilibili.com/video/BV1Deej6XEih"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1f7UGYfEHB",
-      "title": "【B站】【科普】自动驾驶分级及原理",
+      "id": "https://www.bilibili.com/video/BV1haUdYuEcb",
+      "title": "【B站】极核AE5“自动驾驶”｜自动驾驶能拐弯啦？九号自平衡技术外泄？又被我学来了？！",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-09-19",
-      "url": "https://www.bilibili.com/video/BV1f7UGYfEHB"
+      "date": "2026-09-20",
+      "url": "https://www.bilibili.com/video/BV1haUdYuEcb"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV16M4y6fESj",
+      "title": "【B站】这个驾驶方式是人能想出来的啊！！！",
+      "summary": "这个驾驶方式是人能想出来的啊！！！...",
       "source": "Bilibili",
-      "date": "2026-09-19",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+      "date": "2026-09-20",
+      "url": "https://www.bilibili.com/video/BV16M4y6fESj"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1789719412129014.html",
-      "title": "清朗金融网络、守护安心消费,平安健康险开展2026金融教育宣传周活动",
+      "id": "https://www.bilibili.com/video/BV1xgUUY3ECG",
+      "title": "【B站】自动驾驶",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-09-20",
+      "url": "https://www.bilibili.com/video/BV1xgUUY3ECG"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggqdq5w/",
+      "title": "一车一价!新能源车险定价对标燃油车:高性能、修车成本高车型保费会涨价",
+      "summary": "快科技9月19日消息,我国新能源车险定价规则即将迎来新一轮重要调整,自主定价系数区间预计调整为0.5-1.5,将和燃油车的现行定价浮动标准完全保持一致。回顾此前的调整路径,2025年9月,新能源车险自......",
+      "source": "Smzdm",
+      "date": "2026-09-19",
+      "url": "https://post.smzdm.com/p/aggqdq5w/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260919/herald/3a4c8a8238381036e1362f76c9a4a528.html",
+      "title": "欧洲企业CEO们,不想错失中国机器人浪潮",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-19",
+      "url": "https://www.21jingji.com/article/20260919/herald/3a4c8a8238381036e1362f76c9a4a528.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1789821316129625.html",
+      "title": "科技创变者大会举行,专家谈从具身智能到聚合智能",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-09-18",
-      "url": "https://www.bjnews.com.cn/detail/1789719412129014.html"
+      "date": "2026-09-19",
+      "url": "https://www.bjnews.com.cn/detail/1789821316129625.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20260919/846ab8742acd881c51bed3154b134856.html",
-      "title": "中原农业进阶之路 耕者新变,为大国粮仓注入新动能",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-18",
-      "url": "https://www.21jingji.com/article/20260919/846ab8742acd881c51bed3154b134856.html"
+      "id": "http://www.eeo.com.cn/2026/0919/1042785.shtml",
+      "title": "赛事经济观察|阿斯帕车队,首次向中国媒体打开门",
+      "summary": "成熟赛事的价值并不只存在于比赛日、门票、转播和赞助曝光,还沉淀在车队、制造商、城市、俱乐部、青训、媒体、旅游和社区之间的长期协作中。赛事经济一旦形成稳定网络,就会成为一条成熟的产业链。...",
+      "source": "Eeo",
+      "date": "2026-09-19",
+      "url": "http://www.eeo.com.cn/2026/0919/1042785.shtml"
     },
     {
-      "id": "https://www.21jingji.com/article/20260919/a99cef4df86ccdef030c4f4c7858d933.html",
-      "title": "算力之外拼记忆 华为云亮出企业级AI产品矩阵",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-18",
-      "url": "https://www.21jingji.com/article/20260919/a99cef4df86ccdef030c4f4c7858d933.html"
+      "id": "https://www.ithome.com/1/004/565.htm",
+      "title": "市场监管总局肖凌云谈“8 月有一天召回近 800 万辆车”:都是新技术带来的安全缺陷",
+      "summary": "IT之家 9 月 19 日消息,据每日经济新闻报道,9 月 19 日,国家市场监督管理总局缺陷产品召回技术中心工业品所所长肖凌云在 2026 中国汽车产业发展(泰达)国际论坛上透露, 我国 2025 年召回的车辆中,有一半是企业主动召回 。 真正能够召回的企业是好的企业、优秀的企业。真正主动去召回的企业,也是质量能够走向优先的企业。 数据显示,截至 2025 年底,我国共实施汽车召回 3265 次...",
+      "source": "Ithome",
+      "date": "2026-09-19",
+      "url": "https://www.ithome.com/1/004/565.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876684152651553071",
-      "title": "“数聚仙谷”数据要素主题分享会在渝举行 仙桃数据谷..",
+      "id": "http://www.eeo.com.cn/2026/0919/1042779.shtml",
+      "title": "沃尔沃S90低至22万,低价甩卖后销量涨三倍,传统豪车正在集体打对折",
+      "summary": "蓝鲸新闻9月19日讯(记者 陆鹏鹏)对标奔驰E级、宝马5系的中大型豪华轿车沃尔沃S90,如今只要22万了。 旗舰车型五折甩卖 沃尔沃S90低至22万 蓝鲸记者从多家沃尔沃4S店了解到,目前S90叠加各种补贴后的价格为22.99万元......",
+      "source": "Eeo",
+      "date": "2026-09-19",
+      "url": "http://www.eeo.com.cn/2026/0919/1042779.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anv3d942/",
+      "title": "岚图虎踞P底盘,让大车不用再做“选择题”",
+      "summary": "9月15日,在武汉举行的东风集团科技周期间,岚图办了场有点特别的发布会。台上的主角不是新车,而是一套底盘虎踞P(Premium),也是岚图自主正向研发的旗舰级智能底盘。官方公布的信息显示,它将率先搭载......",
+      "source": "Smzdm",
+      "date": "2026-09-19",
+      "url": "https://post.smzdm.com/p/anv3d942/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876767672488286172",
+      "title": "全球首发!长沙造通用无人载货平台首创“子母车接力配..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-18",
-      "url": "http://baijiahao.baidu.com/s?id=1876684152651553071"
+      "date": "2026-09-19",
+      "url": "http://baijiahao.baidu.com/s?id=1876767672488286172"
     },
     {
-      "id": "https://www.21jingji.com/article/20260919/97331c67dbea272a73a798def9f13ddb.html",
-      "title": "一粒粮的产业链之旅:河南从田间链到餐桌",
+      "id": "https://www.zaobao.com.sg/news/china/story20260919-9703129",
+      "title": "高雄蓝绿正面交锋 柯志恩“三山”起跑赖瑞隆下战帖",
+      "summary": "台湾高雄市长蓝绿选战正面交锋,国民党柯志恩和民进党赖瑞隆星期六(9月19日)分别展开选战活动。台北市长选战的两名对手蒋万安、沈伯洋也双双南下助阵,让蓝绿攻防从台北一路延伸到高雄。...",
+      "source": "Zaobao",
+      "date": "2026-09-19",
+      "url": "https://www.zaobao.com.sg/news/china/story20260919-9703129"
+    },
+    {
+      "id": "https://news.cri.cn/20260919/7375f694-d1f6-86a6-a266-a3cdd83d6663.html",
+      "title": "何以中国·运河之光|在平陆运河,感受中国基建的力量-国际在线",
+      "summary": "【环球时报-环球网记者朱马烈】一条运河,从不只是运河。 9月16日,西部陆海新通道骨干工程平陆运河建成通航。全长134.2公里,新中国成立以来第一条由国家层面统筹建设的通江达海运河,可通航5000吨级船舶。 它要解的是一道千年的地理...",
+      "source": "Cri_Cn",
+      "date": "2026-09-19",
+      "url": "https://news.cri.cn/20260919/7375f694-d1f6-86a6-a266-a3cdd83d6663.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876650003100014692",
+      "title": "男子称代驾百万路虎24天从北京开到海口,反倒贴2...",
       "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-18",
-      "url": "https://www.21jingji.com/article/20260919/97331c67dbea272a73a798def9f13ddb.html"
+      "source": "News_Baidu",
+      "date": "2026-09-19",
+      "url": "http://baijiahao.baidu.com/s?id=1876650003100014692"
     },
     {
-      "id": "https://www.21jingji.com/article/20260918/herald/c53f58d3b4465b3f1f8b6628793b673b.html",
-      "title": "中国气象局公布三部部门规章 强化升放气球和防雷领域安全管理",
+      "id": "http://baijiahao.baidu.com/s?id=1876765163974228051",
+      "title": "幼儿趁家长打盹竟褪下万元手表 公交司售连夜妥善保管..",
       "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-18",
-      "url": "https://www.21jingji.com/article/20260918/herald/c53f58d3b4465b3f1f8b6628793b673b.html"
+      "source": "News_Baidu",
+      "date": "2026-09-19",
+      "url": "http://baijiahao.baidu.com/s?id=1876765163974228051"
     },
     {
-      "id": "https://www.21jingji.com/article/20260918/herald/26325baeb2e627e02be051d6c5e12199.html",
-      "title": "促进房车消费9项措施",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-18",
-      "url": "https://www.21jingji.com/article/20260918/herald/26325baeb2e627e02be051d6c5e12199.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqvzg9x/",
-      "title": "《极限竞速:地平线5》的周末自驾游,可以从沙漠转进丛林",
-      "summary": "把“随便逛”换成几个明确动作周末想体验开车看景,《极限竞速:地平线5》更适合把目的地放在墨西哥、又不想始终追着比赛名次走的人。所谓随便逛,可以先拆成选一种地貌出发、途中观察环境变化、碰到感兴趣的活动再......",
+      "id": "https://post.smzdm.com/p/a9508ge5/",
+      "title": "9.99万起,华为乾崑智驾大六座,星海V6正式上市",
+      "summary": "9月19日,东风柳汽2026年秋季新品发布会在柳州启幕。星海V6乾崑智驾ADS SE版正式上市,共推出3款车型,上市指导价10.49万元-12.49万元,上市权益价9.99万元-11.99万元。星海V......",
       "source": "Smzdm",
-      "date": "2026-09-18",
-      "url": "https://post.smzdm.com/p/apqvzg9x/"
+      "date": "2026-09-19",
+      "url": "https://post.smzdm.com/p/a9508ge5/"
     },
     {
-      "id": "https://www.ithome.com/1/004/340.htm",
-      "title": "极狐阿尔法 T7 公布安心交付承诺:延期按天补偿现金,上限 3000 元",
-      "summary": "IT之家 9 月 18 日消息,极狐汽车今日公布阿尔法 T7 安心交付承诺,如出现不能及时交付的情况,将进行延期交付补偿。 适用对象 :2026 年 10 月 31 日 (含) 前下定并锁单的用户。 补偿标准 :自锁单之日起至车辆到店之日止,若等待超过 21 天,则从第 22 天开始,每多等待 1 天,补偿用户现金 150 元,上限 3000 元。 兑现方式 :以尾款抵扣形式进行兑现。 IT之家注...",
-      "source": "Ithome",
-      "date": "2026-09-18",
-      "url": "https://www.ithome.com/1/004/340.htm"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260918/herald/3c7d7fbaa9a697df6db11c419ea334d7.html",
-      "title": "中国气象局:强化升放气球和防雷领域安全管理",
+      "id": "https://www.theportugalnews.com/zh/zh-news/2026-09-19/the-queens-range-rover-how-the-l322-is-rapidly-becoming-a-modern-classic/1088837",
+      "title": "女王的揽胜:L322如何迅速成为现代经典之作",
       "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-18",
-      "url": "https://www.21jingji.com/article/20260918/herald/3c7d7fbaa9a697df6db11c419ea334d7.html"
-    },
-    {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-09-18/drivers-licences-medical-certificates-in-portugal-can-be-refused-by-doctors/1088155",
-      "title": "在葡萄牙,医生可以拒绝签发驾驶执照所需的体检证明",
-      "summary": "医学会向SIC Verifica事实核查项目提供的说明指出,受雇于公共卫生系统的医生有权基于良心或技术上的反对理由,拒绝出具申请或更新驾驶执照所需的医疗证明。...",
       "source": "Theportugalnews",
-      "date": "2026-09-18",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-09-18/drivers-licences-medical-certificates-in-portugal-can-be-refused-by-doctors/1088155"
+      "date": "2026-09-19",
+      "url": "https://www.theportugalnews.com/zh/zh-news/2026-09-19/the-queens-range-rover-how-the-l322-is-rapidly-becoming-a-modern-classic/1088837"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-09-18/4585818.html",
-      "title": "600502,公司董事长被查!",
-      "summary": "安徽建工(SH600502,股价4.27元,市值73.30亿元)9月18日盘后发布公告,公司董事长、党委书记杨善斌涉嫌严重违纪违法,目前正在接受相关纪委监委纪律审查和监察调查。今年以来,公司股价累计下...",
-      "source": "Nbd_Cn",
-      "date": "2026-09-18",
-      "url": "https://www.nbd.com.cn/articles/2026-09-18/4585818.html"
+      "id": "https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml",
+      "title": "聚焦新能源汽车制造 业界冀两岸携手打造安全供应链",
+      "summary": "中新社北京9月19日电 (徐雪莹 金志成)“当前全球经贸环境复杂多变,两岸新能源汽车制造产业若加强关键技术合作、强化上下游联动,有助于对冲外部风险。”台湾企业家、东莞美福电子有限公司副总经理陈翔19日在北京受访时表示。...",
+      "source": "Chinanews",
+      "date": "2026-09-19",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml"
     },
     {
-      "id": "https://www.21jingji.com/article/20260918/herald/15a79250f0326550994f6429357e2555.html",
-      "title": "文旅部等十部门出台促进房车消费新措施",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-18",
-      "url": "https://www.21jingji.com/article/20260918/herald/15a79250f0326550994f6429357e2555.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgx7m99/",
-      "title": "澳大利亚旅游行前Q&A,你想问的都在这了",
-      "summary": "Q1:十一去澳大利亚,气候如何,怎么带衣服?🌡️十一期间,澳大利亚大部分地区正值春季(9月至11月),此时白天温暖宜人,偶有少量降雨,很适宜前往各个景点参观游玩。夜间则略微偏凉,需注意保暖。出发前,建......",
+      "id": "https://post.smzdm.com/p/a70nkdno/",
+      "title": "18.99万入门版值不值?方程S三款配置这样选最划算",
+      "summary": "选方程S的人,十有八九会先盯上18.99万的入门版。这个价格能买到5米级纯电轿跑,听起来确实诱人。但“入门”这两个字,究竟是真正的“便宜够用”,还是4S店引你进店的诱饵?关键在于搞清楚入门版少了什么,以及那些被省掉的东西,对你的实际用车影响有多大。入门版......",
       "source": "Smzdm",
-      "date": "2026-09-18",
-      "url": "https://post.smzdm.com/p/avgx7m99/"
+      "date": "2026-09-19",
+      "url": "https://post.smzdm.com/p/a70nkdno/"
     },
     {
-      "id": "https://www.21jingji.com/article/20260918/herald/6622e6d0c80bb588b632a0e25d4f592b.html",
-      "title": "人员与机械同竞赛,广州举办环卫技能竞赛",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-18",
-      "url": "https://www.21jingji.com/article/20260918/herald/6622e6d0c80bb588b632a0e25d4f592b.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anv3dg60/",
-      "title": "最高法给智驾责任划了线:一个好消息,一个坏消息,还有一件今晚就该办的事",
-      "summary": "先说坏消息。如果你最近刷到过\"智驾出事车企赔\"这类标题,正琢磨着以后上了高速就能放心刷手机,那这篇文章可能会让你失望。9月7日,最高人民法院发布了《关于依法审理涉人工智能纠纷案件的意见》,这是最高审判机关第一份专门针对人工智能纠纷的司法裁判规则文件,一共......",
+      "id": "https://post.smzdm.com/p/am98pxgv/",
+      "title": "MG07锁单4.2万台卖爆了,急着投诉的怎么全是最早下单的人",
+      "summary": "1分57秒,大定破万。20天,锁单破4.2万台。MG07这个开局,放在今年10万级新能源市场,怎么算都是爆款。但有件事挺反常的:9月上旬开始,车质网、黑猫这些第三方投诉平台上,「名爵MG07」的投诉集中冒了出来,理由高度一致——不按约定交车。而且跑去投诉......",
       "source": "Smzdm",
-      "date": "2026-09-18",
-      "url": "https://post.smzdm.com/p/anv3dg60/"
+      "date": "2026-09-19",
+      "url": "https://post.smzdm.com/p/am98pxgv/"
     },
     {
       "id": "https://www.malaymail.com/news/singapore/2026/09/18/alphabets-waymo-to-deploy-fully-autonomous-ridehailing-service-in-singapore-in-2028/235681",
@@ -250,14 +261,6 @@
       "source": "TechCrunch",
       "date": "2026-09-16",
       "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-japanese-partners-target-driverless-taxi-service-in-tokyo-in-2027",
-      "title": "Waymo, Japanese partners target driverless taxi service in Tokyo in 2027",
-      "summary": "TOKYO, Sept 15 (Reuters) - Alphabet's ⁠autonomous driving unit Waymo, Japanese taxi app operator ⁠GO and taxi company Nihon Kotsu said on ‌Tuesday they aim to launch Japan's first fully autonomous com...",
-      "source": "The Star",
-      "date": "2026-09-15",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/15/waymo-japanese-partners-target-driverless-taxi-service-in-tokyo-in-2027"
     }
   ]
 }
