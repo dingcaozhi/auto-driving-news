@@ -1,202 +1,199 @@
 {
-  "lastUpdated": "2026-09-20 04:35:14",
-  "totalCount": 31,
+  "lastUpdated": "2026-09-21 04:33:29",
+  "totalCount": 29,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 5,
+    "Smzdm": 6,
     "21Jingji": 1,
-    "Bjnews": 1,
-    "Eeo": 2,
     "Ithome": 1,
+    "Bjnews": 2,
     "News_Baidu": 3,
-    "Zaobao": 1,
-    "Cri_Cn": 1,
-    "Theportugalnews": 1,
-    "Chinanews": 1,
+    "Nbd_Cn": 1,
+    "Times of India": 1,
+    "Business Today": 1,
+    "The Straits Times": 2,
     "Malay Mail": 2,
-    "The Star": 2,
+    "The Star": 1,
     "Devdiscourse": 1,
-    "The Straits Times": 1,
     "ANI (Asian News International)": 1,
-    "PR Newswire UK": 1,
-    "TechCrunch": 1
+    "PR Newswire UK": 1
   },
   "news": [
-    {
-      "id": "https://www.bilibili.com/video/BV1Mpeb6SEfo",
-      "title": "【B站】2027年，真正的自动驾驶车型一定不贵。",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-09-20",
-      "url": "https://www.bilibili.com/video/BV1Mpeb6SEfo"
-    },
     {
       "id": "https://www.bilibili.com/video/BV182GnzRERu",
       "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
       "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1haUdYuEcb",
-      "title": "【B站】极核AE5“自动驾驶”｜自动驾驶能拐弯啦？九号自平衡技术外泄？又被我学来了？！",
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-09-21",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-09-20",
-      "url": "https://www.bilibili.com/video/BV1haUdYuEcb"
+      "date": "2026-09-21",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://www.bilibili.com/video/BV16M4y6fESj",
-      "title": "【B站】这个驾驶方式是人能想出来的啊！！！",
-      "summary": "这个驾驶方式是人能想出来的啊！！！...",
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-09-20",
-      "url": "https://www.bilibili.com/video/BV16M4y6fESj"
+      "date": "2026-09-21",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1xgUUY3ECG",
-      "title": "【B站】自动驾驶",
-      "summary": "-...",
+      "id": "https://www.bilibili.com/video/BV1G2e16MEiy",
+      "title": "【B站】基于Unity的端到端自动驾驶仿真实验",
+      "summary": "不用实车、不用场地，纯软件仿真就能玩转端到端自动驾驶！手把手教你从数据采集到模型部署的全流程实战。无论是高校教师开设实验课程，还是学生自学入门自动驾驶算法，都是零门槛的理想选择。...",
       "source": "Bilibili",
-      "date": "2026-09-20",
-      "url": "https://www.bilibili.com/video/BV1xgUUY3ECG"
+      "date": "2026-09-21",
+      "url": "https://www.bilibili.com/video/BV1G2e16MEiy"
     },
     {
-      "id": "https://post.smzdm.com/p/aggqdq5w/",
-      "title": "一车一价!新能源车险定价对标燃油车:高性能、修车成本高车型保费会涨价",
-      "summary": "快科技9月19日消息,我国新能源车险定价规则即将迎来新一轮重要调整,自主定价系数区间预计调整为0.5-1.5,将和燃油车的现行定价浮动标准完全保持一致。回顾此前的调整路径,2025年9月,新能源车险自......",
+      "id": "https://post.smzdm.com/p/awwzk9m4/",
+      "title": "摩博会今晚封馆、长假进入倒计时:第一次长途摩旅的去哪、带什么、跟谁走,我把9月20日一天的组队帖拆完摆给你",
+      "summary": "今天有两个信号同时发生。一个是重庆摩博会封馆收官,观众超过5万人,你大概率也在里面——可能试了车、下了订,或者刚把国庆前提车的事敲定。另一个信号安静得多:小红书上\"国庆摩旅\"的组队帖从今晚开始刷屏。中......",
       "source": "Smzdm",
-      "date": "2026-09-19",
-      "url": "https://post.smzdm.com/p/aggqdq5w/"
+      "date": "2026-09-20",
+      "url": "https://post.smzdm.com/p/awwzk9m4/"
     },
     {
-      "id": "https://www.21jingji.com/article/20260919/herald/3a4c8a8238381036e1362f76c9a4a528.html",
-      "title": "欧洲企业CEO们,不想错失中国机器人浪潮",
+      "id": "https://post.smzdm.com/p/ad792pwd/",
+      "title": "新手开车避坑,仪表盘故障灯识别+应急处理一键对照表",
+      "summary": "开车开得好好的,仪表盘角落突然亮起一盏从没见过的灯。橙的,或者红的。你盯着看两秒,心里开始打鼓:这车还能开吗?要不要靠边?前面是高速,最近的服务区还有十几公里。绝大多数车主都有过这一刻。车是拿来开的,......",
+      "source": "Smzdm",
+      "date": "2026-09-20",
+      "url": "https://post.smzdm.com/p/ad792pwd/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70nd2kd/",
+      "title": "一文看懂C1D驾照,想增驾D证先读完",
+      "summary": "C1D,就是C1小车驾照增驾D摩托车证之后合并而成的驾照。一本证在手,既可以开手动、自动小型轿车,也能驾驶三轮摩托车,同时向下兼容普通两轮摩托车,日常通勤、摩旅骑行都能用。很多人最大的误区,以为汽车1......",
+      "source": "Smzdm",
+      "date": "2026-09-20",
+      "url": "https://post.smzdm.com/p/a70nd2kd/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260920/herald/2071b4b3f9bd3287d605ab9312415f3f.html",
+      "title": "首席展望|申万宏源王胜:“慢牛”的“慢”字仍然重要,A股接下来将百花齐放",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-19",
-      "url": "https://www.21jingji.com/article/20260919/herald/3a4c8a8238381036e1362f76c9a4a528.html"
+      "date": "2026-09-20",
+      "url": "https://www.21jingji.com/article/20260920/herald/2071b4b3f9bd3287d605ab9312415f3f.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1789821316129625.html",
-      "title": "科技创变者大会举行,专家谈从具身智能到聚合智能",
+      "id": "https://post.smzdm.com/p/aggq4zem/",
+      "title": "12.99万起的德系家用纯电SUV,一汽-大众ID.AURA T6正式上市",
+      "summary": "9月20日,一汽-大众ID.AURA T6在广州正式上市。作为品牌全新新能源序列的开篇之作,这款定位于“全家人的智稳纯电SUV”的新车,一口气拿出四款配置,售价区间12.99万-16.69万元。加上此前预售订单已突破3万的成绩,以及代言人刘昊然到场助阵,......",
+      "source": "Smzdm",
+      "date": "2026-09-20",
+      "url": "https://post.smzdm.com/p/aggq4zem/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az863n75/",
+      "title": "摩托车骑行装备选购指南",
+      "summary": "摩托车骑行装备选购指南:安全优先,理性入坑 很多人入坑摩托车,最先琢磨的是选什么车型,却常常忽略一件事:车可以慢慢挑,装备必须到位。尤其在天津,市内外环以内禁摩,骑行大多集中在周末郊野、滨海短途摩旅,出行场景以休闲骑行为主,装备的核心目的不是炫帅,而是防......",
+      "source": "Smzdm",
+      "date": "2026-09-20",
+      "url": "https://post.smzdm.com/p/az863n75/"
+    },
+    {
+      "id": "https://www.ithome.com/1/005/009.htm",
+      "title": "古尔曼:苹果最快下月推出智能家居屏幕设备,iPhone Duo 专属手写笔计划夭折",
+      "summary": "IT之家 9 月 20 日消息,据彭博社记者马克 · 古尔曼(Mark Gurman)报道,苹果“个人智能中枢”AI 战略,暗示新款家用设备即将到来。报道称,苹果全新的“智能个人中枢”战略,其意义远不止局限于 iPhone。此外:苹果对 Fitness+ 业务实施了裁员,该服务未来走向存疑;iPhone Duo 专属手写笔计划已经夭折;Apple Pay 即将正式登陆印度。 IT之家附报道内容如下...",
+      "source": "Ithome",
+      "date": "2026-09-20",
+      "url": "https://www.ithome.com/1/005/009.htm"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1789895561129055.html",
+      "title": "新浪保险年度论坛成功举办,两百余位险企高管共探AI变革新局",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-09-19",
-      "url": "https://www.bjnews.com.cn/detail/1789821316129625.html"
+      "date": "2026-09-20",
+      "url": "https://www.bjnews.com.cn/detail/1789895561129055.html"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0919/1042785.shtml",
-      "title": "赛事经济观察|阿斯帕车队,首次向中国媒体打开门",
-      "summary": "成熟赛事的价值并不只存在于比赛日、门票、转播和赞助曝光,还沉淀在车队、制造商、城市、俱乐部、青训、媒体、旅游和社区之间的长期协作中。赛事经济一旦形成稳定网络,就会成为一条成熟的产业链。...",
-      "source": "Eeo",
-      "date": "2026-09-19",
-      "url": "http://www.eeo.com.cn/2026/0919/1042785.shtml"
-    },
-    {
-      "id": "https://www.ithome.com/1/004/565.htm",
-      "title": "市场监管总局肖凌云谈“8 月有一天召回近 800 万辆车”:都是新技术带来的安全缺陷",
-      "summary": "IT之家 9 月 19 日消息,据每日经济新闻报道,9 月 19 日,国家市场监督管理总局缺陷产品召回技术中心工业品所所长肖凌云在 2026 中国汽车产业发展(泰达)国际论坛上透露, 我国 2025 年召回的车辆中,有一半是企业主动召回 。 真正能够召回的企业是好的企业、优秀的企业。真正主动去召回的企业,也是质量能够走向优先的企业。 数据显示,截至 2025 年底,我国共实施汽车召回 3265 次...",
-      "source": "Ithome",
-      "date": "2026-09-19",
-      "url": "https://www.ithome.com/1/004/565.htm"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0919/1042779.shtml",
-      "title": "沃尔沃S90低至22万,低价甩卖后销量涨三倍,传统豪车正在集体打对折",
-      "summary": "蓝鲸新闻9月19日讯(记者 陆鹏鹏)对标奔驰E级、宝马5系的中大型豪华轿车沃尔沃S90,如今只要22万了。 旗舰车型五折甩卖 沃尔沃S90低至22万 蓝鲸记者从多家沃尔沃4S店了解到,目前S90叠加各种补贴后的价格为22.99万元......",
-      "source": "Eeo",
-      "date": "2026-09-19",
-      "url": "http://www.eeo.com.cn/2026/0919/1042779.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anv3d942/",
-      "title": "岚图虎踞P底盘,让大车不用再做“选择题”",
-      "summary": "9月15日,在武汉举行的东风集团科技周期间,岚图办了场有点特别的发布会。台上的主角不是新车,而是一套底盘虎踞P(Premium),也是岚图自主正向研发的旗舰级智能底盘。官方公布的信息显示,它将率先搭载......",
-      "source": "Smzdm",
-      "date": "2026-09-19",
-      "url": "https://post.smzdm.com/p/anv3d942/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876767672488286172",
-      "title": "全球首发!长沙造通用无人载货平台首创“子母车接力配..",
+      "id": "http://baijiahao.baidu.com/s?id=1876860096310367112",
+      "title": "首席展望|申万宏源王胜:“慢牛”的“慢”字仍然重要..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-19",
-      "url": "http://baijiahao.baidu.com/s?id=1876767672488286172"
+      "date": "2026-09-20",
+      "url": "http://baijiahao.baidu.com/s?id=1876860096310367112"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/china/story20260919-9703129",
-      "title": "高雄蓝绿正面交锋 柯志恩“三山”起跑赖瑞隆下战帖",
-      "summary": "台湾高雄市长蓝绿选战正面交锋,国民党柯志恩和民进党赖瑞隆星期六(9月19日)分别展开选战活动。台北市长选战的两名对手蒋万安、沈伯洋也双双南下助阵,让蓝绿攻防从台北一路延伸到高雄。...",
-      "source": "Zaobao",
-      "date": "2026-09-19",
-      "url": "https://www.zaobao.com.sg/news/china/story20260919-9703129"
-    },
-    {
-      "id": "https://news.cri.cn/20260919/7375f694-d1f6-86a6-a266-a3cdd83d6663.html",
-      "title": "何以中国·运河之光|在平陆运河,感受中国基建的力量-国际在线",
-      "summary": "【环球时报-环球网记者朱马烈】一条运河,从不只是运河。 9月16日,西部陆海新通道骨干工程平陆运河建成通航。全长134.2公里,新中国成立以来第一条由国家层面统筹建设的通江达海运河,可通航5000吨级船舶。 它要解的是一道千年的地理...",
-      "source": "Cri_Cn",
-      "date": "2026-09-19",
-      "url": "https://news.cri.cn/20260919/7375f694-d1f6-86a6-a266-a3cdd83d6663.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876650003100014692",
-      "title": "男子称代驾百万路虎24天从北京开到海口,反倒贴2...",
+      "id": "http://baijiahao.baidu.com/s?id=1876850435708253782",
+      "title": "国产脑机接口团队皓世天辉推出“前额三导”意念打字系..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-19",
-      "url": "http://baijiahao.baidu.com/s?id=1876650003100014692"
+      "date": "2026-09-20",
+      "url": "http://baijiahao.baidu.com/s?id=1876850435708253782"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876765163974228051",
-      "title": "幼儿趁家长打盹竟褪下万元手表 公交司售连夜妥善保管..",
+      "id": "https://post.smzdm.com/p/ae6vnxx4/",
+      "title": "奥睿科Obook15 AI全能本,打工人的大屏水桶办公本",
+      "summary": "做职场办公,挑笔记本最头疼的几件事我算是摸透了:多开表格网页就卡顿、长时间渲染直接过热降频、出门开会要背一堆拓展坞,要么就是价格虚高,好看的参数落到日常使用处处是短板。最近一段时间深度体验了奥睿科 Obook15 AI 全能本,这台 15.6 英寸大屏机......",
+      "source": "Smzdm",
+      "date": "2026-09-20",
+      "url": "https://post.smzdm.com/p/ae6vnxx4/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-20/4586734.html",
+      "title": "“豆包手机助手二代”落地;高德扫街榜出海首站落地新加坡|一周未来商业",
+      "summary": "|2026年9月14日—9月20日|#电商新零售NO.1 京东发布全新餐饮业务“七鲜大厨”9月16日,京东发布全新餐饮业务“七鲜大厨”,定位为“家庭健康膳食执行系统”,直接面向消费者。该业务打通了AI...",
+      "source": "Nbd_Cn",
+      "date": "2026-09-20",
+      "url": "https://www.nbd.com.cn/articles/2026-09-20/4586734.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876858677762128458",
+      "title": "2026世界制造业大会|空天地海“全员集结”!20..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-19",
-      "url": "http://baijiahao.baidu.com/s?id=1876765163974228051"
+      "date": "2026-09-20",
+      "url": "http://baijiahao.baidu.com/s?id=1876858677762128458"
     },
     {
-      "id": "https://post.smzdm.com/p/a9508ge5/",
-      "title": "9.99万起,华为乾崑智驾大六座,星海V6正式上市",
-      "summary": "9月19日,东风柳汽2026年秋季新品发布会在柳州启幕。星海V6乾崑智驾ADS SE版正式上市,共推出3款车型,上市指导价10.49万元-12.49万元,上市权益价9.99万元-11.99万元。星海V......",
-      "source": "Smzdm",
-      "date": "2026-09-19",
-      "url": "https://post.smzdm.com/p/a9508ge5/"
+      "id": "https://www.bjnews.com.cn/detail/1789883837129900.html",
+      "title": "闪充智行亮相2026重庆摩博会:以“生态跃迁”改写两轮动力出行格局",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-20",
+      "url": "https://www.bjnews.com.cn/detail/1789883837129900.html"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-09-19/the-queens-range-rover-how-the-l322-is-rapidly-becoming-a-modern-classic/1088837",
-      "title": "女王的揽胜:L322如何迅速成为现代经典之作",
-      "summary": "NewsData报道",
-      "source": "Theportugalnews",
-      "date": "2026-09-19",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-09-19/the-queens-range-rover-how-the-l322-is-rapidly-becoming-a-modern-classic/1088837"
+      "id": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms",
+      "title": "From self-driving cars to self-flying planes: Autonomous aircraft completes first ever flight across America, honours Wright Brothers",
+      "summary": "Tech News News: For the first time ever, a self-flying airplane has flown 3,199 miles to complete a journey across the US. A single-engine Cessna Caravan, managed by ....",
+      "source": "Times of India",
+      "date": "2026-09-20",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml",
-      "title": "聚焦新能源汽车制造 业界冀两岸携手打造安全供应链",
-      "summary": "中新社北京9月19日电 (徐雪莹 金志成)“当前全球经贸环境复杂多变,两岸新能源汽车制造产业若加强关键技术合作、强化上下游联动,有助于对冲外部风险。”台湾企业家、东莞美福电子有限公司副总经理陈翔19日在北京受访时表示。...",
-      "source": "Chinanews",
-      "date": "2026-09-19",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml"
+      "id": "https://www.businesstoday.in/world/story/market-forces-cant-guarantee-ai-safety-obama-warns-profit-motives-driving-premature-ai-deployment-556669-2026-09-20",
+      "title": "'Market forces can't guarantee AI safety': Obama warns profit motives driving premature AI deployment",
+      "summary": "While acknowledging AI's potential to revolutionise cancer treatments and accelerate clean energy solutions, Obama emphasised that achieving those breakthroughs does not require deploying autonomous A...",
+      "source": "Business Today",
+      "date": "2026-09-20",
+      "url": "https://www.businesstoday.in/world/story/market-forces-cant-guarantee-ai-safety-obama-warns-profit-motives-driving-premature-ai-deployment-556669-2026-09-20"
     },
     {
-      "id": "https://post.smzdm.com/p/a70nkdno/",
-      "title": "18.99万入门版值不值?方程S三款配置这样选最划算",
-      "summary": "选方程S的人,十有八九会先盯上18.99万的入门版。这个价格能买到5米级纯电轿跑,听起来确实诱人。但“入门”这两个字,究竟是真正的“便宜够用”,还是4S店引你进店的诱饵?关键在于搞清楚入门版少了什么,以及那些被省掉的东西,对你的实际用车影响有多大。入门版......",
-      "source": "Smzdm",
+      "id": "https://www.straitstimes.com/singapore/singapore-uae-team-wins-autonomous-car-race-in-italy-on-third-attempt",
+      "title": "NTU team wins first international autonomous car race",
+      "summary": "NTU-led Team Kinetiz wins first international autonomous car race in Italy, showcasing advanced AI and autonomous driving technology. Read more at straitstimes.com....",
+      "source": "The Straits Times",
       "date": "2026-09-19",
-      "url": "https://post.smzdm.com/p/a70nkdno/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am98pxgv/",
-      "title": "MG07锁单4.2万台卖爆了,急着投诉的怎么全是最早下单的人",
-      "summary": "1分57秒,大定破万。20天,锁单破4.2万台。MG07这个开局,放在今年10万级新能源市场,怎么算都是爆款。但有件事挺反常的:9月上旬开始,车质网、黑猫这些第三方投诉平台上,「名爵MG07」的投诉集中冒了出来,理由高度一致——不按约定交车。而且跑去投诉......",
-      "source": "Smzdm",
-      "date": "2026-09-19",
-      "url": "https://post.smzdm.com/p/am98pxgv/"
+      "url": "https://www.straitstimes.com/singapore/singapore-uae-team-wins-autonomous-car-race-in-italy-on-third-attempt"
     },
     {
       "id": "https://www.malaymail.com/news/singapore/2026/09/18/alphabets-waymo-to-deploy-fully-autonomous-ridehailing-service-in-singapore-in-2028/235681",
@@ -253,14 +250,6 @@
       "source": "PR Newswire UK",
       "date": "2026-09-17",
       "url": "https://www.prnewswire.co.uk/news-releases/hl-klemove-and-lenovo-forge-partnership-to-lead-the-autonomous-driving-market-302880452.html"
-    },
-    {
-      "id": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley....",
-      "source": "TechCrunch",
-      "date": "2026-09-16",
-      "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/"
     }
   ]
 }
