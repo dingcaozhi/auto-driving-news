@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-09-21 04:33:29",
+  "lastUpdated": "2026-09-22 04:29:17",
   "totalCount": 29,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 6,
     "21Jingji": 1,
-    "Ithome": 1,
-    "Bjnews": 2,
-    "News_Baidu": 3,
+    "Smzdm": 7,
+    "Wallstreetcn": 1,
+    "News_Baidu": 2,
+    "Woshipm": 1,
+    "Bjnews": 1,
     "Nbd_Cn": 1,
     "Times of India": 1,
     "Business Today": 1,
@@ -20,156 +21,156 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "id": "https://www.bilibili.com/video/BV15Xb86nEzv",
+      "title": "【B站】【无广】9大辅助驾驶晚高峰实测！谁是真正的第一梯队？",
+      "summary": "刚过去的三个月，我们自费租了理想、问界、小鹏、小米、蔚来、尚界、极氪、比亚迪、奔驰共 9 台高阶智驾车型，在晚高峰跑完了途经火车站、市中心广场、老城区窄路、宇宙最大医院环岛的 44 公里测试路线，20 个考点全记录。\n这期不评输赢，只说真实感受：不同场景下，辅助驾驶到底是帮你缓解疲劳，还是纯给你添乱...",
       "source": "Bilibili",
-      "date": "2026-09-21",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "date": "2026-09-22",
+      "url": "https://www.bilibili.com/video/BV15Xb86nEzv"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "id": "https://www.bilibili.com/video/BV1a9uMzDEVe",
+      "title": "【B站】比亚迪天神之眼C辅助驾驶该如何正确使用",
+      "summary": "使用天神之眼C辅助驾驶前，你一定要知道的设置与注意事项...",
       "source": "Bilibili",
-      "date": "2026-09-21",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+      "date": "2026-09-22",
+      "url": "https://www.bilibili.com/video/BV1a9uMzDEVe"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "id": "https://www.bilibili.com/video/BV1gwen6wEq9",
+      "title": "【B站】我们的智驾到底什么水平？有没有L3？",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-09-22",
+      "url": "https://www.bilibili.com/video/BV1gwen6wEq9"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1xxEn6DEkt",
+      "title": "【B站】|12分钟无广实测|比亚迪宋Ultra天神之眼辅助驾驶表现",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-09-21",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+      "date": "2026-09-22",
+      "url": "https://www.bilibili.com/video/BV1xxEn6DEkt"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV15iBKBqExF",
+      "title": "【B站】天神之眼B和天神之眼C自动泊车区别！",
+      "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-09-21",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+      "date": "2026-09-22",
+      "url": "https://www.bilibili.com/video/BV15iBKBqExF"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1G2e16MEiy",
-      "title": "【B站】基于Unity的端到端自动驾驶仿真实验",
-      "summary": "不用实车、不用场地，纯软件仿真就能玩转端到端自动驾驶！手把手教你从数据采集到模型部署的全流程实战。无论是高校教师开设实验课程，还是学生自学入门自动驾驶算法，都是零门槛的理想选择。...",
-      "source": "Bilibili",
-      "date": "2026-09-21",
-      "url": "https://www.bilibili.com/video/BV1G2e16MEiy"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwzk9m4/",
-      "title": "摩博会今晚封馆、长假进入倒计时:第一次长途摩旅的去哪、带什么、跟谁走,我把9月20日一天的组队帖拆完摆给你",
-      "summary": "今天有两个信号同时发生。一个是重庆摩博会封馆收官,观众超过5万人,你大概率也在里面——可能试了车、下了订,或者刚把国庆前提车的事敲定。另一个信号安静得多:小红书上\"国庆摩旅\"的组队帖从今晚开始刷屏。中......",
-      "source": "Smzdm",
-      "date": "2026-09-20",
-      "url": "https://post.smzdm.com/p/awwzk9m4/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad792pwd/",
-      "title": "新手开车避坑,仪表盘故障灯识别+应急处理一键对照表",
-      "summary": "开车开得好好的,仪表盘角落突然亮起一盏从没见过的灯。橙的,或者红的。你盯着看两秒,心里开始打鼓:这车还能开吗?要不要靠边?前面是高速,最近的服务区还有十几公里。绝大多数车主都有过这一刻。车是拿来开的,......",
-      "source": "Smzdm",
-      "date": "2026-09-20",
-      "url": "https://post.smzdm.com/p/ad792pwd/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a70nd2kd/",
-      "title": "一文看懂C1D驾照,想增驾D证先读完",
-      "summary": "C1D,就是C1小车驾照增驾D摩托车证之后合并而成的驾照。一本证在手,既可以开手动、自动小型轿车,也能驾驶三轮摩托车,同时向下兼容普通两轮摩托车,日常通勤、摩旅骑行都能用。很多人最大的误区,以为汽车1......",
-      "source": "Smzdm",
-      "date": "2026-09-20",
-      "url": "https://post.smzdm.com/p/a70nd2kd/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260920/herald/2071b4b3f9bd3287d605ab9312415f3f.html",
-      "title": "首席展望|申万宏源王胜:“慢牛”的“慢”字仍然重要,A股接下来将百花齐放",
+      "id": "https://www.21jingji.com/article/20260921/herald/918c0ae6372de11584d0fdac0d7515c8.html",
+      "title": "从创意到生意落地,广州如何接住亚太青年创业“好点子”",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-20",
-      "url": "https://www.21jingji.com/article/20260920/herald/2071b4b3f9bd3287d605ab9312415f3f.html"
+      "date": "2026-09-21",
+      "url": "https://www.21jingji.com/article/20260921/herald/918c0ae6372de11584d0fdac0d7515c8.html"
     },
     {
-      "id": "https://post.smzdm.com/p/aggq4zem/",
-      "title": "12.99万起的德系家用纯电SUV,一汽-大众ID.AURA T6正式上市",
-      "summary": "9月20日,一汽-大众ID.AURA T6在广州正式上市。作为品牌全新新能源序列的开篇之作,这款定位于“全家人的智稳纯电SUV”的新车,一口气拿出四款配置,售价区间12.99万-16.69万元。加上此前预售订单已突破3万的成绩,以及代言人刘昊然到场助阵,......",
+      "id": "https://post.smzdm.com/p/a82xmlg6/",
+      "title": "两代乐趣会重复吗?《极限竞速:地平线5》故事任务可选结局",
+      "summary": "补购的理由可以落在故事上:如果已拥有日本那一作,又想参与墨西哥角色的故事任务,《极限竞速:地平线5》有值得单独考虑的内容。它允许为角色选择任务结局,而日本作品还提供收集簿等探索目标;两代同时具有探索与......",
       "source": "Smzdm",
-      "date": "2026-09-20",
-      "url": "https://post.smzdm.com/p/aggq4zem/"
+      "date": "2026-09-21",
+      "url": "https://post.smzdm.com/p/a82xmlg6/"
     },
     {
-      "id": "https://post.smzdm.com/p/az863n75/",
-      "title": "摩托车骑行装备选购指南",
-      "summary": "摩托车骑行装备选购指南:安全优先,理性入坑 很多人入坑摩托车,最先琢磨的是选什么车型,却常常忽略一件事:车可以慢慢挑,装备必须到位。尤其在天津,市内外环以内禁摩,骑行大多集中在周末郊野、滨海短途摩旅,出行场景以休闲骑行为主,装备的核心目的不是炫帅,而是防......",
+      "id": "https://wallstreetcn.com/articles/3782256",
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月22日",
+      "summary": "NewsData报道",
+      "source": "Wallstreetcn",
+      "date": "2026-09-21",
+      "url": "https://wallstreetcn.com/articles/3782256"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkzm454/",
+      "title": "余承东:智界RX是鸿蒙智行最好开的车,直降3万至26.98万",
+      "summary": "恭喜“老车主”,你们被“精准背刺”了。智界RX新增81度电版,起售价26.98万,比此前最低配便宜了整整3万,续航却只少了不到100公里。9月20日鸿蒙智行官宣,智界RX新增81kWh电池版本,9月28日正式上市。Max版预售价26.98万,Ultra版......",
       "source": "Smzdm",
-      "date": "2026-09-20",
-      "url": "https://post.smzdm.com/p/az863n75/"
+      "date": "2026-09-21",
+      "url": "https://post.smzdm.com/p/axkzm454/"
     },
     {
-      "id": "https://www.ithome.com/1/005/009.htm",
-      "title": "古尔曼:苹果最快下月推出智能家居屏幕设备,iPhone Duo 专属手写笔计划夭折",
-      "summary": "IT之家 9 月 20 日消息,据彭博社记者马克 · 古尔曼(Mark Gurman)报道,苹果“个人智能中枢”AI 战略,暗示新款家用设备即将到来。报道称,苹果全新的“智能个人中枢”战略,其意义远不止局限于 iPhone。此外:苹果对 Fitness+ 业务实施了裁员,该服务未来走向存疑;iPhone Duo 专属手写笔计划已经夭折;Apple Pay 即将正式登陆印度。 IT之家附报道内容如下...",
-      "source": "Ithome",
-      "date": "2026-09-20",
-      "url": "https://www.ithome.com/1/005/009.htm"
+      "id": "https://post.smzdm.com/p/a3m0lorn/",
+      "title": "老头乐不让开了?这几类车不用考证也能合法上路,买前必看防坑指南",
+      "summary": "先说清楚——禁令禁的不是老年人,是不合格的车2026年,多地老头乐过渡期正式结束,这场酝酿多年的整治风暴全面落地。但很多人搞错了一件事:政策禁的不是老年人出行,而是未纳入工信部目录、缺乏3C认证、无法......",
+      "source": "Smzdm",
+      "date": "2026-09-21",
+      "url": "https://post.smzdm.com/p/a3m0lorn/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1789895561129055.html",
-      "title": "新浪保险年度论坛成功举办,两百余位险企高管共探AI变革新局",
+      "id": "http://baijiahao.baidu.com/s?id=1876943109828675353",
+      "title": "首批国家新兴产业发展示范基地创建对象揭晓:山东居首..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-21",
+      "url": "http://baijiahao.baidu.com/s?id=1876943109828675353"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876937792854207156",
+      "title": "从得零售者得天下到竞速产业金融新赛道:银行业这一次..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-21",
+      "url": "http://baijiahao.baidu.com/s?id=1876937792854207156"
+    },
+    {
+      "id": "https://www.woshipm.com/ai/6468106.html",
+      "title": "深度|豌豆荚往事:中国互联网最体面的「失败者」,如何成为AI时代的黄埔军校",
+      "summary": "2020年2月,中国的第三方应用商店在一个星期里被集体消失。 2月14日,PP助手公告产品将于月底下线;2月17日,91助手和安卓市场的渠道包停止上传与管理;2月20日,轮到豌豆荚:PC版将于2月28日停止在线服务,“由此给您带来的不便敬请谅解”。 三份公告,措辞客气,语气平静。一个属于安卓草莽年代的入口生意,就此谢幕。媒体后来为这场集体谢幕写下的标题是:《十年,一部中国互联网罗曼蒂克消亡史》。 ...",
+      "source": "Woshipm",
+      "date": "2026-09-21",
+      "url": "https://www.woshipm.com/ai/6468106.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1789996320129080.html",
+      "title": "新能源用车成本观察:跳出单价换算,聚焦全周期核算",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-09-20",
-      "url": "https://www.bjnews.com.cn/detail/1789895561129055.html"
+      "date": "2026-09-21",
+      "url": "https://www.bjnews.com.cn/detail/1789996320129080.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1876860096310367112",
-      "title": "首席展望|申万宏源王胜:“慢牛”的“慢”字仍然重要..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-20",
-      "url": "http://baijiahao.baidu.com/s?id=1876860096310367112"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876850435708253782",
-      "title": "国产脑机接口团队皓世天辉推出“前额三导”意念打字系..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-20",
-      "url": "http://baijiahao.baidu.com/s?id=1876850435708253782"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae6vnxx4/",
-      "title": "奥睿科Obook15 AI全能本,打工人的大屏水桶办公本",
-      "summary": "做职场办公,挑笔记本最头疼的几件事我算是摸透了:多开表格网页就卡顿、长时间渲染直接过热降频、出门开会要背一堆拓展坞,要么就是价格虚高,好看的参数落到日常使用处处是短板。最近一段时间深度体验了奥睿科 Obook15 AI 全能本,这台 15.6 英寸大屏机......",
+      "id": "https://post.smzdm.com/p/a5ro3gmx/",
+      "title": "荣威家越07预售价13.78万起 搭载豆包助手",
+      "summary": "最近家用增程 SUV 市场竞争越来越激烈,不少车型都在堆配置拼性价比,但大多很难做到智能、舒适、续航三者兼顾。就在 9 月 21 日,上汽荣威正式带来了全新车型家越 07 并开启预售,新车一共推出三款......",
       "source": "Smzdm",
-      "date": "2026-09-20",
-      "url": "https://post.smzdm.com/p/ae6vnxx4/"
+      "date": "2026-09-21",
+      "url": "https://post.smzdm.com/p/a5ro3gmx/"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-09-20/4586734.html",
-      "title": "“豆包手机助手二代”落地;高德扫街榜出海首站落地新加坡|一周未来商业",
-      "summary": "|2026年9月14日—9月20日|#电商新零售NO.1 京东发布全新餐饮业务“七鲜大厨”9月16日,京东发布全新餐饮业务“七鲜大厨”,定位为“家庭健康膳食执行系统”,直接面向消费者。该业务打通了AI...",
+      "id": "https://post.smzdm.com/p/avgx9ro9/",
+      "title": "雷军:增程or纯电没有技术优劣 只有产品体验高下之分",
+      "summary": "快科技9月21日消息,今晚7点在北京周边一个露营地,雷军参加了小米澎程的返场直播活动。针对行业一直吵个不停的纯电和增程路线之争,雷军公开发声,他认为无论是增程还是纯电,没有技术路线的绝对优劣,只有产品......",
+      "source": "Smzdm",
+      "date": "2026-09-21",
+      "url": "https://post.smzdm.com/p/avgx9ro9/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al3l0q8e/",
+      "title": "汽车基础知识入门,五大系统通俗拆解,小白也能看懂汽车构造",
+      "summary": "上个月陪朋友去修车,师傅围着车转了一圈,说:\"你这个下摆臂胶套裂了,平面轴承也有点旷,建议一起换。\"朋友连连点头。出了修理厂他问我:下摆臂在哪儿?这大概是多数车主的真实状态:车开了好几年,除了加油和加......",
+      "source": "Smzdm",
+      "date": "2026-09-21",
+      "url": "https://post.smzdm.com/p/al3l0q8e/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgx9739/",
+      "title": "16.99万!红旗天工07开启预售,可选730km续航、530kW双电机!",
+      "summary": "一汽红旗在9月21日预售了一款全新的纯电车型——天工07,该车型分为三个版本——640km 后驱Max、730km 后驱Ultra、680km 四驱Ultra,预售价格分别为18.99万元、19.49万元和21.99万元,限时权益价为16.99万元、17......",
+      "source": "Smzdm",
+      "date": "2026-09-21",
+      "url": "https://post.smzdm.com/p/avgx9739/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-21/4587731.html",
+      "title": "“成绩与隐忧并存”!行业热议新车平均毛利率-21.4%:汽车产业竞争应回归价值本质,出海要“站得住、回得来”",
+      "summary": "“成绩与隐忧并存”!行业热议新车平均毛利率-21.4%:汽车产业竞争应回归价值本质,出海要“站得住、回得来”...",
       "source": "Nbd_Cn",
-      "date": "2026-09-20",
-      "url": "https://www.nbd.com.cn/articles/2026-09-20/4586734.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876858677762128458",
-      "title": "2026世界制造业大会|空天地海“全员集结”!20..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-20",
-      "url": "http://baijiahao.baidu.com/s?id=1876858677762128458"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1789883837129900.html",
-      "title": "闪充智行亮相2026重庆摩博会:以“生态跃迁”改写两轮动力出行格局",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-20",
-      "url": "https://www.bjnews.com.cn/detail/1789883837129900.html"
+      "date": "2026-09-21",
+      "url": "https://www.nbd.com.cn/articles/2026-09-21/4587731.html"
     },
     {
       "id": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms",
