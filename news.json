@@ -1,197 +1,153 @@
 {
-  "lastUpdated": "2026-09-23 04:25:57",
-  "totalCount": 30,
+  "lastUpdated": "2026-09-24 04:23:08",
+  "totalCount": 24,
   "sources": {
-    "Bilibili": 5,
     "Rednet_Cn": 1,
-    "21Jingji": 2,
-    "News_Baidu": 6,
-    "Prnasia": 2,
-    "Chinanews": 1,
-    "Smzdm": 3,
-    "Ithome": 1,
+    "News_Baidu": 7,
+    "Smzdm": 6,
+    "21Jingji": 1,
+    "Breitbart News Network": 1,
     "Siliconrepublic.com": 1,
     "Times of India": 1,
     "Business Today": 1,
     "The Straits Times": 2,
     "Malay Mail": 1,
     "The Star": 1,
-    "Devdiscourse": 1,
-    "ANI (Asian News International)": 1
+    "Devdiscourse": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-09-23",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-09-23",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-23",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-23",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1VEpuewESk",
-      "title": "【B站】这才是科研人该学的！一口气学完自动驾驶八大算法-环境感知、目标检测、语义分割、强化学习、决策与控制算法！原理到实战，太通俗易懂了！机器学习|深度学习|计算机视觉",
-      "summary": "如果你是自学自动驾驶，你需要学一些常见的自动驾驶算法：\r\n环境感知算法、目标检测算法、语义分割算法、深度学习算法（像 R-CNN、YOLO、SSD）点云处理算法、定位与建图算法、路径规划算法、决策与控制算法（基于规则的决策算法、强化学习算法、模型预测控制（MPC）算法）！\r\n本套教程是算法原理+实战...",
-      "source": "Bilibili",
-      "date": "2026-09-23",
-      "url": "https://www.bilibili.com/video/BV1VEpuewESk"
-    },
-    {
-      "id": "https://yz.rednet.cn/content/646043/66/16305235.html",
-      "title": "江华:交通安全进社区 安全礼包护团圆_江华_永州站",
+      "id": "https://yz.rednet.cn/content/646043/67/16309868.html",
+      "title": "永州疾控:2026年中秋、国庆假期健康防护提示_健康_永州站",
       "summary": "NewsData报道",
       "source": "Rednet_Cn",
-      "date": "2026-09-22",
-      "url": "https://yz.rednet.cn/content/646043/66/16305235.html"
+      "date": "2026-09-23",
+      "url": "https://yz.rednet.cn/content/646043/67/16309868.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20260922/herald/84faa24c4d8650c7a3bd9000684c9047.html",
-      "title": "中国超1200万辆营运车辆搭载北斗系统",
+      "id": "http://baijiahao.baidu.com/s?id=1877083062518053783",
+      "title": "瞭望|“六张网”夯实发展基座",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-23",
+      "url": "http://baijiahao.baidu.com/s?id=1877083062518053783"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az86znoo/",
+      "title": "真实自用长测——智界R7的一年总结",
+      "summary": "【长文警告:全文大约8300多字】我的智界R7到现在为止也已经提了将近一年,里程也有小2万公里了,从购车到新能源使用的心得,应该能给大家提供一些有用的信息,今天就先给大家分享一下购车的过程和这台车本身......",
+      "source": "Smzdm",
+      "date": "2026-09-23",
+      "url": "https://post.smzdm.com/p/az86znoo/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgx9l29/",
+      "title": "腾势Z9S正式上市,25.58万元-32.58万元,还有1100km纯电续航",
+      "summary": "作为腾势开启超奢新体验的关键一环,腾势Z9S以科技解锁新豪华,有着诸如易三方、AI超级智能体迪迪虾、Diva智能伙伴、天神之眼5.0、云辇-A智能空气车身控制系统等等拳头技术。还很靠谱的提供了闪充尊荣型、闪充旗舰型、易三方闪充性能型三款,各有所长,价位区......",
+      "source": "Smzdm",
+      "date": "2026-09-23",
+      "url": "https://post.smzdm.com/p/avgx9l29/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877108112061963406",
+      "title": "花小猪联手飞猪旅行组成\"猪猪CP&quo..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-23",
+      "url": "http://baijiahao.baidu.com/s?id=1877108112061963406"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqv9lex/",
+      "title": "以科技解锁新豪华|腾势Z9S,25.58万起把豪华车卷到了续航和智能",
+      "summary": "如果一台车既要有豪华感,又要有科技感,还得兼顾日常使用的便利性,其实并不是一件特别容易的事情。但这次腾势Z9S给我的感觉比较直接:它并不是单纯堆配置,而是想把豪华这件事,从过去比较抽象的质感和仪式感,......",
+      "source": "Smzdm",
+      "date": "2026-09-23",
+      "url": "https://post.smzdm.com/p/apqv9lex/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260923/herald/a853d7013a01e7e15891e534a025279a.html",
+      "title": "一度电多跑一公里!东莞材料所携手广汽实现非晶电驱产业化落地",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-22",
-      "url": "https://www.21jingji.com/article/20260922/herald/84faa24c4d8650c7a3bd9000684c9047.html"
+      "date": "2026-09-23",
+      "url": "https://www.21jingji.com/article/20260923/herald/a853d7013a01e7e15891e534a025279a.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20260923/f3a876abc939e00cafd11e7fb9e9bfe8.html",
-      "title": "对话新思科技CEO:回应供应链关切 看好中国物理AI机遇",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-22",
-      "url": "https://www.21jingji.com/article/20260923/f3a876abc939e00cafd11e7fb9e9bfe8.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877045060274101820",
-      "title": "北斗产业加速迈向万亿级规模 “北斗+”融合打开成长..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-22",
-      "url": "http://baijiahao.baidu.com/s?id=1877045060274101820"
-    },
-    {
-      "id": "https://www.prnasia.com/story/549069-1.shtml",
-      "title": "沙特王储殿下发布 CEER 旗舰车型,进一步巩固沙特在全球汽车产业中的地位",
-      "summary": "CEER 的 EXOBOT 电动轿车和 SUV 凝聚沙特创新精神与国家雄心,融合前瞻设计、先进技术、卓越性能和非凡驾乘体验。 这些车型在沙特设计、研发和制造,是 CEER 旗舰车型,属于未来五年内将推出的更广泛车型阵容的一部分。 沙特阿拉伯吉达 2026年9月22日 /美通社/ -- 沙特王储、首相兼公共投资基金(PIF)董事会主席穆罕默德•本•萨勒曼•本•阿卜杜勒阿齐兹•阿勒沙特殿下正式揭晓 E...",
-      "source": "Prnasia",
-      "date": "2026-09-22",
-      "url": "https://www.prnasia.com/story/549069-1.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1876995612662598832",
-      "title": "“十五五”时期,粮食产业年工业总产值有望超4.5万..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-22",
-      "url": "http://baijiahao.baidu.com/s?id=1876995612662598832"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877025747372441199",
-      "title": "北京划定未来三年AI+信息通信融合发展路径",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-22",
-      "url": "http://baijiahao.baidu.com/s?id=1877025747372441199"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877042389092000079",
-      "title": "一座城与一批全球行业巨头的二十年:从“在重庆制造”..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-22",
-      "url": "http://baijiahao.baidu.com/s?id=1877042389092000079"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877043839327446886",
-      "title": "近期这些社会关切,国家发改委逐一回应",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-22",
-      "url": "http://baijiahao.baidu.com/s?id=1877043839327446886"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/09-22/10701865.shtml",
-      "title": "中德汽车业界海口话“共赢”:国际合作至关重要",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-09-22",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701865.shtml"
-    },
-    {
-      "id": "https://www.prnasia.com/story/549061-1.shtml",
-      "title": "Waymo 联席首席执行官 Tekedra Mawakana 将在 CES 2027 发表主题演讲",
-      "summary": "Waymo 分享自动驾驶网约车服务的未来愿景 旧金山 2026年9月22日 /美通社/ -- 拥有并制作 CES® 的消费者技术协会 (CTA)® 宣布,Waymo 联席首席执行官 Tekedra Mawakana 将在 CES 2027 发表主题演讲。Waymo 是技术从新奇事物转变为日常必需实用工具的有力例证。其自动驾驶车辆每周提供超过 50 万次行程,Waymo 已在运营社区改善道路安全,并...",
-      "source": "Prnasia",
-      "date": "2026-09-22",
-      "url": "https://www.prnasia.com/story/549061-1.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a950ro27/",
-      "title": "涨价 9 万?岚图梦想家 9 凭什么敢卖 41.99 万元",
-      "summary": "2022 年 5 月,第一代梦想家上市的时候,高端 MPV 市场还是另一副样子。那时 GL8 依然是这个市场绕不开的名字,赛那刚刚国产不久,新能源 MPV 几乎还是一片空白。梦想家带着相当高的规格进入......",
+      "id": "https://post.smzdm.com/p/ae6v2m5m/",
+      "title": "限时先享价9.78万起!全新吉利银河E5上市:全球AI智充SUV来了",
+      "summary": "9月23日,全新吉利银河E5正式全球上市。这段时间在看10-15万级纯电SUV的人,估计都绕不开这台车。说实话,这个价位堆配置早已不是新鲜事,但这次银河E5的路子不太一样:它不是在现有基础上加点舒适配......",
       "source": "Smzdm",
-      "date": "2026-09-22",
-      "url": "https://post.smzdm.com/p/a950ro27/"
+      "date": "2026-09-23",
+      "url": "https://post.smzdm.com/p/ae6v2m5m/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877012196182788984",
-      "title": "多重规范,却管不住APP“摇一摇”跳转乱象“10次..",
+      "id": "http://baijiahao.baidu.com/s?id=1877131089338290446",
+      "title": "述评|推动中美关系大船平稳前行",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-22",
-      "url": "http://baijiahao.baidu.com/s?id=1877012196182788984"
+      "date": "2026-09-23",
+      "url": "http://baijiahao.baidu.com/s?id=1877131089338290446"
     },
     {
-      "id": "https://post.smzdm.com/p/apqvnpdx/",
-      "title": "穿洞洞鞋开车卡油门飙到76码两个女生亲身经历给你敲警钟",
-      "summary": "重庆一名女子穿洞洞鞋驾车途中发生车祸。洞洞鞋卡在油门与刹车之间,车辆持续加速无法减速。事故导致车身受损,所幸驾驶人仅受擦伤,她随后发帖警示网友。江苏张女士也遭遇类似险情:她穿厚底洞洞鞋倒车出车位时,鞋......",
+      "id": "http://baijiahao.baidu.com/s?id=1877131539171188650",
+      "title": "科技豪华智能轿车腾势Z9S正式上市,纯电续航110..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-23",
+      "url": "http://baijiahao.baidu.com/s?id=1877131539171188650"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1876915291652065423",
+      "title": "预算来到30万以内,沃尔沃S90适合25-30万轿..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-23",
+      "url": "http://baijiahao.baidu.com/s?id=1876915291652065423"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877110178894547753",
+      "title": "「天眼问政」贵阳上麦路:二十余辆手推车“锁死”公共..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-23",
+      "url": "http://baijiahao.baidu.com/s?id=1877110178894547753"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877124492756247632",
+      "title": "银河航天董事长兼CEO徐鸣:卫星互联网成为太空经济..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-23",
+      "url": "http://baijiahao.baidu.com/s?id=1877124492756247632"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrmv827/",
+      "title": "20万纯电SUV标配后轮转向+线控底盘,这三款谁更值?",
+      "summary": "20万出头的纯电SUV,现在能买到的技术底子越来越硬。但选起来也头疼——都是800V、都是智能驾驶、都是大五座,表面上参数差不多,实际上各家打法和侧重点差得挺远。尤其是全新智己LS6刚开启预售,20.......",
       "source": "Smzdm",
-      "date": "2026-09-22",
-      "url": "https://post.smzdm.com/p/apqvnpdx/"
+      "date": "2026-09-23",
+      "url": "https://post.smzdm.com/p/aqrmv827/"
     },
     {
-      "id": "https://post.smzdm.com/p/anv36kn0/",
-      "title": "日产新N7上市,起售价降至10.99万,激光雷达版12.99万",
-      "summary": "10.99万起是真的,这回日产新N7不仅加量,还真降价了。9月22日新N7正式上市,限时权益价直接拉到10.99万-14.69万元,相比老款11.99万的起售门槛,硬生生降了1万块。此前不少人预测这次改款会“加量不加价”,但日产最终选择了增配和降价双管齐......",
+      "id": "https://post.smzdm.com/p/aom93pgr/",
+      "title": "19.79万!全新智己LS6上市,全系线控底盘、四轮转向!",
+      "summary": "上汽智己在9月23日晚上推出了全新的LS6,该车型分为三个版本——Max、Pro Max、Ultra,上市权益价分别为19.79万元、21.79万元、25.99万元。尺寸方面,全新智己LS6的长宽高分......",
       "source": "Smzdm",
-      "date": "2026-09-22",
-      "url": "https://post.smzdm.com/p/anv36kn0/"
+      "date": "2026-09-23",
+      "url": "https://post.smzdm.com/p/aom93pgr/"
     },
     {
-      "id": "https://www.ithome.com/1/005/982.htm",
-      "title": "岚图汽车邵明峰:与华为最好的合作是强强联合,君子和而不同",
-      "summary": "IT之家 9 月 22 日消息,据第一财经,岚图汽车 CBO、销售公司总经理邵明峰在今天(22 日)晚间的媒体群访中,谈到了对车企与华为合作的看法。 邵明峰重申,最好的合作是强强联合, 华为乾崑的辅助驾驶系统和岚图的制造技术 就是一个例子;君子和而不同,这是双方能够良好合作的前提基础,“岚图和华为各有优势和企业价值观,和而不同是一个比较好的合作模式。” 邵明峰曾在今年 8 月的直播中表示,当前市场...",
-      "source": "Ithome",
-      "date": "2026-09-22",
-      "url": "https://www.ithome.com/1/005/982.htm"
+      "id": "https://www.breitbart.com/tech/2026/09/23/aurora-tests-autonomous-semi-truck-in-texas-aims-to-replace-human-drivers/",
+      "title": "Aurora Tests Autonomous Semi Truck in Texas, Aims to Replace Human Drivers",
+      "summary": "CNBC's Phil LeBeau spent more than three hours riding in an autonomous semi truck through Texas, watching the vehicle navigate highway traffic with nobody behind the wheel. Some experts believe 3.5 mi...",
+      "source": "Breitbart News Network",
+      "date": "2026-09-23",
+      "url": "https://www.breitbart.com/tech/2026/09/23/aurora-tests-autonomous-semi-truck-in-texas-aims-to-replace-human-drivers/"
     },
     {
       "id": "https://www.siliconrepublic.com/machines/ireland-europe-robotaxi-geotab-edward-kulperger",
       "title": "Geotab SVP on the future of robotaxis in Europe",
-      "summary": "Geotab EMEA SVP Edward Kulperger on autonomous vehicle training and safety and the future of driving on Irish roads....",
+      "summary": "Geotab EMEA SVP Edward Kulperger on autonomous vehicle training and safety, and the future of driving on Irish roads....",
       "source": "Siliconrepublic.com",
       "date": "2026-09-22",
       "url": "https://www.siliconrepublic.com/machines/ireland-europe-robotaxi-geotab-edward-kulperger"
@@ -251,14 +207,6 @@
       "source": "The Straits Times",
       "date": "2026-09-18",
       "url": "https://www.straitstimes.com/singapore/transport/waymos-driverless-ride-share-cars-to-start-offering-services-in-singapore-in-2028"
-    },
-    {
-      "id": "https://www.aninews.in/news/national/general-news/ministry-of-power-launches-8220special-campaign-68221-to-institutionalise-swachhata-and-minimise-pendency20260917212306/",
-      "title": "6” to institutionalise Swachhata and minimise pendency",
-      "summary": "Bolstering the Government of India's push to institutionalise cleanliness and curb official pendency, the Ministry of Power and its associated entities, including autonomous bodies and Central Public ...",
-      "source": "ANI (Asian News International)",
-      "date": "2026-09-17",
-      "url": "https://www.aninews.in/news/national/general-news/ministry-of-power-launches-8220special-campaign-68221-to-institutionalise-swachhata-and-minimise-pendency20260917212306/"
     }
   ]
 }
