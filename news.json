@@ -1,15 +1,13 @@
 {
-  "lastUpdated": "2026-09-25 04:34:06",
-  "totalCount": 34,
+  "lastUpdated": "2026-09-26 04:38:11",
+  "totalCount": 23,
   "sources": {
-    "Bilibili": 5,
-    "News_Baidu": 4,
-    "Imobile": 1,
-    "Fx168News": 2,
-    "Smzdm": 9,
-    "Pcauto_Cn": 1,
-    "21Jingji": 2,
-    "Chinanews": 1,
+    "Smzdm": 3,
+    "News_Baidu": 6,
+    "Wallstreetcn": 2,
+    "Buletinmutiara": 1,
+    "Chinanews": 2,
+    "The London Free Press": 1,
     "FreightWaves": 1,
     "Breitbart News Network": 1,
     "Siliconrepublic.com": 1,
@@ -17,209 +15,128 @@
     "Business Today": 1,
     "The Straits Times": 1,
     "Malay Mail": 1,
-    "The Star": 1,
-    "Devdiscourse": 1
+    "The Star": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/apqverox/",
+      "title": "赛道追速度，镜头藏激情：佳能五台新机场景指南",
+      "summary": "做车圈自媒体，设备不是拿来炫耀的，是拿来救场的。车展走一天，肩膀先酸；赛道边蹲半天，赛车一脚油门就过去了；竖屏直播到一半，机器过热提醒弹出来；商单交片前，发现后期调色空间不够。这些事比想选题还磨人。9......",
+      "source": "Smzdm",
       "date": "2026-09-25",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+      "url": "https://post.smzdm.com/p/apqverox/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-09-25",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-25",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-25",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1QNee6iE1S",
-      "title": "【B站】自动驾驶元年喊了十年，为什么我说这次是真的？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-25",
-      "url": "https://www.bilibili.com/video/BV1QNee6iE1S"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877222261865341967",
-      "title": "大兴安岭国道游客下车与野熊合影被咬，当地提醒：严禁..",
+      "id": "http://baijiahao.baidu.com/s?id=1877115526449351196",
+      "title": "比亚迪运动轿车全能新作 方程S系列上市售价18.9..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-24",
-      "url": "http://baijiahao.baidu.com/s?id=1877222261865341967"
+      "date": "2026-09-25",
+      "url": "http://baijiahao.baidu.com/s?id=1877115526449351196"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877230816773235914",
-      "title": "政前方观察｜“贵州环保行”启动，看各地如何“典”亮..",
+      "id": "http://baijiahao.baidu.com/s?id=1877318258176816986",
+      "title": "给机器人攒“经验”：上海这家企业探索物理AI众包数..",
+      "summary": "人工智能正加快走进物理世界。相比已经拥有海量文字、图片和视频“教材”的大模型，具身智能还面临一道更基础的难题：人类每天随手完成的抓、拿、拧、放，怎样变成机器真正能学会的数据？ 近日，上海企业觅蜂科技......",
+      "source": "News_Baidu",
+      "date": "2026-09-25",
+      "url": "http://baijiahao.baidu.com/s?id=1877318258176816986"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877239310396966015",
+      "title": "谷歌TPU，下周出发去太空",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-24",
-      "url": "http://baijiahao.baidu.com/s?id=1877230816773235914"
+      "date": "2026-09-25",
+      "url": "http://baijiahao.baidu.com/s?id=1877239310396966015"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0924/235650.shtml",
-      "title": "双车齐发！面面S级的方程S与S GT正式上市18.99万起",
-      "summary": "9月16日，方程豹旗下全场景多形态个性轿车——方程S&S GT双车型于上海正式上市，方程S售价18.99万-22.99万，方程S GT售价21.99万-23.99万。作为2026年度最受关注的全能轿车，方程S系列价值拉满，诚意拉满。 现在购买方程S系列还可享受十一重惊喜好礼，包括限时下定权益、价值18000元的购车权益、价值2999元的迪迪虾权益、一年内免费闪充权益（2026年9月16日19:00...",
-      "source": "Imobile",
-      "date": "2026-09-24",
-      "url": "http://news.imobile.com.cn/articles/2026/0924/235650.shtml"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1097053",
-      "title": "Aurora Innovation Inc(AUR)股票9月24日盘中下跌8.78%：真相来了-FX168",
-      "summary": "Aurora Innovation Inc (AUR) 盘中下跌8.78%, 所属行业软件与信息技术服务上涨0.05% ,公司涨幅跑输行业涨幅，行业成交额前三股票 Meta Platforms Inc (META) 上涨 2.44%；甲骨文 (ORCL) 下跌 4.67%；谷歌-A (GOOGL) 上涨 0.75%。 今日是什么导致了Aurora Innovation Inc(AUR)股价下跌？ ...",
-      "source": "Fx168News",
-      "date": "2026-09-24",
-      "url": "https://www.fx168news.com/article/1097053"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggqepow/",
-      "title": "胶套120、摆臂180、压一套工时另算：老车底盘一响，先分清换胶套还是换摆臂",
-      "summary": "天一凉，老车党论坛和短视频评论区里出现频率最高的词从\"漏油\"变成了\"异响\"。过减速带一声\"哐\"，烂路\"咯吱\"作响，方向盘底下松松垮垮——修理厂一句话：底盘该整备了。这句话背后藏着三个真问题：响的是哪个......",
+      "id": "https://post.smzdm.com/p/a5ro6x4k/",
+      "title": "华为第二“境”首车开卖！限时27.98万：最好的华为在奕境",
+      "summary": "华为乾崑第二“境”首车来了。奕境高管：奕境将永远和华为站在一起。9月24日，奕境汽车在广州举办发布会，旗舰SUV车型奕境X9正式上市。这一次奕境 X9 一共带来四款增程车型：增程 Max 长续航：28.98 万元增程 四驱 Ultra：29.98 万元增......",
       "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/aggqepow/"
+      "date": "2026-09-25",
+      "url": "https://post.smzdm.com/p/a5ro6x4k/"
     },
     {
-      "id": "https://post.smzdm.com/p/am98lrnp/",
-      "title": "值有剧透｜《复仇者联盟3》他赢了，然后一个人坐在门口看日出",
-      "summary": "⚠️全文重度终极剧透，包含结局、反转、人物最终归宿。未看完作品请立即退出，点入即默认接受剧透。📌 复联 4 速刷功课剧单 · 第 9 期／共 9 期｜本期：《复仇者联盟 3：无限战争》（2018）／1......",
-      "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/am98lrnp/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03qpld8/",
-      "title": "大火之后，上赛的第二波舆论至今没人回话：证据邮件石沉大海，这周末管场子的人换了一茬",
-      "summary": "先把一个容易搞混的事实摆正：这周末的上赛，不是 ChinaGT 的比赛9月25-27日，上海国际赛车场的压轴大戏是「上海8小时耐力赛」：25日练习日、26日自由练习+排位赛、27日正赛。而9月5日那场......",
-      "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/a03qpld8/"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5183/51834162.html",
-      "title": "第十一届汽车电磁兼容技术大会成功召开",
-      "summary": "小米澎程N90 Max、风云A9、银河战舰700、别克至境E7四款车型荣获2026年电磁防护年度车型。...",
-      "source": "Pcauto_Cn",
-      "date": "2026-09-24",
-      "url": "http://www.pcauto.com.cn/news/5183/51834162.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwz2vgg/",
-      "title": "“厂长三年实测”的卡赫洗地机对比文忘了删AI绘图指令：这场卡赫vs国产的论战，两边举旗的都是卖货的",
-      "summary": "一篇自称\"我们厂三年用了三台洗地机\"的知乎长文，今天开始在清洁设备圈被转来转去。文章先夸卡赫\"九十年品牌信任\"，再话锋一转，落到某个国产品牌的具体型号上，最后算出一笔\"国产五年总成本只有进口50%-6......",
-      "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/awwz2vgg/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877225857535128632",
-      "title": "在那个路口的车流里，我们永远记得他的身影丨闵行情",
-      "summary": "一切向前走都不能忘记走过的路走得再远 走到再光辉的未来也不能忘记为什么出发“发现闵行之美”系列丛书诵读活动的第四十季，我们邀请了闵行区碧江路小学的学生来诵读《岁月有痕辑·不能忘却的纪念》。今天，你将听到的是《青春许以一身...",
+      "id": "http://baijiahao.baidu.com/s?id=1877316473209820296",
+      "title": "“特”别守护，绷紧安全弦！这份特种设备安全提示请查..",
+      "summary": "节假日期间，化工区特种设备运行面临生产节奏调整、人员轮岗值守、设备高负荷连续运行等多重考验。为确保世界技能大赛、中秋、国庆期间特种设备安全平稳运行，请各特种设备使用单位时刻绷紧安全弦，严格落实主体责......",
       "source": "News_Baidu",
-      "date": "2026-09-24",
-      "url": "http://baijiahao.baidu.com/s?id=1877225857535128632"
+      "date": "2026-09-25",
+      "url": "http://baijiahao.baidu.com/s?id=1877316473209820296"
     },
     {
-      "id": "https://post.smzdm.com/p/awwz2482/",
-      "title": "早鸟69、礼盒票349限量5000份、现场一番赏68一抽：EVA30周年展今日上海开展——首日戒指售罄、收银排队一小时起...",
-      "summary": "「不能逃」这句台词，EVA粉丝玩了三十年梗。2026年9月24日，它有了实体版：「新世纪福音战士30周年纪念活动」（The 30th Anniversary of EVANGELION in China）在上海新世界城11F的E展空间开展，一直办到202......",
-      "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/awwz2482/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzqmngq/",
-      "title": "燃油车老司机告诉你，不得不知的开车神器之：奥睿科真空磁吸支架",
-      "summary": "燃油车老司机告诉你，不得不知的开车神器之：奥睿科真空磁吸支架一周7天，牛马一族每天都奔波在上班高峰路上。这其中有辛酸，有快乐，有满足，有惊喜。而对于开车一族来讲，保持开车注意力集中，不走神，老司机告诉你，千万别低头看手机。要是实在没办法，那你就备上一款好......",
-      "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/arzqmngq/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260924/herald/dec6e16631548d3217aa34e017ac0c95.html",
-      "title": "古祠戴AI眼镜，稻田开音乐会！双节来广州有你好玩的！",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-24",
-      "url": "https://www.21jingji.com/article/20260924/herald/dec6e16631548d3217aa34e017ac0c95.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qpgo57/",
-      "title": "家里在禁产，美国在扩产：同一个老头乐，两副面孔",
-      "summary": "九月的两条新闻，说的是同一辆车9月21日，齐鲁晚报的报道让老头乐产业圈炸了锅：江苏徐州和鲁西南部分地区，厂家已被限制生产低速电动四轮车。下游先感受到寒意——一家电动车座椅配件厂订单少了三分之一，保险杠厂掉了两到三成。从整车厂到配件厂，从经销商到车主，这个......",
-      "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/a4qpgo57/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al3lk6p8/",
-      "title": "混动燃油双动力 吉利全新第四代博越L上市：9.29万起",
-      "summary": "快科技9月24日消息，吉利第四代博越L正式上市，共推出9款配置车型，涵盖燃油和混动两种动力。其中燃油版提供5款车型，官方指导价9.99-12.99万元，上市限时价为9.29万-12.29万元；混动版共......",
-      "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/al3lk6p8/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877225092601600563",
-      "title": "全球新能源汽车迈入全面市场化新阶段 中国成为产业链..",
+      "id": "http://baijiahao.baidu.com/s?id=1877308925948593405",
+      "title": "分不清“嫦娥”是真人还是机器人？中秋亲子打卡数贸会",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-24",
-      "url": "http://baijiahao.baidu.com/s?id=1877225092601600563"
+      "date": "2026-09-25",
+      "url": "http://baijiahao.baidu.com/s?id=1877308925948593405"
     },
     {
-      "id": "https://www.fx168news.com/article/1097032",
-      "title": "佰维存储：UG INVESTMENT、博时国际等多家机构于9月16日调研我司-FX168",
-      "summary": "证券之星消息，2026年9月24日佰维存储（688525）发布公告称UG INVESTMENTKevin Yang Sharon Chen、博时国际Park JaeKyun Park Taejin 肖骁、中泰证券王峙博、Capital InternationalArchana Basi Akira Shiraishi Arthur Caye Eric Tse Gerald Du Manoir Li...",
-      "source": "Fx168News",
-      "date": "2026-09-24",
-      "url": "https://www.fx168news.com/article/1097032"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260924/herald/76e603b1430939ddab9ecc99dab50d95.html",
-      "title": "产量登顶后，重庆汽车产业迎来下半场考验",
+      "id": "https://wallstreetcn.com/articles/3782568",
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月26日",
       "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-24",
-      "url": "https://www.21jingji.com/article/20260924/herald/76e603b1430939ddab9ecc99dab50d95.html"
+      "source": "Wallstreetcn",
+      "date": "2026-09-25",
+      "url": "https://wallstreetcn.com/articles/3782568"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/09-24/10703430.shtml",
-      "title": "中汽测评牵头开展多项国际联合攻关",
-      "summary": "中新网北京9月24日电 (陈昊星)2026中汽测评海外技术研讨会暨CATC-ITEC第五次会议日前在德国因戈尔施塔特举行。来自中欧汽车行业的150余位专家围绕汽车安全、智能网联、低碳可持续、先进装备等领域展开交流，并推动多项联合研究项目落地。...",
+      "id": "https://www.buletinmutiara.com/%E5%AE%9C%E5%B1%85%E5%8C%BA/",
+      "title": "峇都加湾蓬勃发展 首长：全民携手打造宜居社区",
+      "summary": "槟州首长曹观友表示，近年来威南峇都加湾发展迅速，随着工业区不断扩展，越来越多企业前来投资，也带动人口、住宅和商业活动增长。 他说，这些发展为峇都加湾带来更多就业机会，也让这里逐渐成为槟州其中一处重要的发展重地，这无疑为槟州的未来奠下更稳定基础。 不过，他认为，发展不只是兴建工厂、住家、商店和道路等硬体设施，更要让人民拥有更好的生活环境，在衣食住行、教育及年轻人的出路等方面，都做到最好。 他强调，要...",
+      "source": "Buletinmutiara",
+      "date": "2026-09-25",
+      "url": "https://www.buletinmutiara.com/%E5%AE%9C%E5%B1%85%E5%8C%BA/"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3782552",
+      "title": "拖了近10年，特斯拉Semi终于量产！",
+      "summary": "NewsData报道",
+      "source": "Wallstreetcn",
+      "date": "2026-09-25",
+      "url": "https://wallstreetcn.com/articles/3782552"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6z0npdn/",
+      "title": "高反专挑身体好的下手？对完4篇国庆前的川西高反实录，比红景天管用的是行程表",
+      "summary": "中秋国庆13天连休已经开场，川西话题下两类帖子正在同时刷屏：一类是\"接下来的川西，是史诗级的秋天\"，雪山彩林日照金山；另一类是高反实录，评论区里全是\"30号康定天气蹲一个\"“格聂呢”“四姑娘山预测如何......",
+      "source": "Smzdm",
+      "date": "2026-09-25",
+      "url": "https://post.smzdm.com/p/a6z0npdn/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877286654330036656",
+      "title": "哈伊高铁进入通车倒计时",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-25",
+      "url": "http://baijiahao.baidu.com/s?id=1877286654330036656"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/09-25/10703928.shtml",
+      "title": "事关假期出游、自驾等，最新安全提示→",
+      "summary": "国务院安委会办公室、国家防减救灾委办公室、应急管理部24日召开新闻发布会，相关负责人介绍，中秋国庆双节自驾出行时，要提前做好天气、路况等风险研判。复杂路段避免使用智能驾驶。...",
       "source": "Chinanews",
-      "date": "2026-09-24",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703430.shtml"
+      "date": "2026-09-25",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-25/10703928.shtml"
     },
     {
-      "id": "https://post.smzdm.com/p/aom938wm/",
-      "title": "阿拉善开幕还有7天，激光雷达\"攻进\"越野圈：2万-4万的选装钱，是给沙地还是公路花的？",
-      "summary": "9月22日，红旗首款硬派越野G919开启预售，35.98万-43.98万，媒体报道的清单里有384线激光雷达、四电机、非承载车身。9月23日，传祺越7在敦煌上市，权益价16.18万元起，顶着192线激光雷达进了\"泛越野\"的门。知乎行摄漫记同一周，鸿蒙智行......",
-      "source": "Smzdm",
-      "date": "2026-09-24",
-      "url": "https://post.smzdm.com/p/aom938wm/"
+      "id": "https://www.chinanews.com.cn/cj/2026/09-25/10703850.shtml",
+      "title": "中秋遇上数贸会 科技风潮点亮假日新生活",
+      "summary": "中新网杭州9月25日电(奚金燕)近距离感受灵巧手的精密操控、与陪伴机器人实时对话、在朱雀三号运载火箭模型前打卡留念……25日，中秋假期首日，第五届全球数字贸易博览会迎来观展高峰。...",
+      "source": "Chinanews",
+      "date": "2026-09-25",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703850.shtml"
+    },
+    {
+      "id": "https://lfpress.com/press-releases/globe-newswire/monaco-smart-and-sustainable-marina-awards/",
+      "title": "Monaco Smart and sustainable marina awards",
+      "summary": "Monaco awards technologies driving the future of sustainable marinasMONACO, Sept. 25, 2026 (GLOBE NEWSWIRE) -- From autonomous charging for electric boats...",
+      "source": "The London Free Press",
+      "date": "2026-09-25",
+      "url": "https://lfpress.com/press-releases/globe-newswire/monaco-smart-and-sustainable-marina-awards/"
     },
     {
       "id": "https://www.freightwaves.com/news/einride-nvidia-hyperion-autonomous-trucking",
@@ -260,6 +177,30 @@
       "source": "Business Today",
       "date": "2026-09-20",
       "url": "https://www.businesstoday.in/world/story/market-forces-cant-guarantee-ai-safety-obama-warns-profit-motives-driving-premature-ai-deployment-556669-2026-09-20"
+    },
+    {
+      "id": "https://www.straitstimes.com/singapore/singapore-uae-team-wins-autonomous-car-race-in-italy-on-third-attempt",
+      "title": "NTU team wins first international autonomous car race",
+      "summary": "NTU-led Team Kinetiz wins first international autonomous car race in Italy, showcasing advanced AI and autonomous driving technology. Read more at straitstimes.com....",
+      "source": "The Straits Times",
+      "date": "2026-09-19",
+      "url": "https://www.straitstimes.com/singapore/singapore-uae-team-wins-autonomous-car-race-in-italy-on-third-attempt"
+    },
+    {
+      "id": "https://www.malaymail.com/news/singapore/2026/09/18/alphabets-waymo-to-deploy-fully-autonomous-ridehailing-service-in-singapore-in-2028/235681",
+      "title": "Alphabet’s Waymo to deploy fully autonomous ride‑hailing service in Singapore in 2028",
+      "summary": "SINGAPORE, Sept 18 — Alphabet’s autonomous‑driving company Waymo said today it will launch a fully driverless ride‑hailing service in Singapore in 2028, marking its first......",
+      "source": "Malay Mail",
+      "date": "2026-09-18",
+      "url": "https://www.malaymail.com/news/singapore/2026/09/18/alphabets-waymo-to-deploy-fully-autonomous-ridehailing-service-in-singapore-in-2028/235681"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/09/18/waymo-to-bring-autonomous-ride-hailing-to-singapore-in-2028",
+      "title": "Waymo to bring autonomous ride-hailing to Singapore in 2028",
+      "summary": "SINGAPORE, Sept 18 (Reuters) - ⁠Alphabet's autonomous driving unit Waymo will roll ⁠out its autonomous all-electric ride-hailing service in Singapore by ‌2028, Waymo announced on Friday, marking its f...",
+      "source": "The Star",
+      "date": "2026-09-18",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/18/waymo-to-bring-autonomous-ride-hailing-to-singapore-in-2028"
     }
   ]
 }
