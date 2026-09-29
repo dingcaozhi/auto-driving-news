@@ -1,142 +1,190 @@
 {
-  "lastUpdated": "2026-09-28 04:59:31",
-  "totalCount": 24,
+  "lastUpdated": "2026-09-29 05:24:47",
+  "totalCount": 27,
   "sources": {
-    "Smzdm": 5,
-    "Wallstreetcn": 1,
-    "21Jingji": 1,
-    "News_Baidu": 7,
-    "Jiemian": 1,
+    "Bilibili": 5,
+    "Smzdm": 8,
+    "21Jingji": 2,
+    "News_Baidu": 2,
+    "Investing_Cn": 1,
+    "The Manila Times": 1,
+    "MarketScreener": 1,
+    "EUROPE SAYS": 1,
     "The Hindu": 1,
     "The London Free Press": 1,
     "FreightWaves": 1,
     "Breitbart News Network": 1,
     "Siliconrepublic.com": 1,
-    "Times of India": 1,
-    "Business Today": 1,
-    "The Straits Times": 1,
-    "Malay Mail": 1
+    "Times of India": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/apqvkn6x/",
-      "title": "单飞后，半价“问界”来了！赛力斯官宣，全新轿跑SUV",
-      "summary": "赛力斯又要推出一款新车了，但这一次，故事和问界不太一样。9月26日，赛豆AIVA官宣，旗下首款量产车型ME7将于9月28日在法国巴黎正式亮相。活动名为“灵眸之夜”，主题是“第一次睁开双眼”。从官方海报......",
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-09-29",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-29",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-29",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-09-29",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1LMaj69EwF",
+      "title": "【B站】自动驾驶中，随时停车，请保持两米车距！",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-09-29",
+      "url": "https://www.bilibili.com/video/BV1LMaj69EwF"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a82x0xwn/",
+      "title": "吉利新车上市：9月29日继续开售，专享价11.88万起",
+      "summary": "9月29日消息，吉利系车型全新领克20目前已经上市开售。我个人还挺喜欢这台车的，因为它属于是入门即高配，很多新车起步价虽然低，但入门版配置很差，多项配置都有阉割，而这台12万级新车全系标配800V高压......",
       "source": "Smzdm",
-      "date": "2026-09-27",
-      "url": "https://post.smzdm.com/p/apqvkn6x/"
+      "date": "2026-09-28",
+      "url": "https://post.smzdm.com/p/a82x0xwn/"
     },
     {
-      "id": "https://post.smzdm.com/p/anv3g6op/",
-      "title": "鸿蒙智行突然官宣：9月30日，新车预售",
-      "summary": "9月27日最新消息，鸿蒙智行突然官宣，问界新M8确定将于9月30日开启预售。这段时间问界因为主导车企由华为改为塞力斯的缘故，外界出现了很多猜测，我也很好奇现在华为究竟对问界是什么样的一个态度。然而现在......",
+      "id": "https://post.smzdm.com/p/a26090qq/",
+      "title": "纯电续航852km！华为乾崑新车上市：9月29继续开售",
+      "summary": "带华为乾崑智驾的又一款新车开卖了，智界RX目前已经上市，9月29日我实测该车已经开启下定。它是鸿蒙智行首款以X命名、主打驾控的中大型纯电轿跑SUV，属于华为和奇瑞合作车型，余承东曾评价它是鸿蒙智行最好......",
       "source": "Smzdm",
-      "date": "2026-09-27",
-      "url": "https://post.smzdm.com/p/anv3g6op/"
+      "date": "2026-09-28",
+      "url": "https://post.smzdm.com/p/a26090qq/"
     },
     {
-      "id": "https://post.smzdm.com/p/am985z4k/",
-      "title": "奇瑞增程新车官宣：9月30日正式上市，纯电续航300公里",
-      "summary": "9月27日最新消息，奇瑞开始预热旗下增程车型了，目前奇瑞官宣iCAR V27长续航版将在9月30日正式上市，并且还放出了多项具体数据。上半年的时候奇瑞推出了iCAR V27，此次发布的是专门新增的长续......",
+      "id": "https://post.smzdm.com/p/apqv3zw7/",
+      "title": "上汽发布新车：9月28日正式上市，限时补贴价8.48万",
+      "summary": "预算不到10万元打算买车，往年我一般都更建议买油车或者混动车，不太推荐选纯电车，因为续航太低，但今年情况不一样。因为今年出现了多款纯电续航超过500km的低价纯电车，9月28上汽就行发布了一台MG4 ......",
       "source": "Smzdm",
-      "date": "2026-09-27",
-      "url": "https://post.smzdm.com/p/am985z4k/"
+      "date": "2026-09-28",
+      "url": "https://post.smzdm.com/p/apqv3zw7/"
     },
     {
-      "id": "https://wallstreetcn.com/articles/3782578",
-      "title": "华尔街见闻早餐FM-Radio | 2026年9月28日",
-      "summary": "NewsData报道",
-      "source": "Wallstreetcn",
-      "date": "2026-09-27",
-      "url": "https://wallstreetcn.com/articles/3782578"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260927/herald/73243acf14d543f843eb0392e265c18a.html",
-      "title": "佛山这个“未来街区”，把机器人、“二次元”都吸引来了",
+      "id": "https://www.21jingji.com/article/20260929/5368318ed1133851daf730c4b8693be4.html",
+      "title": "“产业雨林”生于沃野：跨越3000公里的中国农业调研",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-27",
-      "url": "https://www.21jingji.com/article/20260927/herald/73243acf14d543f843eb0392e265c18a.html"
+      "date": "2026-09-28",
+      "url": "https://www.21jingji.com/article/20260929/5368318ed1133851daf730c4b8693be4.html"
     },
     {
-      "id": "https://post.smzdm.com/p/aom9w5zn/",
-      "title": "比亚迪大汉EV将10月13日上市 预售24.99万起",
-      "summary": "近期自主品牌中大型纯电轿车市场热度持续攀升,不少车型都在续航、智能和底盘配置上全面升级,而比亚迪全新旗舰车型的动态一直备受车友关注。9月25日,比亚迪王朝网销售事业部总经理路天正式官宣,旗下全新D+级旗舰轿车大汉EV,将于10月13日迎来正式上市。这款新......",
+      "id": "http://baijiahao.baidu.com/s?id=1877571616391276991",
+      "title": "「长三角日报」张家齐签约的杭州MCN放出岗位，招聘..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-28",
+      "url": "http://baijiahao.baidu.com/s?id=1877571616391276991"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260929/d7ec5e6520461b3fdc212a9b4c4941c0.html",
+      "title": "21社论丨推动北斗产业加速迈向万亿级规模",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-28",
+      "url": "https://www.21jingji.com/article/20260929/d7ec5e6520461b3fdc212a9b4c4941c0.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgxzwom/",
+      "title": "问界单飞后智界能接住多少盘，华为四界分摊格局已定",
+      "summary": "智界无法完全接住问界留下的全部市场位置，只能在部分细分赛道实现补位。9月15日问界合作模式调整后，华为资源转向智界等“四界”，但智界与问界定位差异显著，难以填补问界核心的家用SUV基本盘，问界让出的空间将由鸿蒙智行体系内多个品牌共同分摊。问界单飞，华为资......",
       "source": "Smzdm",
-      "date": "2026-09-27",
-      "url": "https://post.smzdm.com/p/aom9w5zn/"
+      "date": "2026-09-28",
+      "url": "https://post.smzdm.com/p/avgxzwom/"
     },
     {
-      "id": "https://post.smzdm.com/p/awwz80eg/",
-      "title": "华为和问界，可能要彻底变了",
-      "summary": "让价格飞一会封面 I 新闻媒体作者 I 李东阳报道 I 李东阳朋友圈七年前，问界披好头纱、雇了轿子，义无反顾把自己“许配”给了华为。这些年，二者相互扶持，把东方小康从没人拿正眼瞧的边缘厂，抬成了千亿市......",
+      "id": "https://post.smzdm.com/p/a26097kp/",
+      "title": "深蓝第100万辆整车下线，新S07把AI激光智驾拉到15万级",
+      "summary": "深蓝汽车迎来一个大节点：第100万辆整车正式量产下线，同时全新深蓝S07 AI激光版也正式上市。从2022年品牌发布到百万辆下线，深蓝只用了49个月，这个“深蓝速度”确实够猛。这次新S07一共推出四款车型：725智臻AI激光版、725智行AI激光版、60......",
       "source": "Smzdm",
-      "date": "2026-09-27",
-      "url": "https://post.smzdm.com/p/awwz80eg/"
+      "date": "2026-09-28",
+      "url": "https://post.smzdm.com/p/a26097kp/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877476811285477872",
-      "title": "超1.6万人次打卡！世赛长宁展区火出圈→",
-      "summary": "第48届世界技能大赛赛程步入尾声，设于国家会展中心1.2馆的长宁区技能展示区也圆满完成了本届世赛博览会的展出任务。作为全市唯一的区级技能展示区，长宁展区围绕“匠心筑梦·技耀长宁”主题，打造了五大特色......",
-      "source": "News_Baidu",
-      "date": "2026-09-27",
-      "url": "http://baijiahao.baidu.com/s?id=1877476811285477872"
+      "id": "https://post.smzdm.com/p/a03q8qkr/",
+      "title": "满油续航破1000km 哈弗大狗HEV混动版上市：10.59万起",
+      "summary": "快科技9月29日消息，昨晚，哈弗大狗HEV混动版正式上市，官方指导价11.99-13.79万元，限时优惠焕新价10.59-12.39万元。值得一提的是，该车自昨日早上5点开始续航实测直播，直到晚上11......",
+      "source": "Smzdm",
+      "date": "2026-09-28",
+      "url": "https://post.smzdm.com/p/a03q8qkr/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877492199538385446",
-      "title": "穿稻浪、越群山！90后高铁司机手握“团圆方向盘”",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3586470",
+      "title": "砸下200亿元后，蔚来与吉利联手做充换电！李斌：只有合作才能“赚点钱”",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-09-28",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3586470"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrm9mkx/",
+      "title": "120度电池！北汽新车官宣：9月28日开启预订",
+      "summary": "车长超过5.3米的MPV售价30多万并不稀奇，但如果是鸿蒙智行旗下的车型就这个价格就真的算是惊喜了。9月28日享界V8正式开启预订，预售价32.98万起，老实说它的价格有点低于我的预估，估计是因为现在......",
+      "source": "Smzdm",
+      "date": "2026-09-28",
+      "url": "https://post.smzdm.com/p/aqrm9mkx/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877590374852297076",
+      "title": "本末科技9月29日上市，李泽湘系“机器人军团”再添..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-27",
-      "url": "http://baijiahao.baidu.com/s?id=1877492199538385446"
+      "date": "2026-09-28",
+      "url": "http://baijiahao.baidu.com/s?id=1877590374852297076"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877493769494329225",
-      "title": "末班车上的暖心守护 张家界公交司机爱心护送迷路女童..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-27",
-      "url": "http://baijiahao.baidu.com/s?id=1877493769494329225"
+      "id": "https://post.smzdm.com/p/am98k8m4/",
+      "title": "全系800V吸引力十足 领克20上市1小时大定14663台",
+      "summary": "快科技9月29日消息，领克汽车官宣，领克20上市1小时大定14663台，成为品牌内部的爆款车型。该车之所以受欢迎，全系800V架构绝对是最大的卖点，在同价位实属罕见，因此形成了差异化的竞争力。领克20......",
+      "source": "Smzdm",
+      "date": "2026-09-28",
+      "url": "https://post.smzdm.com/p/am98k8m4/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877489051097393531",
-      "title": "藏蓝守护金秋 大兴安岭公安护航秋收",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-27",
-      "url": "http://baijiahao.baidu.com/s?id=1877489051097393531"
+      "id": "https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255",
+      "title": "Momenta, Stellantis form JV for driver assist tech",
+      "summary": "BEIJING — Momenta, a Chinese maker of autonomous-driving software, has agreed to work with a Stellantis joint venture to develop advanced driver-assistance technology, it said on Monday, adding Jeep a...",
+      "source": "The Manila Times",
+      "date": "2026-09-28",
+      "url": "https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877481219085304222",
-      "title": "向低空要未来：温州在数贸会上“起飞”",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-27",
-      "url": "http://baijiahao.baidu.com/s?id=1877481219085304222"
+      "id": "https://www.marketscreener.com/news/itochu-aioi-nissay-dowa-partner-on-autonomous-taxi-insurance-ce785adcdb89f324",
+      "title": "Itochu, Aioi Nissay Dowa Partner on Autonomous Taxi Insurance",
+      "summary": "Itochu and MS&AD Insurance subsidiary Aioi Nissay Dowa Insurance plan to jointly create insurance products for self-driving taxis, with U.S. sales targeted as early as fiscal 2027, Nikkei Asia......",
+      "source": "MarketScreener",
+      "date": "2026-09-28",
+      "url": "https://www.marketscreener.com/news/itochu-aioi-nissay-dowa-partner-on-autonomous-taxi-insurance-ce785adcdb89f324"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877486282706153116",
-      "title": "速度之外，上海8小时耐力赛的安全底色与消费脉搏",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-27",
-      "url": "http://baijiahao.baidu.com/s?id=1877486282706153116"
-    },
-    {
-      "id": "https://www.jiemian.com/article/15142153.html",
-      "title": "一周新车盘点｜宾利首款纯电SUV全球首发 红旗首款豪华硬派越野开启预售",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-09-27",
-      "url": "https://www.jiemian.com/article/15142153.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877489082704745769",
-      "title": "中国-欧盟电影节关注跨文化传播和人工智能应用",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-27",
-      "url": "http://baijiahao.baidu.com/s?id=1877489082704745769"
+      "id": "https://www.europesays.com/3276494/",
+      "title": "Nissan launches Autonomous Drive Research Project to bring future mobility service to UK streets",
+      "summary": "CRANFIELD, UK — Nissan will bring self-driving cars to Cambridge to serve real life people in real life communities....",
+      "source": "EUROPE SAYS",
+      "date": "2026-09-28",
+      "url": "https://www.europesays.com/3276494/"
     },
     {
       "id": "https://www.thehindu.com/sci-tech/technology/waymo-self-driving-taxi-review-making-peace-with-autonomous-driving-technology/article71507319.ece",
@@ -185,30 +233,6 @@
       "source": "Times of India",
       "date": "2026-09-20",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms"
-    },
-    {
-      "id": "https://www.businesstoday.in/world/story/market-forces-cant-guarantee-ai-safety-obama-warns-profit-motives-driving-premature-ai-deployment-556669-2026-09-20",
-      "title": "'Market forces can't guarantee AI safety': Obama warns profit motives driving premature AI deployment",
-      "summary": "While acknowledging AI's potential to revolutionise cancer treatments and accelerate clean energy solutions, Obama emphasised that achieving those breakthroughs does not require deploying autonomous A...",
-      "source": "Business Today",
-      "date": "2026-09-20",
-      "url": "https://www.businesstoday.in/world/story/market-forces-cant-guarantee-ai-safety-obama-warns-profit-motives-driving-premature-ai-deployment-556669-2026-09-20"
-    },
-    {
-      "id": "https://www.straitstimes.com/singapore/singapore-uae-team-wins-autonomous-car-race-in-italy-on-third-attempt",
-      "title": "NTU team wins first international autonomous car race",
-      "summary": "NTU-led Team Kinetiz wins first international autonomous car race in Italy, showcasing advanced AI and autonomous driving technology. Read more at straitstimes.com....",
-      "source": "The Straits Times",
-      "date": "2026-09-19",
-      "url": "https://www.straitstimes.com/singapore/singapore-uae-team-wins-autonomous-car-race-in-italy-on-third-attempt"
-    },
-    {
-      "id": "https://www.malaymail.com/news/singapore/2026/09/18/alphabets-waymo-to-deploy-fully-autonomous-ridehailing-service-in-singapore-in-2028/235681",
-      "title": "Alphabet’s Waymo to deploy fully autonomous ride‑hailing service in Singapore in 2028",
-      "summary": "SINGAPORE, Sept 18 — Alphabet’s autonomous‑driving company Waymo said today it will launch a fully driverless ride‑hailing service in Singapore in 2028, marking its first......",
-      "source": "Malay Mail",
-      "date": "2026-09-18",
-      "url": "https://www.malaymail.com/news/singapore/2026/09/18/alphabets-waymo-to-deploy-fully-autonomous-ridehailing-service-in-singapore-in-2028/235681"
     }
   ]
 }
