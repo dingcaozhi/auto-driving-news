@@ -1,12 +1,14 @@
 {
-  "lastUpdated": "2026-09-29 05:24:47",
+  "lastUpdated": "2026-09-30 05:12:32",
   "totalCount": 27,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 8,
-    "21Jingji": 2,
-    "News_Baidu": 2,
-    "Investing_Cn": 1,
+    "Smzdm": 6,
+    "21Jingji": 3,
+    "Bjnews": 2,
+    "Cri_Cn": 1,
+    "Wallstreetcn": 1,
+    "News_Baidu": 4,
+    "Nbd_Cn": 1,
     "The Manila Times": 1,
     "MarketScreener": 1,
     "EUROPE SAYS": 1,
@@ -19,148 +21,148 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-09-29",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-29",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-29",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-09-29",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1LMaj69EwF",
-      "title": "【B站】自动驾驶中，随时停车，请保持两米车距！",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-09-29",
-      "url": "https://www.bilibili.com/video/BV1LMaj69EwF"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a82x0xwn/",
-      "title": "吉利新车上市：9月29日继续开售，专享价11.88万起",
-      "summary": "9月29日消息，吉利系车型全新领克20目前已经上市开售。我个人还挺喜欢这台车的，因为它属于是入门即高配，很多新车起步价虽然低，但入门版配置很差，多项配置都有阉割，而这台12万级新车全系标配800V高压......",
+      "id": "https://post.smzdm.com/p/az86g5q5/",
+      "title": "6.98万起！长城发布新车：9月30日继续开售",
+      "summary": "9月30日消息，2027款长城欧拉好猫目前已经上市开售。我之前曾预测过它的价格不会高于7万元，因为今年这个新版本增加了335km续航入门版，低于往年入门版，事实果真如此，最终定价6.98万起。该车定位......",
       "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/a82x0xwn/"
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/az86g5q5/"
     },
     {
-      "id": "https://post.smzdm.com/p/a26090qq/",
-      "title": "纯电续航852km！华为乾崑新车上市：9月29继续开售",
-      "summary": "带华为乾崑智驾的又一款新车开卖了，智界RX目前已经上市，9月29日我实测该车已经开启下定。它是鸿蒙智行首款以X命名、主打驾控的中大型纯电轿跑SUV，属于华为和奇瑞合作车型，余承东曾评价它是鸿蒙智行最好......",
+      "id": "https://post.smzdm.com/p/a3m07g3k/",
+      "title": "纯电续航650km！现代新车上市：9月30日继续开售",
+      "summary": "9月30日消息，范丞丞代言的新车北京现代艾尼氪V目前已经上市开售。之所以我会提到它的代言人范丞丞，是因为一般来说请明星代言的车型，都是车企们很重视的新车，该车就属于是一个典型的例子，车企对它寄予厚望，......",
       "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/a26090qq/"
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/a3m07g3k/"
     },
     {
-      "id": "https://post.smzdm.com/p/apqv3zw7/",
-      "title": "上汽发布新车：9月28日正式上市，限时补贴价8.48万",
-      "summary": "预算不到10万元打算买车，往年我一般都更建议买油车或者混动车，不太推荐选纯电车，因为续航太低，但今年情况不一样。因为今年出现了多款纯电续航超过500km的低价纯电车，9月28上汽就行发布了一台MG4 ......",
+      "id": "https://post.smzdm.com/p/a260dm5p/",
+      "title": "仰望U7产品力解读，为何被视作60万性价比最高的车",
+      "summary": "60万性价比最高的车仰望U7，2026款五座豪华版依托易四方、第二代刀片电池、云辇A⁺等成套技术，构建起旗舰轿车的硬件基础。该车型定位纯电豪华旗舰，在动力、底盘、电池安全、座舱与智驾方面均搭载品牌前沿......",
       "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/apqv3zw7/"
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/a260dm5p/"
     },
     {
-      "id": "https://www.21jingji.com/article/20260929/5368318ed1133851daf730c4b8693be4.html",
-      "title": "“产业雨林”生于沃野：跨越3000公里的中国农业调研",
+      "id": "https://www.21jingji.com/article/20260930/5b969e7909f359553d73080488b7af7e.html",
+      "title": "AMD收购李飞飞公司背后：AI芯片巨头“抢”AI定义权？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-28",
-      "url": "https://www.21jingji.com/article/20260929/5368318ed1133851daf730c4b8693be4.html"
+      "date": "2026-09-29",
+      "url": "https://www.21jingji.com/article/20260930/5b969e7909f359553d73080488b7af7e.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877571616391276991",
-      "title": "「长三角日报」张家齐签约的杭州MCN放出岗位，招聘..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-28",
-      "url": "http://baijiahao.baidu.com/s?id=1877571616391276991"
+      "id": "https://post.smzdm.com/p/awwz4xg2/",
+      "title": "国庆21亿人次出行,错峰时段机票降价超80%,避堵捡漏指南来了",
+      "summary": "国庆7天预计21.3亿人次踏上旅途，首日峰值将达3.4亿人次，史诗级黄金周真的来了。这不仅是人多，更是大家的出行方向和节点高度重叠，公路、铁路、民航同时承压。想走得顺畅、花得值当，这篇避堵捡漏指南你得......",
+      "source": "Smzdm",
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/awwz4xg2/"
     },
     {
-      "id": "https://www.21jingji.com/article/20260929/d7ec5e6520461b3fdc212a9b4c4941c0.html",
-      "title": "21社论丨推动北斗产业加速迈向万亿级规模",
+      "id": "https://www.21jingji.com/article/20260930/20e8be1806ef0f1cce9c2a4837dc81c8.html",
+      "title": "AMD收购李飞飞公司背后：AI芯片巨头开始“抢”AI定义权？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-28",
-      "url": "https://www.21jingji.com/article/20260929/d7ec5e6520461b3fdc212a9b4c4941c0.html"
+      "date": "2026-09-29",
+      "url": "https://www.21jingji.com/article/20260930/20e8be1806ef0f1cce9c2a4837dc81c8.html"
     },
     {
-      "id": "https://post.smzdm.com/p/avgxzwom/",
-      "title": "问界单飞后智界能接住多少盘，华为四界分摊格局已定",
-      "summary": "智界无法完全接住问界留下的全部市场位置，只能在部分细分赛道实现补位。9月15日问界合作模式调整后，华为资源转向智界等“四界”，但智界与问界定位差异显著，难以填补问界核心的家用SUV基本盘，问界让出的空间将由鸿蒙智行体系内多个品牌共同分摊。问界单飞，华为资......",
+      "id": "https://post.smzdm.com/p/a03qn2g8/",
+      "title": "赛力斯代工生产 赛豆科技首款量产车AIVA ME7全球首秀",
+      "summary": "快科技9月30日消息，当地时间28日晚间，赛豆科技旗下AIVA品牌首车AIVA ME7于巴黎完成全球首秀，标志着这家独立AI汽车品牌正式落地量产车型。赛豆科技前身为蓝电科技，由赛力斯100%持股，后完......",
       "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/avgxzwom/"
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/a03qn2g8/"
     },
     {
-      "id": "https://post.smzdm.com/p/a26097kp/",
-      "title": "深蓝第100万辆整车下线，新S07把AI激光智驾拉到15万级",
-      "summary": "深蓝汽车迎来一个大节点：第100万辆整车正式量产下线，同时全新深蓝S07 AI激光版也正式上市。从2022年品牌发布到百万辆下线，深蓝只用了49个月，这个“深蓝速度”确实够猛。这次新S07一共推出四款车型：725智臻AI激光版、725智行AI激光版、60......",
+      "id": "https://post.smzdm.com/p/a950wd45/",
+      "title": "刚需与玩具之争：武汉禁摩政策下的交通现实",
+      "summary": "哈喽大家好，我是超人我会飞。今天我们聊摩托车。在武汉的城市交通讨论中，摩托车一直是颇具争议的话题。很多市民时常疑惑，武汉究竟是否禁摩？摩托车对于本地居民而言，是日常通勤的刚需工具，还是仅供玩乐的代步玩......",
       "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/a26097kp/"
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/a950wd45/"
     },
     {
-      "id": "https://post.smzdm.com/p/a03q8qkr/",
-      "title": "满油续航破1000km 哈弗大狗HEV混动版上市：10.59万起",
-      "summary": "快科技9月29日消息，昨晚，哈弗大狗HEV混动版正式上市，官方指导价11.99-13.79万元，限时优惠焕新价10.59-12.39万元。值得一提的是，该车自昨日早上5点开始续航实测直播，直到晚上11......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/a03q8qkr/"
+      "id": "https://www.bjnews.com.cn/detail/1790660964129025.html",
+      "title": "世界智能网联汽车大会再聚北京亦庄",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-29",
+      "url": "https://www.bjnews.com.cn/detail/1790660964129025.html"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3586470",
-      "title": "砸下200亿元后，蔚来与吉利联手做充换电！李斌：只有合作才能“赚点钱”",
+      "id": "https://www.21jingji.com/article/20260929/herald/0b3354a3e97eb57e2e19246d6ffd4c57.html",
+      "title": "全市已设置70处招呼站和停靠点，广州多措并举保障国庆道路客运",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-09-28",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3586470"
+      "source": "21Jingji",
+      "date": "2026-09-29",
+      "url": "https://www.21jingji.com/article/20260929/herald/0b3354a3e97eb57e2e19246d6ffd4c57.html"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrm9mkx/",
-      "title": "120度电池！北汽新车官宣：9月28日开启预订",
-      "summary": "车长超过5.3米的MPV售价30多万并不稀奇，但如果是鸿蒙智行旗下的车型就这个价格就真的算是惊喜了。9月28日享界V8正式开启预订，预售价32.98万起，老实说它的价格有点低于我的预估，估计是因为现在......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/aqrm9mkx/"
+      "id": "https://news.cri.cn/20260929/6024fed7-3a66-42c6-1256-cab86d4fd49c.html",
+      "title": "伊朗否认与英国空军基地附近涉嫌“恐袭”者有关-国际在线",
+      "summary": "新华社北京9月29日电 伊朗驻英国大使馆28日否认与一天前在英国空军费尔福德基地附近被捕、涉嫌策划“恐怖袭击”的5人有关。当天晚些时候，英国警方宣布这5名英国籍嫌疑人已获得保释，同时称正从&l...",
+      "source": "Cri_Cn",
+      "date": "2026-09-29",
+      "url": "https://news.cri.cn/20260929/6024fed7-3a66-42c6-1256-cab86d4fd49c.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877590374852297076",
-      "title": "本末科技9月29日上市，李泽湘系“机器人军团”再添..",
+      "id": "https://wallstreetcn.com/articles/3782777",
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月30日",
+      "summary": "NewsData报道",
+      "source": "Wallstreetcn",
+      "date": "2026-09-29",
+      "url": "https://wallstreetcn.com/articles/3782777"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877673203991083164",
+      "title": "普陀区青少年庆祝新中国成立77周年主题活动举办",
+      "summary": "9月29日，“红旗赓续薪火 少年奋楫逐光”普陀区青少年庆祝新中国成立77周年主题活动暨“向国旗敬礼”启动仪式在普陀区曹杨实验小学举行。活动在昂扬欢快的《红领巾进行曲》中拉开帷幕。少先队员们整齐有序入......",
+      "source": "News_Baidu",
+      "date": "2026-09-29",
+      "url": "http://baijiahao.baidu.com/s?id=1877673203991083164"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877635106112753532",
+      "title": "双域控背后的安全哲学：天瞳威视为L4商业化筑牢底线",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-28",
-      "url": "http://baijiahao.baidu.com/s?id=1877590374852297076"
+      "date": "2026-09-29",
+      "url": "http://baijiahao.baidu.com/s?id=1877635106112753532"
     },
     {
-      "id": "https://post.smzdm.com/p/am98k8m4/",
-      "title": "全系800V吸引力十足 领克20上市1小时大定14663台",
-      "summary": "快科技9月29日消息，领克汽车官宣，领克20上市1小时大定14663台，成为品牌内部的爆款车型。该车之所以受欢迎，全系800V架构绝对是最大的卖点，在同价位实属罕见，因此形成了差异化的竞争力。领克20......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/am98k8m4/"
+      "id": "https://www.bjnews.com.cn/detail/1790667890129165.html",
+      "title": "谨防机票退改签等电信网络诈骗 假期民航出行安全提示请查收",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-29",
+      "url": "https://www.bjnews.com.cn/detail/1790667890129165.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877666440008823756",
+      "title": "宜兴高铁上的护航卫士",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-29",
+      "url": "http://baijiahao.baidu.com/s?id=1877666440008823756"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877676409016946142",
+      "title": "江苏省公安厅发布国庆安全预警：车流客流活动集中，这..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-29",
+      "url": "http://baijiahao.baidu.com/s?id=1877676409016946142"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-29/4595109.html",
+      "title": "冲击万亿目标，“汽车第一城”迎来关键时刻",
+      "summary": "行业高增长时代结束，正式步入深度调整期，赛力斯自身也在经历一轮重构。此次调研，不但提到要“尽心尽力帮助企业解决实际困难，推动企业抢抓机遇跨越发展”，智能网联新能源汽车之都建设也被再次提及。...",
+      "source": "Nbd_Cn",
+      "date": "2026-09-29",
+      "url": "https://www.nbd.com.cn/articles/2026-09-29/4595109.html"
     },
     {
       "id": "https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255",
