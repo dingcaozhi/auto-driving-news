@@ -1,14 +1,17 @@
 {
-  "lastUpdated": "2026-09-30 05:12:32",
-  "totalCount": 27,
+  "lastUpdated": "2026-10-01 05:27:27",
+  "totalCount": 30,
   "sources": {
-    "Smzdm": 6,
-    "21Jingji": 3,
-    "Bjnews": 2,
-    "Cri_Cn": 1,
+    "Bilibili": 5,
     "Wallstreetcn": 1,
     "News_Baidu": 4,
-    "Nbd_Cn": 1,
+    "Smzdm": 3,
+    "Nbd_Cn": 3,
+    "21Jingji": 2,
+    "Rednet_Cn": 1,
+    "Jiemian": 1,
+    "Zaobao": 1,
+    "Reuters": 1,
     "The Manila Times": 1,
     "MarketScreener": 1,
     "EUROPE SAYS": 1,
@@ -16,153 +19,184 @@
     "The London Free Press": 1,
     "FreightWaves": 1,
     "Breitbart News Network": 1,
-    "Siliconrepublic.com": 1,
-    "Times of India": 1
+    "Siliconrepublic.com": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/az86g5q5/",
-      "title": "6.98万起！长城发布新车：9月30日继续开售",
-      "summary": "9月30日消息，2027款长城欧拉好猫目前已经上市开售。我之前曾预测过它的价格不会高于7万元，因为今年这个新版本增加了335km续航入门版，低于往年入门版，事实果真如此，最终定价6.98万起。该车定位......",
-      "source": "Smzdm",
-      "date": "2026-09-29",
-      "url": "https://post.smzdm.com/p/az86g5q5/"
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-10-01",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
     },
     {
-      "id": "https://post.smzdm.com/p/a3m07g3k/",
-      "title": "纯电续航650km！现代新车上市：9月30日继续开售",
-      "summary": "9月30日消息，范丞丞代言的新车北京现代艾尼氪V目前已经上市开售。之所以我会提到它的代言人范丞丞，是因为一般来说请明星代言的车型，都是车企们很重视的新车，该车就属于是一个典型的例子，车企对它寄予厚望，......",
-      "source": "Smzdm",
-      "date": "2026-09-29",
-      "url": "https://post.smzdm.com/p/a3m07g3k/"
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-01",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://post.smzdm.com/p/a260dm5p/",
-      "title": "仰望U7产品力解读，为何被视作60万性价比最高的车",
-      "summary": "60万性价比最高的车仰望U7，2026款五座豪华版依托易四方、第二代刀片电池、云辇A⁺等成套技术，构建起旗舰轿车的硬件基础。该车型定位纯电豪华旗舰，在动力、底盘、电池安全、座舱与智驾方面均搭载品牌前沿......",
-      "source": "Smzdm",
-      "date": "2026-09-29",
-      "url": "https://post.smzdm.com/p/a260dm5p/"
+      "id": "https://www.bilibili.com/video/BV17CaA6pEWr",
+      "title": "【B站】很多人不敢用辅助驾驶，车企却还在砸百亿？它到底发展到哪一步了？【阿Test正经比比】",
+      "summary": "参考文献：\n《工业和信息化部举行新闻发布会 介绍智能网联新能源汽车产业高质量发展情况》\n《智能网联汽车 组合驾驶辅助系统安全要求》\n《Trust in Automation: Designing for Appropriate Reliance》-Lee, J. D., &amp; See, K. ...",
+      "source": "Bilibili",
+      "date": "2026-10-01",
+      "url": "https://www.bilibili.com/video/BV17CaA6pEWr"
     },
     {
-      "id": "https://www.21jingji.com/article/20260930/5b969e7909f359553d73080488b7af7e.html",
-      "title": "AMD收购李飞飞公司背后：AI芯片巨头“抢”AI定义权？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-29",
-      "url": "https://www.21jingji.com/article/20260930/5b969e7909f359553d73080488b7af7e.html"
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-01",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://post.smzdm.com/p/awwz4xg2/",
-      "title": "国庆21亿人次出行,错峰时段机票降价超80%,避堵捡漏指南来了",
-      "summary": "国庆7天预计21.3亿人次踏上旅途，首日峰值将达3.4亿人次，史诗级黄金周真的来了。这不仅是人多，更是大家的出行方向和节点高度重叠，公路、铁路、民航同时承压。想走得顺畅、花得值当，这篇避堵捡漏指南你得......",
-      "source": "Smzdm",
-      "date": "2026-09-29",
-      "url": "https://post.smzdm.com/p/awwz4xg2/"
+      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
+      "title": "【B站】到底是自动驾驶还是自动送死？",
+      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
+      "source": "Bilibili",
+      "date": "2026-10-01",
+      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
     },
     {
-      "id": "https://www.21jingji.com/article/20260930/20e8be1806ef0f1cce9c2a4837dc81c8.html",
-      "title": "AMD收购李飞飞公司背后：AI芯片巨头开始“抢”AI定义权？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-29",
-      "url": "https://www.21jingji.com/article/20260930/20e8be1806ef0f1cce9c2a4837dc81c8.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03qn2g8/",
-      "title": "赛力斯代工生产 赛豆科技首款量产车AIVA ME7全球首秀",
-      "summary": "快科技9月30日消息，当地时间28日晚间，赛豆科技旗下AIVA品牌首车AIVA ME7于巴黎完成全球首秀，标志着这家独立AI汽车品牌正式落地量产车型。赛豆科技前身为蓝电科技，由赛力斯100%持股，后完......",
-      "source": "Smzdm",
-      "date": "2026-09-29",
-      "url": "https://post.smzdm.com/p/a03qn2g8/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a950wd45/",
-      "title": "刚需与玩具之争：武汉禁摩政策下的交通现实",
-      "summary": "哈喽大家好，我是超人我会飞。今天我们聊摩托车。在武汉的城市交通讨论中，摩托车一直是颇具争议的话题。很多市民时常疑惑，武汉究竟是否禁摩？摩托车对于本地居民而言，是日常通勤的刚需工具，还是仅供玩乐的代步玩......",
-      "source": "Smzdm",
-      "date": "2026-09-29",
-      "url": "https://post.smzdm.com/p/a950wd45/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1790660964129025.html",
-      "title": "世界智能网联汽车大会再聚北京亦庄",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-29",
-      "url": "https://www.bjnews.com.cn/detail/1790660964129025.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260929/herald/0b3354a3e97eb57e2e19246d6ffd4c57.html",
-      "title": "全市已设置70处招呼站和停靠点，广州多措并举保障国庆道路客运",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-29",
-      "url": "https://www.21jingji.com/article/20260929/herald/0b3354a3e97eb57e2e19246d6ffd4c57.html"
-    },
-    {
-      "id": "https://news.cri.cn/20260929/6024fed7-3a66-42c6-1256-cab86d4fd49c.html",
-      "title": "伊朗否认与英国空军基地附近涉嫌“恐袭”者有关-国际在线",
-      "summary": "新华社北京9月29日电 伊朗驻英国大使馆28日否认与一天前在英国空军费尔福德基地附近被捕、涉嫌策划“恐怖袭击”的5人有关。当天晚些时候，英国警方宣布这5名英国籍嫌疑人已获得保释，同时称正从&l...",
-      "source": "Cri_Cn",
-      "date": "2026-09-29",
-      "url": "https://news.cri.cn/20260929/6024fed7-3a66-42c6-1256-cab86d4fd49c.html"
-    },
-    {
-      "id": "https://wallstreetcn.com/articles/3782777",
-      "title": "华尔街见闻早餐FM-Radio | 2026年9月30日",
+      "id": "https://wallstreetcn.com/articles/3782858",
+      "title": "美光电话会：2027年产能已售75%，看不到供需平衡拐点，物理AI将成下一个爆发点",
       "summary": "NewsData报道",
       "source": "Wallstreetcn",
-      "date": "2026-09-29",
-      "url": "https://wallstreetcn.com/articles/3782777"
+      "date": "2026-09-30",
+      "url": "https://wallstreetcn.com/articles/3782858"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877673203991083164",
-      "title": "普陀区青少年庆祝新中国成立77周年主题活动举办",
-      "summary": "9月29日，“红旗赓续薪火 少年奋楫逐光”普陀区青少年庆祝新中国成立77周年主题活动暨“向国旗敬礼”启动仪式在普陀区曹杨实验小学举行。活动在昂扬欢快的《红领巾进行曲》中拉开帷幕。少先队员们整齐有序入......",
-      "source": "News_Baidu",
-      "date": "2026-09-29",
-      "url": "http://baijiahao.baidu.com/s?id=1877673203991083164"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877635106112753532",
-      "title": "双域控背后的安全哲学：天瞳威视为L4商业化筑牢底线",
+      "id": "http://baijiahao.baidu.com/s?id=1877755558124752387",
+      "title": "从聚光灯下的 Demo，到工厂里的量产——具身智能..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-29",
-      "url": "http://baijiahao.baidu.com/s?id=1877635106112753532"
+      "date": "2026-09-30",
+      "url": "http://baijiahao.baidu.com/s?id=1877755558124752387"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1790667890129165.html",
-      "title": "谨防机票退改签等电信网络诈骗 假期民航出行安全提示请查收",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-09-29",
-      "url": "https://www.bjnews.com.cn/detail/1790667890129165.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877666440008823756",
-      "title": "宜兴高铁上的护航卫士",
-      "summary": "NewsData报道",
+      "id": "http://baijiahao.baidu.com/s?id=1877771371364357876",
+      "title": "轿车突然频繁闪灯、鸣笛，举止反常！被执勤交警注意到..",
+      "summary": "9月17日21时42分许一辆行驶中的轿车突然频繁闪烁大灯、鸣响喇叭急促异常的行车举动瞬间引起了正在执勤的朱金宇的高度警觉他立即靠边停车，主动上前问询了解情况。经驾乘人员焦急诉说得知，车辆后座的老人突......",
       "source": "News_Baidu",
-      "date": "2026-09-29",
-      "url": "http://baijiahao.baidu.com/s?id=1877666440008823756"
+      "date": "2026-09-30",
+      "url": "http://baijiahao.baidu.com/s?id=1877771371364357876"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877676409016946142",
-      "title": "江苏省公安厅发布国庆安全预警：车流客流活动集中，这..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-29",
-      "url": "http://baijiahao.baidu.com/s?id=1877676409016946142"
+      "id": "https://post.smzdm.com/p/a4qpznwl/",
+      "title": "比亚迪新车官宣：9月30日，即将上市",
+      "summary": "9月30日消息，比亚迪官方发布了第二代海鸥的内饰图，这也意味着该车即将上市。其实它早已完成工信部申报，还有大量谍照和设计草图流出，只不过像这种低价小型车，内部细节才是最重要的。现在官方提前公布内部详情......",
+      "source": "Smzdm",
+      "date": "2026-09-30",
+      "url": "https://post.smzdm.com/p/a4qpznwl/"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-09-29/4595109.html",
-      "title": "冲击万亿目标，“汽车第一城”迎来关键时刻",
-      "summary": "行业高增长时代结束，正式步入深度调整期，赛力斯自身也在经历一轮重构。此次调研，不但提到要“尽心尽力帮助企业解决实际困难，推动企业抢抓机遇跨越发展”，智能网联新能源汽车之都建设也被再次提及。...",
+      "id": "https://post.smzdm.com/p/axkzqv0w/",
+      "title": "纯电续航830km！华为乾崑新车官宣：9月30开启预售",
+      "summary": "这个月问界频繁登上热搜，因为接下来这个品牌将不再由华为主导，而是改为了塞力斯。不过车主不用着急，它们仍然是合作关系，与其它几个华为合作车企的形式差不多。9月30日，问界新M8开启预售，之所以专门提到它......",
+      "source": "Smzdm",
+      "date": "2026-09-30",
+      "url": "https://post.smzdm.com/p/axkzqv0w/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-30/4596301.html",
+      "title": "迪拜航空航班遇险，内塔尼亚胡等人还原现场：飞行员被刺伤，行凶者要让所有乘客一起坠毁，幸好多人闯入驾驶舱制服了他",
+      "summary": "迪拜航空航班遇险，内塔尼亚胡等人还原现场：飞行员被刺伤，行凶者要让所有乘客一起坠毁，幸好多人闯入驾驶舱制服了他...",
       "source": "Nbd_Cn",
-      "date": "2026-09-29",
-      "url": "https://www.nbd.com.cn/articles/2026-09-29/4595109.html"
+      "date": "2026-09-30",
+      "url": "https://www.nbd.com.cn/articles/2026-09-30/4596301.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am98rgok/",
+      "title": "18.98万起！纯电300km的方盒子，iCAR V27长续航版上市！",
+      "summary": "9月30日，奇瑞iCAR V27长续航版正式上市，两款配置，售价分别为18.98万和20.38万。增程车的心病，被一块大电池治好了买增程车的人，心里都有一本账。理想状态下，日常通勤用电、长途出行用油，两全其美。但现实是，很多增程车的纯电续航只有一百多两百......",
+      "source": "Smzdm",
+      "date": "2026-09-30",
+      "url": "https://post.smzdm.com/p/am98rgok/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877739260298099298",
+      "title": "欧阳明高：当技术革命家是我的追求",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-30",
+      "url": "http://baijiahao.baidu.com/s?id=1877739260298099298"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-30/4596186.html",
+      "title": "70亿元电池项目投产，比亚迪与西安进入下半场",
+      "summary": "从2003年收购秦川汽车，到今天形成高新、草堂、集贤、西咸多园区布局，比亚迪在西安已经不是一次投资，而是一场持续了20多年的长期下注。...",
+      "source": "Nbd_Cn",
+      "date": "2026-09-30",
+      "url": "https://www.nbd.com.cn/articles/2026-09-30/4596186.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260930/herald/26fced9a0ae2675cf9a9fec89740dbc0.html",
+      "title": "珠海市市场监督管理局2026年民生领域案件查办“铁拳出稽 守护南粤”行动第四批典型案例（节日消费专题）",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-30",
+      "url": "https://www.21jingji.com/article/20260930/herald/26fced9a0ae2675cf9a9fec89740dbc0.html"
+    },
+    {
+      "id": "https://yz.rednet.cn/content/646043/74/16335245.html",
+      "title": "守护国庆平安！永州公安开展社会治安清查宣防集中统一行动_政务_永州站",
+      "summary": "NewsData报道",
+      "source": "Rednet_Cn",
+      "date": "2026-09-30",
+      "url": "https://yz.rednet.cn/content/646043/74/16335245.html"
+    },
+    {
+      "id": "https://www.jiemian.com/article/15157653.html",
+      "title": "迪拜客机事件是“未遂恐袭”？大选前以色列如临大敌",
+      "summary": "NewsData报道",
+      "source": "Jiemian",
+      "date": "2026-09-30",
+      "url": "https://www.jiemian.com/article/15157653.html"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/china/story20260930-9763436",
+      "title": "国民党立法院党团提修正《刑法》 为四类犯罪增列鞭刑",
+      "summary": "台湾立法院通过的“鞭刑公投”提案遭中央选举委员会否决后，在野中国国民党立法院党团决定提出《刑法》修正案，针对重大性暴力、吸毒驾驶、虐童致死致重伤，以及重大诈欺等四类犯罪增列鞭刑。...",
+      "source": "Zaobao",
+      "date": "2026-09-30",
+      "url": "https://www.zaobao.com.sg/news/china/story20260930-9763436"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-09-30/4596159.html",
+      "title": "美股集体高开；商务部：延长对美国相关做法措施贸易壁垒调查期限；苹果据悉将进军智能家居市场；宁德时代拟推新员工持股计划丨每经晚参",
+      "summary": "美股集体高开；商务部：延长对美国相关做法措施贸易壁垒调查期限；苹果据悉将进军智能家居市场；宁德时代拟推新员工持股计划丨每经晚参...",
+      "source": "Nbd_Cn",
+      "date": "2026-09-30",
+      "url": "https://www.nbd.com.cn/articles/2026-09-30/4596159.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877764334905309880",
+      "title": "美股集体高开；商务部：延长对美国相关做法措施贸易壁..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-09-30",
+      "url": "http://baijiahao.baidu.com/s?id=1877764334905309880"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260930/herald/3edf2d11ab1221307461eeb5129fd499.html",
+      "title": "再造新狮山：从产业重镇迈向产业新城",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-09-30",
+      "url": "https://www.21jingji.com/article/20260930/herald/3edf2d11ab1221307461eeb5129fd499.html"
+    },
+    {
+      "id": "https://www.reuters.com/world/asia-pacific/mercedes-backed-momenta-targets-dubai-europe-robotaxi-expansion-2026-09-30/",
+      "title": "Mercedes-backed Momenta targets Dubai and Europe for robotaxi expansion",
+      "summary": "Chinese autonomous-driving company Momenta Global aims to have thousands of robotaxis on the road next year as it looks ​to expand to Dubai and more cities in Europe, the head ‌of its robotaxi busines...",
+      "source": "Reuters",
+      "date": "2026-09-30",
+      "url": "https://www.reuters.com/world/asia-pacific/mercedes-backed-momenta-targets-dubai-europe-robotaxi-expansion-2026-09-30/"
     },
     {
       "id": "https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255",
@@ -227,14 +261,6 @@
       "source": "Siliconrepublic.com",
       "date": "2026-09-22",
       "url": "https://www.siliconrepublic.com/machines/ireland-europe-robotaxi-geotab-edward-kulperger"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms",
-      "title": "From self-driving cars to self-flying planes: Autonomous aircraft completes first ever flight across America, honours Wright Brothers",
-      "summary": "Tech News News: For the first time ever, a self-flying airplane has flown 3,199 miles to complete a journey across the US. A single-engine Cessna Caravan, managed by ....",
-      "source": "Times of India",
-      "date": "2026-09-20",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms"
     }
   ]
 }
