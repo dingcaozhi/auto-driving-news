@@ -1,194 +1,240 @@
 {
-  "lastUpdated": "2026-10-01 05:27:27",
-  "totalCount": 30,
+  "lastUpdated": "2026-10-02 05:15:09",
+  "totalCount": 45,
   "sources": {
     "Bilibili": 5,
-    "Wallstreetcn": 1,
-    "News_Baidu": 4,
-    "Smzdm": 3,
-    "Nbd_Cn": 3,
+    "Smzdm": 9,
+    "News_Baidu": 3,
+    "Bjnews": 1,
+    "Fx168News": 1,
     "21Jingji": 2,
-    "Rednet_Cn": 1,
-    "Jiemian": 1,
-    "Zaobao": 1,
-    "Reuters": 1,
-    "The Manila Times": 1,
-    "MarketScreener": 1,
-    "EUROPE SAYS": 1,
+    "Wallstreetcn": 1,
+    "Investing_Cn": 2,
+    "Eeo": 1,
+    "The Manila Times": 2,
+    "Reuters": 2,
+    "MarketScreener": 3,
+    "EUROPE SAYS": 2,
     "The Hindu": 1,
     "The London Free Press": 1,
     "FreightWaves": 1,
+    "Seeking Alpha": 1,
     "Breitbart News Network": 1,
-    "Siliconrepublic.com": 1
+    "The Straits Times": 1,
+    "Siliconrepublic.com": 1,
+    "Engadget": 1,
+    "The Star": 1,
+    "Euronews": 1,
+    "TNW": 1
   },
   "news": [
+    {
+      "id": "https://www.bilibili.com/video/BV1j8a66oExW",
+      "title": "【B站】辅助驾驶≠自动驾驶",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-02",
+      "url": "https://www.bilibili.com/video/BV1j8a66oExW"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1E3an6MEXW",
+      "title": "【B站】智界 RX｜L3级自动驾驶架构，科技向前，驶向未来",
+      "summary": "面向未来，也守护每一个当下。#智界RX 以L3级自动驾驶架构、八大系统冗余与全维融合感知，让每一程更舒适、更省心。科技向前，体验向前！...",
+      "source": "Bilibili",
+      "date": "2026-10-02",
+      "url": "https://www.bilibili.com/video/BV1E3an6MEXW"
+    },
     {
       "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
       "title": "【B站】L3 自动驾驶，又是狼来了吗？",
       "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
       "source": "Bilibili",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-01",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV17CaA6pEWr",
-      "title": "【B站】很多人不敢用辅助驾驶，车企却还在砸百亿？它到底发展到哪一步了？【阿Test正经比比】",
-      "summary": "参考文献：\n《工业和信息化部举行新闻发布会 介绍智能网联新能源汽车产业高质量发展情况》\n《智能网联汽车 组合驾驶辅助系统安全要求》\n《Trust in Automation: Designing for Appropriate Reliance》-Lee, J. D., &amp; See, K. ...",
-      "source": "Bilibili",
-      "date": "2026-10-01",
-      "url": "https://www.bilibili.com/video/BV17CaA6pEWr"
     },
     {
       "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
       "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1D2ocBFEGz",
-      "title": "【B站】到底是自动驾驶还是自动送死？",
-      "summary": "感谢好兄弟【暮成雪】一直以来的大力支持和众多老流氓的投稿支持，因为有你们才有这么多好的素材，谢谢各位了！撒浪嘿啾咪~...",
+      "id": "https://www.bilibili.com/video/BV1fVaa6vEcp",
+      "title": "【B站】10万元车的智驾，2027款B01顶配用户日常智能驾驶体验",
+      "summary": "不吹不黑，真实评价，无成分...",
       "source": "Bilibili",
-      "date": "2026-10-01",
-      "url": "https://www.bilibili.com/video/BV1D2ocBFEGz"
+      "date": "2026-10-02",
+      "url": "https://www.bilibili.com/video/BV1fVaa6vEcp"
     },
     {
-      "id": "https://wallstreetcn.com/articles/3782858",
-      "title": "美光电话会：2027年产能已售75%，看不到供需平衡拐点，物理AI将成下一个爆发点",
+      "id": "https://post.smzdm.com/p/a4qpzkel/",
+      "title": "国庆酒局第一晚，知乎正在给「解酒」软文下崽：两个「解酒护肝」新问题相隔2分钟冒出、回答用同一组数据，推的是软文自己都写「不能自行购买服用」的药——「解酒糖」自家标签写着压片糖果，99块2片的「解酒药」有人含完打120，「十分钟解酒」饮料惊动交警提醒，央广9月刚查完：营销话术、水军评论区、真人实测、科学结论和药与驾车两条红线我全核了一遍，掏钱前先看",
+      "summary": "先说今晚我刷到的三个画面。画面一，小红书。搜「解酒」按一天内最新排：《解酒最快的4种方法，快抄作业》晚上21:12发，《邪修解酒法！3种饮料快速醒酒》18:56发，还有《快速解酒的六种食物》《解酒护胃......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/a4qpzkel/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a950p720/",
+      "title": "吉利混动提车一不留神就踩坑！4S店不会告诉你的原厂电脑检查技巧",
+      "summary": "吉利卖疯了，但老车主在担心什么吉利年销292万辆的数据足够亮眼，但翻开车友圈的真实反馈，画风突变。一台跑了11万公里的2016款远景车主盘点了十年养护账单：全年保险2000元、基础保养200元搞定，折......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/a950p720/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad79elvp/",
+      "title": "高速服务区新能源汽车集中充电 车主吐槽：像在排队打饭",
+      "summary": "快科技10月2日消息，国庆长假出行高峰已经开始，话题#高速服务区新能源车充电像排队打饭#登上不少社交平台的热搜。不少车主拍摄视频反映，热门高速服务区充电桩前车辆密集，服务区只能采取取号排队的方式维持秩......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/ad79elvp/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877837393516470558",
+      "title": "天津首个！这条高速应急车道可借用",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-01",
+      "url": "http://baijiahao.baidu.com/s?id=1877837393516470558"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1790840400129698.html",
+      "title": "深刻解读“老头乐”为什么不让上路｜单人低速电动代步车和老头乐的科普",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-10-01",
+      "url": "https://www.bjnews.com.cn/detail/1790840400129698.html"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1099056",
+      "title": "Deere & Co(DE)股票10月1日盘中下跌3.18%：关键驱动因素揭晓-FX168",
+      "summary": "Deere & Co (DE) 盘中下跌3.18%, 所属行业工业产品下跌0.32% ,公司涨幅跑输行业涨幅，行业成交额前三股票 Bloom Energy Corp (BE) 下跌 0.31%；Rocket Lab USA Inc (RKLB) 上涨 1.38%；GE航天航空 (GE) 下跌 0.06%。 今日是什么导致了Deere & Co(DE)股价下跌？ 迪尔公司（Deere & Compa...",
+      "source": "Fx168News",
+      "date": "2026-10-01",
+      "url": "https://www.fx168news.com/article/1099056"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03qlpnw/",
+      "title": "吉利提车防坑指南：交付旺季藏猫腻，这15项检查少一个都可能吃大亏",
+      "summary": "先说个扎心的事实：交车越火，坑越多吉利汽车9月交付数据还没官方发布，但8月新能源同比涨了50%+，环比也在涨。9月又是传统旺季，交付大厅排队的人比菜市场还多。问题是：车卖得火，不代表每一台都经得起细看。产能拉满的时候，4S店顾着走量，PDI检测容易走过场......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/a03qlpnw/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a4qpzx8l/",
+      "title": "城市微度假路线实测与评估",
+      "summary": "每到周末想挣脱日复一日两点一线的生活循环，大部分人的第一反应就是打开短视频与本地生活平台搜寻游玩攻略。但不难发现，全网推荐的目的地高度趋同：翻新打造的网红商业街、人满为患的山顶观景台、依靠布景营销出圈的特色咖啡馆。这类点位经过大量博主传播造势之后，每逢休......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/a4qpzx8l/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqvdmq7/",
+      "title": "城市周边微度假路线实测报告",
+      "summary": "一到周末想跳出日复一日的生活闭环，绝大多数人的第一选择就是打开短视频、本地生活平台检索游玩攻略。但你大概率会发现，全网推的目的地高度雷同：翻新打造的网红商业街、人挤人的山顶观景台、靠布景营销出圈的特色咖啡馆。这类点位经过大量博主传播之后，每到周末就迎来客......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/apqvdmq7/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877856317027053697",
+      "title": "三十四载行业坚守，他以三重身份亲历中国高铁蝶变腾飞",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-01",
+      "url": "http://baijiahao.baidu.com/s?id=1877856317027053697"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261001/herald/e9ae76876e942460ebd32609e7698b85.html",
+      "title": "沙、阿、以三国调查迪拜航空“蓄意坠机”事件",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-01",
+      "url": "https://www.21jingji.com/article/20261001/herald/e9ae76876e942460ebd32609e7698b85.html"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3782903",
+      "title": "特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人",
       "summary": "NewsData报道",
       "source": "Wallstreetcn",
-      "date": "2026-09-30",
-      "url": "https://wallstreetcn.com/articles/3782858"
+      "date": "2026-10-01",
+      "url": "https://wallstreetcn.com/articles/3782903"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877755558124752387",
-      "title": "从聚光灯下的 Demo，到工厂里的量产——具身智能..",
+      "id": "https://post.smzdm.com/p/ad79e06p/",
+      "title": "别再只拍前面了，后录4K才是真安全，70迈E800深度实测",
+      "summary": "最近有不少朋友在问行车记录仪的事，尤其是刚提了新车的，或者被劣质行车记录仪那个马赛克画质折磨够了的，我发现大家纠结的点高度一致：要不要上前后双录？后录到底有没有必要花那个钱？今天咱们就借着我刚体验的这台70迈E800记录仪，把这事儿掰开揉碎了聊清楚，顺便......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/ad79e06p/"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3592077",
+      "title": "丰田在密歇根州开设电池研发中心",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-10-01",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3592077"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70n7m55/",
+      "title": "人形机器人要200GB内存，AI泡沫破了也不降价？",
+      "summary": "一台人形机器人，要吃掉超过 200GB 内存，外加好几 TB 闪存。这个数字出自 10 月 1 日美光的财报电话会。同一场会上，这家公司给出了季度营收 542 亿美元、毛利率 87% 的成绩单，都是......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/a70n7m55/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877820706802265956",
+      "title": "出行注意！国庆假期新能源车充电高峰时段最新研判",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-09-30",
-      "url": "http://baijiahao.baidu.com/s?id=1877755558124752387"
+      "date": "2026-10-01",
+      "url": "http://baijiahao.baidu.com/s?id=1877820706802265956"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877771371364357876",
-      "title": "轿车突然频繁闪灯、鸣笛，举止反常！被执勤交警注意到..",
-      "summary": "9月17日21时42分许一辆行驶中的轿车突然频繁闪烁大灯、鸣响喇叭急促异常的行车举动瞬间引起了正在执勤的朱金宇的高度警觉他立即靠边停车，主动上前问询了解情况。经驾乘人员焦急诉说得知，车辆后座的老人突......",
-      "source": "News_Baidu",
-      "date": "2026-09-30",
-      "url": "http://baijiahao.baidu.com/s?id=1877771371364357876"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qpznwl/",
-      "title": "比亚迪新车官宣：9月30日，即将上市",
-      "summary": "9月30日消息，比亚迪官方发布了第二代海鸥的内饰图，这也意味着该车即将上市。其实它早已完成工信部申报，还有大量谍照和设计草图流出，只不过像这种低价小型车，内部细节才是最重要的。现在官方提前公布内部详情......",
-      "source": "Smzdm",
-      "date": "2026-09-30",
-      "url": "https://post.smzdm.com/p/a4qpznwl/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkzqv0w/",
-      "title": "纯电续航830km！华为乾崑新车官宣：9月30开启预售",
-      "summary": "这个月问界频繁登上热搜，因为接下来这个品牌将不再由华为主导，而是改为了塞力斯。不过车主不用着急，它们仍然是合作关系，与其它几个华为合作车企的形式差不多。9月30日，问界新M8开启预售，之所以专门提到它......",
-      "source": "Smzdm",
-      "date": "2026-09-30",
-      "url": "https://post.smzdm.com/p/axkzqv0w/"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-09-30/4596301.html",
-      "title": "迪拜航空航班遇险，内塔尼亚胡等人还原现场：飞行员被刺伤，行凶者要让所有乘客一起坠毁，幸好多人闯入驾驶舱制服了他",
-      "summary": "迪拜航空航班遇险，内塔尼亚胡等人还原现场：飞行员被刺伤，行凶者要让所有乘客一起坠毁，幸好多人闯入驾驶舱制服了他...",
-      "source": "Nbd_Cn",
-      "date": "2026-09-30",
-      "url": "https://www.nbd.com.cn/articles/2026-09-30/4596301.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am98rgok/",
-      "title": "18.98万起！纯电300km的方盒子，iCAR V27长续航版上市！",
-      "summary": "9月30日，奇瑞iCAR V27长续航版正式上市，两款配置，售价分别为18.98万和20.38万。增程车的心病，被一块大电池治好了买增程车的人，心里都有一本账。理想状态下，日常通勤用电、长途出行用油，两全其美。但现实是，很多增程车的纯电续航只有一百多两百......",
-      "source": "Smzdm",
-      "date": "2026-09-30",
-      "url": "https://post.smzdm.com/p/am98rgok/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877739260298099298",
-      "title": "欧阳明高：当技术革命家是我的追求",
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3591752",
+      "title": "昊新控股在华推进1,802万美元电动卡车采购计划",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-30",
-      "url": "http://baijiahao.baidu.com/s?id=1877739260298099298"
+      "source": "Investing_Cn",
+      "date": "2026-10-01",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3591752"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-09-30/4596186.html",
-      "title": "70亿元电池项目投产，比亚迪与西安进入下半场",
-      "summary": "从2003年收购秦川汽车，到今天形成高新、草堂、集贤、西咸多园区布局，比亚迪在西安已经不是一次投资，而是一场持续了20多年的长期下注。...",
-      "source": "Nbd_Cn",
-      "date": "2026-09-30",
-      "url": "https://www.nbd.com.cn/articles/2026-09-30/4596186.html"
+      "id": "https://post.smzdm.com/p/a03qwl89/",
+      "title": "忍了几年原厂\"马赛克\"，终于动手给爱车换了双4K记录仪-70迈E800",
+      "summary": "朋友们好，我是雷军！点关注不迷路，每期带您认识一个超靠谱的国产大牌！ಠ_ಠ先自曝家丑：我的腾势X，2020款三十万级的新能源旗舰SUV，比亚迪和奔驰合资打造，牌子够硬吧？结果你们猜怎么着——原厂自带的行车记录仪，画质感人，还没有后摄功能。每次跟人聊起这事......",
+      "source": "Smzdm",
+      "date": "2026-10-01",
+      "url": "https://post.smzdm.com/p/a03qwl89/"
     },
     {
-      "id": "https://www.21jingji.com/article/20260930/herald/26fced9a0ae2675cf9a9fec89740dbc0.html",
-      "title": "珠海市市场监督管理局2026年民生领域案件查办“铁拳出稽 守护南粤”行动第四批典型案例（节日消费专题）",
+      "id": "http://www.eeo.com.cn/2026/1001/1054789.shtml",
+      "title": "福田“除旧布新”：密云基地出清落定 “十五五”规划出炉",
+      "summary": "一份公告两项战略，一个是旧资产处理，一个是新目标制定。福田卸下包袱的同时，也进入了新的高强度目标周期。...",
+      "source": "Eeo",
+      "date": "2026-10-01",
+      "url": "http://www.eeo.com.cn/2026/1001/1054789.shtml"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261001/herald/b687d9bf08fcfa5a57e15c79a6b739a8.html",
+      "title": "拿到全球车型“入场券”，Momenta智驾出海启航在即？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-09-30",
-      "url": "https://www.21jingji.com/article/20260930/herald/26fced9a0ae2675cf9a9fec89740dbc0.html"
+      "date": "2026-10-01",
+      "url": "https://www.21jingji.com/article/20261001/herald/b687d9bf08fcfa5a57e15c79a6b739a8.html"
     },
     {
-      "id": "https://yz.rednet.cn/content/646043/74/16335245.html",
-      "title": "守护国庆平安！永州公安开展社会治安清查宣防集中统一行动_政务_永州站",
-      "summary": "NewsData报道",
-      "source": "Rednet_Cn",
-      "date": "2026-09-30",
-      "url": "https://yz.rednet.cn/content/646043/74/16335245.html"
-    },
-    {
-      "id": "https://www.jiemian.com/article/15157653.html",
-      "title": "迪拜客机事件是“未遂恐袭”？大选前以色列如临大敌",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-09-30",
-      "url": "https://www.jiemian.com/article/15157653.html"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/china/story20260930-9763436",
-      "title": "国民党立法院党团提修正《刑法》 为四类犯罪增列鞭刑",
-      "summary": "台湾立法院通过的“鞭刑公投”提案遭中央选举委员会否决后，在野中国国民党立法院党团决定提出《刑法》修正案，针对重大性暴力、吸毒驾驶、虐童致死致重伤，以及重大诈欺等四类犯罪增列鞭刑。...",
-      "source": "Zaobao",
-      "date": "2026-09-30",
-      "url": "https://www.zaobao.com.sg/news/china/story20260930-9763436"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-09-30/4596159.html",
-      "title": "美股集体高开；商务部：延长对美国相关做法措施贸易壁垒调查期限；苹果据悉将进军智能家居市场；宁德时代拟推新员工持股计划丨每经晚参",
-      "summary": "美股集体高开；商务部：延长对美国相关做法措施贸易壁垒调查期限；苹果据悉将进军智能家居市场；宁德时代拟推新员工持股计划丨每经晚参...",
-      "source": "Nbd_Cn",
-      "date": "2026-09-30",
-      "url": "https://www.nbd.com.cn/articles/2026-09-30/4596159.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877764334905309880",
-      "title": "美股集体高开；商务部：延长对美国相关做法措施贸易壁..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-09-30",
-      "url": "http://baijiahao.baidu.com/s?id=1877764334905309880"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260930/herald/3edf2d11ab1221307461eeb5129fd499.html",
-      "title": "再造新狮山：从产业重镇迈向产业新城",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-09-30",
-      "url": "https://www.21jingji.com/article/20260930/herald/3edf2d11ab1221307461eeb5129fd499.html"
+      "id": "https://www.manilatimes.net/2026/10/01/tmt-newswire/pr-newswire/tier-iv-joins-arm-total-design-for-physical-ai-to-accelerate-ready-to-use-autoware-solutions-through-open-ad-kit/2436740",
+      "title": "TIER IV joins Arm Total Design for Physical AI to accelerate ready-to-use Autoware solutions through Open AD Kit",
+      "summary": "**media[1241441]**TOKYO, Oct. 1, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind Autoware, open-source software for autonomous driving, today announced that it has joined Arm® Total Design f...",
+      "source": "The Manila Times",
+      "date": "2026-10-01",
+      "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/pr-newswire/tier-iv-joins-arm-total-design-for-physical-ai-to-accelerate-ready-to-use-autoware-solutions-through-open-ad-kit/2436740"
     },
     {
       "id": "https://www.reuters.com/world/asia-pacific/mercedes-backed-momenta-targets-dubai-europe-robotaxi-expansion-2026-09-30/",
@@ -199,68 +245,28 @@
       "url": "https://www.reuters.com/world/asia-pacific/mercedes-backed-momenta-targets-dubai-europe-robotaxi-expansion-2026-09-30/"
     },
     {
+      "id": "https://www.marketscreener.com/news/tesla-expands-european-fsd-rollout-with-croatia-approval-ce785adddd8af12d",
+      "title": "Tesla Expands European FSD Rollout With Croatia Approval",
+      "summary": "Tesla's supervised Full Self-Driving software has received approval in Croatia, with a nationwide rollout expected to begin soon, Reuters reported Tuesday, citing the company.\nCroatia joins the......",
+      "source": "MarketScreener",
+      "date": "2026-09-29",
+      "url": "https://www.marketscreener.com/news/tesla-expands-european-fsd-rollout-with-croatia-approval-ce785adddd8af12d"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/safety-group-urges-eu-to-reject-tesla-fsd-over-speed-offset-ce785adddb81f127",
+      "title": "Safety group urges EU to reject Tesla FSD over speed offset",
+      "summary": "A prominent safety group on Tuesday urged European Union member states to reject approval of US automaker Tesla's Full Self-Driving system, citing concerns that it may allow users to exceed speed......",
+      "source": "MarketScreener",
+      "date": "2026-09-29",
+      "url": "https://www.marketscreener.com/news/safety-group-urges-eu-to-reject-tesla-fsd-over-speed-offset-ce785adddb81f127"
+    },
+    {
       "id": "https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255",
       "title": "Momenta, Stellantis form JV for driver assist tech",
       "summary": "BEIJING — Momenta, a Chinese maker of autonomous-driving software, has agreed to work with a Stellantis joint venture to develop advanced driver-assistance technology, it said on Monday, adding Jeep a...",
       "source": "The Manila Times",
       "date": "2026-09-28",
       "url": "https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/itochu-aioi-nissay-dowa-partner-on-autonomous-taxi-insurance-ce785adcdb89f324",
-      "title": "Itochu, Aioi Nissay Dowa Partner on Autonomous Taxi Insurance",
-      "summary": "Itochu and MS&AD Insurance subsidiary Aioi Nissay Dowa Insurance plan to jointly create insurance products for self-driving taxis, with U.S. sales targeted as early as fiscal 2027, Nikkei Asia......",
-      "source": "MarketScreener",
-      "date": "2026-09-28",
-      "url": "https://www.marketscreener.com/news/itochu-aioi-nissay-dowa-partner-on-autonomous-taxi-insurance-ce785adcdb89f324"
-    },
-    {
-      "id": "https://www.europesays.com/3276494/",
-      "title": "Nissan launches Autonomous Drive Research Project to bring future mobility service to UK streets",
-      "summary": "CRANFIELD, UK — Nissan will bring self-driving cars to Cambridge to serve real life people in real life communities....",
-      "source": "EUROPE SAYS",
-      "date": "2026-09-28",
-      "url": "https://www.europesays.com/3276494/"
-    },
-    {
-      "id": "https://www.thehindu.com/sci-tech/technology/waymo-self-driving-taxi-review-making-peace-with-autonomous-driving-technology/article71507319.ece",
-      "title": "Waymo Self-Driving Taxi Review | Making peace with autonomous driving technology",
-      "summary": "Waymo is a game changer for short, inner-city rides where accessibility and women’s safety are priorities....",
-      "source": "The Hindu",
-      "date": "2026-09-26",
-      "url": "https://www.thehindu.com/sci-tech/technology/waymo-self-driving-taxi-review-making-peace-with-autonomous-driving-technology/article71507319.ece"
-    },
-    {
-      "id": "https://lfpress.com/press-releases/globe-newswire/monaco-smart-and-sustainable-marina-awards/",
-      "title": "Monaco Smart and sustainable marina awards",
-      "summary": "Monaco awards technologies driving the future of sustainable marinasMONACO, Sept. 25, 2026 (GLOBE NEWSWIRE) -- From autonomous charging for electric boats...",
-      "source": "The London Free Press",
-      "date": "2026-09-25",
-      "url": "https://lfpress.com/press-releases/globe-newswire/monaco-smart-and-sustainable-marina-awards/"
-    },
-    {
-      "id": "https://www.freightwaves.com/news/einride-nvidia-hyperion-autonomous-trucking",
-      "title": "Einride, Nvidia partner on heavy-duty autonomous trucking",
-      "summary": "Einride will build its next autonomous driving system on Nvidia Hyperion, adapting it for heavy-duty trucks as it targets 1,500 to 2,000 vehicles by 2028...",
-      "source": "FreightWaves",
-      "date": "2026-09-24",
-      "url": "https://www.freightwaves.com/news/einride-nvidia-hyperion-autonomous-trucking"
-    },
-    {
-      "id": "https://www.breitbart.com/tech/2026/09/23/aurora-tests-autonomous-semi-truck-in-texas-aims-to-replace-human-drivers/",
-      "title": "Aurora Tests Autonomous Semi Truck in Texas, Aims to Replace Human Drivers",
-      "summary": "CNBC's Phil LeBeau spent more than three hours riding in an autonomous semi truck through Texas, watching the vehicle navigate highway traffic with nobody behind the wheel. Some experts believe 3.5 mi...",
-      "source": "Breitbart News Network",
-      "date": "2026-09-23",
-      "url": "https://www.breitbart.com/tech/2026/09/23/aurora-tests-autonomous-semi-truck-in-texas-aims-to-replace-human-drivers/"
-    },
-    {
-      "id": "https://www.siliconrepublic.com/machines/ireland-europe-robotaxi-geotab-edward-kulperger",
-      "title": "Geotab SVP on the future of robotaxis in Europe",
-      "summary": "Geotab EMEA SVP Edward Kulperger on autonomous vehicle training and safety, and the future of driving on Irish roads....",
-      "source": "Siliconrepublic.com",
-      "date": "2026-09-22",
-      "url": "https://www.siliconrepublic.com/machines/ireland-europe-robotaxi-geotab-edward-kulperger"
     }
   ]
 }
