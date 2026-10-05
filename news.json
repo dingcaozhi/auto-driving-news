@@ -1,14 +1,10 @@
 {
-  "lastUpdated": "2026-10-04 05:30:47",
-  "totalCount": 28,
+  "lastUpdated": "2026-10-05 05:13:43",
+  "totalCount": 27,
   "sources": {
-    "Rednet_Cn": 1,
-    "News_Baidu": 5,
     "Smzdm": 7,
-    "21Jingji": 1,
-    "Zaobao": 2,
-    "Cri_Cn": 1,
-    "Nbd_Cn": 1,
+    "News_Baidu": 7,
+    "21Jingji": 3,
     "Le News": 1,
     "Seeking Alpha": 1,
     "Fortune": 1,
@@ -21,148 +17,140 @@
   },
   "news": [
     {
-      "id": "https://yz.rednet.cn/content/646054/95/16342174.html",
-      "title": "国庆我在岗丨你晒风景，我守平安！来看看永州公安的假期打开方式_政务_永州站",
-      "summary": "NewsData报道",
-      "source": "Rednet_Cn",
-      "date": "2026-10-03",
-      "url": "https://yz.rednet.cn/content/646054/95/16342174.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878043264242609759",
-      "title": "国庆假期 海军编队坚守战位 护卫国际航道安全",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-03",
-      "url": "http://baijiahao.baidu.com/s?id=1878043264242609759"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a956l635/",
-      "title": "小米新车官宣：10月3日，即将截止",
-      "summary": "10月3日消息，新上市的小米澎程新车首销期即将结束，雷军专门发布了小米澎程首销期权益倒计时5天的海报。因为首销期结束后，部分权益也将截止，为了避免后续有人因为错过而后悔，才会专门提醒。虽然此次的小米澎......",
+      "id": "https://post.smzdm.com/p/a6zpmn5n/",
+      "title": "车长4.7米！现代新车官宣：10月5日即将上市",
+      "summary": "10月5日消息，在8月份发布的全新第五代现代途胜，目前已经官宣即将在韩国上市交付。该车属于全新换代车型，之所以对它感兴趣的人多，是因为它也采用目前国内很流行的方盒子造型，不过国产全新第五代途胜尚未官宣......",
       "source": "Smzdm",
-      "date": "2026-10-03",
-      "url": "https://post.smzdm.com/p/a956l635/"
+      "date": "2026-10-04",
+      "url": "https://post.smzdm.com/p/a6zpmn5n/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877994697045459600",
-      "title": "一部剧带火一座城！县域成为消费版图新“主场”",
+      "id": "https://post.smzdm.com/p/anv9w253/",
+      "title": "72.5万起！宝马发布新车：10月5日，即将上市",
+      "summary": "10月5日消息，宝马官方目前发布了新款宝马X3 M50 xDrive的外观图和配置信息，该车即将在12月份上市交付。这是年度性能升级改款，不是全新换代，它定位是X3车系燃油版顶级M-Performan......",
+      "source": "Smzdm",
+      "date": "2026-10-04",
+      "url": "https://post.smzdm.com/p/anv9w253/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878015457694254690",
+      "title": "这支交警女子中队在大明湖畔迎来转隶后首个国庆节",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-03",
-      "url": "http://baijiahao.baidu.com/s?id=1877994697045459600"
+      "date": "2026-10-04",
+      "url": "http://baijiahao.baidu.com/s?id=1878015457694254690"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878039743054876244",
-      "title": "假日里，他们坚守岗位",
+      "id": "http://baijiahao.baidu.com/s?id=1878124990401595536",
+      "title": "打车2060公里带母亲进京看升旗仪式 网红“李要得..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-03",
-      "url": "http://baijiahao.baidu.com/s?id=1878039743054876244"
+      "date": "2026-10-04",
+      "url": "http://baijiahao.baidu.com/s?id=1878124990401595536"
     },
     {
-      "id": "https://www.21jingji.com/article/20261003/herald/fa212500b6b451929afc5ba857c241cb.html",
-      "title": "凌晨时分一把抓住！南山民警风浪中救起落水群众",
+      "id": "https://post.smzdm.com/p/ad7mxldd/",
+      "title": "深圳走应急车道被罚6000、扣12分男子再发声：事情发生了就让它过去了",
+      "summary": "快科技10月5日消息，近日广东深圳车主陈先生（化姓）对外分享了自己的一次深刻教训，国庆前后他通勤途经高速路段时碰到严重堵车，因为怕迟到耽误上班，脑子一热就选择走应急车道穿行。9月30日高速通行高峰堵车......",
+      "source": "Smzdm",
+      "date": "2026-10-04",
+      "url": "https://post.smzdm.com/p/ad7mxldd/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878094667623632861",
+      "title": "长假惊险一幕：司机在高速打开智驾后睡着，拍摄者：多..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-04",
+      "url": "http://baijiahao.baidu.com/s?id=1878094667623632861"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878007187394702222",
+      "title": "月亮会看见，一个中国女孩对星空的仰望 |《你好 2..",
+      "summary": "第三集揽月承愿 2035年，中国妇女报记者林晓夏走进航天地面任务中心，开启又一场跨时空回访。本次她回访的是我国月球驻站航天员沈澜。林晓夏带来了沈澜在2026年录制的心愿影像，那时的沈澜，希望自己在2035年已登上月球...",
+      "source": "News_Baidu",
+      "date": "2026-10-04",
+      "url": "http://baijiahao.baidu.com/s?id=1878007187394702222"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878129524164457378",
+      "title": "视频丨太危险，男子高速打开“智驾”后睡着了！",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-04",
+      "url": "http://baijiahao.baidu.com/s?id=1878129524164457378"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261004/herald/ef3fc13cb9f89be2acb97db63ec74cb5.html",
+      "title": "深圳一男子因急着上班，连续两天走应急车道被罚6000元扣12分！网友：建议全国推广",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-03",
-      "url": "https://www.21jingji.com/article/20261003/herald/fa212500b6b451929afc5ba857c241cb.html"
+      "date": "2026-10-04",
+      "url": "https://www.21jingji.com/article/20261004/herald/ef3fc13cb9f89be2acb97db63ec74cb5.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ad7mx3nz/",
-      "title": "小鹏新车官宣：10月3日继续开售，12.38万起",
-      "summary": "10月3日消息，小鹏官方目前公布了9月份的销量成绩，其中小鹏MONA L03的表现很亮眼，9月交付超14000台。另外还公布了一些有趣的数据，超九成订单选择的高配的Max、Ultra SE版本，而且每......",
-      "source": "Smzdm",
-      "date": "2026-10-03",
-      "url": "https://post.smzdm.com/p/ad7mx3nz/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a26xw397/",
-      "title": "纯电续航810km！吉利新车官宣：10月3日，降价上新",
-      "summary": "10月3日消息，为了10月份这个销售旺季多卖点，吉利车系有很多新动作，其中就包括给旗下的焕新极氪001降价上新。目前官方宣布给新车增加了哑光岩灰车漆，以及全新冰川灰内饰，选购的时候已经可以选择了，不过......",
-      "source": "Smzdm",
-      "date": "2026-10-03",
-      "url": "https://post.smzdm.com/p/a26xw397/"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/china/story20261003-9779173",
-      "title": "台海巡署以水炮驱离大陆渔船 引台湾强硬执法讨论",
-      "summary": "台湾升级东沙巡防执法之际，海巡署舰艇喷射水炮驱离进入限制区域的中国大陆渔船，引发两岸舆论对台湾“态度变强硬”的讨论。...",
-      "source": "Zaobao",
-      "date": "2026-10-03",
-      "url": "https://www.zaobao.com.sg/news/china/story20261003-9779173"
-    },
-    {
-      "id": "https://news.cri.cn/20261003/334c3b05-e6ec-4c7a-b54b-92cbbccd03e1.html",
-      "title": "视频丨国庆假期 海军编队坚守战位 护卫国际航道安全-国际在线",
-      "summary": "这个假期，有人假日不休、生产不停，还有人坚守战位、守护安全。国庆佳节，正在远海执行护航任务的海军第49批护航编队，举行了一场特殊的升旗仪式。五星红旗在深蓝大洋上升起，护航官兵坚守战位，用忠诚与担当，在远海大洋护卫国际航道安全。 亲手升...",
-      "source": "Cri_Cn",
-      "date": "2026-10-03",
-      "url": "https://news.cri.cn/20261003/334c3b05-e6ec-4c7a-b54b-92cbbccd03e1.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a26xwenp/",
-      "title": "特斯拉上线紧急驶离功能，强扯充电枪可逃生但赔偿最高16.8万元",
-      "summary": "10月1日，特斯拉在美国上线了“紧急驶离”功能。简单来说，就是车插着超充枪充电时，遇到危险可以直接挂D挡踩油门走人，不用管枪拔没拔下来。但这操作代价不小，官方明确提示会损坏车辆和充电桩，其中充电桩侧最高损失可达2.5万美元（约16.8万元人民币）。为保命......",
-      "source": "Smzdm",
-      "date": "2026-10-03",
-      "url": "https://post.smzdm.com/p/a26xwenp/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a26xw3zd/",
-      "title": "国庆返程充电高峰明日开启：第一次在服务区车中泊前，先弄懂超时费、免费截止和取号三条规则",
-      "summary": "今天是国庆假期第 3 天。交通运输部的公路网运行研判说得很直白：10 月 2 日到 6 日，全国高速公路总流量维持在日均 6200 万到 6400 万辆次，其中新能源车日均约 1680 万辆次，占比约 27%。假期头两天，多个服务区已经上演了\"取号充电、......",
-      "source": "Smzdm",
-      "date": "2026-10-03",
-      "url": "https://post.smzdm.com/p/a26xw3zd/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgp8ew9/",
-      "title": "7500块的贴纸车、600块的柴暖、17平米拖挂小家：老头乐的\"第二波消费\"掏钱前，先过评论区这道安全感关",
-      "summary": "一边禁产，一边\"改装备\"的魔幻现场9月21日界面新闻确认了一件事：江苏徐州和鲁西南部分地区，厂家已被限制生产低速电动四轮车，下游一家座椅配件厂订单少了三分之一，保险杠厂掉了20%—30%。界面新闻但电商渠道的老头乐还在正常卖，淘宝客服的话术还是那三件套—......",
-      "source": "Smzdm",
-      "date": "2026-10-03",
-      "url": "https://post.smzdm.com/p/avgp8ew9/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878036124279286359",
-      "title": "高德多项数据创新高，已成为全球最大空间智能应用",
+      "id": "http://baijiahao.baidu.com/s?id=1878129442758069003",
+      "title": "网红“李要得”打车2060公里带母亲去北京天安门看..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-03",
-      "url": "http://baijiahao.baidu.com/s?id=1878036124279286359"
+      "date": "2026-10-04",
+      "url": "http://baijiahao.baidu.com/s?id=1878129442758069003"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sea/story20261003-9779156",
-      "title": "拖欠马政府2亿令吉代收款 数码服务外包公司遭暂停陆路收费服务",
-      "summary": "（吉隆坡综合讯）马来西亚政府的主要电子政务与数码服务外包公司被爆拖欠陆路交通局超过2亿令吉（约6300万新元）的代收款项。陆交局宣布从下周开始，暂停这家科技公司代收款项的服务。...",
-      "source": "Zaobao",
-      "date": "2026-10-03",
-      "url": "https://www.zaobao.com.sg/news/sea/story20261003-9779156"
+      "id": "https://post.smzdm.com/p/axkownl3/",
+      "title": "9月交付1.4万！小鹏MONA L03大获成功，吸引BBA车主？",
+      "summary": "小鹏汽车在今年7月份推出了MONA系列的第二款全新车型——MONA L03，该车型也是MONA系列第一款SUV，整体的配置比MONA M03高了不少，但是起售价仅仅贵了四千块钱，所以小宅认为该车型的“......",
+      "source": "Smzdm",
+      "date": "2026-10-04",
+      "url": "https://post.smzdm.com/p/axkownl3/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878020927879738539",
-      "title": "国庆我在岗｜走进北京站“高效接驳”现场",
+      "id": "http://baijiahao.baidu.com/s?id=1878127305689283076",
+      "title": "深圳一男子被无人驾驶车车门夹住三根手指，一边跺脚一..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-03",
-      "url": "http://baijiahao.baidu.com/s?id=1878020927879738539"
+      "date": "2026-10-04",
+      "url": "http://baijiahao.baidu.com/s?id=1878127305689283076"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-10-03/4596960.html",
-      "title": "时隔28年！中国男足夺亚运铜牌；东航再通报“空姐下跪道歉”事件；苹果确认iPhone18ProMax有问题；OpenAI安全负责人离职丨每经晚参",
-      "summary": "时隔28年！中国男足夺亚运铜牌；东航再通报“空姐下跪道歉”事件；苹果确认iPhone18ProMax有问题；OpenAI安全负责人离职丨每经晚参...",
-      "source": "Nbd_Cn",
-      "date": "2026-10-03",
-      "url": "https://www.nbd.com.cn/articles/2026-10-03/4596960.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/az8owlzp/",
-      "title": "国庆15城车展都刷到星越L PLUS实车了？等新车还是抄底现款，先把这三本账对完",
-      "summary": "这个十一，只要去了地方车展的吉利展台，大概率撞见同一个场面：星瑞L PLUS和星越L PLUS两台车顶带激光雷达的新旗舰同框首秀，旁边停着贴了直降海报的现款星越L。吉利汽车携全新中国星PLUS系列旗舰车型登陆全国15座核心城市车展，杭州、合肥、长沙、西安......",
+      "id": "https://post.smzdm.com/p/am93d0o4/",
+      "title": "比亚迪新车官宣：10月5日继续开售，6.98万起",
+      "summary": "10月5日消息，比亚迪王朝网经理路天公布了比亚迪元UP的最新销量，9月份它的销量为62711辆，甚至比很多车企所有车型合起来的销量还要多。该车属于元UP上市之后最大一次年度改款，另外就在9月份该车还上......",
       "source": "Smzdm",
-      "date": "2026-10-03",
-      "url": "https://post.smzdm.com/p/az8owlzp/"
+      "date": "2026-10-04",
+      "url": "https://post.smzdm.com/p/am93d0o4/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomvl22n/",
+      "title": "新迈巴赫S级和尊界S800顶配只差1万：差的其实不是车，是16万税费和50万折旧曲线",
+      "summary": "9月下旬，新款梅赛德斯-迈巴赫S级正式上市：4个配置，139.8万起，顶配V12报335.30万，入门S480比老款的146.8万直接降了7万。 而在3个月前的7月，鸿蒙智行尊界S800的\"典藏大观\"4座顶配定在138.8万。 两台车第一次在\"138-1......",
+      "source": "Smzdm",
+      "date": "2026-10-04",
+      "url": "https://post.smzdm.com/p/aomvl22n/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a82p7q8l/",
+      "title": "开智驾睡着登上人民日报、事故前一秒退出追尾大货车：我把9起案例、3张罚单和4份新规摆在一起，返程这几天智驾的边界就长这样",
+      "summary": "10月1日，沪昆高速衢州往上饶段，国庆车流高峰。邻车副驾往旁边瞥了一眼，直接喊出声：隔壁车道那台车的司机脑袋耷拉在座椅上，睡熟了，方向盘上没有人，车还在车流里自己往前开——智驾模式运行中。拍摄者杨先生按了一两分钟喇叭，周围车跟着鸣笛，愣是没叫醒。最后把他......",
+      "source": "Smzdm",
+      "date": "2026-10-04",
+      "url": "https://post.smzdm.com/p/a82p7q8l/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261004/herald/6d53a6e1eca0fa950cfbaa808e9b484e.html",
+      "title": "9月新基金发行重回千亿大关 单月成立数量创近5年新高",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-04",
+      "url": "https://www.21jingji.com/article/20261004/herald/6d53a6e1eca0fa950cfbaa808e9b484e.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261004/herald/1ec088091a6fa22e1a3750f35a56a3a1.html",
+      "title": "太危险，男子高速打开“智驾”后睡着了！",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-04",
+      "url": "https://www.21jingji.com/article/20261004/herald/1ec088091a6fa22e1a3750f35a56a3a1.html"
     },
     {
       "id": "https://lenews.ch/2026/10/02/switzerlands-first-robotaxi-takes-to-the-road/",
