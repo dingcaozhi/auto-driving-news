@@ -1,156 +1,206 @@
 {
-  "lastUpdated": "2026-10-05 05:13:43",
-  "totalCount": 27,
+  "lastUpdated": "2026-10-06 05:58:48",
+  "totalCount": 29,
   "sources": {
-    "Smzdm": 7,
-    "News_Baidu": 7,
-    "21Jingji": 3,
+    "Smzdm": 8,
+    "Chinanews": 1,
+    "News_Baidu": 8,
+    "Hypebeast_Cn": 1,
+    "Wallstreetcn": 1,
+    "Portland Press Herald": 1,
+    "CNET": 1,
+    "The Manila Times": 2,
+    "Heise Online": 1,
     "Le News": 1,
     "Seeking Alpha": 1,
     "Fortune": 1,
     "NewsBreak": 1,
-    "The Manila Times": 2,
-    "Reuters": 1,
-    "MarketScreener": 1,
-    "EUROPE SAYS": 1,
-    "The Hindu": 1
+    "Reuters": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/a6zpmn5n/",
-      "title": "车长4.7米！现代新车官宣：10月5日即将上市",
-      "summary": "10月5日消息，在8月份发布的全新第五代现代途胜，目前已经官宣即将在韩国上市交付。该车属于全新换代车型，之所以对它感兴趣的人多，是因为它也采用目前国内很流行的方盒子造型，不过国产全新第五代途胜尚未官宣......",
+      "id": "https://post.smzdm.com/p/axko5zwd/",
+      "title": "11.99万起！比亚迪新车官宣：10月6日继续开卖",
+      "summary": "10月6日消息，大多数车企进入10月份之后虽然都公布了喜报，但一般就一张，比亚迪这边不太一样，喜报是一张接着一张。根据比亚迪王朝网经理路天公布的最新喜报，第三代元PLUS的9月份销量为20609辆，要......",
       "source": "Smzdm",
-      "date": "2026-10-04",
-      "url": "https://post.smzdm.com/p/a6zpmn5n/"
+      "date": "2026-10-05",
+      "url": "https://post.smzdm.com/p/axko5zwd/"
     },
     {
-      "id": "https://post.smzdm.com/p/anv9w253/",
-      "title": "72.5万起！宝马发布新车：10月5日，即将上市",
-      "summary": "10月5日消息，宝马官方目前发布了新款宝马X3 M50 xDrive的外观图和配置信息，该车即将在12月份上市交付。这是年度性能升级改款，不是全新换代，它定位是X3车系燃油版顶级M-Performan......",
+      "id": "https://post.smzdm.com/p/aomvkx9n/",
+      "title": "充电80%强制离场新规引争议！增程车高速排队充电 纯电车狠吐槽：两方吵翻",
+      "summary": "快科技10月5日消息，国庆出行高峰时段，国内多条主干高速沿线的服务区，都出现了新能源汽车充电排长队的拥堵现象。针对这种补能资源挤兑的情况，湖北枣阳北服务区率先出台了充电至80%就强制离场的新规，高峰时......",
       "source": "Smzdm",
-      "date": "2026-10-04",
-      "url": "https://post.smzdm.com/p/anv9w253/"
+      "date": "2026-10-05",
+      "url": "https://post.smzdm.com/p/aomvkx9n/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878015457694254690",
-      "title": "这支交警女子中队在大明湖畔迎来转隶后首个国庆节",
+      "id": "https://www.chinanews.com.cn/gj/2026/10-06/10708299.shtml",
+      "title": "迪拜航空客机上到底发生了什么 遭袭机长等人“还原”惊魂时刻",
+      "summary": "9月30日，迪拜航空FZ1073航班空中突发险情，客机曾在短短30秒内骤降近4300米。危急关头，机上乘客与其他机组人员合力制伏刺伤机长的副驾驶，夺回飞机操控权，客机最终在沙特紧急降落。这趟航班经历了怎样惊心动魄的时刻？...",
+      "source": "Chinanews",
+      "date": "2026-10-05",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708299.shtml"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878223768077199438",
+      "title": "1、2、3……一群不期而遇的热心人，国庆节济南街头..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-04",
-      "url": "http://baijiahao.baidu.com/s?id=1878015457694254690"
+      "date": "2026-10-05",
+      "url": "http://baijiahao.baidu.com/s?id=1878223768077199438"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878124990401595536",
-      "title": "打车2060公里带母亲进京看升旗仪式 网红“李要得..",
-      "summary": "NewsData报道",
+      "id": "http://baijiahao.baidu.com/s?id=1878177054502545997",
+      "title": "【我的名字叫国庆】名字与家国同庆，十六载车轮不息",
+      "summary": "我的名字叫国庆 有一种名字承载着与祖国同庆的美好期许。在上海交通行业中，有这样一群人，他们拥有一个共同的名字——“国庆”。从行业管理到运输保障，他们扎根交通一线，在平凡的岗位上默默坚守，守护城市交通。今天，跟着小交的脚步...",
       "source": "News_Baidu",
-      "date": "2026-10-04",
-      "url": "http://baijiahao.baidu.com/s?id=1878124990401595536"
+      "date": "2026-10-05",
+      "url": "http://baijiahao.baidu.com/s?id=1878177054502545997"
     },
     {
-      "id": "https://post.smzdm.com/p/ad7mxldd/",
-      "title": "深圳走应急车道被罚6000、扣12分男子再发声：事情发生了就让它过去了",
-      "summary": "快科技10月5日消息，近日广东深圳车主陈先生（化姓）对外分享了自己的一次深刻教训，国庆前后他通勤途经高速路段时碰到严重堵车，因为怕迟到耽误上班，脑子一热就选择走应急车道穿行。9月30日高速通行高峰堵车......",
+      "id": "https://post.smzdm.com/p/aomvkxd6/",
+      "title": "AI发展史（一）：起源——从图灵到达特茅斯",
+      "summary": "引子1950年，图灵在论文《计算机器与智能》中写下了一个问题：“机器能思考吗？”他大概不会想到，这个问题会在七十年后牵动全球数万亿美元资本、数亿台设备、数十亿人的日常生活。他也不会想到，人类为了回答这......",
       "source": "Smzdm",
-      "date": "2026-10-04",
-      "url": "https://post.smzdm.com/p/ad7mxldd/"
+      "date": "2026-10-05",
+      "url": "https://post.smzdm.com/p/aomvkxd6/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878094667623632861",
-      "title": "长假惊险一幕：司机在高速打开智驾后睡着，拍摄者：多..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-04",
-      "url": "http://baijiahao.baidu.com/s?id=1878094667623632861"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878007187394702222",
-      "title": "月亮会看见，一个中国女孩对星空的仰望 |《你好 2..",
-      "summary": "第三集揽月承愿 2035年，中国妇女报记者林晓夏走进航天地面任务中心，开启又一场跨时空回访。本次她回访的是我国月球驻站航天员沈澜。林晓夏带来了沈澜在2026年录制的心愿影像，那时的沈澜，希望自己在2035年已登上月球...",
-      "source": "News_Baidu",
-      "date": "2026-10-04",
-      "url": "http://baijiahao.baidu.com/s?id=1878007187394702222"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878129524164457378",
-      "title": "视频丨太危险，男子高速打开“智驾”后睡着了！",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-04",
-      "url": "http://baijiahao.baidu.com/s?id=1878129524164457378"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261004/herald/ef3fc13cb9f89be2acb97db63ec74cb5.html",
-      "title": "深圳一男子因急着上班，连续两天走应急车道被罚6000元扣12分！网友：建议全国推广",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-04",
-      "url": "https://www.21jingji.com/article/20261004/herald/ef3fc13cb9f89be2acb97db63ec74cb5.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878129442758069003",
-      "title": "网红“李要得”打车2060公里带母亲去北京天安门看..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-04",
-      "url": "http://baijiahao.baidu.com/s?id=1878129442758069003"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkownl3/",
-      "title": "9月交付1.4万！小鹏MONA L03大获成功，吸引BBA车主？",
-      "summary": "小鹏汽车在今年7月份推出了MONA系列的第二款全新车型——MONA L03，该车型也是MONA系列第一款SUV，整体的配置比MONA M03高了不少，但是起售价仅仅贵了四千块钱，所以小宅认为该车型的“......",
+      "id": "https://post.smzdm.com/p/ak8lpxde/",
+      "title": "一边销量腰斩、\"暴雷\"刷屏，一边续约到2038、连发5款新车：本田车主和备选党，先把这三本账算清",
+      "summary": "十一假期第一天，一条\"日系三强8月在华销量连续第5个月同步走弱\"的数据刷了屏：丰田11.84万辆、本田只有2.67万辆，同比下滑49.9%。三天后，东风本田9月成绩单出炉：单月17932台，环比增长1......",
       "source": "Smzdm",
-      "date": "2026-10-04",
-      "url": "https://post.smzdm.com/p/axkownl3/"
+      "date": "2026-10-05",
+      "url": "https://post.smzdm.com/p/ak8lpxde/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878127305689283076",
-      "title": "深圳一男子被无人驾驶车车门夹住三根手指，一边跺脚一..",
+      "id": "https://hypebeast.cn/2026/10/michael-jordans-1997-ferrari-550-maranello-sells-for-2-7-million",
+      "title": "Michael Jordan 夺冠专属座驾 Ferrari 550 Maranello 以 270 万美元成交",
+      "summary": "现代收藏市场刚刚见证了一笔具纪念意义的交易：Michael Jordan 的 1997 年 Ferrari 550 Maranello 于 9 月 30 日以创纪录的 270 万美元正式售出。这场备受瞩目的拍卖由 Pharrell Williams 创立的拍卖行 Joopiter 举办，最终成交价轻松超越了最初估计的 70 万至 130 万美元。此最终价格大约是普通 550 Maranello 目...",
+      "source": "Hypebeast_Cn",
+      "date": "2026-10-05",
+      "url": "https://hypebeast.cn/2026/10/michael-jordans-1997-ferrari-550-maranello-sells-for-2-7-million"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878199711625290668",
+      "title": "3200㎡实验室不“上锁”，同济一附中把科技教育“..",
+      "summary": "今年暑期，首批全国中小学科技教育实验区、实验校名单公布，同济大学第一附属中学（以下简称“同济一附中”）入选实验校。第一教育走进同济一附中，教学楼一楼约3200㎡的“AI+未来科学家与工程师实验室集群......",
+      "source": "News_Baidu",
+      "date": "2026-10-05",
+      "url": "http://baijiahao.baidu.com/s?id=1878199711625290668"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878221659680692252",
+      "title": "在“紧跟慢压”中把路铺稳",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-04",
-      "url": "http://baijiahao.baidu.com/s?id=1878127305689283076"
+      "date": "2026-10-05",
+      "url": "http://baijiahao.baidu.com/s?id=1878221659680692252"
     },
     {
-      "id": "https://post.smzdm.com/p/am93d0o4/",
-      "title": "比亚迪新车官宣：10月5日继续开售，6.98万起",
-      "summary": "10月5日消息，比亚迪王朝网经理路天公布了比亚迪元UP的最新销量，9月份它的销量为62711辆，甚至比很多车企所有车型合起来的销量还要多。该车属于元UP上市之后最大一次年度改款，另外就在9月份该车还上......",
-      "source": "Smzdm",
-      "date": "2026-10-04",
-      "url": "https://post.smzdm.com/p/am93d0o4/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomvl22n/",
-      "title": "新迈巴赫S级和尊界S800顶配只差1万：差的其实不是车，是16万税费和50万折旧曲线",
-      "summary": "9月下旬，新款梅赛德斯-迈巴赫S级正式上市：4个配置，139.8万起，顶配V12报335.30万，入门S480比老款的146.8万直接降了7万。 而在3个月前的7月，鸿蒙智行尊界S800的\"典藏大观\"4座顶配定在138.8万。 两台车第一次在\"138-1......",
-      "source": "Smzdm",
-      "date": "2026-10-04",
-      "url": "https://post.smzdm.com/p/aomvl22n/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a82p7q8l/",
-      "title": "开智驾睡着登上人民日报、事故前一秒退出追尾大货车：我把9起案例、3张罚单和4份新规摆在一起，返程这几天智驾的边界就长这样",
-      "summary": "10月1日，沪昆高速衢州往上饶段，国庆车流高峰。邻车副驾往旁边瞥了一眼，直接喊出声：隔壁车道那台车的司机脑袋耷拉在座椅上，睡熟了，方向盘上没有人，车还在车流里自己往前开——智驾模式运行中。拍摄者杨先生按了一两分钟喇叭，周围车跟着鸣笛，愣是没叫醒。最后把他......",
-      "source": "Smzdm",
-      "date": "2026-10-04",
-      "url": "https://post.smzdm.com/p/a82p7q8l/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261004/herald/6d53a6e1eca0fa950cfbaa808e9b484e.html",
-      "title": "9月新基金发行重回千亿大关 单月成立数量创近5年新高",
+      "id": "http://baijiahao.baidu.com/s?id=1878214298140442300",
+      "title": "深观察︱迪拜航空安全事件暴露多重安全漏洞",
       "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-04",
-      "url": "https://www.21jingji.com/article/20261004/herald/6d53a6e1eca0fa950cfbaa808e9b484e.html"
+      "source": "News_Baidu",
+      "date": "2026-10-05",
+      "url": "http://baijiahao.baidu.com/s?id=1878214298140442300"
     },
     {
-      "id": "https://www.21jingji.com/article/20261004/herald/1ec088091a6fa22e1a3750f35a56a3a1.html",
-      "title": "太危险，男子高速打开“智驾”后睡着了！",
+      "id": "https://wallstreetcn.com/articles/3783038",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月6日",
       "summary": "NewsData报道",
-      "source": "21Jingji",
+      "source": "Wallstreetcn",
+      "date": "2026-10-05",
+      "url": "https://wallstreetcn.com/articles/3783038"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878209674886240400",
+      "title": "广东第一批返程的“大聪明”现在怎么样了？",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-05",
+      "url": "http://baijiahao.baidu.com/s?id=1878209674886240400"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878216187017099389",
+      "title": "国庆我在岗｜泰莱旅客摆渡人，岗上过节成习惯",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-05",
+      "url": "http://baijiahao.baidu.com/s?id=1878216187017099389"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878217788398835187",
+      "title": "放假期间，这7种照片建议别发朋友圈！",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-05",
+      "url": "http://baijiahao.baidu.com/s?id=1878217788398835187"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6zp6wqe/",
+      "title": "11.99万起的现代IONIQ(艾尼氪)V缺点不少，9.99万起则全是优点？",
+      "summary": "作为家里有几辆现代车的老车主，我对现代IONIQ(艾尼氪)V的关注度还是比较高的，之前也是去店里看过实车。当时这辆车的预售价是11.99万起，我对它的评价就是缺点不少，比如都是单电机车型，比如零百加速......",
+      "source": "Smzdm",
+      "date": "2026-10-05",
+      "url": "https://post.smzdm.com/p/a6zp6wqe/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomvkod6/",
+      "title": "第四代君爵卖疯日本：上市当天6000单，油耗反杀埃尔法——中国用户为什么只能干看",
+      "summary": "国庆这周，国内日产门店聊的是N6权益、新N7优惠；但过去三个月真正在车圈刷屏的日产车，恰恰是中国买不到的一台——第四代Elgrand（君爵）。16年换代，7月中旬在日本上市，上市第一天就接到6000台......",
+      "source": "Smzdm",
+      "date": "2026-10-05",
+      "url": "https://post.smzdm.com/p/aomvkod6/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am93gm6p/",
+      "title": "说\"合资第一\"和说\"断崖暴跌\"的都存在：国庆看NX8，先算清三笔账",
+      "summary": "十一车展和4S店里，东风日产的存在感突然变强了：刚上市的新N7把限时权益价打到10.99万起，旁边的NX8销售位上围着看\"大沙发\"的人。有意思的是，这款4月8日上市的中型SUV推出增程和纯电两大动力共......",
+      "source": "Smzdm",
+      "date": "2026-10-05",
+      "url": "https://post.smzdm.com/p/am93gm6p/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomvko46/",
+      "title": "吴谨言同款领克20刷屏国庆：一周下来，粉丝该把title、铺量和热度算清了",
+      "summary": "国庆这几天刷过微博和B站的人，大概都撞见过同一个话题：#吴谨言同款领克20上市11.88万起#。10月5日晚上还有一串挂着完整话题的微博在按点投放，点赞停在个位数；而两周前她本人那条\"好的搭档，无需多......",
+      "source": "Smzdm",
+      "date": "2026-10-05",
+      "url": "https://post.smzdm.com/p/aomvko46/"
+    },
+    {
+      "id": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/",
+      "title": "Are self-driving cars legal for public use in Maine? | Fact brief",
+      "summary": "Fully autonomous driving is completely legal in 21 states, according to a recent report....",
+      "source": "Portland Press Herald",
+      "date": "2026-10-05",
+      "url": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/"
+    },
+    {
+      "id": "https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/",
+      "title": "Ready for Driverless Trucks? I Took a Ride in Kodiak's Autonomous Semi",
+      "summary": "Kodiak is planning to bring its fully self-driving trucks to highways later this year. I took a test ride to see the technology in action....",
+      "source": "CNET",
+      "date": "2026-10-05",
+      "url": "https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/05/tmt-newswire/pr-newswire/tier-iv-secures-japanese-government-grant-to-advance-autonomous-bus-field-operational-tests-and-talent-development-in-saudi-arabia/2438691",
+      "title": "TIER IV secures Japanese government grant to advance autonomous bus field operational tests and talent development in Saudi Arabia",
+      "summary": "**media[1245627]**TOKYO, Oct. 5, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has been selected by the Japanese Ministry of Economy, Trade and...",
+      "source": "The Manila Times",
+      "date": "2026-10-05",
+      "url": "https://www.manilatimes.net/2026/10/05/tmt-newswire/pr-newswire/tier-iv-secures-japanese-government-grant-to-advance-autonomous-bus-field-operational-tests-and-talent-development-in-saudi-arabia/2438691"
+    },
+    {
+      "id": "https://www.heise.de/en/news/Autonomous-driving-VW-works-with-Wayve-instead-of-Nvidia-11475414.html",
+      "title": "Autonomous driving: VW works with Wayve instead of Nvidia",
+      "summary": "The British startup Wayve has secured VW’s contract for autonomous driving technologies. It beat out Nvidia and also cooperates with Mercedes....",
+      "source": "Heise Online",
       "date": "2026-10-04",
-      "url": "https://www.21jingji.com/article/20261004/herald/1ec088091a6fa22e1a3750f35a56a3a1.html"
+      "url": "https://www.heise.de/en/news/Autonomous-driving-VW-works-with-Wayve-instead-of-Nvidia-11475414.html"
     },
     {
       "id": "https://lenews.ch/2026/10/02/switzerlands-first-robotaxi-takes-to-the-road/",
@@ -199,38 +249,6 @@
       "source": "Reuters",
       "date": "2026-09-30",
       "url": "https://www.reuters.com/world/asia-pacific/mercedes-backed-momenta-targets-dubai-europe-robotaxi-expansion-2026-09-30/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255",
-      "title": "Momenta, Stellantis form JV for driver assist tech",
-      "summary": "BEIJING — Momenta, a Chinese maker of autonomous-driving software, has agreed to work with a Stellantis joint venture to develop advanced driver-assistance technology, it said on Monday, adding Jeep a...",
-      "source": "The Manila Times",
-      "date": "2026-09-28",
-      "url": "https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/itochu-aioi-nissay-dowa-partner-on-autonomous-taxi-insurance-ce785adcdb89f324",
-      "title": "Itochu, Aioi Nissay Dowa Partner on Autonomous Taxi Insurance",
-      "summary": "Itochu and MS&AD Insurance subsidiary Aioi Nissay Dowa Insurance plan to jointly create insurance products for self-driving taxis, with U.S. sales targeted as early as fiscal 2027, Nikkei Asia......",
-      "source": "MarketScreener",
-      "date": "2026-09-28",
-      "url": "https://www.marketscreener.com/news/itochu-aioi-nissay-dowa-partner-on-autonomous-taxi-insurance-ce785adcdb89f324"
-    },
-    {
-      "id": "https://www.europesays.com/3276494/",
-      "title": "Nissan launches Autonomous Drive Research Project to bring future mobility service to UK streets",
-      "summary": "CRANFIELD, UK — Nissan will bring self-driving cars to Cambridge to serve real life people in real life communities....",
-      "source": "EUROPE SAYS",
-      "date": "2026-09-28",
-      "url": "https://www.europesays.com/3276494/"
-    },
-    {
-      "id": "https://www.thehindu.com/sci-tech/technology/waymo-self-driving-taxi-review-making-peace-with-autonomous-driving-technology/article71507319.ece",
-      "title": "Waymo Self-Driving Taxi Review | Making peace with autonomous driving technology",
-      "summary": "Waymo is a game changer for short, inner-city rides where accessibility and women’s safety are priorities....",
-      "source": "The Hindu",
-      "date": "2026-09-26",
-      "url": "https://www.thehindu.com/sci-tech/technology/waymo-self-driving-taxi-review-making-peace-with-autonomous-driving-technology/article71507319.ece"
     }
   ]
 }
