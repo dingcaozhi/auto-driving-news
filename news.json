@@ -1,174 +1,179 @@
 {
-  "lastUpdated": "2026-10-06 05:58:48",
-  "totalCount": 29,
+  "lastUpdated": "2026-10-07 05:33:18",
+  "totalCount": 37,
   "sources": {
-    "Smzdm": 8,
-    "Chinanews": 1,
+    "Smzdm": 7,
     "News_Baidu": 8,
-    "Hypebeast_Cn": 1,
-    "Wallstreetcn": 1,
+    "Ign_Cn": 1,
+    "Investing_Cn": 1,
+    "The Manila Times": 3,
+    "Heise Online": 2,
     "Portland Press Herald": 1,
     "CNET": 1,
-    "The Manila Times": 2,
-    "Heise Online": 1,
+    "Hindustan Times": 1,
     "Le News": 1,
-    "Seeking Alpha": 1,
+    "Seeking Alpha": 2,
     "Fortune": 1,
     "NewsBreak": 1,
-    "Reuters": 1
+    "MarketScreener": 2,
+    "EUROPE SAYS": 1,
+    "The Straits Times": 1,
+    "Reuters": 1,
+    "Engadget": 1,
+    "The Star": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/axko5zwd/",
-      "title": "11.99万起！比亚迪新车官宣：10月6日继续开卖",
-      "summary": "10月6日消息，大多数车企进入10月份之后虽然都公布了喜报，但一般就一张，比亚迪这边不太一样，喜报是一张接着一张。根据比亚迪王朝网经理路天公布的最新喜报，第三代元PLUS的9月份销量为20609辆，要......",
+      "id": "https://post.smzdm.com/p/arzrg427/",
+      "title": "预估16万左右！别克新车曝光：10月7日，即将上市",
+      "summary": "10月7日消息，别克新车2027款别克君越即将上市，目前全国多地别克线下门店中，都已经有展车亮相了。该车属于中期改款，不是全新换代，外观与老款车型变化并不是很大，但内饰完全不一样了，之前官方公布的宣传......",
       "source": "Smzdm",
-      "date": "2026-10-05",
-      "url": "https://post.smzdm.com/p/axko5zwd/"
+      "date": "2026-10-06",
+      "url": "https://post.smzdm.com/p/arzrg427/"
     },
     {
-      "id": "https://post.smzdm.com/p/aomvkx9n/",
-      "title": "充电80%强制离场新规引争议！增程车高速排队充电 纯电车狠吐槽：两方吵翻",
-      "summary": "快科技10月5日消息，国庆出行高峰时段，国内多条主干高速沿线的服务区，都出现了新能源汽车充电排长队的拥堵现象。针对这种补能资源挤兑的情况，湖北枣阳北服务区率先出台了充电至80%就强制离场的新规，高峰时......",
-      "source": "Smzdm",
-      "date": "2026-10-05",
-      "url": "https://post.smzdm.com/p/aomvkx9n/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gj/2026/10-06/10708299.shtml",
-      "title": "迪拜航空客机上到底发生了什么 遭袭机长等人“还原”惊魂时刻",
-      "summary": "9月30日，迪拜航空FZ1073航班空中突发险情，客机曾在短短30秒内骤降近4300米。危急关头，机上乘客与其他机组人员合力制伏刺伤机长的副驾驶，夺回飞机操控权，客机最终在沙特紧急降落。这趟航班经历了怎样惊心动魄的时刻？...",
-      "source": "Chinanews",
-      "date": "2026-10-05",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708299.shtml"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878223768077199438",
-      "title": "1、2、3……一群不期而遇的热心人，国庆节济南街头..",
+      "id": "http://baijiahao.baidu.com/s?id=1878290424937418595",
+      "title": "专访华侨银行大中华区总裁王克：中企在东南亚布局不断..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-05",
-      "url": "http://baijiahao.baidu.com/s?id=1878223768077199438"
+      "date": "2026-10-06",
+      "url": "http://baijiahao.baidu.com/s?id=1878290424937418595"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878177054502545997",
-      "title": "【我的名字叫国庆】名字与家国同庆，十六载车轮不息",
-      "summary": "我的名字叫国庆 有一种名字承载着与祖国同庆的美好期许。在上海交通行业中，有这样一群人，他们拥有一个共同的名字——“国庆”。从行业管理到运输保障，他们扎根交通一线，在平凡的岗位上默默坚守，守护城市交通。今天，跟着小交的脚步...",
-      "source": "News_Baidu",
-      "date": "2026-10-05",
-      "url": "http://baijiahao.baidu.com/s?id=1878177054502545997"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomvkxd6/",
-      "title": "AI发展史（一）：起源——从图灵到达特茅斯",
-      "summary": "引子1950年，图灵在论文《计算机器与智能》中写下了一个问题：“机器能思考吗？”他大概不会想到，这个问题会在七十年后牵动全球数万亿美元资本、数亿台设备、数十亿人的日常生活。他也不会想到，人类为了回答这......",
+      "id": "https://post.smzdm.com/p/anv9pw3p/",
+      "title": "具身智能秋招，\"唱衰\"和\"HC爆炸\"都是真的：缺的根本不是你想象中的算法岗",
+      "summary": "具身智能秋招，\"唱衰\"和\"HC爆炸\"都是真的：缺的根本不是你想象中的算法岗国庆这两天，几乎同时发生了两件事。一件发生在商圈里：国庆第一天，上海南京西路的DQ门店里做冰淇淋的不是店员，是一台人形机器人—......",
       "source": "Smzdm",
-      "date": "2026-10-05",
-      "url": "https://post.smzdm.com/p/aomvkxd6/"
+      "date": "2026-10-06",
+      "url": "https://post.smzdm.com/p/anv9pw3p/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8lpxde/",
-      "title": "一边销量腰斩、\"暴雷\"刷屏，一边续约到2038、连发5款新车：本田车主和备选党，先把这三本账算清",
-      "summary": "十一假期第一天，一条\"日系三强8月在华销量连续第5个月同步走弱\"的数据刷了屏：丰田11.84万辆、本田只有2.67万辆，同比下滑49.9%。三天后，东风本田9月成绩单出炉：单月17932台，环比增长1......",
+      "id": "https://post.smzdm.com/p/aomvrl07/",
+      "title": "华为在涨、比亚迪在涨、小米理想改送了：2026智驾收费表摆在面前，先弄清你的账再掏钱",
+      "summary": "国庆返程高峰的新闻还没凉，车企那边这个国庆安静干完了一件更大的事：智驾收费口径集体换了。华为乾崑高阶功能包买断价7月1日从1.2万上调到1.5万。比亚迪天神之眼B激光版选装5月1日起从9900元涨到1......",
       "source": "Smzdm",
-      "date": "2026-10-05",
-      "url": "https://post.smzdm.com/p/ak8lpxde/"
+      "date": "2026-10-06",
+      "url": "https://post.smzdm.com/p/aomvrl07/"
     },
     {
-      "id": "https://hypebeast.cn/2026/10/michael-jordans-1997-ferrari-550-maranello-sells-for-2-7-million",
-      "title": "Michael Jordan 夺冠专属座驾 Ferrari 550 Maranello 以 270 万美元成交",
-      "summary": "现代收藏市场刚刚见证了一笔具纪念意义的交易：Michael Jordan 的 1997 年 Ferrari 550 Maranello 于 9 月 30 日以创纪录的 270 万美元正式售出。这场备受瞩目的拍卖由 Pharrell Williams 创立的拍卖行 Joopiter 举办，最终成交价轻松超越了最初估计的 70 万至 130 万美元。此最终价格大约是普通 550 Maranello 目...",
-      "source": "Hypebeast_Cn",
-      "date": "2026-10-05",
-      "url": "https://hypebeast.cn/2026/10/michael-jordans-1997-ferrari-550-maranello-sells-for-2-7-million"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878199711625290668",
-      "title": "3200㎡实验室不“上锁”，同济一附中把科技教育“..",
-      "summary": "今年暑期，首批全国中小学科技教育实验区、实验校名单公布，同济大学第一附属中学（以下简称“同济一附中”）入选实验校。第一教育走进同济一附中，教学楼一楼约3200㎡的“AI+未来科学家与工程师实验室集群......",
-      "source": "News_Baidu",
-      "date": "2026-10-05",
-      "url": "http://baijiahao.baidu.com/s?id=1878199711625290668"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878221659680692252",
-      "title": "在“紧跟慢压”中把路铺稳",
+      "id": "http://baijiahao.baidu.com/s?id=1878307443084402709",
+      "title": "移动充电站驰援高速服务区：应急补位还是行业新常态？",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-05",
-      "url": "http://baijiahao.baidu.com/s?id=1878221659680692252"
+      "date": "2026-10-06",
+      "url": "http://baijiahao.baidu.com/s?id=1878307443084402709"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878214298140442300",
-      "title": "深观察︱迪拜航空安全事件暴露多重安全漏洞",
+      "id": "https://post.smzdm.com/p/am93ndnz/",
+      "title": "服务区门口只剩12%电量：排队、下高速还是赌下一站？返程电车的低电量三选一今晚一次算完",
+      "summary": "今天是10月6日，明天是这次国庆假期的最后一天，高速免费通行以驶离出口的时间为准，免不免看出高速时间、不看上高速时间。 国家电网智慧车联网平台把返程充电高峰说得非常具体：10月5日11时至21时、10......",
+      "source": "Smzdm",
+      "date": "2026-10-06",
+      "url": "https://post.smzdm.com/p/am93ndnz/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgpenz7/",
+      "title": "多花8000块上激光雷达值得吗？城市用车这样选最划算",
+      "summary": "进入2026年，智能驾驶辅助系统的宣传铺天盖地，“L2.9级智驾”“接近自动驾驶”等概念让人摸不着头脑。更让人困惑的是，同一款车往往提供纯视觉和激光雷达两套方案，价格相差几千到上万元。多花钱上激光雷达......",
+      "source": "Smzdm",
+      "date": "2026-10-06",
+      "url": "https://post.smzdm.com/p/avgpenz7/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878114798724136267",
+      "title": "出行留意！杭州文二西路、彩虹快速路部分路段即将施工",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-05",
-      "url": "http://baijiahao.baidu.com/s?id=1878214298140442300"
+      "date": "2026-10-06",
+      "url": "http://baijiahao.baidu.com/s?id=1878114798724136267"
     },
     {
-      "id": "https://wallstreetcn.com/articles/3783038",
-      "title": "华尔街见闻早餐FM-Radio | 2026年10月6日",
+      "id": "https://www.ign.com.cn/gundam-rogue-orbit/63194/gundam-yi-gui-zheng-tu-shi-wan-quan-xin-ci-yuan-de-dong-zuo-shuang-kuai-gan-ign-zhong-guo",
+      "title": "《GUNDAM 异轨征途》试玩：全新次元的动作爽快感｜IGN 中国",
       "summary": "NewsData报道",
-      "source": "Wallstreetcn",
-      "date": "2026-10-05",
-      "url": "https://wallstreetcn.com/articles/3783038"
+      "source": "Ign_Cn",
+      "date": "2026-10-06",
+      "url": "https://www.ign.com.cn/gundam-rogue-orbit/63194/gundam-yi-gui-zheng-tu-shi-wan-quan-xin-ci-yuan-de-dong-zuo-shuang-kuai-gan-ign-zhong-guo"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878209674886240400",
-      "title": "广东第一批返程的“大聪明”现在怎么样了？",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-05",
-      "url": "http://baijiahao.baidu.com/s?id=1878209674886240400"
+      "id": "https://post.smzdm.com/p/awwogv4p/",
+      "title": "19.48万元起的2026款T01 长风，烂路底子有几样",
+      "summary": "判断一台车跑烂路的底子，不能只看某一个参数。要看的是三件事凑不凑得齐：车身和车架承受冲击的能力，悬挂让车轮贴住地面的能力，传动把动力送对地方的能力。2026款T01 长风 19.48万元起，作为官方定......",
+      "source": "Smzdm",
+      "date": "2026-10-06",
+      "url": "https://post.smzdm.com/p/awwogv4p/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878216187017099389",
-      "title": "国庆我在岗｜泰莱旅客摆渡人，岗上过节成习惯",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-05",
-      "url": "http://baijiahao.baidu.com/s?id=1878216187017099389"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878217788398835187",
-      "title": "放假期间，这7种照片建议别发朋友圈！",
+      "id": "http://baijiahao.baidu.com/s?id=1878309489731104456",
+      "title": "你奔赴归途 我一路守护——国庆假期“皖美高速”上的..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-05",
-      "url": "http://baijiahao.baidu.com/s?id=1878217788398835187"
+      "date": "2026-10-06",
+      "url": "http://baijiahao.baidu.com/s?id=1878309489731104456"
     },
     {
-      "id": "https://post.smzdm.com/p/a6zp6wqe/",
-      "title": "11.99万起的现代IONIQ(艾尼氪)V缺点不少，9.99万起则全是优点？",
-      "summary": "作为家里有几辆现代车的老车主，我对现代IONIQ(艾尼氪)V的关注度还是比较高的，之前也是去店里看过实车。当时这辆车的预售价是11.99万起，我对它的评价就是缺点不少，比如都是单电机车型，比如零百加速......",
-      "source": "Smzdm",
-      "date": "2026-10-05",
-      "url": "https://post.smzdm.com/p/a6zp6wqe/"
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3596585",
+      "title": "Kodiak AI自动驾驶就绪率升至96%，无人驾驶商业化进程加速",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-10-06",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3596585"
     },
     {
-      "id": "https://post.smzdm.com/p/aomvkod6/",
-      "title": "第四代君爵卖疯日本：上市当天6000单，油耗反杀埃尔法——中国用户为什么只能干看",
-      "summary": "国庆这周，国内日产门店聊的是N6权益、新N7优惠；但过去三个月真正在车圈刷屏的日产车，恰恰是中国买不到的一台——第四代Elgrand（君爵）。16年换代，7月中旬在日本上市，上市第一天就接到6000台......",
-      "source": "Smzdm",
-      "date": "2026-10-05",
-      "url": "https://post.smzdm.com/p/aomvkod6/"
+      "id": "http://baijiahao.baidu.com/s?id=1878296117949624422",
+      "title": "9岁儿童骑自行车横穿马路，造成他人十级伤残，家长以..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-06",
+      "url": "http://baijiahao.baidu.com/s?id=1878296117949624422"
     },
     {
-      "id": "https://post.smzdm.com/p/am93gm6p/",
-      "title": "说\"合资第一\"和说\"断崖暴跌\"的都存在：国庆看NX8，先算清三笔账",
-      "summary": "十一车展和4S店里，东风日产的存在感突然变强了：刚上市的新N7把限时权益价打到10.99万起，旁边的NX8销售位上围着看\"大沙发\"的人。有意思的是，这款4月8日上市的中型SUV推出增程和纯电两大动力共......",
-      "source": "Smzdm",
-      "date": "2026-10-05",
-      "url": "https://post.smzdm.com/p/am93gm6p/"
+      "id": "http://baijiahao.baidu.com/s?id=1878304424297405478",
+      "title": "这个假期，他们的“打卡点”在路上",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-06",
+      "url": "http://baijiahao.baidu.com/s?id=1878304424297405478"
     },
     {
-      "id": "https://post.smzdm.com/p/aomvko46/",
-      "title": "吴谨言同款领克20刷屏国庆：一周下来，粉丝该把title、铺量和热度算清了",
-      "summary": "国庆这几天刷过微博和B站的人，大概都撞见过同一个话题：#吴谨言同款领克20上市11.88万起#。10月5日晚上还有一串挂着完整话题的微博在按点投放，点赞停在个位数；而两周前她本人那条\"好的搭档，无需多......",
+      "id": "https://post.smzdm.com/p/ae6qg7qk/",
+      "title": "吉利新车官宣：10月17日全球上市，预售11.57万起",
+      "summary": "10月6日消息，吉利官宣星瑞L PLUS将在10月17日全球上市，并且已经特邀了中国首位F1车手对其底盘进行极限测试。该车属于吉利中国星系列中的宽体中型轿车，全系都是i-HEV非插电油电混动，不能上绿......",
       "source": "Smzdm",
-      "date": "2026-10-05",
-      "url": "https://post.smzdm.com/p/aomvko46/"
+      "date": "2026-10-06",
+      "url": "https://post.smzdm.com/p/ae6qg7qk/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878201274591360041",
+      "title": "低空经济迎政策+出海双重共振 高成长潜力股出炉",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-06",
+      "url": "http://baijiahao.baidu.com/s?id=1878201274591360041"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878303041317827998",
+      "title": "打造机器人“练兵场”，齐鲁智造具身智能实训平台亮相",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-06",
+      "url": "http://baijiahao.baidu.com/s?id=1878303041317827998"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257",
+      "title": "Optro Establishes UAE Hub to Support Rapid Transition to Agentic GRC Across the Middle East",
+      "summary": "**media[1248854]**Expansion comes as UAE government mandates transition to Agentic AI models, driving demand for continuous assurance and autonomous risk governance....",
+      "source": "The Manila Times",
+      "date": "2026-10-06",
+      "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257"
+    },
+    {
+      "id": "https://www.heise.de/en/news/Tesla-FSD-Transport-Minister-Bilger-calls-for-EU-approval-of-assistance-system-11477430.html",
+      "title": "Tesla FSD: Transport Minister Bilger calls for EU approval of assistance system",
+      "summary": "Federal Transport Minister Bilger wants Tesla’s FSD-supervised driver assistance system to be approved EU-wide. If necessary, Germany should explore its paths....",
+      "source": "Heise Online",
+      "date": "2026-10-06",
+      "url": "https://www.heise.de/en/news/Tesla-FSD-Transport-Minister-Bilger-calls-for-EU-approval-of-assistance-system-11477430.html"
     },
     {
       "id": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/",
@@ -201,6 +206,14 @@
       "source": "Heise Online",
       "date": "2026-10-04",
       "url": "https://www.heise.de/en/news/Autonomous-driving-VW-works-with-Wayve-instead-of-Nvidia-11475414.html"
+    },
+    {
+      "id": "https://www.hindustantimes.com/trending/us/us-founder-gives-up-bentley-for-tesla-reveals-plans-to-buy-10-for-employees-most-important-video-ive-ever-posted-101791111288718.html",
+      "title": "US founder gives up Bentley for Tesla, reveals plans to buy 10 for employees: 'Most important video I've ever posted'",
+      "summary": "Jason Oppenheim revealed that he plans to buy Tesla cars equipped with FSD for 10 of his employees....",
+      "source": "Hindustan Times",
+      "date": "2026-10-04",
+      "url": "https://www.hindustantimes.com/trending/us/us-founder-gives-up-bentley-for-tesla-reveals-plans-to-buy-10-for-employees-most-important-video-ive-ever-posted-101791111288718.html"
     },
     {
       "id": "https://lenews.ch/2026/10/02/switzerlands-first-robotaxi-takes-to-the-road/",
@@ -243,12 +256,12 @@
       "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/pr-newswire/tier-iv-joins-arm-total-design-for-physical-ai-to-accelerate-ready-to-use-autoware-solutions-through-open-ad-kit/2436740"
     },
     {
-      "id": "https://www.reuters.com/world/asia-pacific/mercedes-backed-momenta-targets-dubai-europe-robotaxi-expansion-2026-09-30/",
-      "title": "Mercedes-backed Momenta targets Dubai and Europe for robotaxi expansion",
-      "summary": "Chinese autonomous-driving company Momenta Global aims to have thousands of robotaxis on the road next year as it looks ​to expand to Dubai and more cities in Europe, the head ‌of its robotaxi busines...",
-      "source": "Reuters",
-      "date": "2026-09-30",
-      "url": "https://www.reuters.com/world/asia-pacific/mercedes-backed-momenta-targets-dubai-europe-robotaxi-expansion-2026-09-30/"
+      "id": "https://www.marketscreener.com/news/tesla-expands-european-fsd-rollout-with-croatia-approval-ce785adddd8af12d",
+      "title": "Tesla Expands European FSD Rollout With Croatia Approval",
+      "summary": "Tesla's supervised Full Self-Driving software has received approval in Croatia, with a nationwide rollout expected to begin soon, Reuters reported Tuesday, citing the company.\nCroatia joins the......",
+      "source": "MarketScreener",
+      "date": "2026-09-29",
+      "url": "https://www.marketscreener.com/news/tesla-expands-european-fsd-rollout-with-croatia-approval-ce785adddd8af12d"
     }
   ]
 }
