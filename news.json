@@ -1,163 +1,203 @@
 {
-  "lastUpdated": "2026-10-07 05:33:18",
-  "totalCount": 37,
+  "lastUpdated": "2026-10-08 05:41:54",
+  "totalCount": 30,
   "sources": {
-    "Smzdm": 7,
-    "News_Baidu": 8,
-    "Ign_Cn": 1,
-    "Investing_Cn": 1,
-    "The Manila Times": 3,
-    "Heise Online": 2,
+    "Bilibili": 5,
+    "Smzdm": 3,
+    "News_Baidu": 3,
+    "Wallstreetcn": 1,
+    "21Jingji": 2,
+    "Investing_Cn": 2,
+    "Bjnews": 1,
+    "Ithome": 1,
+    "A199It": 1,
+    "Nbd_Cn": 1,
+    "WTOP": 1,
+    "WDIV ClickOnDetroit": 1,
+    "The Manila Times": 2,
     "Portland Press Herald": 1,
     "CNET": 1,
-    "Hindustan Times": 1,
+    "Heise Online": 1,
     "Le News": 1,
-    "Seeking Alpha": 2,
-    "Fortune": 1,
-    "NewsBreak": 1,
-    "MarketScreener": 2,
-    "EUROPE SAYS": 1,
-    "The Straits Times": 1,
-    "Reuters": 1,
-    "Engadget": 1,
-    "The Star": 1
+    "Seeking Alpha": 1,
+    "NewsBreak": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/arzrg427/",
-      "title": "预估16万左右！别克新车曝光：10月7日，即将上市",
-      "summary": "10月7日消息，别克新车2027款别克君越即将上市，目前全国多地别克线下门店中，都已经有展车亮相了。该车属于中期改款，不是全新换代，外观与老款车型变化并不是很大，但内饰完全不一样了，之前官方公布的宣传......",
-      "source": "Smzdm",
-      "date": "2026-10-06",
-      "url": "https://post.smzdm.com/p/arzrg427/"
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-08",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878290424937418595",
-      "title": "专访华侨银行大中华区总裁王克：中企在东南亚布局不断..",
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-08",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1wHHy6pErt",
+      "title": "【B站】男子高速上开智驾后睡着:智驾不是自动驾驶，切莫把生命交给机器",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-08",
+      "url": "https://www.bilibili.com/video/BV1wHHy6pErt"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1zgaC6TEcS",
+      "title": "【B站】现在十来万就有700公里续航，带高阶智驾的车啦，27款i60激光雷达，真心不错的选择！空间大，智驾好",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-08",
+      "url": "https://www.bilibili.com/video/BV1zgaC6TEcS"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1KdHy6FEE4",
+      "title": "【B站】国产辅助驾驶吊打特斯拉FSD，看得我胆战心惊",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-08",
+      "url": "https://www.bilibili.com/video/BV1KdHy6FEE4"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arzrgmn7/",
+      "title": "预估13万左右！长安新车官宣，10月8日，即将上市",
+      "summary": "10月8日消息，长安深蓝官方官宣了新车2027款深蓝L06即将上市，有两大智能体。该车属于年度改款，分为普通版与追风运动特别版两个系列，其中普通版目前还没有亮相，但追风版运动特别版在之前的车展中已经举办了一个简单的发布会，外观和内饰都已经公开，再加上工信......",
+      "source": "Smzdm",
+      "date": "2026-10-07",
+      "url": "https://post.smzdm.com/p/arzrgmn7/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878373692180821058",
+      "title": "租外骨骼设备爬长城？前沿科技“抢镜”黄金周说明了什..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-06",
-      "url": "http://baijiahao.baidu.com/s?id=1878290424937418595"
+      "date": "2026-10-07",
+      "url": "http://baijiahao.baidu.com/s?id=1878373692180821058"
     },
     {
-      "id": "https://post.smzdm.com/p/anv9pw3p/",
-      "title": "具身智能秋招，\"唱衰\"和\"HC爆炸\"都是真的：缺的根本不是你想象中的算法岗",
-      "summary": "具身智能秋招，\"唱衰\"和\"HC爆炸\"都是真的：缺的根本不是你想象中的算法岗国庆这两天，几乎同时发生了两件事。一件发生在商圈里：国庆第一天，上海南京西路的DQ门店里做冰淇淋的不是店员，是一台人形机器人—......",
-      "source": "Smzdm",
-      "date": "2026-10-06",
-      "url": "https://post.smzdm.com/p/anv9pw3p/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomvrl07/",
-      "title": "华为在涨、比亚迪在涨、小米理想改送了：2026智驾收费表摆在面前，先弄清你的账再掏钱",
-      "summary": "国庆返程高峰的新闻还没凉，车企那边这个国庆安静干完了一件更大的事：智驾收费口径集体换了。华为乾崑高阶功能包买断价7月1日从1.2万上调到1.5万。比亚迪天神之眼B激光版选装5月1日起从9900元涨到1......",
-      "source": "Smzdm",
-      "date": "2026-10-06",
-      "url": "https://post.smzdm.com/p/aomvrl07/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878307443084402709",
-      "title": "移动充电站驰援高速服务区：应急补位还是行业新常态？",
+      "id": "https://wallstreetcn.com/articles/3783135",
+      "title": "微软携手英伟达发布Surface旗舰新机，同步推出“龙虾”个人助手Scout",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-06",
-      "url": "http://baijiahao.baidu.com/s?id=1878307443084402709"
+      "source": "Wallstreetcn",
+      "date": "2026-10-07",
+      "url": "https://wallstreetcn.com/articles/3783135"
     },
     {
-      "id": "https://post.smzdm.com/p/am93ndnz/",
-      "title": "服务区门口只剩12%电量：排队、下高速还是赌下一站？返程电车的低电量三选一今晚一次算完",
-      "summary": "今天是10月6日，明天是这次国庆假期的最后一天，高速免费通行以驶离出口的时间为准，免不免看出高速时间、不看上高速时间。 国家电网智慧车联网平台把返程充电高峰说得非常具体：10月5日11时至21时、10......",
-      "source": "Smzdm",
-      "date": "2026-10-06",
-      "url": "https://post.smzdm.com/p/am93ndnz/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgpenz7/",
-      "title": "多花8000块上激光雷达值得吗？城市用车这样选最划算",
-      "summary": "进入2026年，智能驾驶辅助系统的宣传铺天盖地，“L2.9级智驾”“接近自动驾驶”等概念让人摸不着头脑。更让人困惑的是，同一款车往往提供纯视觉和激光雷达两套方案，价格相差几千到上万元。多花钱上激光雷达......",
-      "source": "Smzdm",
-      "date": "2026-10-06",
-      "url": "https://post.smzdm.com/p/avgpenz7/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878114798724136267",
-      "title": "出行留意！杭州文二西路、彩虹快速路部分路段即将施工",
+      "id": "https://www.21jingji.com/article/20261007/herald/d019c9d61e7b7a76eebe09c158a801a1.html",
+      "title": "外资机构重估中国：A股估值凸显，AI主线外的增长机遇在哪里？",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-06",
-      "url": "http://baijiahao.baidu.com/s?id=1878114798724136267"
+      "source": "21Jingji",
+      "date": "2026-10-07",
+      "url": "https://www.21jingji.com/article/20261007/herald/d019c9d61e7b7a76eebe09c158a801a1.html"
     },
     {
-      "id": "https://www.ign.com.cn/gundam-rogue-orbit/63194/gundam-yi-gui-zheng-tu-shi-wan-quan-xin-ci-yuan-de-dong-zuo-shuang-kuai-gan-ign-zhong-guo",
-      "title": "《GUNDAM 异轨征途》试玩：全新次元的动作爽快感｜IGN 中国",
-      "summary": "NewsData报道",
-      "source": "Ign_Cn",
-      "date": "2026-10-06",
-      "url": "https://www.ign.com.cn/gundam-rogue-orbit/63194/gundam-yi-gui-zheng-tu-shi-wan-quan-xin-ci-yuan-de-dong-zuo-shuang-kuai-gan-ign-zhong-guo"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwogv4p/",
-      "title": "19.48万元起的2026款T01 长风，烂路底子有几样",
-      "summary": "判断一台车跑烂路的底子，不能只看某一个参数。要看的是三件事凑不凑得齐：车身和车架承受冲击的能力，悬挂让车轮贴住地面的能力，传动把动力送对地方的能力。2026款T01 长风 19.48万元起，作为官方定......",
-      "source": "Smzdm",
-      "date": "2026-10-06",
-      "url": "https://post.smzdm.com/p/awwogv4p/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878309489731104456",
-      "title": "你奔赴归途 我一路守护——国庆假期“皖美高速”上的..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-06",
-      "url": "http://baijiahao.baidu.com/s?id=1878309489731104456"
-    },
-    {
-      "id": "https://cn.investing.com/news/company-news/article-93CH-3596585",
-      "title": "Kodiak AI自动驾驶就绪率升至96%，无人驾驶商业化进程加速",
+      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3598428",
+      "title": "约克维尔·艾夫斯首次覆盖通用汽车股票，给予跑赢大市评级",
       "summary": "NewsData报道",
       "source": "Investing_Cn",
-      "date": "2026-10-06",
-      "url": "https://cn.investing.com/news/company-news/article-93CH-3596585"
+      "date": "2026-10-07",
+      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3598428"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878296117949624422",
-      "title": "9岁儿童骑自行车横穿马路，造成他人十级伤残，家长以..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-06",
-      "url": "http://baijiahao.baidu.com/s?id=1878296117949624422"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878304424297405478",
-      "title": "这个假期，他们的“打卡点”在路上",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-06",
-      "url": "http://baijiahao.baidu.com/s?id=1878304424297405478"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae6qg7qk/",
-      "title": "吉利新车官宣：10月17日全球上市，预售11.57万起",
-      "summary": "10月6日消息，吉利官宣星瑞L PLUS将在10月17日全球上市，并且已经特邀了中国首位F1车手对其底盘进行极限测试。该车属于吉利中国星系列中的宽体中型轿车，全系都是i-HEV非插电油电混动，不能上绿......",
+      "id": "https://post.smzdm.com/p/a5rx592k/",
+      "title": "央视点名高速智驾睡觉，出事车企不担责你得自己扛",
+      "summary": "央视这次点名，把很多人的侥幸心理戳破了——在高速上开着辅助驾驶直接睡大觉，就是拿命赌博。10月1日国庆出行高峰，沪昆高速浙江衢州往江西上饶路段，一辆车的司机在主驾位闭眼熟睡，旁车跟了足足3分钟，疯狂按喇叭都叫不醒，最后全靠前方堵车系统自动刹停，司机才惊醒......",
       "source": "Smzdm",
-      "date": "2026-10-06",
-      "url": "https://post.smzdm.com/p/ae6qg7qk/"
+      "date": "2026-10-07",
+      "url": "https://post.smzdm.com/p/a5rx592k/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878201274591360041",
-      "title": "低空经济迎政策+出海双重共振 高成长潜力股出炉",
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3598411",
+      "title": "Parallel Systems完成1亿美元C轮融资，加速自动驾驶货运车辆量产",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-06",
-      "url": "http://baijiahao.baidu.com/s?id=1878201274591360041"
+      "source": "Investing_Cn",
+      "date": "2026-10-07",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3598411"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878303041317827998",
-      "title": "打造机器人“练兵场”，齐鲁智造具身智能实训平台亮相",
+      "id": "https://www.bjnews.com.cn/detail/1791382265129262.html",
+      "title": "各大火车站迎来客流最高峰，今天23时后预计十万人次乘火车抵京",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-10-07",
+      "url": "https://www.bjnews.com.cn/detail/1791382265129262.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878402413540744174",
+      "title": "凌晨湘江有人落水，长沙九洲龙骧号游轮紧急救援",
       "summary": "NewsData报道",
       "source": "News_Baidu",
+      "date": "2026-10-07",
+      "url": "http://baijiahao.baidu.com/s?id=1878402413540744174"
+    },
+    {
+      "id": "https://www.ithome.com/1/010/294.htm",
+      "title": "赛豆 AIVA ME7 量产路测车无伪谍照曝光，定位介于轿车与 SUV 之间的跨界车",
+      "summary": "IT之家 10 月 7 日消息，博主 @SugarDesign 今日曝光了赛豆 AIVA ME7 量产版路测无伪谍照。 从图中可以看到，AIVA ME7 的车身造型延续 AIVA Origin Concept 概念车的设计， 车顶处配有激光雷达 ，预计将支持高阶智能辅助驾驶功能。 参考IT之家此前报道，今年 9 月底，赛豆科技（重庆市沙坪坝区与赛力斯共同投资）旗下 AIVA 品牌首款量产车型 AI...",
+      "source": "Ithome",
+      "date": "2026-10-07",
+      "url": "https://www.ithome.com/1/010/294.htm"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261007/herald/bd3250b0ca3aaec391803ba503850e48.html",
+      "title": "假期重磅！港股，利好来了！",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-07",
+      "url": "https://www.21jingji.com/article/20261007/herald/bd3250b0ca3aaec391803ba503850e48.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg5035m/",
+      "title": "官方说\"多数地区无需注册\"，评论区说先查空域：哈浮VERSA发售第10天，3999元飞行版的账我先替三类人算完",
+      "summary": "国庆这趟出门，航拍圈聊得最多的一台新机器，是台\"长得不像无人机\"的无人机。8月18日，智能飞行影像品牌哈浮（HoverAir）发布VERSA飞行口袋云台相机，可拆卸模块化设计，在手持三轴云台相机与自主飞行无人机之间自由切换，首发定价2999元起并开启全渠......",
+      "source": "Smzdm",
+      "date": "2026-10-07",
+      "url": "https://post.smzdm.com/p/agg5035m/"
+    },
+    {
+      "id": "http://www.199it.com/archives/1855653.html",
+      "title": "俄罗斯工贸部：2026年1-8月俄罗斯电动车销量达8.3万辆，同比增长近一倍",
+      "summary": "《纽约时报》报道，俄罗斯工贸部数据显示，2026年1-8月俄罗斯电动车销量达8.3万辆，同比增长近一倍；截至9月底市场份额11.5%，较年初几乎翻倍。燃油短缺推动中国电动车热销，但充电设施不足和传统观念制约纯电普及，混动车型或成下一增长点。...",
+      "source": "A199It",
+      "date": "2026-10-07",
+      "url": "http://www.199it.com/archives/1855653.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878401546263819126",
+      "title": "千万别用这个姿势坐车！安全风险极大",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-07",
+      "url": "http://baijiahao.baidu.com/s?id=1878401546263819126"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-10-07/4597838.html",
+      "title": "奔驰第三季度在华交付超9万辆，高端市场优势持续巩固，纯电GLC表现超预期",
+      "summary": "10月7日，梅赛德斯-奔驰（以下简称奔驰）公布2026年第三季度中国市场表现。数据显示，第三季度，奔驰在华向客户交付新车超9万辆（含乘用车及轻型商务车）。在国内豪华车市场持续调整、主力车型进入迭代周期...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-07",
+      "url": "https://www.nbd.com.cn/articles/2026-10-07/4597838.html"
+    },
+    {
+      "id": "https://wtop.com/dc/2026/10/app-drivers-rally-against-robotaxi-expansion-in-dc/",
+      "title": "App drivers rally against Robotaxi expansion in DC",
+      "summary": "Dozens of Uber drivers, union workers and faith leaders gathered Tuesday outside the John Wilson Building to rally against a proposal that would bring Waymo and other autonomous driving services to th...",
+      "source": "WTOP",
       "date": "2026-10-06",
-      "url": "http://baijiahao.baidu.com/s?id=1878303041317827998"
+      "url": "https://wtop.com/dc/2026/10/app-drivers-rally-against-robotaxi-expansion-in-dc/"
+    },
+    {
+      "id": "https://www.clickondetroit.com/news/local/2026/10/06/waymo-begins-fully-autonomous-driving-in-detroit-what-to-know/",
+      "title": "Waymo begins fully autonomous driving in Detroit -- what to know",
+      "summary": "If you spot a Waymo in Detroit without a human driver behind the wheel, there’s no need to panic — the robotaxi service has officially rolled out fully autonomous driving in the city on Tuesday....",
+      "source": "WDIV ClickOnDetroit",
+      "date": "2026-10-06",
+      "url": "https://www.clickondetroit.com/news/local/2026/10/06/waymo-begins-fully-autonomous-driving-in-detroit-what-to-know/"
     },
     {
       "id": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257",
@@ -166,14 +206,6 @@
       "source": "The Manila Times",
       "date": "2026-10-06",
       "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257"
-    },
-    {
-      "id": "https://www.heise.de/en/news/Tesla-FSD-Transport-Minister-Bilger-calls-for-EU-approval-of-assistance-system-11477430.html",
-      "title": "Tesla FSD: Transport Minister Bilger calls for EU approval of assistance system",
-      "summary": "Federal Transport Minister Bilger wants Tesla’s FSD-supervised driver assistance system to be approved EU-wide. If necessary, Germany should explore its paths....",
-      "source": "Heise Online",
-      "date": "2026-10-06",
-      "url": "https://www.heise.de/en/news/Tesla-FSD-Transport-Minister-Bilger-calls-for-EU-approval-of-assistance-system-11477430.html"
     },
     {
       "id": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/",
@@ -208,14 +240,6 @@
       "url": "https://www.heise.de/en/news/Autonomous-driving-VW-works-with-Wayve-instead-of-Nvidia-11475414.html"
     },
     {
-      "id": "https://www.hindustantimes.com/trending/us/us-founder-gives-up-bentley-for-tesla-reveals-plans-to-buy-10-for-employees-most-important-video-ive-ever-posted-101791111288718.html",
-      "title": "US founder gives up Bentley for Tesla, reveals plans to buy 10 for employees: 'Most important video I've ever posted'",
-      "summary": "Jason Oppenheim revealed that he plans to buy Tesla cars equipped with FSD for 10 of his employees....",
-      "source": "Hindustan Times",
-      "date": "2026-10-04",
-      "url": "https://www.hindustantimes.com/trending/us/us-founder-gives-up-bentley-for-tesla-reveals-plans-to-buy-10-for-employees-most-important-video-ive-ever-posted-101791111288718.html"
-    },
-    {
       "id": "https://lenews.ch/2026/10/02/switzerlands-first-robotaxi-takes-to-the-road/",
       "title": "Switzerland’s first robotaxi takes to the road",
       "summary": "Passengers in Zurich’s Furttal valley can now book rides in self-driving cars. The pilot scheme, called Iamo, is Switzerland’s first robotaxi service open to the public, according to the canton.\nhttps...",
@@ -232,36 +256,12 @@
       "url": "https://seekingalpha.com/article/4951598-tesla-stock-vision-and-timeline"
     },
     {
-      "id": "https://fortune.com/2026/10/02/gm-mary-barra-im-done-making-predictions-autonomous-driving/",
-      "title": "GM’s Mary Barra says 'I’m done making predictions'-but sees fully autonomous driving in 2028",
-      "summary": "Everything you need to know before you reach the office this morning....",
-      "source": "Fortune",
-      "date": "2026-10-02",
-      "url": "https://fortune.com/2026/10/02/gm-mary-barra-im-done-making-predictions-autonomous-driving/"
-    },
-    {
       "id": "https://www.newsbreak.com/fortune-561435/4921146319118-gm-s-mary-barra-says-i-m-done-making-predictions-but-sees-fully-autonomous-driving-in-2028",
       "title": "GM’s Mary Barra says ‘I’m done making predictions’-but sees fully autonomous driving in 2028",
       "summary": "Everything you need to know before you reach the office this morning....",
       "source": "NewsBreak",
       "date": "2026-10-02",
       "url": "https://www.newsbreak.com/fortune-561435/4921146319118-gm-s-mary-barra-says-i-m-done-making-predictions-but-sees-fully-autonomous-driving-in-2028"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/01/tmt-newswire/pr-newswire/tier-iv-joins-arm-total-design-for-physical-ai-to-accelerate-ready-to-use-autoware-solutions-through-open-ad-kit/2436740",
-      "title": "TIER IV joins Arm Total Design for Physical AI to accelerate ready-to-use Autoware solutions through Open AD Kit",
-      "summary": "**media[1241441]**TOKYO, Oct. 1, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind Autoware, open-source software for autonomous driving, today announced that it has joined Arm® Total Design f...",
-      "source": "The Manila Times",
-      "date": "2026-10-01",
-      "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/pr-newswire/tier-iv-joins-arm-total-design-for-physical-ai-to-accelerate-ready-to-use-autoware-solutions-through-open-ad-kit/2436740"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/tesla-expands-european-fsd-rollout-with-croatia-approval-ce785adddd8af12d",
-      "title": "Tesla Expands European FSD Rollout With Croatia Approval",
-      "summary": "Tesla's supervised Full Self-Driving software has received approval in Croatia, with a nationwide rollout expected to begin soon, Reuters reported Tuesday, citing the company.\nCroatia joins the......",
-      "source": "MarketScreener",
-      "date": "2026-09-29",
-      "url": "https://www.marketscreener.com/news/tesla-expands-european-fsd-rollout-with-croatia-approval-ce785adddd8af12d"
     }
   ]
 }
