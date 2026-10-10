@@ -1,198 +1,157 @@
 {
-  "lastUpdated": "2026-10-09 05:46:01",
-  "totalCount": 31,
+  "lastUpdated": "2026-10-10 05:29:12",
+  "totalCount": 24,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 10,
-    "News_Baidu": 2,
+    "Smzdm": 7,
     "Bjnews": 1,
-    "Investing_Cn": 1,
-    "Ithome": 3,
-    "The Star": 1,
+    "News_Baidu": 4,
+    "Ithome": 1,
+    "21Jingji": 2,
+    "Nbd_Cn": 1,
+    "The Star": 2,
     "MarketScreener": 1,
     "WTOP": 1,
     "WDIV ClickOnDetroit": 1,
-    "The Manila Times": 2,
+    "The Manila Times": 1,
     "Portland Press Herald": 1,
-    "CNET": 1,
-    "Heise Online": 1
+    "CNET": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1KdHy6FEE4",
-      "title": "【B站】国产辅助驾驶吊打特斯拉FSD，看得我胆战心惊",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-10-09",
-      "url": "https://www.bilibili.com/video/BV1KdHy6FEE4"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-09",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-09",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-10-09",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1wHHy6pErt",
-      "title": "【B站】男子高速上开智驾后睡着:智驾不是自动驾驶，切莫把生命交给机器",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-10-09",
-      "url": "https://www.bilibili.com/video/BV1wHHy6pErt"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3mxprxd/",
-      "title": "华为乾崑新车官宣：10月11日，全球首秀",
-      "summary": "能在这个月巴黎车展上亮相的国产车，基本上都是各大国产车企非常重视的车型，其中就包括阿维塔T09概念版。目前阿维塔官方已经宣布10月11日新车将在巴黎车展首秀，此次亮相的阿维塔T09概念版在此之前没有消......",
+      "id": "https://post.smzdm.com/p/a3mx903n/",
+      "title": "高速帐篷意外掀起！享界G9试验车风波，安全底线不容打折扣",
+      "summary": "一段行车记录仪视频，在社交平台迅速发酵。画面里一台享界G9行驶在高速公路，车顶选装的电动帐篷盖板突然向上掀开，整块构件高高翘在车顶。强劲的高速气流持续拍打盖板，部件随时有脱落的风险，后方多辆社会车辆见......",
       "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/a3mxprxd/"
+      "date": "2026-10-09",
+      "url": "https://post.smzdm.com/p/a3mx903n/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878499163746398299",
-      "title": "年内港股IPO募资总额同比增长104.52%",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-08",
-      "url": "http://baijiahao.baidu.com/s?id=1878499163746398299"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7m6o2k/",
-      "title": "战舰700后天上市，小订43900台先放一边：价格表中间那1万块，是重复收费",
-      "summary": "10月10日，吉利银河战舰700在杭州正式上市。9月15号预售那晚，官方海报的数字很唬人：60分钟小订破43900台，9分钟先破一万，限量700台的陆地方舟版直接售罄。我看到这种数字的第一反应，从来不是「好厉害」，而是想翻它的价格表。在车企做过几年产品规......",
+      "id": "https://post.smzdm.com/p/a5rok8dl/",
+      "title": "步行10多分钟到黄埔江边，入住上海前滩雅辰悦居酒店值不值？",
+      "summary": "每次出差参会，主办方安排的酒店永远是最让人期待的盲盒环节，基本次次不重样，体验也各有不同。这次去上海参加一场发布会，主办方统一安排了前滩雅辰悦居酒店的含早的悦居大床房，地理位置毗邻黄浦江畔，号称准五星......",
       "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/ad7m6o2k/"
+      "date": "2026-10-09",
+      "url": "https://post.smzdm.com/p/a5rok8dl/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878499164598699295",
-      "title": "外资机构看好A股长期价值 关注人工智能等赛道",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-08",
-      "url": "http://baijiahao.baidu.com/s?id=1878499164598699295"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgp4dzm/",
-      "title": "男子最后1分钟卡点下高速：省了760元",
-      "summary": "10月8日消息，据媒体报道，国庆假期免费通行最后一分钟，一男子成功卡点免费通过，直接省下760元通行费。男子激动表示，冲过去的这一刻比七天假期还开心。据了解，国庆假期全国实施7座及以下小客车免收通行费......",
-      "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/avgp4dzm/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anv9k3gp/",
-      "title": "零跑A10七千公里长测报告",
-      "summary": "在6-9万A0级纯电SUV市场，零跑A10是一台话题热度极高、评价两极分化的车型。短视频平台一边疯狂鼓吹它是“八万级激光雷达神车”，把高阶智驾拉下平民代步车的门槛；另一边大量真实车主吐槽底盘颠簸、缺少......",
-      "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/anv9k3gp/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgp4xkm/",
-      "title": "零跑A10七千公里实测报告",
-      "summary": "6-9万A0级纯电SUV市场，零跑A10是争议最大的一台车。短视频平台一边疯狂吹捧它是“八万级激光雷达神车”，把高阶智驾拉下神坛；另一边大量车主吐槽底盘颠簸、缺失后雨刮、后排舒适性差，直言营销大于产品......",
-      "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/avgp4xkm/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1791445016129589.html",
-      "title": "深耕汽车产业内容建设，懂车帝打造产业动态与深度报道信息阵地",
+      "id": "https://www.bjnews.com.cn/detail/1791533656129273.html",
+      "title": "解析尊界V800：媒体极限摸底试验该如何评判",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-10-08",
-      "url": "https://www.bjnews.com.cn/detail/1791445016129589.html"
+      "date": "2026-10-09",
+      "url": "https://www.bjnews.com.cn/detail/1791533656129273.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a4qx7487/",
-      "title": "伯特利制动董事长谈尊界刹车被踩断：个别媒体牺牲中国品牌口碑博流量",
-      "summary": "快科技10月8日消息，今日“尊界V800刹车踏板支架断裂”冲上热搜，引起热议后，制动行业人士也下场了。有博主分享的朋友圈截图显示，芜湖伯特利董事长袁永彬发文称：“能把制动踏板踩断，普通驾驶员根本做不到......",
-      "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/a4qx7487/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qx74xl/",
-      "title": "懂车帝回应尊界V800刹车断裂：暴力测试是谣言！百公里刹车实验并非极端工况",
-      "summary": "快科技10月8日消息，懂车帝实测曝出尊界V800三次出现刹车踏板支架断裂引发热议，部分网友称节目内容系极端工况，驾驶员脚踩刹车踏板力度过大。据界面报道，懂车帝有关人员表示，百公里刹车实验并非极端工况，......",
-      "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/a4qx74xl/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgp4ndn/",
-      "title": "尊界V800刹车踏板事件",
-      "summary": "懂车帝测试尊界V800刹车踏板支架断裂一事引发广泛讨论。从官方说明来看，车辆产品本身通过相关标准验证，在普通用户日常使用场景中暂未出现同类失效案例，从合规层面或许符合现有标准。但我始终认为，安全，才是......",
-      "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/avgp4ndn/"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3600559",
-      "title": "国标无量化门槛、团标比行标更严苛!尊界刹车踏板支架断裂风波，揭开高端新能源汽车安全冗余乱象",
+      "id": "http://baijiahao.baidu.com/s?id=1878580066039765905",
+      "title": "风起长江口，全球顶尖女车手竞速崇明，2026 环崇..",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-10-08",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3600559"
+      "source": "News_Baidu",
+      "date": "2026-10-09",
+      "url": "http://baijiahao.baidu.com/s?id=1878580066039765905"
     },
     {
-      "id": "https://www.ithome.com/1/010/738.htm",
-      "title": "R 星公布《GTA6》六大电台阵容：首次加入播客功能、走路时也能戴耳机收听",
-      "summary": "IT之家 10 月 8 日消息，Rockstar 今日公布《GTA6》游戏内广播电台详情。官方宣称，《GTA6》将带来系列游戏迄今最大、风格最丰富的电台阵容。 据介绍，《GTA6》首次加入了一系列播客，让玩家随时收听。除了开车的时候听广播，玩家还可以在游戏中戴上耳机，在步行时收听音乐。 IT之家附《侠盗猎车手 VI》游戏六大电台如下： 椰风电台（Cocoteo FM） 这是雷奥奈达州的最佳现代拉丁...",
-      "source": "Ithome",
-      "date": "2026-10-08",
-      "url": "https://www.ithome.com/1/010/738.htm"
+      "id": "http://baijiahao.baidu.com/s?id=1878573620184452530",
+      "title": "3246公里的坚守！哈伊高铁青年动车司机的国庆答卷",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-09",
+      "url": "http://baijiahao.baidu.com/s?id=1878573620184452530"
     },
     {
-      "id": "https://www.ithome.com/1/010/734.htm",
-      "title": "Waymo 获 50 亿美元贷款：未来将推动无人驾驶出租车扩张，入局欧洲、日本等市场",
-      "summary": "IT之家 10 月 8 日消息，自动驾驶技术公司 Waymo 近日宣布获得 50 亿美元（IT之家注：现汇率约合 335.62 亿元人民币）贷款，融资方包括黑石、太平洋投资管理公司、Sixth Street 等。 据悉，这是 Waymo 首次进行债务融资。这笔资金将用于推动无人驾驶出租车扩张，并帮助 Waymo 入局美国、欧洲和日本市场。 截至目前，Waymo 一直依靠母公司 Alphabet 及...",
-      "source": "Ithome",
-      "date": "2026-10-08",
-      "url": "https://www.ithome.com/1/010/734.htm"
+      "id": "http://baijiahao.baidu.com/s?id=1878549831259395806",
+      "title": "国庆假期“床车”旅行火了：一家三口6天只花1600..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-09",
+      "url": "http://baijiahao.baidu.com/s?id=1878549831259395806"
     },
     {
-      "id": "https://post.smzdm.com/p/a5rx7pd8/",
-      "title": "曝特斯拉施压欧洲监管：嫌36.5万欧元审查费太贵 要求缩减FSD审查范围",
-      "summary": "快科技10月8日消息，据路透社调查，特斯拉曾花数月向荷兰车辆监管机构RDW施压，要求缩减对“FSD（监督版）”的审查范围，包括就一张36.5万欧元的账单讨价还价。据介绍，报道是基于公开记录申请获得的特......",
+      "id": "https://post.smzdm.com/p/az8om3dp/",
+      "title": "带三把锁！传祺越 7 ：这才是普通人要的「可城可野」方盒子",
+      "summary": "最近挑方盒子 SUV 的朋友，是不是都卡在同一个两难里？选纯硬派带大梁的吧，市区开又颠又笨重，通勤代步纯纯遭罪；选城市取向的样子货吧，周末想开去山里撒野，一到烂路就靠电子限滑硬撑，根本没底气。刚上市的......",
       "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/a5rx7pd8/"
+      "date": "2026-10-09",
+      "url": "https://post.smzdm.com/p/az8om3dp/"
     },
     {
-      "id": "https://www.ithome.com/1/010/721.htm",
-      "title": "懂车帝回应尊界 V800 刹车踏板支架断裂争议：网传暴力测试并不存在，百公里刹车实验并非极端工况",
-      "summary": "IT之家 10 月 8 日消息，据界面新闻报道，10 月 8 日，懂车帝实测曝出尊界 V800 三次出现刹车踏板支架断裂，部分网友称节目内容系极端工况，驾驶员脚踩刹车踏板力度过大。懂车帝有关人员表示，百公里刹车实验并非极端工况，很多人在高速驾驶场景下都会遇到，是汽车实测最基本的科目之一。本次节目中出现的相关车型制动踏板支架断裂属首次出现，且连续三次实验在同一位置出现相似断裂现象，存在一定安全隐患。...",
-      "source": "Ithome",
-      "date": "2026-10-08",
-      "url": "https://www.ithome.com/1/010/721.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am93wved/",
-      "title": "旗舰新能源SUV推荐：智驾系统技术科普",
-      "summary": "在旗舰新能源SUV推荐中，安全评级与三电参数是购车决策中最具参考价值的量化指标。2026年1月，中国保险汽车安全指数（C-IASI）发布测评结果，腾势N9在车内乘员安全指数、耐撞性与维修经济性指数、车......",
+      "id": "https://post.smzdm.com/p/a3mx9dr5/",
+      "title": "岚图梦想家 9 上市：全系空悬和华为智驾，这波涨价真的值吗？",
+      "summary": "最近在看高端 MPV 的朋友，估计都刷到岚图梦想家 9 上市的消息了。41.99 万 - 52.99 万的售价一出来，讨论度直接拉满 —— 不少人拿它和初代 36.99 万的起售价比，说涨了 5 万，还有人算上老款入门版说涨了 9 万。今天咱们就不吹不黑......",
       "source": "Smzdm",
-      "date": "2026-10-08",
-      "url": "https://post.smzdm.com/p/am93wved/"
+      "date": "2026-10-09",
+      "url": "https://post.smzdm.com/p/a3mx9dr5/"
+    },
+    {
+      "id": "https://www.ithome.com/1/011/156.htm",
+      "title": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全",
+      "summary": "IT之家 10 月 9 日消息，东风汽车今日宣布全新东风猛士・猛 8 越野旅居车在第 21 届阿拉善英雄会亮相并正式开启全球预订。 IT之家从官方介绍获悉，猛 8 采用东风猛士 MS600 单排军车平台技术，把三代猛士军车积累的硬实力落地到民用旅居车上。该车搭载 6.7L 电控增压柴油发动机，峰值扭矩 1050N・m，搭配全时四驱系统和双横臂独立悬架，可攀爬 31° 陡坡（约是普通小区地下车库坡道...",
+      "source": "Ithome",
+      "date": "2026-10-09",
+      "url": "https://www.ithome.com/1/011/156.htm"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261009/herald/af0d548e0db811d343d4dfb93261f149.html",
+      "title": "当车变成“移动的家”：这种旅行方式火了",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-09",
+      "url": "https://www.21jingji.com/article/20261009/herald/af0d548e0db811d343d4dfb93261f149.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al38nxqp/",
+      "title": "醉酒后开车 驾驶辅助系统自动报警算自首吗？法院判了",
+      "summary": "快科技10月9日消息，醉酒后开车，驾驶辅助系统自动报警算自首吗？近日，山东高法披露了这样一起典型案例。据介绍，2026年3月19日19时许，被告人周某醉酒后驾驶某品牌小型普通客车返回家中，途中开启车辆......",
+      "source": "Smzdm",
+      "date": "2026-10-09",
+      "url": "https://post.smzdm.com/p/al38nxqp/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261009/herald/9110044dd3508a53dcc3ef205288375a.html",
+      "title": "10月12日至15日，广州塔附近区域从严管控低空飞行活动",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-09",
+      "url": "https://www.21jingji.com/article/20261009/herald/9110044dd3508a53dcc3ef205288375a.html"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-10-09/4600349.html",
+      "title": "“尊界V800踏板支架断裂”事件追踪：门店销售称客流少了但无人退车，专家建议排查供应商、检测与安装环节，“免费升级”方案细节仍待明确",
+      "summary": "“尊界V800踏板支架断裂”事件追踪：门店销售称客流少了但无人退车，专家建议排查供应商、检测与安装环节，“免费升级”方案细节仍待明确...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-09",
+      "url": "https://www.nbd.com.cn/articles/2026-10-09/4600349.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878591645019909242",
+      "title": "深化创业板改革落地半年：各类要素资源加速向新质生产..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-09",
+      "url": "http://baijiahao.baidu.com/s?id=1878591645019909242"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a26xm7zp/",
+      "title": "日产新 N7 改款上市：加激光雷达还降价，家用舒适神车再升级",
+      "summary": "去年日产 N7 刚上市的时候我就挺关注的，11.99 万起就能拿下近 5 米的纯电轿车，空间宽敞、座椅舒服，一度月销破万，算是合资纯电里少有的黑马。这次年度改款直接玩了波 “加量还降价”，全系限时权益......",
+      "source": "Smzdm",
+      "date": "2026-10-09",
+      "url": "https://post.smzdm.com/p/a26xm7zp/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8l0x5e/",
+      "title": "腾势 Z9S 正式上市：好开好停还能打，城市纯电轿车新选择",
+      "summary": "家人们，等了两年的腾势 Z9 轿车终于更新了！本以为会走加长行政路线，结果反其道而行之，推出了尺寸更紧凑的 Z9S。刚看完上市发布会，结合之前线下静态体验的感受，跟大家唠唠这台车到底改在了点子上没有，25 万级纯电轿车值不值得冲。新车一共三款车型，指导价......",
+      "source": "Smzdm",
+      "date": "2026-10-09",
+      "url": "https://post.smzdm.com/p/ak8l0x5e/"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/09/stellantis-ceo-says-wayve-tie-up-can-cut-self-driving-costs-development-time",
+      "title": "Stellantis CEO says Wayve tie-up can cut self-driving costs, development time",
+      "summary": "TURIN, Oct 9 (Reuters) - Stellantis CEO Antonio ⁠Filosa said on Friday the automaker's partnership with British startup Wayve could help ⁠slash development times and costs for advanced driver-assistan...",
+      "source": "The Star",
+      "date": "2026-10-09",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/09/stellantis-ceo-says-wayve-tie-up-can-cut-self-driving-costs-development-time"
     },
     {
       "id": "https://www.thestar.com.my/tech/tech-news/2026/10/08/alphabet039s-waymo-secures-5-billion-term-loan-to-accelerate-expansion",
@@ -249,14 +208,6 @@
       "source": "CNET",
       "date": "2026-10-05",
       "url": "https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/05/tmt-newswire/pr-newswire/tier-iv-secures-japanese-government-grant-to-advance-autonomous-bus-field-operational-tests-and-talent-development-in-saudi-arabia/2438691",
-      "title": "TIER IV secures Japanese government grant to advance autonomous bus field operational tests and talent development in Saudi Arabia",
-      "summary": "**media[1245627]**TOKYO, Oct. 5, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has been selected by the Japanese Ministry of Economy, Trade and...",
-      "source": "The Manila Times",
-      "date": "2026-10-05",
-      "url": "https://www.manilatimes.net/2026/10/05/tmt-newswire/pr-newswire/tier-iv-secures-japanese-government-grant-to-advance-autonomous-bus-field-operational-tests-and-talent-development-in-saudi-arabia/2438691"
     }
   ]
 }
