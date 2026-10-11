@@ -1,13 +1,12 @@
 {
-  "lastUpdated": "2026-10-10 05:29:12",
-  "totalCount": 24,
+  "lastUpdated": "2026-10-11 05:23:54",
+  "totalCount": 32,
   "sources": {
-    "Smzdm": 7,
-    "Bjnews": 1,
-    "News_Baidu": 4,
+    "Bilibili": 5,
+    "News_Baidu": 5,
+    "Smzdm": 12,
+    "Fx168News": 1,
     "Ithome": 1,
-    "21Jingji": 2,
-    "Nbd_Cn": 1,
     "The Star": 2,
     "MarketScreener": 1,
     "WTOP": 1,
@@ -18,132 +17,196 @@
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/a3mx903n/",
-      "title": "高速帐篷意外掀起！享界G9试验车风波，安全底线不容打折扣",
-      "summary": "一段行车记录仪视频，在社交平台迅速发酵。画面里一台享界G9行驶在高速公路，车顶选装的电动帐篷盖板突然向上掀开，整块构件高高翘在车顶。强劲的高速气流持续拍打盖板，部件随时有脱落的风险，后方多辆社会车辆见......",
-      "source": "Smzdm",
-      "date": "2026-10-09",
-      "url": "https://post.smzdm.com/p/a3mx903n/"
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-11",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://post.smzdm.com/p/a5rok8dl/",
-      "title": "步行10多分钟到黄埔江边，入住上海前滩雅辰悦居酒店值不值？",
-      "summary": "每次出差参会，主办方安排的酒店永远是最让人期待的盲盒环节，基本次次不重样，体验也各有不同。这次去上海参加一场发布会，主办方统一安排了前滩雅辰悦居酒店的含早的悦居大床房，地理位置毗邻黄浦江畔，号称准五星......",
-      "source": "Smzdm",
-      "date": "2026-10-09",
-      "url": "https://post.smzdm.com/p/a5rok8dl/"
+      "id": "https://www.bilibili.com/video/BV1urpG6VEfe",
+      "title": "【B站】不手扶的智驾才是真敢用 ｜ 零跑智驾城区一镜到底",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-11",
+      "url": "https://www.bilibili.com/video/BV1urpG6VEfe"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1791533656129273.html",
-      "title": "解析尊界V800：媒体极限摸底试验该如何评判",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-10-09",
-      "url": "https://www.bjnews.com.cn/detail/1791533656129273.html"
+      "id": "https://www.bilibili.com/video/BV1KdHy6FEE4",
+      "title": "【B站】国产辅助驾驶吊打特斯拉FSD，看得我胆战心惊",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-11",
+      "url": "https://www.bilibili.com/video/BV1KdHy6FEE4"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878580066039765905",
-      "title": "风起长江口，全球顶尖女车手竞速崇明，2026 环崇..",
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-10-11",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-11",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878679219652483791",
+      "title": "特写｜“蛟龙”入海记",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-09",
-      "url": "http://baijiahao.baidu.com/s?id=1878580066039765905"
+      "date": "2026-10-10",
+      "url": "http://baijiahao.baidu.com/s?id=1878679219652483791"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878573620184452530",
-      "title": "3246公里的坚守！哈伊高铁青年动车司机的国庆答卷",
+      "id": "https://post.smzdm.com/p/a70po8ed/",
+      "title": "张雪机车葡萄牙站夺第6：热搜里的主角不是中国女骑手，而是成立两年的中国工厂",
+      "summary": "热搜标题里的“张雪”，不是车手的名字，而是这家中国摩托车厂商的招牌。10月10日晚，2026年世界超级摩托车锦标赛（WSBK）第十一站WorldSSP组别葡萄牙埃斯托里尔赛道首回合正赛，驾驶“张雪机车”820RR-RS赛车的法国车手瓦伦丁·德比斯从第17......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/a70po8ed/"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1101345",
+      "title": "SemiAnalysis创始人Dylan Patel：AI基础设施投入被严重低估，真正的回报不只来自Token-FX168",
+      "summary": "TradingKey - 当人工智能公司的收入还在快速增长时，围绕它们的数据中心、GPU、电力和芯片供应链投资，已经先一步进入“万亿美元时代”。 问题也随之变得直接：如此庞大的基础设施投入，最终能否转化为足够的收入、利润和经济增长？ 在《Big Technology Podcast》的一期访谈中，SemiAnalysis创始人Dylan Patel和分析师Jordan Nanos讨论了AI基建的规...",
+      "source": "Fx168News",
+      "date": "2026-10-10",
+      "url": "https://www.fx168news.com/article/1101345"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878625678659257525",
+      "title": "数字技术守护耕地红线",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-09",
-      "url": "http://baijiahao.baidu.com/s?id=1878573620184452530"
+      "date": "2026-10-10",
+      "url": "http://baijiahao.baidu.com/s?id=1878625678659257525"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878549831259395806",
-      "title": "国庆假期“床车”旅行火了：一家三口6天只花1600..",
+      "id": "http://baijiahao.baidu.com/s?id=1878651038077325013",
+      "title": "郑州高架严查升级！无人机喊话+铁骑巡逻，集中整治摩..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-09",
-      "url": "http://baijiahao.baidu.com/s?id=1878549831259395806"
+      "date": "2026-10-10",
+      "url": "http://baijiahao.baidu.com/s?id=1878651038077325013"
     },
     {
-      "id": "https://post.smzdm.com/p/az8om3dp/",
-      "title": "带三把锁！传祺越 7 ：这才是普通人要的「可城可野」方盒子",
-      "summary": "最近挑方盒子 SUV 的朋友，是不是都卡在同一个两难里？选纯硬派带大梁的吧，市区开又颠又笨重，通勤代步纯纯遭罪；选城市取向的样子货吧，周末想开去山里撒野，一到烂路就靠电子限滑硬撑，根本没底气。刚上市的......",
+      "id": "https://post.smzdm.com/p/al38dp0o/",
+      "title": "四部门整治“速成车”：全隐藏门把手被禁，可靠性验证不低于3万公里",
+      "summary": "10月10日，工业和信息化部、公安部、生态环境部、市场监管总局联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》，监管此次直接落在产品创新设计与研发测试验证的源头上。文件抬高的核心门槛可以概括为两句话：新车要完成不低......",
       "source": "Smzdm",
-      "date": "2026-10-09",
-      "url": "https://post.smzdm.com/p/az8om3dp/"
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/al38dp0o/"
     },
     {
-      "id": "https://post.smzdm.com/p/a3mx9dr5/",
-      "title": "岚图梦想家 9 上市：全系空悬和华为智驾，这波涨价真的值吗？",
-      "summary": "最近在看高端 MPV 的朋友，估计都刷到岚图梦想家 9 上市的消息了。41.99 万 - 52.99 万的售价一出来，讨论度直接拉满 —— 不少人拿它和初代 36.99 万的起售价比，说涨了 5 万，还有人算上老款入门版说涨了 9 万。今天咱们就不吹不黑......",
+      "id": "https://post.smzdm.com/p/agg5r8v3/",
+      "title": "四部门终结速成车乱象，新手买车如何避开劣质拼装坑？",
+      "summary": "10月10日，工业和信息化部、公安部、生态环境部、市场监管总局联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》，从设计验证测试的源头纠偏被压缩研发周期催生的“速成车”乱象。征求意见稿给出了硬性数字：环境适应性验证周......",
       "source": "Smzdm",
-      "date": "2026-10-09",
-      "url": "https://post.smzdm.com/p/a3mx9dr5/"
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/agg5r8v3/"
     },
     {
-      "id": "https://www.ithome.com/1/011/156.htm",
-      "title": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全",
-      "summary": "IT之家 10 月 9 日消息，东风汽车今日宣布全新东风猛士・猛 8 越野旅居车在第 21 届阿拉善英雄会亮相并正式开启全球预订。 IT之家从官方介绍获悉，猛 8 采用东风猛士 MS600 单排军车平台技术，把三代猛士军车积累的硬实力落地到民用旅居车上。该车搭载 6.7L 电控增压柴油发动机，峰值扭矩 1050N・m，搭配全时四驱系统和双横臂独立悬架，可攀爬 31° 陡坡（约是普通小区地下车库坡道...",
+      "id": "https://post.smzdm.com/p/arzr205g/",
+      "title": "四部门终结速成车乱象，正规微型代步车市场将迎洗牌？",
+      "summary": "2026年10月10日，工业和信息化部会同公安部、生态环境部、市场监管总局，公开发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》，把研发测试验证的充分程度变成新车拿到公告的前置条件。按工信部装备工业一司的公示安排，意见......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/arzr205g/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqm2znw/",
+      "title": "德比斯机车性能解析：张雪葡萄牙站战车的入门门槛",
+      "summary": "本周末的WSBK葡萄牙埃斯托里尔站，张雪机车53号车手瓦伦丁·德比斯驾驶的战车是820RR-RS。2026年3月底，张雪机车在WSBK葡萄牙站连夺两冠。 赛场走红后，比赛同款量产车820RR的预售订单随之激增，不少新晋摩友却被一条规定挡在门外。 回到这个......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/apqm2znw/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqm2z9w/",
+      "title": "四部门终结速成车乱象后，存量车主合规过渡与置换指南",
+      "summary": "10月10日，一份直接冲着“速成车”而来的部委文件公开征求意见，把汽车创新设计的安全验证提到了产品准入的台面上。 这份《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》由工业和信息化部、公安部、生态环境部、市场监管总局四部门......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/apqm2z9w/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomvdog7/",
+      "title": "车宽超2米，限时22.99万起，启境GX7被太多人低估",
+      "summary": "启境GX7上市也有小半个月的时间了，不少小伙伴对这款车的印象就是搭载了华为ADS 5智能驾驶辅助、鸿蒙座舱HarmonySpace 6，以及四激光雷达感知硬件等核心智能配置，但是却忽视了一款车不仅仅是有智能化，也小看了这辆限时22.99万起的阔五座智能百......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/aomvdog7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrqpnw7/",
+      "title": "四部门终结速成车乱象，拆解劣质车看安全差距有多大？",
+      "summary": "10月10日，工业和信息化部、公安部、生态环境部、市场监管总局四部门联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知》（征求意见稿），把监管闸门从“产品合不合格”前移到“研发验......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/aqrqpnw7/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878664181305305758",
+      "title": "一次荣誉转化为持久守护！青岛公交司机用见义勇为奖金..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-10",
+      "url": "http://baijiahao.baidu.com/s?id=1878664181305305758"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkop052/",
+      "title": "四部门规范升顶座舱新规解读：车主行车安全避坑指南",
+      "summary": "10月10日，工业和信息化部等四部门公开发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》，把升顶座舱、\"零重力\"座椅、门把手等一批网红配置一并摆到车辆准入管理的台面上。 具体到升顶座舱，条文写得非常直接：汽车生产企业应......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/axkop052/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwopxgg/",
+      "title": "四部门拟新规：升顶座舱行车时不可使用——管的不是车顶，而是“行车开篷”",
+      "summary": "10月10日，工业和信息化部等四部门联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》，拟对汽车产品的创新设计和研发测试验证实施全面强化管理。 其中最牵动露营爱好......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/awwopxgg/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkopg23/",
+      "title": "吉利千里浩瀚增速第一：从6.59万到32.98万，家用与商用的智驾购车决策指南",
+      "summary": "热搜上的“增速第一”，出自10月10日发布的《千里浩瀚智行中国2026中秋·国庆出行报告》：截至10月7日，千里浩瀚搭载量107.3万辆、辅助驾驶累计里程31.4亿公里，报告称使用里程增速和自主品牌搭载规模增速都是第一。假期口径同样被官方媒体转述：中秋国......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/axkopg23/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a26xn562/",
+      "title": "别克新车官宣：10月10日正式上市，14.99万起",
+      "summary": "10月10日消息，别克全新君越正式上市，我还记得早期的君越售价30多万，后续降到20多万，现在都跌破15万大关了。此次全新君越来头其实挺大的，它是君越诞生20周年纪念车型，也是别克首款逍遥电子架构燃油车，官方宣称总计带来50项豪华升级，但价格却并不贵，反......",
+      "source": "Smzdm",
+      "date": "2026-10-10",
+      "url": "https://post.smzdm.com/p/a26xn562/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878655530369590389",
+      "title": "“拿下”飞天奖的烟台，不只一夜星光灿烂！",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-10",
+      "url": "http://baijiahao.baidu.com/s?id=1878655530369590389"
+    },
+    {
+      "id": "https://www.ithome.com/1/011/532.htm",
+      "title": "2026 款理想 i6 六大升级公布：电动前备箱、96 千瓦时自研大电池等",
+      "summary": "IT之家 10 月 10 日消息，2026 款理想 i6 六大升级今日公布，全国 485 家门店将于 10 月 11 日同步开启静态体验。 IT之家整理官方介绍如下： 更好的灯：ADB 矩阵大灯，照得更亮。智能遮蔽，对向车辆不晃眼。弯道随动，照亮转角盲区。视野更广更远，夜路倍感安心。 电动前备箱：开合省力，顺手好用。电动开合省力，超大容积能装。语音、敲击、远程等多种方式开启。前盖高度可调，高个矮个...",
       "source": "Ithome",
-      "date": "2026-10-09",
-      "url": "https://www.ithome.com/1/011/156.htm"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261009/herald/af0d548e0db811d343d4dfb93261f149.html",
-      "title": "当车变成“移动的家”：这种旅行方式火了",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-09",
-      "url": "https://www.21jingji.com/article/20261009/herald/af0d548e0db811d343d4dfb93261f149.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al38nxqp/",
-      "title": "醉酒后开车 驾驶辅助系统自动报警算自首吗？法院判了",
-      "summary": "快科技10月9日消息，醉酒后开车，驾驶辅助系统自动报警算自首吗？近日，山东高法披露了这样一起典型案例。据介绍，2026年3月19日19时许，被告人周某醉酒后驾驶某品牌小型普通客车返回家中，途中开启车辆......",
-      "source": "Smzdm",
-      "date": "2026-10-09",
-      "url": "https://post.smzdm.com/p/al38nxqp/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261009/herald/9110044dd3508a53dcc3ef205288375a.html",
-      "title": "10月12日至15日，广州塔附近区域从严管控低空飞行活动",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-09",
-      "url": "https://www.21jingji.com/article/20261009/herald/9110044dd3508a53dcc3ef205288375a.html"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-10-09/4600349.html",
-      "title": "“尊界V800踏板支架断裂”事件追踪：门店销售称客流少了但无人退车，专家建议排查供应商、检测与安装环节，“免费升级”方案细节仍待明确",
-      "summary": "“尊界V800踏板支架断裂”事件追踪：门店销售称客流少了但无人退车，专家建议排查供应商、检测与安装环节，“免费升级”方案细节仍待明确...",
-      "source": "Nbd_Cn",
-      "date": "2026-10-09",
-      "url": "https://www.nbd.com.cn/articles/2026-10-09/4600349.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878591645019909242",
-      "title": "深化创业板改革落地半年：各类要素资源加速向新质生产..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-09",
-      "url": "http://baijiahao.baidu.com/s?id=1878591645019909242"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a26xm7zp/",
-      "title": "日产新 N7 改款上市：加激光雷达还降价，家用舒适神车再升级",
-      "summary": "去年日产 N7 刚上市的时候我就挺关注的，11.99 万起就能拿下近 5 米的纯电轿车，空间宽敞、座椅舒服，一度月销破万，算是合资纯电里少有的黑马。这次年度改款直接玩了波 “加量还降价”，全系限时权益......",
-      "source": "Smzdm",
-      "date": "2026-10-09",
-      "url": "https://post.smzdm.com/p/a26xm7zp/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak8l0x5e/",
-      "title": "腾势 Z9S 正式上市：好开好停还能打，城市纯电轿车新选择",
-      "summary": "家人们，等了两年的腾势 Z9 轿车终于更新了！本以为会走加长行政路线，结果反其道而行之，推出了尺寸更紧凑的 Z9S。刚看完上市发布会，结合之前线下静态体验的感受，跟大家唠唠这台车到底改在了点子上没有，25 万级纯电轿车值不值得冲。新车一共三款车型，指导价......",
-      "source": "Smzdm",
-      "date": "2026-10-09",
-      "url": "https://post.smzdm.com/p/ak8l0x5e/"
+      "date": "2026-10-10",
+      "url": "https://www.ithome.com/1/011/532.htm"
     },
     {
       "id": "https://www.thestar.com.my/tech/tech-news/2026/10/09/stellantis-ceo-says-wayve-tie-up-can-cut-self-driving-costs-development-time",
@@ -192,22 +255,6 @@
       "source": "The Manila Times",
       "date": "2026-10-06",
       "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257"
-    },
-    {
-      "id": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/",
-      "title": "Are self-driving cars legal for public use in Maine? | Fact brief",
-      "summary": "Fully autonomous driving is completely legal in 21 states, according to a recent report....",
-      "source": "Portland Press Herald",
-      "date": "2026-10-05",
-      "url": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/"
-    },
-    {
-      "id": "https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/",
-      "title": "Ready for Driverless Trucks? I Took a Ride in Kodiak's Autonomous Semi",
-      "summary": "Kodiak is planning to bring its fully self-driving trucks to highways later this year. I took a test ride to see the technology in action....",
-      "source": "CNET",
-      "date": "2026-10-05",
-      "url": "https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/"
     }
   ]
 }
