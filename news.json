@@ -1,252 +1,168 @@
 {
-  "lastUpdated": "2026-10-12 05:35:07",
-  "totalCount": 29,
+  "lastUpdated": "2026-10-13 06:31:34",
+  "totalCount": 19,
   "sources": {
-    "Bilibili": 5,
     "Gmw": 2,
-    "Smzdm": 12,
+    "Smzdm": 11,
+    "Smm_Cn": 1,
     "News_Baidu": 1,
-    "Ign_Cn": 1,
-    "The Star": 2,
-    "MarketScreener": 1,
-    "WTOP": 1,
-    "WDIV ClickOnDetroit": 1,
-    "The Manila Times": 1,
-    "Portland Press Herald": 1,
-    "CNET": 1
+    "21Jingji": 1,
+    "The Mercury News": 1,
+    "Los Angeles Times": 1,
+    "The Expositor": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-12",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Mapb6WEF8",
-      "title": "【B站】玩欧卡的第四天，我整上了自动驾驶",
-      "summary": "玩欧卡的第四天，我整上了自动驾驶...",
-      "source": "Bilibili",
-      "date": "2026-10-12",
-      "url": "https://www.bilibili.com/video/BV1Mapb6WEF8"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1urpG6VEfe",
-      "title": "【B站】不手扶的智驾才是真敢用 ｜ 零跑智驾城区一镜到底",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-10-12",
-      "url": "https://www.bilibili.com/video/BV1urpG6VEfe"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-12",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1URpn6vEqz",
-      "title": "【B站】女列车司机的一天挺轻松，全程自动驾驶！",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-12",
-      "url": "https://www.bilibili.com/video/BV1URpn6vEqz"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-10/12/content_39039810.htm",
-      "title": "重庆：数据资产“换”绿色贷款",
-      "summary": "今年9月中旬刚刚投用的白鹤新能源充电站，由重庆一家物流企业投资自建。很多人可能想不到，这座容量10000千瓦的新能源充电站，建设资金竟然是企业用自己攒下的一串串数据换来的绿色贷款。...",
-      "source": "Gmw",
-      "date": "2026-10-11",
-      "url": "https://news.gmw.cn/2026-10/12/content_39039810.htm"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-10/12/content_39039775.htm",
-      "title": "河南：产业向新，中原发展添活力",
+      "id": "https://news.gmw.cn/2026-10/13/content_39042020.htm",
+      "title": "应用多场景 行驶更智能——广东省广州市探路自动驾驶商业化发展",
       "summary": "NewsData报道",
       "source": "Gmw",
-      "date": "2026-10-11",
-      "url": "https://news.gmw.cn/2026-10/12/content_39039775.htm"
+      "date": "2026-10-12",
+      "url": "https://news.gmw.cn/2026-10/13/content_39042020.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/az8okpkn/",
-      "title": "理想新车官宣：10月12日即将上市，续航780公里",
-      "summary": "10月12日消息，巴黎车展将正式开幕，此次车展上将亮相多款国产新车，其中就包括新款理想i6。目前理想官方已经官宣它将在此次车展进行欧洲首秀，不过此次只是展示不是正式发布，该车会率先在国内上市，上市时间暂定为10月28日，目前全国485家理想门店中展车也已......",
+      "id": "https://news.gmw.cn/2026-10/13/content_39041954.htm",
+      "title": "加快高质量数据集建设 推动人工智能产业健康发展",
+      "summary": "当前，人工智能发展迈入模型与数据协同优化的新阶段，高质量数据集成为支持人工智能模型训练与优化的核心资源。...",
+      "source": "Gmw",
+      "date": "2026-10-12",
+      "url": "https://news.gmw.cn/2026-10/13/content_39041954.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az8okedr/",
+      "title": "新皇岗口岸实际体验避坑指南：接驳交通与高峰时段提醒",
+      "summary": "10月12日6时30分，重建后的皇岗口岸正式开通运行，旧的皇岗临时旅检口岸同步停止使用。香港特区政府保安局与深圳市人民政府口岸办公室的10月9日联合公告同时明确，往来深圳皇岗口岸临时旅检楼和香港落马洲......",
       "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/az8okpkn/"
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/az8okedr/"
     },
     {
-      "id": "https://post.smzdm.com/p/a3mx266r/",
-      "title": "张雪机车葡萄牙站再登领奖台：锁定年度车手亚军后，中国赛车还能走多远？",
-      "summary": "北京时间10月11日晚，2026年WSBK葡萄牙站WorldSSP组别次回合正赛在埃什托里尔赛道的雨中收场。中国品牌“张雪机车”的法国车手瓦伦丁·德比斯从第三位发车，第10圈遭遇红旗中断，恢复比赛后从第六位重新起步，一路追回，第三个冲过终点线。 这个第三......",
+      "id": "https://post.smzdm.com/p/ak8l4gw4/",
+      "title": "理想i6巴黎车展完成欧洲首秀：所谓“颜值打分”，其实是两套购车标准的正面相撞",
+      "summary": "理想i6在10月12日晚以海外命名\"Li6\"登上巴黎车展，完成了面向欧洲公众的首次展示，理想同时给出欧洲市场的时间表：计划于2027年第一季度在挪威和荷兰启动销售与交付，之后逐步拓展其他欧洲国家，这比......",
       "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/a3mx266r/"
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/ak8l4gw4/"
     },
     {
-      "id": "https://post.smzdm.com/p/axkopqq9/",
-      "title": "岚图卢放为何支持汽车设计新规？一文看懂国产车企设计突围战",
-      "summary": "岚图汽车董事长卢放为汽车设计新规表态了。10月11日上午，他转发新华社相关报道并公开表示支持，称创新要以安全为前提，愿与行业一起规范创新设计、强化测试验证、守护出行安全。 这份表态不是临时蹭热点：10......",
+      "id": "https://post.smzdm.com/p/aqrqg9ek/",
+      "title": "私营加油站的油跑不远？实测对比揭开油耗真相",
+      "summary": "\"私营加油站的油跑不远\"这句抱怨，锅不该整个扣在\"私营\"两个字上，但也并非空穴来风。把监管部门查办案件里的实测数据和油样检验结果梳理一遍，结论可以说得相当清楚：合规经营的民营加油站和中石化、中石油供应......",
       "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/axkopqq9/"
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/aqrqg9ek/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878625173939897277",
-      "title": "刚柔并济提升新能源汽车补能效率",
+      "id": "https://news.smm.cn/news/104154624",
+      "title": "江淮汽车大涨9%！尊界V800检测报告出炉：符合行标要求；懂车帝回应",
+      "summary": "NewsData报道",
+      "source": "Smm_Cn",
+      "date": "2026-10-12",
+      "url": "https://news.smm.cn/news/104154624"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomv78g6/",
+      "title": "比亚迪大汉10月13日19:00正式上市：24.99万元起预售，三电与智驾升级成色几何",
+      "summary": "比亚迪大汉没有像网传的那样“今日上市”。官方发布信息与多家经销商物料一致显示，王朝网9系旗舰轿车大汉的正式上市发布会定在10月13日19:00，10月12日当天这台车仍处于展车到店和上市倒计时阶段。 ......",
+      "source": "Smzdm",
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/aomv78g6/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anv97l5v/",
+      "title": "比亚迪大汉今日19:00上市：预售价24.99万起的D级旗舰，冲的是BBA“56E”的腹地",
+      "summary": "今晚19:00，比亚迪王朝9系旗舰轿车“大汉”将举行上市发布会，公布这台大型纯电轿车的最终售价。发布会定档10月13日19:00，由比亚迪王朝路天的微博账号在10月12日官宣。本场发布会以“千里驰行”......",
+      "source": "Smzdm",
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/anv97l5v/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a956e2ke/",
+      "title": "比亚迪大汉10月13日上市：D级旗舰压进25万预算，20万级轿车格局要生变？",
+      "summary": "比亚迪王朝9系旗舰轿车大汉的悬念即将落地：官方账号已同步定档，10月13日举行上市发布会。 这款车在8月21日便开启全国预售。 官方公布的预售价格区间为24.99万至29.99万元。 大汉的打法是把D......",
+      "source": "Smzdm",
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/a956e2ke/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqm53r0/",
+      "title": "大众发布会连提“不做速成车”：现阶段入手大众车型，需注意什么？",
+      "summary": "10月12日，上汽大众ID. ERA 8X在成都正式上市，四款车型的限时权益价从20.68万元排到26.98万元。DoNews在尊界“刹车被踩断”风波爆发仅数日后，上汽大众把立场打包成“不做速成车、不......",
+      "source": "Smzdm",
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/apqm53r0/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1878647135068681449",
+      "title": "油价调整通知！下月起，加油将有新变化",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-11",
-      "url": "http://baijiahao.baidu.com/s?id=1878625173939897277"
+      "date": "2026-10-12",
+      "url": "http://baijiahao.baidu.com/s?id=1878647135068681449"
     },
     {
-      "id": "https://post.smzdm.com/p/aomvdnnr/",
-      "title": "四部门汽车设计新规将如何改变未来车型？岚图卢放力挺背后",
-      "summary": "10月10日，工业和信息化部会同公安部、生态环境部、市场监管总局发布的这份新规，核心不是否决某种设计审美，而是重写创新上车的规则：2027年1月1日起，涉及创新设计的新申报车型必须增报创新设计有关技术......",
+      "id": "https://post.smzdm.com/p/aqrqg9zx/",
+      "title": "大众发布会提“刹车踩不断”：踏板踩不断只是底线，刹车突然变硬才是要命的时刻",
+      "summary": "10月12日，上汽大众ID.ERA 8X正式上市，限时20.68万-26.98万元。发布会现场，上汽大众高管陈峰把矛头对准正在发酵的“刹车踏板门”：刹车踏板都不能让人放心，谈什么出行安全。而在大众之前......",
       "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/aomvdnnr/"
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/aqrqg9zx/"
     },
     {
-      "id": "https://post.smzdm.com/p/a82pr4dl/",
-      "title": "德比斯锁定年度总亚军：修车学徒张雪和“素人机车”的两年世界赛场进阶",
-      "summary": "当地时间10月11日，2026世界超级摩托车锦标赛（WSBK）葡萄牙埃斯托里尔站WorldSSP组别次回合正赛结束，中国摩托车制造商“张雪机车”的法国车手瓦伦丁·德比斯获得季军，赛事官方随即确认他提前......",
+      "id": "https://post.smzdm.com/p/anv97l9v/",
+      "title": "大众发布会提刹车踩不断，一文读懂电子助力刹车工作原理",
+      "summary": "热榜上那句\"大众发布会提刹车踩不断\"，出现在上汽大众ID.ERA 8X正式上市并公布最终售价的周末。 刹车踏板会不会被踩断，过去一周被一条测试视频变成了全民围观的验货现场。先说结论：合格刹车踏板被踩断......",
       "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/a82pr4dl/"
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/anv97l9v/"
     },
     {
-      "id": "https://post.smzdm.com/p/am936rlv/",
-      "title": "尊界V800刹车踏板事件：聊聊第三方实测的边界与价值",
-      "summary": "作为经常看各类汽车实测内容的爱好者，尊界V800刹车踏板断裂这件事，让我开始思考第三方测评的定位和边界。不同于车企官方试验、国标认证，这次测试是测评人自行设计的连续极限重刹场景，并非法规强制要求的验证......",
+      "id": "https://post.smzdm.com/p/a956e26e/",
+      "title": "大众发布会谈“刹车踩不断”：尊界风波后，制动踏板成了车企必答题",
+      "summary": "10月12日，成都，上汽大众ID. ERA 8X上市发布会。与车型形象大使李治廷对谈时，上汽大众大众品牌营销事业执行副总监陈峰主动谈起了刹车踏板，说它要经得起折腾，绝不能是一踩就断的“断脚蟹”。 围绕......",
       "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/am936rlv/"
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/a956e26e/"
     },
     {
-      "id": "https://www.ign.com.cn/squadron-42/63312/42zhong-dui-xuan-chuan-shi-pin",
-      "title": "《42中队》宣传视频",
-      "summary": "将于2027年第二季度推出 以新兵身份加入UEE海军，成为作战行动的核心人物。在这里，你将与全明星阵容船员并肩生活、协同工作或抗击敌人；从战斗机驾驶舱到主力舰，从空间站到边疆前哨，再到银河大战的最前线，你的故事将在此展开。在激烈战火、无畏牺牲与关键抉择中，你将赢得属于自己的地位，晋升军衔，铸就传奇。你不再是英雄崛起的旁观者。你，就是英雄。《42中队（Squadron 42）》将于2027年第二季度...",
-      "source": "Ign_Cn",
-      "date": "2026-10-11",
-      "url": "https://www.ign.com.cn/squadron-42/63312/42zhong-dui-xuan-chuan-shi-pin"
+      "id": "https://www.21jingji.com/article/20261013/3c6d59aa0fbfef14cce6c30d5faf7c7b.html",
+      "title": "21评论丨汽车企业行稳致远需要备好三副刹车",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-12",
+      "url": "https://www.21jingji.com/article/20261013/3c6d59aa0fbfef14cce6c30d5faf7c7b.html"
     },
     {
-      "id": "https://post.smzdm.com/p/agg5rppd/",
-      "title": "四部门严管汽车创新设计，消费者如何避开“伪创新”营销坑？",
-      "summary": "10月10日，工业和信息化部会同公安部、生态环境部、市场监管总局，公开发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。文件把“创新设计”与“研发测试验证”两件事装......",
+      "id": "https://post.smzdm.com/p/ak8l4gm9/",
+      "title": "预估13万左右！大众新车官宣：11月即将上市",
+      "summary": "早在8月份的成都车展上，上汽大众就展示了新车ID.ERA 5X，不过一直都没有公布上市时间，如今终于有了官方消息。在大众ID.ERA 8X的发布会上，官方官宣ID.ERA 5X即将在11月上市，该车将接替老款ID.4X，主打年轻家用市场。目前它仍然处于盲......",
       "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/agg5rppd/"
+      "date": "2026-10-12",
+      "url": "https://post.smzdm.com/p/ak8l4gm9/"
     },
     {
-      "id": "https://post.smzdm.com/p/a70po7ml/",
-      "title": "尊界踏板升级方案月底确认：11月起免费升级，召回争议待解",
-      "summary": "尊界刹车踏板风波进入“时间表”阶段。10月11日，尊界客服向媒体确认，尊界V800制动踏板支架底座升级方案预计于10月底确认，11月起陆续启动升级。 月底确认的是升级方案本身，而不是升级完成，官方同时......",
-      "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/a70po7ml/"
+      "id": "https://www.mercurynews.com/2026/10/12/general-motors-autonomous-driving/",
+      "title": "How General Motors is simulating its way to autonomous driving",
+      "summary": "General Motors plans to launch an advanced iteration of its driver assist technology on the 2028 Cadillac Escalade IQ electric vehicle....",
+      "source": "The Mercury News",
+      "date": "2026-10-12",
+      "url": "https://www.mercurynews.com/2026/10/12/general-motors-autonomous-driving/"
     },
     {
-      "id": "https://post.smzdm.com/p/ae6q97l3/",
-      "title": "尊界踏板升级方案月底确认：未发运新车出厂即升级再交付，准车主该等还是先订？",
-      "summary": "先说结论：未发运的新车会在交付前直接换装升级部件——“现在下订会不会拿到旧件”，在官方口径下不成立；真正悬着的，是月底才揭晓的方案细节，以及至今没有收口的断裂原因之争。10月11日，尊界客服向媒体确认......",
-      "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/ae6q97l3/"
+      "id": "https://www.latimes.com/business/story/2026-10-12/from-hands-free-to-eyes-off-how-general-motors-is-simulating-its-way-to-autonomous-driving",
+      "title": "From ‘hands-free’ to ‘eyes-off’: how General Motors is simulating its way to autonomous driving",
+      "summary": "General Motors plans to launch an advanced iteration of its driver assist technology on the 2028 Cadillac Escalade IQ electric vehicle...",
+      "source": "Los Angeles Times",
+      "date": "2026-10-12",
+      "url": "https://www.latimes.com/business/story/2026-10-12/from-hands-free-to-eyes-off-how-general-motors-is-simulating-its-way-to-autonomous-driving"
     },
     {
-      "id": "https://post.smzdm.com/p/a70po74g/",
-      "title": "远程星享M7E上市：限时价11.39万元，首款搭载金砖致远电池，首任车主享终身质保",
-      "summary": "10月11日，吉利远程星享M7E正式上市，官方指导价12.59万元，限时专享价11.39万元。它的核心身份有两层：首款搭载吉曜通行金砖致远商用车专属电池的量产车，以及定位“智享商务大7座”的纯电轻客，瞄准中小企业主、网约车租赁、企业通勤、个体经营和家庭出......",
-      "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/a70po74g/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7m4ezz/",
-      "title": "问界将继续长期全系搭载宁德时代电池：近期买问界，该等还是买？",
-      "summary": "10月10日，宁德时代与赛力斯集团在重庆签署长期战略合作协议，赛力斯董事长张兴海与宁德时代董事长兼CEO曾毓群到场见证签约。协议里和买车人关系最直接的一句话是：问界品牌自创立以来全系搭载宁德时代电池、累计交付已突破120万台，以此为新起点，问界将继续长期......",
-      "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/ad7m4ezz/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkopq32/",
-      "title": "从尊界踏板断裂看国产车成熟之路",
-      "summary": "作为一名普通的汽车观察者，我完整看完了尊界V800刹车踏板的测试视频与官方全部公告，更愿意抛开网络上两极对立的情绪，基于已经发生的事实做一番评价。实测当中三台新车在封闭场地全力紧急制动测试，先后出现刹......",
-      "source": "Smzdm",
-      "date": "2026-10-11",
-      "url": "https://post.smzdm.com/p/axkopq32/"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/09/stellantis-ceo-says-wayve-tie-up-can-cut-self-driving-costs-development-time",
-      "title": "Stellantis CEO says Wayve tie-up can cut self-driving costs, development time",
-      "summary": "TURIN, Oct 9 (Reuters) - Stellantis CEO Antonio ⁠Filosa said on Friday the automaker's partnership with British startup Wayve could help ⁠slash development times and costs for advanced driver-assistan...",
-      "source": "The Star",
-      "date": "2026-10-09",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/09/stellantis-ceo-says-wayve-tie-up-can-cut-self-driving-costs-development-time"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/08/alphabet039s-waymo-secures-5-billion-term-loan-to-accelerate-expansion",
-      "title": "Alphabet's Waymo secures $5 billion term loan to accelerate expansion",
-      "summary": "Oct 8 (Reuters) - ⁠Alphabet's self-driving unit Waymo ⁠on Thursday said it has ‌closed a $5 billion term loan, marking the company's first debt financing ​as it looks ⁠to expand its ⁠autonomous ride-h...",
-      "source": "The Star",
-      "date": "2026-10-08",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/alphabet039s-waymo-secures-5-billion-term-loan-to-accelerate-expansion"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/lemonade-expands-autonomous-car-insurance-coverage-to-tesla-models-with-fsd-v14-lite-ce785ddfd881f726",
-      "title": "Lemonade Expands Autonomous Car Insurance Coverage to Tesla Models With FSD v14 Lite",
-      "summary": "Lemonade has expanded its autonomous vehicle insurance coverage to include older Tesla models with HW3 onboard computers running the new full self-driving v14 Lite software, the insurance firm......",
-      "source": "MarketScreener",
-      "date": "2026-10-08",
-      "url": "https://www.marketscreener.com/news/lemonade-expands-autonomous-car-insurance-coverage-to-tesla-models-with-fsd-v14-lite-ce785ddfd881f726"
-    },
-    {
-      "id": "https://wtop.com/dc/2026/10/app-drivers-rally-against-robotaxi-expansion-in-dc/",
-      "title": "App drivers rally against Robotaxi expansion in DC",
-      "summary": "Dozens of Uber drivers, union workers and faith leaders gathered Tuesday outside the John Wilson Building to rally against a proposal that would bring Waymo and other autonomous driving services to th...",
-      "source": "WTOP",
-      "date": "2026-10-06",
-      "url": "https://wtop.com/dc/2026/10/app-drivers-rally-against-robotaxi-expansion-in-dc/"
-    },
-    {
-      "id": "https://www.clickondetroit.com/news/local/2026/10/06/waymo-begins-fully-autonomous-driving-in-detroit-what-to-know/",
-      "title": "Waymo begins fully autonomous driving in Detroit -- what to know",
-      "summary": "If you spot a Waymo in Detroit without a human driver behind the wheel, there’s no need to panic — the robotaxi service has officially rolled out fully autonomous driving in the city on Tuesday....",
-      "source": "WDIV ClickOnDetroit",
-      "date": "2026-10-06",
-      "url": "https://www.clickondetroit.com/news/local/2026/10/06/waymo-begins-fully-autonomous-driving-in-detroit-what-to-know/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257",
-      "title": "Optro Establishes UAE Hub to Support Rapid Transition to Agentic GRC Across the Middle East",
-      "summary": "**media[1248854]**Expansion comes as UAE government mandates transition to Agentic AI models, driving demand for continuous assurance and autonomous risk governance....",
-      "source": "The Manila Times",
-      "date": "2026-10-06",
-      "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257"
-    },
-    {
-      "id": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/",
-      "title": "Are self-driving cars legal for public use in Maine? | Fact brief",
-      "summary": "Fully autonomous driving is completely legal in 21 states, according to a recent report....",
-      "source": "Portland Press Herald",
-      "date": "2026-10-05",
-      "url": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/"
-    },
-    {
-      "id": "https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/",
-      "title": "Ready for Driverless Trucks? I Took a Ride in Kodiak's Autonomous Semi",
-      "summary": "Kodiak is planning to bring its fully self-driving trucks to highways later this year. I took a test ride to see the technology in action....",
-      "source": "CNET",
-      "date": "2026-10-05",
-      "url": "https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/"
+      "id": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/optro-unveils-2026-connector-award-winners-recognizing-leaders-in-grc-intelligence-and-ai-innovation/",
+      "title": "Optro Unveils 2026 Connector Award Winners Recognizing Leaders in GRC Intelligence and AI Innovation",
+      "summary": "Annual awards honor audit, risk, and compliance teams driving real-time intelligence, operational resilience, and autonomous execution.SAN DIEGO, Oct. 12,...",
+      "source": "The Expositor",
+      "date": "2026-10-12",
+      "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/optro-unveils-2026-connector-award-winners-recognizing-leaders-in-grc-intelligence-and-ai-innovation/"
     }
   ]
 }
