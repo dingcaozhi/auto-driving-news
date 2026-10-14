@@ -1,144 +1,196 @@
 {
-  "lastUpdated": "2026-10-13 06:31:34",
-  "totalCount": 19,
+  "lastUpdated": "2026-10-14 04:32:28",
+  "totalCount": 23,
   "sources": {
-    "Gmw": 2,
-    "Smzdm": 11,
-    "Smm_Cn": 1,
+    "Bilibili": 5,
+    "Smzdm": 6,
+    "Wallstreetcn": 1,
+    "Nbd_Cn": 1,
     "News_Baidu": 1,
-    "21Jingji": 1,
-    "The Mercury News": 1,
-    "Los Angeles Times": 1,
-    "The Expositor": 1
+    "Bjnews": 1,
+    "21Jingji": 3,
+    "Ithome": 1,
+    "Fx168News": 1,
+    "The Economic Times": 1,
+    "New York Post": 1,
+    "The Mercury News": 1
   },
   "news": [
     {
-      "id": "https://news.gmw.cn/2026-10/13/content_39042020.htm",
-      "title": "应用多场景 行驶更智能——广东省广州市探路自动驾驶商业化发展",
+      "id": "https://www.bilibili.com/video/BV1urpG6VEfe",
+      "title": "【B站】不手扶的智驾才是真敢用 ｜ 零跑智驾城区一镜到底",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-14",
+      "url": "https://www.bilibili.com/video/BV1urpG6VEfe"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-14",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV14rp96WEnK",
+      "title": "【B站】3.99万元起！两轮电动车也有自动驾驶了！能取快递 可一键召唤接你下班，高阶版本59800元（编辑：振楠）",
+      "summary": "3.99万元起！两轮电动车也有自动驾驶了！能取快递 可一键召唤接你下班，高阶版本59800元（编辑：振楠）...",
+      "source": "Bilibili",
+      "date": "2026-10-14",
+      "url": "https://www.bilibili.com/video/BV14rp96WEnK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1j3pB6fEK4",
+      "title": "【B站】CARLA 自动驾驶仿真——相机与激光雷达融合",
+      "summary": "欢迎交流...",
+      "source": "Bilibili",
+      "date": "2026-10-14",
+      "url": "https://www.bilibili.com/video/BV1j3pB6fEK4"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1wcpB6iEr3",
+      "title": "【B站】比亚迪自动驾驶：成功挑战巴黎复杂路况",
+      "summary": "法国新闻资讯台（franceinfo）10月13日报道，中国汽车制造商比亚迪在法国巴黎凯旋门周边的戴高乐星形广场环岛，成功测试旗下“腾势”品牌的自动驾驶汽车。该环岛设有12个出口，车流密集，周围汽车、卡车和公交车往来穿行。\n \n视频显示，测试过程中车辆没有发生碰撞或剐蹭，行驶没有出现犹豫，驾驶操作精...",
+      "source": "Bilibili",
+      "date": "2026-10-14",
+      "url": "https://www.bilibili.com/video/BV1wcpB6iEr3"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwox2wk/",
+      "title": "尊界V800检测争议：你更信官方数据还是实测结果？两者测的根本不是一回事",
+      "summary": "10月13日，尊界发布制动踏板检测情况说明：应江淮汽车委托，国家认可的第三方检测机构于10月11日对制动踏板进行检验，符合行标QC/T 788-2018要求，加严至纵向力3000N后未出现裂纹和损坏。而在几天前，懂车帝的实车急刹实测中，三辆尊界V800的......",
+      "source": "Smzdm",
+      "date": "2026-10-13",
+      "url": "https://post.smzdm.com/p/awwox2wk/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anv9d8m2/",
+      "title": "又掀桌子了！比亚迪大汉正式公布：23.59万元起，纯电续航1008 km",
+      "summary": "就在刚刚，比亚迪王朝的扛把子汉系列，终于发布新款车型了。没错，就是全新的比亚迪大汉，共推出三款车型，售价分别是：1008km 后驱激光雷达尊享型：23.59 万元1008km 后驱激光雷达旗舰型：24.99 万元880km 四驱激光雷达旗舰型：27.59......",
+      "source": "Smzdm",
+      "date": "2026-10-13",
+      "url": "https://post.smzdm.com/p/anv9d8m2/"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3783576",
+      "title": "估值翻番至300亿美元，自动驾驶软件商Applied Intuition跻身AI独角兽顶级梯队",
       "summary": "NewsData报道",
-      "source": "Gmw",
-      "date": "2026-10-12",
-      "url": "https://news.gmw.cn/2026-10/13/content_39042020.htm"
+      "source": "Wallstreetcn",
+      "date": "2026-10-13",
+      "url": "https://wallstreetcn.com/articles/3783576"
     },
     {
-      "id": "https://news.gmw.cn/2026-10/13/content_39041954.htm",
-      "title": "加快高质量数据集建设 推动人工智能产业健康发展",
-      "summary": "当前，人工智能发展迈入模型与数据协同优化的新阶段，高质量数据集成为支持人工智能模型训练与优化的核心资源。...",
-      "source": "Gmw",
-      "date": "2026-10-12",
-      "url": "https://news.gmw.cn/2026-10/13/content_39041954.htm"
+      "id": "https://www.nbd.com.cn/articles/2026-10-14/4603640.html",
+      "title": "实探尊界门店：看车者寥寥，销售员反复强调“刹车没问题”且无人退车，检测报告仅私下与用户沟通",
+      "summary": "记者|李星编辑|梁露月 余婷婷 杜恒峰 校对|程鹏10月13日，北京某鸿蒙智行超级用户中心二楼，尊界汽车旗下三款在售车型独立陈列，尊界V800位居正中。与一楼其他鸿蒙智行车型客流不断形成鲜明对比的是，...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-13",
+      "url": "https://www.nbd.com.cn/articles/2026-10-14/4603640.html"
     },
     {
-      "id": "https://post.smzdm.com/p/az8okedr/",
-      "title": "新皇岗口岸实际体验避坑指南：接驳交通与高峰时段提醒",
-      "summary": "10月12日6时30分，重建后的皇岗口岸正式开通运行，旧的皇岗临时旅检口岸同步停止使用。香港特区政府保安局与深圳市人民政府口岸办公室的10月9日联合公告同时明确，往来深圳皇岗口岸临时旅检楼和香港落马洲......",
+      "id": "https://post.smzdm.com/p/am93ml8v/",
+      "title": "3.99万元起的“自动驾驶”两轮电动车来了：站稳了，但还没到“放手”的时候",
+      "summary": "能，而且已经挂出了价目——但先把边界划清：展台上这台会“自动驾驶”的两轮电动车，准确身份是带L2级智能驾驶系统的辅助驾驶车，还不是汽车意义上“上车就能放手”的自动驾驶。10月10日至12日，第46届（......",
       "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/az8okedr/"
+      "date": "2026-10-13",
+      "url": "https://post.smzdm.com/p/am93ml8v/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8l4gw4/",
-      "title": "理想i6巴黎车展完成欧洲首秀：所谓“颜值打分”，其实是两套购车标准的正面相撞",
-      "summary": "理想i6在10月12日晚以海外命名\"Li6\"登上巴黎车展，完成了面向欧洲公众的首次展示，理想同时给出欧洲市场的时间表：计划于2027年第一季度在挪威和荷兰启动销售与交付，之后逐步拓展其他欧洲国家，这比......",
-      "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/ak8l4gw4/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrqg9ek/",
-      "title": "私营加油站的油跑不远？实测对比揭开油耗真相",
-      "summary": "\"私营加油站的油跑不远\"这句抱怨，锅不该整个扣在\"私营\"两个字上，但也并非空穴来风。把监管部门查办案件里的实测数据和油样检验结果梳理一遍，结论可以说得相当清楚：合规经营的民营加油站和中石化、中石油供应......",
-      "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/aqrqg9ek/"
-    },
-    {
-      "id": "https://news.smm.cn/news/104154624",
-      "title": "江淮汽车大涨9%！尊界V800检测报告出炉：符合行标要求；懂车帝回应",
-      "summary": "NewsData报道",
-      "source": "Smm_Cn",
-      "date": "2026-10-12",
-      "url": "https://news.smm.cn/news/104154624"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomv78g6/",
-      "title": "比亚迪大汉10月13日19:00正式上市：24.99万元起预售，三电与智驾升级成色几何",
-      "summary": "比亚迪大汉没有像网传的那样“今日上市”。官方发布信息与多家经销商物料一致显示，王朝网9系旗舰轿车大汉的正式上市发布会定在10月13日19:00，10月12日当天这台车仍处于展车到店和上市倒计时阶段。 ......",
-      "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/aomv78g6/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anv97l5v/",
-      "title": "比亚迪大汉今日19:00上市：预售价24.99万起的D级旗舰，冲的是BBA“56E”的腹地",
-      "summary": "今晚19:00，比亚迪王朝9系旗舰轿车“大汉”将举行上市发布会，公布这台大型纯电轿车的最终售价。发布会定档10月13日19:00，由比亚迪王朝路天的微博账号在10月12日官宣。本场发布会以“千里驰行”......",
-      "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/anv97l5v/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a956e2ke/",
-      "title": "比亚迪大汉10月13日上市：D级旗舰压进25万预算，20万级轿车格局要生变？",
-      "summary": "比亚迪王朝9系旗舰轿车大汉的悬念即将落地：官方账号已同步定档，10月13日举行上市发布会。 这款车在8月21日便开启全国预售。 官方公布的预售价格区间为24.99万至29.99万元。 大汉的打法是把D......",
-      "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/a956e2ke/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqm53r0/",
-      "title": "大众发布会连提“不做速成车”：现阶段入手大众车型，需注意什么？",
-      "summary": "10月12日，上汽大众ID. ERA 8X在成都正式上市，四款车型的限时权益价从20.68万元排到26.98万元。DoNews在尊界“刹车被踩断”风波爆发仅数日后，上汽大众把立场打包成“不做速成车、不......",
-      "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/apqm53r0/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878647135068681449",
-      "title": "油价调整通知！下月起，加油将有新变化",
+      "id": "http://baijiahao.baidu.com/s?id=1878946497881160618",
+      "title": "强首府·新跨越｜“新疆胎”驰骋中亚的底气从哪来——..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-12",
-      "url": "http://baijiahao.baidu.com/s?id=1878647135068681449"
+      "date": "2026-10-13",
+      "url": "http://baijiahao.baidu.com/s?id=1878946497881160618"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrqg9zx/",
-      "title": "大众发布会提“刹车踩不断”：踏板踩不断只是底线，刹车突然变硬才是要命的时刻",
-      "summary": "10月12日，上汽大众ID.ERA 8X正式上市，限时20.68万-26.98万元。发布会现场，上汽大众高管陈峰把矛头对准正在发酵的“刹车踏板门”：刹车踏板都不能让人放心，谈什么出行安全。而在大众之前......",
+      "id": "https://post.smzdm.com/p/aqrqneqk/",
+      "title": "比亚迪大汉上市：23.59万起，纯电续航1008公里！",
+      "summary": "10月13日，比亚迪王朝系列的全新旗舰轿车——大汉正式上市。三款车型，23.59万-27.59万元的售价区间落定之后，不少人都说这价格配上这堆配置，基本是冲着重新定义25万级纯电旗舰去的。定位“真9系......",
       "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/aqrqg9zx/"
+      "date": "2026-10-13",
+      "url": "https://post.smzdm.com/p/aqrqneqk/"
     },
     {
-      "id": "https://post.smzdm.com/p/anv97l9v/",
-      "title": "大众发布会提刹车踩不断，一文读懂电子助力刹车工作原理",
-      "summary": "热榜上那句\"大众发布会提刹车踩不断\"，出现在上汽大众ID.ERA 8X正式上市并公布最终售价的周末。 刹车踏板会不会被踩断，过去一周被一条测试视频变成了全民围观的验货现场。先说结论：合格刹车踏板被踩断......",
-      "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/anv97l9v/"
+      "id": "https://www.bjnews.com.cn/detail/1791877530129679.html",
+      "title": "从测试条件到场景设计，懂车帝冬测、智驾测试解读",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-10-13",
+      "url": "https://www.bjnews.com.cn/detail/1791877530129679.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a956e26e/",
-      "title": "大众发布会谈“刹车踩不断”：尊界风波后，制动踏板成了车企必答题",
-      "summary": "10月12日，成都，上汽大众ID. ERA 8X上市发布会。与车型形象大使李治廷对谈时，上汽大众大众品牌营销事业执行副总监陈峰主动谈起了刹车踏板，说它要经得起折腾，绝不能是一踩就断的“断脚蟹”。 围绕......",
-      "source": "Smzdm",
-      "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/a956e26e/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261013/3c6d59aa0fbfef14cce6c30d5faf7c7b.html",
-      "title": "21评论丨汽车企业行稳致远需要备好三副刹车",
+      "id": "https://www.21jingji.com/article/20261013/herald/3170ee8a81f5a50909ca17307f52a27a.html",
+      "title": "科创001 | 科创深圳，何以站上世界科研“C位”？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-12",
-      "url": "https://www.21jingji.com/article/20261013/3c6d59aa0fbfef14cce6c30d5faf7c7b.html"
+      "date": "2026-10-13",
+      "url": "https://www.21jingji.com/article/20261013/herald/3170ee8a81f5a50909ca17307f52a27a.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8l4gm9/",
-      "title": "预估13万左右！大众新车官宣：11月即将上市",
-      "summary": "早在8月份的成都车展上，上汽大众就展示了新车ID.ERA 5X，不过一直都没有公布上市时间，如今终于有了官方消息。在大众ID.ERA 8X的发布会上，官方官宣ID.ERA 5X即将在11月上市，该车将接替老款ID.4X，主打年轻家用市场。目前它仍然处于盲......",
+      "id": "https://www.ithome.com/1/012/584.htm",
+      "title": "自动驾驶公司 Applied Intuition 获得投资邀约，估值达 300 亿美元",
+      "summary": "IT之家 10 月 13 日消息，据 The Information 今天报道，自动驾驶初创公司 Applied Intuition 已收到多份投资邀约，估值最少 300 亿美元（IT之家注：现汇率约合 2,011.75 亿元人民币），相比 6 月估值翻了一番。 据报道，Applied Intuition 由前 Y Combinator 首席运营官 Qasar Younis 和前谷歌产品经理 Pe...",
+      "source": "Ithome",
+      "date": "2026-10-13",
+      "url": "https://www.ithome.com/1/012/584.htm"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261013/herald/f5fae06e0d885efc8c7eeb719cb4d177.html",
+      "title": "亮相世界运河大会，一条河如何激荡广州雄心？｜记者观察",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-13",
+      "url": "https://www.21jingji.com/article/20261013/herald/f5fae06e0d885efc8c7eeb719cb4d177.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261013/herald/b376a1a43f77010db2bc57430bf8016d.html",
+      "title": "上海“十五五”文旅蓝图出炉， 更加突出“都市型、综合性、国际化”",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-13",
+      "url": "https://www.21jingji.com/article/20261013/herald/b376a1a43f77010db2bc57430bf8016d.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am93mzpp/",
+      "title": "从偏见到追捧：法国人为什么愿意买中国车？——一部品牌出海史",
+      "summary": "当地时间10月12日，第91届巴黎车展在凡尔赛门展览中心开幕，据车展官方展商目录，本届59家整车展商中，中国品牌占22家，法国本土仅10家、德国7家——中国参展数量比德法两国之和还多5家，占比超过三分......",
       "source": "Smzdm",
+      "date": "2026-10-13",
+      "url": "https://post.smzdm.com/p/am93mzpp/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70p8lqd/",
+      "title": "比亚迪大汉23.59万元起上市：比预售降1.4万元，空悬、激光雷达、千公里续航入门即标配",
+      "summary": "10月13日晚，比亚迪王朝网旗舰轿车大汉EV正式上市，3款车型售价23.59万至27.59万元，入门款CLTC纯电续航达到1008公里。 这个起售价比它8月底公布的24.99万至29.99万元预售区间低了1.4万元，四驱顶配更是直降2.4万元。 更耐人寻......",
+      "source": "Smzdm",
+      "date": "2026-10-13",
+      "url": "https://post.smzdm.com/p/a70p8lqd/"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1102351",
+      "title": "鸿富诚：10月13日接受机构调研，易方达基金、博时基金等多家机构参与-FX168",
+      "summary": "证券之星消息，2026年10月13日鸿富诚（301716）发布公告称公司于2026年10月13日接受机构调研，易方达基金、博时基金、水璞基金、华西基金、前海开源基金、信达澳亚基金、中信建投、国金证券、国盛证券、广发证券、国信证券、大成基金、光大证券、中金公司、中泰证券、西部证券、招商证券、天风证券、长城证券、浙商证券、华创证券、恒泽投资、摩根士丹利基金、温氏投资、博普资产、新华基金、平安基金、南方...",
+      "source": "Fx168News",
+      "date": "2026-10-13",
+      "url": "https://www.fx168news.com/article/1102351"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/science/nasas-perseverance-becomes-longest-travelling-rover-beyond-earth-after-45-2-km-on-mars/articleshow/134908261.cms",
+      "title": "NASA's Perseverance becomes longest-travelling rover beyond Earth after 45.2 km on Mars",
+      "summary": "NASA's Perseverance rover has covered 28.1 miles on Mars, breaking the previous driving record. For over 5-1/2 years, it has actively investigated Jezero Crater, showcasing its autonomous navigation f...",
+      "source": "The Economic Times",
+      "date": "2026-10-13",
+      "url": "https://economictimes.indiatimes.com/science/nasas-perseverance-becomes-longest-travelling-rover-beyond-earth-after-45-2-km-on-mars/articleshow/134908261.cms"
+    },
+    {
+      "id": "https://nypost.com/2026/10/12/business/tesla-robotaxis-face-investigation-over-alleged-speeding-in-school-zones/",
+      "title": "Tesla robotaxis face investigation over alleged speeding in school zones",
+      "summary": "Tesla is facing an investigation from US regulators over claims its self-driving robotaxis have been speeding in school zones – the latest hurdle in its long-awaited rollout of fully autonomous vehicl...",
+      "source": "New York Post",
       "date": "2026-10-12",
-      "url": "https://post.smzdm.com/p/ak8l4gm9/"
+      "url": "https://nypost.com/2026/10/12/business/tesla-robotaxis-face-investigation-over-alleged-speeding-in-school-zones/"
     },
     {
       "id": "https://www.mercurynews.com/2026/10/12/general-motors-autonomous-driving/",
@@ -147,22 +199,6 @@
       "source": "The Mercury News",
       "date": "2026-10-12",
       "url": "https://www.mercurynews.com/2026/10/12/general-motors-autonomous-driving/"
-    },
-    {
-      "id": "https://www.latimes.com/business/story/2026-10-12/from-hands-free-to-eyes-off-how-general-motors-is-simulating-its-way-to-autonomous-driving",
-      "title": "From ‘hands-free’ to ‘eyes-off’: how General Motors is simulating its way to autonomous driving",
-      "summary": "General Motors plans to launch an advanced iteration of its driver assist technology on the 2028 Cadillac Escalade IQ electric vehicle...",
-      "source": "Los Angeles Times",
-      "date": "2026-10-12",
-      "url": "https://www.latimes.com/business/story/2026-10-12/from-hands-free-to-eyes-off-how-general-motors-is-simulating-its-way-to-autonomous-driving"
-    },
-    {
-      "id": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/optro-unveils-2026-connector-award-winners-recognizing-leaders-in-grc-intelligence-and-ai-innovation/",
-      "title": "Optro Unveils 2026 Connector Award Winners Recognizing Leaders in GRC Intelligence and AI Innovation",
-      "summary": "Annual awards honor audit, risk, and compliance teams driving real-time intelligence, operational resilience, and autonomous execution.SAN DIEGO, Oct. 12,...",
-      "source": "The Expositor",
-      "date": "2026-10-12",
-      "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/optro-unveils-2026-connector-award-winners-recognizing-leaders-in-grc-intelligence-and-ai-innovation/"
     }
   ]
 }
