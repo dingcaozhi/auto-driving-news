@@ -1,16 +1,14 @@
 {
-  "lastUpdated": "2026-10-14 04:32:28",
-  "totalCount": 23,
+  "lastUpdated": "2026-10-15 04:15:18",
+  "totalCount": 27,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 6,
-    "Wallstreetcn": 1,
+    "Smzdm": 9,
+    "News_Baidu": 6,
+    "Imobile": 1,
     "Nbd_Cn": 1,
-    "News_Baidu": 1,
-    "Bjnews": 1,
-    "21Jingji": 3,
-    "Ithome": 1,
-    "Fx168News": 1,
+    "The Guardian": 1,
+    "FOX 4 News": 1,
     "The Economic Times": 1,
     "New York Post": 1,
     "The Mercury News": 1
@@ -21,160 +19,192 @@
       "title": "【B站】不手扶的智驾才是真敢用 ｜ 零跑智驾城区一镜到底",
       "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "url": "https://www.bilibili.com/video/BV1urpG6VEfe"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-14",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+      "date": "2026-10-15",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://www.bilibili.com/video/BV14rp96WEnK",
-      "title": "【B站】3.99万元起！两轮电动车也有自动驾驶了！能取快递 可一键召唤接你下班，高阶版本59800元（编辑：振楠）",
-      "summary": "3.99万元起！两轮电动车也有自动驾驶了！能取快递 可一键召唤接你下班，高阶版本59800元（编辑：振楠）...",
+      "id": "https://www.bilibili.com/video/BV1Lup165Es7",
+      "title": "【B站】两轮小电驴也能“自动驾驶”了",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-14",
-      "url": "https://www.bilibili.com/video/BV14rp96WEnK"
+      "date": "2026-10-15",
+      "url": "https://www.bilibili.com/video/BV1Lup165Es7"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1j3pB6fEK4",
-      "title": "【B站】CARLA 自动驾驶仿真——相机与激光雷达融合",
-      "summary": "欢迎交流...",
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-14",
-      "url": "https://www.bilibili.com/video/BV1j3pB6fEK4"
+      "date": "2026-10-15",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1wcpB6iEr3",
-      "title": "【B站】比亚迪自动驾驶：成功挑战巴黎复杂路况",
-      "summary": "法国新闻资讯台（franceinfo）10月13日报道，中国汽车制造商比亚迪在法国巴黎凯旋门周边的戴高乐星形广场环岛，成功测试旗下“腾势”品牌的自动驾驶汽车。该环岛设有12个出口，车流密集，周围汽车、卡车和公交车往来穿行。\n \n视频显示，测试过程中车辆没有发生碰撞或剐蹭，行驶没有出现犹豫，驾驶操作精...",
+      "id": "https://www.bilibili.com/video/BV15mpR6uERu",
+      "title": "【B站】兄弟们自动驾驶的九号电动车见过没？",
+      "summary": "-...",
       "source": "Bilibili",
+      "date": "2026-10-15",
+      "url": "https://www.bilibili.com/video/BV15mpR6uERu"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7md7lp/",
+      "title": "私家车半月接了90余单“顺风车” 事故后保险公司拒赔 法院判了",
+      "summary": "快科技10月15日消息，日常，私家车主接单顺风车，以此分摊油费、出行成本，这种共享出行方式被官方提倡，但如果使用私家车来进行营运牟利的话，发生事故后，保险公司可以次拒赔。近日，成都市双流区人民法院审结......",
+      "source": "Smzdm",
       "date": "2026-10-14",
-      "url": "https://www.bilibili.com/video/BV1wcpB6iEr3"
+      "url": "https://post.smzdm.com/p/ad7md7lp/"
     },
     {
-      "id": "https://post.smzdm.com/p/awwox2wk/",
-      "title": "尊界V800检测争议：你更信官方数据还是实测结果？两者测的根本不是一回事",
-      "summary": "10月13日，尊界发布制动踏板检测情况说明：应江淮汽车委托，国家认可的第三方检测机构于10月11日对制动踏板进行检验，符合行标QC/T 788-2018要求，加严至纵向力3000N后未出现裂纹和损坏。而在几天前，懂车帝的实车急刹实测中，三辆尊界V800的......",
+      "id": "https://post.smzdm.com/p/a5rxgr6x/",
+      "title": "星享M7E限时11.39万上市：乘用级电池装进商用车身，这台七座便宜车捡漏前要看清什么",
+      "summary": "10月11日，吉利远程星享M7E正式上市，官方指导价12.59万元，2026年12月31日24点前下定的用户可拿到11.39万元的限时专享价。发布会设在浙江衢州，作为首款搭载吉曜通行金砖致远电池的远程......",
       "source": "Smzdm",
-      "date": "2026-10-13",
-      "url": "https://post.smzdm.com/p/awwox2wk/"
+      "date": "2026-10-14",
+      "url": "https://post.smzdm.com/p/a5rxgr6x/"
     },
     {
-      "id": "https://post.smzdm.com/p/anv9d8m2/",
-      "title": "又掀桌子了！比亚迪大汉正式公布：23.59万元起，纯电续航1008 km",
-      "summary": "就在刚刚，比亚迪王朝的扛把子汉系列，终于发布新款车型了。没错，就是全新的比亚迪大汉，共推出三款车型，售价分别是：1008km 后驱激光雷达尊享型：23.59 万元1008km 后驱激光雷达旗舰型：24.99 万元880km 四驱激光雷达旗舰型：27.59......",
-      "source": "Smzdm",
-      "date": "2026-10-13",
-      "url": "https://post.smzdm.com/p/anv9d8m2/"
-    },
-    {
-      "id": "https://wallstreetcn.com/articles/3783576",
-      "title": "估值翻番至300亿美元，自动驾驶软件商Applied Intuition跻身AI独角兽顶级梯队",
-      "summary": "NewsData报道",
-      "source": "Wallstreetcn",
-      "date": "2026-10-13",
-      "url": "https://wallstreetcn.com/articles/3783576"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-10-14/4603640.html",
-      "title": "实探尊界门店：看车者寥寥，销售员反复强调“刹车没问题”且无人退车，检测报告仅私下与用户沟通",
-      "summary": "记者|李星编辑|梁露月 余婷婷 杜恒峰 校对|程鹏10月13日，北京某鸿蒙智行超级用户中心二楼，尊界汽车旗下三款在售车型独立陈列，尊界V800位居正中。与一楼其他鸿蒙智行车型客流不断形成鲜明对比的是，...",
-      "source": "Nbd_Cn",
-      "date": "2026-10-13",
-      "url": "https://www.nbd.com.cn/articles/2026-10-14/4603640.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am93ml8v/",
-      "title": "3.99万元起的“自动驾驶”两轮电动车来了：站稳了，但还没到“放手”的时候",
-      "summary": "能，而且已经挂出了价目——但先把边界划清：展台上这台会“自动驾驶”的两轮电动车，准确身份是带L2级智能驾驶系统的辅助驾驶车，还不是汽车意义上“上车就能放手”的自动驾驶。10月10日至12日，第46届（......",
-      "source": "Smzdm",
-      "date": "2026-10-13",
-      "url": "https://post.smzdm.com/p/am93ml8v/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878946497881160618",
-      "title": "强首府·新跨越｜“新疆胎”驰骋中亚的底气从哪来——..",
+      "id": "http://baijiahao.baidu.com/s?id=1879038452293132046",
+      "title": "84页PPT，赴一场84年的跨洋之约",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-13",
-      "url": "http://baijiahao.baidu.com/s?id=1878946497881160618"
+      "date": "2026-10-14",
+      "url": "http://baijiahao.baidu.com/s?id=1879038452293132046"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrqneqk/",
-      "title": "比亚迪大汉上市：23.59万起，纯电续航1008公里！",
-      "summary": "10月13日，比亚迪王朝系列的全新旗舰轿车——大汉正式上市。三款车型，23.59万-27.59万元的售价区间落定之后，不少人都说这价格配上这堆配置，基本是冲着重新定义25万级纯电旗舰去的。定位“真9系......",
+      "id": "https://post.smzdm.com/p/awworw6m/",
+      "title": "方程豹方程S GT交付避坑指南：常见车机问题与售后权益说明",
+      "summary": "方程豹方程S GT的节奏已经分成两拍：方程S与方程SGT两款车9月16日上市，指导价18.99万至23.99万元；10月上旬首批方程S车主开始交车，10月13日品牌方官宣方程SGT全国交付正式开启。对......",
       "source": "Smzdm",
-      "date": "2026-10-13",
-      "url": "https://post.smzdm.com/p/aqrqneqk/"
+      "date": "2026-10-14",
+      "url": "https://post.smzdm.com/p/awworw6m/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1791877530129679.html",
-      "title": "从测试条件到场景设计，懂车帝冬测、智驾测试解读",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-10-13",
-      "url": "https://www.bjnews.com.cn/detail/1791877530129679.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261013/herald/3170ee8a81f5a50909ca17307f52a27a.html",
-      "title": "科创001 | 科创深圳，何以站上世界科研“C位”？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-13",
-      "url": "https://www.21jingji.com/article/20261013/herald/3170ee8a81f5a50909ca17307f52a27a.html"
-    },
-    {
-      "id": "https://www.ithome.com/1/012/584.htm",
-      "title": "自动驾驶公司 Applied Intuition 获得投资邀约，估值达 300 亿美元",
-      "summary": "IT之家 10 月 13 日消息，据 The Information 今天报道，自动驾驶初创公司 Applied Intuition 已收到多份投资邀约，估值最少 300 亿美元（IT之家注：现汇率约合 2,011.75 亿元人民币），相比 6 月估值翻了一番。 据报道，Applied Intuition 由前 Y Combinator 首席运营官 Qasar Younis 和前谷歌产品经理 Pe...",
-      "source": "Ithome",
-      "date": "2026-10-13",
-      "url": "https://www.ithome.com/1/012/584.htm"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261013/herald/f5fae06e0d885efc8c7eeb719cb4d177.html",
-      "title": "亮相世界运河大会，一条河如何激荡广州雄心？｜记者观察",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-13",
-      "url": "https://www.21jingji.com/article/20261013/herald/f5fae06e0d885efc8c7eeb719cb4d177.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261013/herald/b376a1a43f77010db2bc57430bf8016d.html",
-      "title": "上海“十五五”文旅蓝图出炉， 更加突出“都市型、综合性、国际化”",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-13",
-      "url": "https://www.21jingji.com/article/20261013/herald/b376a1a43f77010db2bc57430bf8016d.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am93mzpp/",
-      "title": "从偏见到追捧：法国人为什么愿意买中国车？——一部品牌出海史",
-      "summary": "当地时间10月12日，第91届巴黎车展在凡尔赛门展览中心开幕，据车展官方展商目录，本届59家整车展商中，中国品牌占22家，法国本土仅10家、德国7家——中国参展数量比德法两国之和还多5家，占比超过三分......",
+      "id": "https://post.smzdm.com/p/a70pk0vo/",
+      "title": "方程豹方程S GT提车全攻略：验车清单与上牌流程指南",
+      "summary": "10月13日，方程S GT正式开启全国交付，方程豹旗下这台猎装纯电轿跑开始批量交到车主手里。 和上一批纯电车主相比，这批新车主提车时要多留意两件事：新车一旦签认，发现问题再主张就很被动，验车必须赶在签......",
       "source": "Smzdm",
-      "date": "2026-10-13",
-      "url": "https://post.smzdm.com/p/am93mzpp/"
+      "date": "2026-10-14",
+      "url": "https://post.smzdm.com/p/a70pk0vo/"
     },
     {
-      "id": "https://post.smzdm.com/p/a70p8lqd/",
-      "title": "比亚迪大汉23.59万元起上市：比预售降1.4万元，空悬、激光雷达、千公里续航入门即标配",
-      "summary": "10月13日晚，比亚迪王朝网旗舰轿车大汉EV正式上市，3款车型售价23.59万至27.59万元，入门款CLTC纯电续航达到1008公里。 这个起售价比它8月底公布的24.99万至29.99万元预售区间低了1.4万元，四驱顶配更是直降2.4万元。 更耐人寻......",
+      "id": "http://baijiahao.baidu.com/s?id=1879040177001568508",
+      "title": "AIIC2026首日：济南起步区展台人气火爆，优宝..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-14",
+      "url": "http://baijiahao.baidu.com/s?id=1879040177001568508"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al38q330/",
+      "title": "方程豹方程SGT正式开启全国交付：猎装轿跑比轿车晚到22天，谁还在等",
+      "summary": "10月13日晚，方程豹汽车官方微博宣布：方程SGT全国交付正式开启。第二天的“S体验日”深圳站现场，曾沛慈以方程SGT形象代言人的身份，和方程豹事业部总经理熊甜波一起把首批SGT交到车主手里。这台猎装......",
       "source": "Smzdm",
-      "date": "2026-10-13",
-      "url": "https://post.smzdm.com/p/a70p8lqd/"
+      "date": "2026-10-14",
+      "url": "https://post.smzdm.com/p/al38q330/"
     },
     {
-      "id": "https://www.fx168news.com/article/1102351",
-      "title": "鸿富诚：10月13日接受机构调研，易方达基金、博时基金等多家机构参与-FX168",
-      "summary": "证券之星消息，2026年10月13日鸿富诚（301716）发布公告称公司于2026年10月13日接受机构调研，易方达基金、博时基金、水璞基金、华西基金、前海开源基金、信达澳亚基金、中信建投、国金证券、国盛证券、广发证券、国信证券、大成基金、光大证券、中金公司、中泰证券、西部证券、招商证券、天风证券、长城证券、浙商证券、华创证券、恒泽投资、摩根士丹利基金、温氏投资、博普资产、新华基金、平安基金、南方...",
-      "source": "Fx168News",
+      "id": "http://news.imobile.com.cn/articles/2026/1014/235777.shtml",
+      "title": "比亚迪大汉23.59万元起，正式上市",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-10-14",
+      "url": "http://news.imobile.com.cn/articles/2026/1014/235777.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a4qx5qdl/",
+      "title": "436.5公里！一男子驾电动摩托打破单次最长续航吉尼斯世界纪录",
+      "summary": "快科技10月14日消息，据Zero Motorcycles官方及吉尼斯世界纪录消息，比利时骑手Jelle Verstaen驾驶一辆Zero DS电动摩托车，在单次充电后连续行驶436.5公里（271.......",
+      "source": "Smzdm",
+      "date": "2026-10-14",
+      "url": "https://post.smzdm.com/p/a4qx5qdl/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a9568580/",
+      "title": "小鹏开始卖技术：先吃到红利的，居然是买大众的人",
+      "summary": "先看一笔别人晒出来的账。9月底有网友放出与众08的报价：入门版全款，终端优惠3.3万，裸车186,900；要是手里正好有台旧车能吃下1.4万置换补贴，172,900。一台车长五米开外的大众金标SUV，......",
+      "source": "Smzdm",
+      "date": "2026-10-14",
+      "url": "https://post.smzdm.com/p/a9568580/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6zpwz7e/",
+      "title": "方盒子当家庭购车首选合适吗？城市通勤与养车成本避坑指南",
+      "summary": "方盒子已经可以列入家庭购车的首选清单，但它适不适合，取决于动力形式、车位尺寸与真实用途这三件事，而不是造型本身。2026年上半年国内方盒子SUV累计销量达44.76万辆，城市轻越野车型占比超70%。换......",
+      "source": "Smzdm",
+      "date": "2026-10-14",
+      "url": "https://post.smzdm.com/p/a6zpwz7e/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879036529522604370",
+      "title": "AI在山东有多忙？采矿、炼钢、铝加工、港口、投融资..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-14",
+      "url": "http://baijiahao.baidu.com/s?id=1879036529522604370"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879034577996526370",
+      "title": "强首府·新跨越｜全国媒体聚焦乌尉高速：20分钟穿越..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-14",
+      "url": "http://baijiahao.baidu.com/s?id=1879034577996526370"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879034988118833277",
+      "title": "果然视频丨一碗粥感动一座城，济南三不喷的含金量还在..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-14",
+      "url": "http://baijiahao.baidu.com/s?id=1879034988118833277"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-10-14/4604643.html",
+      "title": "STEPX Neo接入支付宝300余项服务、微信仍缺席：同一批巨头对阶跃“开窗”、对豆包关门 智能体手机离大众换机还有多远？",
+      "summary": "STEPX Neo接入支付宝300余项服务、微信仍缺席：同一批巨头对阶跃“开窗”、对豆包关门 智能体手机离大众换机还有多远？...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-14",
+      "url": "https://www.nbd.com.cn/articles/2026-10-14/4604643.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a4qx5qnk/",
+      "title": "方盒子当家庭购车首选合适吗？真实车主带娃露营双场景体验",
+      "summary": "10月14日，全新捷途旅行者7全球上市，燃油版超级焕新价12.59万元起、C-DM版14.39万元起，“方盒子当家庭购车首选合适吗”随之成为热议话题。 回答这个问题，得先把“方盒子”拆成几类：带电的承......",
+      "source": "Smzdm",
+      "date": "2026-10-14",
+      "url": "https://post.smzdm.com/p/a4qx5qnk/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879026179533075843",
+      "title": "使用中国自动驾驶技术的第七代Robotaxi将落地..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-14",
+      "url": "http://baijiahao.baidu.com/s?id=1879026179533075843"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester",
+      "title": "Uber begins self-driving robotaxi trial in Manchester",
+      "summary": "Company hails first step in rolling out technology across UK as first autonomous vehicles take to city’s streets...",
+      "source": "The Guardian",
+      "date": "2026-10-14",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester"
+    },
+    {
+      "id": "https://www.fox4news.com/news/nathaniel-ford-dart-ceo-criminal-investigation-navi-shuttle-jta-jacksonville",
+      "title": "Incoming DART CEO's former company sees more closures amid criminal investigation, budget crisis",
+      "summary": "The incoming CEO of DART remains on track to take the job this month despite an active criminal investigation into his prior company in Florida, where an autonomous shuttle project he was the driving ...",
+      "source": "FOX 4 News",
       "date": "2026-10-13",
-      "url": "https://www.fx168news.com/article/1102351"
+      "url": "https://www.fox4news.com/news/nathaniel-ford-dart-ceo-criminal-investigation-navi-shuttle-jta-jacksonville"
     },
     {
       "id": "https://economictimes.indiatimes.com/science/nasas-perseverance-becomes-longest-travelling-rover-beyond-earth-after-45-2-km-on-mars/articleshow/134908261.cms",
