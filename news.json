@@ -1,12 +1,15 @@
 {
-  "lastUpdated": "2026-10-15 04:15:18",
-  "totalCount": 27,
+  "lastUpdated": "2026-10-16 04:11:07",
+  "totalCount": 26,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 9,
-    "News_Baidu": 6,
-    "Imobile": 1,
-    "Nbd_Cn": 1,
+    "Smzdm": 7,
+    "21Jingji": 4,
+    "Wallstreetcn": 1,
+    "Investing_Cn": 1,
+    "The Manila Times": 1,
+    "iTWire": 1,
+    "Manchester Evening News": 1,
     "The Guardian": 1,
     "FOX 4 News": 1,
     "The Economic Times": 1,
@@ -15,180 +18,172 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1urpG6VEfe",
-      "title": "【B站】不手扶的智驾才是真敢用 ｜ 零跑智驾城区一镜到底",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-10-15",
-      "url": "https://www.bilibili.com/video/BV1urpG6VEfe"
-    },
-    {
       "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
       "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Lup165Es7",
-      "title": "【B站】两轮小电驴也能“自动驾驶”了",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-10-15",
-      "url": "https://www.bilibili.com/video/BV1Lup165Es7"
+      "date": "2026-10-16",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-15",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV15mpR6uERu",
-      "title": "【B站】兄弟们自动驾驶的九号电动车见过没？",
+      "id": "https://www.bilibili.com/video/BV1QSt961E9S",
+      "title": "【B站】第一次开没方向盘的车！是什么体验？",
       "summary": "-...",
       "source": "Bilibili",
+      "date": "2026-10-16",
+      "url": "https://www.bilibili.com/video/BV1QSt961E9S"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1urpG6VEfe",
+      "title": "【B站】不手扶的智驾才是真敢用 ｜ 零跑智驾城区一镜到底",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-16",
+      "url": "https://www.bilibili.com/video/BV1urpG6VEfe"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-10-16",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a3mxd4nd/",
+      "title": "85万辆车沦为“孤儿车”？车企被淘汰后谁来兜底？",
+      "summary": "国庆期间，我回到了我的老家合肥，在合肥南站旁边一个哪吒汽车落寞的4S店显得格外显眼，除了门口被当成了赶高铁人们的临时停车场之外，空空荡荡的展厅和门口的封条让人不禁想起当年的辉煌，其实不仅是哪吒汽车，在......",
+      "source": "Smzdm",
       "date": "2026-10-15",
-      "url": "https://www.bilibili.com/video/BV15mpR6uERu"
+      "url": "https://post.smzdm.com/p/a3mxd4nd/"
     },
     {
-      "id": "https://post.smzdm.com/p/ad7md7lp/",
-      "title": "私家车半月接了90余单“顺风车” 事故后保险公司拒赔 法院判了",
-      "summary": "快科技10月15日消息，日常，私家车主接单顺风车，以此分摊油费、出行成本，这种共享出行方式被官方提倡，但如果使用私家车来进行营运牟利的话，发生事故后，保险公司可以次拒赔。近日，成都市双流区人民法院审结......",
+      "id": "https://post.smzdm.com/p/aqrqxzgk/",
+      "title": "尊界V800刹车断裂进入三部门联查：台架3000N合格、实车1612N断裂，两组“事实”为何都成立",
+      "summary": "10月15日晚，新华社发布消息：针对网络反映的\"尊界V800汽车刹车踏板支架断裂问题\"，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理，......",
       "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/ad7md7lp/"
+      "date": "2026-10-15",
+      "url": "https://post.smzdm.com/p/aqrqxzgk/"
     },
     {
-      "id": "https://post.smzdm.com/p/a5rxgr6x/",
-      "title": "星享M7E限时11.39万上市：乘用级电池装进商用车身，这台七座便宜车捡漏前要看清什么",
-      "summary": "10月11日，吉利远程星享M7E正式上市，官方指导价12.59万元，2026年12月31日24点前下定的用户可拿到11.39万元的限时专享价。发布会设在浙江衢州，作为首款搭载吉曜通行金砖致远电池的远程......",
-      "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/a5rxgr6x/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879038452293132046",
-      "title": "84页PPT，赴一场84年的跨洋之约",
+      "id": "https://www.21jingji.com/article/20261015/herald/f7a0937d197c409a4e2e58a8363c9b42.html",
+      "title": "同一批巨头对阶跃“开窗”、对豆包关门 智能体手机离大众换机还有多远？",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-14",
-      "url": "http://baijiahao.baidu.com/s?id=1879038452293132046"
+      "source": "21Jingji",
+      "date": "2026-10-15",
+      "url": "https://www.21jingji.com/article/20261015/herald/f7a0937d197c409a4e2e58a8363c9b42.html"
     },
     {
-      "id": "https://post.smzdm.com/p/awworw6m/",
-      "title": "方程豹方程S GT交付避坑指南：常见车机问题与售后权益说明",
-      "summary": "方程豹方程S GT的节奏已经分成两拍：方程S与方程SGT两款车9月16日上市，指导价18.99万至23.99万元；10月上旬首批方程S车主开始交车，10月13日品牌方官宣方程SGT全国交付正式开启。对......",
+      "id": "https://post.smzdm.com/p/axkoldpw/",
+      "title": "三部门联合调查尊界刹车断裂：一条线查车，一条线查网上的声音",
+      "summary": "2026年10月15日晚，新华社记者从工业和信息化部获悉，针对网络反映的“尊界V800汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局在前期调查工作基础上，成立联合调查组开展核查，......",
       "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/awworw6m/"
+      "date": "2026-10-15",
+      "url": "https://post.smzdm.com/p/axkoldpw/"
     },
     {
-      "id": "https://post.smzdm.com/p/a70pk0vo/",
-      "title": "方程豹方程S GT提车全攻略：验车清单与上牌流程指南",
-      "summary": "10月13日，方程S GT正式开启全国交付，方程豹旗下这台猎装纯电轿跑开始批量交到车主手里。 和上一批纯电车主相比，这批新车主提车时要多留意两件事：新车一旦签认，发现问题再主张就很被动，验车必须赶在签......",
-      "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/a70pk0vo/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879040177001568508",
-      "title": "AIIC2026首日：济南起步区展台人气火爆，优宝..",
+      "id": "https://www.21jingji.com/article/20261015/herald/406ca899eb9a21adcfa2b6fed4855ebe.html",
+      "title": "因湃第30万套电池下线，广汽深化电池与整车协同",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-14",
-      "url": "http://baijiahao.baidu.com/s?id=1879040177001568508"
+      "source": "21Jingji",
+      "date": "2026-10-15",
+      "url": "https://www.21jingji.com/article/20261015/herald/406ca899eb9a21adcfa2b6fed4855ebe.html"
     },
     {
-      "id": "https://post.smzdm.com/p/al38q330/",
-      "title": "方程豹方程SGT正式开启全国交付：猎装轿跑比轿车晚到22天，谁还在等",
-      "summary": "10月13日晚，方程豹汽车官方微博宣布：方程SGT全国交付正式开启。第二天的“S体验日”深圳站现场，曾沛慈以方程SGT形象代言人的身份，和方程豹事业部总经理熊甜波一起把首批SGT交到车主手里。这台猎装......",
-      "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/al38q330/"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/1014/235777.shtml",
-      "title": "比亚迪大汉23.59万元起，正式上市",
+      "id": "https://www.21jingji.com/article/20261015/herald/f48552735da71e4e0bbef9a2592a9b0b.html",
+      "title": "不是AI与制造业简单叠加 从工博会看新一代智能制造发展趋势",
       "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-10-14",
-      "url": "http://news.imobile.com.cn/articles/2026/1014/235777.shtml"
+      "source": "21Jingji",
+      "date": "2026-10-15",
+      "url": "https://www.21jingji.com/article/20261015/herald/f48552735da71e4e0bbef9a2592a9b0b.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a4qx5qdl/",
-      "title": "436.5公里！一男子驾电动摩托打破单次最长续航吉尼斯世界纪录",
-      "summary": "快科技10月14日消息，据Zero Motorcycles官方及吉尼斯世界纪录消息，比利时骑手Jelle Verstaen驾驶一辆Zero DS电动摩托车，在单次充电后连续行驶436.5公里（271.......",
+      "id": "https://post.smzdm.com/p/aomvxqk6/",
+      "title": "华为乾崑新车官宣：10月21日正式预售，续航1300公里",
+      "summary": "10月15日消息，北汽旗下星钽5X公布了预售时间，10月21日将正式预售。该车属于北京越野全新星钽新能源序列首款车型，定位是中大型新能源方盒子SUV，主打家用加轻越野。在8月份的成都车展上它就已经亮相......",
       "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/a4qx5qdl/"
+      "date": "2026-10-15",
+      "url": "https://post.smzdm.com/p/aomvxqk6/"
     },
     {
-      "id": "https://post.smzdm.com/p/a9568580/",
-      "title": "小鹏开始卖技术：先吃到红利的，居然是买大众的人",
-      "summary": "先看一笔别人晒出来的账。9月底有网友放出与众08的报价：入门版全款，终端优惠3.3万，裸车186,900；要是手里正好有台旧车能吃下1.4万置换补贴，172,900。一台车长五米开外的大众金标SUV，......",
+      "id": "https://wallstreetcn.com/articles/3783739",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月16日",
+      "summary": "NewsData报道",
+      "source": "Wallstreetcn",
+      "date": "2026-10-15",
+      "url": "https://wallstreetcn.com/articles/3783739"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al38x92g/",
+      "title": "三部门联合调查启动：尊界V800刹车支架调查期，车主自查与安全出行指南",
+      "summary": "10月15日晚，新华社消息称，工业和信息化部、中央网信办、市场监管总局针对网络反映的“尊界V800汽车刹车踏板支架断裂问题”成立联合调查组开展核查，有关情况将及时公布。尊界汽车当夜发声明表态：“积极响......",
       "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/a9568580/"
+      "date": "2026-10-15",
+      "url": "https://post.smzdm.com/p/al38x92g/"
     },
     {
-      "id": "https://post.smzdm.com/p/a6zpwz7e/",
-      "title": "方盒子当家庭购车首选合适吗？城市通勤与养车成本避坑指南",
-      "summary": "方盒子已经可以列入家庭购车的首选清单，但它适不适合，取决于动力形式、车位尺寸与真实用途这三件事，而不是造型本身。2026年上半年国内方盒子SUV累计销量达44.76万辆，城市轻越野车型占比超70%。换......",
+      "id": "https://www.21jingji.com/article/20261015/herald/5461ac561c5f2e58ce59edb7c09e0733.html",
+      "title": "3亿首单，黑芝麻智能需要更多“第二曲线”",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-15",
+      "url": "https://www.21jingji.com/article/20261015/herald/5461ac561c5f2e58ce59edb7c09e0733.html"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3611185",
+      "title": "小鹏汽车计划于2027年初将Google Play集成至车载系统",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-10-15",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3611185"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg54w0m/",
+      "title": "小鹏MONA L05开启预售！定位中型SUV，纯电增程双动力，16.98万起",
+      "summary": "凭借小鹏MONA 03的热销，小鹏汽车的销量成功实现大幅度增长。而为了进一步提升销量成绩，小鹏汽车也是将MONA打造成一个系列车型。此前不久，小鹏MONA L03也是正式上市，也是获得了不少车友关注。......",
       "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/a6zpwz7e/"
+      "date": "2026-10-15",
+      "url": "https://post.smzdm.com/p/agg54w0m/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879036529522604370",
-      "title": "AI在山东有多忙？采矿、炼钢、铝加工、港口、投融资..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-14",
-      "url": "http://baijiahao.baidu.com/s?id=1879036529522604370"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879034577996526370",
-      "title": "强首府·新跨越｜全国媒体聚焦乌尉高速：20分钟穿越..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-14",
-      "url": "http://baijiahao.baidu.com/s?id=1879034577996526370"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879034988118833277",
-      "title": "果然视频丨一碗粥感动一座城，济南三不喷的含金量还在..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-14",
-      "url": "http://baijiahao.baidu.com/s?id=1879034988118833277"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-10-14/4604643.html",
-      "title": "STEPX Neo接入支付宝300余项服务、微信仍缺席：同一批巨头对阶跃“开窗”、对豆包关门 智能体手机离大众换机还有多远？",
-      "summary": "STEPX Neo接入支付宝300余项服务、微信仍缺席：同一批巨头对阶跃“开窗”、对豆包关门 智能体手机离大众换机还有多远？...",
-      "source": "Nbd_Cn",
-      "date": "2026-10-14",
-      "url": "https://www.nbd.com.cn/articles/2026-10-14/4604643.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qx5qnk/",
-      "title": "方盒子当家庭购车首选合适吗？真实车主带娃露营双场景体验",
-      "summary": "10月14日，全新捷途旅行者7全球上市，燃油版超级焕新价12.59万元起、C-DM版14.39万元起，“方盒子当家庭购车首选合适吗”随之成为热议话题。 回答这个问题，得先把“方盒子”拆成几类：带电的承......",
+      "id": "https://post.smzdm.com/p/awwokov4/",
+      "title": "长安启源正式进入欧洲：外媒在展台夸底盘，国内车主为何还在吐槽冬天？",
+      "summary": "2026年10月12日，第91届巴黎国际车展启幕，长安汽车携启源、深蓝、阿维塔三大新能源品牌登台，启源以海外品牌名CHANGAN NEVO完成欧洲首秀，长安三大数智新能源品牌由此全部落地欧洲。本届车展......",
       "source": "Smzdm",
-      "date": "2026-10-14",
-      "url": "https://post.smzdm.com/p/a4qx5qnk/"
+      "date": "2026-10-15",
+      "url": "https://post.smzdm.com/p/awwokov4/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879026179533075843",
-      "title": "使用中国自动驾驶技术的第七代Robotaxi将落地..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
+      "id": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/nvnm-chain-opens-layer-1-testnet-to-deliver-accountability-infrastructure-for-ai-agentic-activity/2446526",
+      "title": "NVNM Chain Opens Layer 1 Testnet to Deliver Accountability Infrastructure for AI Agentic Activity",
+      "summary": "Testnet allows enterprises and developers to independently verify the data driving autonomous decisions without exposing proprietary source files...",
+      "source": "The Manila Times",
+      "date": "2026-10-15",
+      "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/nvnm-chain-opens-layer-1-testnet-to-deliver-accountability-infrastructure-for-ai-agentic-activity/2446526"
+    },
+    {
+      "id": "https://itwire.com/science-news/automotive/hyundai-motor-company-and-kia-makes-strategic-investment-in-vast-data-to-advance-ai-infrastructure-for-mobility",
+      "title": "Hyundai Motor Company and Kia Makes Strategic Investment in VAST Data to Advance AI Infrastructure for Mobility",
+      "summary": "Investment follows years of production use, as Hyundai Motor Company and Kia’s autonomous driving and robotics programs run on the VAST AI Operating System....",
+      "source": "iTWire",
+      "date": "2026-10-15",
+      "url": "https://itwire.com/science-news/automotive/hyundai-motor-company-and-kia-makes-strategic-investment-in-vast-data-to-advance-ai-infrastructure-for-mobility"
+    },
+    {
+      "id": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/self-driving-cars-coming-manchester-34763732",
+      "title": "Self-driving cars are coming to Manchester under new plans from Uber",
+      "summary": "Manchester is the second UK city where Uber has announced plans for autonomous vehicles....",
+      "source": "Manchester Evening News",
       "date": "2026-10-14",
-      "url": "http://baijiahao.baidu.com/s?id=1879026179533075843"
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/self-driving-cars-coming-manchester-34763732"
     },
     {
       "id": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester",
