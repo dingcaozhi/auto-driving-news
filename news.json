@@ -1,159 +1,198 @@
 {
-  "lastUpdated": "2026-10-17 04:00:46",
-  "totalCount": 36,
+  "lastUpdated": "2026-10-18 04:08:13",
+  "totalCount": 31,
   "sources": {
-    "Rfi_Fr": 1,
-    "Smzdm": 11,
-    "Wallstreetcn": 1,
-    "News_Baidu": 2,
+    "Bilibili": 5,
+    "Smzdm": 13,
+    "Bjnews": 1,
     "21Jingji": 1,
+    "News_Baidu": 1,
+    "The Manila Times": 2,
     "The Mirror": 1,
     "The Independent": 1,
     "The Globe and Mail": 1,
-    "The Manila Times": 1,
     "iTWire": 1,
     "Manchester Evening News": 1,
     "The Guardian": 1,
-    "Seeking Alpha": 1,
     "FOX 4 News": 1,
-    "The Economic Times": 1,
-    "New York Post": 1,
-    "MarketScreener": 3,
-    "EUROPE SAYS": 1,
-    "TechStartups.com": 1,
-    "TNW": 1,
-    "The News International": 1,
-    "Heise Online": 1,
-    "Hindustan Times": 1
+    "The Economic Times": 1
   },
   "news": [
     {
-      "id": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261016-%E5%BC%A0%E5%A9%89%E8%8E%B9%E8%A2%AB%E6%8C%87%E6%9B%BE%E5%9D%90%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9B%A2-%E5%85%B1%E8%B0%8B%E8%80%85%E4%BA%8C%E5%8F%B7-%E8%B6%85%E8%B7%91%E6%8B%8D%E7%85%A7-%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E8%A2%AB%E6%9B%9D%E5%85%89",
-      "title": "张婉莹被指曾坐太子集团“共谋者二号”超跑拍照 更多细节被曝光",
-      "summary": "据哥伦比亚广播公司（CBS）的一项调查显示，一名被控充当中国代理人的加州房地产经纪人，与一个涉嫌在柬埔寨运作的犯罪组织存在关联；该组织被指利用强迫劳动，针对美国民众实施了涉案金额高达数十亿美元的诈骗活动。...",
-      "source": "Rfi_Fr",
-      "date": "2026-10-16",
-      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261016-%E5%BC%A0%E5%A9%89%E8%8E%B9%E8%A2%AB%E6%8C%87%E6%9B%BE%E5%9D%90%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9B%A2-%E5%85%B1%E8%B0%8B%E8%80%85%E4%BA%8C%E5%8F%B7-%E8%B6%85%E8%B7%91%E6%8B%8D%E7%85%A7-%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E8%A2%AB%E6%9B%9D%E5%85%89"
+      "id": "https://www.bilibili.com/video/BV15mpR6uERu",
+      "title": "【B站】兄弟们自动驾驶的九号电动车见过没？",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-18",
+      "url": "https://www.bilibili.com/video/BV15mpR6uERu"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8lkkq9/",
-      "title": "赛豆科技AIVAME7过审背后：AI智能终端赛道竞争新趋势",
-      "summary": "10月16日，工信部第412批道路机动车辆新产品公示放出，赛力斯参股的赛豆科技旗下AIVA品牌首款量产车ME7完成申报公示，正式拿到量产验证的入场券。 这台车申报车长约5米（4999mm）、轴距3050mm，五座轿跑SUV布局，后驱版单电机峰值功率270......",
+      "id": "https://www.bilibili.com/video/BV1RLJQ6QEgv",
+      "title": "【B站】张雪说两轮电车自动驾驶有点搞笑，聊聊我的看法",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-18",
+      "url": "https://www.bilibili.com/video/BV1RLJQ6QEgv"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1SSJC64EBW",
+      "title": "【B站】15分钟讲解所有自动驾驶系统",
+      "summary": "原视频：Every Self-Driving System EXPLAINED in 15 Minutes\n原作者：Beyond EV Technology\n发布日期：2026-09-03\n视频链接：https://www.youtube.com/watch?v=yEkIFsBm_gU\n\n章节\n00...",
+      "source": "Bilibili",
+      "date": "2026-10-18",
+      "url": "https://www.bilibili.com/video/BV1SSJC64EBW"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-18",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1iApC6zE5t",
+      "title": "【B站】苏超赛场：迎面开来的是自动驾驶电动自行车方队……",
+      "summary": "苏超赛场：迎面开来的是自动驾驶电动自行车方队……（来源：央视新闻、江苏新闻常州台）...",
+      "source": "Bilibili",
+      "date": "2026-10-18",
+      "url": "https://www.bilibili.com/video/BV1iApC6zE5t"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrqqg7v/",
+      "title": "上汽大众ID.ERA5S累计交付破万——但它是插混轿车，想要大众同价位纯电SUV，请等11月12日的5X",
+      "summary": "热榜标题里的这件事需要先拆开说：上汽大众在10月中旬披露，ID.ERA 5S自8月21日上市以来累计交付突破1万辆，这个数字属实；但被顺手带上的那句“同价位纯电SUV怎么选”，前提就有问题——这台卖爆的5S不是纯电SUV，而是一台限时权益价8.99万至1......",
       "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/ak8lkkq9/"
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/aqrqqg7v/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8lkkw9/",
-      "title": "尊界刹车断裂真相揭秘：智能电车线控制动系统到底安不安全？",
-      "summary": "被全网围观了八天的尊界刹车断裂，进入了官方核查程序。10月15日晚，工业和信息化部、中央网信办、市场监管总局通报，在前期调查工作基础上成立联合调查组开展核查，并依法依规处理。 在结论公布前，能钉住的先钉住：断的不是制动系统的“线控”链路，而是把刹车踏板固......",
+      "id": "https://post.smzdm.com/p/a3mxx2kr/",
+      "title": "上汽大众ID. ERA 5S累计交付破万：万名车主口碑里的夸与槽",
+      "summary": "10月13日，上汽大众宣布ID. ERA 5S累计交付破万，这款插混家轿被打上“插混新王”的标签。新车8月21日在成都车展上市，限时权益价8.99万元至11.99万元，是大众品牌全球首款搭载城区NOA的轿车。这一万台不是炒作出来的开门红：上市头十天只交了......",
       "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/ak8lkkw9/"
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/a3mxx2kr/"
     },
     {
-      "id": "https://post.smzdm.com/p/a03xqq78/",
-      "title": "四部门督促车企加强测试验证，小白试驾如何检验车辆真安全？",
-      "summary": "10月15日，工业和信息化部装备工业一司、公安部交通管理局、生态环境部大气环境司、市场监管总局质量发展局四个部门的相关司局，组织30余家重点汽车生产企业开展座谈，解读发布仅5天的《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿......",
+      "id": "https://post.smzdm.com/p/awwoo57k/",
+      "title": "交付破万背后：上汽大众ID. ERA 5S市场表现与行业趋势解读",
+      "summary": "2026年10月13日，上汽大众披露，ID. ERA 5S自8月21日上市以来累计交付已突破1万辆，另有17,053辆订单正有序交付中；官方同时提示，交付量与待交付订单不可简单相加。 这辆车的另一个身份同样值得注意：大众品牌首款搭载城市NOA智驾的轿车，......",
       "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/a03xqq78/"
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/awwoo57k/"
     },
     {
-      "id": "https://post.smzdm.com/p/am9388mz/",
-      "title": "全新北京现代伊兰特申报背后，合资A级车市场格局将生变？",
-      "summary": "10月16日，工信部第412批《道路机动车辆生产企业及产品公告》新产品公示发布，全新北京现代伊兰特出现在申报清单中。在最新一期工信部申报信息里，新车外观设计同步海外版本，整体风格变化明显，也是伊兰特的第八代产品。 但直接回答标题的问题：这次申报并不会让合......",
+      "id": "https://post.smzdm.com/p/am9336kv/",
+      "title": "马斯克飞行汽车遭踢馆之后：城市空中通勤的普及时间表与三大趋势",
+      "summary": "美国东部时间10月15日、北京时间16日凌晨，特斯拉在得州SpaceX试验场发布第二代Roadster：这辆双座跑车沿弧形坡道倒挂行驶，腾空跃过一整排特斯拉车型、空中翻正落地，现场计时从静止加速到每小......",
       "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/am9388mz/"
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/am9336kv/"
     },
     {
-      "id": "https://post.smzdm.com/p/axkozz49/",
-      "title": "张雪机车再冲第七冠：从草根学徒到收官战场，走了整整二十年",
-      "summary": "本周末，2026年世界超级摩托车锦标赛（WSBK）WorldSSP中量级组别收官战来到西班牙赫雷兹赛道，Race1、Race2分别于北京时间10月17日、18日20:00发车。中国制造商张雪机车本赛季已拿下六个分站冠军，“再冲第七冠”是赛程表上最后的悬念......",
+      "id": "https://www.bjnews.com.cn/detail/1792229678168981.html",
+      "title": "特斯拉“会飞”，但未必能“落地” | 新京报快评",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-10-17",
+      "url": "https://www.bjnews.com.cn/detail/1792229678168981.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rxxvl8/",
+      "title": "马斯克飞行汽车遭踢馆背后：低空经济产业链与核心技术科普",
+      "summary": "北京时间10月16日晚（美东时间15日），特斯拉在美国得州麦格雷戈的SpaceX测试场展示了重新设计的第二代Roadster：一辆白色Roadster沿弧形坡道行驶至倒挂姿态，随后利用推进器腾空翻转并......",
       "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/axkozz49/"
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/a5rxxvl8/"
     },
     {
-      "id": "https://post.smzdm.com/p/aomv990r/",
-      "title": "四部门督促车企加强测试验证，新能源车企格局将如何洗牌？",
-      "summary": "10月15日，工业和信息化部、公安部、生态环境部、市场监管总局四部门相关司局，把30余家重点汽车生产企业组织到同一张桌子前，议题不是价格，不是销量，而是汽车产品创新设计和研发测试验证。 五天前，四部门已联合发布《关于进一步加强汽车产品创新设计和研发测试验......",
-      "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/aomv990r/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwozzkm/",
-      "title": "10月新车申报避坑指南：重磅车型扎堆，教你一眼看穿减配套路",
-      "summary": "10月16日，工信部第412批《道路机动车辆生产企业及产品公告》新产品公示放出，这期工信部车展阵容相当扎实：阿维塔07L增程、全新艾瑞泽7、奔驰C300L纯电、大众ID.AURA L5、新一代比亚迪汉、领克900L、尚界Z9、奕境X9纯电版集体申报。赛力......",
-      "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/awwozzkm/"
-    },
-    {
-      "id": "https://wallstreetcn.com/articles/3783821",
-      "title": "华尔街见闻早餐FM-Radio | 2026年10月17日",
-      "summary": "NewsData报道",
-      "source": "Wallstreetcn",
-      "date": "2026-10-16",
-      "url": "https://wallstreetcn.com/articles/3783821"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a4qxppr7/",
-      "title": "四部门督促车企加强测试验证，到底在测哪些硬核技术？",
-      "summary": "10月16日晚，央视新闻发布消息：工业和信息化部、公安部、生态环境部、市场监管总局四部门组织30余家重点汽车生产企业开展座谈，加强汽车产品创新设计和研发测试验证管理。这场座谈召开于10月15日，由四部......",
-      "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/a4qxppr7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak8lkkx8/",
-      "title": "张雪机车再冲第七冠：六次夺冠数据揭秘，这次胜算几何？",
-      "summary": "2026世界超级摩托车锦标赛（WSBK）收官周末已经开打：超级杆位赛北京时间10月16日22:00进行，两场WorldSSP正赛分列10月17日、18日20:00，地点在西班牙赫雷兹赛道。 年度冠军之争则已提前出局：驾驶雅马哈的阿雷纳斯364分锁定车手年......",
-      "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/ak8lkkx8/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879211776579735845",
-      "title": "你好乌镇：一座水乡的AI生长记",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-16",
-      "url": "http://baijiahao.baidu.com/s?id=1879211776579735845"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg54eew/",
-      "title": "比亚迪，开进了APEC",
-      "summary": "10月16日，比亚迪集团正式宣布成为2026年APEC会议官方合作伙伴。旗下腾势、仰望、方程豹、王朝和海洋系列的多款高端车型，成为会议官方指定用车，为参会嘉宾提供绿色出行保障，助力APEC会议落实低碳......",
-      "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/agg54eew/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae6qvne3/",
-      "title": "换车试驾还没约，我先去办充电桩的手续了：扒完两派帖子才明白，桩是最不重要的一环",
-      "summary": "老车挂出去卖之后，替补车的三台清单和亏电试驾单都在我本子上躺好了。上周末正要约试驾，媳妇来了一句：新车买回来，你打算在哪儿充电？把我问愣了。家里这台电车开了五年，一直靠公共桩过日子——商场停车场那排桩......",
-      "source": "Smzdm",
-      "date": "2026-10-16",
-      "url": "https://post.smzdm.com/p/ae6qvne3/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261016/herald/494c330a04bc2f0827613746ccc54d6f.html",
-      "title": "工信部等四部门组织重点汽车生产企业开展座谈 加强汽车产品创新设计和研发测试验证管理",
+      "id": "https://www.21jingji.com/article/20261017/herald/d63fdb20062b1c47884516bb1869df8b.html",
+      "title": "“广货”再上新！广式烟火气未来感十足",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-16",
-      "url": "https://www.21jingji.com/article/20261016/herald/494c330a04bc2f0827613746ccc54d6f.html"
+      "date": "2026-10-17",
+      "url": "https://www.21jingji.com/article/20261017/herald/d63fdb20062b1c47884516bb1869df8b.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879217598131786200",
-      "title": "中国AI高成长企业榜单在上海发布，AI下一轮突破指..",
+      "id": "https://post.smzdm.com/p/awwoopz2/",
+      "title": "10万级油电智驾对决：吉利星瑞L PLUS对比热门纯电轿车",
+      "summary": "10月17日晚，吉利星瑞L PLUS在成都正式上市，新车涵盖纯油和i-HEV智混两种动力、共8款车型。它最受关注的身份，是国内首款搭载激光雷达的燃油轿车，顶配车型配备千里浩瀚H5高阶智驾系统，支持城市NOA与高速NOA。预售阶段它就已被视为燃油/智混轿车......",
+      "source": "Smzdm",
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/awwoopz2/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a9566d4o/",
+      "title": "盯紧AION Ray7预售12.88万起，下定前必看的避坑指南",
+      "summary": "10月17日晚，埃安全新车系Ray的首款车型Ray7正式开启预售，预售价12.88万元起。五个版本从12.88万元一直铺到15.88万元，续航分530公里和702公里两档。这个起步价明显低于预售前市场流传的15万至18万元预期。诚意确实给到了，但下定前要......",
+      "source": "Smzdm",
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/a9566d4o/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az8oo475/",
+      "title": "特斯拉Roadster亮相后订车避坑：交付周期与进口关税全解析",
+      "summary": "美东时间10月15日，特斯拉在得克萨斯州SpaceX测试场发布第二代Roadster，马斯克确认新车将于2028年正式量产，中国官网随即开放Performance版预订，意向金33.2万元。这笔意向金全额可退。订车这件事本身没什么可纠结的，真正的坑都埋在......",
+      "source": "Smzdm",
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/az8oo475/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am933634/",
+      "title": "特斯拉Roadster真的会飞？对比小鹏汇天，飞行汽车落地还要多久",
+      "summary": "特斯拉Roadster真的会飞？会，但它飞的本质更接近一段火箭特技，而不是一种空中交通。10月16日（北京时间），特斯拉在美国得克萨斯州发布第二代Roadster，直播画面显示，车辆借助推进器、大功率风扇等装置，完成倒置坡道行驶、短暂腾空及空中旋转等动作......",
+      "source": "Smzdm",
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/am933634/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7mm4mz/",
+      "title": "张雪机车西班牙站首回合第10：\"中国女骑\"系误传，真正的突破在厂商",
+      "summary": "10月17日晚（北京时间），2026赛季WSBK世界超级摩托车锦标赛收官之战在西班牙赫雷斯赛道上演，正赛第一回合中，张雪机车53号车手德比斯最终获得第10名。 但先把人认对：这位53号车手是中国摩托车制造商“张雪机车”旗下的法国车手瓦伦丁·德比斯——今年......",
+      "source": "Smzdm",
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/ad7mm4mz/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7mm49d/",
+      "title": "特斯拉Roadster真的会飞？先分清：能飞的不上路，能上路的不飞",
+      "summary": "会。但准确地说，是\"短时间离开地面\"，而不是像飞机那样持续飞行。而且按特斯拉官网的版本划分，能飞的那个版本目前未获准在公共道路行驶；你在特斯拉中国官网花33.2万元意向金能订到的，恰恰是不会飞的那一个......",
+      "source": "Smzdm",
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/ad7mm49d/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879305443020271525",
+      "title": "“广货”再上新！广式烟火气未来感十足｜广货·好嘢来..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-16",
-      "url": "http://baijiahao.baidu.com/s?id=1879217598131786200"
+      "date": "2026-10-17",
+      "url": "http://baijiahao.baidu.com/s?id=1879305443020271525"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a3mxx26r/",
+      "title": "从古德伍德到《时代》周刊，腾势Z让中国纯电超跑闪耀全球",
+      "summary": "一辆超跑被关注，通常是因为它跑得有多快。但腾势Z入选《时代》周刊2026年度最佳发明榜单，更值得讨论的问题是，当电动化已经能带来惊人的加速，一辆超跑还能发明什么？速度当然是腾势Z的底气。按照品牌公布的......",
+      "source": "Smzdm",
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/a3mxx26r/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rxxvpl/",
+      "title": "AION Ray7预售12.88万起，入门版配置够用吗？",
+      "summary": "10月17日晚，广汽埃安Ray7开启预售，五个版本预售价12.88万—15.88万元。价格表的第一档，是12.88万元的\"530后驱驾趣版\"。 这台车长4.96米、轴距2.92米的中大型纯电四门轿车，入场价压过了话题度最高的对手吉利银河TT。用户的问题因......",
+      "source": "Smzdm",
+      "date": "2026-10-17",
+      "url": "https://post.smzdm.com/p/a5rxxvpl/"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/omoda-jaecoo-to-showcase-purpose-built-l4-robotaxi-bringing-a-new-driverless-mobility-experience-to-global-markets/2447906",
+      "title": "OMODA & JAECOO to Showcase Purpose-Built L4 Robotaxi, Bringing a New Driverless Mobility Experience to Global Markets",
+      "summary": "WUHU, China, Oct. 17, 2026 (GLOBE NEWSWIRE) -- As autonomous driving moves toward large-scale commercial operations, global markets are calling for vehicles purpose-built for fully driverless services...",
+      "source": "The Manila Times",
+      "date": "2026-10-17",
+      "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/omoda-jaecoo-to-showcase-purpose-built-l4-robotaxi-bringing-a-new-driverless-mobility-experience-to-global-markets/2447906"
     },
     {
       "id": "https://www.mirror.co.uk/news/uk-news/uber-wayve-taxi-london-manchester-37780638",
@@ -212,60 +251,12 @@
       "url": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester"
     },
     {
-      "id": "https://seekingalpha.com/article/4953973-tesla-the-next-growth-engine-is-taking-shape",
-      "title": "Tesla: The Next Growth Engine Is Taking Shape",
-      "summary": "Tesla's nearly 1.5 million paid FSD customers and 55% North American attach rate strengthen its software distribution opportunity. See why TSLA stock is a Buy....",
-      "source": "Seeking Alpha",
-      "date": "2026-10-14",
-      "url": "https://seekingalpha.com/article/4953973-tesla-the-next-growth-engine-is-taking-shape"
-    },
-    {
       "id": "https://www.fox4news.com/news/nathaniel-ford-dart-ceo-criminal-investigation-navi-shuttle-jta-jacksonville",
       "title": "Incoming DART CEO's former company sees more closures amid criminal investigation, budget crisis",
       "summary": "The incoming CEO of DART remains on track to take the job this month despite an active criminal investigation into his prior company in Florida, where an autonomous shuttle project he was the driving ...",
       "source": "FOX 4 News",
       "date": "2026-10-13",
       "url": "https://www.fox4news.com/news/nathaniel-ford-dart-ceo-criminal-investigation-navi-shuttle-jta-jacksonville"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/science/nasas-perseverance-becomes-longest-travelling-rover-beyond-earth-after-45-2-km-on-mars/articleshow/134908261.cms",
-      "title": "NASA's Perseverance becomes longest-travelling rover beyond Earth after 45.2 km on Mars",
-      "summary": "NASA's Perseverance rover has covered 28.1 miles on Mars, breaking the previous driving record. For over 5-1/2 years, it has actively investigated Jezero Crater, showcasing its autonomous navigation f...",
-      "source": "The Economic Times",
-      "date": "2026-10-13",
-      "url": "https://economictimes.indiatimes.com/science/nasas-perseverance-becomes-longest-travelling-rover-beyond-earth-after-45-2-km-on-mars/articleshow/134908261.cms"
-    },
-    {
-      "id": "https://nypost.com/2026/10/12/business/tesla-robotaxis-face-investigation-over-alleged-speeding-in-school-zones/",
-      "title": "Tesla robotaxis face investigation over alleged speeding in school zones",
-      "summary": "Tesla is facing an investigation from US regulators over claims its self-driving robotaxis have been speeding in school zones – the latest hurdle in its long-awaited rollout of fully autonomous vehicl...",
-      "source": "New York Post",
-      "date": "2026-10-12",
-      "url": "https://nypost.com/2026/10/12/business/tesla-robotaxis-face-investigation-over-alleged-speeding-in-school-zones/"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/tesla-renames-its-fsd-system-in-europe-under-pressure-from-regulators-ce785ddcdd89f024",
-      "title": "Tesla renames its FSD system in Europe under pressure from regulators",
-      "summary": "Tesla has decided to replace the name Full Self-Driving with Assisted Driving in Europe, following criticism from Germany's Transport Ministry. Authorities believe the former name could have led......",
-      "source": "MarketScreener",
-      "date": "2026-10-12",
-      "url": "https://www.marketscreener.com/news/tesla-renames-its-fsd-system-in-europe-under-pressure-from-regulators-ce785ddcdd89f024"
-    },
-    {
-      "id": "https://www.europesays.com/3300710/",
-      "title": "Is Slovakia's FSD Nod the Next Step in Tesla's European Expansion?",
-      "summary": "Per Reuters, Slovakia is expected to approve Tesla’s (TSLA Quick QuoteTSLA - Free Report) Full Self-Driving (FSD) system, potentially becoming the ninth...",
-      "source": "EUROPE SAYS",
-      "date": "2026-10-09",
-      "url": "https://www.europesays.com/3300710/"
-    },
-    {
-      "id": "https://techstartups.com/2026/10/09/tesla-drops-full-self-driving-name-in-europe-rebrands-fsd-as-tesla-assisted-driving-after-regulators-call-name-misleading/",
-      "title": "Driving’ name in Europe, rebrands FSD as ‘Tesla Assisted Driving’ after regulators call name misleading",
-      "summary": "Tesla is dropping the “Full Self-Driving” name across its European websites, replacing it with “Tesla Assisted Driving” after regulators raised concerns that the original branding could mislead driver...",
-      "source": "TechStartups.com",
-      "date": "2026-10-09",
-      "url": "https://techstartups.com/2026/10/09/tesla-drops-full-self-driving-name-in-europe-rebrands-fsd-as-tesla-assisted-driving-after-regulators-call-name-misleading/"
     }
   ]
 }
