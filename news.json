@@ -1,11 +1,12 @@
 {
-  "lastUpdated": "2026-10-18 04:08:13",
-  "totalCount": 31,
+  "lastUpdated": "2026-10-19 04:17:38",
+  "totalCount": 33,
   "sources": {
     "Bilibili": 5,
     "Smzdm": 13,
-    "Bjnews": 1,
     "21Jingji": 1,
+    "Pcauto_Cn": 2,
+    "Wallstreetcn": 1,
     "News_Baidu": 1,
     "The Manila Times": 2,
     "The Mirror": 1,
@@ -19,35 +20,19 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV15mpR6uERu",
-      "title": "【B站】兄弟们自动驾驶的九号电动车见过没？",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-10-18",
-      "url": "https://www.bilibili.com/video/BV15mpR6uERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1RLJQ6QEgv",
-      "title": "【B站】张雪说两轮电车自动驾驶有点搞笑，聊聊我的看法",
+      "id": "https://www.bilibili.com/video/BV1q5JY66Ekb",
+      "title": "【B站】中控TPT：让化工装置开上“自动驾驶”",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-18",
-      "url": "https://www.bilibili.com/video/BV1RLJQ6QEgv"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1SSJC64EBW",
-      "title": "【B站】15分钟讲解所有自动驾驶系统",
-      "summary": "原视频：Every Self-Driving System EXPLAINED in 15 Minutes\n原作者：Beyond EV Technology\n发布日期：2026-09-03\n视频链接：https://www.youtube.com/watch?v=yEkIFsBm_gU\n\n章节\n00...",
-      "source": "Bilibili",
-      "date": "2026-10-18",
-      "url": "https://www.bilibili.com/video/BV1SSJC64EBW"
+      "date": "2026-10-19",
+      "url": "https://www.bilibili.com/video/BV1q5JY66Ekb"
     },
     {
       "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
       "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
@@ -55,136 +40,168 @@
       "title": "【B站】苏超赛场：迎面开来的是自动驾驶电动自行车方队……",
       "summary": "苏超赛场：迎面开来的是自动驾驶电动自行车方队……（来源：央视新闻、江苏新闻常州台）...",
       "source": "Bilibili",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "url": "https://www.bilibili.com/video/BV1iApC6zE5t"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrqqg7v/",
-      "title": "上汽大众ID.ERA5S累计交付破万——但它是插混轿车，想要大众同价位纯电SUV，请等11月12日的5X",
-      "summary": "热榜标题里的这件事需要先拆开说：上汽大众在10月中旬披露，ID.ERA 5S自8月21日上市以来累计交付突破1万辆，这个数字属实；但被顺手带上的那句“同价位纯电SUV怎么选”，前提就有问题——这台卖爆的5S不是纯电SUV，而是一台限时权益价8.99万至1......",
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-10-19",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV15mpR6uERu",
+      "title": "【B站】兄弟们自动驾驶的九号电动车见过没？",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-19",
+      "url": "https://www.bilibili.com/video/BV15mpR6uERu"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rxx2e3/",
+      "title": "泡水iPhone去哪了？苹果官方回收流程全揭秘",
+      "summary": "10月14日，一艘悬挂新加坡国旗的集装箱船在霍尔木兹海峡起火沉没，大量全新iPhone散落海面，据《每日电讯报》10月16日报道，伊朗当地渔民驾驶小艇打捞从沉船上散落的全新iPhone、法国香水等货物。 事件发酵后，有媒体致电苹果客服热线求证，得到的回应......",
       "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/aqrqqg7v/"
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/a5rxx2e3/"
     },
     {
-      "id": "https://post.smzdm.com/p/a3mxx2kr/",
-      "title": "上汽大众ID. ERA 5S累计交付破万：万名车主口碑里的夸与槽",
-      "summary": "10月13日，上汽大众宣布ID. ERA 5S累计交付破万，这款插混家轿被打上“插混新王”的标签。新车8月21日在成都车展上市，限时权益价8.99万元至11.99万元，是大众品牌全球首款搭载城区NOA的轿车。这一万台不是炒作出来的开门红：上市头十天只交了......",
+      "id": "https://post.smzdm.com/p/a9566wpp/",
+      "title": "WSBK2026收官德比斯获亚军：中国车迷的热血观赛指南",
+      "summary": "10月18日，2026世界超级摩托车锦标赛（WSBK）在西班牙赫雷斯赛道收官：代表中国摩托车制造商“张雪机车”出战的法国车手瓦伦丁·德比斯以WorldSSP组别年度车手亚军结束首个赛季，车队同步拿下制......",
       "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/a3mxx2kr/"
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/a9566wpp/"
     },
     {
-      "id": "https://post.smzdm.com/p/awwoo57k/",
-      "title": "交付破万背后：上汽大众ID. ERA 5S市场表现与行业趋势解读",
-      "summary": "2026年10月13日，上汽大众披露，ID. ERA 5S自8月21日上市以来累计交付已突破1万辆，另有17,053辆订单正有序交付中；官方同时提示，交付量与待交付订单不可简单相加。 这辆车的另一个身份同样值得注意：大众品牌首款搭载城市NOA智驾的轿车，......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/awwoo57k/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am9336kv/",
-      "title": "马斯克飞行汽车遭踢馆之后：城市空中通勤的普及时间表与三大趋势",
-      "summary": "美国东部时间10月15日、北京时间16日凌晨，特斯拉在得州SpaceX试验场发布第二代Roadster：这辆双座跑车沿弧形坡道倒挂行驶，腾空跃过一整排特斯拉车型、空中翻正落地，现场计时从静止加速到每小......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/am9336kv/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1792229678168981.html",
-      "title": "特斯拉“会飞”，但未必能“落地” | 新京报快评",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-10-17",
-      "url": "https://www.bjnews.com.cn/detail/1792229678168981.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rxxvl8/",
-      "title": "马斯克飞行汽车遭踢馆背后：低空经济产业链与核心技术科普",
-      "summary": "北京时间10月16日晚（美东时间15日），特斯拉在美国得州麦格雷戈的SpaceX测试场展示了重新设计的第二代Roadster：一辆白色Roadster沿弧形坡道行驶至倒挂姿态，随后利用推进器腾空翻转并......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/a5rxxvl8/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261017/herald/d63fdb20062b1c47884516bb1869df8b.html",
-      "title": "“广货”再上新！广式烟火气未来感十足",
+      "id": "https://www.21jingji.com/article/20261018/herald/e4524e797532ddd8338809312cc3f399.html",
+      "title": "张雪机车，创造历史！",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-17",
-      "url": "https://www.21jingji.com/article/20261017/herald/d63fdb20062b1c47884516bb1869df8b.html"
+      "date": "2026-10-18",
+      "url": "https://www.21jingji.com/article/20261018/herald/e4524e797532ddd8338809312cc3f399.html"
     },
     {
-      "id": "https://post.smzdm.com/p/awwoopz2/",
-      "title": "10万级油电智驾对决：吉利星瑞L PLUS对比热门纯电轿车",
-      "summary": "10月17日晚，吉利星瑞L PLUS在成都正式上市，新车涵盖纯油和i-HEV智混两种动力、共8款车型。它最受关注的身份，是国内首款搭载激光雷达的燃油轿车，顶配车型配备千里浩瀚H5高阶智驾系统，支持城市NOA与高速NOA。预售阶段它就已被视为燃油/智混轿车......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/awwoopz2/"
+      "id": "http://www.pcauto.com.cn/news/5188/51889948.html",
+      "title": "专访曾清林：奕境X9不是问界M9平替，“最好的华为在奕境”不会变",
+      "summary": "曾清林：“这个定义不是说其他模式怎么样，我认为奕境与华为的合作模式就是最好的，不因外界的变化而变化。”...",
+      "source": "Pcauto_Cn",
+      "date": "2026-10-18",
+      "url": "http://www.pcauto.com.cn/news/5188/51889948.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a9566d4o/",
-      "title": "盯紧AION Ray7预售12.88万起，下定前必看的避坑指南",
-      "summary": "10月17日晚，埃安全新车系Ray的首款车型Ray7正式开启预售，预售价12.88万元起。五个版本从12.88万元一直铺到15.88万元，续航分530公里和702公里两档。这个起步价明显低于预售前市场流传的15万至18万元预期。诚意确实给到了，但下定前要......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/a9566d4o/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/az8oo475/",
-      "title": "特斯拉Roadster亮相后订车避坑：交付周期与进口关税全解析",
-      "summary": "美东时间10月15日，特斯拉在得克萨斯州SpaceX测试场发布第二代Roadster，马斯克确认新车将于2028年正式量产，中国官网随即开放Performance版预订，意向金33.2万元。这笔意向金全额可退。订车这件事本身没什么可纠结的，真正的坑都埋在......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/az8oo475/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am933634/",
-      "title": "特斯拉Roadster真的会飞？对比小鹏汇天，飞行汽车落地还要多久",
-      "summary": "特斯拉Roadster真的会飞？会，但它飞的本质更接近一段火箭特技，而不是一种空中交通。10月16日（北京时间），特斯拉在美国得克萨斯州发布第二代Roadster，直播画面显示，车辆借助推进器、大功率风扇等装置，完成倒置坡道行驶、短暂腾空及空中旋转等动作......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/am933634/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7mm4mz/",
-      "title": "张雪机车西班牙站首回合第10：\"中国女骑\"系误传，真正的突破在厂商",
-      "summary": "10月17日晚（北京时间），2026赛季WSBK世界超级摩托车锦标赛收官之战在西班牙赫雷斯赛道上演，正赛第一回合中，张雪机车53号车手德比斯最终获得第10名。 但先把人认对：这位53号车手是中国摩托车制造商“张雪机车”旗下的法国车手瓦伦丁·德比斯——今年......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/ad7mm4mz/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7mm49d/",
-      "title": "特斯拉Roadster真的会飞？先分清：能飞的不上路，能上路的不飞",
-      "summary": "会。但准确地说，是\"短时间离开地面\"，而不是像飞机那样持续飞行。而且按特斯拉官网的版本划分，能飞的那个版本目前未获准在公共道路行驶；你在特斯拉中国官网花33.2万元意向金能订到的，恰恰是不会飞的那一个......",
-      "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/ad7mm49d/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879305443020271525",
-      "title": "“广货”再上新！广式烟火气未来感十足｜广货·好嘢来..",
+      "id": "https://wallstreetcn.com/articles/3783833",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月19日",
       "summary": "NewsData报道",
+      "source": "Wallstreetcn",
+      "date": "2026-10-18",
+      "url": "https://wallstreetcn.com/articles/3783833"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkooxdw/",
+      "title": "拆解轩逸安全得分高于沃尔沃：碰撞测试评分标准全解析",
+      "summary": "10月18日，#轩逸安全得分高于沃尔沃#登上热搜。导火索不是轩逸或沃尔沃出了新的碰撞成绩，而是懂车帝与尊界\"刹车门\"风波升级后，网友从懂车帝App里翻出了这组流传已久的\"安全榜\"截图。在这类被反复转发......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/axkooxdw/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7mmgmn/",
+      "title": "轩逸安全得分高于沃尔沃？0.6分差距背后，合资家轿正把安全卷进9万级",
+      "summary": "10月14日前后，懂车帝App里一张「实测榜·安全榜」的截图开始在汽车圈刷屏：售价7.99万—17.49万的日产轩逸以67.8分排进前十，高于沃尔沃S60和XC90的67.2分，话题#轩逸安全得分高于......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/ad7mmgmn/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae6qqwqz/",
+      "title": "轩逸安全得分高于沃尔沃？10万级家轿安全配置选购指南",
+      "summary": "轩逸安全得分高于沃尔沃，这件事本身是真的。在网络流传的懂车帝「实测」安全榜截图里，轩逸的安全得分是67.8分，沃尔沃S60和XC90同为67.2分，轩逸排第八、两辆沃尔沃排在第十。但先要看清这个分数的......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/ae6qqwqz/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879394435262646672",
+      "title": "【提示】重阳送平安！这份长辈安全出行提示请收好",
+      "summary": "市公安局交管总队介绍，家有一老，如有一宝。作为子女或晚辈，除了要关心老人的身体健康，更要关注他们的出行安全。老人在步行、乘车、驾车方面有哪些注意事项？来看提示↓愿长辈们：平安多喜乐，岁岁长安康！（视频时长47秒）步行请注...",
       "source": "News_Baidu",
-      "date": "2026-10-17",
-      "url": "http://baijiahao.baidu.com/s?id=1879305443020271525"
+      "date": "2026-10-18",
+      "url": "http://baijiahao.baidu.com/s?id=1879394435262646672"
     },
     {
-      "id": "https://post.smzdm.com/p/a3mxx26r/",
-      "title": "从古德伍德到《时代》周刊，腾势Z让中国纯电超跑闪耀全球",
-      "summary": "一辆超跑被关注，通常是因为它跑得有多快。但腾势Z入选《时代》周刊2026年度最佳发明榜单，更值得讨论的问题是，当电动化已经能带来惊人的加速，一辆超跑还能发明什么？速度当然是腾势Z的底气。按照品牌公布的......",
+      "id": "https://post.smzdm.com/p/aomvvzdm/",
+      "title": "纯电续航505km！零跑新车官宣：10月18日正式上市",
+      "summary": "售价不到10万带激光雷达的车越来越多了，10月18日零跑A10S正式上市。该车严格意义上其实算是A10车系的黑武士运动特别版，之前零跑A10已经上市，此次上市的A10S仅单一版本，定价9.28万，大多......",
       "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/a3mxx26r/"
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/aomvvzdm/"
     },
     {
-      "id": "https://post.smzdm.com/p/a5rxxvpl/",
-      "title": "AION Ray7预售12.88万起，入门版配置够用吗？",
-      "summary": "10月17日晚，广汽埃安Ray7开启预售，五个版本预售价12.88万—15.88万元。价格表的第一档，是12.88万元的\"530后驱驾趣版\"。 这台车长4.96米、轴距2.92米的中大型纯电四门轿车，入场价压过了话题度最高的对手吉利银河TT。用户的问题因......",
+      "id": "https://post.smzdm.com/p/a03xxn60/",
+      "title": "128度电池！奔驰新车官宣：10月18日即将开卖",
+      "summary": "10月18日消息，奔驰全新梅赛德斯AMG GT SUV目前已经发布，即将上市开卖。该车来头挺大的，它不是很多人原本以为的GLE和EQS SUV改款，而是AMG历史上第一款由阿法特巴赫AMG团队从零正向......",
       "source": "Smzdm",
-      "date": "2026-10-17",
-      "url": "https://post.smzdm.com/p/a5rxxvpl/"
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/a03xxn60/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkooxp3/",
+      "title": "张雪机车获制造商年度第三名背后，国产摩企技术突围史",
+      "summary": "北京时间10月18日晚，2026世界超级摩托车锦标赛（WSBK）在西班牙赫雷斯迎来赛季收官日，中国摩托车制造商“张雪机车”车手瓦伦丁·德比斯在WorldSSP（中量级）组别收获年度车手亚军，“张雪机车......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/axkooxp3/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a9566wdo/",
+      "title": "比亚迪新车官宣：10月18日即将上市，预估8万元起",
+      "summary": "10月18日消息，比亚迪海洋网经理张卓预热新车上市倒计时，第二代海鸥即将在郑州上市。相比第一代的海鸥，此次新车不是小改款，属于完全的换代升级，变化非常大，由老款A00级4座前驱微型车，升级为A0级5门......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/a9566wdo/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwoo4e4/",
+      "title": "张雪机车获制造商年度第三名，同价位竞品选购避坑指南",
+      "summary": "2026世界超级摩托车锦标赛（WSBK）18日在西班牙站迎来赛季收官日，中国制造商张雪机车车手瓦伦丁·德比斯在WorldSSP组别收获年度车手亚军，\"张雪机车\"获制造商年度第三名。 一切的起点是今年3......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/awwoo4e4/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg55lz7/",
+      "title": "奕境X9松山湖交付首测：智能座舱与智驾表现如何？",
+      "summary": "10月18日，奕境X9的首批车主交付仪式落地东莞华为松山湖基地，品牌代言人郭富城现场亲手把钥匙递到车主手里，演员吕良伟也以“好友变车友”的身份到场提车。车队列阵的同时，这款车的全国批量交付也随之开启。......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/agg55lz7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rxx4x7/",
+      "title": "10月新车申报汇总盘点：插混与智驾成绝对主角",
+      "summary": "10月16日，工信部发布第412批《道路机动车辆生产企业及产品公告》新产品公示，这是10月“工信部车展”的完整名单，也是年底至明年初上市新车最早的一份官方剧透。逐条核对公示目录，这次申报的主角确实如标......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/a5rxx4x7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70pp52g/",
+      "title": "从吉利星瑞TCR夺冠看国产性能车出海新趋势",
+      "summary": "10月16日至18日，FIA TCR世界巡回赛首次登陆成都天府国际赛道，吉利中国星车队迎来参赛以来的首个中国主场：星瑞TCR赛车排位赛拿下杆位，三回合正赛2冠2亚1季，车队积分来到775分继续领跑，领......",
+      "source": "Smzdm",
+      "date": "2026-10-18",
+      "url": "https://post.smzdm.com/p/a70pp52g/"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5188/51889946.html",
+      "title": "郭富城亲手给吕良伟交车，奕境X9开启全国集中交付",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-10-18",
+      "url": "http://www.pcauto.com.cn/news/5188/51889946.html"
     },
     {
       "id": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/omoda-jaecoo-to-showcase-purpose-built-l4-robotaxi-bringing-a-new-driverless-mobility-experience-to-global-markets/2447906",
@@ -241,22 +258,6 @@
       "source": "Manchester Evening News",
       "date": "2026-10-14",
       "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/self-driving-cars-coming-manchester-34763732"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester",
-      "title": "Uber begins self-driving robotaxi trial in Manchester",
-      "summary": "Company hails first step in rolling out technology across UK as first autonomous vehicles take to city’s streets...",
-      "source": "The Guardian",
-      "date": "2026-10-14",
-      "url": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester"
-    },
-    {
-      "id": "https://www.fox4news.com/news/nathaniel-ford-dart-ceo-criminal-investigation-navi-shuttle-jta-jacksonville",
-      "title": "Incoming DART CEO's former company sees more closures amid criminal investigation, budget crisis",
-      "summary": "The incoming CEO of DART remains on track to take the job this month despite an active criminal investigation into his prior company in Florida, where an autonomous shuttle project he was the driving ...",
-      "source": "FOX 4 News",
-      "date": "2026-10-13",
-      "url": "https://www.fox4news.com/news/nathaniel-ford-dart-ceo-criminal-investigation-navi-shuttle-jta-jacksonville"
     }
   ]
 }
