@@ -1,133 +1,225 @@
 {
-  "lastUpdated": "2026-10-21 04:20:40",
-  "totalCount": 24,
+  "lastUpdated": "2026-10-22 04:19:53",
+  "totalCount": 32,
   "sources": {
-    "Smzdm": 8,
-    "Cision": 1,
-    "News_Baidu": 3,
+    "Bilibili": 5,
     "Bjnews": 1,
-    "Ithome": 1,
+    "Nbd_Cn": 1,
+    "News_Baidu": 3,
+    "Smzdm": 8,
+    "Wallstreetcn": 1,
+    "Fx168News": 1,
+    "Ign_Cn": 1,
+    "21Jingji": 1,
+    "PR Newswire UK": 1,
+    "The Economic Times": 2,
+    "The Star": 1,
     "MarketScreener": 2,
     "The Hindu Business Line": 1,
-    "The Manila Times": 2,
+    "The Manila Times": 1,
     "The Korea Times": 1,
-    "The Economic Times": 1,
-    "ANI (Asian News International)": 1,
-    "The Mirror": 1,
-    "The Independent": 1
+    "ANI (Asian News International)": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/aomvgw37/",
-      "title": "小蓝灯有了官方身份：首次写进强制国标，只有L3及以上才配点亮",
-      "summary": "10月20日，工信部装备工业一司公开征求《汽车数据安全要求》等五项强制性国家标准的意见，其中强制性国标GB 4785《汽车及挂车外部照明和光信号装置的安装要求》的第四次修订，是本轮关注度最高的项目。修订稿首次把车企用作智驾标识的“小蓝灯”纳入标准并正式定......",
-      "source": "Smzdm",
-      "date": "2026-10-20",
-      "url": "https://post.smzdm.com/p/aomvgw37/"
+      "id": "https://www.bilibili.com/video/BV1Smni6BEF7",
+      "title": "【B站】POV｜广州公交B1路自动驾驶前方展望 鹿鸣山总站→体育中心部分区间 广汽领程YC6850KHLBEV 自动驾驶",
+      "summary": "拍摄时间:2026.10.21\nPOV｜广州公交B1路自动驾驶前方展望 鹿鸣山总站→体育中心部分区间 广汽领程YC6850KHLBEV 自动驾驶...",
+      "source": "Bilibili",
+      "date": "2026-10-22",
+      "url": "https://www.bilibili.com/video/BV1Smni6BEF7"
     },
     {
-      "id": "https://www.prnewswire.com/news-releases/luo-shan-ji-che-zhan-jiang-2026nian-de-luo-shan-ji-sheng-huo-fang-shi-qi-che-wen-hua-he-che-mi-ju-ji-zai-yi-qi--811696531.html",
-      "title": "洛杉矶车展将2026年的洛杉矶生活方式、汽车文化和车迷聚集在一起",
-      "summary": "Fluffy Bus Collection、特别版 Chip Foose 社区版本、伯班克公路之王、七龙珠 XENOVERSE 3 公路之旅和 Tripp Burgers 将加入 10 天的汽车体验 洛杉矶2026年10月20日 /美通社/ -- 在洛杉矶，汽车文化从来都不只是汽车。它生活在娱乐、艺术、美食、游戏、收藏和社区的交汇处。2026年，洛杉矶车展®（LA Auto Show）将把更多的世...",
-      "source": "Cision",
-      "date": "2026-10-20",
-      "url": "https://www.prnewswire.com/news-releases/luo-shan-ji-che-zhan-jiang-2026nian-de-luo-shan-ji-sheng-huo-fang-shi-qi-che-wen-hua-he-che-mi-ju-ji-zai-yi-qi--811696531.html"
+      "id": "https://www.bilibili.com/video/BV12Sni6TEk9",
+      "title": "【B站】比亚迪高管透露L3级自动驾驶量产时间",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-22",
+      "url": "https://www.bilibili.com/video/BV12Sni6TEk9"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879576084392313489",
-      "title": "美股芯片半导体股普遍低开；国家数据集团成立；智驾“..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-20",
-      "url": "http://baijiahao.baidu.com/s?id=1879576084392313489"
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-10-22",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879580835449920607",
-      "title": "网红车粤J2888T车主拿驾照3年，全车多次维修，..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-20",
-      "url": "http://baijiahao.baidu.com/s?id=1879580835449920607"
+      "id": "https://www.bilibili.com/video/BV1JsnP6NEZe",
+      "title": "【B站】华为天塌了！智驾小蓝灯不能用了？不过今年华为系的车型基本都是L3级别的自动驾驶车型，就是达不到L3级别的就用不了了",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-10-22",
+      "url": "https://www.bilibili.com/video/BV1JsnP6NEZe"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1792501839129624.html",
-      "title": "三季度数字产业提速，AI与制造业融合按下加速键",
+      "id": "https://www.bilibili.com/video/BV1jCnJ6MEhU",
+      "title": "【B站】今天体验一下广州“文远知行”无人驾驶",
+      "summary": "第一次坐无人驾驶，体验还是很好的，主要有以下几点。\n1.空间大\n2.座椅能能靠后，可以躺\n3.乘坐感觉舒适稳定\n4.车内噪音较大\n5.空调风比较猛，但温度还是偏高\n6.音响一般般\n7.玻璃没有遮阳\n\n另外我个人认为可以躺下睡觉真的非常舒服，是无人驾驶的一大亮点，本身车上空间大，而且没有司机，坐上去就...",
+      "source": "Bilibili",
+      "date": "2026-10-22",
+      "url": "https://www.bilibili.com/video/BV1jCnJ6MEhU"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1792585682129465.html",
+      "title": "何小鹏：预计L4级自动驾驶最快2028年下半年落地",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-10-20",
-      "url": "https://www.bjnews.com.cn/detail/1792501839129624.html"
+      "date": "2026-10-21",
+      "url": "https://www.bjnews.com.cn/detail/1792585682129465.html"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrqklnk/",
-      "title": "问界计划明年秋入欧：海外华人最期待哪款车型率先落地？",
-      "summary": "问界正式踩下欧洲时间表。10月12日，问界在2026巴黎车展携M9、M8、M7、M6四款车型及魔方技术平台亮相，并公布将于2027年秋季进入欧洲市场。 消息公布后，赛力斯A股涨停。 海外华人最期待哪款......",
-      "source": "Smzdm",
-      "date": "2026-10-20",
-      "url": "https://post.smzdm.com/p/aqrqklnk/"
+      "id": "https://www.nbd.com.cn/articles/2026-10-21/4611856.html",
+      "title": "同为股份“两连板”后紧急澄清：AI大模型贡献有限，不涉及人形机器人、低空经济",
+      "summary": "在10月20日、21日连续两个交易日涨停后，10月21日晚间，同为股份（SZ002835，股价15.58元，市值34.20亿元）发布股票交易异常波动公告。公司股票于10月20日、21日连续两个交易日收...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-21",
+      "url": "https://www.nbd.com.cn/articles/2026-10-21/4611856.html"
     },
     {
-      "id": "https://post.smzdm.com/p/agg5o286/",
-      "title": "吉利首款原生Robotaxi样车下线，到底比改装车强在哪？",
-      "summary": "10月20日，曹操出行宣布，其与吉利汽车等合作伙伴联合打造的“中国首款原生开发Robotaxi”首台工程样车正式下线，项目进入量产级方案实车验证阶段。 这款代号Eva Cab的车并非普通乘用车改装，从......",
-      "source": "Smzdm",
-      "date": "2026-10-20",
-      "url": "https://post.smzdm.com/p/agg5o286/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rx0lk7/",
-      "title": "吉利首款原生Robotaxi工程样车下线：国内无人驾驶三条路线，现在各站在哪",
-      "summary": "10月20日，曹操出行宣布与吉利汽车等合作伙伴联合打造的中国首款原生开发Robotaxi首台工程样车正式下线，项目由此进入量产级方案实车验证阶段。 按照规划，EvaCab曹操出行定制版将于2027年实......",
-      "source": "Smzdm",
-      "date": "2026-10-20",
-      "url": "https://post.smzdm.com/p/a5rx0lk7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgpvm6p/",
-      "title": "吉利首款原生Robotaxi样车下线，未来打车成本能降多少？",
-      "summary": "10月20日，曹操出行官宣：其与吉利汽车等合作伙伴联合打造的中国首款原生开发Robotaxi首台工程样车正式下线，项目由此进入量产级方案实车验证阶段。这款车型英文名EvaCab，曹操出行定制版预计20......",
-      "source": "Smzdm",
-      "date": "2026-10-20",
-      "url": "https://post.smzdm.com/p/avgpvm6p/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3mxrw2d/",
-      "title": "智驾小蓝灯国标将出台，现在入手智驾车型是抄底还是背刺？",
-      "summary": "10月20日，工信部装备工业一司组织全国汽车标准化技术委员会，就《汽车数据安全要求》等五项强制性国家标准制修订公开征求意见，其中《汽车及挂车外部照明和光信号装置的安装要求》是对现行GB 4785—20......",
-      "source": "Smzdm",
-      "date": "2026-10-20",
-      "url": "https://post.smzdm.com/p/a3mxrw2d/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03xvowr/",
-      "title": "宏光MINIEV第200万辆下线！四个配置、两种续航，哪款入手最划算",
-      "summary": "10月20日，上汽通用五菱在广西柳州基地官宣宏光MINIEV第200万辆整车下线——从2020年首台量产算起，用了六年多。太平洋汽车里程碑之外，掏钱的买家关心的是另一件事：在售的第五代车型只有四个配置、指导价4.48万-5.48万元，而眼下渠道正在推金秋......",
-      "source": "Smzdm",
-      "date": "2026-10-20",
-      "url": "https://post.smzdm.com/p/a03xvowr/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg5o2xm/",
-      "title": "吉利首款原生Robotaxi工程样车下线：现在能预约的无人车不是它，什么时候能坐？",
-      "summary": "10月20日正式官宣的，严格说不是“能坐上的车”，而是首台工程样车。国内首款原生开发Robotaxi的首台工程样车正式下线，标志着项目进入量产级方案实车验证阶段。面向曹操出行定制的 Eva Cab 版......",
-      "source": "Smzdm",
-      "date": "2026-10-20",
-      "url": "https://post.smzdm.com/p/agg5o2xm/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879277332367682191",
-      "title": "多型新型装备将同台亮相！中国航展亮点抢先看",
+      "id": "http://baijiahao.baidu.com/s?id=1879663089936221783",
+      "title": "10月21日新闻夜览",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-20",
-      "url": "http://baijiahao.baidu.com/s?id=1879277332367682191"
+      "date": "2026-10-21",
+      "url": "http://baijiahao.baidu.com/s?id=1879663089936221783"
     },
     {
-      "id": "https://www.ithome.com/1/015/606.htm",
-      "title": "自动泊车、泊车组合驾驶辅助新国标将至，工信部征求意见稿明确各分级能力上限",
-      "summary": "IT之家 10 月 20 日消息，工业和信息化部今日发文，按照《中华人民共和国标准化法》和《强制性国家标准管理办法》，工业和信息化部装备工业一司组织全国汽车标准化技术委员会开展了《汽车数据安全要求》等五项强制性国家标准的制修订，已形成征求意见稿，现公开征求社会各界意见。 IT之家注意到，五项强制性国家标准的意见中就包含《智能网联汽车泊车组合驾驶辅助系统安全要求（征求意见稿）》和《智能网联汽车自动泊...",
-      "source": "Ithome",
-      "date": "2026-10-20",
-      "url": "https://www.ithome.com/1/015/606.htm"
+      "id": "http://baijiahao.baidu.com/s?id=1879674482707573391",
+      "title": "川渝两地开展“联动—2026”第七届应急志愿服务综..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-21",
+      "url": "http://baijiahao.baidu.com/s?id=1879674482707573391"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7m7g9n/",
+      "title": "问界M9物理推导车速实测，购车前必看性能真相",
+      "summary": "10月21日，问界用户服务发布关于陕西省榆林神木市车辆事故的说明：2026年10月17日23点25分左右，一辆问界汽车在榆林神木市发生碰撞后起火。 经初步核实，事发时车辆处于人驾状态，行经至交汇路口时......",
+      "source": "Smzdm",
+      "date": "2026-10-21",
+      "url": "https://post.smzdm.com/p/ad7m7g9n/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae6q6wvz/",
+      "title": "吉利杨学良谈甲醇汽车优势：加甲醇难不难？日常补能避坑指南",
+      "summary": "加甲醇难不难？答案取决于车往哪里开、在哪里加。在山西、贵州、东北这些甲醇汽车推广较早的地区，加甲醇和加油差别不大——2025年哈尔滨亚冬会期间，投入服务赛事的醇氢电动汽车加注甲醇时，10升只要20多元......",
+      "source": "Smzdm",
+      "date": "2026-10-21",
+      "url": "https://post.smzdm.com/p/ae6q6wvz/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rxr4o7/",
+      "title": "逐帧测算问界M9车速，网友用的物理公式靠谱吗？",
+      "summary": "公式靠谱，但它测不出全部真相。逐帧测速本身就是交通事故鉴定里的辅助手段之一，网友用的\"距离÷时间\"核心没有错；问题在于，它算出来的只是\"画面里某一段的平均速度\"，而不是\"官方那个数字所指时刻的速度\"。......",
+      "source": "Smzdm",
+      "date": "2026-10-21",
+      "url": "https://post.smzdm.com/p/a5rxr4o7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70p05k5/",
+      "title": "杨学良的甲醇汽车成本账：为什么东北反而比纯电更省？",
+      "summary": "10月21日，在2026可持续全球领导者大会期间，吉利控股集团高级副总裁杨学良与新浪财经对话时给出判断：甲醇汽车正在迎来发展的春天。他的核心论断是一笔成本账：甲醇混动的全生命周期使用成本与纯电基本打平......",
+      "source": "Smzdm",
+      "date": "2026-10-21",
+      "url": "https://post.smzdm.com/p/a70p05k5/"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3784141",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
+      "summary": "NewsData报道",
+      "source": "Wallstreetcn",
+      "date": "2026-10-21",
+      "url": "https://wallstreetcn.com/articles/3784141"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1105914",
+      "title": "中邮证券黄付生：以金融创新托举高端产业链，AI时代中国科技产业盈利曲线有望抬升-FX168",
+      "summary": "10月21日，2026金融街论坛年会期间，中邮证券副总裁、首席经济学家黄付生发表题为《金融创新助力高端产业链崛起》的主旨演讲。他提出，AI产业红利仍处在上游基建阶段，未来应用落地将带来生产效率的系统性跃升；资本市场、多元金融工具正在成为国内硬科技产业突围...",
+      "source": "Fx168News",
+      "date": "2026-10-21",
+      "url": "https://www.fx168news.com/article/1105914"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomvmzlm/",
+      "title": "问界救援中心的一通122登上热搜：新能源车主的事故处理链，每一步都得自己走对",
+      "summary": "10月21日，\"问界用户服务\"就陕西榆林神木市车辆事故发布说明，最先被公众记住的细节不是车速，而是这句话：碰撞发生后，车辆紧急呼叫(eCALL)系统即时触发并接通，同时问界道路救援中心拨打122上报事故信息。 深夜、单方事故、司机已经遇难——这通由车企救......",
+      "source": "Smzdm",
+      "date": "2026-10-21",
+      "url": "https://post.smzdm.com/p/aomvmzlm/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgpgz54/",
+      "title": "超80项全系标配：第二代海鸥上市，指导价6.59万起",
+      "summary": "10月20日，比亚迪第二代海鸥正式上市。海鸥自2023年推出以来，累计销量已超过155万辆，是比亚迪海洋网卖得最好的车型之一，这次换代是它上市两年多来的首次。新车共推出5个版本，官方指导价6.59万元-9.99万元，叠加3000元置换补贴后，置换价为6.......",
+      "source": "Smzdm",
+      "date": "2026-10-21",
+      "url": "https://post.smzdm.com/p/avgpgz54/"
+    },
+    {
+      "id": "https://www.ign.com.cn/one-piece-grand-gourmet/63497/one-piece-hai-yang-sheng-yan-shi-wan-qian-zhan-bie-chu-xin-cai-de-ling-lei-yan-yi-ign-zhong-guo",
+      "title": "《ONE PIECE 海洋盛宴》试玩前瞻：别出心裁的另类演绎｜IGN 中国",
+      "summary": "NewsData报道",
+      "source": "Ign_Cn",
+      "date": "2026-10-21",
+      "url": "https://www.ign.com.cn/one-piece-grand-gourmet/63497/one-piece-hai-yang-sheng-yan-shi-wan-qian-zhan-bie-chu-xin-cai-de-ling-lei-yan-yi-ign-zhong-guo"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879665610187625456",
+      "title": "位置分享、AI语音之后，为何轮到“交易”？特斯拉中..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-21",
+      "url": "http://baijiahao.baidu.com/s?id=1879665610187625456"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261021/herald/a1453e671716e5ef3552bdc48072fac4.html",
+      "title": "黄仁勋，重磅演讲来了",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-21",
+      "url": "https://www.21jingji.com/article/20261021/herald/a1453e671716e5ef3552bdc48072fac4.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70p0z09/",
+      "title": "2028年L4自动驾驶规模化拐点将至，现在买智驾车是早鸟还是韭菜？",
+      "summary": "先给结论：2028年的“L4拐点”指的是自动驾驶商业化运营跨过临界点，而不是你此刻下单的智驾车能变成“放手车”。今天买智驾车不是早鸟也不是韭菜——你买到的是一辆责任仍在驾驶员的L2组合驾驶辅助车；为当下体验付钱是早鸟，为“未来门票”付溢价，韭菜风险才是真......",
+      "source": "Smzdm",
+      "date": "2026-10-21",
+      "url": "https://post.smzdm.com/p/a70p0z09/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqmq079/",
+      "title": "10月上市在即，比亚迪第三代秦PLUS能否重塑家轿市场格局？",
+      "summary": "10月16日，比亚迪第三代秦PLUS出现在工信部第412批《道路机动车辆生产企业及产品公告》新产品公示中，多家媒体报道称新车预计10月下旬正式上市。上市日期与价格，王朝网官方账号至今没有给出准信，目前唯一流出过的具体价格是网传的经销商预扣款：8.5万元、......",
+      "source": "Smzdm",
+      "date": "2026-10-21",
+      "url": "https://post.smzdm.com/p/apqmq079/"
+    },
+    {
+      "id": "https://www.prnewswire.co.uk/news-releases/bolt-picks-nvidia-alpamayo-stack-to-drive-its-autonomous-vehicles-across-europe-302915424.html",
+      "title": "Bolt picks NVIDIA Alpamayo Stack to drive its autonomous vehicles across Europe",
+      "summary": "/PRNewswire/ -- Bolt has selected NVIDIA Alpamayo Stack, NVIDIA's full-stack autonomous-driving software, to drive vehicles in its European autonomous......",
+      "source": "PR Newswire UK",
+      "date": "2026-10-21",
+      "url": "https://www.prnewswire.co.uk/news-releases/bolt-picks-nvidia-alpamayo-stack-to-drive-its-autonomous-vehicles-across-europe-302915424.html"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/tech/technology/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks/articleshow/135090491.cms",
+      "title": "Einride expands Nvidia partnership to deploy AI reasoning model for self",
+      "summary": "Self-driving truck company Einride said on Wednesday it would broaden its partnership with Nvidia by testing the chipmaker's AI reasoning model, Alpamayo, in its self-driving vehicles, aiming to speed...",
+      "source": "The Economic Times",
+      "date": "2026-10-21",
+      "url": "https://economictimes.indiatimes.com/tech/technology/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks/articleshow/135090491.cms"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/21/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks",
+      "title": "Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks",
+      "summary": "Oct 21 (Reuters) - Self-driving truck ⁠company Einride said on Wednesday it would broaden its partnership with ⁠Nvidia by testing the chipmaker's AI reasoning model, Alpamayo, ‌in its self-driving veh...",
+      "source": "The Star",
+      "date": "2026-10-21",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/21/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks"
     },
     {
       "id": "https://www.marketscreener.com/news/waymo-to-launch-autonomous-ride-hailing-in-madrid-next-year-ce785cd8db8bf523",
@@ -168,46 +260,6 @@
       "source": "MarketScreener",
       "date": "2026-10-20",
       "url": "https://www.marketscreener.com/news/hyundai-motor-kia-tie-up-for-level-4-autonomous-truck-trial-ce785cdbde8aff2c"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/news/india/innovative-young-indians-transforming-mobility-and-space-tech-driverless-cars-and-martian-batteries/articleshow/135049979.cms",
-      "title": "From driverless cars to Mars-ready batteries, young Indians push tech frontiers",
-      "summary": "Startups like Swaayatt Robots in Bhopal are creating universal autonomous driving technology for various vehicles. Researchers at IIT Hyderabad are developing metal-free batteries that could utilize c...",
-      "source": "The Economic Times",
-      "date": "2026-10-19",
-      "url": "https://economictimes.indiatimes.com/news/india/innovative-young-indians-transforming-mobility-and-space-tech-driverless-cars-and-martian-batteries/articleshow/135049979.cms"
-    },
-    {
-      "id": "https://www.aninews.in/news/national/general-news/from-self-driving-cars-to-mars-energy-young-indians-push-the-frontiers-of-future-technology20261019181048/",
-      "title": "From self-driving cars to Mars energy: Young Indians push the frontiers of future technology",
-      "summary": "From autonomous vehicles navigating roads without a driver to experimental batteries designed to use carbon dioxide in the Martian atmosphere, young Indian innovators are working on technologies that ...",
-      "source": "ANI (Asian News International)",
-      "date": "2026-10-19",
-      "url": "https://www.aninews.in/news/national/general-news/from-self-driving-cars-to-mars-energy-young-indians-push-the-frontiers-of-future-technology20261019181048/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/omoda-jaecoo-to-showcase-purpose-built-l4-robotaxi-bringing-a-new-driverless-mobility-experience-to-global-markets/2447906",
-      "title": "OMODA & JAECOO to Showcase Purpose-Built L4 Robotaxi, Bringing a New Driverless Mobility Experience to Global Markets",
-      "summary": "WUHU, China, Oct. 17, 2026 (GLOBE NEWSWIRE) -- As autonomous driving moves toward large-scale commercial operations, global markets are calling for vehicles purpose-built for fully driverless services...",
-      "source": "The Manila Times",
-      "date": "2026-10-17",
-      "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/omoda-jaecoo-to-showcase-purpose-built-l4-robotaxi-bringing-a-new-driverless-mobility-experience-to-global-markets/2447906"
-    },
-    {
-      "id": "https://www.mirror.co.uk/news/uk-news/uber-wayve-taxi-london-manchester-37780638",
-      "title": "Blow to driverless taxis as fewer than a third of Londoners want them on the road",
-      "summary": "As Uber begins a trial of autonomous vehicles on the streets of Manchester, nearly half of Londoners don't want the self-driving cars operating, a new survey revealed...",
-      "source": "The Mirror",
-      "date": "2026-10-16",
-      "url": "https://www.mirror.co.uk/news/uk-news/uber-wayve-taxi-london-manchester-37780638"
-    },
-    {
-      "id": "https://www.independent.co.uk/tv/news/sleeping-tesla-driver-crashes-into-police-b3068222.html",
-      "title": "Sleeping Tesla driver using self-driving mode crashes into police car",
-      "summary": "A Tesla driver claimed he was asleep at the wheel when his vehicle, in Full Self-Driving mode, plowed into a California Highway Patrol (CHP) vehicle, injuring two officers. The CHP car’s dashcam recor...",
-      "source": "The Independent",
-      "date": "2026-10-16",
-      "url": "https://www.independent.co.uk/tv/news/sleeping-tesla-driver-crashes-into-police-b3068222.html"
     }
   ]
 }
