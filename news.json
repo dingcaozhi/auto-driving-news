@@ -1,201 +1,180 @@
 {
-  "lastUpdated": "2026-10-22 04:19:53",
-  "totalCount": 32,
+  "lastUpdated": "2026-10-23 04:24:05",
+  "totalCount": 22,
   "sources": {
-    "Bilibili": 5,
-    "Bjnews": 1,
+    "Smzdm": 6,
     "Nbd_Cn": 1,
-    "News_Baidu": 3,
-    "Smzdm": 8,
-    "Wallstreetcn": 1,
-    "Fx168News": 1,
-    "Ign_Cn": 1,
-    "21Jingji": 1,
-    "PR Newswire UK": 1,
-    "The Economic Times": 2,
-    "The Star": 1,
-    "MarketScreener": 2,
-    "The Hindu Business Line": 1,
+    "News_Baidu": 4,
+    "21Jingji": 3,
+    "Ithome": 1,
     "The Manila Times": 1,
-    "The Korea Times": 1,
-    "ANI (Asian News International)": 1
+    "CP24 Toronto": 1,
+    "The Star": 1,
+    "TechCrunch": 1,
+    "MarketScreener": 1,
+    "PR Newswire UK": 1,
+    "The Economic Times": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Smni6BEF7",
-      "title": "【B站】POV｜广州公交B1路自动驾驶前方展望 鹿鸣山总站→体育中心部分区间 广汽领程YC6850KHLBEV 自动驾驶",
-      "summary": "拍摄时间:2026.10.21\nPOV｜广州公交B1路自动驾驶前方展望 鹿鸣山总站→体育中心部分区间 广汽领程YC6850KHLBEV 自动驾驶...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/a5rx9mvl/",
+      "title": "杜绝牺牲安全性换上市速度，车企研发与品控逻辑将如何变？",
+      "summary": "10月22日，2026世界智能网联汽车大会上，市场监管总局质量发展局二级巡视员李常青给汽车行业的“速度竞赛”划了监管底线：鼓励企业在前沿技术上攀登高峰，但“要把安全优先原则嵌入研发、验证、迭代全流程，......",
+      "source": "Smzdm",
       "date": "2026-10-22",
-      "url": "https://www.bilibili.com/video/BV1Smni6BEF7"
+      "url": "https://post.smzdm.com/p/a5rx9mvl/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV12Sni6TEk9",
-      "title": "【B站】比亚迪高管透露L3级自动驾驶量产时间",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-22",
-      "url": "https://www.bilibili.com/video/BV12Sni6TEk9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-10-22",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1JsnP6NEZe",
-      "title": "【B站】华为天塌了！智驾小蓝灯不能用了？不过今年华为系的车型基本都是L3级别的自动驾驶车型，就是达不到L3级别的就用不了了",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-10-22",
-      "url": "https://www.bilibili.com/video/BV1JsnP6NEZe"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1jCnJ6MEhU",
-      "title": "【B站】今天体验一下广州“文远知行”无人驾驶",
-      "summary": "第一次坐无人驾驶，体验还是很好的，主要有以下几点。\n1.空间大\n2.座椅能能靠后，可以躺\n3.乘坐感觉舒适稳定\n4.车内噪音较大\n5.空调风比较猛，但温度还是偏高\n6.音响一般般\n7.玻璃没有遮阳\n\n另外我个人认为可以躺下睡觉真的非常舒服，是无人驾驶的一大亮点，本身车上空间大，而且没有司机，坐上去就...",
-      "source": "Bilibili",
-      "date": "2026-10-22",
-      "url": "https://www.bilibili.com/video/BV1jCnJ6MEhU"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1792585682129465.html",
-      "title": "何小鹏：预计L4级自动驾驶最快2028年下半年落地",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-10-21",
-      "url": "https://www.bjnews.com.cn/detail/1792585682129465.html"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-10-21/4611856.html",
-      "title": "同为股份“两连板”后紧急澄清：AI大模型贡献有限，不涉及人形机器人、低空经济",
-      "summary": "在10月20日、21日连续两个交易日涨停后，10月21日晚间，同为股份（SZ002835，股价15.58元，市值34.20亿元）发布股票交易异常波动公告。公司股票于10月20日、21日连续两个交易日收...",
+      "id": "https://www.nbd.com.cn/articles/2026-10-22/4613392.html",
+      "title": "“有投资方深聊通宵后决定入局”，新石器超募一倍融资近4亿美元 CEO余恩源：无人配送进入“春秋时代”",
+      "summary": "“有投资方深聊通宵后决定入局”，新石器超募一倍融资近4亿美元 CEO余恩源：无人配送进入“春秋时代”...",
       "source": "Nbd_Cn",
-      "date": "2026-10-21",
-      "url": "https://www.nbd.com.cn/articles/2026-10-21/4611856.html"
+      "date": "2026-10-22",
+      "url": "https://www.nbd.com.cn/articles/2026-10-22/4613392.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879663089936221783",
-      "title": "10月21日新闻夜览",
+      "id": "http://baijiahao.baidu.com/s?id=1879755767368916883",
+      "title": "能源巨头再度冲击新高 Meta、特斯拉绩后走弱｜今..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-21",
-      "url": "http://baijiahao.baidu.com/s?id=1879663089936221783"
+      "date": "2026-10-22",
+      "url": "http://baijiahao.baidu.com/s?id=1879755767368916883"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879674482707573391",
-      "title": "川渝两地开展“联动—2026”第七届应急志愿服务综..",
+      "id": "http://baijiahao.baidu.com/s?id=1879760236920393906",
+      "title": "开局之年看中国·潮涌荆楚｜一支纳米毛笔，能在微米级..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-21",
-      "url": "http://baijiahao.baidu.com/s?id=1879674482707573391"
+      "date": "2026-10-22",
+      "url": "http://baijiahao.baidu.com/s?id=1879760236920393906"
     },
     {
-      "id": "https://post.smzdm.com/p/ad7m7g9n/",
-      "title": "问界M9物理推导车速实测，购车前必看性能真相",
-      "summary": "10月21日，问界用户服务发布关于陕西省榆林神木市车辆事故的说明：2026年10月17日23点25分左右，一辆问界汽车在榆林神木市发生碰撞后起火。 经初步核实，事发时车辆处于人驾状态，行经至交汇路口时......",
-      "source": "Smzdm",
-      "date": "2026-10-21",
-      "url": "https://post.smzdm.com/p/ad7m7g9n/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae6q6wvz/",
-      "title": "吉利杨学良谈甲醇汽车优势：加甲醇难不难？日常补能避坑指南",
-      "summary": "加甲醇难不难？答案取决于车往哪里开、在哪里加。在山西、贵州、东北这些甲醇汽车推广较早的地区，加甲醇和加油差别不大——2025年哈尔滨亚冬会期间，投入服务赛事的醇氢电动汽车加注甲醇时，10升只要20多元......",
-      "source": "Smzdm",
-      "date": "2026-10-21",
-      "url": "https://post.smzdm.com/p/ae6q6wvz/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rxr4o7/",
-      "title": "逐帧测算问界M9车速，网友用的物理公式靠谱吗？",
-      "summary": "公式靠谱，但它测不出全部真相。逐帧测速本身就是交通事故鉴定里的辅助手段之一，网友用的\"距离÷时间\"核心没有错；问题在于，它算出来的只是\"画面里某一段的平均速度\"，而不是\"官方那个数字所指时刻的速度\"。......",
-      "source": "Smzdm",
-      "date": "2026-10-21",
-      "url": "https://post.smzdm.com/p/a5rxr4o7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a70p05k5/",
-      "title": "杨学良的甲醇汽车成本账：为什么东北反而比纯电更省？",
-      "summary": "10月21日，在2026可持续全球领导者大会期间，吉利控股集团高级副总裁杨学良与新浪财经对话时给出判断：甲醇汽车正在迎来发展的春天。他的核心论断是一笔成本账：甲醇混动的全生命周期使用成本与纯电基本打平......",
-      "source": "Smzdm",
-      "date": "2026-10-21",
-      "url": "https://post.smzdm.com/p/a70p05k5/"
-    },
-    {
-      "id": "https://wallstreetcn.com/articles/3784141",
-      "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
-      "summary": "NewsData报道",
-      "source": "Wallstreetcn",
-      "date": "2026-10-21",
-      "url": "https://wallstreetcn.com/articles/3784141"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1105914",
-      "title": "中邮证券黄付生：以金融创新托举高端产业链，AI时代中国科技产业盈利曲线有望抬升-FX168",
-      "summary": "10月21日，2026金融街论坛年会期间，中邮证券副总裁、首席经济学家黄付生发表题为《金融创新助力高端产业链崛起》的主旨演讲。他提出，AI产业红利仍处在上游基建阶段，未来应用落地将带来生产效率的系统性跃升；资本市场、多元金融工具正在成为国内硬科技产业突围...",
-      "source": "Fx168News",
-      "date": "2026-10-21",
-      "url": "https://www.fx168news.com/article/1105914"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomvmzlm/",
-      "title": "问界救援中心的一通122登上热搜：新能源车主的事故处理链，每一步都得自己走对",
-      "summary": "10月21日，\"问界用户服务\"就陕西榆林神木市车辆事故发布说明，最先被公众记住的细节不是车速，而是这句话：碰撞发生后，车辆紧急呼叫(eCALL)系统即时触发并接通，同时问界道路救援中心拨打122上报事故信息。 深夜、单方事故、司机已经遇难——这通由车企救......",
-      "source": "Smzdm",
-      "date": "2026-10-21",
-      "url": "https://post.smzdm.com/p/aomvmzlm/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgpgz54/",
-      "title": "超80项全系标配：第二代海鸥上市，指导价6.59万起",
-      "summary": "10月20日，比亚迪第二代海鸥正式上市。海鸥自2023年推出以来，累计销量已超过155万辆，是比亚迪海洋网卖得最好的车型之一，这次换代是它上市两年多来的首次。新车共推出5个版本，官方指导价6.59万元-9.99万元，叠加3000元置换补贴后，置换价为6.......",
-      "source": "Smzdm",
-      "date": "2026-10-21",
-      "url": "https://post.smzdm.com/p/avgpgz54/"
-    },
-    {
-      "id": "https://www.ign.com.cn/one-piece-grand-gourmet/63497/one-piece-hai-yang-sheng-yan-shi-wan-qian-zhan-bie-chu-xin-cai-de-ling-lei-yan-yi-ign-zhong-guo",
-      "title": "《ONE PIECE 海洋盛宴》试玩前瞻：别出心裁的另类演绎｜IGN 中国",
-      "summary": "NewsData报道",
-      "source": "Ign_Cn",
-      "date": "2026-10-21",
-      "url": "https://www.ign.com.cn/one-piece-grand-gourmet/63497/one-piece-hai-yang-sheng-yan-shi-wan-qian-zhan-bie-chu-xin-cai-de-ling-lei-yan-yi-ign-zhong-guo"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879665610187625456",
-      "title": "位置分享、AI语音之后，为何轮到“交易”？特斯拉中..",
+      "id": "http://baijiahao.baidu.com/s?id=1879760270471709974",
+      "title": "产业链搬进“四叶草”，特斯拉、罗克韦尔、利勃海尔扎..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-21",
-      "url": "http://baijiahao.baidu.com/s?id=1879665610187625456"
+      "date": "2026-10-22",
+      "url": "http://baijiahao.baidu.com/s?id=1879760270471709974"
     },
     {
-      "id": "https://www.21jingji.com/article/20261021/herald/a1453e671716e5ef3552bdc48072fac4.html",
-      "title": "黄仁勋，重磅演讲来了",
+      "id": "https://www.21jingji.com/article/20261022/herald/464b38df0884cbf39a6d84946c46c801.html",
+      "title": "广东制造挺进“深蓝”，深圳宝安站上产业前沿",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-21",
-      "url": "https://www.21jingji.com/article/20261021/herald/a1453e671716e5ef3552bdc48072fac4.html"
+      "date": "2026-10-22",
+      "url": "https://www.21jingji.com/article/20261022/herald/464b38df0884cbf39a6d84946c46c801.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a70p0z09/",
-      "title": "2028年L4自动驾驶规模化拐点将至，现在买智驾车是早鸟还是韭菜？",
-      "summary": "先给结论：2028年的“L4拐点”指的是自动驾驶商业化运营跨过临界点，而不是你此刻下单的智驾车能变成“放手车”。今天买智驾车不是早鸟也不是韭菜——你买到的是一辆责任仍在驾驶员的L2组合驾驶辅助车；为当下体验付钱是早鸟，为“未来门票”付溢价，韭菜风险才是真......",
-      "source": "Smzdm",
-      "date": "2026-10-21",
-      "url": "https://post.smzdm.com/p/a70p0z09/"
+      "id": "https://www.21jingji.com/article/20261022/herald/09c33c86a7454b4d65926f2f9103ebb7.html",
+      "title": "11月1日起实施！去深圳这样做可能罚300元！",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-22",
+      "url": "https://www.21jingji.com/article/20261022/herald/09c33c86a7454b4d65926f2f9103ebb7.html"
     },
     {
-      "id": "https://post.smzdm.com/p/apqmq079/",
-      "title": "10月上市在即，比亚迪第三代秦PLUS能否重塑家轿市场格局？",
-      "summary": "10月16日，比亚迪第三代秦PLUS出现在工信部第412批《道路机动车辆生产企业及产品公告》新产品公示中，多家媒体报道称新车预计10月下旬正式上市。上市日期与价格，王朝网官方账号至今没有给出准信，目前唯一流出过的具体价格是网传的经销商预扣款：8.5万元、......",
+      "id": "https://post.smzdm.com/p/agg53nn7/",
+      "title": "神木问界起火：灯柱没断，车先烧了——智驾与被动安全到底怎么选",
+      "summary": "陕西榆林神木，10月17日深夜，一辆问界汽车在路口撞上一根方形交通灯立柱后起火，警方对媒体表示，这是一起单方事故，车上仅有驾驶员一人，驾驶员已遇难。 10月21日，“问界用户服务”发布事故说明：事发时......",
       "source": "Smzdm",
+      "date": "2026-10-22",
+      "url": "https://post.smzdm.com/p/agg53nn7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70pm99d/",
+      "title": "交管大队回应问界碰撞起火：调查未定，这5个新能源车碰撞自救误区最要命",
+      "summary": "10月22日，神木市交管大队向媒体给出了第一个关键事实：交通灯柱没被撞断，是车辆起火后把灯柱里面的线烧短路、灯柱被烧得变色，目前正在喷漆。而更早一天问界用户服务发布的《关于陕西省榆林神木市车辆事故的说......",
+      "source": "Smzdm",
+      "date": "2026-10-22",
+      "url": "https://post.smzdm.com/p/a70pm99d/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arzr544g/",
+      "title": "交管大队回应问界汽车碰撞起火事故：车主必看的新能源车险理赔攻略",
+      "summary": "10月22日，陕西神木市交管大队回应“问界汽车撞击交通灯柱后起火”事件：当时车辆起火后把交通灯柱里面的线烧短路了，灯柱被烧得变色，目前正在喷漆。 交管大队同时确认，交通灯柱没有撞断，相关调查仍在进行。......",
+      "source": "Smzdm",
+      "date": "2026-10-22",
+      "url": "https://post.smzdm.com/p/arzr544g/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a956rmnp/",
+      "title": "历年\"赶进度上市\"车型安全数据盘点，短视行为代价几何？",
+      "summary": "10月20日的国务院新闻办公室发布会上，工信部正面确认了行业争议：部分车企确实出现了跟风推出新产品、测试验证不充分等问题。十天之前，工信部会同公安部、生态环境部、市场监管总局联合发布《关于进一步加强汽......",
+      "source": "Smzdm",
+      "date": "2026-10-22",
+      "url": "https://post.smzdm.com/p/a956rmnp/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879764261153463420",
+      "title": "算力成底座、AI进实验室——从第23届中国计算机大..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-22",
+      "url": "http://baijiahao.baidu.com/s?id=1879764261153463420"
+    },
+    {
+      "id": "https://www.ithome.com/1/016/749.htm",
+      "title": "华为官网公布乾崑智驾 ADS 5 各版本配置能力差异，Max 独占漫游巡航辅助 RCA、车位到车位等功能",
+      "summary": "IT之家 10 月 22 日消息，华为乾崑智能汽车解决方案迎来更新，公开了华为乾崑智驾 ADS 5 各版本的差异。 IT之家整理华为乾崑智驾 ADS 5 各版本配置及对应核心功能如下： 硬件配置 华为乾崑智驾 ADS 5 ADS Max ADS Pro ADS SE 激光雷达 896 线双光路图像级激光雷达 舱内激光视觉 Limera — 摄像头 11 个 10 个 毫米波雷达 3 个 / 5 个...",
+      "source": "Ithome",
+      "date": "2026-10-22",
+      "url": "https://www.ithome.com/1/016/749.htm"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261022/herald/392747f65f4f44f08891bd10388761c8.html",
+      "title": "夯实金融版图，激发“光”的力量",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-22",
+      "url": "https://www.21jingji.com/article/20261022/herald/392747f65f4f44f08891bd10388761c8.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg53m3d/",
+      "title": "长春生产+华为智驾，奥迪中国版A8能否重塑豪华车格局？",
+      "summary": "当地时间10月20日，德国《经理人》杂志刊发长文，奥迪将与华为合作，在中国生产下一代A8，并希望通过这次合作重振奥迪一汽工厂。多位消息人士称，中国版A8将获得华为的完整平台支持；华为架构上规划的几款车......",
+      "source": "Smzdm",
+      "date": "2026-10-22",
+      "url": "https://post.smzdm.com/p/agg53m3d/"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/23/business/foreign-business/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs/2452377",
+      "title": "GM targets ‘eyes-off’ autonomous driving for pickups, SUVs",
+      "summary": "GENERAL Motors plans to offer “eyes-off” autonomous driving on its highest-selling, most profitable vehicles — big pickup trucks and SUVs — as it seeks fresh revenue streams from heavy technology inve...",
+      "source": "The Manila Times",
+      "date": "2026-10-22",
+      "url": "https://www.manilatimes.net/2026/10/23/business/foreign-business/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs/2452377"
+    },
+    {
+      "id": "https://www.cp24.com/news/money/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/",
+      "title": "Tesla stock drops as spending pullback clouds AI ambitions",
+      "summary": "Tesla’s shares slid five per cent in premarket trading on Thursday as the EV maker’s reduced capital spending forecast raised questions about the pace of investment behind Elon Musk’s AI, robotics and...",
+      "source": "CP24 Toronto",
+      "date": "2026-10-22",
+      "url": "https://www.cp24.com/news/money/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions",
+      "title": "Tesla drops as spending pullback clouds AI, robotics ambitions",
+      "summary": "Oct 22 (Reuters) - Tesla's shares ⁠slid 5% in premarket trading on Thursday as the ⁠EV maker's reduced capital spending forecast raised questions about the ‌pace of investment behind Elon Musk's AI, r...",
+      "source": "The Star",
+      "date": "2026-10-22",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions"
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "title": "Tesla stars Optimus robot production in California as profit falls 43%",
+      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving....",
+      "source": "TechCrunch",
       "date": "2026-10-21",
-      "url": "https://post.smzdm.com/p/apqmq079/"
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs-ce785cd9dd88f426",
+      "title": "GM targets 'eyes-off' autonomous driving for pickups, SUVs",
+      "summary": "General Motors plans to offer eyes-off autonomous driving on its highest-selling, most profitable vehicles -- big pickup trucks and SUVs -- as it seeks fresh revenue streams from heavy technology......",
+      "source": "MarketScreener",
+      "date": "2026-10-21",
+      "url": "https://www.marketscreener.com/news/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs-ce785cd9dd88f426"
     },
     {
       "id": "https://www.prnewswire.co.uk/news-releases/bolt-picks-nvidia-alpamayo-stack-to-drive-its-autonomous-vehicles-across-europe-302915424.html",
@@ -212,54 +191,6 @@
       "source": "The Economic Times",
       "date": "2026-10-21",
       "url": "https://economictimes.indiatimes.com/tech/technology/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks/articleshow/135090491.cms"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/21/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks",
-      "title": "Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks",
-      "summary": "Oct 21 (Reuters) - Self-driving truck ⁠company Einride said on Wednesday it would broaden its partnership with ⁠Nvidia by testing the chipmaker's AI reasoning model, Alpamayo, ‌in its self-driving veh...",
-      "source": "The Star",
-      "date": "2026-10-21",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/21/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/waymo-to-launch-autonomous-ride-hailing-in-madrid-next-year-ce785cd8db8bf523",
-      "title": "Waymo to launch autonomous ride-hailing in Madrid next year",
-      "summary": "Waymo, Alphabet's autonomous driving unit, plans to launch a fully autonomous ride-hailing service in Spain's Madrid region in 2027, its first deployment in the country, it said on Tuesday.\n......",
-      "source": "MarketScreener",
-      "date": "2026-10-20",
-      "url": "https://www.marketscreener.com/news/waymo-to-launch-autonomous-ride-hailing-in-madrid-next-year-ce785cd8db8bf523"
-    },
-    {
-      "id": "https://www.thehindubusinessline.com/info-tech/cognizant-expands-partnership-with-google-cloud-for-new-gemini-frontier-workforce/article71604010.ece",
-      "title": "Cognizant expands partnership with Google Cloud for new Gemini frontier workforce",
-      "summary": "Cognizant expands Google Cloud Gemini partnership to deploy frontier AI through a global AI Builder workforce, driving enterprise-level autonomous agents....",
-      "source": "The Hindu Business Line",
-      "date": "2026-10-20",
-      "url": "https://www.thehindubusinessline.com/info-tech/cognizant-expands-partnership-with-google-cloud-for-new-gemini-frontier-workforce/article71604010.ece"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/pony-ai-inc-to-report-third-quarter-2026-financial-results-on-november-18-2026/2449465",
-      "title": "PONY AI Inc. to Report Third Quarter 2026 Financial Results on November 18, 2026",
-      "summary": "NEW YORK, Oct. 20, 2026 (GLOBE NEWSWIRE) -- Pony AI Inc. ('Pony.ai” or the 'Company”) (NASDAQ: PONY; HKEX: 2026), a global leader in achieving large-scale mass production and commercialization of auto...",
-      "source": "The Manila Times",
-      "date": "2026-10-20",
-      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/pony-ai-inc-to-report-third-quarter-2026-financial-results-on-november-18-2026/2449465"
-    },
-    {
-      "id": "https://www.koreatimes.co.kr/business/companies/20261020/hyundai-motor-kia-to-launch-level-4-autonomous-truck-trials",
-      "title": "Hyundai Motor, Kia to launch Level 4 autonomous truck trials",
-      "summary": "Hyundai Motor and Kia will test Level 4 autonomous heavy-duty trucks on real-world logistics routes next year, working with domestic self-driving s......",
-      "source": "The Korea Times",
-      "date": "2026-10-20",
-      "url": "https://www.koreatimes.co.kr/business/companies/20261020/hyundai-motor-kia-to-launch-level-4-autonomous-truck-trials"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/hyundai-motor-kia-tie-up-for-level-4-autonomous-truck-trial-ce785cdbde8aff2c",
-      "title": "Hyundai Motor, Kia Tie Up for Level 4 Autonomous Truck Trial",
-      "summary": "Hyundai Motor and sister company Kia will test Level 4 autonomous trucks as they push to advance self-driving technology and pave the way for commercialization, The Korea Times reported on......",
-      "source": "MarketScreener",
-      "date": "2026-10-20",
-      "url": "https://www.marketscreener.com/news/hyundai-motor-kia-tie-up-for-level-4-autonomous-truck-trial-ce785cdbde8aff2c"
     }
   ]
 }
