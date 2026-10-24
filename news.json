@@ -1,140 +1,213 @@
 {
-  "lastUpdated": "2026-10-23 04:24:05",
-  "totalCount": 22,
+  "lastUpdated": "2026-10-24 04:14:40",
+  "totalCount": 27,
   "sources": {
-    "Smzdm": 6,
-    "Nbd_Cn": 1,
-    "News_Baidu": 4,
+    "Bilibili": 5,
     "21Jingji": 3,
+    "Smzdm": 7,
+    "News_Baidu": 2,
     "Ithome": 1,
-    "The Manila Times": 1,
+    "Investing_Cn": 1,
+    "The Verge": 1,
+    "The Manila Times": 2,
+    "The Straits Times": 1,
+    "Shaw Local Enewspapers": 1,
+    "Davenport Quad-City Times": 1,
     "CP24 Toronto": 1,
-    "The Star": 1,
-    "TechCrunch": 1,
-    "MarketScreener": 1,
-    "PR Newswire UK": 1,
-    "The Economic Times": 1
+    "The Star": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/a5rx9mvl/",
-      "title": "杜绝牺牲安全性换上市速度，车企研发与品控逻辑将如何变？",
-      "summary": "10月22日，2026世界智能网联汽车大会上，市场监管总局质量发展局二级巡视员李常青给汽车行业的“速度竞赛”划了监管底线：鼓励企业在前沿技术上攀登高峰，但“要把安全优先原则嵌入研发、验证、迭代全流程，......",
-      "source": "Smzdm",
-      "date": "2026-10-22",
-      "url": "https://post.smzdm.com/p/a5rx9mvl/"
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-24",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-10-22/4613392.html",
-      "title": "“有投资方深聊通宵后决定入局”，新石器超募一倍融资近4亿美元 CEO余恩源：无人配送进入“春秋时代”",
-      "summary": "“有投资方深聊通宵后决定入局”，新石器超募一倍融资近4亿美元 CEO余恩源：无人配送进入“春秋时代”...",
-      "source": "Nbd_Cn",
-      "date": "2026-10-22",
-      "url": "https://www.nbd.com.cn/articles/2026-10-22/4613392.html"
+      "id": "https://www.bilibili.com/video/BV16anh65ED5",
+      "title": "【B站】沃尔沃汽车×英伟达｜自动驾驶，安全先行",
+      "summary": "安全，是沃尔沃的底色，也是每一次合作的起点，与英伟达同行十年，共同推进下一代自动驾驶技术，不只追求“自动”，更要“安全”，让技术服务于人，让安全始终在线。...",
+      "source": "Bilibili",
+      "date": "2026-10-24",
+      "url": "https://www.bilibili.com/video/BV16anh65ED5"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879755767368916883",
-      "title": "能源巨头再度冲击新高 Meta、特斯拉绩后走弱｜今..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-22",
-      "url": "http://baijiahao.baidu.com/s?id=1879755767368916883"
+      "id": "https://www.bilibili.com/video/BV13tJy6hEaS",
+      "title": "【B站】震惊瘫坐！特斯拉，你来真的啊？",
+      "summary": "特斯拉的未来，到底发展到哪一步了？\n这次，作为首批受邀的中国 UP 主之一，走进了特斯拉德州超级工厂。\n没有方向盘的汽车、忙碌的机器人，以及依然在工厂里工作的人，让我看到了一个更具体、也更真实的未来。...",
+      "source": "Bilibili",
+      "date": "2026-10-24",
+      "url": "https://www.bilibili.com/video/BV13tJy6hEaS"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879760236920393906",
-      "title": "开局之年看中国·潮涌荆楚｜一支纳米毛笔，能在微米级..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-22",
-      "url": "http://baijiahao.baidu.com/s?id=1879760236920393906"
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-10-24",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879760270471709974",
-      "title": "产业链搬进“四叶草”，特斯拉、罗克韦尔、利勃海尔扎..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-22",
-      "url": "http://baijiahao.baidu.com/s?id=1879760270471709974"
+      "id": "https://www.bilibili.com/video/BV1JEhX6fE8V",
+      "title": "【B站】僵尸毁灭工程 自动驾驶MOD｜多站导航、闪丧尸、会车、拖挂车 Minidoracat AutoDrive",
+      "summary": "Project Zomboid（僵尸毁灭工程）Build 42 自动驾驶 MOD「Minidoracat AutoDrive」介绍。\n在地图上点几个目的地、按下自动驾驶，车子就会沿着导航路线一站一站开过去。\n\n▶ Steam 创意工坊搜索：Minidoracat AutoDrive（ID 37926...",
+      "source": "Bilibili",
+      "date": "2026-10-24",
+      "url": "https://www.bilibili.com/video/BV1JEhX6fE8V"
     },
     {
-      "id": "https://www.21jingji.com/article/20261022/herald/464b38df0884cbf39a6d84946c46c801.html",
-      "title": "广东制造挺进“深蓝”，深圳宝安站上产业前沿",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-22",
-      "url": "https://www.21jingji.com/article/20261022/herald/464b38df0884cbf39a6d84946c46c801.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261022/herald/09c33c86a7454b4d65926f2f9103ebb7.html",
-      "title": "11月1日起实施！去深圳这样做可能罚300元！",
+      "id": "https://www.21jingji.com/article/20261024/a7e63e056e0513e627c91e9771291c68.html",
+      "title": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不”",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-22",
-      "url": "https://www.21jingji.com/article/20261022/herald/09c33c86a7454b4d65926f2f9103ebb7.html"
+      "date": "2026-10-23",
+      "url": "https://www.21jingji.com/article/20261024/a7e63e056e0513e627c91e9771291c68.html"
     },
     {
-      "id": "https://post.smzdm.com/p/agg53nn7/",
-      "title": "神木问界起火：灯柱没断，车先烧了——智驾与被动安全到底怎么选",
-      "summary": "陕西榆林神木，10月17日深夜，一辆问界汽车在路口撞上一根方形交通灯立柱后起火，警方对媒体表示，这是一起单方事故，车上仅有驾驶员一人，驾驶员已遇难。 10月21日，“问界用户服务”发布事故说明：事发时......",
+      "id": "https://www.21jingji.com/article/20261024/edcacd616854c96c2e368f223e633be4.html",
+      "title": "新石器创始人余恩源 北京无人物流车队拿下100亿融资",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-23",
+      "url": "https://www.21jingji.com/article/20261024/edcacd616854c96c2e368f223e633be4.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a9563x9o/",
+      "title": "一文看懂吉利2027款博越GEEA3.0架构，车机与智驾能越级吗？",
+      "summary": "10月23日晚，2027款吉利博越在景德镇正式上市，推出4款版型，官方指导价8.59-10.69万元，叠加现金补贴后上市限时价7.89-9.99万元。 这是博越车系走到第十个年头的一次年度改款，官方把......",
       "source": "Smzdm",
-      "date": "2026-10-22",
-      "url": "https://post.smzdm.com/p/agg53nn7/"
+      "date": "2026-10-23",
+      "url": "https://post.smzdm.com/p/a9563x9o/"
     },
     {
-      "id": "https://post.smzdm.com/p/a70pm99d/",
-      "title": "交管大队回应问界碰撞起火：调查未定，这5个新能源车碰撞自救误区最要命",
-      "summary": "10月22日，神木市交管大队向媒体给出了第一个关键事实：交通灯柱没被撞断，是车辆起火后把灯柱里面的线烧短路、灯柱被烧得变色，目前正在喷漆。而更早一天问界用户服务发布的《关于陕西省榆林神木市车辆事故的说......",
+      "id": "https://www.21jingji.com/article/20261024/95173cb64f8e3f0427d69981e2439077.html",
+      "title": "广西“软硬联通”：让过境货落地，让中国标准出海",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-23",
+      "url": "https://www.21jingji.com/article/20261024/95173cb64f8e3f0427d69981e2439077.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/agg5e667/",
+      "title": "吉利新车官宣：10月23日即将上市，预估7万元左右",
+      "summary": "10月23日，吉利汽车发布了新车2027款缤越超能版的内饰图，并官宣即将上市。这是一台A0级入门燃油小型SUV，属于年度中期改款。如今的缤越家族有两条产品线，其中缤越超能版主打低价家用代步，缤越L是更......",
       "source": "Smzdm",
-      "date": "2026-10-22",
-      "url": "https://post.smzdm.com/p/a70pm99d/"
+      "date": "2026-10-23",
+      "url": "https://post.smzdm.com/p/agg5e667/"
     },
     {
-      "id": "https://post.smzdm.com/p/arzr544g/",
-      "title": "交管大队回应问界汽车碰撞起火事故：车主必看的新能源车险理赔攻略",
-      "summary": "10月22日，陕西神木市交管大队回应“问界汽车撞击交通灯柱后起火”事件：当时车辆起火后把交通灯柱里面的线烧短路了，灯柱被烧得变色，目前正在喷漆。 交管大队同时确认，交通灯柱没有撞断，相关调查仍在进行。......",
+      "id": "https://post.smzdm.com/p/aqrqv4pp/",
+      "title": "不止能越野，27款坦克500拓宽硬派的边界",
+      "summary": "现在的硬派越野车，已经不是只靠一副硬朗的外观和强悍的越野能力打天下了！尤其是到了30万级，消费者既想要翻山越岭的底气，也不愿意牺牲日常用车的舒适性和智能化体验。今天27款坦克500正式上市，33.5万......",
       "source": "Smzdm",
-      "date": "2026-10-22",
-      "url": "https://post.smzdm.com/p/arzr544g/"
+      "date": "2026-10-23",
+      "url": "https://post.smzdm.com/p/aqrqv4pp/"
     },
     {
-      "id": "https://post.smzdm.com/p/a956rmnp/",
-      "title": "历年\"赶进度上市\"车型安全数据盘点，短视行为代价几何？",
-      "summary": "10月20日的国务院新闻办公室发布会上，工信部正面确认了行业争议：部分车企确实出现了跟风推出新产品、测试验证不充分等问题。十天之前，工信部会同公安部、生态环境部、市场监管总局联合发布《关于进一步加强汽......",
-      "source": "Smzdm",
-      "date": "2026-10-22",
-      "url": "https://post.smzdm.com/p/a956rmnp/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879764261153463420",
-      "title": "算力成底座、AI进实验室——从第23届中国计算机大..",
+      "id": "http://baijiahao.baidu.com/s?id=1879842809857993267",
+      "title": "武汉地铁12号线即将画圆，二期工程设14座地铁站，..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-22",
-      "url": "http://baijiahao.baidu.com/s?id=1879764261153463420"
+      "date": "2026-10-23",
+      "url": "http://baijiahao.baidu.com/s?id=1879842809857993267"
     },
     {
-      "id": "https://www.ithome.com/1/016/749.htm",
-      "title": "华为官网公布乾崑智驾 ADS 5 各版本配置能力差异，Max 独占漫游巡航辅助 RCA、车位到车位等功能",
-      "summary": "IT之家 10 月 22 日消息，华为乾崑智能汽车解决方案迎来更新，公开了华为乾崑智驾 ADS 5 各版本的差异。 IT之家整理华为乾崑智驾 ADS 5 各版本配置及对应核心功能如下： 硬件配置 华为乾崑智驾 ADS 5 ADS Max ADS Pro ADS SE 激光雷达 896 线双光路图像级激光雷达 舱内激光视觉 Limera — 摄像头 11 个 10 个 毫米波雷达 3 个 / 5 个...",
+      "id": "http://baijiahao.baidu.com/s?id=1879855926972457211",
+      "title": "新石器完成近4亿美元E轮融资 无人配送车市场加速迈..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-23",
+      "url": "http://baijiahao.baidu.com/s?id=1879855926972457211"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a26xpm82/",
+      "title": "27款坦克500增配不加价：33.5万起，它洗不动硬派越野的牌桌",
+      "summary": "10月23日晚，2027款坦克500正式上市，四个版本指导价33.5万至37.5万元，与上一款车型的价格区间完全重合。官方将这次焕新定义为更豪华、更全域、更安全，覆盖软硬件及安全冗余的296项优化升级，多家媒体把它概括为\"增配不加价\"。新浪微博新浪微博新......",
+      "source": "Smzdm",
+      "date": "2026-10-23",
+      "url": "https://post.smzdm.com/p/a26xpm82/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgp043m/",
+      "title": "东风风神L8+限时12.99万起上市：想买到700TOPS旗舰智驾，先看版本差价",
+      "summary": "10月23日，东风风神L8+正式上市，四款车型限时置换价12.99万元—15.99万元，厂商指导价则为13.99万元—16.99万元。但这句“12.99万起”的门槛很明确：想要从13.99万元的入门价降到13万元以内，必须完成旧车置换，才能享受1万元厂家......",
+      "source": "Smzdm",
+      "date": "2026-10-23",
+      "url": "https://post.smzdm.com/p/avgp043m/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgp04om/",
+      "title": "27款坦克500上市33.5万起：不是27款车，而是4款车型，296项升级升在哪",
+      "summary": "10月23日晚，长城坦克的\"27款坦克500\"正式上市，官方宣布售价33.5万元起，这轮年度改款的主打词是\"增配不加价\"。先把标题里最容易误读的一点说清：\"27\"指的是2027年款，不是27款车型——......",
+      "source": "Smzdm",
+      "date": "2026-10-23",
+      "url": "https://post.smzdm.com/p/avgp04om/"
+    },
+    {
+      "id": "https://www.ithome.com/1/017/278.htm",
+      "title": "男子醉酒后车机自动报警被判不构成自首：系统可以替你报警但不能替你自首",
+      "summary": "感谢IT之家网友 软媒新友2481472 的线索投递！ IT之家 10 月 23 日消息，由于把“110”设成紧急联系人，浙江一男子醉驾后，车辆发现异常上报给车企紧急救援中心并自动报警，后续被民警当场查获。该男子显然不服，并辩称这属于自首。 那么，这类车机触发的报警，法律上到底能不能认定为自首？据央视《法治在线》今日报道，这类新型醉驾案在法律上不能被认定为自首。车辆紧急救援系统自动拨出的报警电话，...",
       "source": "Ithome",
-      "date": "2026-10-22",
-      "url": "https://www.ithome.com/1/016/749.htm"
+      "date": "2026-10-23",
+      "url": "https://www.ithome.com/1/017/278.htm"
     },
     {
-      "id": "https://www.21jingji.com/article/20261022/herald/392747f65f4f44f08891bd10388761c8.html",
-      "title": "夯实金融版图，激发“光”的力量",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-22",
-      "url": "https://www.21jingji.com/article/20261022/herald/392747f65f4f44f08891bd10388761c8.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg53m3d/",
-      "title": "长春生产+华为智驾，奥迪中国版A8能否重塑豪华车格局？",
-      "summary": "当地时间10月20日，德国《经理人》杂志刊发长文，奥迪将与华为合作，在中国生产下一代A8，并希望通过这次合作重振奥迪一汽工厂。多位消息人士称，中国版A8将获得华为的完整平台支持；华为架构上规划的几款车......",
+      "id": "https://post.smzdm.com/p/agg5ezw6/",
+      "title": "东风风神L8+限时价12.99万起：二胎家庭的周末出行，空间到底成不成？",
+      "summary": "10月23日晚，东风风神L8+正式上市，限时置换价12.99万—15.99万元。先把这个\"+\"号说清楚：新车是风神L8的升级改款车型，车身尺寸与轴距基本沿用现款，\"加\"的重点在辅助驾驶——激光雷达和700TOPS算力只出现在两款高配上。二胎家庭的周末出行......",
       "source": "Smzdm",
+      "date": "2026-10-23",
+      "url": "https://post.smzdm.com/p/agg5ezw6/"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3625271",
+      "title": "Mobileye股价今日为何大幅下跌？",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-10-23",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3625271"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+      "summary": "NHTSA proposes updating federal safety rules to allow cyan lights for autonomous vehicles and remove legacy human-driver requirements like turn signal levers....",
+      "source": "The Verge",
+      "date": "2026-10-23",
+      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/from-physical-ai-to-scaled-deployment-weride-named-among-wicv-2026s-top-10-automotive-ai-application-cases/2452707",
+      "title": "From Physical AI to Scaled Deployment: WeRide Named Among WICV 2026's Top 10 Automotive AI Application Cases",
+      "summary": "WeRide was named among WICV 2026’s 'Top 10 Automotive AI Application Cases of 2026” for its Physical AI flywheel powered by GENESIS and WITT.Founder and CEO Dr. Tony Han shared WeRide’s approach to ap...",
+      "source": "The Manila Times",
+      "date": "2026-10-23",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/from-physical-ai-to-scaled-deployment-weride-named-among-wicv-2026s-top-10-automotive-ai-application-cases/2452707"
+    },
+    {
+      "id": "https://www.straitstimes.com/life/motoring/the-car-expo-returns-with-51-brands-on-oct-24-and-25",
+      "title": "Car Expo: Changan Q05, BYD fleet and Nvidia tech",
+      "summary": "Car Expo features new EVs, BYD fleet deal and Volvo-Mercedes autonomous driving updates in Singapore. Read more at straitstimes.com....",
+      "source": "The Straits Times",
+      "date": "2026-10-23",
+      "url": "https://www.straitstimes.com/life/motoring/the-car-expo-returns-with-51-brands-on-oct-24-and-25"
+    },
+    {
+      "id": "https://www.shawlocal.com/news/2026/10/22/bill-aims-to-study-how-self-driving-vehicles-can-be-integrated-into-public-transit/",
+      "title": "Bill aims to study how self-driving vehicles can be integrated into public transit",
+      "summary": "From Capitol News Illinois: Legislation to test autonomous vehicles in Illinois may come up again in the November veto session, though the lead sponsor of a pilot bill says there’s still a lot of work...",
+      "source": "Shaw Local Enewspapers",
       "date": "2026-10-22",
-      "url": "https://post.smzdm.com/p/agg53m3d/"
+      "url": "https://www.shawlocal.com/news/2026/10/22/bill-aims-to-study-how-self-driving-vehicles-can-be-integrated-into-public-transit/"
+    },
+    {
+      "id": "https://qctimes.com/news/state-regional/government-politics/article_51f31f32-681e-576c-bb6e-ac6dba0a0f9e.html",
+      "title": "Illinois transit looks to integrate self-driving vehicles",
+      "summary": "Rep. Kam Buckner’s House Bill 4663 aims to establish a formal framework for testing and deploying autonomous vehicles in Illinois, restricting initial trials to select counties and prioritizing data c...",
+      "source": "Davenport Quad-City Times",
+      "date": "2026-10-22",
+      "url": "https://qctimes.com/news/state-regional/government-politics/article_51f31f32-681e-576c-bb6e-ac6dba0a0f9e.html"
     },
     {
       "id": "https://www.manilatimes.net/2026/10/23/business/foreign-business/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs/2452377",
@@ -159,38 +232,6 @@
       "source": "The Star",
       "date": "2026-10-22",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions"
-    },
-    {
-      "id": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-      "title": "Tesla stars Optimus robot production in California as profit falls 43%",
-      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving....",
-      "source": "TechCrunch",
-      "date": "2026-10-21",
-      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
-    },
-    {
-      "id": "https://www.marketscreener.com/news/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs-ce785cd9dd88f426",
-      "title": "GM targets 'eyes-off' autonomous driving for pickups, SUVs",
-      "summary": "General Motors plans to offer eyes-off autonomous driving on its highest-selling, most profitable vehicles -- big pickup trucks and SUVs -- as it seeks fresh revenue streams from heavy technology......",
-      "source": "MarketScreener",
-      "date": "2026-10-21",
-      "url": "https://www.marketscreener.com/news/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs-ce785cd9dd88f426"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/bolt-picks-nvidia-alpamayo-stack-to-drive-its-autonomous-vehicles-across-europe-302915424.html",
-      "title": "Bolt picks NVIDIA Alpamayo Stack to drive its autonomous vehicles across Europe",
-      "summary": "/PRNewswire/ -- Bolt has selected NVIDIA Alpamayo Stack, NVIDIA's full-stack autonomous-driving software, to drive vehicles in its European autonomous......",
-      "source": "PR Newswire UK",
-      "date": "2026-10-21",
-      "url": "https://www.prnewswire.co.uk/news-releases/bolt-picks-nvidia-alpamayo-stack-to-drive-its-autonomous-vehicles-across-europe-302915424.html"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/tech/technology/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks/articleshow/135090491.cms",
-      "title": "Einride expands Nvidia partnership to deploy AI reasoning model for self",
-      "summary": "Self-driving truck company Einride said on Wednesday it would broaden its partnership with Nvidia by testing the chipmaker's AI reasoning model, Alpamayo, in its self-driving vehicles, aiming to speed...",
-      "source": "The Economic Times",
-      "date": "2026-10-21",
-      "url": "https://economictimes.indiatimes.com/tech/technology/einride-expands-nvidia-partnership-to-deploy-ai-reasoning-model-for-self-driving-trucks/articleshow/135090491.cms"
     }
   ]
 }
