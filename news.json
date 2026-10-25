@@ -1,13 +1,11 @@
 {
-  "lastUpdated": "2026-10-24 04:14:40",
-  "totalCount": 27,
+  "lastUpdated": "2026-10-25 04:17:39",
+  "totalCount": 30,
   "sources": {
     "Bilibili": 5,
-    "21Jingji": 3,
-    "Smzdm": 7,
-    "News_Baidu": 2,
-    "Ithome": 1,
-    "Investing_Cn": 1,
+    "Smzdm": 11,
+    "News_Baidu": 4,
+    "Cri_Cn": 2,
     "The Verge": 1,
     "The Manila Times": 2,
     "The Straits Times": 1,
@@ -22,152 +20,176 @@
       "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
     },
     {
-      "id": "https://www.bilibili.com/video/BV16anh65ED5",
-      "title": "【B站】沃尔沃汽车×英伟达｜自动驾驶，安全先行",
-      "summary": "安全，是沃尔沃的底色，也是每一次合作的起点，与英伟达同行十年，共同推进下一代自动驾驶技术，不只追求“自动”，更要“安全”，让技术服务于人，让安全始终在线。...",
+      "id": "https://www.bilibili.com/video/BV1Wbnh6jEab",
+      "title": "【B站】L3落地时间敲定，哪些车真能提前满足L3自动驾驶？",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-10-24",
-      "url": "https://www.bilibili.com/video/BV16anh65ED5"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV13tJy6hEaS",
-      "title": "【B站】震惊瘫坐！特斯拉，你来真的啊？",
-      "summary": "特斯拉的未来，到底发展到哪一步了？\n这次，作为首批受邀的中国 UP 主之一，走进了特斯拉德州超级工厂。\n没有方向盘的汽车、忙碌的机器人，以及依然在工厂里工作的人，让我看到了一个更具体、也更真实的未来。...",
-      "source": "Bilibili",
-      "date": "2026-10-24",
-      "url": "https://www.bilibili.com/video/BV13tJy6hEaS"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-10-24",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
+      "date": "2026-10-25",
+      "url": "https://www.bilibili.com/video/BV1Wbnh6jEab"
     },
     {
       "id": "https://www.bilibili.com/video/BV1JEhX6fE8V",
       "title": "【B站】僵尸毁灭工程 自动驾驶MOD｜多站导航、闪丧尸、会车、拖挂车 Minidoracat AutoDrive",
       "summary": "Project Zomboid（僵尸毁灭工程）Build 42 自动驾驶 MOD「Minidoracat AutoDrive」介绍。\n在地图上点几个目的地、按下自动驾驶，车子就会沿着导航路线一站一站开过去。\n\n▶ Steam 创意工坊搜索：Minidoracat AutoDrive（ID 37926...",
       "source": "Bilibili",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "url": "https://www.bilibili.com/video/BV1JEhX6fE8V"
     },
     {
-      "id": "https://www.21jingji.com/article/20261024/a7e63e056e0513e627c91e9771291c68.html",
-      "title": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不”",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-23",
-      "url": "https://www.21jingji.com/article/20261024/a7e63e056e0513e627c91e9771291c68.html"
+      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
+      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
+      "source": "Bilibili",
+      "date": "2026-10-25",
+      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
     },
     {
-      "id": "https://www.21jingji.com/article/20261024/edcacd616854c96c2e368f223e633be4.html",
-      "title": "新石器创始人余恩源 北京无人物流车队拿下100亿融资",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-23",
-      "url": "https://www.21jingji.com/article/20261024/edcacd616854c96c2e368f223e633be4.html"
+      "id": "https://www.bilibili.com/video/BV1nJnp6nESq",
+      "title": "【B站】迈向自动驾驶时代，未来出行方式将被重构",
+      "summary": "自动驾驶将重构未来出行范式。自动驾驶时代到来后，车辆将能够自主完成停车、充电、洗车等，为大家带来更多便捷的出行新体验。...",
+      "source": "Bilibili",
+      "date": "2026-10-25",
+      "url": "https://www.bilibili.com/video/BV1nJnp6nESq"
     },
     {
-      "id": "https://post.smzdm.com/p/a9563x9o/",
-      "title": "一文看懂吉利2027款博越GEEA3.0架构，车机与智驾能越级吗？",
-      "summary": "10月23日晚，2027款吉利博越在景德镇正式上市，推出4款版型，官方指导价8.59-10.69万元，叠加现金补贴后上市限时价7.89-9.99万元。 这是博越车系走到第十个年头的一次年度改款，官方把......",
+      "id": "https://post.smzdm.com/p/axko8wn4/",
+      "title": "美国拟推新规：自动驾驶车亮青绿灯，是科技标配还是光污染",
+      "summary": "10月23日，美国国家公路交通安全管理局（NHTSA）发布联邦机动车安全标准第108号（FMVSS 108）修订提案，拟为搭载自动驾驶系统（ADS）的车辆增设统一的青绿色外部标识灯。 这盏灯不强制安装......",
       "source": "Smzdm",
-      "date": "2026-10-23",
-      "url": "https://post.smzdm.com/p/a9563x9o/"
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/axko8wn4/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261024/95173cb64f8e3f0427d69981e2439077.html",
-      "title": "广西“软硬联通”：让过境货落地，让中国标准出海",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-23",
-      "url": "https://www.21jingji.com/article/20261024/95173cb64f8e3f0427d69981e2439077.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg5e667/",
-      "title": "吉利新车官宣：10月23日即将上市，预估7万元左右",
-      "summary": "10月23日，吉利汽车发布了新车2027款缤越超能版的内饰图，并官宣即将上市。这是一台A0级入门燃油小型SUV，属于年度中期改款。如今的缤越家族有两条产品线，其中缤越超能版主打低价家用代步，缤越L是更......",
+      "id": "https://post.smzdm.com/p/a82pd7qq/",
+      "title": "美国拟新规：自动驾驶车亮青绿灯，不强制但装了就必须统一",
+      "summary": "美国开始为\"没有驾驶员的车\"规定统一的灯光语言。美东时间10月23日，美国国家公路交通安全管理局（NHTSA）推动的新提案拟为自动驾驶汽车引入统一的青绿色（蓝绿色）外部标识灯，让行人、其他驾驶员和执法......",
       "source": "Smzdm",
-      "date": "2026-10-23",
-      "url": "https://post.smzdm.com/p/agg5e667/"
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/a82pd7qq/"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrqv4pp/",
-      "title": "不止能越野，27款坦克500拓宽硬派的边界",
-      "summary": "现在的硬派越野车，已经不是只靠一副硬朗的外观和强悍的越野能力打天下了！尤其是到了30万级，消费者既想要翻山越岭的底气，也不愿意牺牲日常用车的舒适性和智能化体验。今天27款坦克500正式上市，33.5万......",
+      "id": "https://post.smzdm.com/p/anv92w6p/",
+      "title": "美国拟推新规：自动驾驶车亮青绿灯，国内新能源车会跟进吗",
+      "summary": "会跟进，而且在规则层面国内已经先走了一步。10月20日，工信部就《汽车数据安全要求》等五项强制性国家标准公开征求意见，其中GB 4785《汽车及挂车外部照明和光信号装置的安装要求》第四次修订草案首次新......",
       "source": "Smzdm",
-      "date": "2026-10-23",
-      "url": "https://post.smzdm.com/p/aqrqv4pp/"
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/anv92w6p/"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879842809857993267",
-      "title": "武汉地铁12号线即将画圆，二期工程设14座地铁站，..",
+      "id": "https://post.smzdm.com/p/arzr79z7/",
+      "title": "广州新规：电动自行车多次违法可扣车",
+      "summary": "快科技10月24日消息，经过最新一轮修改的《广州市非机动车和摩托车管理规定》已经正式对外公布施行，多项此前有争议的通行管理细则都得到了明确细化。新规新增的第三十五条明确要求，公安机关交通管理部门应当利......",
+      "source": "Smzdm",
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/arzr79z7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03xmrv8/",
+      "title": "车企不能随便“整活儿”了：不搞速成、不整花活、不吹牛...",
+      "summary": "快科技10月24日消息，近期工信部等四部门研究起草的《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》正式对外公布，针对部分车企跟风快速推出新品、上市前测试验证环节走流程......",
+      "source": "Smzdm",
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/a03xmrv8/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879926833312503987",
+      "title": "一批OPC项目签约上海海归小镇，将推“加码版”专项..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-23",
-      "url": "http://baijiahao.baidu.com/s?id=1879842809857993267"
+      "date": "2026-10-24",
+      "url": "http://baijiahao.baidu.com/s?id=1879926833312503987"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879855926972457211",
-      "title": "新石器完成近4亿美元E轮融资 无人配送车市场加速迈..",
+      "id": "https://post.smzdm.com/p/anv92wq2/",
+      "title": "拆解特斯拉坠桥AI视频：当前AI生成技术究竟多逼真",
+      "summary": "一条特斯拉Roadster从旧金山金门大桥坠下、在海面上方点火又飞回桥面的视频，这两天在小红书、B站和抖音上刷屏。10月23日傍晚，一条微博给它配上了斩钉截铁的解说“这不是AI制作，是真实发生的测试”。 这条视频截至10月24日已播了约24万次，收获近千......",
+      "source": "Smzdm",
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/anv92wq2/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am930dxv/",
+      "title": "宾利如何造出史上最快SUV？核心技术拆解与性能密码",
+      "summary": "这个热榜的主角是宾利首款纯电SUV托卡尔（Torcal）：这个107年品牌继欧陆GT、飞驰、添越之后的第四个车系、第一款纯电量产车，2026年9月23日在伦敦全球首秀，次日公布中国市场建议零售价198.8万元起。新浪微博哔哩哔哩标题里的“史上最快”，对应......",
+      "source": "Smzdm",
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/am930dxv/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az8o9w6r/",
+      "title": "特斯拉坠桥视频确认为AI生成：坠下67米“腾空飞起”，真车全推力只能撑约6秒",
+      "summary": "一辆特斯拉Roadster跑车从金门大桥坠下，向约67米下的水面自由落体，下一秒竟逆势腾空、飞回桥面——这两天，这段\"违背物理学\"的视频在社交平台刷屏。它的真实性已基本落定：这不是真实测试，而是AI生成的虚假内容，画面模糊晃动、破绽百出，已被多家辟谣。连......",
+      "source": "Smzdm",
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/az8o9w6r/"
+    },
+    {
+      "id": "https://news.cri.cn/20261024/63ca4965-b458-40f9-8e1f-50b3afb7e014.html",
+      "title": "“机甲”上身，创意上桌！AI这样改变制造|APEC在湾区",
+      "summary": "穿上一副外骨骼机器人，是什么感觉？ 记者的体验是：奔跑更轻快，下蹲有支撑，连爬几层楼梯都不怎么喘气。每抬一次腿，膝关节处的电机便悄然发力；每一次落地，又稳稳托住身体。这套以往只在科幻电影里出现的“机甲”，如今已在深圳一家外骨骼机器人企...",
+      "source": "Cri_Cn",
+      "date": "2026-10-24",
+      "url": "https://news.cri.cn/20261024/63ca4965-b458-40f9-8e1f-50b3afb7e014.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a82pd75l/",
+      "title": "跨越双舰的青春：辽宁舰老兵如何为山东舰传帮带？",
+      "summary": "所谓双舰\"传帮带\"，并不是一段应景的温情故事，而是人民海军在山东舰接装组建期就落地的人才转移机制：一批辽宁舰老兵随接舰部队调往新舰，接手起飞、阻拦等关键区队长战位，把在辽宁舰上积累多年的操作经验和安全标准带到了新舰上。今年10月，海军官宣辽宁舰航母编队再......",
+      "source": "Smzdm",
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/a82pd75l/"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879933694262914312",
+      "title": "花16元叫代驾，撞出20万“天价账单”，平台迟迟不..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-23",
-      "url": "http://baijiahao.baidu.com/s?id=1879855926972457211"
+      "date": "2026-10-24",
+      "url": "http://baijiahao.baidu.com/s?id=1879933694262914312"
     },
     {
-      "id": "https://post.smzdm.com/p/a26xpm82/",
-      "title": "27款坦克500增配不加价：33.5万起，它洗不动硬派越野的牌桌",
-      "summary": "10月23日晚，2027款坦克500正式上市，四个版本指导价33.5万至37.5万元，与上一款车型的价格区间完全重合。官方将这次焕新定义为更豪华、更全域、更安全，覆盖软硬件及安全冗余的296项优化升级，多家媒体把它概括为\"增配不加价\"。新浪微博新浪微博新......",
+      "id": "https://news.cri.cn/20261024/24b1ef86-d0af-4b46-bef3-b2972c699599.html",
+      "title": "雄安，向世界亮出未来之城名片",
+      "summary": "近日拍摄的雄安新区容东片区金湖公园附近景观。（雄安新区宣传网信局提供） 白洋淀上清波荡漾，未来之城敞开大门。 10月23日，2026全球治理论坛（雄安）在河北雄安新区拉开帷幕。来自90多个国家的180余名外宾，连同国内各界代表齐聚淀...",
+      "source": "Cri_Cn",
+      "date": "2026-10-24",
+      "url": "https://news.cri.cn/20261024/24b1ef86-d0af-4b46-bef3-b2972c699599.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrqd37p/",
+      "title": "一台硬派越野，为什么能陪一家人走十年？",
+      "summary": "2014年11月，初代哈弗H9在广州车展上市，22.98万元起，非承载式车身、四驱、七座。在那个年代，这个价位能买到这样配置的国产车，并不多见。很多人当时心里打鼓，一台国产硬派SUV卖到这个价，真有人买吗？时间给出了答案。十多年过去，H9车主群里常聊的不......",
       "source": "Smzdm",
-      "date": "2026-10-23",
-      "url": "https://post.smzdm.com/p/a26xpm82/"
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/aqrqd37p/"
     },
     {
-      "id": "https://post.smzdm.com/p/avgp043m/",
-      "title": "东风风神L8+限时12.99万起上市：想买到700TOPS旗舰智驾，先看版本差价",
-      "summary": "10月23日，东风风神L8+正式上市，四款车型限时置换价12.99万元—15.99万元，厂商指导价则为13.99万元—16.99万元。但这句“12.99万起”的门槛很明确：想要从13.99万元的入门价降到13万元以内，必须完成旧车置换，才能享受1万元厂家......",
-      "source": "Smzdm",
-      "date": "2026-10-23",
-      "url": "https://post.smzdm.com/p/avgp043m/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgp04om/",
-      "title": "27款坦克500上市33.5万起：不是27款车，而是4款车型，296项升级升在哪",
-      "summary": "10月23日晚，长城坦克的\"27款坦克500\"正式上市，官方宣布售价33.5万元起，这轮年度改款的主打词是\"增配不加价\"。先把标题里最容易误读的一点说清：\"27\"指的是2027年款，不是27款车型——......",
-      "source": "Smzdm",
-      "date": "2026-10-23",
-      "url": "https://post.smzdm.com/p/avgp04om/"
-    },
-    {
-      "id": "https://www.ithome.com/1/017/278.htm",
-      "title": "男子醉酒后车机自动报警被判不构成自首：系统可以替你报警但不能替你自首",
-      "summary": "感谢IT之家网友 软媒新友2481472 的线索投递！ IT之家 10 月 23 日消息，由于把“110”设成紧急联系人，浙江一男子醉驾后，车辆发现异常上报给车企紧急救援中心并自动报警，后续被民警当场查获。该男子显然不服，并辩称这属于自首。 那么，这类车机触发的报警，法律上到底能不能认定为自首？据央视《法治在线》今日报道，这类新型醉驾案在法律上不能被认定为自首。车辆紧急救援系统自动拨出的报警电话，...",
-      "source": "Ithome",
-      "date": "2026-10-23",
-      "url": "https://www.ithome.com/1/017/278.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg5ezw6/",
-      "title": "东风风神L8+限时价12.99万起：二胎家庭的周末出行，空间到底成不成？",
-      "summary": "10月23日晚，东风风神L8+正式上市，限时置换价12.99万—15.99万元。先把这个\"+\"号说清楚：新车是风神L8的升级改款车型，车身尺寸与轴距基本沿用现款，\"加\"的重点在辅助驾驶——激光雷达和700TOPS算力只出现在两款高配上。二胎家庭的周末出行......",
-      "source": "Smzdm",
-      "date": "2026-10-23",
-      "url": "https://post.smzdm.com/p/agg5ezw6/"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3625271",
-      "title": "Mobileye股价今日为何大幅下跌？",
+      "id": "http://baijiahao.baidu.com/s?id=1879833122263569739",
+      "title": "成渝双城携手破局跨省空域协同，成都科创生态岛精准构..",
       "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-10-23",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3625271"
+      "source": "News_Baidu",
+      "date": "2026-10-24",
+      "url": "http://baijiahao.baidu.com/s?id=1879833122263569739"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879941945760920332",
+      "title": "模速Pitch Day | 给「AI+先进制造」装..",
+      "summary": "10月23日下午，「模速Pitch Day」第二期「AI+先进制造」投融资专场活动在WTCC 2026新品发布舞台举行。 本次活动由模速空间联合上海国投先导主办，顶尖智库、硬核创业者、一线VC与国有......",
+      "source": "News_Baidu",
+      "date": "2026-10-24",
+      "url": "http://baijiahao.baidu.com/s?id=1879941945760920332"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8lr6q8/",
+      "title": "魏牌高山8HEV定档10月26日上市：一场\"不充电\"的发布会，砍掉了什么、又留下了什么",
+      "summary": "长城魏牌已经官宣，高山8HEV的上市发布会定档2026年10月26日11:00。 它已在10月19日开启预订，预订价27.58万元起，走的是无需外接充电的油电混动路线：悬挂蓝牌、只加油，与在售的高山P......",
+      "source": "Smzdm",
+      "date": "2026-10-24",
+      "url": "https://post.smzdm.com/p/ak8lr6q8/"
     },
     {
       "id": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
