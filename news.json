@@ -1,11 +1,13 @@
 {
-  "lastUpdated": "2026-10-25 04:17:39",
-  "totalCount": 30,
+  "lastUpdated": "2026-10-26 04:21:32",
+  "totalCount": 24,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 11,
-    "News_Baidu": 4,
-    "Cri_Cn": 2,
+    "News_Baidu": 7,
+    "Eeo": 1,
+    "Smzdm": 4,
+    "Imobile": 1,
+    "Nbd_Cn": 2,
+    "Ithome": 1,
     "The Verge": 1,
     "The Manila Times": 2,
     "The Straits Times": 1,
@@ -16,180 +18,132 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-25",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Wbnh6jEab",
-      "title": "【B站】L3落地时间敲定，哪些车真能提前满足L3自动驾驶？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-10-25",
-      "url": "https://www.bilibili.com/video/BV1Wbnh6jEab"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1JEhX6fE8V",
-      "title": "【B站】僵尸毁灭工程 自动驾驶MOD｜多站导航、闪丧尸、会车、拖挂车 Minidoracat AutoDrive",
-      "summary": "Project Zomboid（僵尸毁灭工程）Build 42 自动驾驶 MOD「Minidoracat AutoDrive」介绍。\n在地图上点几个目的地、按下自动驾驶，车子就会沿着导航路线一站一站开过去。\n\n▶ Steam 创意工坊搜索：Minidoracat AutoDrive（ID 37926...",
-      "source": "Bilibili",
-      "date": "2026-10-25",
-      "url": "https://www.bilibili.com/video/BV1JEhX6fE8V"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1AFhA6fEGK",
-      "title": "【B站】L3 自动驾驶，又是狼来了吗？",
-      "summary": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。\n\n近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。\n\n可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么...",
-      "source": "Bilibili",
-      "date": "2026-10-25",
-      "url": "https://www.bilibili.com/video/BV1AFhA6fEGK"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1nJnp6nESq",
-      "title": "【B站】迈向自动驾驶时代，未来出行方式将被重构",
-      "summary": "自动驾驶将重构未来出行范式。自动驾驶时代到来后，车辆将能够自主完成停车、充电、洗车等，为大家带来更多便捷的出行新体验。...",
-      "source": "Bilibili",
-      "date": "2026-10-25",
-      "url": "https://www.bilibili.com/video/BV1nJnp6nESq"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axko8wn4/",
-      "title": "美国拟推新规：自动驾驶车亮青绿灯，是科技标配还是光污染",
-      "summary": "10月23日，美国国家公路交通安全管理局（NHTSA）发布联邦机动车安全标准第108号（FMVSS 108）修订提案，拟为搭载自动驾驶系统（ADS）的车辆增设统一的青绿色外部标识灯。 这盏灯不强制安装......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/axko8wn4/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a82pd7qq/",
-      "title": "美国拟新规：自动驾驶车亮青绿灯，不强制但装了就必须统一",
-      "summary": "美国开始为\"没有驾驶员的车\"规定统一的灯光语言。美东时间10月23日，美国国家公路交通安全管理局（NHTSA）推动的新提案拟为自动驾驶汽车引入统一的青绿色（蓝绿色）外部标识灯，让行人、其他驾驶员和执法......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/a82pd7qq/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anv92w6p/",
-      "title": "美国拟推新规：自动驾驶车亮青绿灯，国内新能源车会跟进吗",
-      "summary": "会跟进，而且在规则层面国内已经先走了一步。10月20日，工信部就《汽车数据安全要求》等五项强制性国家标准公开征求意见，其中GB 4785《汽车及挂车外部照明和光信号装置的安装要求》第四次修订草案首次新......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/anv92w6p/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzr79z7/",
-      "title": "广州新规：电动自行车多次违法可扣车",
-      "summary": "快科技10月24日消息，经过最新一轮修改的《广州市非机动车和摩托车管理规定》已经正式对外公布施行，多项此前有争议的通行管理细则都得到了明确细化。新规新增的第三十五条明确要求，公安机关交通管理部门应当利......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/arzr79z7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03xmrv8/",
-      "title": "车企不能随便“整活儿”了：不搞速成、不整花活、不吹牛...",
-      "summary": "快科技10月24日消息，近期工信部等四部门研究起草的《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》正式对外公布，针对部分车企跟风快速推出新品、上市前测试验证环节走流程......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/a03xmrv8/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879926833312503987",
-      "title": "一批OPC项目签约上海海归小镇，将推“加码版”专项..",
+      "id": "http://baijiahao.baidu.com/s?id=1880029036988603698",
+      "title": "MiniMax M3.1 Flash上线；豆包月活..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-24",
-      "url": "http://baijiahao.baidu.com/s?id=1879926833312503987"
+      "date": "2026-10-25",
+      "url": "http://baijiahao.baidu.com/s?id=1880029036988603698"
     },
     {
-      "id": "https://post.smzdm.com/p/anv92wq2/",
-      "title": "拆解特斯拉坠桥AI视频：当前AI生成技术究竟多逼真",
-      "summary": "一条特斯拉Roadster从旧金山金门大桥坠下、在海面上方点火又飞回桥面的视频，这两天在小红书、B站和抖音上刷屏。10月23日傍晚，一条微博给它配上了斩钉截铁的解说“这不是AI制作，是真实发生的测试”。 这条视频截至10月24日已播了约24万次，收获近千......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/anv92wq2/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am930dxv/",
-      "title": "宾利如何造出史上最快SUV？核心技术拆解与性能密码",
-      "summary": "这个热榜的主角是宾利首款纯电SUV托卡尔（Torcal）：这个107年品牌继欧陆GT、飞驰、添越之后的第四个车系、第一款纯电量产车，2026年9月23日在伦敦全球首秀，次日公布中国市场建议零售价198.8万元起。新浪微博哔哩哔哩标题里的“史上最快”，对应......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/am930dxv/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/az8o9w6r/",
-      "title": "特斯拉坠桥视频确认为AI生成：坠下67米“腾空飞起”，真车全推力只能撑约6秒",
-      "summary": "一辆特斯拉Roadster跑车从金门大桥坠下，向约67米下的水面自由落体，下一秒竟逆势腾空、飞回桥面——这两天，这段\"违背物理学\"的视频在社交平台刷屏。它的真实性已基本落定：这不是真实测试，而是AI生成的虚假内容，画面模糊晃动、破绽百出，已被多家辟谣。连......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/az8o9w6r/"
-    },
-    {
-      "id": "https://news.cri.cn/20261024/63ca4965-b458-40f9-8e1f-50b3afb7e014.html",
-      "title": "“机甲”上身，创意上桌！AI这样改变制造|APEC在湾区",
-      "summary": "穿上一副外骨骼机器人，是什么感觉？ 记者的体验是：奔跑更轻快，下蹲有支撑，连爬几层楼梯都不怎么喘气。每抬一次腿，膝关节处的电机便悄然发力；每一次落地，又稳稳托住身体。这套以往只在科幻电影里出现的“机甲”，如今已在深圳一家外骨骼机器人企...",
-      "source": "Cri_Cn",
-      "date": "2026-10-24",
-      "url": "https://news.cri.cn/20261024/63ca4965-b458-40f9-8e1f-50b3afb7e014.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a82pd75l/",
-      "title": "跨越双舰的青春：辽宁舰老兵如何为山东舰传帮带？",
-      "summary": "所谓双舰\"传帮带\"，并不是一段应景的温情故事，而是人民海军在山东舰接装组建期就落地的人才转移机制：一批辽宁舰老兵随接舰部队调往新舰，接手起飞、阻拦等关键区队长战位，把在辽宁舰上积累多年的操作经验和安全标准带到了新舰上。今年10月，海军官宣辽宁舰航母编队再......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/a82pd75l/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879933694262914312",
-      "title": "花16元叫代驾，撞出20万“天价账单”，平台迟迟不..",
+      "id": "http://baijiahao.baidu.com/s?id=1880026803047395718",
+      "title": "2026年交通法学研究会年会召开",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-24",
-      "url": "http://baijiahao.baidu.com/s?id=1879933694262914312"
+      "date": "2026-10-25",
+      "url": "http://baijiahao.baidu.com/s?id=1880026803047395718"
     },
     {
-      "id": "https://news.cri.cn/20261024/24b1ef86-d0af-4b46-bef3-b2972c699599.html",
-      "title": "雄安，向世界亮出未来之城名片",
-      "summary": "近日拍摄的雄安新区容东片区金湖公园附近景观。（雄安新区宣传网信局提供） 白洋淀上清波荡漾，未来之城敞开大门。 10月23日，2026全球治理论坛（雄安）在河北雄安新区拉开帷幕。来自90多个国家的180余名外宾，连同国内各界代表齐聚淀...",
-      "source": "Cri_Cn",
-      "date": "2026-10-24",
-      "url": "https://news.cri.cn/20261024/24b1ef86-d0af-4b46-bef3-b2972c699599.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrqd37p/",
-      "title": "一台硬派越野，为什么能陪一家人走十年？",
-      "summary": "2014年11月，初代哈弗H9在广州车展上市，22.98万元起，非承载式车身、四驱、七座。在那个年代，这个价位能买到这样配置的国产车，并不多见。很多人当时心里打鼓，一台国产硬派SUV卖到这个价，真有人买吗？时间给出了答案。十多年过去，H9车主群里常聊的不......",
-      "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/aqrqd37p/"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879833122263569739",
-      "title": "成渝双城携手破局跨省空域协同，成都科创生态岛精准构..",
+      "id": "http://baijiahao.baidu.com/s?id=1880034152170226751",
+      "title": "从连夜寻人到暖心护送，广州花都公安守护群众“回家路..",
       "summary": "NewsData报道",
       "source": "News_Baidu",
-      "date": "2026-10-24",
-      "url": "http://baijiahao.baidu.com/s?id=1879833122263569739"
+      "date": "2026-10-25",
+      "url": "http://baijiahao.baidu.com/s?id=1880034152170226751"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1879941945760920332",
-      "title": "模速Pitch Day | 给「AI+先进制造」装..",
-      "summary": "10月23日下午，「模速Pitch Day」第二期「AI+先进制造」投融资专场活动在WTCC 2026新品发布舞台举行。 本次活动由模速空间联合上海国投先导主办，顶尖智库、硬核创业者、一线VC与国有......",
-      "source": "News_Baidu",
-      "date": "2026-10-24",
-      "url": "http://baijiahao.baidu.com/s?id=1879941945760920332"
+      "id": "http://www.eeo.com.cn/2026/1025/1075699.shtml",
+      "title": "红旗近700台官方用车交付APEC，新能源车型首次入列国宾车队",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-10-25",
+      "url": "http://www.eeo.com.cn/2026/1025/1075699.shtml"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8lr6q8/",
-      "title": "魏牌高山8HEV定档10月26日上市：一场\"不充电\"的发布会，砍掉了什么、又留下了什么",
-      "summary": "长城魏牌已经官宣，高山8HEV的上市发布会定档2026年10月26日11:00。 它已在10月19日开启预订，预订价27.58万元起，走的是无需外接充电的油电混动路线：悬挂蓝牌、只加油，与在售的高山P......",
+      "id": "https://post.smzdm.com/p/awwol8np/",
+      "title": "红旗G919售34.98万起 四电机增程豪华越野SUV",
+      "summary": "国产硬派豪华越野这个细分市场,这两年真是越来越热闹了,坦克、方程豹、仰望一个个轮番上场,如今作为共和国长子的红旗也终于拿出了自己的重器。10 月 25 日,一汽红旗官宣,旗下全新中大型越野 SUV 红......",
       "source": "Smzdm",
-      "date": "2026-10-24",
-      "url": "https://post.smzdm.com/p/ak8lr6q8/"
+      "date": "2026-10-25",
+      "url": "https://post.smzdm.com/p/awwol8np/"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/1025/235871.shtml",
+      "title": "豪华智慧全地形SUV猛士X700上市限时焕新价20.98万起",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-10-25",
+      "url": "http://news.imobile.com.cn/articles/2026/1025/235871.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7mkqmn/",
+      "title": "直到今天，我才看懂东鹏特饮",
+      "summary": "张雪机车赛季收官，东鹏特饮十年积累迎来高光时刻封面 I 东鹏特饮作者 I 李东阳报道 I 李东阳朋友圈商业的高光，往往有一段漫长的前史。10月18日，随着西班牙赫雷兹站收官战落幕，2026赛季WSBK......",
+      "source": "Smzdm",
+      "date": "2026-10-25",
+      "url": "https://post.smzdm.com/p/ad7mkqmn/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8lq6me/",
+      "title": "Kling 4.0 想拿下专业用户的野心，已经藏不住了",
+      "summary": "作者｜黄小艺**｜H997Hbiu盼望着、盼望着，可灵终于带着它的最新模型来了。10 月 15 日晚，可灵 AI 的 Kling 4.0 正式全量上线，给已经激烈焦灼的视频模型战场又加了一把火。和今年......",
+      "source": "Smzdm",
+      "date": "2026-10-25",
+      "url": "https://post.smzdm.com/p/ak8lq6me/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-10-25/4616908.html",
+      "title": "县委书记回应被张雪“扔”下水；深圳华强北一张显卡报价超5万元；马斯克：乌军违规使用星链致限速，一旦关停乌前线将立刻崩溃丨每经晚参",
+      "summary": "县委书记回应被张雪“扔”下水；深圳华强北一张显卡报价超5万元；马斯克：乌军违规使用星链致限速，一旦关停乌前线将立刻崩溃丨每经晚参...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-25",
+      "url": "https://www.nbd.com.cn/articles/2026-10-25/4616908.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1880029917647481984",
+      "title": "视频丨响应式运营、接驳提质、适老化升级多地探索公..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-25",
+      "url": "http://baijiahao.baidu.com/s?id=1880029917647481984"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879802011010952683",
+      "title": "轿车停在派出所门口，双闪了8分钟，辅警发现车内女子..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-25",
+      "url": "http://baijiahao.baidu.com/s?id=1879802011010952683"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1880028533911789878",
+      "title": "硬核担当保畅通 精细护航盛会行——张家界交通圆满完..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-25",
+      "url": "http://baijiahao.baidu.com/s?id=1880028533911789878"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomv626m/",
+      "title": "综合续航1350km！豪华越野SUV一汽红旗G919上市：34.98万起",
+      "summary": "科技10月25日消息，今日，全新中大型豪华硬派SUV 一汽红旗G919正式上市，新车共推出三款配置版本，官方起售价为34.98万元，顶配限定版售价42.98万元。外观层面，新车依托东方礼制美学进行设计......",
+      "source": "Smzdm",
+      "date": "2026-10-25",
+      "url": "https://post.smzdm.com/p/aomv626m/"
+    },
+    {
+      "id": "https://www.ithome.com/1/017/704.htm",
+      "title": "比亚迪腾势 Z9GT 在香港上市，99.8 万港元",
+      "summary": "IT之家 10 月 25 日消息，比亚迪今天宣布，其旗舰车型 DENZA（腾势） Z9GT 正式登陆香港，官方售价 99.8 万港元（IT之家注：现汇率约合 85.2 万元人民币），为香港高端用户带来全新豪华出行体验。 IT之家从比亚迪公众号了解到，DENZA Z9GT 是香港市场首款搭载极速闪充技术、第二代刀片电池的豪华车型，整车采用优雅的经典 GT 车身设计。 此外，该车搭载 850kW 超高...",
+      "source": "Ithome",
+      "date": "2026-10-25",
+      "url": "https://www.ithome.com/1/017/704.htm"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1880021016205402629",
+      "title": "车在“智驾”人在“梦乡”，路过车友担心出意外忙报警..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-10-25",
+      "url": "http://baijiahao.baidu.com/s?id=1880021016205402629"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-10-25/4616898.html",
+      "title": "张雪在家乡刷新吉尼斯纪录；2027羊年央视春晚总导演为于蕾；实探深圳华强北：一张显卡报价超5万元；我国成功发射卫星互联网低轨28组卫星丨每经晚参",
+      "summary": "张雪在家乡刷新吉尼斯纪录；2027羊年央视春晚总导演为于蕾；实探深圳华强北：一张显卡报价超5万元；我国成功发射卫星互联网低轨28组卫星丨每经晚参...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-25",
+      "url": "https://www.nbd.com.cn/articles/2026-10-25/4616898.html"
     },
     {
       "id": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
