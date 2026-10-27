@@ -1,13 +1,11 @@
 {
-  "lastUpdated": "2026-10-26 04:21:32",
-  "totalCount": 24,
+  "lastUpdated": "2026-10-27 04:40:32",
+  "totalCount": 26,
   "sources": {
-    "News_Baidu": 7,
-    "Eeo": 1,
-    "Smzdm": 4,
-    "Imobile": 1,
-    "Nbd_Cn": 2,
+    "21Jingji": 9,
+    "Smzdm": 7,
     "Ithome": 1,
+    "Fox Business": 1,
     "The Verge": 1,
     "The Manila Times": 2,
     "The Straits Times": 1,
@@ -18,132 +16,148 @@
   },
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1880029036988603698",
-      "title": "MiniMax M3.1 Flash上线；豆包月活..",
+      "id": "https://www.21jingji.com/article/20261027/a68e1c5b35c036a66be383096d0539cf.html",
+      "title": "专访启境CEO刘嘉铭：境模式，让能力沉淀在自己身上",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-25",
-      "url": "http://baijiahao.baidu.com/s?id=1880029036988603698"
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261027/a68e1c5b35c036a66be383096d0539cf.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1880026803047395718",
-      "title": "2026年交通法学研究会年会召开",
+      "id": "https://www.21jingji.com/article/20261027/fae4aaef14cdf5af7156a0790061effc.html",
+      "title": "详解“十五五”信息化蓝图 智能体等应用普及率超90%",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-25",
-      "url": "http://baijiahao.baidu.com/s?id=1880026803047395718"
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261027/fae4aaef14cdf5af7156a0790061effc.html"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1880034152170226751",
-      "title": "从连夜寻人到暖心护送，广州花都公安守护群众“回家路..",
+      "id": "https://www.21jingji.com/article/20261027/82a62678ac23bba50eb1051b79a6c285.html",
+      "title": "影响因素不再仅是“出险次数” 新能源车险正被模型重新定价",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-25",
-      "url": "http://baijiahao.baidu.com/s?id=1880034152170226751"
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261027/82a62678ac23bba50eb1051b79a6c285.html"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/1025/1075699.shtml",
-      "title": "红旗近700台官方用车交付APEC，新能源车型首次入列国宾车队",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-10-25",
-      "url": "http://www.eeo.com.cn/2026/1025/1075699.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwol8np/",
-      "title": "红旗G919售34.98万起 四电机增程豪华越野SUV",
-      "summary": "国产硬派豪华越野这个细分市场,这两年真是越来越热闹了,坦克、方程豹、仰望一个个轮番上场,如今作为共和国长子的红旗也终于拿出了自己的重器。10 月 25 日,一汽红旗官宣,旗下全新中大型越野 SUV 红......",
+      "id": "https://post.smzdm.com/p/a70p302o/",
+      "title": "华境S详解，三排电动调节座椅，高速城区领航全都配齐",
+      "summary": "今天咱们一起来看一看五菱汽车与华为乾坤共同打造的一款大六座旗舰 SUV。它就是在今年 5 月份正式上市的华境 S。目前该车型在 9 月份进行了产品扩容，增加了 4 款不同配置的版本，也就让整个车辆的在......",
       "source": "Smzdm",
-      "date": "2026-10-25",
-      "url": "https://post.smzdm.com/p/awwol8np/"
+      "date": "2026-10-26",
+      "url": "https://post.smzdm.com/p/a70p302o/"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/1025/235871.shtml",
-      "title": "豪华智慧全地形SUV猛士X700上市限时焕新价20.98万起",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-10-25",
-      "url": "http://news.imobile.com.cn/articles/2026/1025/235871.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7mkqmn/",
-      "title": "直到今天，我才看懂东鹏特饮",
-      "summary": "张雪机车赛季收官，东鹏特饮十年积累迎来高光时刻封面 I 东鹏特饮作者 I 李东阳报道 I 李东阳朋友圈商业的高光，往往有一段漫长的前史。10月18日，随着西班牙赫雷兹站收官战落幕，2026赛季WSBK......",
+      "id": "https://post.smzdm.com/p/agg52grw/",
+      "title": "修车店推的轮胎充氮气，要不要花这钱？",
+      "summary": "在店里补胎、打气，师傅常会顺嘴来一句：加钱升级氮气吧，胎压更稳，不容易爆胎。听着挺专业，价格也不算离谱，四条胎便宜的五六十，贵的一百多。不少车主想着\"多一层保险\"，就把钱付了。这事我以前也纠结过。后来......",
       "source": "Smzdm",
-      "date": "2026-10-25",
-      "url": "https://post.smzdm.com/p/ad7mkqmn/"
+      "date": "2026-10-26",
+      "url": "https://post.smzdm.com/p/agg52grw/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8lq6me/",
-      "title": "Kling 4.0 想拿下专业用户的野心，已经藏不住了",
-      "summary": "作者｜黄小艺**｜H997Hbiu盼望着、盼望着，可灵终于带着它的最新模型来了。10 月 15 日晚，可灵 AI 的 Kling 4.0 正式全量上线，给已经激烈焦灼的视频模型战场又加了一把火。和今年......",
+      "id": "https://www.21jingji.com/article/20261026/herald/deb1076825d4dc5c187d026d08d196ed.html",
+      "title": "暴增1386%！一芯片公司董事长发声：紧缺格局大概率持续至2028年",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261026/herald/deb1076825d4dc5c187d026d08d196ed.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrqlr7v/",
+      "title": "27款赛600还是34999，马力一匹没加，加的是轴瓦、机油泵和记录仪：钱江这回卖的是安心——下订前先问死刹车上泵还是不是布雷博；想省五千看同机同电控的26款活力版；想要124匹，隔壁凯越便宜一千，但终身质保只绑创世版前777台",
+      "summary": "27款赛600是10月22号晚上发的。我把升级名单从头翻到尾，最先盯住的是三个词：轴瓦、机油泵、记录仪。马力一点没加，还是那台680cc直四，101.3匹、68牛·米，指导价也没动，34999，跟今年......",
       "source": "Smzdm",
-      "date": "2026-10-25",
-      "url": "https://post.smzdm.com/p/ak8lq6me/"
+      "date": "2026-10-26",
+      "url": "https://post.smzdm.com/p/aqrqlr7v/"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-10-25/4616908.html",
-      "title": "县委书记回应被张雪“扔”下水；深圳华强北一张显卡报价超5万元；马斯克：乌军违规使用星链致限速，一旦关停乌前线将立刻崩溃丨每经晚参",
-      "summary": "县委书记回应被张雪“扔”下水；深圳华强北一张显卡报价超5万元；马斯克：乌军违规使用星链致限速，一旦关停乌前线将立刻崩溃丨每经晚参...",
-      "source": "Nbd_Cn",
-      "date": "2026-10-25",
-      "url": "https://www.nbd.com.cn/articles/2026-10-25/4616908.html"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1880029917647481984",
-      "title": "视频丨响应式运营、接驳提质、适老化升级多地探索公..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-25",
-      "url": "http://baijiahao.baidu.com/s?id=1880029917647481984"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1879802011010952683",
-      "title": "轿车停在派出所门口，双闪了8分钟，辅警发现车内女子..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-25",
-      "url": "http://baijiahao.baidu.com/s?id=1879802011010952683"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1880028533911789878",
-      "title": "硬核担当保畅通 精细护航盛会行——张家界交通圆满完..",
-      "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-25",
-      "url": "http://baijiahao.baidu.com/s?id=1880028533911789878"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomv626m/",
-      "title": "综合续航1350km！豪华越野SUV一汽红旗G919上市：34.98万起",
-      "summary": "科技10月25日消息，今日，全新中大型豪华硬派SUV 一汽红旗G919正式上市，新车共推出三款配置版本，官方起售价为34.98万元，顶配限定版售价42.98万元。外观层面，新车依托东方礼制美学进行设计......",
-      "source": "Smzdm",
-      "date": "2026-10-25",
-      "url": "https://post.smzdm.com/p/aomv626m/"
-    },
-    {
-      "id": "https://www.ithome.com/1/017/704.htm",
-      "title": "比亚迪腾势 Z9GT 在香港上市，99.8 万港元",
-      "summary": "IT之家 10 月 25 日消息，比亚迪今天宣布，其旗舰车型 DENZA（腾势） Z9GT 正式登陆香港，官方售价 99.8 万港元（IT之家注：现汇率约合 85.2 万元人民币），为香港高端用户带来全新豪华出行体验。 IT之家从比亚迪公众号了解到，DENZA Z9GT 是香港市场首款搭载极速闪充技术、第二代刀片电池的豪华车型，整车采用优雅的经典 GT 车身设计。 此外，该车搭载 850kW 超高...",
+      "id": "https://www.ithome.com/1/018/178.htm",
+      "title": "美国 NHTSA 监管压力下，特斯拉仍推进 Cybercab 无人驾驶出租车交付",
+      "summary": "IT之家 10 月 26 日消息，据汽车媒体 CarBuzz 今天报道，特斯拉正为 Cybercab 无人驾驶出租车大规模交付做准备，该公司已在得州奥斯汀启动了小规模部署。不过美国国家公路交通安全管理局（NHTSA）已经盯上了特斯拉，重点审查这辆没有方向盘和踏板的车辆是如何获得认证的。 IT之家从原报道获悉，特斯拉截至目前并未彻底解决这一法律问题。特斯拉车辆工程副总裁拉尔斯 · 莫拉维曾强调，特斯...",
       "source": "Ithome",
-      "date": "2026-10-25",
-      "url": "https://www.ithome.com/1/017/704.htm"
+      "date": "2026-10-26",
+      "url": "https://www.ithome.com/1/018/178.htm"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1880021016205402629",
-      "title": "车在“智驾”人在“梦乡”，路过车友担心出意外忙报警..",
+      "id": "https://www.21jingji.com/article/20261026/herald/2327daa580f127a4b1c738f9d4d3b931.html",
+      "title": "热财经 | 自动驾驶彻底告别传统出行，智能汽车的高安全该如何做",
       "summary": "NewsData报道",
-      "source": "News_Baidu",
-      "date": "2026-10-25",
-      "url": "http://baijiahao.baidu.com/s?id=1880021016205402629"
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261026/herald/2327daa580f127a4b1c738f9d4d3b931.html"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-10-25/4616898.html",
-      "title": "张雪在家乡刷新吉尼斯纪录；2027羊年央视春晚总导演为于蕾；实探深圳华强北：一张显卡报价超5万元；我国成功发射卫星互联网低轨28组卫星丨每经晚参",
-      "summary": "张雪在家乡刷新吉尼斯纪录；2027羊年央视春晚总导演为于蕾；实探深圳华强北：一张显卡报价超5万元；我国成功发射卫星互联网低轨28组卫星丨每经晚参...",
-      "source": "Nbd_Cn",
+      "id": "https://www.21jingji.com/article/20261026/herald/db720c0f4217b5e8c02d150ba9c4d2e9.html",
+      "title": "热财经｜第三方智驾“上车”竞赛：各大厂商都在押注Momenta这张牌",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261026/herald/db720c0f4217b5e8c02d150ba9c4d2e9.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae6qzowz/",
+      "title": "智界高管：赛道不会陪人嘴硬，RX赢了小米YU7 Max！",
+      "summary": "赵长江终究还是没忍住。这段时间汽车圈吵得最凶的浙赛圈速话题，赵长江直接下场接招。面对网友扎堆吐槽，说他的成绩定语不够、换套轮胎小米YU7 Max就能反超，他一句话简单粗暴：RX赢了YU7 Max。没有......",
+      "source": "Smzdm",
+      "date": "2026-10-26",
+      "url": "https://post.smzdm.com/p/ae6qzowz/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03xovow/",
+      "title": "SNK兴衰录：格斗之王是怎么把自己输掉的",
+      "summary": "对于无数在九十年代街机厅里长大的男孩来说，关于「厉害」这件事的启蒙，几乎都来自一台贴着 SNK 标的柜机。投一枚币，《拳皇97》的开场音乐就响起来，摇杆被搓得发烫，屏幕里八神庵的紫色火焰劈开人群，身后......",
+      "source": "Smzdm",
+      "date": "2026-10-26",
+      "url": "https://post.smzdm.com/p/a03xovow/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261026/herald/8b8e3c75936ecff9fb7143d9baad0ff8.html",
+      "title": "换电又火了！车企巨头纷纷入局，但赚钱仍是难题",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261026/herald/8b8e3c75936ecff9fb7143d9baad0ff8.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqmkwe0/",
+      "title": "长城发布新车：10月26日正式上市，25.98万起",
+      "summary": "10月26日消息，长城新车魏牌高山8 HEV上市，25.98万起正式开卖，价格比之前公布的预售价又低了一些。这是国内首款带激光雷达和城市NOA的HEV油混MPV，全系标配Hi4四驱，无需插电上蓝牌。其......",
+      "source": "Smzdm",
+      "date": "2026-10-26",
+      "url": "https://post.smzdm.com/p/apqmkwe0/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261026/herald/2bce5da9fc1e6646868ed93a094914fa.html",
+      "title": "物理AI刷屏，券商分析师电话会排满！AI投资新主线浮出水面？",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261026/herald/2bce5da9fc1e6646868ed93a094914fa.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgpmgn9/",
+      "title": "不吹不黑！实测问界M7：到底值不值30万？",
+      "summary": "结论先行： 如果你是为了“华为智驾”和“全家出行大空间”买车，这车值；如果你追求操控乐趣和底盘质感，建议去看看理想或者去看看传统油车。静态体验：外观见仁见智，但内部空间确实大。第二排零重力座椅坐上去真......",
+      "source": "Smzdm",
+      "date": "2026-10-26",
+      "url": "https://post.smzdm.com/p/avgpmgn9/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261026/herald/de266b6bf8f3d59e63c0a82cbff9ff83.html",
+      "title": "热财经 | 广州成样板！小鹏L4 Robotaxi开启真实运营试炼",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-10-26",
+      "url": "https://www.21jingji.com/article/20261026/herald/de266b6bf8f3d59e63c0a82cbff9ff83.html"
+    },
+    {
+      "id": "https://www.foxbusiness.com/technology/gm-expands-eyes-off-autonomous-driving-plans-pickups-suvs",
+      "title": "General Motors plans ‘eyes-off’ driving tech for trucks and SUVs",
+      "summary": "General Motors is betting on autonomous driving, AI and connected services as it looks to transform the driving experience and grow its digital business....",
+      "source": "Fox Business",
       "date": "2026-10-25",
-      "url": "https://www.nbd.com.cn/articles/2026-10-25/4616898.html"
+      "url": "https://www.foxbusiness.com/technology/gm-expands-eyes-off-autonomous-driving-plans-pickups-suvs"
     },
     {
       "id": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
