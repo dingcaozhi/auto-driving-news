@@ -1,155 +1,165 @@
 {
-  "lastUpdated": "2026-10-27 04:40:32",
+  "lastUpdated": "2026-10-28 05:14:17",
   "totalCount": 26,
   "sources": {
-    "21Jingji": 9,
-    "Smzdm": 7,
-    "Ithome": 1,
+    "Smzdm": 12,
+    "21Jingji": 2,
+    "Nbd_Cn": 1,
+    "Wallstreetcn": 1,
+    "TechStartups.com": 1,
+    "TechCrunch": 1,
     "Fox Business": 1,
     "The Verge": 1,
     "The Manila Times": 2,
     "The Straits Times": 1,
     "Shaw Local Enewspapers": 1,
     "Davenport Quad-City Times": 1,
-    "CP24 Toronto": 1,
-    "The Star": 1
+    "Bnn Bloomberg": 1
   },
   "news": [
     {
-      "id": "https://www.21jingji.com/article/20261027/a68e1c5b35c036a66be383096d0539cf.html",
-      "title": "专访启境CEO刘嘉铭：境模式，让能力沉淀在自己身上",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261027/a68e1c5b35c036a66be383096d0539cf.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261027/fae4aaef14cdf5af7156a0790061effc.html",
-      "title": "详解“十五五”信息化蓝图 智能体等应用普及率超90%",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261027/fae4aaef14cdf5af7156a0790061effc.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261027/82a62678ac23bba50eb1051b79a6c285.html",
-      "title": "影响因素不再仅是“出险次数” 新能源车险正被模型重新定价",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261027/82a62678ac23bba50eb1051b79a6c285.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a70p302o/",
-      "title": "华境S详解，三排电动调节座椅，高速城区领航全都配齐",
-      "summary": "今天咱们一起来看一看五菱汽车与华为乾坤共同打造的一款大六座旗舰 SUV。它就是在今年 5 月份正式上市的华境 S。目前该车型在 9 月份进行了产品扩容，增加了 4 款不同配置的版本，也就让整个车辆的在......",
+      "id": "https://post.smzdm.com/p/a70pz0pg/",
+      "title": "不带四环的奥迪电车，反而卖得动",
+      "summary": "10月26日晚上，奥迪中国把传了一个多月的事官宣了：和中国一汽、上汽集团分别签了战略协议，四环标完整归一汽奥迪，上汽奥迪只保留AUDI字母标，专心做纯电，协议即日生效。说得直白点：以后市面上有两个奥迪......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/a70p302o/"
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a70pz0pg/"
     },
     {
-      "id": "https://post.smzdm.com/p/agg52grw/",
-      "title": "修车店推的轮胎充氮气，要不要花这钱？",
-      "summary": "在店里补胎、打气，师傅常会顺嘴来一句：加钱升级氮气吧，胎压更稳，不容易爆胎。听着挺专业，价格也不算离谱，四条胎便宜的五六十，贵的一百多。不少车主想着\"多一层保险\"，就把钱付了。这事我以前也纠结过。后来......",
+      "id": "https://post.smzdm.com/p/apqm3qvw/",
+      "title": "第三代秦PLUS DM-i上市：7.69万起售，混动车型也那么卷吗？",
+      "summary": "比亚迪第三代秦PLUS DM-i正式上市。作为连续三年坐稳紧凑级家轿销量冠军的热门车型，这次换代可以说是从里到外全面升级，还把价格打到了7.69万-9.79万元的价格区间。新车一共 3 款配置，覆盖1......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/agg52grw/"
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/apqm3qvw/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261026/herald/deb1076825d4dc5c187d026d08d196ed.html",
-      "title": "暴增1386%！一芯片公司董事长发声：紧缺格局大概率持续至2028年",
+      "id": "https://post.smzdm.com/p/a26x967n/",
+      "title": "大众想把小鹏的电子架构搬回欧洲：拆解CEA，它到底解决了什么痛点？",
+      "summary": "大众正在认真讨论一件十年前不可能发生的事：把与中国小鹏联合开发的电子电气架构，装回欧洲本土的主力车型。德国《经理人杂志》当地时间10月26日报道，大众汽车集团考虑将中国市场车型使用的软件架构引入欧洲主流车型，削弱美国合作伙伴Rivian在集团软件战略中的......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a26x967n/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03x83d9/",
+      "title": "小鹏架构出海赋能大众系，中国智驾技术反向输出加速？",
+      "summary": "中国智驾技术的“反向输出”出现了近期分量最重的一个信号：大众汽车集团正考虑把与小鹏联合开发的电子电气架构从中国市场带到欧洲，为大众、斯柯达、Cupra 三大品牌的下一代车型打底，但目前这仍是一份等待批准的提案，尚未落地。 提案由大众品牌负责人施文韬（Th......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a03x83d9/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70pz0kd/",
+      "title": "2026款理想i6确认转向刹车优化，25款已停售：只剩两条路",
+      "summary": "10月27日，理想给出2026款i6的官方口径：新车10月28日上市、29日交付，底盘延续全铝悬架+双腔空气弹簧等25款配置，重点优化转向响应与刹车脚感，并新增薄荷绿和紫色外观。先把\"现在买25款\"的......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a70pz0kd/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261028/1f05bf33ed79ba271d7e6b2e2084363f.html",
+      "title": "具身智能的超级共识撞上工程现实 是创业者的困境还是机会？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/deb1076825d4dc5c187d026d08d196ed.html"
+      "date": "2026-10-27",
+      "url": "https://www.21jingji.com/article/20261028/1f05bf33ed79ba271d7e6b2e2084363f.html"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrqlr7v/",
-      "title": "27款赛600还是34999，马力一匹没加，加的是轴瓦、机油泵和记录仪：钱江这回卖的是安心——下订前先问死刹车上泵还是不是布雷博；想省五千看同机同电控的26款活力版；想要124匹，隔壁凯越便宜一千，但终身质保只绑创世版前777台",
-      "summary": "27款赛600是10月22号晚上发的。我把升级名单从头翻到尾，最先盯住的是三个词：轴瓦、机油泵、记录仪。马力一点没加，还是那台680cc直四，101.3匹、68牛·米，指导价也没动，34999，跟今年......",
-      "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/aqrqlr7v/"
-    },
-    {
-      "id": "https://www.ithome.com/1/018/178.htm",
-      "title": "美国 NHTSA 监管压力下，特斯拉仍推进 Cybercab 无人驾驶出租车交付",
-      "summary": "IT之家 10 月 26 日消息，据汽车媒体 CarBuzz 今天报道，特斯拉正为 Cybercab 无人驾驶出租车大规模交付做准备，该公司已在得州奥斯汀启动了小规模部署。不过美国国家公路交通安全管理局（NHTSA）已经盯上了特斯拉，重点审查这辆没有方向盘和踏板的车辆是如何获得认证的。 IT之家从原报道获悉，特斯拉截至目前并未彻底解决这一法律问题。特斯拉车辆工程副总裁拉尔斯 · 莫拉维曾强调，特斯...",
-      "source": "Ithome",
-      "date": "2026-10-26",
-      "url": "https://www.ithome.com/1/018/178.htm"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261026/herald/2327daa580f127a4b1c738f9d4d3b931.html",
-      "title": "热财经 | 自动驾驶彻底告别传统出行，智能汽车的高安全该如何做",
+      "id": "https://www.21jingji.com/article/20261028/5817ae2fa80a30f355acfab632f76902.html",
+      "title": "物理AI刷屏，券商分析师电话会排满 AI投资新主线浮出水面？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/2327daa580f127a4b1c738f9d4d3b931.html"
+      "date": "2026-10-27",
+      "url": "https://www.21jingji.com/article/20261028/5817ae2fa80a30f355acfab632f76902.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20261026/herald/db720c0f4217b5e8c02d150ba9c4d2e9.html",
-      "title": "热财经｜第三方智驾“上车”竞赛：各大厂商都在押注Momenta这张牌",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/db720c0f4217b5e8c02d150ba9c4d2e9.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae6qzowz/",
-      "title": "智界高管：赛道不会陪人嘴硬，RX赢了小米YU7 Max！",
-      "summary": "赵长江终究还是没忍住。这段时间汽车圈吵得最凶的浙赛圈速话题，赵长江直接下场接招。面对网友扎堆吐槽，说他的成绩定语不够、换套轮胎小米YU7 Max就能反超，他一句话简单粗暴：RX赢了YU7 Max。没有......",
+      "id": "https://post.smzdm.com/p/az8oe8p0/",
+      "title": "比亚迪璇玑A3首搭车型浮出水面？仰望鼎曜，目标不只是豪华车",
+      "summary": "比亚迪又要放大招了！在仰望品牌大会上，比亚迪透露，未来仰望新车将搭载自研的璇玑A3智驾芯片。结合此前曝光的信息，超豪华行政旗舰轿车仰望鼎曜，自然成为大家关注的焦点。当然，具体是否由鼎曜首搭，还要等待官......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/ae6qzowz/"
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/az8oe8p0/"
     },
     {
-      "id": "https://post.smzdm.com/p/a03xovow/",
-      "title": "SNK兴衰录：格斗之王是怎么把自己输掉的",
-      "summary": "对于无数在九十年代街机厅里长大的男孩来说，关于「厉害」这件事的启蒙，几乎都来自一台贴着 SNK 标的柜机。投一枚币，《拳皇97》的开场音乐就响起来，摇杆被搓得发烫，屏幕里八神庵的紫色火焰劈开人群，身后......",
+      "id": "https://post.smzdm.com/p/arzrvz47/",
+      "title": "大众拿到L3路测牌照，但这不是“准生证”",
+      "summary": "10月26日，大众汽车集团（中国）宣布，已在合肥获得L3级自动驾驶路测牌照，并启动路测与数据采集。但路测牌照不是准生证，允许的是测试，不是卖车。L3也不是无人驾驶，驾驶员要在系统请求时接管。大众中国两......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/a03xovow/"
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/arzrvz47/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261026/herald/8b8e3c75936ecff9fb7143d9baad0ff8.html",
-      "title": "换电又火了！车企巨头纷纷入局，但赚钱仍是难题",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/8b8e3c75936ecff9fb7143d9baad0ff8.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqmkwe0/",
-      "title": "长城发布新车：10月26日正式上市，25.98万起",
-      "summary": "10月26日消息，长城新车魏牌高山8 HEV上市，25.98万起正式开卖，价格比之前公布的预售价又低了一些。这是国内首款带激光雷达和城市NOA的HEV油混MPV，全系标配Hi4四驱，无需插电上蓝牌。其......",
+      "id": "https://post.smzdm.com/p/ak8lg8pk/",
+      "title": "大众拿下L3路测牌照，现在买车该等智驾还是直接下手？",
+      "summary": "10月26日，大众汽车集团（中国）官宣在合肥正式获得L3级自动驾驶道路测试牌照，真实道路测试与数据采集已经启动。但对攥着购车预算的人来说，先别急着改计划：这是一张“路测牌照”，换不来一台今天就能买到、......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/apqmkwe0/"
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/ak8lg8pk/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261026/herald/2bce5da9fc1e6646868ed93a094914fa.html",
-      "title": "物理AI刷屏，券商分析师电话会排满！AI投资新主线浮出水面？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/2bce5da9fc1e6646868ed93a094914fa.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgpmgn9/",
-      "title": "不吹不黑！实测问界M7：到底值不值30万？",
-      "summary": "结论先行： 如果你是为了“华为智驾”和“全家出行大空间”买车，这车值；如果你追求操控乐趣和底盘质感，建议去看看理想或者去看看传统油车。静态体验：外观见仁见智，但内部空间确实大。第二排零重力座椅坐上去真......",
+      "id": "https://post.smzdm.com/p/aomv8gzn/",
+      "title": "小鹏Robotaxi拿下广州全域L4示范运营资质：先等邀请码，再闯三道关",
+      "summary": "10月26日，小鹏汽车官方微博官宣：集团Robotaxi“小鹏悠游”正式获批L4级自动驾驶示范运营资质。官宣评论区里，求邀请码、问“其他城市什么时候轮到”的留言已经刷了屏。但先把结论说清楚：对广州用户......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/avgpmgn9/"
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/aomv8gzn/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261026/herald/de266b6bf8f3d59e63c0a82cbff9ff83.html",
-      "title": "热财经 | 广州成样板！小鹏L4 Robotaxi开启真实运营试炼",
+      "id": "https://post.smzdm.com/p/a26x9qdp/",
+      "title": "L4资质落地广州，小鹏Robotaxi何时普及到全城？",
+      "summary": "小鹏拿到了在广州全域跑Robotaxi的许可，但广州市民要像打网约车一样随手叫到它，中间还隔着车队规模、定价和安全操作员移除三个变量。10月26日，小鹏集团宣布旗下Robotaxi品牌\"小鹏悠游\"获批......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a26x9qdp/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az8oezdo/",
+      "title": "上市之前先拆车，2026 款理想 i6 还剩最后一个悬念",
+      "summary": "新车还没上市，理想先把它拆开了。10 月 26 日，理想汽车对即将发布的 2026 款理想 i6 进行了一场拆车直播。从屏幕、座椅，到电池和底盘，这次年款升级的主要变化，随着拆解逐一呈现在镜头前。按照......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/az8oezdo/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rxq0xl/",
+      "title": "全地形车在美国多挣钱？揭秘中美使用场景与法规差异",
+      "summary": "全地形车（俗称沙滩车、四轮摩托，以及带方向盘的UTV、SSV）在北美是农活工具车，在中国却是\"场地车\"——这个身份差，决定了中国厂商的钱从哪儿挣。信达证券研报援引Polaris年报数据称，近年全球全地......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a5rxq0xl/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-10-27/4621762.html",
+      "title": "高峰来了、打法换了：AI与具身智能首次规模化上场，快递业迎战 “最科技”“双 11”",
+      "summary": "“今年‘双11’第一波高峰是在10月23日，当天到件差不多5万单。这几天陆续在恢复，正常我们网点一天单量差不多有3.7万单至3.8万单。”一位河北加盟制快递网点老板如是告诉《每日经济新闻》记者（以下简...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-27",
+      "url": "https://www.nbd.com.cn/articles/2026-10-27/4621762.html"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3784617",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月28日",
       "summary": "NewsData报道",
-      "source": "21Jingji",
+      "source": "Wallstreetcn",
+      "date": "2026-10-27",
+      "url": "https://wallstreetcn.com/articles/3784617"
+    },
+    {
+      "id": "https://techstartups.com/2026/10/27/startup-funding-news-today-october-27-2026-bedrock-robotics-cent-epoch-nevis-north-vector-hyperbolic-more/",
+      "title": "Startup Funding News Today, October 27, 2026: Bedrock Robotics, Cent, Epoch, Nevis, North Vector, Hyperbolic & More",
+      "summary": "Venture capital is moving into technologies that do more than generate AI responses. Autonomous construction equipment, specialized cloud infrastructure, financial AI agents, cybersecurity, and defens...",
+      "source": "TechStartups.com",
+      "date": "2026-10-27",
+      "url": "https://techstartups.com/2026/10/27/startup-funding-news-today-october-27-2026-bedrock-robotics-cent-epoch-nevis-north-vector-hyperbolic-more/"
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "title": "This startup's self-driving excavators help dig up $600M in new funding",
+      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators....",
+      "source": "TechCrunch",
       "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/de266b6bf8f3d59e63c0a82cbff9ff83.html"
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
     },
     {
       "id": "https://www.foxbusiness.com/technology/gm-expands-eyes-off-autonomous-driving-plans-pickups-suvs",
@@ -208,20 +218,12 @@
       "url": "https://www.manilatimes.net/2026/10/23/business/foreign-business/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs/2452377"
     },
     {
-      "id": "https://www.cp24.com/news/money/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/",
+      "id": "https://www.bnnbloomberg.ca/business/company-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/",
       "title": "Tesla stock drops as spending pullback clouds AI ambitions",
       "summary": "Tesla’s shares slid five per cent in premarket trading on Thursday as the EV maker’s reduced capital spending forecast raised questions about the pace of investment behind Elon Musk’s AI, robotics and...",
-      "source": "CP24 Toronto",
+      "source": "Bnn Bloomberg",
       "date": "2026-10-22",
-      "url": "https://www.cp24.com/news/money/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions",
-      "title": "Tesla drops as spending pullback clouds AI, robotics ambitions",
-      "summary": "Oct 22 (Reuters) - Tesla's shares ⁠slid 5% in premarket trading on Thursday as the ⁠EV maker's reduced capital spending forecast raised questions about the ‌pace of investment behind Elon Musk's AI, r...",
-      "source": "The Star",
-      "date": "2026-10-22",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions"
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/"
     }
   ]
 }
