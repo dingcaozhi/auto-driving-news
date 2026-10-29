@@ -1,149 +1,165 @@
 {
-  "lastUpdated": "2026-10-28 05:14:17",
+  "lastUpdated": "2026-10-29 05:25:32",
   "totalCount": 26,
   "sources": {
-    "Smzdm": 12,
-    "21Jingji": 2,
-    "Nbd_Cn": 1,
-    "Wallstreetcn": 1,
+    "Time Weekly": 1,
+    "Smzdm": 13,
+    "21Jingji": 1,
+    "Rednet_Cn": 1,
+    "The Manila Times": 2,
+    "The Star": 1,
     "TechStartups.com": 1,
     "TechCrunch": 1,
     "Fox Business": 1,
     "The Verge": 1,
-    "The Manila Times": 2,
     "The Straits Times": 1,
     "Shaw Local Enewspapers": 1,
-    "Davenport Quad-City Times": 1,
-    "Bnn Bloomberg": 1
+    "Davenport Quad-City Times": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/a70pz0pg/",
-      "title": "不带四环的奥迪电车，反而卖得动",
-      "summary": "10月26日晚上，奥迪中国把传了一个多月的事官宣了：和中国一汽、上汽集团分别签了战略协议，四环标完整归一汽奥迪，上汽奥迪只保留AUDI字母标，专心做纯电，协议即日生效。说得直白点：以后市面上有两个奥迪......",
-      "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/a70pz0pg/"
+      "id": "http://www.time-weekly.com/post/333884",
+      "title": "20cm涨停！豪恩汽电股价异常波动背后：三季度营收增超50%，主业毛利率承压",
+      "summary": "本文来源：时代周报 作者：曹杨 宋然 涨停和闪崩之间只隔了一个交易日，豪恩汽电到底发生了什么？ 10月28日，豪恩汽电（301488.SZ）开盘即封涨停，报97.87元/股，涨幅20%，总市值99.54亿元。 就在前一日（10月27日），豪恩汽电股价出现极端异动，早盘一度涨超7%，但尾盘竞价阶段直线闪崩，最终收跌15.91%，全天振幅达到23.73%。 时代周报记者以投资人身份致电豪恩汽电，询问股...",
+      "source": "Time Weekly",
+      "date": "2026-10-28",
+      "url": "http://www.time-weekly.com/post/333884"
     },
     {
-      "id": "https://post.smzdm.com/p/apqm3qvw/",
-      "title": "第三代秦PLUS DM-i上市：7.69万起售，混动车型也那么卷吗？",
-      "summary": "比亚迪第三代秦PLUS DM-i正式上市。作为连续三年坐稳紧凑级家轿销量冠军的热门车型，这次换代可以说是从里到外全面升级，还把价格打到了7.69万-9.79万元的价格区间。新车一共 3 款配置，覆盖1......",
+      "id": "https://post.smzdm.com/p/a70p5lnd/",
+      "title": "首赛季表现不佳仍续约到2029，佩雷兹凭什么被凯迪拉克锁定？",
+      "summary": "北京时间10月28日，墨西哥城大奖赛主场之战前夕，凯迪拉克F1车队官宣与佩雷兹续约，新合同至少持续到2029赛季结束。而十余天前的美国站上，车队领队布德科夫斯基还拒绝确认2027年车手阵容，当时消息是双方已就续约展开洽谈。成绩单给不了这份合同太多支持：佩......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/apqm3qvw/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/a70p5lnd/"
     },
     {
-      "id": "https://post.smzdm.com/p/a26x967n/",
-      "title": "大众想把小鹏的电子架构搬回欧洲：拆解CEA，它到底解决了什么痛点？",
-      "summary": "大众正在认真讨论一件十年前不可能发生的事：把与中国小鹏联合开发的电子电气架构，装回欧洲本土的主力车型。德国《经理人杂志》当地时间10月26日报道，大众汽车集团考虑将中国市场车型使用的软件架构引入欧洲主流车型，削弱美国合作伙伴Rivian在集团软件战略中的......",
+      "id": "https://post.smzdm.com/p/awwo42z2/",
+      "title": "佩雷兹长约留队，凯迪拉克接下来的建队方向是什么？",
+      "summary": "墨西哥城大奖赛前夕，凯迪拉克F1车队官宣与塞尔吉奥·佩雷兹续约，新合同至少持续到2029赛季结束。 这是一份反差感拉满的长约：这是车队的F1处子赛季，佩雷兹至今还没能为车队取得积分，最好成绩只是英国和加泰罗尼亚两站的第14名。 但把它放进车队今年8月换帅......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/a26x967n/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/awwo42z2/"
     },
     {
-      "id": "https://post.smzdm.com/p/a03x83d9/",
-      "title": "小鹏架构出海赋能大众系，中国智驾技术反向输出加速？",
-      "summary": "中国智驾技术的“反向输出”出现了近期分量最重的一个信号：大众汽车集团正考虑把与小鹏联合开发的电子电气架构从中国市场带到欧洲，为大众、斯柯达、Cupra 三大品牌的下一代车型打底，但目前这仍是一份等待批准的提案，尚未落地。 提案由大众品牌负责人施文韬（Th......",
+      "id": "https://post.smzdm.com/p/avgpo0pn/",
+      "title": "王传福说“中国汽车可以”，普通车主能感受到什么",
+      "summary": "10月28日，第三十三届中国汽车工程学会年会在苏州召开，比亚迪董事长兼总裁王传福获得2026年度汽车工业饶斌奖。这一奖项以“中国汽车之父”饶斌命名，2013年经行业倡议设立，被业内视为中国汽车工业的企业家最高荣誉。发表获奖感言时，王传福说，想“做一道证明......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/a03x83d9/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/avgpo0pn/"
     },
     {
-      "id": "https://post.smzdm.com/p/a70pz0kd/",
-      "title": "2026款理想i6确认转向刹车优化，25款已停售：只剩两条路",
-      "summary": "10月27日，理想给出2026款i6的官方口径：新车10月28日上市、29日交付，底盘延续全铝悬架+双腔空气弹簧等25款配置，重点优化转向响应与刹车脚感，并新增薄荷绿和紫色外观。先把\"现在买25款\"的......",
+      "id": "https://post.smzdm.com/p/ad7mg0md/",
+      "title": "佩雷兹续约至至少2029，博塔斯在凯迪拉克的席位还稳吗？",
+      "summary": "墨西哥城大奖赛主场之战的前夜，凯迪拉克官宣了塞尔吉奥·佩雷兹的续约，新合同至少持续到2029赛季结束。 本周恰逢这位36岁墨西哥车手的职业生涯第300场F1比赛。 对瓦尔特里·博塔斯来说，这纸官宣的答案并不乐观：他的席位已经不再稳固，但还没有被最终判定。......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/a70pz0kd/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/ad7mg0md/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261028/1f05bf33ed79ba271d7e6b2e2084363f.html",
-      "title": "具身智能的超级共识撞上工程现实 是创业者的困境还是机会？",
+      "id": "https://post.smzdm.com/p/a4qxog4x/",
+      "title": "佩雷兹与凯迪拉克续约至2029：一支处子赛季的车队，为何把未来押在36岁老将身上？",
+      "summary": "北京时间10月28日，墨西哥城大奖赛前夕，凯迪拉克F1车队官宣与36岁的墨西哥车手佩雷兹续约，新合同至少持续至2029赛季结束。选择在这个周末公布并非偶然：佩雷兹即将在主场迎来自己的第300场大奖赛。而成绩表上，他本赛季至今还没有为车队取得积分，最好成绩......",
+      "source": "Smzdm",
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/a4qxog4x/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwo42r2/",
+      "title": "刚上市就遇追尾起火事故，奕境X9的安全承诺兑现了多少",
+      "summary": "10月28日下午，浙江台州一辆处于刹停状态的奕境X9被一辆快速行驶的重载渣土车追尾，车上三位乘客无人受伤、及时撤离，消防扑灭明火后发现动力电池保持完好。 这起事故距离奕境X9正式上市约一个月，车辆的全......",
+      "source": "Smzdm",
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/awwo42r2/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261029/fbeb1ffde63b72e6aed0231a1ffde041.html",
+      "title": "调整不改大势：科技主线的“确定性”从何而来？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-27",
-      "url": "https://www.21jingji.com/article/20261028/1f05bf33ed79ba271d7e6b2e2084363f.html"
+      "date": "2026-10-28",
+      "url": "https://www.21jingji.com/article/20261029/fbeb1ffde63b72e6aed0231a1ffde041.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20261028/5817ae2fa80a30f355acfab632f76902.html",
-      "title": "物理AI刷屏，券商分析师电话会排满 AI投资新主线浮出水面？",
+      "id": "https://post.smzdm.com/p/a03xnp48/",
+      "title": "仰望鼎曜瞄准迈巴赫S级和古思特，国产超豪华轿车差在哪？",
+      "summary": "10月27日，比亚迪仰望官宣旗下首款超豪华行政旗舰轿车定名\"鼎曜\"，内部代号HU，英文名ALTIOR（拉丁语\"更高\"）。这是仰望第一次放弃\"字母+数字\"的命名规则，给一台车单独起了中文名，官方宣传语是\"大器鼎成\"。它的对手名单也写得直白：劳斯莱斯古思特、......",
+      "source": "Smzdm",
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/a03xnp48/"
+    },
+    {
+      "id": "https://yz.rednet.cn/content/646054/62/16419419.html",
+      "title": "排名第一，满意率100%！永州公安承办市人大常委会2026年重点督办代表建议办理工作获佳绩_政务_永州站",
       "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-27",
-      "url": "https://www.21jingji.com/article/20261028/5817ae2fa80a30f355acfab632f76902.html"
+      "source": "Rednet_Cn",
+      "date": "2026-10-28",
+      "url": "https://yz.rednet.cn/content/646054/62/16419419.html"
     },
     {
-      "id": "https://post.smzdm.com/p/az8oe8p0/",
-      "title": "比亚迪璇玑A3首搭车型浮出水面？仰望鼎曜，目标不只是豪华车",
-      "summary": "比亚迪又要放大招了！在仰望品牌大会上，比亚迪透露，未来仰望新车将搭载自研的璇玑A3智驾芯片。结合此前曝光的信息，超豪华行政旗舰轿车仰望鼎曜，自然成为大家关注的焦点。当然，具体是否由鼎曜首搭，还要等待官......",
+      "id": "https://post.smzdm.com/p/ad7mgkgn/",
+      "title": "试驾纯电奔驰 GLC：36 万多落地，豪华感在线，但选装是真的多",
+      "summary": "周末闲着没事跑 4S 店试驾了纯电 GLC，之前就好奇燃油版卖得火的 GLC，换成纯电能打成啥样。一圈静态加道路试驾下来，感受挺分裂的：有熟悉的奔驰老味道，也有新能源的新东西，给认豪华标、想换纯电的朋......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/az8oe8p0/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/ad7mgkgn/"
     },
     {
-      "id": "https://post.smzdm.com/p/arzrvz47/",
-      "title": "大众拿到L3路测牌照，但这不是“准生证”",
-      "summary": "10月26日，大众汽车集团（中国）宣布，已在合肥获得L3级自动驾驶路测牌照，并启动路测与数据采集。但路测牌照不是准生证，允许的是测试，不是卖车。L3也不是无人驾驶，驾驶员要在系统请求时接管。大众中国两......",
+      "id": "https://post.smzdm.com/p/a26xdldp/",
+      "title": "首销限时23.98万，理想i6现在买比老款省多少？",
+      "summary": "现在买理想i6，\"省多少\"要拆成两笔账来算。现金面上，2026款指导价24.98万元与老款完全一致，2026年11月30日24:00前下定，可享首销期限时权益价23.98万元。配置面上，理想把新款的改......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/arzrvz47/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/a26xdldp/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8lg8pk/",
-      "title": "大众拿下L3路测牌照，现在买车该等智驾还是直接下手？",
-      "summary": "10月26日，大众汽车集团（中国）官宣在合肥正式获得L3级自动驾驶道路测试牌照，真实道路测试与数据采集已经启动。但对攥着购车预算的人来说，先别急着改计划：这是一张“路测牌照”，换不来一台今天就能买到、......",
+      "id": "https://post.smzdm.com/p/a03xnwz0/",
+      "title": "开过新P7，才懂什么叫顺？",
+      "summary": "开小鹏P7这段时间，最直观的感觉是：它不像一台冷冰冰的电车，更像是个懂你通勤节奏的搭档。第一次在地库看到它，低趴溜背、无框车门、贯穿灯语一亮，锁车后我真的会回头看两眼，颜值这块确实拿捏住了。坐进驾驶位，视野和坐姿都挺舒服，方向盘轻重可调，电门很跟脚。后驱......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/ak8lg8pk/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/a03xnwz0/"
     },
     {
-      "id": "https://post.smzdm.com/p/aomv8gzn/",
-      "title": "小鹏Robotaxi拿下广州全域L4示范运营资质：先等邀请码，再闯三道关",
-      "summary": "10月26日，小鹏汽车官方微博官宣：集团Robotaxi“小鹏悠游”正式获批L4级自动驾驶示范运营资质。官宣评论区里，求邀请码、问“其他城市什么时候轮到”的留言已经刷了屏。但先把结论说清楚：对广州用户......",
+      "id": "https://post.smzdm.com/p/agg5l357/",
+      "title": "小鹏P7：始于颜值，终于好开",
+      "summary": "开小鹏P7这段时间，最先上头的还是颜值。低趴溜背、无框车门，晚上灯带一亮，停哪都有人回头看。但开久了会发现，它真正留住我的不是样子，是日常那种“怎么开都不累”的顺。电门很跟脚，红绿灯起步轻快，不会一窜一窜。后驱版动力够用，市区超车随踩随有，运动模式也能给......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/aomv8gzn/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/agg5l357/"
     },
     {
-      "id": "https://post.smzdm.com/p/a26x9qdp/",
-      "title": "L4资质落地广州，小鹏Robotaxi何时普及到全城？",
-      "summary": "小鹏拿到了在广州全域跑Robotaxi的许可，但广州市民要像打网约车一样随手叫到它，中间还隔着车队规模、定价和安全操作员移除三个变量。10月26日，小鹏集团宣布旗下Robotaxi品牌\"小鹏悠游\"获批......",
+      "id": "https://post.smzdm.com/p/am93k4n4/",
+      "title": "硬拉312吨的红旗G919上市，34.98万起，四电机越野香不香",
+      "summary": "35万买硬派越野SUV，以前能想到的就是那些老牌方盒子。10月25日，红旗G919上市，指导价34.98万到42.98万，四电机豪华越野SUV，3款车型。这台车发布会没念参数，直接拉去做了三场极限挑战：硬拉312吨重卡、沙漠里冲珠峰、珠峰108拐盘山路。......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/a26x9qdp/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/am93k4n4/"
     },
     {
-      "id": "https://post.smzdm.com/p/az8oezdo/",
-      "title": "上市之前先拆车，2026 款理想 i6 还剩最后一个悬念",
-      "summary": "新车还没上市，理想先把它拆开了。10 月 26 日，理想汽车对即将发布的 2026 款理想 i6 进行了一场拆车直播。从屏幕、座椅，到电池和底盘，这次年款升级的主要变化，随着拆解逐一呈现在镜头前。按照......",
+      "id": "https://post.smzdm.com/p/am93qzqv/",
+      "title": "理想i6“加量不加价”：23.98万元，等等党到底赢在哪",
+      "summary": "10月28日晚，2026款理想i6正式上市，全国统一零售价24.98万元，首销期限时权益价格23.98万元。24.98万元的零售价，与2025年9月上市的第一代i6定价完全一致。这就是\"等等党赢麻了\"......",
       "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/az8oezdo/"
+      "date": "2026-10-28",
+      "url": "https://post.smzdm.com/p/am93qzqv/"
     },
     {
-      "id": "https://post.smzdm.com/p/a5rxq0xl/",
-      "title": "全地形车在美国多挣钱？揭秘中美使用场景与法规差异",
-      "summary": "全地形车（俗称沙滩车、四轮摩托，以及带方向盘的UTV、SSV）在北美是农活工具车，在中国却是\"场地车\"——这个身份差，决定了中国厂商的钱从哪儿挣。信达证券研报援引Polaris年报数据称，近年全球全地......",
-      "source": "Smzdm",
-      "date": "2026-10-27",
-      "url": "https://post.smzdm.com/p/a5rxq0xl/"
+      "id": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/weride-unveils-global-insurance-partnership-program-to-scale-autonomous-vehicles-worldwide/2455711",
+      "title": "WeRide Unveils Global Insurance Partnership Program to Scale Autonomous Vehicles Worldwide",
+      "summary": "WeRide establishes a global insurance partnership program, with Allianz Insurance Singapore and Ping An P&C Insurance as inaugural partnersThe program will support the responsible deployment of tens o...",
+      "source": "The Manila Times",
+      "date": "2026-10-28",
+      "url": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/weride-unveils-global-insurance-partnership-program-to-scale-autonomous-vehicles-worldwide/2455711"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-10-27/4621762.html",
-      "title": "高峰来了、打法换了：AI与具身智能首次规模化上场，快递业迎战 “最科技”“双 11”",
-      "summary": "“今年‘双11’第一波高峰是在10月23日，当天到件差不多5万单。这几天陆续在恢复，正常我们网点一天单量差不多有3.7万单至3.8万单。”一位河北加盟制快递网点老板如是告诉《每日经济新闻》记者（以下简...",
-      "source": "Nbd_Cn",
-      "date": "2026-10-27",
-      "url": "https://www.nbd.com.cn/articles/2026-10-27/4621762.html"
-    },
-    {
-      "id": "https://wallstreetcn.com/articles/3784617",
-      "title": "华尔街见闻早餐FM-Radio | 2026年10月28日",
-      "summary": "NewsData报道",
-      "source": "Wallstreetcn",
-      "date": "2026-10-27",
-      "url": "https://wallstreetcn.com/articles/3784617"
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/28/china-boosts-self-driving-push-with-vw-xpeng-technology-trials",
+      "title": "China boosts self-driving push with VW, Xpeng technology trials",
+      "summary": "Volkswagen AG and Xpeng Inc secured approvals to trial autonomous driving systems on public roads in China, signalling a renewed push by authorities for larger-scale deployment following a safety revi...",
+      "source": "The Star",
+      "date": "2026-10-28",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/china-boosts-self-driving-push-with-vw-xpeng-technology-trials"
     },
     {
       "id": "https://techstartups.com/2026/10/27/startup-funding-news-today-october-27-2026-bedrock-robotics-cent-epoch-nevis-north-vector-hyperbolic-more/",
@@ -208,22 +224,6 @@
       "source": "Davenport Quad-City Times",
       "date": "2026-10-22",
       "url": "https://qctimes.com/news/state-regional/government-politics/article_51f31f32-681e-576c-bb6e-ac6dba0a0f9e.html"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/23/business/foreign-business/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs/2452377",
-      "title": "GM targets ‘eyes-off’ autonomous driving for pickups, SUVs",
-      "summary": "GENERAL Motors plans to offer “eyes-off” autonomous driving on its highest-selling, most profitable vehicles — big pickup trucks and SUVs — as it seeks fresh revenue streams from heavy technology inve...",
-      "source": "The Manila Times",
-      "date": "2026-10-22",
-      "url": "https://www.manilatimes.net/2026/10/23/business/foreign-business/gm-targets-eyes-off-autonomous-driving-for-pickups-suvs/2452377"
-    },
-    {
-      "id": "https://www.bnnbloomberg.ca/business/company-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/",
-      "title": "Tesla stock drops as spending pullback clouds AI ambitions",
-      "summary": "Tesla’s shares slid five per cent in premarket trading on Thursday as the EV maker’s reduced capital spending forecast raised questions about the pace of investment behind Elon Musk’s AI, robotics and...",
-      "source": "Bnn Bloomberg",
-      "date": "2026-10-22",
-      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/"
     }
   ]
 }
