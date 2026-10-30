@@ -1,149 +1,201 @@
 {
-  "lastUpdated": "2026-10-29 05:25:32",
-  "totalCount": 26,
+  "lastUpdated": "2026-10-30 05:25:05",
+  "totalCount": 30,
   "sources": {
+    "Bilibili": 5,
+    "Cnblogs": 1,
+    "Smzdm": 7,
     "Time Weekly": 1,
-    "Smzdm": 13,
+    "Nbd_Cn": 2,
     "21Jingji": 1,
-    "Rednet_Cn": 1,
-    "The Manila Times": 2,
+    "Fx168News": 1,
+    "Orientaldaily": 1,
+    "Ithome": 1,
+    "CNA": 1,
+    "The Manila Times": 3,
     "The Star": 1,
     "TechStartups.com": 1,
     "TechCrunch": 1,
     "Fox Business": 1,
     "The Verge": 1,
-    "The Straits Times": 1,
-    "Shaw Local Enewspapers": 1,
-    "Davenport Quad-City Times": 1
+    "The Straits Times": 1
   },
   "news": [
     {
-      "id": "http://www.time-weekly.com/post/333884",
-      "title": "20cm涨停！豪恩汽电股价异常波动背后：三季度营收增超50%，主业毛利率承压",
-      "summary": "本文来源：时代周报 作者：曹杨 宋然 涨停和闪崩之间只隔了一个交易日，豪恩汽电到底发生了什么？ 10月28日，豪恩汽电（301488.SZ）开盘即封涨停，报97.87元/股，涨幅20%，总市值99.54亿元。 就在前一日（10月27日），豪恩汽电股价出现极端异动，早盘一度涨超7%，但尾盘竞价阶段直线闪崩，最终收跌15.91%，全天振幅达到23.73%。 时代周报记者以投资人身份致电豪恩汽电，询问股...",
+      "id": "https://www.bilibili.com/video/BV1NrxL6QEkx",
+      "title": "【B站】真全自动驾驶：特斯拉Cybercab",
+      "summary": "#cybercab#\n总结：\n1.Cybercab 是特斯拉正向原生为 Robotaxi 无人驾驶共享出行开发的量产车，不对私人零售，属于车队运营出租车\n2.无方向盘、无踏板、无后视使用的是蝴蝶门 + 双座无障碍座舱\n3.搭载一块22英寸大屏，全车几乎无实体按键，空调、车门、行程交互都靠这块屏，车顶...",
+      "source": "Bilibili",
+      "date": "2026-10-30",
+      "url": "https://www.bilibili.com/video/BV1NrxL6QEkx"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-10-30",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-10-30",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1SSJC64EBW",
+      "title": "【B站】15分钟讲解所有自动驾驶系统",
+      "summary": "原视频：Every Self-Driving System EXPLAINED in 15 Minutes\n原作者：Beyond EV Technology\n发布日期：2026-09-03\n视频链接：https://www.youtube.com/watch?v=yEkIFsBm_gU\n\n章节\n00...",
+      "source": "Bilibili",
+      "date": "2026-10-30",
+      "url": "https://www.bilibili.com/video/BV1SSJC64EBW"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1L2sZ6WEnb",
+      "title": "【B站】理想i6“离车泊入”接连剐蹭 后视镜被撞落后仍未停 车主自称二十年老司机 未买商业险自费修车 辅助驾驶≠自动驾驶 安全千万别放手",
+      "summary": "理想i6“离车泊入”接连剐蹭 后视镜被撞落后仍未停 车主自称二十年老司机 未买商业险自费修车 辅助驾驶≠自动驾驶 安全千万别放手...",
+      "source": "Bilibili",
+      "date": "2026-10-30",
+      "url": "https://www.bilibili.com/video/BV1L2sZ6WEnb"
+    },
+    {
+      "id": "https://www.cnblogs.com/moonout/p/23488736",
+      "title": "LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变 - MoonOut",
+      "summary": "这篇博客介绍“给大模型提供数据的公司”，如 Scale AI、Mercor、Surge AI 等的由来、现状与演变。 某种意义上是给自己看的“科普”，也在博客存档。 0. 一个概括：这些公司具体做什么 大模型数据公司，向大模型厂商出售\"人工判断\"。具体的，这些公司组织人类（早期是普通标注员，现在更多...",
+      "source": "Cnblogs",
+      "date": "2026-10-29",
+      "url": "https://www.cnblogs.com/moonout/p/23488736"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a956pv0p/",
+      "title": "小米N90砍掉第三排，换了个能站直的车顶",
+      "summary": "小米澎程N90 Max探索版这车，网上吵了快两个月。一边是车主晒露营的笔记动辄上万赞，雷军自己也去车里沉浸式睡了一晚；另一边，有人把车开进大兴安岭、在车里睡了13天，回头发出来的标题却是：小米澎程帐篷是鸡肋吗？还有实测博主更直接，笔记名字就叫「只说缺点」......",
+      "source": "Smzdm",
+      "date": "2026-10-29",
+      "url": "https://post.smzdm.com/p/a956pv0p/"
+    },
+    {
+      "id": "http://www.time-weekly.com/post/333936",
+      "title": "经济强省也有短板：去年GDP挤进前十，4个中西部省份研发强度未及平均线",
+      "summary": "本文来源：时代周报 作者：宋珂欣 今年以来，央地共建科创中心推进会在多地接连举行：京津冀、长三角、粤港澳大湾区三大国际科技创新中心承载全球策源功能，成渝、武汉、西安三个区域科技创新中心则分别锚定西南、中部、西北的区域引领功能。 这一密集部署传递的信号明确，通过功能分层，为不同区域确定差异化创新定位。 这一部署所回应的，是创新投入持续加码下，空间集聚与产业方向分化的现实。 中国创新投入总量仍在扩张，...",
       "source": "Time Weekly",
-      "date": "2026-10-28",
-      "url": "http://www.time-weekly.com/post/333884"
+      "date": "2026-10-29",
+      "url": "http://www.time-weekly.com/post/333936"
     },
     {
-      "id": "https://post.smzdm.com/p/a70p5lnd/",
-      "title": "首赛季表现不佳仍续约到2029，佩雷兹凭什么被凯迪拉克锁定？",
-      "summary": "北京时间10月28日，墨西哥城大奖赛主场之战前夕，凯迪拉克F1车队官宣与佩雷兹续约，新合同至少持续到2029赛季结束。而十余天前的美国站上，车队领队布德科夫斯基还拒绝确认2027年车手阵容，当时消息是双方已就续约展开洽谈。成绩单给不了这份合同太多支持：佩......",
+      "id": "https://post.smzdm.com/p/apqmdk87/",
+      "title": "3,000 TOPS 算力智驾芯片明年见，Momenta 的兄弟公司什么来头",
+      "summary": "智驾模型越做越大，今后汽车得背着服务器上路吗？这个问题的答案，正在被 Momenta 和新芯航途（XHEART）两家公司共同解决。2023 年 12 月，新芯航途成立。这家公司从 Momenta 体系......",
       "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/a70p5lnd/"
+      "date": "2026-10-29",
+      "url": "https://post.smzdm.com/p/apqmdk87/"
     },
     {
-      "id": "https://post.smzdm.com/p/awwo42z2/",
-      "title": "佩雷兹长约留队，凯迪拉克接下来的建队方向是什么？",
-      "summary": "墨西哥城大奖赛前夕，凯迪拉克F1车队官宣与塞尔吉奥·佩雷兹续约，新合同至少持续到2029赛季结束。 这是一份反差感拉满的长约：这是车队的F1处子赛季，佩雷兹至今还没能为车队取得积分，最好成绩只是英国和加泰罗尼亚两站的第14名。 但把它放进车队今年8月换帅......",
+      "id": "https://post.smzdm.com/p/a03xlorw/",
+      "title": "首日破10万！华为乾智驾公开赛爆火 日常通勤就能参赛",
+      "summary": "快科技10月29日消息，华为官方公布数据，第二届华为乾崑智驾公开赛开启报名之后，首日报名人数直接突破10万，热度远超预期。上一届赛事总共吸引15万用户参与，这一届刚开报名就迎来大批车主踊跃参加。这次比......",
       "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/awwo42z2/"
+      "date": "2026-10-29",
+      "url": "https://post.smzdm.com/p/a03xlorw/"
     },
     {
-      "id": "https://post.smzdm.com/p/avgpo0pn/",
-      "title": "王传福说“中国汽车可以”，普通车主能感受到什么",
-      "summary": "10月28日，第三十三届中国汽车工程学会年会在苏州召开，比亚迪董事长兼总裁王传福获得2026年度汽车工业饶斌奖。这一奖项以“中国汽车之父”饶斌命名，2013年经行业倡议设立，被业内视为中国汽车工业的企业家最高荣誉。发表获奖感言时，王传福说，想“做一道证明......",
+      "id": "https://post.smzdm.com/p/a3mxqz7d/",
+      "title": "跳过发布会直接上市，阿维塔07L Max纯电版配置到底值不值",
+      "summary": "10月28日晚，阿维塔官宣取消原定次日的07L Max纯电版线上发布会；10月29日，新车在没有发布会的情况下直接亮相。标题里那个“值不值”，可以先给结论：这台Max是“智驾不降级、舒适做减法”的Ma......",
       "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/avgpo0pn/"
+      "date": "2026-10-29",
+      "url": "https://post.smzdm.com/p/a3mxqz7d/"
     },
     {
-      "id": "https://post.smzdm.com/p/ad7mg0md/",
-      "title": "佩雷兹续约至至少2029，博塔斯在凯迪拉克的席位还稳吗？",
-      "summary": "墨西哥城大奖赛主场之战的前夜，凯迪拉克官宣了塞尔吉奥·佩雷兹的续约，新合同至少持续到2029赛季结束。 本周恰逢这位36岁墨西哥车手的职业生涯第300场F1比赛。 对瓦尔特里·博塔斯来说，这纸官宣的答案并不乐观：他的席位已经不再稳固，但还没有被最终判定。......",
-      "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/ad7mg0md/"
+      "id": "https://www.nbd.com.cn/articles/2026-10-29/4630006.html",
+      "title": "城市24小时 | 全国第十条地铁环线来了",
+      "summary": "放眼全国，环线在地铁线网中始终扮演着特殊角色。它的核心优势，是缓解中心城区换乘压力、减少绕行、串联枢纽与商圈，并增强整个线网的韧性。...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-29",
+      "url": "https://www.nbd.com.cn/articles/2026-10-29/4630006.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a4qxog4x/",
-      "title": "佩雷兹与凯迪拉克续约至2029：一支处子赛季的车队，为何把未来押在36岁老将身上？",
-      "summary": "北京时间10月28日，墨西哥城大奖赛前夕，凯迪拉克F1车队官宣与36岁的墨西哥车手佩雷兹续约，新合同至少持续至2029赛季结束。选择在这个周末公布并非偶然：佩雷兹即将在主场迎来自己的第300场大奖赛。而成绩表上，他本赛季至今还没有为车队取得积分，最好成绩......",
-      "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/a4qxog4x/"
+      "id": "https://www.nbd.com.cn/articles/2026-10-29/4629902.html",
+      "title": "上海拟立法推动自动驾驶进出租车：智能驾驶概念股异动，大众交通盘中涨停后开板",
+      "summary": "10月29日，智能驾驶概念股出现异动。其中，大众交通（SH600611，股价4.37元，市值103.31亿元）盘中涨停后开板，当日涨幅达5.30%；锦江在线（SH600650，股价10.30元，市值5...",
+      "source": "Nbd_Cn",
+      "date": "2026-10-29",
+      "url": "https://www.nbd.com.cn/articles/2026-10-29/4629902.html"
     },
     {
-      "id": "https://post.smzdm.com/p/awwo42r2/",
-      "title": "刚上市就遇追尾起火事故，奕境X9的安全承诺兑现了多少",
-      "summary": "10月28日下午，浙江台州一辆处于刹停状态的奕境X9被一辆快速行驶的重载渣土车追尾，车上三位乘客无人受伤、及时撤离，消防扑灭明火后发现动力电池保持完好。 这起事故距离奕境X9正式上市约一个月，车辆的全......",
-      "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/awwo42r2/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261029/fbeb1ffde63b72e6aed0231a1ffde041.html",
-      "title": "调整不改大势：科技主线的“确定性”从何而来？",
+      "id": "https://www.21jingji.com/article/20261029/herald/9410141b9cdc8a5a5729130680fb676d.html",
+      "title": "粤港澳游艇自由行实现三地互通",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-28",
-      "url": "https://www.21jingji.com/article/20261029/fbeb1ffde63b72e6aed0231a1ffde041.html"
+      "date": "2026-10-29",
+      "url": "https://www.21jingji.com/article/20261029/herald/9410141b9cdc8a5a5729130680fb676d.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a03xnp48/",
-      "title": "仰望鼎曜瞄准迈巴赫S级和古思特，国产超豪华轿车差在哪？",
-      "summary": "10月27日，比亚迪仰望官宣旗下首款超豪华行政旗舰轿车定名\"鼎曜\"，内部代号HU，英文名ALTIOR（拉丁语\"更高\"）。这是仰望第一次放弃\"字母+数字\"的命名规则，给一台车单独起了中文名，官方宣传语是\"大器鼎成\"。它的对手名单也写得直白：劳斯莱斯古思特、......",
+      "id": "https://www.fx168news.com/article/1109976",
+      "title": "三花智控接待251家机构调研，包括淡水泉资管、天风证券、ALLIANCE BERNSTEIN、Baring等-FX168",
+      "summary": "2026年10月29日，三花智控披露接待调研公告，公司于10月29日接待淡水泉资管、天风证券、ALLIANCE BERNSTEIN、Baring、BEST INVESTMENT （CIC Group）、BRILLIANCE – BRILLIANT等251家机构调研。调研情况显示，三花智控2026年前三季度实现营业收入252.74亿元，同比增长5.18％；归母净利润30.67亿元...",
+      "source": "Fx168News",
+      "date": "2026-10-29",
+      "url": "https://www.fx168news.com/article/1109976"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/north/2026/10/29/859001",
+      "title": "车祸重创脑部卧床8年 骑士获判193万令吉赔偿",
+      "summary": "（居林29日讯）一名摩哆骑士8年前遭遇车祸，导致脑部严重受创，至今长期卧床，永久失去自理能力。居林地庭裁定，涉案轿车女司机须承担90%的事故责任，并在扣除伤者10%的共同疏忽责任后，判予伤者约193万令吉赔偿。地庭法官莫哈末阿兹哈裁定，44岁女司机阿斯玛须为2018年5月27日发生的车祸承担90%责任，而摩哆骑士科瓦坦则因未靠左行驶，须承担10%的共同疏忽责任。根据《大都会日报》取得日期为本月23...",
+      "source": "Orientaldaily",
+      "date": "2026-10-29",
+      "url": "https://www.orientaldaily.com.my/news/north/2026/10/29/859001"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8l9r0k/",
+      "title": "路虎的第一款轿车？揽胜GT更多信息曝光，溜背车身+复古内饰",
+      "summary": "作为路虎汽车的又一款全新车型，此前路虎揽胜GT的官方谍照图被正式曝光以后，就获得了众多车友的关注。而在近日，关于该车的更多信息也是相继曝光。虽然该车的命名也为揽胜系列车型，但是路虎揽胜GT的设计风格跟大家印象中的揽胜完全不一样。该车采用了全新的设计风格，......",
       "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/a03xnp48/"
+      "date": "2026-10-29",
+      "url": "https://post.smzdm.com/p/ak8l9r0k/"
     },
     {
-      "id": "https://yz.rednet.cn/content/646054/62/16419419.html",
-      "title": "排名第一，满意率100%！永州公安承办市人大常委会2026年重点督办代表建议办理工作获佳绩_政务_永州站",
-      "summary": "NewsData报道",
-      "source": "Rednet_Cn",
-      "date": "2026-10-28",
-      "url": "https://yz.rednet.cn/content/646054/62/16419419.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7mgkgn/",
-      "title": "试驾纯电奔驰 GLC：36 万多落地，豪华感在线，但选装是真的多",
-      "summary": "周末闲着没事跑 4S 店试驾了纯电 GLC，之前就好奇燃油版卖得火的 GLC，换成纯电能打成啥样。一圈静态加道路试驾下来，感受挺分裂的：有熟悉的奔驰老味道，也有新能源的新东西，给认豪华标、想换纯电的朋......",
+      "id": "https://post.smzdm.com/p/a82p4dl0/",
+      "title": "智己LS8 NEO纯电预售：两个版本差2万，选93度还是103度？",
+      "summary": "93度还是103度，结论可以先行：这2万差价买的基本只是电池容量，家里能装充电桩、用车以通勤和周末短途为主，24.98万的93 Max+就够；经常跑长途或补能不便，26.98万的103 Max+才值得......",
       "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/ad7mgkgn/"
+      "date": "2026-10-29",
+      "url": "https://post.smzdm.com/p/a82p4dl0/"
     },
     {
-      "id": "https://post.smzdm.com/p/a26xdldp/",
-      "title": "首销限时23.98万，理想i6现在买比老款省多少？",
-      "summary": "现在买理想i6，\"省多少\"要拆成两笔账来算。现金面上，2026款指导价24.98万元与老款完全一致，2026年11月30日24:00前下定，可享首销期限时权益价23.98万元。配置面上，理想把新款的改......",
-      "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/a26xdldp/"
+      "id": "https://www.ithome.com/1/019/792.htm",
+      "title": "马斯克对字母 X 情有独钟，旗下特斯拉与 SpaceX 合并后或选用闲置美股代码 X",
+      "summary": "IT之家 10 月 29 日消息，据彭博社报道，埃隆 · 马斯克对字母 X 情有独钟。特斯拉最早的车型之一就是 Model X；太空探索技术公司（Space Exploration Technologies Corp.）简称 SpaceX；2022 年收购推特之后，他直接把这个社交平台更名为了 X。他甚至给自己的儿子取名 X Æ A-Xii，还常在网上叫他“小 X”。 如今，这位全球首富正在探索将...",
+      "source": "Ithome",
+      "date": "2026-10-29",
+      "url": "https://www.ithome.com/1/019/792.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/a03xnwz0/",
-      "title": "开过新P7，才懂什么叫顺？",
-      "summary": "开小鹏P7这段时间，最直观的感觉是：它不像一台冷冰冰的电车，更像是个懂你通勤节奏的搭档。第一次在地库看到它，低趴溜背、无框车门、贯穿灯语一亮，锁车后我真的会回头看两眼，颜值这块确实拿捏住了。坐进驾驶位，视野和坐姿都挺舒服，方向盘轻重可调，电门很跟脚。后驱......",
+      "id": "https://post.smzdm.com/p/a4qxz0ww/",
+      "title": "智己LS8 NEO纯电预售开启，权益价24.98万元起：11月5日上市，要不要再等等？",
+      "summary": "智己LS8 NEO纯电于10月29日正式开启预售，推出93 Max+、103 Max+两款配置，预售价格25.98万-27.98万元，预售权益价24.98万-26.98万元，11月5日正式上市。作为智己NEXT·2028战略的首款车型，它的核心策略是用“......",
       "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/a03xnwz0/"
+      "date": "2026-10-29",
+      "url": "https://post.smzdm.com/p/a4qxz0ww/"
     },
     {
-      "id": "https://post.smzdm.com/p/agg5l357/",
-      "title": "小鹏P7：始于颜值，终于好开",
-      "summary": "开小鹏P7这段时间，最先上头的还是颜值。低趴溜背、无框车门，晚上灯带一亮，停哪都有人回头看。但开久了会发现，它真正留住我的不是样子，是日常那种“怎么开都不累”的顺。电门很跟脚，红绿灯起步轻快，不会一窜一窜。后驱版动力够用，市区超车随踩随有，运动模式也能给......",
-      "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/agg5l357/"
+      "id": "https://www.channelnewsasia.com/watch/visitors-can-try-sentosas-self-driving-shuttles-free-early-2027-6504026",
+      "title": "Visitors can try Sentosa's self-driving shuttles for free from early 2027",
+      "summary": "Visitors to Sentosa can soon ride on autonomous vehicles from early next year. The vehicles may skip stops, taking visitors to their destinations faster. Eventually, there will be 27 pick-up and drop-...",
+      "source": "CNA",
+      "date": "2026-10-29",
+      "url": "https://www.channelnewsasia.com/watch/visitors-can-try-sentosas-self-driving-shuttles-free-early-2027-6504026"
     },
     {
-      "id": "https://post.smzdm.com/p/am93k4n4/",
-      "title": "硬拉312吨的红旗G919上市，34.98万起，四电机越野香不香",
-      "summary": "35万买硬派越野SUV，以前能想到的就是那些老牌方盒子。10月25日，红旗G919上市，指导价34.98万到42.98万，四电机豪华越野SUV，3款车型。这台车发布会没念参数，直接拉去做了三场极限挑战：硬拉312吨重卡、沙漠里冲珠峰、珠峰108拐盘山路。......",
-      "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/am93k4n4/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am93qzqv/",
-      "title": "理想i6“加量不加价”：23.98万元，等等党到底赢在哪",
-      "summary": "10月28日晚，2026款理想i6正式上市，全国统一零售价24.98万元，首销期限时权益价格23.98万元。24.98万元的零售价，与2025年9月上市的第一代i6定价完全一致。这就是\"等等党赢麻了\"......",
-      "source": "Smzdm",
-      "date": "2026-10-28",
-      "url": "https://post.smzdm.com/p/am93qzqv/"
+      "id": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/tier-iv-and-ntro-advance-autonomous-transit-initiative-in-australia/2456821",
+      "title": "TIER IV and NTRO advance autonomous transit initiative in Australia",
+      "summary": "**media[1282285]**TOKYO, Oct. 29, 2026 /PRNewswire/ -- Australia's National Transport Research Organisation (NTRO) has purchased a mid-sized autonomous bus from TIER IV, a pioneering force in open-sou...",
+      "source": "The Manila Times",
+      "date": "2026-10-29",
+      "url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/tier-iv-and-ntro-advance-autonomous-transit-initiative-in-australia/2456821"
     },
     {
       "id": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/weride-unveils-global-insurance-partnership-program-to-scale-autonomous-vehicles-worldwide/2455711",
@@ -208,22 +260,6 @@
       "source": "The Straits Times",
       "date": "2026-10-23",
       "url": "https://www.straitstimes.com/life/motoring/the-car-expo-returns-with-51-brands-on-oct-24-and-25"
-    },
-    {
-      "id": "https://www.shawlocal.com/news/2026/10/22/bill-aims-to-study-how-self-driving-vehicles-can-be-integrated-into-public-transit/",
-      "title": "Bill aims to study how self-driving vehicles can be integrated into public transit",
-      "summary": "From Capitol News Illinois: Legislation to test autonomous vehicles in Illinois may come up again in the November veto session, though the lead sponsor of a pilot bill says there’s still a lot of work...",
-      "source": "Shaw Local Enewspapers",
-      "date": "2026-10-22",
-      "url": "https://www.shawlocal.com/news/2026/10/22/bill-aims-to-study-how-self-driving-vehicles-can-be-integrated-into-public-transit/"
-    },
-    {
-      "id": "https://qctimes.com/news/state-regional/government-politics/article_51f31f32-681e-576c-bb6e-ac6dba0a0f9e.html",
-      "title": "Illinois transit looks to integrate self-driving vehicles",
-      "summary": "Rep. Kam Buckner’s House Bill 4663 aims to establish a formal framework for testing and deploying autonomous vehicles in Illinois, restricting initial trials to select counties and prioritizing data c...",
-      "source": "Davenport Quad-City Times",
-      "date": "2026-10-22",
-      "url": "https://qctimes.com/news/state-regional/government-politics/article_51f31f32-681e-576c-bb6e-ac6dba0a0f9e.html"
     }
   ]
 }
