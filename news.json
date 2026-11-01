@@ -1,207 +1,163 @@
 {
-  "lastUpdated": "2026-10-31 05:09:29",
-  "totalCount": 31,
+  "lastUpdated": "2026-11-01 05:40:00",
+  "totalCount": 25,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 10,
-    "Ithome": 1,
-    "21Jingji": 3,
-    "Bjnews": 1,
-    "Prnasia": 1,
-    "Theportugalnews": 1,
-    "Investing_Cn": 1,
+    "Smzdm": 13,
+    "Chinanews": 2,
+    "21Jingji": 1,
+    "Cri_Cn": 1,
+    "The Economic Times": 1,
     "Firstpost": 1,
     "Livemint": 1,
     "The Tribune": 1,
     "CNA": 1,
     "The Manila Times": 2,
-    "The Star": 1,
-    "TechStartups.com": 1
+    "The Star": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/aggwmw7d/",
+      "title": "我国空间站首位外籍航天员将至：将在两名来华受训的巴基斯坦候选人中产生",
+      "summary": "2026年10月31日，第七届载人航天学术大会在北京开幕，中国空间站的国际合作最新动向在会上得到确认：不久的将来，中国空间站将迎来首位外籍航天员和低成本货物运输系统的访问。这名航天员是谁、何时飞天，官......",
+      "source": "Smzdm",
       "date": "2026-10-31",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+      "url": "https://post.smzdm.com/p/aggwmw7d/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1NrxL6QEkx",
-      "title": "【B站】真全自动驾驶：特斯拉Cybercab",
-      "summary": "#cybercab#\n总结：\n1.Cybercab 是特斯拉正向原生为 Robotaxi 无人驾驶共享出行开发的量产车，不对私人零售，属于车队运营出租车\n2.无方向盘、无踏板、无后视使用的是蝴蝶门 + 双座无障碍座舱\n3.搭载一块22英寸大屏，全车几乎无实体按键，空调、车门、行程交互都靠这块屏，车顶...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/a70464z9/",
+      "title": "首位外籍航天员即将进驻中国空间站，普通人上太空还有多远？",
+      "summary": "第一位进入中国空间站的外籍航天员即将尘埃落定，人选来自巴基斯坦。今年4月，中国载人航天工程首批外籍航天员选拔收官，2名巴基斯坦籍候选对象穆罕默德·齐尚·阿里和胡拉姆·达乌德入选。 按计划，两人在完成各......",
+      "source": "Smzdm",
       "date": "2026-10-31",
-      "url": "https://www.bilibili.com/video/BV1NrxL6QEkx"
+      "url": "https://post.smzdm.com/p/a70464z9/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/aggwmwe6/",
+      "title": "智己LS6首月交付8000台：首批车主夸它好开，也有人在跟方向盘较劲",
+      "summary": "10月31日，智己宣布全新一代LS6累计交付突破8000台。从9月23日上市、国庆前夕开始交付算起，这差不多是第一个完整的交付月。订单热度早就有，但车真正开进车位之后，首批车主的说法才变得具体。IM智己汽车出现频率最高的好评，几乎都指向同一件事：这台接近......",
+      "source": "Smzdm",
       "date": "2026-10-31",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+      "url": "https://post.smzdm.com/p/aggwmwe6/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1U2xY6gEny",
-      "title": "【B站】一套全球都可用的高阶辅助驾驶，到底好不好用？",
-      "summary": "带着疑问和期待，我们来到巴黎，与博世汽车CTO Christoph Hartung一起勇闯巴黎老街区，看博世高阶智能辅助驾驶，如何落地全球市场、满足全球用户。...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/arzd9dzz/",
+      "title": "车灯不许发表情包了：像素大灯要凉了吗",
+      "summary": "前阵子刷微博，看到一条帖子说车灯新国标的征求意见稿有100多页。这几天央视财经、人民网陆续跟进报道，B站上点名问界、尊界、智界、智己的视频也跑出了五万多播放，评论区吵成一团。这个标准全称很长：《汽车及......",
+      "source": "Smzdm",
       "date": "2026-10-31",
-      "url": "https://www.bilibili.com/video/BV1U2xY6gEny"
+      "url": "https://post.smzdm.com/p/arzd9dzz/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1JPxe6fEku",
-      "title": "【B站】2027款i60 辅助驾驶 (NDA)最新升级（哨兵模式与智驾冲突问题经测试现已解决）",
-      "summary": "继上周日(10月25日)智驾时车辆刹车不及时问题发生后，本周三一早 4S 店工作人员致电我去升级最新的 OTA 系统。经过一上午的等待，系统更新完毕，我第一时间智驾回去，经过两天的认真观察和测评（包括哨兵模式开启关闭后对 NDA  是存在影响，以及自身智驾体验和系统反应），现就升级后的市区智驾（ND...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/ak83n3oe/",
+      "title": "去南京看苏超决赛，除了看球还能逛吃什么？",
+      "summary": "10月31日晚，2026苏超决赛在南京奥体中心体育场落幕，无锡队凭借第29分钟卢则灵和第52分钟刘宇豪的进球，以2:1击败常州队，捧起2026赛季苏超冠军奖杯。 有62356名观众来到南京奥体中心现场......",
+      "source": "Smzdm",
       "date": "2026-10-31",
-      "url": "https://www.bilibili.com/video/BV1JPxe6fEku"
+      "url": "https://post.smzdm.com/p/ak83n3oe/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8367z9/",
-      "title": "风云A9增程，平日纯电周末油车",
-      "summary": "奇瑞风云A9增程版10月26号上市，动静其实不大。当天的风头被比亚迪第三代秦PLUS DM-i抢走了，奇瑞自己的宣传火力，好像也还集中在纯电版那边。但我倒是觉得这台增程版更值得聊，因为它解决的是一个很......",
+      "id": "https://post.smzdm.com/p/a6z4mpx0/",
+      "title": "比亚迪登顶 2026 车企出海第一，是如何做到的？",
+      "summary": "近日，2026中国品牌出海博览会在海南开幕，同期论坛发布《2026中国出海品牌500强》榜单，比亚迪跻身总榜前十，成为车企出海品牌第一，第二天又入选中国企业出海影响力案例。这个第一的分量，并不在于它把多少辆车卖到了国外，而在于它走的根本不是简单外销的路子......",
       "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/ak8367z9/"
+      "date": "2026-10-31",
+      "url": "https://post.smzdm.com/p/a6z4mpx0/"
     },
     {
-      "id": "https://post.smzdm.com/p/a2648gk7/",
-      "title": "首个星神实装！《崩坏：星穹铁道》4.7版本前瞻全解读：11月11日上线、登录送限定五星、兑换码31日24点失效",
-      "summary": "10月30日晚，《崩坏：星穹铁道》4.7版本「此刻，将群星付之一笑」前瞻特别节目《阿哈之夜》开播，节目以主持人三月七坐镇、星神阿哈\"劫持演播室\"的整活形式开场，官方与多个前瞻速通汇总同步确认，新版本将......",
+      "id": "https://post.smzdm.com/p/awwd3okg/",
+      "title": "大多是追求越野氛围感的伪玩家，机关单位上班族日常通勤就几公里",
+      "summary": "素车稳稳开了一万公里，后续每次进山越野、长途出游，我都会结合自己的用车习惯一点点加装、微调，所有改动只讲究实用，不盲目堆颜值。 1、加装全套4mm锰钢底盘护板。走烂路再也不用担心磕油底壳，底盘防护直接拉满，穿越非铺装路面心里更踏实。 2、更换265/70......",
       "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/a2648gk7/"
+      "date": "2026-10-31",
+      "url": "https://post.smzdm.com/p/awwd3okg/"
     },
     {
-      "id": "https://post.smzdm.com/p/ae65mzqk/",
-      "title": "马自达混动CX-5定档2027：全新压燃发动机配自研混动，为什么没走丰田的路",
-      "summary": "马自达终于给混动CX-5写下了一个官方时间表：2027年。在马自达最新年度综合报告披露的动力技术路线中，品牌不会全面倒向纯电，将继续深耕先进内燃机技术，同时推进混动、纯电多条路线并行，其中全新Skya......",
+      "id": "https://post.smzdm.com/p/a8267x0q/",
+      "title": "“速成车”被喊停了吗？四部门划下红线，2027年见真章",
+      "summary": "“喊停”已经不是问号——国家确实出手了，但靠的不是一道禁令。10月10日，工信部会同公安部、生态环境部、市场监管总局联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿......",
       "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/ae65mzqk/"
+      "date": "2026-10-31",
+      "url": "https://post.smzdm.com/p/a8267x0q/"
     },
     {
-      "id": "https://www.ithome.com/1/020/386.htm",
-      "title": "华为官网公开鸿蒙智行享界 V8 选配：标配 ±12° 后轮转向、Ultra 采用 L3 自动驾驶架构，32.98 万元起",
-      "summary": "IT之家 10 月 30 日消息，除了问界新 M8 的选配信息公开外，华为官网还公开了鸿蒙智行享界 V8 的配置信息，该车标配华为乾崑智驾 ADS 5，预计 11 月上旬发布，官方预售价 32.98 万元起。 华为官网显示，享界 V8 采用七座布局设计，分 Ultra+、Ultra、Max+ 和 Max 四个版本。除 Max+ 外，享界 V8 其余版本均可选 800V 增程或 800V 纯电动力。...",
-      "source": "Ithome",
-      "date": "2026-10-30",
-      "url": "https://www.ithome.com/1/020/386.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgdnkop/",
-      "title": "“张雪机车”商标正式回归张雪：抢注方未答辩，110余件申请铺成两年多确权路",
-      "summary": "10月29日，重庆市知识产权局披露，“ZXMOTO”等核心商标正式完成注册，权利人均为重庆张雪机车工业有限公司，“张雪机车”这个品牌名称在法律层面正式回到张雪创办的公司手中。这不是一场“归零后夺回”的翻身仗，而是一场靠提前申请、商标异议和全类别布局打赢的......",
+      "id": "https://post.smzdm.com/p/a7046ne9/",
+      "title": "重卡智驾不再抄乘用车：卓驭磐行把端到端模型开上了高速干线！",
+      "summary": "➡️ 本文聚焦卓驭磐行珠海发布会，解读磐行 PDS4、PDS5 双版本方案，围绕端到端重卡大模型、激目 2.0 舱内激光感知、AI 节油算法、七大车企定点量产等核心信息，剖析重卡智驾区别于乘用车的技术......",
       "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/avgdnkop/"
+      "date": "2026-10-31",
+      "url": "https://post.smzdm.com/p/a7046ne9/"
     },
     {
-      "id": "https://post.smzdm.com/p/aomqp6w6/",
-      "title": "和仰望U7风格完全不同，鼎曜走的沉稳行政路线适合谁？",
-      "summary": "10月27日，仰望把旗下首款超豪华行政旗舰轿车定名“鼎曜”，英文名ALTIOR，取自拉丁语“更高”。10月30日，此前引发猜测的对开门得到确认：开合角接近90°，进出座舱的姿态被形容为“更加舒展”。实......",
+      "id": "https://www.chinanews.com.cn/gj/2026/10-31/10724074.shtml",
+      "title": "合作进行时︱中德关系事关双边、中欧，更事关全球",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-10-31",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724074.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggwmwld/",
+      "title": "巴基斯坦航天员上中国空间站，具体要做什么？",
+      "summary": "10月31日，第七届载人航天学术大会在北京开幕，会上提到：不久的将来，中国空间站将迎来首位外籍航天员。两名巴基斯坦候选人穆罕默德·齐尚·阿里和胡拉姆·达乌德，在完成训练并通过考核后，其中一人将以载荷专......",
       "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/aomqp6w6/"
+      "date": "2026-10-31",
+      "url": "https://post.smzdm.com/p/aggwmwld/"
     },
     {
-      "id": "https://post.smzdm.com/p/a2648rgq/",
-      "title": "商标回到张雪手里，海外买张雪机车会变吗？",
-      "summary": "10月29日，重庆市知识产权局披露，\"ZXMOTO\"等一批核心商标完成注册，权利归属重庆张雪机车工业有限公司，\"张雪机车\"这一品牌名称在法律层面正式回归创始人张雪。对\"在海外买张雪机车\"的用户来说，这......",
-      "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/a2648rgq/"
+      "id": "https://www.chinanews.com.cn/cj/2026/10-31/10724066.shtml",
+      "title": "从“乌镇时间”到“全球荣耀”",
+      "summary": "一年一度的世界互联网大会，持续在为数智时代标注新坐标。世界互联网大会杰出贡献奖的设立，也让“乌镇时间”拥有了超越峰会会期的深远价值。...",
+      "source": "Chinanews",
+      "date": "2026-10-31",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724066.shtml"
     },
     {
-      "id": "https://www.21jingji.com/article/20261030/herald/e0a9f3bc2011860c0819380e05ae12ff.html",
-      "title": "不低于2400亿元！601138，抛出大计划",
+      "id": "https://www.21jingji.com/article/20261031/herald/acc4231c0d073028ef8ab53ad02b3856.html",
+      "title": "马斯克，“接管”军队",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-30",
-      "url": "https://www.21jingji.com/article/20261030/herald/e0a9f3bc2011860c0819380e05ae12ff.html"
+      "date": "2026-10-31",
+      "url": "https://www.21jingji.com/article/20261031/herald/acc4231c0d073028ef8ab53ad02b3856.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20261030/herald/98270a57f87306c4421b5fba5a25560a.html",
-      "title": "做“电子螺丝钉”的华为乾崑，如何把智驾延伸到用车生活？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-30",
-      "url": "https://www.21jingji.com/article/20261030/herald/98270a57f87306c4421b5fba5a25560a.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a826ed67/",
-      "title": "比亚迪新车官宣：10月30日继续开售，17.98万起",
-      "summary": "10月30日消息，比亚迪方程豹官方发布喜讯，方程豹钛7达成了30万辆销量达成。该车不仅是目前最快达成30万销量的中大型SUV，而且连续4个月获得中大型SUV销量冠军，甚至是方盒子车型中12个月的销量冠......",
+      "id": "https://post.smzdm.com/p/al39vxmo/",
+      "title": "卖了10万台的埃安i60，车主吐槽最多的3个问题",
+      "summary": "10月31日下午，埃安i60的第10万台车在番禺交付。广汽埃安宣布，它是最快交付10万台的双动力SUV。 9月单月交付10478台。 从2025年11月上市到第10万台交付，不到一年。 10万级、大后......",
       "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/a826ed67/"
+      "date": "2026-10-31",
+      "url": "https://post.smzdm.com/p/al39vxmo/"
     },
     {
-      "id": "https://post.smzdm.com/p/a954l74o/",
-      "title": "冲着女主，看完了这部未删减影片",
-      "summary": "一个女人，好不容易从丧夫之痛中走出来，重新爱上了一个男人。可谁能想到，她死去的丈夫，竟然是害死这个男人妻儿的“凶手”！更离谱的是，两人以为只是命运捉弄，没想到背后还藏着一场蓄谋已久的阴谋。爱情、欲望、......",
+      "id": "https://post.smzdm.com/p/awwd3k6k/",
+      "title": "奇瑞要把智界做成新势力，现有车主能等到哪些新车型？",
+      "summary": "10月31日，奇瑞汽车三季度媒体沟通交流会上，执行副总裁戚士龙首次正面回应“智界独立”：希望智界团队更像新势力企业，而不是“大一号”的传统车企。对智界车主来说，这次表态值得拆成三层来读：“做成新势力”......",
       "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/a954l74o/"
+      "date": "2026-10-31",
+      "url": "https://post.smzdm.com/p/awwd3k6k/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1793343066129873.html",
-      "title": "智能一切移动，卓驭磐行开启新程",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-10-30",
-      "url": "https://www.bjnews.com.cn/detail/1793343066129873.html"
-    },
-    {
-      "id": "https://www.prnasia.com/story/554029-1.shtml",
-      "title": "Token工厂迈入2.0：燧弘华创升级算力底座，加速布局物理智能新赛道",
-      "summary": "厦门2026年10月30日 /美通社/ -- 10月30日，以\"燧汇昇启•智达四海\"为主题的燧弘华创•华为昇腾950DT福建首发点亮仪式暨中国移动天工平台厦门方案推介活动在厦门举行。政府、产业链生态伙伴及企业嘉宾齐聚一堂，共同见证新一代国产算力点亮。 活动由燧弘华创、华为福建代表处、中国移动厦门分公司、思明智算中心、海沧区工业数智化赋能中心、联强国际、华付技术共同主办。 此次昇腾950DT在厦门点...",
-      "source": "Prnasia",
-      "date": "2026-10-30",
-      "url": "https://www.prnasia.com/story/554029-1.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzrndmz/",
-      "title": "【小雨姐评测】K盒子 10542 爆改SVJ 1:8",
-      "summary": "大家好，都有点不好意思给大家打招呼了，半年没有更新实在不好意思，2025年是一个新的开始，虽然更新可能没有以前频繁了，但是依旧热爱着积木，就好比K盒子已经很久没有新款科技车一样，今天就带来K 盒子20......",
+      "id": "https://post.smzdm.com/p/a954n0eo/",
+      "title": "MONA L05没降3万，但这个价格是真狠",
+      "summary": "小鹏MONA L05在10月29号晚上上市，\"直降3万\"瞬间刷屏，不少人转发时说小鹏这是疯了。我把预售和上市的两张版本表对着看了两遍，这个3万，水分不小。预售价16.98万起，对应的版本是纯电535 ......",
       "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/arzrndmz/"
+      "date": "2026-10-31",
+      "url": "https://post.smzdm.com/p/a954n0eo/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261030/herald/b2e40a91273287076ea458d71e97fa6d.html",
-      "title": "广东最大水稻无人农场晚稻开镰！多国专家现场“围观”",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-10-30",
-      "url": "https://www.21jingji.com/article/20261030/herald/b2e40a91273287076ea458d71e97fa6d.html"
+      "id": "https://news.cri.cn/20261031/f54efac1-42fc-d245-7775-b677a1e2557c.html",
+      "title": "[视频]算力网加速织就 助力数字中国建设-国际在线",
+      "summary": "央视网消息（新闻联播）：算力网是人工智能发展的基础支撑。作为“十五五”规划的重大工程，开局起步之年，算力网提速升级，各地因地制宜推进数字中国建设。 随着八大国家算力枢纽布局东西南北，“东数西算&rd...",
+      "source": "Cri_Cn",
+      "date": "2026-10-31",
+      "url": "https://news.cri.cn/20261031/f54efac1-42fc-d245-7775-b677a1e2557c.html"
     },
     {
-      "id": "https://www.theportugalnews.com/zh/zh-news/2026-10-30/portugal-increases-road-checks/1108780",
-      "title": "葡萄牙加强了道路检查",
-      "summary": "本周末在葡萄牙境内驾车出行的人士应注意，由于国家共和卫队（GNR）为万圣节展开为期三天的行动，道路上的警力将有所增加。...",
-      "source": "Theportugalnews",
-      "date": "2026-10-30",
-      "url": "https://www.theportugalnews.com/zh/zh-news/2026-10-30/portugal-increases-road-checks/1108780"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggnmznw/",
-      "title": "省心家用优选——凯美瑞双擎",
-      "summary": "在中端家用轿车市场，丰田凯美瑞双擎凭借成熟稳定的混动技术，成为兼顾实用、省油与品质的口碑车型，是日常通勤、家庭出行的优质选择。 凯美瑞双擎搭载丰田第五代智能电混系统，依托经典的THS混联架构，实现动力......",
-      "source": "Smzdm",
-      "date": "2026-10-30",
-      "url": "https://post.smzdm.com/p/aggnmznw/"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3640376",
-      "title": "杰富瑞上调Rivian Automotive评级至\"买入\"，视近期下跌为入场良机",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-10-30",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3640376"
+      "id": "https://economictimes.indiatimes.com/news/new-updates/waymo-in-japan-driverless-taxis-launch-planned-for-2027-with-toyota-partnership-local-bz4x-evs-to-be-fitted-with-self-driving-technology-uk-expansion-next/articleshow/135397478.cms",
+      "title": "Waymo in Japan: Driverless taxis launch planned for 2027 with Toyota partnership, local bZ4X EVs to be fitted with self-driving technology; UK expansion next",
+      "summary": "Toyota Waymo partnership: Toyota and Waymo will begin testing a fleet of autonomous bZ4X electric vehicles in Japan in 2027, with expansion to the UK and other markets planned later. Toyota will manuf...",
+      "source": "The Economic Times",
+      "date": "2026-10-31",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/waymo-in-japan-driverless-taxis-launch-planned-for-2027-with-toyota-partnership-local-bz4x-evs-to-be-fitted-with-self-driving-technology-uk-expansion-next/articleshow/135397478.cms"
     },
     {
       "id": "https://www.firstpost.com/auto/waymo-teams-up-with-toyota-to-bring-self-driving-robotaxis-to-japan-uk-next-in-line-14056623.html",
