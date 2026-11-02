@@ -1,11 +1,14 @@
 {
-  "lastUpdated": "2026-11-01 05:40:00",
-  "totalCount": 25,
+  "lastUpdated": "2026-11-02 05:38:25",
+  "totalCount": 31,
   "sources": {
-    "Smzdm": 13,
-    "Chinanews": 2,
+    "Bilibili": 5,
+    "Smzdm": 11,
+    "Orientaldaily": 2,
     "21Jingji": 1,
-    "Cri_Cn": 1,
+    "Zaobao": 1,
+    "Chinanews": 2,
+    "Bjnews": 1,
     "The Economic Times": 1,
     "Firstpost": 1,
     "Livemint": 1,
@@ -16,140 +19,188 @@
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/aggwmw7d/",
-      "title": "我国空间站首位外籍航天员将至：将在两名来华受训的巴基斯坦候选人中产生",
-      "summary": "2026年10月31日，第七届载人航天学术大会在北京开幕，中国空间站的国际合作最新动向在会上得到确认：不久的将来，中国空间站将迎来首位外籍航天员和低成本货物运输系统的访问。这名航天员是谁、何时飞天，官......",
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-11-02",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-11-02",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1X7xp6JEsh",
+      "title": "【B站】有人劝我别坐 Cybercab！在 Austin 实测 6 程 Robotaxi 后，我对无人驾驶的看法彻底改变了（全程用广东话跟 Grok 聊天）",
+      "summary": "2026 年 9 月，Tesla Cybercab 正式在美国 Austin 投入服务。我趁出差的机会专程去实测，从早上坐到晚上，一共坐了 5 程 Cybercab + 1 程 Model Y。\n车里跟 Grok 的互动超出预期，它会沿途介绍景点、建议行程，还能实时帮我查餐厅，感觉有点像导游 + 小...",
+      "source": "Bilibili",
+      "date": "2026-11-02",
+      "url": "https://www.bilibili.com/video/BV1X7xp6JEsh"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-11-02",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-11-02",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkd59l9/",
+      "title": "销售嘴里的L3，全国只批了两款车",
+      "summary": "知乎上最近有个问题，评论区挺热闹：“自动驾驶L3标准在2027年7月实施，现在买新能源车是不是49年加入国军了？”问题背后的焦虑很真实。这两年去看车，\"L3硬件预埋\"几乎成了高端新能源的标配话术：激光雷达、冗余制动、冗余转向、大算力芯片全给你装上，比普通......",
       "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/aggwmw7d/"
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/axkd59l9/"
     },
     {
-      "id": "https://post.smzdm.com/p/a70464z9/",
-      "title": "首位外籍航天员即将进驻中国空间站，普通人上太空还有多远？",
-      "summary": "第一位进入中国空间站的外籍航天员即将尘埃落定，人选来自巴基斯坦。今年4月，中国载人航天工程首批外籍航天员选拔收官，2名巴基斯坦籍候选对象穆罕默德·齐尚·阿里和胡拉姆·达乌德入选。 按计划，两人在完成各......",
+      "id": "https://post.smzdm.com/p/a5rpmzz7/",
+      "title": "比亚迪前三季度赚223亿：同比仍降4.24%，这份财报的看点不在总数",
+      "summary": "比亚迪2026年三季报在10月29日晚落地：前三季度归母净利润223.45亿元，日均赚超8000万元，仍是中国车企里的顶级赚钱能力。但这个数字同比下降4.24%，已是该指标连续第二年回落——2025年......",
       "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/a70464z9/"
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/a5rpmzz7/"
     },
     {
-      "id": "https://post.smzdm.com/p/aggwmwe6/",
-      "title": "智己LS6首月交付8000台：首批车主夸它好开，也有人在跟方向盘较劲",
-      "summary": "10月31日，智己宣布全新一代LS6累计交付突破8000台。从9月23日上市、国庆前夕开始交付算起，这差不多是第一个完整的交付月。订单热度早就有，但车真正开进车位之后，首批车主的说法才变得具体。IM智己汽车出现频率最高的好评，几乎都指向同一件事：这台接近......",
+      "id": "https://www.orientaldaily.com.my/news/society/2026/11/01/859659",
+      "title": "疑无法提款怒砸5台银行机器 吸毒醉酒男子持刀伤人后自首",
+      "summary": "（泗里街1日讯）一名38岁本地男子疑因无法从银行自动提款机取钱而情绪失控，持巴冷刀破坏旧回教堂路丰隆银行的5台银行机器，并在附近持刀砍伤一名试图阻止他的21岁男子。警方目前已逮捕嫌犯展开调查。泗里街县警区主任阿斯旺迪警监今晚发布文告证实，此案于今日凌晨12时05分左右发生，嫌犯涉嫌持巴冷刀破坏两台自动提款机、两台现金存款机及一台支票存款机。他透露，据警方初步调查显示，嫌犯疑因无法从自动提款机顺利提...",
+      "source": "Orientaldaily",
+      "date": "2026-11-01",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/11/01/859659"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al395gp8/",
+      "title": "这次无人机表演后，本届珠海航展还有哪些值得期待的空中展示",
+      "summary": "11月1日晚，人民空军联合珠海航展集团在珠海大剧院上空带来\"三十而跃·长空礼赞\"无人机编队灯光表演，2000余架无人机以夜空为幕，礼赞人民空军成立77周年、中国航展创办30周年，网友拍下的视频里，歼-......",
       "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/aggwmwe6/"
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/al395gp8/"
     },
     {
-      "id": "https://post.smzdm.com/p/arzd9dzz/",
-      "title": "车灯不许发表情包了：像素大灯要凉了吗",
-      "summary": "前阵子刷微博，看到一条帖子说车灯新国标的征求意见稿有100多页。这几天央视财经、人民网陆续跟进报道，B站上点名问界、尊界、智界、智己的视频也跑出了五万多播放，评论区吵成一团。这个标准全称很长：《汽车及......",
-      "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/arzd9dzz/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak83n3oe/",
-      "title": "去南京看苏超决赛，除了看球还能逛吃什么？",
-      "summary": "10月31日晚，2026苏超决赛在南京奥体中心体育场落幕，无锡队凭借第29分钟卢则灵和第52分钟刘宇豪的进球，以2:1击败常州队，捧起2026赛季苏超冠军奖杯。 有62356名观众来到南京奥体中心现场......",
-      "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/ak83n3oe/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z4mpx0/",
-      "title": "比亚迪登顶 2026 车企出海第一，是如何做到的？",
-      "summary": "近日，2026中国品牌出海博览会在海南开幕，同期论坛发布《2026中国出海品牌500强》榜单，比亚迪跻身总榜前十，成为车企出海品牌第一，第二天又入选中国企业出海影响力案例。这个第一的分量，并不在于它把多少辆车卖到了国外，而在于它走的根本不是简单外销的路子......",
-      "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/a6z4mpx0/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwd3okg/",
-      "title": "大多是追求越野氛围感的伪玩家，机关单位上班族日常通勤就几公里",
-      "summary": "素车稳稳开了一万公里，后续每次进山越野、长途出游，我都会结合自己的用车习惯一点点加装、微调，所有改动只讲究实用，不盲目堆颜值。 1、加装全套4mm锰钢底盘护板。走烂路再也不用担心磕油底壳，底盘防护直接拉满，穿越非铺装路面心里更踏实。 2、更换265/70......",
-      "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/awwd3okg/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a8267x0q/",
-      "title": "“速成车”被喊停了吗？四部门划下红线，2027年见真章",
-      "summary": "“喊停”已经不是问号——国家确实出手了，但靠的不是一道禁令。10月10日，工信部会同公安部、生态环境部、市场监管总局联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿......",
-      "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/a8267x0q/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a7046ne9/",
-      "title": "重卡智驾不再抄乘用车：卓驭磐行把端到端模型开上了高速干线！",
-      "summary": "➡️ 本文聚焦卓驭磐行珠海发布会，解读磐行 PDS4、PDS5 双版本方案，围绕端到端重卡大模型、激目 2.0 舱内激光感知、AI 节油算法、七大车企定点量产等核心信息，剖析重卡智驾区别于乘用车的技术......",
-      "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/a7046ne9/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gj/2026/10-31/10724074.shtml",
-      "title": "合作进行时︱中德关系事关双边、中欧，更事关全球",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-10-31",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724074.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggwmwld/",
-      "title": "巴基斯坦航天员上中国空间站，具体要做什么？",
-      "summary": "10月31日，第七届载人航天学术大会在北京开幕，会上提到：不久的将来，中国空间站将迎来首位外籍航天员。两名巴基斯坦候选人穆罕默德·齐尚·阿里和胡拉姆·达乌德，在完成训练并通过考核后，其中一人将以载荷专......",
-      "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/aggwmwld/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/10-31/10724066.shtml",
-      "title": "从“乌镇时间”到“全球荣耀”",
-      "summary": "一年一度的世界互联网大会，持续在为数智时代标注新坐标。世界互联网大会杰出贡献奖的设立，也让“乌镇时间”拥有了超越峰会会期的深远价值。...",
-      "source": "Chinanews",
-      "date": "2026-10-31",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724066.shtml"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261031/herald/acc4231c0d073028ef8ab53ad02b3856.html",
-      "title": "马斯克，“接管”军队",
+      "id": "https://www.21jingji.com/article/20261101/herald/692c04d30b8d6b8cfb4501e1b4ec5c05.html",
+      "title": "TÜV南德国际科技创新园区将于本月在广州启幕",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-10-31",
-      "url": "https://www.21jingji.com/article/20261031/herald/acc4231c0d073028ef8ab53ad02b3856.html"
+      "date": "2026-11-01",
+      "url": "https://www.21jingji.com/article/20261101/herald/692c04d30b8d6b8cfb4501e1b4ec5c05.html"
     },
     {
-      "id": "https://post.smzdm.com/p/al39vxmo/",
-      "title": "卖了10万台的埃安i60，车主吐槽最多的3个问题",
-      "summary": "10月31日下午，埃安i60的第10万台车在番禺交付。广汽埃安宣布，它是最快交付10万台的双动力SUV。 9月单月交付10478台。 从2025年11月上市到第10万台交付，不到一年。 10万级、大后......",
+      "id": "https://post.smzdm.com/p/anvmep87/",
+      "title": "深蓝在欧洲卖得好，国内车主能等到什么“反向升级”",
+      "summary": "10月31日，深蓝汽车CEO姜海荣公布葡萄牙足球传奇德科成为深蓝S05车主，并带出一份官方数据：2026年1—9月，深蓝在欧洲市场销量同比增长超过106%。次日，深蓝公布10月全球销量32602辆，环比增长8.01%。海外消息密集，国内车主关心的是：深蓝......",
       "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/al39vxmo/"
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/anvmep87/"
     },
     {
-      "id": "https://post.smzdm.com/p/awwd3k6k/",
-      "title": "奇瑞要把智界做成新势力，现有车主能等到哪些新车型？",
-      "summary": "10月31日，奇瑞汽车三季度媒体沟通交流会上，执行副总裁戚士龙首次正面回应“智界独立”：希望智界团队更像新势力企业，而不是“大一号”的传统车企。对智界车主来说，这次表态值得拆成三层来读：“做成新势力”......",
+      "id": "https://post.smzdm.com/p/aog80p59/",
+      "title": "小米二手车市场的真实面貌",
+      "summary": "作为一名关注新能源汽车市场多年的汽车爱好者，我亲眼见证了小米从跨界造车的“新手”，到凭借SU7一战成名的高光时刻。去年小米SU7上市时，身边朋友几乎都在讨论这款“年轻人的第一台性能车”，订单破10万、提车需排队的盛况，让它一度被捧为“保值神车”。可短短......",
       "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/awwd3k6k/"
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/aog80p59/"
     },
     {
-      "id": "https://post.smzdm.com/p/a954n0eo/",
-      "title": "MONA L05没降3万，但这个价格是真狠",
-      "summary": "小鹏MONA L05在10月29号晚上上市，\"直降3万\"瞬间刷屏，不少人转发时说小鹏这是疯了。我把预售和上市的两张版本表对着看了两遍，这个3万，水分不小。预售价16.98万起，对应的版本是纯电535 ......",
+      "id": "https://post.smzdm.com/p/aomqkr9r/",
+      "title": "懂车帝MPV爬坡测试引争议：卡住智界V9的，未必是动力",
+      "summary": "切片里只有结果10月29日前后，懂车帝的MPV横评切片开始流传。三台车：智界V9、岚图梦想家9、理想MEGA。30%、40%、50%三档坡，前两档都过了，只有V9在50%那档停住。车内一句“动力不足”，把争议点着了。V9不是冷门车。上市5个多月，累计交付......",
       "source": "Smzdm",
-      "date": "2026-10-31",
-      "url": "https://post.smzdm.com/p/a954n0eo/"
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/aomqkr9r/"
     },
     {
-      "id": "https://news.cri.cn/20261031/f54efac1-42fc-d245-7775-b677a1e2557c.html",
-      "title": "[视频]算力网加速织就 助力数字中国建设-国际在线",
-      "summary": "央视网消息（新闻联播）：算力网是人工智能发展的基础支撑。作为“十五五”规划的重大工程，开局起步之年，算力网提速升级，各地因地制宜推进数字中国建设。 随着八大国家算力枢纽布局东西南北，“东数西算&rd...",
-      "source": "Cri_Cn",
-      "date": "2026-10-31",
-      "url": "https://news.cri.cn/20261031/f54efac1-42fc-d245-7775-b677a1e2557c.html"
+      "id": "https://post.smzdm.com/p/a6z46glo/",
+      "title": "MPV爬坡测试没过50%坡，日常用车真会受影响吗",
+      "summary": "基本不会。这件事需要先说清结论：智界V9在懂车帝这轮MPV横评里没爬上50%的坡，但50%坡度换算下来约为26.6度，是公共道路的日常几乎不会出现的陡度——这次测试暴露的不是\"哪台车爬不了坡\"，而是它......",
+      "source": "Smzdm",
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/a6z46glo/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae65g0km/",
+      "title": "懂车帝MPV爬坡测试吵翻：50%短坡考爆发力，长途爬坡真正该看热平衡",
+      "summary": "10月29日，懂车帝发布了一场三款国产高端MPV的极限爬坡测试：智界V9、岚图梦想家9、理想MEGA要求以稳定速度爬完30%、40%、50%三档坡道，不允许冲坡。梦想家9和MEGA三档全部通过，智界V......",
+      "source": "Smzdm",
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/ae65g0km/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak83p5ne/",
+      "title": "奥迪Q9国内实车曝光！外观造型精致大气，有望搭载3.0T动力",
+      "summary": "近日，有网友在国内街头拍摄到了一组奥迪Q9的实车图片，而这也预示着奥迪Q9的实车已经正式进入国内。作为奥迪汽车的全新旗舰级车型，此次在国内曝光的奥迪Q9，在外观造型方面基本上延续了海外版的设计风格。作为旗舰级车型，奥迪Q9在外观造型方面采用了许多专属的前......",
+      "source": "Smzdm",
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/ak83p5ne/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomqkrl6/",
+      "title": "2名航天员登上月球有多难？3人出发、2人落月，首登月方案环环都是“首飞”",
+      "summary": "“2名航天员登上月球”的难度，等于人类半个多世纪后第一次重新组装一套完整的载人地月往返能力。10月31日，第七届载人航天学术大会在北京开幕，中国载人航天工程副总设计师、月球探测工程总设计师王翔首次把登月任务的乘组安排摆上桌面：正式执行时，梦舟载人飞船搭载......",
+      "source": "Smzdm",
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/aomqkrl6/"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/china/story20261101-9930306",
+      "title": "香港前壹传媒高层张剑虹或提前获释 参加深圳体验团",
+      "summary": "香港前壹传媒行政总裁、《苹果日报》社长张剑虹因串谋勾结外国势力罪被判监禁六年九个月，原定2028年才获释的他已以“更生人士”身份参加香港惩教署组织的深圳体验团，显示他可能已提前出狱。...",
+      "source": "Zaobao",
+      "date": "2026-11-01",
+      "url": "https://www.zaobao.com.sg/news/china/story20261101-9930306"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/tp/2026/11-01/10724476.shtml",
+      "title": "第四届广西技能大赛在南宁开赛",
+      "summary": "图为无人机驾驶（植保）项目比赛现场，参赛者组装调试无人机。陈冠言 摄 图为工业机器人系统运维项目比赛现场。陈冠言 摄 图为养老护理项目比赛现场。陈冠言 摄 图为医疗护理员项目比赛现场，参赛者紧急处置被食物卡住喉咙的“老人”。陈冠言 摄 图为广西技能人才成果交流展区，广西工商技师学院展台上演的机器人足球赛吸引参观者。陈冠言 摄 图为广西技能人才成果交流展区，参观者在广西轻工技师学院展台观看机器人码垛...",
+      "source": "Chinanews",
+      "date": "2026-11-01",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724476.shtml"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/11-01/10724463.shtml",
+      "title": "20余款新品全球首发！这场科技盛会明日开幕，亮点抢鲜看",
+      "summary": "11月2日到5日，2026年世界互联网大会乌镇峰会将在浙江乌镇举行。今年是峰会落地乌镇的第13个年头，有不少新板块、新成果、新看点。正在乌镇的总台记者带大家提前解锁这场水乡里的科技盛会。...",
+      "source": "Chinanews",
+      "date": "2026-11-01",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724463.shtml"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/spr/2026/11/01/859617",
+      "title": "屠妖节长周末料迎通关人潮 兀兰和大士关卡或严重拥堵",
+      "summary": "（新加坡1日讯）随著屠妖节长周末即将到来，新加坡移民与关卡局（ICA）预计兀兰与大士两大陆路关卡将在11月6日（星期五）至11月9日（星期一）期间迎来庞大通关人潮，交通恐严重拥堵。当局特别提醒公众及越堤族提前规划行程，尽量避开尖峰时段。《8视界新闻网》报导，新加坡移民与关卡局今日（1日）发表文告指出，在今年9月学校假期期间，已有超过610万人次透过两个陆路关卡出入境；其中在9月4日，单日通关人次更...",
+      "source": "Orientaldaily",
+      "date": "2026-11-01",
+      "url": "https://www.orientaldaily.com.my/news/spr/2026/11/01/859617"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak83p00e/",
+      "title": "研发费用降了17%，比亚迪老车主的OTA为什么还在推送",
+      "summary": "10月29日晚，比亚迪公布2026年三季报。第三季度归母净利润100.2亿元，同比增长28.08%，时隔六个季度重回百亿；前三季度累计223.45亿元，仍同比下降4.24%。红星资本局新京报另一组数字......",
+      "source": "Smzdm",
+      "date": "2026-11-01",
+      "url": "https://post.smzdm.com/p/ak83p00e/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1793536541129064.html",
+      "title": "智己LS8 NEO纯电预售，项娇：线控底盘可兼顾空间与灵活",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-01",
+      "url": "https://www.bjnews.com.cn/detail/1793536541129064.html"
     },
     {
       "id": "https://economictimes.indiatimes.com/news/new-updates/waymo-in-japan-driverless-taxis-launch-planned-for-2027-with-toyota-partnership-local-bz4x-evs-to-be-fitted-with-self-driving-technology-uk-expansion-next/articleshow/135397478.cms",
@@ -206,14 +257,6 @@
       "source": "The Manila Times",
       "date": "2026-10-28",
       "url": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/weride-unveils-global-insurance-partnership-program-to-scale-autonomous-vehicles-worldwide/2455711"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/28/china-boosts-self-driving-push-with-vw-xpeng-technology-trials",
-      "title": "China boosts self-driving push with VW, Xpeng technology trials",
-      "summary": "Volkswagen AG and Xpeng Inc secured approvals to trial autonomous driving systems on public roads in China, signalling a renewed push by authorities for larger-scale deployment following a safety revi...",
-      "source": "The Star",
-      "date": "2026-10-28",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/china-boosts-self-driving-push-with-vw-xpeng-technology-trials"
     }
   ]
 }
