@@ -1,155 +1,199 @@
 {
-  "lastUpdated": "2026-11-03 06:18:25",
-  "totalCount": 25,
+  "lastUpdated": "2026-11-04 05:53:21",
+  "totalCount": 28,
   "sources": {
-    "Smzdm": 11,
-    "Bjnews": 2,
-    "21Jingji": 3,
-    "Smm_Cn": 1,
+    "Bilibili": 5,
+    "Smzdm": 6,
+    "21Jingji": 5,
+    "Bjnews": 1,
+    "Fx168News": 1,
+    "Pcauto_Cn": 1,
+    "Rednet_Cn": 1,
+    "Chinanews": 1,
+    "7NEWS Australia": 1,
     "The Telegraph": 1,
     "The Economic Times": 1,
     "Firstpost": 1,
     "Livemint": 1,
     "The Tribune": 1,
-    "CNA": 1,
-    "The Manila Times": 2
+    "CNA": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/axkdvw99/",
-      "title": "680元的剐蹭要不要报保险？4年的折扣账替我按住了报案电话",
-      "summary": "一、地库里的那根柱子，和一张680元的报价单十一月初的周日早上，我倒进地库车位时，右后保险杠跟绿色柱子轻轻\"吻\"了一下。下午开去4S店，报价：钣金加喷漆，680元。坐回驾驶座，拇指已经拨到报案电话——......",
-      "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/axkdvw99/"
+      "id": "https://www.bilibili.com/video/BV1SSJC64EBW",
+      "title": "【B站】15分钟讲解所有自动驾驶系统",
+      "summary": "原视频：Every Self-Driving System EXPLAINED in 15 Minutes\n原作者：Beyond EV Technology\n发布日期：2026-09-03\n视频链接：https://www.youtube.com/watch?v=yEkIFsBm_gU\n\n章节\n00...",
+      "source": "Bilibili",
+      "date": "2026-11-04",
+      "url": "https://www.bilibili.com/video/BV1SSJC64EBW"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1793607918129465.html",
-      "title": "聚焦多元成长机遇，兴全合真混合型发起式基金正在发行",
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-11-04",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1zd4A61EJV",
+      "title": "【B站】AI时代的特斯拉：自动驾驶扩张如何带来持续回报",
+      "summary": "FSD订阅让软件在车辆售出后继续产生收入，Robotaxi则通过出行服务收费。FSD Supervised仍需要驾驶员监督，出行服务还要配备调度、充电和车辆维护。\n\n整车仍是主要收入来源，储能业务通过项目交付形成收入。客户持续使用、服务可靠性，以及研发和运营成本，共同影响这些业务扩张的回报。...",
+      "source": "Bilibili",
+      "date": "2026-11-04",
+      "url": "https://www.bilibili.com/video/BV1zd4A61EJV"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-11-04",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
+      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
+      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
+      "source": "Bilibili",
+      "date": "2026-11-04",
+      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae650794/",
+      "title": "冬天快充慢，多半是电池太冷",
+      "summary": "前阵子刷到一个帖子，车主吐槽冬天去快充站，隔壁车能跑到80kW，自己插枪只有三四十，怀疑桩坏了，差点找运营理论。评论区一堆人现身说法：同一个桩，换台车照样慢。其实这事十有八九不怪桩，怪电池太冷。低温下BMS会主动限制充电功率，说白了是在护着电池。冬天充电......",
+      "source": "Smzdm",
+      "date": "2026-11-03",
+      "url": "https://post.smzdm.com/p/ae650794/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261104/1114e4e2f91394a911cf733c6a578575.html",
+      "title": "新势力10月销量分层",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-03",
+      "url": "https://www.21jingji.com/article/20261104/1114e4e2f91394a911cf733c6a578575.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a3m43qer/",
+      "title": "享界G9交付爬坡：车交出来了，问题还没交卷",
+      "summary": "10月下旬，一位67岁的享界G9车主在一条讲玻璃水漏进座舱的帖子下回了一句话：“漏没店里就加，一次约5升。”他说的是玻璃水。新车提回来，玻璃水加一次漏一次，前前后后二十多升，最后在座舱地毯下面找到了。 他的帖子被搬到知乎，问题标题是“如何评价享界G9漏玻......",
+      "source": "Smzdm",
+      "date": "2026-11-03",
+      "url": "https://post.smzdm.com/p/a3m43qer/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261104/5d160978b3acb4267f23acf8c5a575fb.html",
+      "title": "坐标系CEO颜士富：今年是EMB量产元年，目标20万元级车型标配",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-03",
+      "url": "https://www.21jingji.com/article/20261104/5d160978b3acb4267f23acf8c5a575fb.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1793694581129307.html",
+      "title": "一文读懂瓜子二手车目前主要提供哪些服务？",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-11-02",
-      "url": "https://www.bjnews.com.cn/detail/1793607918129465.html"
+      "date": "2026-11-03",
+      "url": "https://www.bjnews.com.cn/detail/1793694581129307.html"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrz58vp/",
-      "title": "F1传奇不只看冠军数：20岁的最年轻冠军，还差哪几关",
-      "summary": "墨西哥城，11月1日晚。维斯塔潘第一个冲过终点，汉密尔顿第二，安东内利第三。 颁奖台上，汉密尔顿和维斯塔潘把20岁的安东内利举了起来，七冠、四冠、一冠，三个人，十二个世界冠军头衔。 画面像交接，但交接的不是“传奇”身份，只是一张入场券。体育大生意微博安东......",
+      "id": "https://post.smzdm.com/p/a03z4nwz/",
+      "title": "男子拿驾照8年没开过车：买二手车高速上走错路竟直接逆行",
+      "summary": "快科技11月4日消息，据媒体报道，日前，湖北汉蔡高速琴台收费站附近，交警在开展日常视频巡查时，忽然捕捉到一辆红色小轿车，在高速主线上逆向行驶，场景十分危险。当时该路段的过往车流量非常大，指挥中心第一时......",
       "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/aqrz58vp/"
+      "date": "2026-11-03",
+      "url": "https://post.smzdm.com/p/a03z4nwz/"
     },
     {
-      "id": "https://post.smzdm.com/p/a4q4nl6x/",
-      "title": "卓驭磐行把乘用车智驾大脑搬上49吨重卡：先解决干线里的累和油钱",
-      "summary": "➡️ 卓驭磐行用一个AI大脑跨界重卡，PDS4先把干线跑好，PDS5向城区拓展，数据回流让大脑越跑越聪明。五项技术撑起安全、轻松、省钱，陕汽德龙X5000已量产数百辆跑在韵达干线上。技术好不好，司机用脚投票。辅助驾驶，司机全程监管。文｜捉驿 • 栏目｜数......",
+      "id": "https://post.smzdm.com/p/anvmp4np/",
+      "title": "下班后的生产力神器！WorkBuddy家庭杂事指南：附100条即用指令",
+      "summary": "最近写过不少关于 WorkBuddy 的内容，发现大家基本都把它当成了上班时的办公助理。其实它的能力很全面，能落地的场景也远不止工位，下班回到家一样用得上。很多时候，电脑一直开着，但真正在做核心事情的时间并不多。剩下的时间被耗在哪儿了，大家心里都有数：找......",
       "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/a4q4nl6x/"
+      "date": "2026-11-03",
+      "url": "https://post.smzdm.com/p/anvmp4np/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261103/6366f6312bcee89d605269857275fcdc.html",
-      "title": "南北奥迪分家次日，AITC定义字母标新奥迪",
+      "id": "https://post.smzdm.com/p/a5rp547x/",
+      "title": "大众ID.ERA 5X更多消息曝光！配备激光雷达，纯电最高520公里",
+      "summary": "伴随着大众ID. ERA 5S的热销，大家对于大众ID.ERA 5X的期待度也是越来越高。作为大众ID.ERA系列的首款纯电SUV车型，大众ID.ERA 5X的定价也有望会非常亲民。如果该车的起售价能够在10万元之内，那么该车的销量预计也会跟大众ID. ......",
+      "source": "Smzdm",
+      "date": "2026-11-03",
+      "url": "https://post.smzdm.com/p/a5rp547x/"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1111782",
+      "title": "经纬恒润：11月2日召开业绩说明会，投资者参与-FX168",
+      "summary": "证券之星消息，2026年11月3日经纬恒润（688326）发布公告称公司于2026年11月2日召开业绩说明会。 具体内容如下：问：公司存货增加较多的主要原因？公司将如何改善回款和库存周转、控制减值风险并保障营运资金？答：（1）存货增长原因及周转、减值风险管控截至三季度末，存货增加主要来自两方面一是为增强供应链韧性、保障供应安全，原材料备货较年初增加约4亿元；二是部分项目采用终验收模式，尚未完成验收...",
+      "source": "Fx168News",
+      "date": "2026-11-03",
+      "url": "https://www.fx168news.com/article/1111782"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5190/51907824.html",
+      "title": "百度Apollo World世界模型亮相，用AI教AI开车",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-11-03",
+      "url": "http://www.pcauto.com.cn/news/5190/51907824.html"
+    },
+    {
+      "id": "https://yz.rednet.cn/content/646055/95/16437812.html",
+      "title": "江永县桃川镇：党建引领敲门行动 贴心服务暖民心_江永_永州站",
+      "summary": "NewsData报道",
+      "source": "Rednet_Cn",
+      "date": "2026-11-03",
+      "url": "https://yz.rednet.cn/content/646055/95/16437812.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261103/herald/0985cd74b9815c1da6fe357cf5544296.html",
+      "title": "全城总动员 “广”迎天下客",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-02",
-      "url": "https://www.21jingji.com/article/20261103/6366f6312bcee89d605269857275fcdc.html"
+      "date": "2026-11-03",
+      "url": "https://www.21jingji.com/article/20261103/herald/0985cd74b9815c1da6fe357cf5544296.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20261103/e43504cdf982df42a8da2547af105c8b.html",
-      "title": "全新长轴距GLE，奔驰要把豪华讲到细处",
+      "id": "https://www.21jingji.com/article/20261103/herald/bd6bd6cc0fa3ba37d2cac246428bf88e.html",
+      "title": "事关公积金、年假、分红、买车！广东37条消费新政来了",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-02",
-      "url": "https://www.21jingji.com/article/20261103/e43504cdf982df42a8da2547af105c8b.html"
+      "date": "2026-11-03",
+      "url": "https://www.21jingji.com/article/20261103/herald/bd6bd6cc0fa3ba37d2cac246428bf88e.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a826vekl/",
-      "title": "情怀之外还有旗舰性能八位堂猎户座3代《古墓丽影》纪念手柄体验",
-      "summary": "1996年，《古墓丽影》初代问世。低多边形的劳拉·克劳馥在像素粗糙的秘鲁遗迹里跳跃、攀爬、潜水，用今天看来几乎原始的3D画面，塑造了电子游戏史上辨识度极高的女性主角。往后的三十年里，她从Core Design时代棱角分明的冒险家，变成Crystal Dy......",
-      "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/a826vekl/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261102/herald/bd9ae114f30e209dae9289736150bc84.html",
-      "title": "从源头破解“看不清、测不准”难题 我国地下空间导航实现突破",
+      "id": "https://www.21jingji.com/article/20261103/herald/f70c32277c73b67fdeebf533b431ddc1.html",
+      "title": "构建20个战略性产业集群标准体系！广东又有新突破",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-02",
-      "url": "https://www.21jingji.com/article/20261102/herald/bd9ae114f30e209dae9289736150bc84.html"
+      "date": "2026-11-03",
+      "url": "https://www.21jingji.com/article/20261103/herald/f70c32277c73b67fdeebf533b431ddc1.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1793618610129655.html",
-      "title": "中农博鼎：驶向全球的中国农机新方案",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-02",
-      "url": "https://www.bjnews.com.cn/detail/1793618610129655.html"
+      "id": "https://www.chinanews.com.cn/tp/2026/11-03/10725626.shtml",
+      "title": "2026粤港澳大湾区全球招商大会在穗举行",
+      "summary": "图为香港特别行政区行政长官李家超视频致辞。中新社记者 陈楚红 摄 图为澳门特别行政区行政长官岑浩辉视频致辞。中新社记者 陈楚红 摄 图为托克集团亚洲区总裁德米特里·克罗伊托尔发言。中新社记者 陈楚红 摄 图为旧金山湾区委员会总裁兼首席执行官薛丽比发言。中新社记者 陈楚红 摄 图为大会现场的机器人吸引参会人员。中新社记者 陈楚红 摄 图为大会现场的无人驾驶小巴、AI无人巡逻车等车辆展示吸引参会人员参...",
+      "source": "Chinanews",
+      "date": "2026-11-03",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725626.shtml"
     },
     {
-      "id": "https://post.smzdm.com/p/aomqrp7r/",
-      "title": "宣传7nm交车12nm，吉利为星舰7道歉",
-      "summary": "10月31日，吉利银河发出了那份拖了大半年的说明。核心就三句话：2025款银河星舰7全系搭载的是亿咖通E02座舱平台；之前宣传的龙鹰一号（E04）版本，因为辅助驾驶体验没达预期，推迟随新年款上市；就\"......",
+      "id": "https://post.smzdm.com/p/ak83egg4/",
+      "title": "驾校换手动挡电车，考前还要再练燃油车吗",
+      "summary": "驾校换上手动挡电车，学员日常在电车上学离合换挡，考前还要不要再练燃油车？买了这类车的驾校，主流做法已经很明确：日常练习用手动挡电车，考前几天换回燃油车，专门适应考试车。这不是额外收费的营销环节，而是考试车型决定的必要一步。极目新闻记者11月3日从车商和驾......",
       "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/aomqrp7r/"
+      "date": "2026-11-03",
+      "url": "https://post.smzdm.com/p/ak83egg4/"
     },
     {
-      "id": "https://news.smm.cn/news/104189791",
-      "title": "AI算力驱动下国内电子铜箔行业分析【铜业年会】",
-      "summary": "NewsData报道",
-      "source": "Smm_Cn",
+      "id": "https://7news.com.au/motoring/toyota-to-build-waymo-self-driving-taxis-for-japan-uk-and-beyond-c-23107101",
+      "title": "Toyota to build Waymo self-driving taxis for Japan, UK and beyond",
+      "summary": "A trip to London or Tokyo could soon include a ride in an autonomous Toyota bZ4X SUV driven by Waymo's self-driving tech....",
+      "source": "7NEWS Australia",
       "date": "2026-11-02",
-      "url": "https://news.smm.cn/news/104189791"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak83e6n4/",
-      "title": "无人车闯红灯撞人，日常出行安全怎么保障？",
-      "summary": "11月2日，一起发生在欧洲的交通事故进入国内媒体视野：当地时间10月26日晚间，爱沙尼亚首都塔林街头，一台Starship送货无人车闯红灯，与一辆公交车相撞，车上9名乘客摔倒受伤。碰撞后，无人车自行离开现场，“事后离场算不算肇事逃逸”随即引发争议。截至发......",
-      "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/ak83e6n4/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a26438wp/",
-      "title": "芯片风波缠上吉利银河星舰7：官方道歉并给出补偿，车主仍在等一份升级评估结果",
-      "summary": "2026年10月31日，吉利银河发布《关于2025款银河星舰7车机芯片的说明》，第一次给这场持续半年的争议一个统一的官方口径：2025款星舰7全系搭载的是内部代号E02的座舱平台，原规划的「龍鹰一号」（E04）版本因辅助驾驶体验未达预期改随新年款上市，品......",
-      "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/a26438wp/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrz587k/",
-      "title": "送货无人车闯红灯致9人受伤：Starship甩锅广告牌，责任问题仍然悬空",
-      "summary": "当地时间10月26日晚，爱沙尼亚首都塔林的一台小型送货机器人在红灯亮起时没有停下，而是继续驶入路口，公交车司机紧急刹车，9名乘客在车厢里摔倒受伤，机器人自己被公交车撞到了马路对面。 造出这台机器人的Starship Technologies随后由首席运营......",
-      "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/aqrz587k/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a264388p/",
-      "title": "E02升级龙鹰一号可行吗？吉利银河官方致歉后，25款星舰7车主还要等什么",
-      "summary": "截至2026年11月2日，E02座舱升级\"龙鹰一号\"（E04座舱平台）仍然没有可行性结论。吉利银河10月31日正式复盘并发布公告，芯片配置、升级评估进展和额外权益均已明确。 但车主最关心的那一步才刚开始：官方说明已针对\"E02平台能否升级到龙鹰一号E04......",
-      "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/a264388p/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a2642vl7/",
-      "title": "均价70万+的加长M9，50天卖出5000台：买的人看重的是科技，不是排面",
-      "summary": "11月2日，问界汽车官宣：全新一代问界M9系列上市20周累计交付突破50000台，其中 Ultimate 领世加长版开启交付50天累计交付超5000台，成交均价突破70万元。 这台指导价64.98万元起的\"加长版大车\"，为什么会有人按均价70万出头连买5......",
-      "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/a2642vl7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al395k7o/",
-      "title": "为何智驾需要一个“世界”？东风把这个问题讲透了",
-      "summary": "如果把一个智驾模型看成刚拿驾照的新手，那么它缺的其实不是车，而是“危险驾驶”的经验。普通道路可以一条一条跑，可那些真正决定智驾水平的危险瞬间，恰恰没办法在现实里一遍遍重来。这正是在2026第二十六届武......",
-      "source": "Smzdm",
-      "date": "2026-11-02",
-      "url": "https://post.smzdm.com/p/al395k7o/"
+      "url": "https://7news.com.au/motoring/toyota-to-build-waymo-self-driving-taxis-for-japan-uk-and-beyond-c-23107101"
     },
     {
       "id": "https://www.telegraph.co.uk/business/2026/11/02/uk-self-driving-carmaker-running-out-of-cash/",
@@ -198,22 +242,6 @@
       "source": "CNA",
       "date": "2026-10-29",
       "url": "https://www.channelnewsasia.com/watch/visitors-can-try-sentosas-self-driving-shuttles-free-early-2027-6504026"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/tier-iv-and-ntro-advance-autonomous-transit-initiative-in-australia/2456821",
-      "title": "TIER IV and NTRO advance autonomous transit initiative in Australia",
-      "summary": "**media[1282285]**TOKYO, Oct. 29, 2026 /PRNewswire/ -- Australia's National Transport Research Organisation (NTRO) has purchased a mid-sized autonomous bus from TIER IV, a pioneering force in open-sou...",
-      "source": "The Manila Times",
-      "date": "2026-10-29",
-      "url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/tier-iv-and-ntro-advance-autonomous-transit-initiative-in-australia/2456821"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/weride-unveils-global-insurance-partnership-program-to-scale-autonomous-vehicles-worldwide/2455711",
-      "title": "WeRide Unveils Global Insurance Partnership Program to Scale Autonomous Vehicles Worldwide",
-      "summary": "WeRide establishes a global insurance partnership program, with Allianz Insurance Singapore and Ping An P&C Insurance as inaugural partnersThe program will support the responsible deployment of tens o...",
-      "source": "The Manila Times",
-      "date": "2026-10-28",
-      "url": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/weride-unveils-global-insurance-partnership-program-to-scale-autonomous-vehicles-worldwide/2455711"
     }
   ]
 }
