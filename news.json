@@ -1,15 +1,11 @@
 {
-  "lastUpdated": "2026-11-04 05:53:21",
-  "totalCount": 28,
+  "lastUpdated": "2026-11-05 06:14:24",
+  "totalCount": 24,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 6,
-    "21Jingji": 5,
-    "Bjnews": 1,
-    "Fx168News": 1,
-    "Pcauto_Cn": 1,
-    "Rednet_Cn": 1,
-    "Chinanews": 1,
+    "Smzdm": 13,
+    "Imobile": 1,
+    "Nbd_Cn": 2,
+    "21Jingji": 1,
     "7NEWS Australia": 1,
     "The Telegraph": 1,
     "The Economic Times": 1,
@@ -20,172 +16,140 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1SSJC64EBW",
-      "title": "【B站】15分钟讲解所有自动驾驶系统",
-      "summary": "原视频：Every Self-Driving System EXPLAINED in 15 Minutes\n原作者：Beyond EV Technology\n发布日期：2026-09-03\n视频链接：https://www.youtube.com/watch?v=yEkIFsBm_gU\n\n章节\n00...",
-      "source": "Bilibili",
-      "date": "2026-11-04",
-      "url": "https://www.bilibili.com/video/BV1SSJC64EBW"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-11-04",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1zd4A61EJV",
-      "title": "【B站】AI时代的特斯拉：自动驾驶扩张如何带来持续回报",
-      "summary": "FSD订阅让软件在车辆售出后继续产生收入，Robotaxi则通过出行服务收费。FSD Supervised仍需要驾驶员监督，出行服务还要配备调度、充电和车辆维护。\n\n整车仍是主要收入来源，储能业务通过项目交付形成收入。客户持续使用、服务可靠性，以及研发和运营成本，共同影响这些业务扩张的回报。...",
-      "source": "Bilibili",
-      "date": "2026-11-04",
-      "url": "https://www.bilibili.com/video/BV1zd4A61EJV"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-04",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1KD4y1v7sM",
-      "title": "【B站】自动驾驶并不复杂！五分钟带你深入了解自动驾驶技术原理！",
-      "summary": "自动驾驶并不复杂，五分钟带你深入了解自动驾驶技术原理！...",
-      "source": "Bilibili",
-      "date": "2026-11-04",
-      "url": "https://www.bilibili.com/video/BV1KD4y1v7sM"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae650794/",
-      "title": "冬天快充慢，多半是电池太冷",
-      "summary": "前阵子刷到一个帖子，车主吐槽冬天去快充站，隔壁车能跑到80kW，自己插枪只有三四十，怀疑桩坏了，差点找运营理论。评论区一堆人现身说法：同一个桩，换台车照样慢。其实这事十有八九不怪桩，怪电池太冷。低温下BMS会主动限制充电功率，说白了是在护着电池。冬天充电......",
+      "id": "https://post.smzdm.com/p/al39gokp/",
+      "title": "她本可以在杭州东站下车",
+      "summary": "一扇门上写着“司乘重地，勿入”。11月1日，D655次列车从杭州东开出后，一名女乘客从3号车厢往9号车厢走，走到8号和9号车厢的连接处，被这扇门挡住了。车已经开了，下一站就是宁波。她手里是一张一等座票......",
       "source": "Smzdm",
-      "date": "2026-11-03",
-      "url": "https://post.smzdm.com/p/ae650794/"
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/al39gokp/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261104/1114e4e2f91394a911cf733c6a578575.html",
-      "title": "新势力10月销量分层",
+      "id": "https://post.smzdm.com/p/arzde8zq/",
+      "title": "甲醇混动来了，你家门口加得到吗？",
+      "summary": "昨天（11月3日），吉利在沈阳办了一场发布会，银河星耀6 EF正式上市，名头很响：全球首款甲醇电混家轿。限时焕新价7.68万起，11月30日前下定还有一波上市权益。我电车开了五年，冬天续航是什么德行，......",
+      "source": "Smzdm",
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/arzde8zq/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggwz2d3/",
+      "title": "自驾导航推荐：从日常通勤到长途穿越，一篇分清",
+      "summary": "很多人问\"自驾游用什么导航好\"，底下的回答清一色\"用高德\"。但这个答案太笼统了——你周末在城市周边兜风，跟你十一开车去西藏，跟你春节跨省回老丈人家，对导航的依赖程度和核心需求完全不同。用同一个App包......",
+      "source": "Smzdm",
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/aggwz2d3/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae654zdk/",
+      "title": "别克ELECTRA GS完成工信部申报：三个插混版本，差异主要在发动机和激光雷达",
+      "summary": "工信部发布第413批《道路机动车辆生产企业及产品公告》新产品公示，上汽通用别克的ELECTRA GS插电式混合动力轿车完成申报，定位中型插混轿车，车长4979毫米，轴距2865毫米，采用溜背轿跑造型。......",
+      "source": "Smzdm",
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/ae654zdk/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anvmkgq7/",
+      "title": "内存短缺预计持续至2030年：这份预测为什么越推越晚",
+      "summary": "11月4日晚，\"预计内存短缺持续至2030年\"登上热搜。词条背后是一条当天流传的供应链消息：行业预计内存短缺将持续至2029—2030年，各家手机厂商的BOM（物料成本）采购价仍在一路走高。这个时间点......",
+      "source": "Smzdm",
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/anvmkgq7/"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/1104/235990.shtml",
+      "title": "把BBA换成它的人，看的是什么",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-11-04",
+      "url": "http://news.imobile.com.cn/articles/2026/1104/235990.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwdeqem/",
+      "title": "乌镇峰会与你相约：今年第一次，普通人也能进场",
+      "summary": "11月4日，乌镇峰会的第三天。场馆里，有观众在和机器人下五子棋，也有观众在看机器人弹钢琴、跳舞、格斗。 峰会开到11月5日，面向公众的开放日，也只剩明天。光明网新华网今年这场会，最值得说的其实是“进门......",
+      "source": "Smzdm",
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/awwdeqem/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6z478g0/",
+      "title": "荣威家越X7申报HEV版本：不用充电的混动，1.5T加可选激光雷达",
+      "summary": "工信部第413批《道路机动车辆生产企业及产品公告》新产品公示开启，名单中出现了荣威家越X7油电混动版的申报信息，新车定位大五座中型SUV，采用5座布局。 申报信息显示，这台混动版搭载1.5T发动机，最......",
+      "source": "Smzdm",
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/a6z478g0/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al39g2ke/",
+      "title": "日系车不吃香了？曾经风靡全国的日系车问题出在哪了？",
+      "summary": "曾经，日系车是中国市场上的香饽饽，凭借着皮实耐用的特性，以及省油的特征，日系车逐渐成为了中国市场上销量最好的合资品类，然而就在最近日系车不吃香的话题冲上热搜，曾经风靡全国的日系车问题到底出在哪了？一、......",
+      "source": "Smzdm",
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/al39g2ke/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-11-04/4638688.html",
+      "title": "美股集体高开，特斯拉、SpaceX股价重挫；马斯克就美国中期选举发声；国行Apple智能首批功能来了；王兴兴：明年是机器人行业临界点丨每经晚参",
+      "summary": "美股集体高开，特斯拉、SpaceX股价重挫；马斯克就美国中期选举发声；国行Apple智能首批功能来了；王兴兴：明年是机器人行业临界点丨每经晚参...",
+      "source": "Nbd_Cn",
+      "date": "2026-11-04",
+      "url": "https://www.nbd.com.cn/articles/2026-11-04/4638688.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03zeo09/",
+      "title": "别克ELECTRA GS的激光雷达，1.5L是加装，1.5T是减装",
+      "summary": "同一款别克，三张申报表，激光雷达被写成了两种相反的说法。两台 1.5L 的申报把摄像头和激光雷达列进选装清单；一台 1.5T 的申报反过来，把“无摄像头翼子板”“无摄像头尾灯饰板”“无激光雷达”列成选......",
+      "source": "Smzdm",
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/a03zeo09/"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-11-04/4638707.html",
+      "title": "腾讯史上最强开源模型来了；美国重要经济数据出炉；特斯拉、SpaceX股价重挫；苹果、微软、谷歌、亚马逊，集体上涨丨每经晚参",
+      "summary": "腾讯史上最强开源模型来了；美国重要经济数据出炉；特斯拉、SpaceX股价重挫；苹果、微软、谷歌、亚马逊，集体上涨丨每经晚参...",
+      "source": "Nbd_Cn",
+      "date": "2026-11-04",
+      "url": "https://www.nbd.com.cn/articles/2026-11-04/4638707.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261104/herald/f3f8fb2c073c5bfd1db620f80d0e4711.html",
+      "title": "广州最新通告：11日起这些区域上空 “禁飞”",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-03",
-      "url": "https://www.21jingji.com/article/20261104/1114e4e2f91394a911cf733c6a578575.html"
+      "date": "2026-11-04",
+      "url": "https://www.21jingji.com/article/20261104/herald/f3f8fb2c073c5bfd1db620f80d0e4711.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a3m43qer/",
-      "title": "享界G9交付爬坡：车交出来了，问题还没交卷",
-      "summary": "10月下旬，一位67岁的享界G9车主在一条讲玻璃水漏进座舱的帖子下回了一句话：“漏没店里就加，一次约5升。”他说的是玻璃水。新车提回来，玻璃水加一次漏一次，前前后后二十多升，最后在座舱地毯下面找到了。 他的帖子被搬到知乎，问题标题是“如何评价享界G9漏玻......",
+      "id": "https://post.smzdm.com/p/am9vwl2v/",
+      "title": "大众在华召回61万辆车：哪些车在列，隐患有什么前兆",
+      "summary": "11月4日，大众汽车（中国）销售有限公司、上汽大众、一汽-大众三家主体同时向国家市场监督管理总局备案了召回计划。本次召回涉及8款车型、合计610297辆，自2027年1月15日起实施；其中国产车辆58......",
       "source": "Smzdm",
-      "date": "2026-11-03",
-      "url": "https://post.smzdm.com/p/a3m43qer/"
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/am9vwl2v/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261104/5d160978b3acb4267f23acf8c5a575fb.html",
-      "title": "坐标系CEO颜士富：今年是EMB量产元年，目标20万元级车型标配",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-03",
-      "url": "https://www.21jingji.com/article/20261104/5d160978b3acb4267f23acf8c5a575fb.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1793694581129307.html",
-      "title": "一文读懂瓜子二手车目前主要提供哪些服务？",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-03",
-      "url": "https://www.bjnews.com.cn/detail/1793694581129307.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03z4nwz/",
-      "title": "男子拿驾照8年没开过车：买二手车高速上走错路竟直接逆行",
-      "summary": "快科技11月4日消息，据媒体报道，日前，湖北汉蔡高速琴台收费站附近，交警在开展日常视频巡查时，忽然捕捉到一辆红色小轿车，在高速主线上逆向行驶，场景十分危险。当时该路段的过往车流量非常大，指挥中心第一时......",
+      "id": "https://post.smzdm.com/p/a954zr25/",
+      "title": "捷达M6出租版和家用版差在哪？买前要避开这四个坑",
+      "summary": "很多人以为捷达M6的\"出租版\"是家用版某个配置的别名，实际上是两条并行的产品线。家用版是10月22日在成都上市的465 Pro、555 Max、555 Ultra三个版本，指导价7.98万、8.98万和9.98万元，全部落在十万元以内。出租版和网约车版则......",
       "source": "Smzdm",
-      "date": "2026-11-03",
-      "url": "https://post.smzdm.com/p/a03z4nwz/"
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/a954zr25/"
     },
     {
-      "id": "https://post.smzdm.com/p/anvmp4np/",
-      "title": "下班后的生产力神器！WorkBuddy家庭杂事指南：附100条即用指令",
-      "summary": "最近写过不少关于 WorkBuddy 的内容，发现大家基本都把它当成了上班时的办公助理。其实它的能力很全面，能落地的场景也远不止工位，下班回到家一样用得上。很多时候，电脑一直开着，但真正在做核心事情的时间并不多。剩下的时间被耗在哪儿了，大家心里都有数：找......",
+      "id": "https://post.smzdm.com/p/ae654l7m/",
+      "title": "全新捷途自由者7家族三车齐发：8.99万元起，先算清那2.4万元差额",
+      "summary": "11月4日晚，捷途把一场发布会办成了\"家族成立仪式\"：全新自由者7、自由者7 PLUS、自由者7 PLUS C-DM三车同场，限时焕新价从8.99万元铺到14.19万元。这次真正的新角色是1.5T的全新自由者7——4款车型指导价11.39万-13.49万......",
       "source": "Smzdm",
-      "date": "2026-11-03",
-      "url": "https://post.smzdm.com/p/anvmp4np/"
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/ae654l7m/"
     },
     {
-      "id": "https://post.smzdm.com/p/a5rp547x/",
-      "title": "大众ID.ERA 5X更多消息曝光！配备激光雷达，纯电最高520公里",
-      "summary": "伴随着大众ID. ERA 5S的热销，大家对于大众ID.ERA 5X的期待度也是越来越高。作为大众ID.ERA系列的首款纯电SUV车型，大众ID.ERA 5X的定价也有望会非常亲民。如果该车的起售价能够在10万元之内，那么该车的销量预计也会跟大众ID. ......",
+      "id": "https://post.smzdm.com/p/a6z478dn/",
+      "title": "奕派M8天元激光版的15.98万，得用一辆旧车和11月30日前的一次交付来换",
+      "summary": "15.98万的奕派M8天元激光版，最近被说成了“15万级大六座”的标准答案。但把官方价格说明摊开看，这个数字不是指导价，也不是谁都能直接签的成交价。600Pro官方指导价17.98万元，600Max 18.58万元；限时补贴价分别是15.98万元和16.......",
       "source": "Smzdm",
-      "date": "2026-11-03",
-      "url": "https://post.smzdm.com/p/a5rp547x/"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1111782",
-      "title": "经纬恒润：11月2日召开业绩说明会，投资者参与-FX168",
-      "summary": "证券之星消息，2026年11月3日经纬恒润（688326）发布公告称公司于2026年11月2日召开业绩说明会。 具体内容如下：问：公司存货增加较多的主要原因？公司将如何改善回款和库存周转、控制减值风险并保障营运资金？答：（1）存货增长原因及周转、减值风险管控截至三季度末，存货增加主要来自两方面一是为增强供应链韧性、保障供应安全，原材料备货较年初增加约4亿元；二是部分项目采用终验收模式，尚未完成验收...",
-      "source": "Fx168News",
-      "date": "2026-11-03",
-      "url": "https://www.fx168news.com/article/1111782"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5190/51907824.html",
-      "title": "百度Apollo World世界模型亮相，用AI教AI开车",
-      "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-11-03",
-      "url": "http://www.pcauto.com.cn/news/5190/51907824.html"
-    },
-    {
-      "id": "https://yz.rednet.cn/content/646055/95/16437812.html",
-      "title": "江永县桃川镇：党建引领敲门行动 贴心服务暖民心_江永_永州站",
-      "summary": "NewsData报道",
-      "source": "Rednet_Cn",
-      "date": "2026-11-03",
-      "url": "https://yz.rednet.cn/content/646055/95/16437812.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261103/herald/0985cd74b9815c1da6fe357cf5544296.html",
-      "title": "全城总动员 “广”迎天下客",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-03",
-      "url": "https://www.21jingji.com/article/20261103/herald/0985cd74b9815c1da6fe357cf5544296.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261103/herald/bd6bd6cc0fa3ba37d2cac246428bf88e.html",
-      "title": "事关公积金、年假、分红、买车！广东37条消费新政来了",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-03",
-      "url": "https://www.21jingji.com/article/20261103/herald/bd6bd6cc0fa3ba37d2cac246428bf88e.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261103/herald/f70c32277c73b67fdeebf533b431ddc1.html",
-      "title": "构建20个战略性产业集群标准体系！广东又有新突破",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-03",
-      "url": "https://www.21jingji.com/article/20261103/herald/f70c32277c73b67fdeebf533b431ddc1.html"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/tp/2026/11-03/10725626.shtml",
-      "title": "2026粤港澳大湾区全球招商大会在穗举行",
-      "summary": "图为香港特别行政区行政长官李家超视频致辞。中新社记者 陈楚红 摄 图为澳门特别行政区行政长官岑浩辉视频致辞。中新社记者 陈楚红 摄 图为托克集团亚洲区总裁德米特里·克罗伊托尔发言。中新社记者 陈楚红 摄 图为旧金山湾区委员会总裁兼首席执行官薛丽比发言。中新社记者 陈楚红 摄 图为大会现场的机器人吸引参会人员。中新社记者 陈楚红 摄 图为大会现场的无人驾驶小巴、AI无人巡逻车等车辆展示吸引参会人员参...",
-      "source": "Chinanews",
-      "date": "2026-11-03",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725626.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak83egg4/",
-      "title": "驾校换手动挡电车，考前还要再练燃油车吗",
-      "summary": "驾校换上手动挡电车，学员日常在电车上学离合换挡，考前还要不要再练燃油车？买了这类车的驾校，主流做法已经很明确：日常练习用手动挡电车，考前几天换回燃油车，专门适应考试车。这不是额外收费的营销环节，而是考试车型决定的必要一步。极目新闻记者11月3日从车商和驾......",
-      "source": "Smzdm",
-      "date": "2026-11-03",
-      "url": "https://post.smzdm.com/p/ak83egg4/"
+      "date": "2026-11-04",
+      "url": "https://post.smzdm.com/p/a6z478dn/"
     },
     {
       "id": "https://7news.com.au/motoring/toyota-to-build-waymo-self-driving-taxis-for-japan-uk-and-beyond-c-23107101",
