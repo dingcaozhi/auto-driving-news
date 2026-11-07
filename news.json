@@ -1,11 +1,13 @@
 {
-  "lastUpdated": "2026-11-06 06:08:56",
+  "lastUpdated": "2026-11-07 05:38:51",
   "totalCount": 23,
   "sources": {
-    "Fx168News": 1,
+    "Smzdm": 11,
+    "Bjnews": 1,
+    "Chinanews": 1,
+    "Investing_Cn": 1,
+    "Zaobao": 1,
     "21Jingji": 1,
-    "Smzdm": 13,
-    "Jiemian": 1,
     "The Tribune": 2,
     "7NEWS Australia": 1,
     "The Telegraph": 1,
@@ -15,132 +17,132 @@
   },
   "news": [
     {
-      "id": "https://www.fx168news.com/article/1112816",
-      "title": "股市必读：福龙马（603686）11月5日董秘有最新回复-FX168",
-      "summary": "截至2026年11月5日收盘，福龙马(603686)报收于12.22元，上涨2.52%，换手率3.29%，成交量13.67万手，成交额1.66亿元。 董秘最新回复 投资者： 您好，请问未来AI、机器人和自动驾驶技术如果日趋成熟，是不是将有助于公司推出更加先进的产品，来做大市场规模？董秘： 尊敬的投资者，您好！目前公司城市服务机器人产品矩阵包含SD15智能清扫机器人、SD22 智能清扫车、XD30智...",
-      "source": "Fx168News",
-      "date": "2026-11-05",
-      "url": "https://www.fx168news.com/article/1112816"
+      "id": "https://post.smzdm.com/p/arzd2kzz/",
+      "title": "特斯拉Roadster飞了，但飞的不是你订的那辆",
+      "summary": "10月15日，得州麦格雷戈的SpaceX测试场，一辆白色Roadster冲上弧形坡道，车底朝天倒挂行驶，随后约10个喷口点火，整车腾空、翻转，落回地面。驾驶座上没有车手，坐着一台Optimus机器人。六天后，特斯拉交出三季度财报：净利润7.87亿美元，跌......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/arzd2kzz/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261106/7f8687fe073cabe63e8330f6d3afecda.html",
-      "title": "广东农田“一键托管” 赋能一粒米“全链”升级",
+      "id": "https://post.smzdm.com/p/arzd2kk7/",
+      "title": "限量30台、售价超2000万：仰望U9X的503.17km/h纪录，到底改写了什么",
+      "summary": "11月6日，仰望汽车官宣：车手马克·巴森（Marc Basseng）驾驶仰望U9 Xtreme于11月1日在阿联酋阿布扎比E11高速公路的封闭测试路段，跑出实测极速503.17km/h，成绩获得FIA国际汽联与吉尼斯世界纪录双重认证。这是人类历史上首款极......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/arzd2kk7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgdq977/",
+      "title": "2027款东风标致408上市：指导价9.97万，换了车漆和车机，没动1.5T与6AT",
+      "summary": "11月6日，东风标致2027款408正式上市，全系只保留360THP Pro一款配置，官方指导价定为9.97万元。 叠加1万元现金优惠与6000元限时红包后，官方口径的现金权益最高约1.6万元。微博知......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/avgdq977/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1793953854129567.html",
+      "title": "主流少儿重疾险产品盘点：阳光保少儿版E款3大保障价值深度解析",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-06",
+      "url": "https://www.bjnews.com.cn/detail/1793953854129567.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae65939q/",
+      "title": "9.97万的新标致408，老库存只卖6万多",
+      "summary": "11月6日，东风标致2027款408上市，只推一款配置，指导价9.97万元。 官方给出的现金权益最高1.6万元，理论上最低8.37万元。汽车有文化但就在两个月前，有资源车商报过2024款408 1.5......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/ae65939q/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgdqgom/",
+      "title": "暗冰比积雪还滑？暴雪天步行、骑车、开车的防滑重点",
+      "summary": "11月6日18时10分，北京市气象台发布分区暴雪黄色预警。7日中午至8日上午，延庆、怀柔、密云、平谷、昌平、门头沟、房山7区的部分地区有大雪到暴雪，12小时降雪量6毫米以上，山区积雪5到10厘米。中央......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/avgdqgom/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6z4qz4g/",
+      "title": "标致发力了！2027款标致408上市，9.97万起！",
+      "summary": "无人在意的角落，2027款标致408轻磅上市。新车没有复杂配置表，也没有吊人胃口的预热流程，直接跳过预售环节上市即开售。官方只推出一款360THP Pro版，指导价9.97万元，相比老款起步价又往下压了一截。一台合资A+级轿车，1.5T配爱信6AT，指导......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/a6z4qz4g/"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/dwq/2026/11-06/10727700.shtml",
+      "title": "粤港澳24支代表队比拼无人机应用技术职业技能",
+      "summary": "中新网珠海11月6日电 (记者 程景伟)2026年粤港澳大湾区无人机应用技术职业技能大赛总决赛6日在珠海开幕，吸引来自广东21个地级以上市以及香港、澳门、横琴的24支代表队，在珠海、横琴的4个赛区展开比拼。赛事将持续至11月8日。...",
+      "source": "Chinanews",
+      "date": "2026-11-06",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727700.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3654899",
+      "title": "特斯拉股价今日为何大涨？",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-11-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3654899"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al39d38p/",
+      "title": "从百万预订到年销仅3万，Cybertruck为什么走到停产",
+      "summary": "北京时间11月6日，马斯克在X平台发文称，特斯拉将于明年年中左右在德克萨斯超级工厂逐步\"收尾\"Cybertruck的生产，转而扩大自动驾驶出租车Cybercab的产能。若兑现，这将是特斯拉一年内停掉的第三款车，前两款是Model S和Model X。 真......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/al39d38p/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a826rm3n/",
+      "title": "2027款标致408标配360全景和新车机，实际体验有哪些变化？",
+      "summary": "2027款标致408的“变化”不在车本身，而在你拿车的方式。11月6日东风标致上市2027款408，只推出一款360THP Pro车型，官方指导价9.97万元，Blue-i 4.0车机、数字钥匙、带透......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/a826rm3n/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6z4qzoe/",
+      "title": "推出STAR限定系列！月销7万的吉利星愿，到底还能升级什么？",
+      "summary": "一台月销超过7万的车型，到底还能怎么改？吉利给出了答案。吉利星愿在10月卖出了超过7万台，全球累计销量突破100万辆，成为最快达成这一里程碑的新能源车型。在这样一个基盘上，吉利做了一件不太一样的事：推......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/a6z4qzoe/"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/singapore/story20261106-9958438",
+      "title": "法国地铁业者RATP借鉴韩埃经验 携新捷运提升裕廊线服务",
+      "summary": "法国公共交通业者RATP Dev曾在韩国与埃及，运营韩国制造的地铁列车，累积了相关运营和维修经验。公司希望把这些经验带到新加坡，与新捷运地铁携手，为未来乘搭裕廊区域线的乘客提供安全、可靠，以及优质的地铁服务。...",
+      "source": "Zaobao",
+      "date": "2026-11-06",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20261106-9958438"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggwrgn7/",
+      "title": "本周末北京暴雪+施工+赛事撞期：去机场、看演出怎么绕路？",
+      "summary": "这个周末北京要面对的，与其说是一场\"全市暴雪\"，不如说是三个时间窗叠在同一张地图上：周六0时至周日24时，四元桥系两条进京匝道48小时占路封闭；周六22时至周日8时，地铁1号线建国门、东单、永安里三站封闭停运；周六傍晚到周日凌晨，城区雨雪、山区暴雪。而鸟......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/aggwrgn7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a826r270/",
+      "title": "纯电续航505km！广汽发布新车：11月6日正式上市",
+      "summary": "11月6日消息，广汽埃安旗下新车2027款AION S Plus出行版正式上市，堪称又一台网约神车。该车仅一款配置，定位就是网约车、出租车和租赁车队，主打营运耐用，成本很低。也难怪现在提到广汽埃安很多......",
+      "source": "Smzdm",
+      "date": "2026-11-06",
+      "url": "https://post.smzdm.com/p/a826r270/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261106/herald/6219e7fb5e4ce5a40ef69ed6ab6e0c79.html",
+      "title": "总统访华、总理去日韩：“德国式对冲”外交能够奏效吗？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-05",
-      "url": "https://www.21jingji.com/article/20261106/7f8687fe073cabe63e8330f6d3afecda.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03z9pn8/",
-      "title": "小米纽北刷圈是真的，6分58还是场外掐的",
-      "summary": "11月3日，小米官宣新款SU7 Ultra再战纽博格林北环，4日测试车就下场刷圈了。无伪装、宽体前铲、大尾翼，现场工作人员欢呼合影。然后，一个\"6分58秒\"传遍了全网。评论区比赛道还热闹。有人说国产性能车已经摸到全球第一梯队，有人问刷圈速到底有什么用，也......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/a03z9pn8/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgd203m/",
-      "title": "领克08三个版本，15.98万那款不是谁都买得到",
-      "summary": "2027款领克08 EM-P在11月5日上市。三个版本的官方指导价是17.18万、18.58万、19.88万，11月官方限时价各减6,000元，落到16.58万、17.98万、19.28万。15.98万、17.38万、18.68万则是再叠加6,000元置......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/avgd203m/"
-    },
-    {
-      "id": "https://www.jiemian.com/article/15297785.html",
-      "title": "美国国会即将“变天”，马斯克商业帝国恐遭打压",
-      "summary": "多位民主党众议员正谋划调查SpaceX与政府的合同、马斯克在领导“政府效率部”期间大规模裁减联邦政府职位，以及通过星链限制乌克兰军方使用卫星通信服务等。...",
-      "source": "Jiemian",
-      "date": "2026-11-05",
-      "url": "https://www.jiemian.com/article/15297785.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a264mp77/",
-      "title": "9.99万的smart精灵2号：实用升级是真的，但只够两个人用",
-      "summary": "11月5日晚，广州塔。全新smart精灵2号上市，官方指导价10.29万元，扣掉3000元首发基金，限时价9.99万元。 常规版本只有一个配置：Premium豪华版。太平洋汽车28年前，初代fortwo在巴黎车展首发，用2.5米的车身把“城市两座车”变成......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/a264mp77/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z42k0e/",
-      "title": "北京中小学明年9月前全面取消外送餐：食堂的食品安全靠什么保？",
-      "summary": "11月5日的校园餐专项整治现场推进会上，北京市教委给出了明确时间表：2027年9月1日前，北京中小学将全部取消外送餐，承包食堂和委托经营食堂全部转为新型自营食堂，所有食堂通过各区集中定点采购平台实现全品类采购，累计建成1000个智慧食堂。这次“取消”的含......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/a6z42k0e/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a7042lpl/",
-      "title": "9.99万的smart精灵#2，城市通勤代步到底够不够用？",
-      "summary": "11月5日晚，smart在广州把精灵2号的价格钉在了发布会大屏幕上：只推出一个Premium豪华版，官方指导价10.29万元、限时权益价9.99万元起。相比欧洲在售的三个配置，国内这次只上了一款。知乎微博回到标题里的问题：如果问的只是“一个人通勤、偶尔捎......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/a7042lpl/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7mekrn/",
-      "title": "10月销冠又是比亚迪！销量高和买车有啥关系？看懂底牌才算真懂车",
-      "summary": "近来有不少人私信我，每个月都在说国产车的销量如何如何高，这和消费者究竟有什么关系？先问你个问题，你买车前会关注哪些方面？很多人会看配置、盯参数、去看车、约试驾，可买了车之后，才发现每天真正操心最多的，其实是“电量还能跑多远”和“充电桩在哪”。再来看销量。......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/ad7mekrn/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzdomdq/",
-      "title": "两座小车卖到10万级，smart精灵#2和同价位代步车差在哪？",
-      "summary": "11月5日晚，全新smart精灵#2在广州塔正式上市，仅推出Premium豪华版一款车型，官方指导价10.29万元，限时权益价9.99万元起。 这款燃油时代smart fortwo的后继者，以车长2751mm、双门两座、CLTC续航410km的姿态重新进......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/arzdomdq/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak830w98/",
-      "title": "标配192线激光雷达，日常开真正能感觉到什么",
-      "summary": "11月5日，2027款领克08 EM-P上市，限时置换价15.98万元起，三个版本全部配备192线激光雷达。 一个家用插混SUV，把几年前二十多万甚至四十万车型才有的感知硬件做成了全系标配，这件事比参数本身更有意思。新浪微博但参数和体感之间，隔着一整套系......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/ak830w98/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgd20qn/",
-      "title": "13.38万的新款亚洲龙，15.6英寸大屏得加3万",
-      "summary": "11月5日，一汽丰田全新亚洲龙上市，官方指导价17.88万—23.68万元。太平洋汽车上市同步给出4.5万元限时直降，焕新价13.38万—19.18万元。太平洋汽车“13.38万起”是真的，但它对应的......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/avgd20qn/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak830qgk/",
-      "title": "全新smart#2正式上市：仅一款配置，指导价10.29万元、限时权益价9.99万起，权益只到11月30日",
-      "summary": "11月5日，全新smart精灵2号于广州塔正式上市。官方仅推出Premium豪华版一款车型，指导价10.29万元，限时权益价9.99万元起，并附五重购车权益。它是smart fortwo血脉的纯电续作——上一代标志性两座车2024年停产后，终于有了直接继......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/ak830qgk/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggw63z3/",
-      "title": "9.99万买两个座，smart精灵#2上市，2026年了这钱还能买到啥？",
-      "summary": "今天又是六台新车发布的一天，smart精灵#2是里面最个性的那个。别人都在把车做长、做大、加冰箱彩电，它是一台车长2米75、只有两个座位的纯电小车，发布会上还敢喊“小车发明者，再次发明小车”。Premium豪华版指导价10.29万，叠上3000元首发购车......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/aggw63z3/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3m49z65/",
-      "title": "新领克08置换价15.98万起，老款08残值只剩11万：这笔账怎么算",
-      "summary": "2026年11月5日，2027款领克08 EM-P正式上市，限时置换价15.98万元起。对于三年前落地二三十万买下初代08的车主，眼下最扎心的对照是：这批车现在的收车价普遍只有11万上下。先把结论摆出来——把老车卖掉、叠上国补，换成27款08的净支出大致......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/a3m49z65/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a826n8o7/",
-      "title": "首搭云辇-M的第二代海豹07：开起来、坐起来有啥变化——全系换底盘，磁流变只给顶配",
-      "summary": "11月5日，比亚迪海洋网第二代海豹07正式上市，推出5款配置，官方指导价为13.99-17.29万元，超级置换价为13.59-16.89万元。开起来和坐起来的变化可以拆成两层：驾驶端的升级是全系普惠的——所有配置的前悬架都从麦弗逊换成了双叉臂；乘坐端的差......",
-      "source": "Smzdm",
-      "date": "2026-11-05",
-      "url": "https://post.smzdm.com/p/a826n8o7/"
+      "date": "2026-11-06",
+      "url": "https://www.21jingji.com/article/20261106/herald/6219e7fb5e4ce5a40ef69ed6ab6e0c79.html"
     },
     {
       "id": "https://www.tribuneindia.com/news/business/byd-and-mogox-unveil-8-5-metre-right-hand-drive-level-4-autonomous-bus-at-sumw-2026/",
