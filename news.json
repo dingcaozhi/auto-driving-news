@@ -1,13 +1,11 @@
 {
-  "lastUpdated": "2026-11-07 05:38:51",
-  "totalCount": 23,
+  "lastUpdated": "2026-11-08 05:40:59",
+  "totalCount": 26,
   "sources": {
-    "Smzdm": 11,
+    "Smzdm": 16,
+    "Ithome": 1,
+    "Rednet_Cn": 1,
     "Bjnews": 1,
-    "Chinanews": 1,
-    "Investing_Cn": 1,
-    "Zaobao": 1,
-    "21Jingji": 1,
     "The Tribune": 2,
     "7NEWS Australia": 1,
     "The Telegraph": 1,
@@ -17,132 +15,156 @@
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/arzd2kzz/",
-      "title": "特斯拉Roadster飞了，但飞的不是你订的那辆",
-      "summary": "10月15日，得州麦格雷戈的SpaceX测试场，一辆白色Roadster冲上弧形坡道，车底朝天倒挂行驶，随后约10个喷口点火，整车腾空、翻转，落回地面。驾驶座上没有车手，坐着一台Optimus机器人。六天后，特斯拉交出三季度财报：净利润7.87亿美元，跌......",
+      "id": "https://post.smzdm.com/p/avgd6rkn/",
+      "title": "5.6米车长配易四方，鼎曜开起来和坐起来有什么不同",
+      "summary": "11月7日，仰望品牌在阿联酋发布了行政旗舰轿车鼎曜，官方公布的整车尺寸为长5600毫米、轴距3500毫米，采用对开门和易四方四电机独立驱动。 车上还首装了比亚迪自研的璇玑A3智驾芯片。 鼎曜的“开起来”和“坐起来”，本质上是两台不同的车：驾驶者消费的是易......",
       "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/arzd2kzz/"
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/avgd6rkn/"
     },
     {
-      "id": "https://post.smzdm.com/p/arzd2kk7/",
-      "title": "限量30台、售价超2000万：仰望U9X的503.17km/h纪录，到底改写了什么",
-      "summary": "11月6日，仰望汽车官宣：车手马克·巴森（Marc Basseng）驾驶仰望U9 Xtreme于11月1日在阿联酋阿布扎比E11高速公路的封闭测试路段，跑出实测极速503.17km/h，成绩获得FIA国际汽联与吉尼斯世界纪录双重认证。这是人类历史上首款极......",
+      "id": "https://post.smzdm.com/p/anvm7q27/",
+      "title": "续航破千带闪充，鼎曜行政版跑长途商务接待够用吗",
+      "summary": "11月7日晚间，仰望超豪华行政旗舰轿车鼎曜（ALTIOR）在阿联酋阿布扎比完成全球首发。 新车同步推出行政版与山河鼎韵限量版，CLTC续航超1000km、第二代刀片电池加千伏闪充的补能组合，第一次整体摆在这台行政旗舰轿车上。 就“跑长途商务接待够不够”这......",
       "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/arzd2kk7/"
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/anvm7q27/"
     },
     {
-      "id": "https://post.smzdm.com/p/avgdq977/",
-      "title": "2027款东风标致408上市：指导价9.97万，换了车漆和车机，没动1.5T与6AT",
-      "summary": "11月6日，东风标致2027款408正式上市，全系只保留360THP Pro一款配置，官方指导价定为9.97万元。 叠加1万元现金优惠与6000元限时红包后，官方口径的现金权益最高约1.6万元。微博知......",
+      "id": "https://post.smzdm.com/p/avgd6rmn/",
+      "title": "热搜“自动驾驶变健身房”：没有量产车，先落地的大概是办公桌",
+      "summary": "11月7日晚，#未来自动驾驶汽车变健身房#登上微博热搜，网上流传的是一段自动驾驶概念视频：车里的乘客踩着单车、举着哑铃，车自己在路上跑，这段画面的真实性随即被质疑。 截至本文发稿，没有任何车企推出配备车内健身器械的量产车型。这道热搜真正押注的，也不是把车......",
       "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/avgdq977/"
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/avgd6rmn/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1793953854129567.html",
-      "title": "主流少儿重疾险产品盘点：阳光保少儿版E款3大保障价值深度解析",
+      "id": "https://post.smzdm.com/p/az87kx0n/",
+      "title": "丰田纯电销量翻倍，想买电车的人能选什么？",
+      "summary": "丰田前三个季度全球卖出了约31万辆纯电车，同比翻倍有余——\"翻倍\"上了热榜，但真正想买车的人只关心一件事：丰田的电车，现在值不值得进备选？结论是它第一次值得进备选，原因不在牛头标，而在这些新车由中国团队主导研发、装上了中国供应链的座舱与智驾，价格和质保也......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/az87kx0n/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az87kxqo/",
+      "title": "我国新一代通信网技术新突破：160部4K电影传输千公里外3.43毫秒",
+      "summary": "快科技11月7日消息，我国新一代通信网络核心技术近期拿下重大突破性进展，千公里级信号单程传输耗时仅3.43毫秒，相关指标直接创下了空芯光纤实时传输领域的全新世界纪录。据参与试验的技术人员透露，本次测试......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/az87kxqo/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgd6rqp/",
+      "title": "特斯拉都承认竞争压力，国产新能源车到底强在哪？",
+      "summary": "11月6日，马斯克线上出席巴伦资本集团主办的年度商业投资讨论会，谈及特斯拉在华经营与投资时，专门赞扬了中国车企的发展。更实在的一次表态出现在半个月前：10月22日（北京时间）特斯拉发布三季度财报，电话......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/avgd6rqp/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7zvd5k/",
+      "title": "标配华为ADS 5的新红旗H9：智驾别盯着“放手”，座舱别只看屏幕",
+      "summary": "11月7日晚，全新红旗H9开启预售，先享价32.98万-41.98万元。 价格出来后，评论区的反应很分裂：有人觉得值，有人觉得贵。争论价格之前，还有个更具体的问题没被回答：这套ADS 5和鸿蒙座舱，买......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/ad7zvd5k/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am9v7mr4/",
+      "title": "红旗H9配上华为ADS 5，日常开和老款比体验差在哪",
+      "summary": "一汽红旗在11月6日宣布全新红旗H9于11月7日开启预售，当晚四款配置的预售先享价随即公布：32.98万到41.98万元。把它和老款放在一起看，日常驾驶的差距不在外观气场，而集中在四处：动力从纯燃油换......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/am9v7mr4/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqr5z39/",
+      "title": "马斯克夸中国车企“非常厉害”，重点在“并不容易”",
+      "summary": "当地时间11月6日，纽约，第33届巴伦投资会议。马斯克视频连线，聊了约一个小时。知乎谈到中国市场时，他给了一个很具体的评价：上海产的Model Y是中国最畅销的电动车，但做到这一点“并不容易”，因为中......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/apqr5z39/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am9v7mk4/",
+      "title": "马斯克再度点赞中国车企，关注国产车出海的人真正该看什么",
+      "summary": "当地时间11月6日，在纽约举行的第33届巴伦投资会议上，特斯拉CEO马斯克接受采访时直言\"中国令人惊叹，顺便说一句，我爱中国\"，并主动提到上海产Model Y能成为中国最畅销电动车\"并不容易，因为中国......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/am9v7mk4/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a954e87p/",
+      "title": "新款理想MEGA谍照曝光：车头缩短、三角窗放大，8座版来了吗",
+      "summary": "新款理想MEGA的谍照又上了热榜，这次的变化很具体：车头缩短了，前三角窗放大了。11月6日晚，博主SugarDesign发布一组重度伪装MPV路试谍照，画面里的测试车“车头变短了不少，前三角窗大了很多”，他猜测这就是8座版。11月7日，快科技等媒体跟进报......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/a954e87p/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rpngw3/",
+      "title": "MEGA车头缩短，前排视野能好多少？开过MEGA的人：完全看不到车头",
+      "summary": "11月6日晚，SugarDesign发了两张重度伪装谍照。一台MEGA样式的测试车，前悬短了一截，A柱旁的三角窗大了一圈。配文是个问句：“车头变短了不少，前三角窗大了很多，难道这就是8座版？”截至11......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/a5rpngw3/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak834mzr/",
+      "title": "标配ADS5高阶版，全新红旗H9智驾能覆盖哪些日常场景？",
+      "summary": "11月7日晚，一汽红旗为全新红旗H9开启预售，新车共推出4款配置，预售先享价32.98万-41.98万元。华为乾崑官方物料里，这套上车的系统叫法是ADS™ Max V5.0，官方把它概括成“商务出行、......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/ak834mzr/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggwx8gw/",
+      "title": "亚洲龙13.38万，降的是指导价",
+      "summary": "11月5日晚上，一汽丰田在广州给全新亚洲龙办了场上市发布会，场地选在一家叫\"另一个美术馆\"的艺术空间，宣传物料里出镜的是陈小春。当晚媒体发的通稿口径高度统一：“再次定义豪华新标准”。车友们嚼的是另一组......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/aggwx8gw/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6zpxqle/",
+      "title": "我用了 WorkBuddy 中的两个特殊功能，做出了人人可用的旅行计划（可完美复刻）",
+      "summary": "点击上方蓝字关注我，加个🌟标不迷路。各位小伙伴们大家好，我是 cxuan。今年这个双节有点意思，中秋放假 3 天，国庆放假 7 天，然而中间隔着 3 天，如果中间这三天请假的话，你将有 13 天假期。......",
+      "source": "Smzdm",
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/a6zpxqle/"
+    },
+    {
+      "id": "https://www.ithome.com/1/023/815.htm",
+      "title": "未来 6G 基站不光能通信还能当雷达，新闻联播报道详解新一代通信网加快建设",
+      "summary": "IT之家 11 月 7 日消息，《新闻联播》今日用时约 2 分 20 秒介绍了我国新一代通信网加快建设。报道称，新一代通信网是贯通数字和实体、连接当下与未来的关键数字纽带。“十五五”开局之年，各地加快推动新一代通信网建设，夯实高质量发展底座。 简单来说，新一代通信网，包含了 5G、5G-A、6G 等移动通信网，以及万兆光网、卫星互联网等，实现通信、感知、计算、智能等多功能深度融合。 眼下，新一代通...",
+      "source": "Ithome",
+      "date": "2026-11-07",
+      "url": "https://www.ithome.com/1/023/815.htm"
+    },
+    {
+      "id": "https://yz.rednet.cn/content/646055/99/16451280.html",
+      "title": "以练筑防 共护安澜——零道高速隧道火灾应急救援演练 为通车攻坚“淬火练兵”_政务_永州站",
+      "summary": "NewsData报道",
+      "source": "Rednet_Cn",
+      "date": "2026-11-07",
+      "url": "https://yz.rednet.cn/content/646055/99/16451280.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1794054650129495.html",
+      "title": "高频高速PCB：算力与通信硬件的核心载体——百能云板全链路解决方案",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-11-06",
-      "url": "https://www.bjnews.com.cn/detail/1793953854129567.html"
+      "date": "2026-11-07",
+      "url": "https://www.bjnews.com.cn/detail/1794054650129495.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ae65939q/",
-      "title": "9.97万的新标致408，老库存只卖6万多",
-      "summary": "11月6日，东风标致2027款408上市，只推一款配置，指导价9.97万元。 官方给出的现金权益最高1.6万元，理论上最低8.37万元。汽车有文化但就在两个月前，有资源车商报过2024款408 1.5......",
+      "id": "https://post.smzdm.com/p/aomq7ozm/",
+      "title": "三家中国车企进全球前十，国内买车最实在的好处，不是降价",
+      "summary": "全球汽车销量前十，中国占了三席。2026年前9个月，全球卖出7252万辆汽车，比亚迪排第五，吉利第七，奇瑞第八。 这是连续第二年有三家中国车企进入前十（2025年全年是比亚迪、上汽、吉利，今年上汽的位......",
       "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/ae65939q/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgdqgom/",
-      "title": "暗冰比积雪还滑？暴雪天步行、骑车、开车的防滑重点",
-      "summary": "11月6日18时10分，北京市气象台发布分区暴雪黄色预警。7日中午至8日上午，延庆、怀柔、密云、平谷、昌平、门头沟、房山7区的部分地区有大雪到暴雪，12小时降雪量6毫米以上，山区积雪5到10厘米。中央......",
-      "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/avgdqgom/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z4qz4g/",
-      "title": "标致发力了！2027款标致408上市，9.97万起！",
-      "summary": "无人在意的角落，2027款标致408轻磅上市。新车没有复杂配置表，也没有吊人胃口的预热流程，直接跳过预售环节上市即开售。官方只推出一款360THP Pro版，指导价9.97万元，相比老款起步价又往下压了一截。一台合资A+级轿车，1.5T配爱信6AT，指导......",
-      "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/a6z4qz4g/"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/dwq/2026/11-06/10727700.shtml",
-      "title": "粤港澳24支代表队比拼无人机应用技术职业技能",
-      "summary": "中新网珠海11月6日电 (记者 程景伟)2026年粤港澳大湾区无人机应用技术职业技能大赛总决赛6日在珠海开幕，吸引来自广东21个地级以上市以及香港、澳门、横琴的24支代表队，在珠海、横琴的4个赛区展开比拼。赛事将持续至11月8日。...",
-      "source": "Chinanews",
-      "date": "2026-11-06",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727700.shtml"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3654899",
-      "title": "特斯拉股价今日为何大涨？",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-11-06",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3654899"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al39d38p/",
-      "title": "从百万预订到年销仅3万，Cybertruck为什么走到停产",
-      "summary": "北京时间11月6日，马斯克在X平台发文称，特斯拉将于明年年中左右在德克萨斯超级工厂逐步\"收尾\"Cybertruck的生产，转而扩大自动驾驶出租车Cybercab的产能。若兑现，这将是特斯拉一年内停掉的第三款车，前两款是Model S和Model X。 真......",
-      "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/al39d38p/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a826rm3n/",
-      "title": "2027款标致408标配360全景和新车机，实际体验有哪些变化？",
-      "summary": "2027款标致408的“变化”不在车本身，而在你拿车的方式。11月6日东风标致上市2027款408，只推出一款360THP Pro车型，官方指导价9.97万元，Blue-i 4.0车机、数字钥匙、带透......",
-      "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/a826rm3n/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z4qzoe/",
-      "title": "推出STAR限定系列！月销7万的吉利星愿，到底还能升级什么？",
-      "summary": "一台月销超过7万的车型，到底还能怎么改？吉利给出了答案。吉利星愿在10月卖出了超过7万台，全球累计销量突破100万辆，成为最快达成这一里程碑的新能源车型。在这样一个基盘上，吉利做了一件不太一样的事：推......",
-      "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/a6z4qzoe/"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20261106-9958438",
-      "title": "法国地铁业者RATP借鉴韩埃经验 携新捷运提升裕廊线服务",
-      "summary": "法国公共交通业者RATP Dev曾在韩国与埃及，运营韩国制造的地铁列车，累积了相关运营和维修经验。公司希望把这些经验带到新加坡，与新捷运地铁携手，为未来乘搭裕廊区域线的乘客提供安全、可靠，以及优质的地铁服务。...",
-      "source": "Zaobao",
-      "date": "2026-11-06",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20261106-9958438"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggwrgn7/",
-      "title": "本周末北京暴雪+施工+赛事撞期：去机场、看演出怎么绕路？",
-      "summary": "这个周末北京要面对的，与其说是一场\"全市暴雪\"，不如说是三个时间窗叠在同一张地图上：周六0时至周日24时，四元桥系两条进京匝道48小时占路封闭；周六22时至周日8时，地铁1号线建国门、东单、永安里三站封闭停运；周六傍晚到周日凌晨，城区雨雪、山区暴雪。而鸟......",
-      "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/aggwrgn7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a826r270/",
-      "title": "纯电续航505km！广汽发布新车：11月6日正式上市",
-      "summary": "11月6日消息，广汽埃安旗下新车2027款AION S Plus出行版正式上市，堪称又一台网约神车。该车仅一款配置，定位就是网约车、出租车和租赁车队，主打营运耐用，成本很低。也难怪现在提到广汽埃安很多......",
-      "source": "Smzdm",
-      "date": "2026-11-06",
-      "url": "https://post.smzdm.com/p/a826r270/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261106/herald/6219e7fb5e4ce5a40ef69ed6ab6e0c79.html",
-      "title": "总统访华、总理去日韩：“德国式对冲”外交能够奏效吗？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-06",
-      "url": "https://www.21jingji.com/article/20261106/herald/6219e7fb5e4ce5a40ef69ed6ab6e0c79.html"
+      "date": "2026-11-07",
+      "url": "https://post.smzdm.com/p/aomq7ozm/"
     },
     {
       "id": "https://www.tribuneindia.com/news/business/byd-and-mogox-unveil-8-5-metre-right-hand-drive-level-4-autonomous-bus-at-sumw-2026/",
