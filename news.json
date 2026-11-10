@@ -1,13 +1,18 @@
 {
-  "lastUpdated": "2026-11-09 05:51:02",
-  "totalCount": 28,
+  "lastUpdated": "2026-11-10 06:56:41",
+  "totalCount": 30,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 11,
-    "Ithome": 2,
-    "Nbd_Cn": 2,
-    "21Jingji": 1,
-    "The Tribune": 2,
+    "Gmw": 3,
+    "Imobile": 2,
+    "Smzdm": 4,
+    "Bjnews": 2,
+    "Rednet_Cn": 1,
+    "21Jingji": 4,
+    "Cri_Cn": 1,
+    "Moneycontrol": 1,
+    "The Manila Times": 1,
+    "The Tribune": 1,
     "7NEWS Australia": 1,
     "The Telegraph": 1,
     "The Economic Times": 1,
@@ -16,172 +21,196 @@
   },
   "news": [
     {
+      "id": "https://www.bilibili.com/video/BV1yq4y1h7Bx",
+      "title": "【B站】无人驾驶实用化！看几十年中国交通的进化！",
+      "summary": "自动驾驶汽车，又称无人驾驶汽车，是一种通过电脑系统实现无人驾驶的智能汽车。今天，“无人驾驶”在中国科学家的研发下，正逐步走进中国人的生活之中。...",
+      "source": "Bilibili",
+      "date": "2026-11-10",
+      "url": "https://www.bilibili.com/video/BV1yq4y1h7Bx"
+    },
+    {
       "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
       "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-09",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
       "id": "https://www.bilibili.com/video/BV182GnzRERu",
       "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
       "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
       "source": "Bilibili",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "url": "https://www.bilibili.com/video/BV182GnzRERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Be4p6aEU2",
-      "title": "【B站】拜托了老司机飞哥：特斯拉车主崩溃了！买车买了七年，到现在还没给推送，model x都停产了，5万六买的自动驾驶遥遥无期！钱也不退！",
+      "id": "https://www.bilibili.com/video/BV1FaW46zE3E",
+      "title": "【B站】硬件已经堆到L4，什么时候才能买到无人驾驶？",
+      "summary": "目前所谓的“高阶辅助驾驶”处在L2-L3之间。花50万买车的用户，显然不会满足所谓的“L2.999”，在乎的是将来，看中的是厂商宣传口径中，能达到自动驾驶级别的硬件冗余。所以，目前无限堆料，理论支持L4的硬件冗余，什么时候才能兑现能力？从辅助驾驶，到无人驾驶，究竟还有多远？...",
+      "source": "Bilibili",
+      "date": "2026-11-10",
+      "url": "https://www.bilibili.com/video/BV1FaW46zE3E"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
       "summary": "B站视频",
       "source": "Bilibili",
+      "date": "2026-11-10",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://news.gmw.cn/2026-11/10/content_39093375.htm",
+      "title": "在这里，体验开放的魅力",
+      "summary": "11月10日，第九届进博会将落下帷幕。25年前的11月10日，多哈的一声木槌宣告中国加入世界贸易组织。25年前，中国拥抱世界市场；25年后，世界共享中国市场。这个特殊的日子，标注出中国与世界关系的深刻变迁。...",
+      "source": "Gmw",
       "date": "2026-11-09",
-      "url": "https://www.bilibili.com/video/BV1Be4p6aEU2"
+      "url": "https://news.gmw.cn/2026-11/10/content_39093375.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV13XTAzFEay",
-      "title": "【B站】盘点全自动闯祸机的名场面",
-      "summary": "-...",
-      "source": "Bilibili",
+      "id": "https://news.gmw.cn/2026-11/10/content_39093350.htm",
+      "title": "5项公安交管便民利企措施12月起实施",
+      "summary": "推行进口小客车新车上牌“一件事”。在与税务、金融监管等部门共享车辆销售发票、购置税、保险等信息，实现国产小客车新车上牌“一件事”基础上，进一步加强与市场监管部门信息联网，共享进口小客车预查验信息。群众购买进口小客车后，可通过“交管12123”App，网上一站办结所有选号上牌业务，不再需要到办事窗口办理业务，免于多部门、多窗口来回往返。...",
+      "source": "Gmw",
       "date": "2026-11-09",
-      "url": "https://www.bilibili.com/video/BV13XTAzFEay"
+      "url": "https://news.gmw.cn/2026-11/10/content_39093350.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/am9vmdpd/",
-      "title": "腾势N8的圆规掉头，日常开到底能解决什么问题？",
-      "summary": "腾势N8将在11月12日上市。最容易被讨论的配置，大概是圆规掉头。它看起来太像炫技了：一个五米多长的大SUV，能在原地转半圈。IT之家先给结论：圆规掉头解决的不是“掉头半径不够小”，而是“车已经没地方......",
+      "id": "https://news.gmw.cn/2026-11/10/content_39093301.htm",
+      "title": "向新而行 相融而兴——贵州遵义全方位融入成渝地区双城经济圈",
+      "summary": "向北，是地理方向，对遵义而言，更是发展命题。从重庆西出发，搭乘高铁驶入遵义高铁站，全程最快76分钟。打开地图，遵义在四川盆地与云贵高原的过渡地带，7个县（市）与成渝地区毗邻。然而，过去大娄山脉横亘全境，乌江、赤水河交错蜿蜒，交通问题曾一度成为遵义融入成渝发展的突出瓶颈。...",
+      "source": "Gmw",
+      "date": "2026-11-09",
+      "url": "https://news.gmw.cn/2026-11/10/content_39093301.htm"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/1110/236042.shtml",
+      "title": "智己LS8 NEO纯电上市，不玩丐版套路",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-11-09",
+      "url": "http://news.imobile.com.cn/articles/2026/1110/236042.shtml"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/1110/236043.shtml",
+      "title": "试驾享界S9，这车开完我沉默了",
+      "summary": "NewsData报道",
+      "source": "Imobile",
+      "date": "2026-11-09",
+      "url": "http://news.imobile.com.cn/articles/2026/1110/236043.shtml"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkd02r9/",
+      "title": "仰望放出两张王牌，从极速到超豪华，中国汽车正在挑战顶级市场",
+      "summary": "比亚迪现在势头正猛，围绕它制造一些争议话题，其实也不难理解。毕竟，当一个中国汽车品牌开始在全球市场持续扩大影响力，开始挑战传统汽车巨头的市场地位，外界的关注和争议自然会随之增加。但问题是，这些声音真的能够阻挡比亚迪继续向前吗？显然不能。回头看2026年，......",
       "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/am9vmdpd/"
+      "date": "2026-11-09",
+      "url": "https://post.smzdm.com/p/axkd02r9/"
     },
     {
-      "id": "https://post.smzdm.com/p/arzd03ox/",
-      "title": "森海塞尔发布Scenico 与Polifonia，推进沉浸式车载音响",
-      "summary": "新技术带来沉浸式音响解决方案，为车内的每个人实现个性化聆听体验，同时为车内空间设计提供更大自由度德国韦德马克，2026 年11 月6 日——森海塞尔推出Scenico（搭载AMBEO 技术）和Poli......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/arzd03ox/"
+      "id": "https://www.bjnews.com.cn/detail/1794227154169072.html",
+      "title": "三名警校生从侧翻车内救六人错过自学考试：是特别的实战课，值了",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-09",
+      "url": "https://www.bjnews.com.cn/detail/1794227154169072.html"
     },
     {
-      "id": "https://www.ithome.com/1/024/011.htm",
-      "title": "马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色",
-      "summary": "IT之家 11 月 8 日消息，特斯拉计划对 Cybercab 进行多项重大升级，带来能效提升和新的车身配色。今天（8 日）凌晨，特斯拉 CEO 马斯克在 X 上透露，公司还将进一步改进 Cybercab。“我们会进一步提高能效，让 Cybercab 用上 40kWh 电池组。我们还会推出液态银色，免得车身颜色太单调。” 据IT之家了解，本周早些时候，特斯拉宣布将取消得州超级工厂的 Cybertr...",
-      "source": "Ithome",
-      "date": "2026-11-08",
-      "url": "https://www.ithome.com/1/024/011.htm"
+      "id": "https://yz.rednet.cn/content/646055/91/16455314.html",
+      "title": "中石化永州石油开展油罐车泄漏应急演练_社会_永州站",
+      "summary": "NewsData报道",
+      "source": "Rednet_Cn",
+      "date": "2026-11-09",
+      "url": "https://yz.rednet.cn/content/646055/91/16455314.html"
     },
     {
-      "id": "https://post.smzdm.com/p/az87k2g0/",
-      "title": "不卷马力卷上算力了！保时捷多款车型车机升级：算力直接翻5倍",
-      "summary": "快科技11月8日消息，一向以动力性能见长的保时捷，把升级重心放到了车内智能座舱上。近日，保时捷推出新一代通讯管理系统PCM，911、Taycan、Panamera以及卡宴系列，包含燃油与混动版本，都将......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/az87k2g0/"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-11-08/4641636.html",
-      "title": "物流AI分化前夜：G7易流月均Token消耗量增至7700亿，行业规模化落地者仅一成，谁能穿越落地鸿沟？",
-      "summary": "物流AI分化前夜：G7易流月均Token消耗量增至7700亿，行业规模化落地者仅一成，谁能穿越落地鸿沟？...",
-      "source": "Nbd_Cn",
-      "date": "2026-11-08",
-      "url": "https://www.nbd.com.cn/articles/2026-11-08/4641636.html"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-11-08/4641680.html",
-      "title": "圆通总裁潘水苗回应出任影视飓风董事长；凌川科技获10亿元B轮融资｜一周未来商业",
-      "summary": "| 2026年11月2日—11月8日 |#电商新零售NO.1 速卖通海外“双11”首日品牌成交额增长超200%11月3日，阿里旗下跨境电商平台速卖通披露的数据显示，其海外“双11”于11月1日正式开卖...",
-      "source": "Nbd_Cn",
-      "date": "2026-11-08",
-      "url": "https://www.nbd.com.cn/articles/2026-11-08/4641680.html"
-    },
-    {
-      "id": "https://www.ithome.com/1/024/008.htm",
-      "title": "博世吴永桥：汽车不该拿来订咖啡、订机票，建议手机和车机划清边界",
-      "summary": "IT之家 11 月 8 日消息，据第一财经，在 5 日的 2026 世界互联网大会 · 乌镇咖荟 · 汽车夜话上，博世智能驾驶与控制系统事业部（XC）中国区总裁吴永桥发表观点认为，汽车不会成为“第三空间”，车机也不该重复手机已经做得很好的事。 吴永桥直言，当前很多人都认为汽车会成为第三空间，但自己认为“永远不会”。之所以如此判断，依据是自身的项目经验和实际使用数据。 其透露，博世为全球客户做了百余...",
-      "source": "Ithome",
-      "date": "2026-11-08",
-      "url": "https://www.ithome.com/1/024/008.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrzgokx/",
-      "title": "长城欧拉7车尾官图发布 提供旅行版与轿跑版双形态",
-      "summary": "长城欧拉这个品牌,一直靠复古可爱的造型圈粉,这次终于把产品线往外扩了一大步。11 月 7 日,长城汽车放出了全新车型欧拉 7 的尾部官图,同时还透露了一个关键信息,就是这台车会提供两种车身形态,分别是旅行版和轿跑版,实车已经陆续抵达全国门店,离正式上市不......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/aqrzgokx/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03z2now/",
-      "title": "208万！最贵国产电车来了！尊界S800和仰望鼎曜谁更尊？",
-      "summary": "在阿布扎比，比亚迪给劳斯莱斯的老客户准备了另一把伞。11月7日，比亚迪高端品牌仰望鼎曜全球首发，预计售价208万元，首批山河鼎韵限量版399台。首发选了阿联酋，中东是全球超豪华车最肥的市场之一，劳斯莱......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/a03z2now/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rpnlx8/",
-      "title": "比亚迪唐失速车主跳车，经销商反悔53万和解协议，到底谁在说谎？",
-      "summary": "、8月4日凌晨，一位比亚迪唐车主驾车途中，车辆突然EV受限、全车断电、刹车变硬、方向盘锁死、车灯熄灭，车辆失控冲下山坡。车主跳车避险，受伤严重。事发前，厂家刚维修过动力电池——是拆开维修，没有换新。事......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/a5rpnlx8/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a826o4mn/",
-      "title": "17个10月新品分档：7个现在能买，6个还轮不到你，4个看看就好",
-      "summary": "10月发布会密得像赶集。爱范儿的「明日产品 WATCHLIST」挑了17个产品，从22999元起的触屏 MacBook Pro，到只能飞6秒的特斯拉 Roadster。 最显眼的是距离：有的已进购物车，有的卡在发售地图、邀请名单或2027年的排产表上。爱......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/a826o4mn/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/az87k25n/",
-      "title": "仰望鼎曜全球首发 山河鼎韵限量版定金30万",
-      "summary": "北京时间11月7日,比亚迪旗下超豪华行政旗舰轿车仰望鼎曜在阿联酋迪拜迎来了全球首发。这场发布会分量不轻,它是仰望品牌第一次以完整形象在海外办全球发布会,也是中国品牌第一次把量产行政旗舰,直接开进由劳斯......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/az87k25n/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anvm70x3/",
-      "title": "欧拉7已到店：两台展车能确认什么，哪些还得再等等",
-      "summary": "长城欧拉7的实车已经陆续摆进全国欧拉门店，轿跑和旅行两种版本同厅展出，11月7日官方又发布了车尾官图。官方目前对上市时间的表述仍停留在\"即将\"。价格则完全没开口，门店口径统一是\"暂未上市，价格还没公布......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/anvm70x3/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkdgq4d/",
-      "title": "疯狂堆配置！博世吴永桥：汽车不该拿来订咖啡、机票 根本没人用",
-      "summary": "快科技11月8日消息，当下智能汽车行业，不少车企热衷于扩充车机应用生态，把各类生活服务搬进车内，将汽车包装成多元的“第三空间”，以此作为产品宣传卖点。但博世智能驾驶与控制系统事业部中国区总裁吴永桥对此......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/axkdgq4d/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7zvedd/",
-      "title": "荣威家越07首周交付破5000：首批车主的实际体验，兑现了哪些参数",
-      "summary": "11月8日，荣威家越07交出了上市后的第一份交付成绩单：上市首周交付突破5000辆，10月23日上市、11月1日开启交付，共4款车型，限时权益价11.98万至14.48万元。 同一天，跟踪终端交付的博......",
-      "source": "Smzdm",
-      "date": "2026-11-08",
-      "url": "https://post.smzdm.com/p/ad7zvedd/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261108/herald/2ffde52a5d16be5303a82046fd4edffb.html",
-      "title": "飞利浦大中华区副总裁戴鹰：AI医疗要规模化，关键在能否解决真实临床问题",
+      "id": "https://www.21jingji.com/article/20261109/herald/ea98d32153a4d6cd9c85352062718414.html",
+      "title": "日剧《VIVANT》抹黑中国形象，高市早苗却说“喜欢”，新华社起底日本右翼“文化投毒”：使用四种手法，有AI短剧甚至设定“台湾有事”情节",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-08",
-      "url": "https://www.21jingji.com/article/20261108/herald/2ffde52a5d16be5303a82046fd4edffb.html"
+      "date": "2026-11-09",
+      "url": "https://www.21jingji.com/article/20261109/herald/ea98d32153a4d6cd9c85352062718414.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261109/herald/06cc389b7964a2934aa00c027c891cb4.html",
+      "title": "公安部推出5项新措施，12月1日起全国推行！",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-09",
+      "url": "https://www.21jingji.com/article/20261109/herald/06cc389b7964a2934aa00c027c891cb4.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1794211384129545.html",
+      "title": "中国汽研武汉公司携实训装备亮相三大行业盛会，科技赋能产教融合与科研创新",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-09",
+      "url": "https://www.bjnews.com.cn/detail/1794211384129545.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggw87om/",
+      "title": "奥迪A8正式停产，现在抄底库存车会踩哪些坑？",
+      "summary": "11月9日，多家媒体报道奥迪已正式停产第四代A8：这款诞生于1994年、与奔驰S级和宝马7系同框了32年的德系旗舰，结束了它的产品线，德国内卡苏尔姆工厂的产能转向A5车系与性能车型。 退场早有预告：德......",
+      "source": "Smzdm",
+      "date": "2026-11-09",
+      "url": "https://post.smzdm.com/p/aggw87om/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261109/herald/db67449ee99c3c28521299b5c4870219.html",
+      "title": "“机遇之城 热气腾腾”，广州举办绿智城管产业专场招商活动",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-09",
+      "url": "https://www.21jingji.com/article/20261109/herald/db67449ee99c3c28521299b5c4870219.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261109/herald/81891d601d647ccdeabaa1c46eb7c70a.html",
+      "title": "马斯克：将向大量Cybertruck客户退还订金",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-09",
+      "url": "https://www.21jingji.com/article/20261109/herald/81891d601d647ccdeabaa1c46eb7c70a.html"
+    },
+    {
+      "id": "https://news.cri.cn/20261109/b26c2b54-22e9-85be-c3cd-fd34ddd31dfd.html",
+      "title": "晶采观察丨端牢中国饭碗 秋粮丰收背后有三层底气-国际在线",
+      "summary": "2026年前三季度农业农村经济数据相继发布。今年是“十五五”开局之年，先看几组实打实的数据：夏粮3014.9亿斤，首次突破3000亿斤，创历史新高；早稻565.8亿斤，连续六年稳定在560亿斤以上；截至11月4日...",
+      "source": "Cri_Cn",
+      "date": "2026-11-09",
+      "url": "https://news.cri.cn/20261109/b26c2b54-22e9-85be-c3cd-fd34ddd31dfd.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az875epp/",
+      "title": "20万级后驱运动轿车，CT5和迈腾帕萨特别在哪？",
+      "summary": "11月9日，2026款凯迪拉克CT5上市，限时一口价20.69万元起，这台官方指导价曾接近29万元起步的美系豪华轿车，第一次用官方价格直接闯进了迈腾、帕萨特的实际成交区间。问题的答案就藏在\"后驱\"两个......",
+      "source": "Smzdm",
+      "date": "2026-11-09",
+      "url": "https://post.smzdm.com/p/az875epp/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rpkq08/",
+      "title": "预售就带双腔空悬+差速锁，二代蓝山城野体验有啥变化",
+      "summary": "11月9日晚，魏牌二代蓝山开启预售，四款版型预售价28.98万—32.98万元。 山野体验的变化就写在配置单里：全系采用前双叉臂+后五连杆独立悬架+EDC连续可变阻尼减震器+双腔闭式空悬+后桥差速锁，......",
+      "source": "Smzdm",
+      "date": "2026-11-09",
+      "url": "https://post.smzdm.com/p/a5rpkq08/"
+    },
+    {
+      "id": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html",
+      "title": "What is Megaspeed? How Nvidia's cloud partner got caught up in an affair and China spying storm",
+      "summary": "Megaspeed says it specialises in providing AI computing resources and solutions across sectors such as urban governance, autonomous driving, intelligent finance, gaming and image recognition...",
+      "source": "Moneycontrol",
+      "date": "2026-11-09",
+      "url": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881",
+      "title": "WeRide to Report Third Quarter 2026 Financial Results on Friday, November 20, 2026",
+      "summary": "NEW YORK, Nov. 09, 2026 (GLOBE NEWSWIRE) -- As previously announced, WeRide Inc. ('WeRide” or the 'Company”) (NASDAQ: WRD; HKEX: 0800), a global leader in autonomous driving technology, will release i...",
+      "source": "The Manila Times",
+      "date": "2026-11-09",
+      "url": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881"
     },
     {
       "id": "https://www.tribuneindia.com/news/business/byd-and-mogox-unveil-8-5-metre-right-hand-drive-level-4-autonomous-bus-at-sumw-2026/",
@@ -230,14 +259,6 @@
       "source": "Livemint",
       "date": "2026-10-30",
       "url": "https://www.livemint.com/technology/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs-11793350566224.html"
-    },
-    {
-      "id": "https://www.tribuneindia.com/news/business/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs/",
-      "title": "AI robotics may need 10 million hours of interaction data to reach production",
-      "summary": "General-purpose artificial intelligence (AI) robotics could require an estimated 10 million hours of high-quality physical interaction data to reach production-level capabilities, highlighting the cha...",
-      "source": "The Tribune",
-      "date": "2026-10-30",
-      "url": "https://www.tribuneindia.com/news/business/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs/"
     }
   ]
 }
