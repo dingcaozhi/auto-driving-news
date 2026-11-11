@@ -1,200 +1,182 @@
 {
-  "lastUpdated": "2026-11-10 06:56:41",
-  "totalCount": 30,
+  "lastUpdated": "2026-11-11 05:47:07",
+  "totalCount": 27,
   "sources": {
     "Bilibili": 5,
-    "Gmw": 3,
-    "Imobile": 2,
     "Smzdm": 4,
-    "Bjnews": 2,
-    "Rednet_Cn": 1,
-    "21Jingji": 4,
-    "Cri_Cn": 1,
+    "Fx168News": 1,
+    "21Jingji": 5,
+    "Nbd_Cn": 2,
+    "Ithome": 1,
+    "Pcauto_Cn": 1,
+    "The Manila Times": 2,
     "Moneycontrol": 1,
-    "The Manila Times": 1,
     "The Tribune": 1,
     "7NEWS Australia": 1,
     "The Telegraph": 1,
     "The Economic Times": 1,
-    "Firstpost": 1,
-    "Livemint": 1
+    "Firstpost": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1yq4y1h7Bx",
-      "title": "【B站】无人驾驶实用化！看几十年中国交通的进化！",
-      "summary": "自动驾驶汽车，又称无人驾驶汽车，是一种通过电脑系统实现无人驾驶的智能汽车。今天，“无人驾驶”在中国科学家的研发下，正逐步走进中国人的生活之中。...",
+      "id": "https://www.bilibili.com/video/BV1uBWt6sE6d",
+      "title": "【B站】对话陶吉：自动驾驶还没有结束",
+      "summary": "很多人说自动驾驶已经结束了：大方向清楚，剩下只是压成本和规模化。可特斯拉还在推 Robotaxi，端到端、VLA、世界模型还在换代——如果真结束了，为什么产品还在进步、路线还在变？\n这期《无限不可能引擎》，我们对话长安汽车首席智能驾驶技术官陶吉。他是中国最早一批做自动驾驶的人：百度早期无人车、卡车创...",
       "source": "Bilibili",
-      "date": "2026-11-10",
-      "url": "https://www.bilibili.com/video/BV1yq4y1h7Bx"
+      "date": "2026-11-11",
+      "url": "https://www.bilibili.com/video/BV1uBWt6sE6d"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "id": "https://www.bilibili.com/video/BV1u8W56pExW",
+      "title": "【B站】【中配】自动驾驶球轮全向车 - James Bruton",
+      "summary": "原视频：Auto-Driving Ball-Wheeled Omni-Directional Car\n原作者：James Bruton\n发布日期：2026-11-10\n视频链接：https://www.youtube.com/watch?v=Tu8ajyDQeFk\n\n大神James Bruton造了...",
+      "source": "Bilibili",
+      "date": "2026-11-11",
+      "url": "https://www.bilibili.com/video/BV1u8W56pExW"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1RqcNzxENr",
+      "title": "【B站】【硬核】2026自动驾驶技术全景：世界模型、VLA与车路协同",
+      "summary": "你以为自动驾驶的终极对决，是特斯拉的摄像头和Waymo的激光雷达之争？恰恰相反。这背后，是一场关于AI大脑的认知革命。朋友们，欢迎来到数字学府，让知识看得见，听得懂。今天，我们将一起潜入2026年的科技前沿，揭开自动驾驶技术全景的神秘面纱，看看当汽车拥有了“预见未来”的大脑，我们的出行将被如何彻底重...",
+      "source": "Bilibili",
+      "date": "2026-11-11",
+      "url": "https://www.bilibili.com/video/BV1RqcNzxENr"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
+      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-11-10",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-11-10",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1FaW46zE3E",
-      "title": "【B站】硬件已经堆到L4，什么时候才能买到无人驾驶？",
-      "summary": "目前所谓的“高阶辅助驾驶”处在L2-L3之间。花50万买车的用户，显然不会满足所谓的“L2.999”，在乎的是将来，看中的是厂商宣传口径中，能达到自动驾驶级别的硬件冗余。所以，目前无限堆料，理论支持L4的硬件冗余，什么时候才能兑现能力？从辅助驾驶，到无人驾驶，究竟还有多远？...",
-      "source": "Bilibili",
-      "date": "2026-11-10",
-      "url": "https://www.bilibili.com/video/BV1FaW46zE3E"
+      "date": "2026-11-11",
+      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
     },
     {
       "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
       "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
     },
     {
-      "id": "https://news.gmw.cn/2026-11/10/content_39093375.htm",
-      "title": "在这里，体验开放的魅力",
-      "summary": "11月10日，第九届进博会将落下帷幕。25年前的11月10日，多哈的一声木槌宣告中国加入世界贸易组织。25年前，中国拥抱世界市场；25年后，世界共享中国市场。这个特殊的日子，标注出中国与世界关系的深刻变迁。...",
-      "source": "Gmw",
-      "date": "2026-11-09",
-      "url": "https://news.gmw.cn/2026-11/10/content_39093375.htm"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-11/10/content_39093350.htm",
-      "title": "5项公安交管便民利企措施12月起实施",
-      "summary": "推行进口小客车新车上牌“一件事”。在与税务、金融监管等部门共享车辆销售发票、购置税、保险等信息，实现国产小客车新车上牌“一件事”基础上，进一步加强与市场监管部门信息联网，共享进口小客车预查验信息。群众购买进口小客车后，可通过“交管12123”App，网上一站办结所有选号上牌业务，不再需要到办事窗口办理业务，免于多部门、多窗口来回往返。...",
-      "source": "Gmw",
-      "date": "2026-11-09",
-      "url": "https://news.gmw.cn/2026-11/10/content_39093350.htm"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-11/10/content_39093301.htm",
-      "title": "向新而行 相融而兴——贵州遵义全方位融入成渝地区双城经济圈",
-      "summary": "向北，是地理方向，对遵义而言，更是发展命题。从重庆西出发，搭乘高铁驶入遵义高铁站，全程最快76分钟。打开地图，遵义在四川盆地与云贵高原的过渡地带，7个县（市）与成渝地区毗邻。然而，过去大娄山脉横亘全境，乌江、赤水河交错蜿蜒，交通问题曾一度成为遵义融入成渝发展的突出瓶颈。...",
-      "source": "Gmw",
-      "date": "2026-11-09",
-      "url": "https://news.gmw.cn/2026-11/10/content_39093301.htm"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/1110/236042.shtml",
-      "title": "智己LS8 NEO纯电上市，不玩丐版套路",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-11-09",
-      "url": "http://news.imobile.com.cn/articles/2026/1110/236042.shtml"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/1110/236043.shtml",
-      "title": "试驾享界S9，这车开完我沉默了",
-      "summary": "NewsData报道",
-      "source": "Imobile",
-      "date": "2026-11-09",
-      "url": "http://news.imobile.com.cn/articles/2026/1110/236043.shtml"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkd02r9/",
-      "title": "仰望放出两张王牌，从极速到超豪华，中国汽车正在挑战顶级市场",
-      "summary": "比亚迪现在势头正猛，围绕它制造一些争议话题，其实也不难理解。毕竟，当一个中国汽车品牌开始在全球市场持续扩大影响力，开始挑战传统汽车巨头的市场地位，外界的关注和争议自然会随之增加。但问题是，这些声音真的能够阻挡比亚迪继续向前吗？显然不能。回头看2026年，......",
+      "id": "https://post.smzdm.com/p/a264zgd2/",
+      "title": "平头哥交表赴港：200亿至300亿美元估值，到底对应哪些已落地芯片业务",
+      "summary": "11月10日晚，阿里巴巴发布公告：拟分拆全资子公司平头哥（上海）技术股份有限公司，在香港联交所主板独立上市。平头哥已于2026年9月11日以保密形式向港交所递交上市申请表格，港交所确认此次分拆可行，发......",
       "source": "Smzdm",
-      "date": "2026-11-09",
-      "url": "https://post.smzdm.com/p/axkd02r9/"
+      "date": "2026-11-10",
+      "url": "https://post.smzdm.com/p/a264zgd2/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1794227154169072.html",
-      "title": "三名警校生从侧翻车内救六人错过自学考试：是特别的实战课，值了",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-09",
-      "url": "https://www.bjnews.com.cn/detail/1794227154169072.html"
+      "id": "https://www.fx168news.com/article/%E9%A9%AC%E6%96%AF%E5%85%8B-1114397",
+      "title": "马斯克放弃Cybertruck，特斯拉要把赌注押在无人驾驶上-FX168",
+      "summary": "特斯拉计划于2027年年中逐步结束Cybertruck在得州超级工厂的生产，将厂房、设备和工程师资源转向无人驾驶出租车Cybercab。曾被马斯克寄予厚望、预计年销量可达25万辆的Cybertruck，实际市场表现远低于预期，美国销量连续下滑，产品价格、设计和质量问题也制约了市场扩张。与此同时，美国电动皮卡市场整体遇冷，福特也已调整相关产品战略。此次产线调整不仅意味着一款明星车型的退场，更反映出特...",
+      "source": "Fx168News",
+      "date": "2026-11-10",
+      "url": "https://www.fx168news.com/article/%E9%A9%AC%E6%96%AF%E5%85%8B-1114397"
     },
     {
-      "id": "https://yz.rednet.cn/content/646055/91/16455314.html",
-      "title": "中石化永州石油开展油罐车泄漏应急演练_社会_永州站",
-      "summary": "NewsData报道",
-      "source": "Rednet_Cn",
-      "date": "2026-11-09",
-      "url": "https://yz.rednet.cn/content/646055/91/16455314.html"
+      "id": "https://post.smzdm.com/p/a704k339/",
+      "title": "翼展20多米的大型无人机，起降和飞行有什么要求",
+      "summary": "11月上旬，“应急使命·2026\"重特大森林火灾扑救演习在重庆奉节举行，两架翼龙、腾盾无人机在高空层构建通信链路、侦察监测火情。 而面向人工影响天气的\"双尾蝎\"系列走得更快：人工影响天气专用型\"双尾蝎......",
+      "source": "Smzdm",
+      "date": "2026-11-10",
+      "url": "https://post.smzdm.com/p/a704k339/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261109/herald/ea98d32153a4d6cd9c85352062718414.html",
-      "title": "日剧《VIVANT》抹黑中国形象，高市早苗却说“喜欢”，新华社起底日本右翼“文化投毒”：使用四种手法，有AI短剧甚至设定“台湾有事”情节",
+      "id": "https://www.21jingji.com/article/20261111/15a6d5afc450786ea3017345239f4bdb.html",
+      "title": "21专访丨瑞士百达集团股权合伙人李奥坤：中国AI的规模化应用与全球机遇",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-09",
-      "url": "https://www.21jingji.com/article/20261109/herald/ea98d32153a4d6cd9c85352062718414.html"
+      "date": "2026-11-10",
+      "url": "https://www.21jingji.com/article/20261111/15a6d5afc450786ea3017345239f4bdb.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20261109/herald/06cc389b7964a2934aa00c027c891cb4.html",
-      "title": "公安部推出5项新措施，12月1日起全国推行！",
+      "id": "https://www.21jingji.com/article/20261111/0e756ec5bc708e6fdb62d136acd347b5.html",
+      "title": "欧洲车企三季报分化 比拼“含中量”的时代来了？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-09",
-      "url": "https://www.21jingji.com/article/20261109/herald/06cc389b7964a2934aa00c027c891cb4.html"
+      "date": "2026-11-10",
+      "url": "https://www.21jingji.com/article/20261111/0e756ec5bc708e6fdb62d136acd347b5.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1794211384129545.html",
-      "title": "中国汽研武汉公司携实训装备亮相三大行业盛会，科技赋能产教融合与科研创新",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-09",
-      "url": "https://www.bjnews.com.cn/detail/1794211384129545.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggw87om/",
-      "title": "奥迪A8正式停产，现在抄底库存车会踩哪些坑？",
-      "summary": "11月9日，多家媒体报道奥迪已正式停产第四代A8：这款诞生于1994年、与奔驰S级和宝马7系同框了32年的德系旗舰，结束了它的产品线，德国内卡苏尔姆工厂的产能转向A5车系与性能车型。 退场早有预告：德......",
+      "id": "https://post.smzdm.com/p/aomq0wom/",
+      "title": "尚界Z7 MAX+主动安全得分近96%，日常开车能防住哪些风险？",
+      "summary": "11月10日，中汽测评公布尚界Z7的C-NCAP成绩，测试车型为Z7 MAX+，综合得分率93.4%，其中主动安全得分率95.94%——标题所说的“近96%”就是这一项，电安全通过，总评五星+。 品牌方在解读中强调，主动安全是尚界Z7相较已测评车型平均成......",
       "source": "Smzdm",
-      "date": "2026-11-09",
-      "url": "https://post.smzdm.com/p/aggw87om/"
+      "date": "2026-11-10",
+      "url": "https://post.smzdm.com/p/aomq0wom/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261109/herald/db67449ee99c3c28521299b5c4870219.html",
-      "title": "“机遇之城 热气腾腾”，广州举办绿智城管产业专场招商活动",
+      "id": "https://www.nbd.com.cn/articles/2026-11-10/4644259.html",
+      "title": "收到特斯拉法务函，第一电动网CEO：我等着你们！其因FSD破解测试被警告；电商平台“满血FSD”，仅售数百元",
+      "summary": "收到特斯拉法务函，第一电动网CEO：我等着你们！其因FSD破解测试被警告；电商平台“满血FSD”，仅售数百元...",
+      "source": "Nbd_Cn",
+      "date": "2026-11-10",
+      "url": "https://www.nbd.com.cn/articles/2026-11-10/4644259.html"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-11-10/4644242.html",
+      "title": "控制权或生变！控股股东1600万股将被司法拍卖，永悦科技年内股价下跌近四成",
+      "summary": "11月10日盘后，永悦科技（SH603879，股价4.3元，市值15.45亿元）发布公告称，公司收到江苏省南京市中级人民法院作出的《执行裁定书》《执行告知书》，控股股东江苏华英企业管理股份有限公司持有...",
+      "source": "Nbd_Cn",
+      "date": "2026-11-10",
+      "url": "https://www.nbd.com.cn/articles/2026-11-10/4644242.html"
+    },
+    {
+      "id": "https://www.ithome.com/1/025/192.htm",
+      "title": "奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车",
+      "summary": "IT之家 11 月 10 日消息，据第一财经今天（10 日）晚间报道，奥迪 · 上汽战略合作 CEO 舒睿泽（Fred Schulze）透露，未来三年将推出三款新车，规划已进入执行阶段。 此外，奥迪在 L3 级自动驾驶领域也有明确的发展目标。对于是否出口到欧洲市场，舒睿泽称，AUDI 品牌车型专为中国消费者打造，全力聚焦中国市场是未来几年的核心任务。 据IT之家此前报道，今年 10 月，奥迪中国宣...",
+      "source": "Ithome",
+      "date": "2026-11-10",
+      "url": "https://www.ithome.com/1/025/192.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7zdlkx/",
+      "title": "风云T7首次OTA：露营和宠物模式很热闹，但每天用得上的不是它们",
+      "summary": "11月10日，风云T7推送了上市后的第一次大规模OTA，距8月26日上市两个半月。官方海报列了四组：灵犀智舱、露营与宠物、萌宠壁纸与AIoT，最后一组是五条“优化”。官方把整件事概括为“全场景4重升级......",
+      "source": "Smzdm",
+      "date": "2026-11-10",
+      "url": "https://post.smzdm.com/p/ad7zdlkx/"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5191/51917450.html",
+      "title": "萝卜快跑成为APEC会议官方赞助商",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-11-10",
+      "url": "http://www.pcauto.com.cn/news/5191/51917450.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261110/herald/ee39603cccb25e09e1195ccfcc90c0ab.html",
+      "title": "把电摩开进米兰，九号亮出了出海的下一张牌",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-09",
-      "url": "https://www.21jingji.com/article/20261109/herald/db67449ee99c3c28521299b5c4870219.html"
+      "date": "2026-11-10",
+      "url": "https://www.21jingji.com/article/20261110/herald/ee39603cccb25e09e1195ccfcc90c0ab.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20261109/herald/81891d601d647ccdeabaa1c46eb7c70a.html",
-      "title": "马斯克：将向大量Cybertruck客户退还订金",
+      "id": "https://www.21jingji.com/article/20261110/herald/6455d6f0da8e8abb29c782f0a119570a.html",
+      "title": "机器人要能养得起！智元彭志辉：我们有能力一年造几万台，关键看客户是否愿意买",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-09",
-      "url": "https://www.21jingji.com/article/20261109/herald/81891d601d647ccdeabaa1c46eb7c70a.html"
+      "date": "2026-11-10",
+      "url": "https://www.21jingji.com/article/20261110/herald/6455d6f0da8e8abb29c782f0a119570a.html"
     },
     {
-      "id": "https://news.cri.cn/20261109/b26c2b54-22e9-85be-c3cd-fd34ddd31dfd.html",
-      "title": "晶采观察丨端牢中国饭碗 秋粮丰收背后有三层底气-国际在线",
-      "summary": "2026年前三季度农业农村经济数据相继发布。今年是“十五五”开局之年，先看几组实打实的数据：夏粮3014.9亿斤，首次突破3000亿斤，创历史新高；早稻565.8亿斤，连续六年稳定在560亿斤以上；截至11月4日...",
-      "source": "Cri_Cn",
-      "date": "2026-11-09",
-      "url": "https://news.cri.cn/20261109/b26c2b54-22e9-85be-c3cd-fd34ddd31dfd.html"
+      "id": "https://www.21jingji.com/article/20261110/herald/bae706ec22b171e4cc53b3b28a6c045d.html",
+      "title": "@江门街坊，12月起全面推行",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-10",
+      "url": "https://www.21jingji.com/article/20261110/herald/bae706ec22b171e4cc53b3b28a6c045d.html"
     },
     {
-      "id": "https://post.smzdm.com/p/az875epp/",
-      "title": "20万级后驱运动轿车，CT5和迈腾帕萨特别在哪？",
-      "summary": "11月9日，2026款凯迪拉克CT5上市，限时一口价20.69万元起，这台官方指导价曾接近29万元起步的美系豪华轿车，第一次用官方价格直接闯进了迈腾、帕萨特的实际成交区间。问题的答案就藏在\"后驱\"两个......",
-      "source": "Smzdm",
-      "date": "2026-11-09",
-      "url": "https://post.smzdm.com/p/az875epp/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rpkq08/",
-      "title": "预售就带双腔空悬+差速锁，二代蓝山城野体验有啥变化",
-      "summary": "11月9日晚，魏牌二代蓝山开启预售，四款版型预售价28.98万—32.98万元。 山野体验的变化就写在配置单里：全系采用前双叉臂+后五连杆独立悬架+EDC连续可变阻尼减震器+双腔闭式空悬+后桥差速锁，......",
-      "source": "Smzdm",
-      "date": "2026-11-09",
-      "url": "https://post.smzdm.com/p/a5rpkq08/"
+      "id": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951",
+      "title": "Senior Auto: Delivering Reliable Autonomous Heavy-Duty Transport Services Worldwide",
+      "summary": "SHANGHAI, Nov. 10, 2026 /PRNewswire/ -- Senior Auto signed a strategic cooperation framework agreement with the Eastern Partnership Business Council and Taiji Zond LLC to advance autonomous driving an...",
+      "source": "The Manila Times",
+      "date": "2026-11-10",
+      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951"
     },
     {
       "id": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html",
@@ -251,14 +233,6 @@
       "source": "Firstpost",
       "date": "2026-10-30",
       "url": "https://www.firstpost.com/auto/waymo-teams-up-with-toyota-to-bring-self-driving-robotaxis-to-japan-uk-next-in-line-14056623.html"
-    },
-    {
-      "id": "https://www.livemint.com/technology/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs-11793350566224.html",
-      "title": "AI robotics may need 10 million hours of interaction data to reach production-level capabilities: Goldman Sachs",
-      "summary": "General-purpose artificial intelligence (AI) robotics could require an estimated 10 million hours of high-quality physical interaction data to reach production-level capabilities, highlighting the cha...",
-      "source": "Livemint",
-      "date": "2026-10-30",
-      "url": "https://www.livemint.com/technology/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs-11793350566224.html"
     }
   ]
 }
