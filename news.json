@@ -1,171 +1,169 @@
 {
-  "lastUpdated": "2026-11-12 06:52:48",
-  "totalCount": 28,
+  "lastUpdated": "2026-11-13 06:12:24",
+  "totalCount": 27,
   "sources": {
     "Bilibili": 5,
-    "Smzdm": 11,
-    "Rednet_Cn": 1,
-    "Nbd_Cn": 1,
-    "Pcauto_Cn": 1,
+    "Gmw": 1,
+    "Smzdm": 10,
+    "21Jingji": 2,
+    "The Manila Times": 5,
     "BGR": 1,
-    "The Manila Times": 4,
     "Forbes India": 1,
     "Moneycontrol": 1,
-    "The Tribune": 1,
-    "7NEWS Australia": 1
+    "The Tribune": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-11-12",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+      "date": "2026-11-13",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1n8WL63E4i",
+      "title": "【B站】无人驾驶搞笑合集",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-11-13",
+      "url": "https://www.bilibili.com/video/BV1n8WL63E4i"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV15mpR6uERu",
+      "title": "【B站】兄弟们自动驾驶的九号电动车见过没？",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-11-13",
+      "url": "https://www.bilibili.com/video/BV15mpR6uERu"
     },
     {
       "id": "https://www.bilibili.com/video/BV1FaW46zE3E",
       "title": "【B站】硬件已经堆到L4，什么时候才能买到无人驾驶？",
       "summary": "目前所谓的“高阶辅助驾驶”处在L2-L3之间。花50万买车的用户，显然不会满足所谓的“L2.999”，在乎的是将来，看中的是厂商宣传口径中，能达到自动驾驶级别的硬件冗余。所以，目前无限堆料，理论支持L4的硬件冗余，什么时候才能兑现能力？从辅助驾驶，到无人驾驶，究竟还有多远？...",
       "source": "Bilibili",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "url": "https://www.bilibili.com/video/BV1FaW46zE3E"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
+      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
+      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
       "source": "Bilibili",
+      "date": "2026-11-13",
+      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
+    },
+    {
+      "id": "https://news.gmw.cn/2026-11/13/content_39099095.htm",
+      "title": "古韵今声 运河兴城——山东济宁塑造“运河之都”城市品牌",
+      "summary": "这条流淌千年的古老运河，载过明清漕船的帆影，揽过沿岸市井的烟火，如今，古老水道焕发时代新生，以智能、绿色、文韵交织的全新姿态，化作融古通今的发展动脉。山东济宁，正走出一条产业升级与文化传承双向赋能、港口建设与城市发展同频共振的转型之路。...",
+      "source": "Gmw",
       "date": "2026-11-12",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+      "url": "https://news.gmw.cn/2026-11/13/content_39099095.htm"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/al39lzne/",
+      "title": "李彦宏把具身智能比作2016年的无人驾驶：离实用还有多远？",
+      "summary": "11月12日，百度世界2026大会开幕式上，百度创始人李彦宏给出了一个时间坐标：今天的具身智能，大约相当于无人驾驶2016年左右的发展水平。会场同时披露的另一组数字是，萝卜快跑覆盖全球28座城市，自动......",
+      "source": "Smzdm",
       "date": "2026-11-12",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
+      "url": "https://post.smzdm.com/p/al39lzne/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1uBWt6sE6d",
-      "title": "【B站】对话陶吉：自动驾驶还没有结束",
-      "summary": "很多人说自动驾驶已经结束了：大方向清楚，剩下只是压成本和规模化。可特斯拉还在推 Robotaxi，端到端、VLA、世界模型还在换代——如果真结束了，为什么产品还在进步、路线还在变？\n这期《无限不可能引擎》，我们对话长安汽车首席智能驾驶技术官陶吉。他是中国最早一批做自动驾驶的人：百度早期无人车、卡车创...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/a5rpo67l/",
+      "title": "埃安Ray7上市限时11.47万起：入门版没有激光雷达，这1万元的差价才是选购关键",
+      "summary": "11月12日晚，广汽埃安Ray系列的首款车型Ray7正式上市，推出5款车型，官方指导价12.38万—15.38万元，上市限时价为11.47万—14.47万元。此前10月17日，该车在国家速滑馆“冰丝带......",
+      "source": "Smzdm",
       "date": "2026-11-12",
-      "url": "https://www.bilibili.com/video/BV1uBWt6sE6d"
+      "url": "https://post.smzdm.com/p/a5rpo67l/"
     },
     {
-      "id": "https://post.smzdm.com/p/axkdlr39/",
-      "title": "轮胎该不该换？别只看年限和公里",
-      "summary": "前一天（11月10号）微博上有条帖子的共鸣不少：有车主双11在网上下单四条轮胎，还没发货，先去约门店安装，得到的答复是最快排一周以后。发帖人说，今年双11汽修店爆单，扎堆来的都是换轮胎、做保养、换易损件的，“车主的双11主战场，除了购物车，还有汽修工位”......",
+      "id": "https://post.smzdm.com/p/apqrveo9/",
+      "title": "埃安Ray7实际体验差在哪？11.47万起配华为后驱电机，激光雷达版12.47万起，智驾是广汽的",
+      "summary": "11月12日，广汽埃安旗下中大型轿车埃安Ray7正式上市，官方指导价12.38万-15.38万元，上市限时价11.47万元起。 但配置表要拆开看：限时11.47万元的入门530后驱驾趣版没有激光雷达，......",
       "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/axkdlr39/"
+      "date": "2026-11-12",
+      "url": "https://post.smzdm.com/p/apqrveo9/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak83x7o4/",
-      "title": "AI十年攻克癌症吵起来，普通人该信谁的时间表？",
-      "summary": "11月11日，Anthropic CEO 达里奥·阿莫代伊在IPO路演视频里放话：如果 AI 得到妥善应用，癌症、阿尔茨海默病、心脏病、精神疾病，“不到10年可能成为过去”。医学界和药企几乎是立刻集体泼冷水。对普通人来说，正确做法不是选边站队去押一份时间......",
+      "id": "https://post.smzdm.com/p/aqrzmd6p/",
+      "title": "埃安Ray7限时11.47万起，5款配置怎么选最划算",
+      "summary": "11月12日晚，广汽埃安旗下中大型纯电轿车Ray7正式上市，共推出5款车型，官方指导价12.38万—15.38万元，上市限时价11.47万元起。 先说结论：对多数家庭用户，限时价13.47万元的702......",
       "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/ak83x7o4/"
+      "date": "2026-11-12",
+      "url": "https://post.smzdm.com/p/aqrzmd6p/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak83x7l4/",
-      "title": "少花3万买深蓝G318畅行版，轻越野和日常用到底够不够",
-      "summary": "11月11日，长安深蓝把一台四驱、带华为乾崑ADS 5 Pro和鸿蒙座舱的“方盒子”SUV，做到了官方一口价18.98万元。选题里“少花3万”的参照，是8月成都车展上市、指导价21.98万元的四驱舒享......",
+      "id": "https://post.smzdm.com/p/arzdq7gw/",
+      "title": "李彦宏用\"2016年的无人驾驶\"丈量具身智能：这个类比说对了什么，又没覆盖什么",
+      "summary": "11月12日，百度世界2026大会开幕式上，百度创始人李彦宏给出了一个类比：“今天的具身智能大约相当于2016年前后无人驾驶的发展水平”。这句话不是在踩这条赛道，也不是在捧它，而是把具身智能放进了百度自己刚走完的那条十年时间轴：2016年前后还在做演示、......",
       "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/ak83x7l4/"
+      "date": "2026-11-12",
+      "url": "https://post.smzdm.com/p/arzdq7gw/"
     },
     {
-      "id": "https://post.smzdm.com/p/ae65nzv3/",
-      "title": "18.98万的深蓝G318乾崑版，华为智驾座舱都配齐了吗？",
-      "summary": "11月11日双十一当天，长安深蓝推出全新深蓝G318四驱畅行乾崑版，官方指导价18.98万元。 先给结论：华为乾崑智驾和鸿蒙座舱这套\"双智\"在这台车上都配齐了，被拿掉的只有空气悬架与CDC魔毯。 官方......",
+      "id": "https://post.smzdm.com/p/a704ne9g/",
+      "title": "等具身智能像Robotaxi一样能用，普通人还要等多久",
+      "summary": "把Robotaxi当作\"能用\"的尺子，答案不是一个数字，而是分层的：今天具身智能已经在少数工厂和仓库里真正上岗，但普通人能像打车一样随手用到的机器人服务，比较靠谱的预期是3到5年；至于买一台放进家里、......",
       "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/ae65nzv3/"
+      "date": "2026-11-12",
+      "url": "https://post.smzdm.com/p/a704ne9g/"
     },
     {
-      "id": "https://post.smzdm.com/p/a2647g0q/",
-      "title": "5个月改装就完成首射，攻击-11操控门槛变了吗",
-      "summary": "11月9日，央视军事等官方媒体公开了攻击-11隐身无人机“玄龙”首次实弹攻击任务的画面，操控员师晓冉、符婷与战友们密切协同，首发命中。报道里更引发热议的是培训周期：两人从无人机领域的“门外汉”到操作得......",
+      "id": "https://post.smzdm.com/p/a2640r27/",
+      "title": "奔驰CEO说在中国车要“大得惊人”，深蓝董事长回应“很有共鸣”：大只是第一步",
+      "summary": "11月11日晚些时候的柏林，第20届《汽车周刊》大会上，梅赛德斯-奔驰集团CEO康林松把在华产品规划的第一条准则说得毫不含糊：产品必须完全围绕中国消费者的喜好展开，而车身尺寸是第一位的——“在中国，车......",
       "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/a2647g0q/"
+      "date": "2026-11-12",
+      "url": "https://post.smzdm.com/p/a2640r27/"
     },
     {
-      "id": "https://post.smzdm.com/p/a954gv9e/",
-      "title": "小鹏转纯视觉了，华为的896线还在往下放，激光雷达的钱该给谁",
-      "summary": "这两天知乎上有个问题又热了：马斯克说激光雷达会给辅助驾驶增加风险，纯视觉才是王道。一百五十多万浏览，评论区照例吵成两半。巧的是，岚图知音后天上市，主打卖点里写着华为那颗896线激光雷达，车按在20万级......",
+      "id": "https://post.smzdm.com/p/aggwq9m7/",
+      "title": "2016年无人驾驶踩过的坑，具身智能现在要避开哪些",
+      "summary": "2026年11月，“具身智能”和“资本寒冬”第一次被写进同一篇行业报道的标题。产业服务平台NE时代的统计显示，9月具身智能融资额相比8月缩水四成。 IT桔子的统计则是9月还有60起融资，10月只剩33......",
       "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/a954gv9e/"
+      "date": "2026-11-12",
+      "url": "https://post.smzdm.com/p/aggwq9m7/"
     },
     {
-      "id": "https://post.smzdm.com/p/aomqxwdm/",
-      "title": "5.29万起的长安Lumin PLUS，比老款两门版多花的钱值在哪",
-      "summary": "长安 Lumin PLUS 在 11 月 11 日正式上市，共推出 4 款车型，官方指导价 5.29 万—5.99 万元，限时权益价 4.99 万—5.69 万元。 把它的入门款和现款两门糯玉米对比：两门系指导价 4.69 万元的 205km 纯爱米版，......",
-      "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/aomqxwdm/"
-    },
-    {
-      "id": "https://yz.rednet.cn/content/646055/55/16462980.html",
-      "title": "江华：实操培训 培育高素质农机手_江华_永州站",
+      "id": "https://www.21jingji.com/article/20261113/ad1c2f48e9d39e1ee531dd31a7e5f842.html",
+      "title": "“AI替代不了CEO出差”：李彦宏、杨元庆对谈AI时代的组织管理",
       "summary": "NewsData报道",
-      "source": "Rednet_Cn",
-      "date": "2026-11-11",
-      "url": "https://yz.rednet.cn/content/646055/55/16462980.html"
+      "source": "21Jingji",
+      "date": "2026-11-12",
+      "url": "https://www.21jingji.com/article/20261113/ad1c2f48e9d39e1ee531dd31a7e5f842.html"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-11-11/4645193.html",
-      "title": "刚离开进博会展馆，就走进中国工厂：外国客商开始追着中国企业跑",
-      "summary": "11月11日，进博会闭幕次日，索马里商人Suad已经抵达浙江义乌。和同伴一起走进义乌国际商贸城，她此行的目的不只是采购商品，还包括寻找生产设备、包装材料以及潜在的生产合作伙伴。从上海的进博会展馆到义乌...",
-      "source": "Nbd_Cn",
-      "date": "2026-11-11",
-      "url": "https://www.nbd.com.cn/articles/2026-11-11/4645193.html"
+      "id": "https://post.smzdm.com/p/a5rpow9k/",
+      "title": "黄仁勋辞职前马斯克已公开示好！直言能聘请老黄将是自己荣幸",
+      "summary": "快科技11月13日消息，昨日，英伟达创始人黄仁勋辞去公司总裁、CEO及董事职务的消息引发全球科技圈关注。值得注意的是，在黄仁勋宣布辞职之前，特斯拉及SpaceX创始人马斯克已经公开表达了对黄仁勋的欣赏......",
+      "source": "Smzdm",
+      "date": "2026-11-12",
+      "url": "https://post.smzdm.com/p/a5rpow9k/"
     },
     {
-      "id": "http://www.pcauto.com.cn/news/5191/51918953.html",
-      "title": "品质突围！这些自主品牌，用实力刷新认知",
+      "id": "https://post.smzdm.com/p/arzdqm5x/",
+      "title": "奥迪能选华为、大众免费送智驾，谁说油车只有定速巡航",
+      "summary": "上周刷到一条小红书，内容很简单：现在开油车，想换台带智驾的，预算20万出头。215条评论几乎一边倒：华为系、小鹏系、买智驾就换电车——没有一个人建议他买台带智驾的油车。“想要智驾就得换电车”，这个直觉在车友圈流传了很多年，我过去也觉得没毛病。但回头看这一......",
+      "source": "Smzdm",
+      "date": "2026-11-12",
+      "url": "https://post.smzdm.com/p/arzdqm5x/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261112/herald/524a094039b180fb7d457ca12437c5da.html",
+      "title": "福建：鼓励开发虚拟偶像、人工智能生成音乐等新形态",
       "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-11-11",
-      "url": "http://www.pcauto.com.cn/news/5191/51918953.html"
+      "source": "21Jingji",
+      "date": "2026-11-12",
+      "url": "https://www.21jingji.com/article/20261112/herald/524a094039b180fb7d457ca12437c5da.html"
     },
     {
-      "id": "https://post.smzdm.com/p/anvmxg92/",
-      "title": "从阅兵模型到实弹首发命中：攻击-11“玄龙”从科幻走进现实",
-      "summary": "11月9日，央视新闻披露：攻击-11隐身无人机在首次实弹攻击任务中首发命中，这型代号为\"玄龙\"的无人机由此走完了从亮相到实战的最后一公里。驾驶这型无人机的，是空军自主培养的首批女无人机机组操控员——\"95后\"的师晓冉和符婷，在这次任务中与战友们密切协同、......",
-      "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/anvmxg92/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggw42w6/",
-      "title": "深蓝G318新乾崑版18.98万上市：下订7重礼包至高33759元，哪些是真金白银、哪些还没标价钱",
-      "summary": "11月11日双十一当天，全新深蓝G318四驱畅行乾崑版正式上市，官方一口价定在18.98万元。随上市政策一起放出的，是这次选题用户最关心的部分——长安汽车官方称\"四驱畅行乾崑版官方指导价18.98万元下订享7重礼包，至高价值33759元\"。先把结论放在前......",
-      "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/aggw42w6/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrzxlxx/",
-      "title": "变色镜片车内不变色、室内还有底色？双11下单前先答3个场景问题｜几篇帖的褪色秒数对不上但方向一致",
-      "summary": "「变色镜片这个品类，我愿称之为“什么都想要、什么都不行”的典型代表。在店里，我们管它叫后悔片——十个配变色的，八个回来后悔。」1今年8月底起，小红书变色镜片笔记下面就是这么吵。有人半年后回来吐槽：「结......",
-      "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/aqrzxlxx/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkdlrg3/",
-      "title": "中国“妈祖”气象智能预警一体机向全球发布：支持5G、卫星通信",
-      "summary": "快科技11月12日消息，当地时间11月11日，在土耳其安塔利亚举行的《联合国气候变化框架公约》第三十一次缔约方大会（COP31）应对气候变化南南合作高级别论坛上，中国向全球正式发布中国气象智能预警方案......",
-      "source": "Smzdm",
-      "date": "2026-11-11",
-      "url": "https://post.smzdm.com/p/axkdlrg3/"
+      "id": "https://www.manilatimes.net/2026/11/12/tmt-newswire/pr-newswire/tier-iv-and-shunan-bulk-terminal-collaborate-to-automate-transportation-using-an-autonomous-dump-truck-targeting-driverless-operations-by-the-end-of-2028/2468043",
+      "title": "TIER IV and Shunan Bulk Terminal collaborate to automate transportation using an autonomous dump truck, targeting driverless operations by the end of 2028",
+      "summary": "**media[1303834]**TOKYO, Nov. 12, 2026 /PRNewswire/ -- TIER IV, Inc., the pioneering force behind open-source software for autonomous driving, and Shunan Bulk Terminal Co., Ltd., a bulk cargo handling...",
+      "source": "The Manila Times",
+      "date": "2026-11-12",
+      "url": "https://www.manilatimes.net/2026/11/12/tmt-newswire/pr-newswire/tier-iv-and-shunan-bulk-terminal-collaborate-to-automate-transportation-using-an-autonomous-dump-truck-targeting-driverless-operations-by-the-end-of-2028/2468043"
     },
     {
       "id": "https://www.bgr.com/2308666/south-korea-arrest-tesla-drivers-using-fsd-mod/",
@@ -230,14 +228,6 @@
       "source": "The Tribune",
       "date": "2026-11-05",
       "url": "https://www.tribuneindia.com/news/business/byd-and-mogox-unveil-8-5-metre-right-hand-drive-level-4-autonomous-bus-at-sumw-2026/"
-    },
-    {
-      "id": "https://7news.com.au/motoring/toyota-to-build-waymo-self-driving-taxis-for-japan-uk-and-beyond-c-23107101",
-      "title": "Toyota to build Waymo self-driving taxis for Japan, UK and beyond",
-      "summary": "A trip to London or Tokyo could soon include a ride in an autonomous Toyota bZ4X SUV driven by Waymo's self-driving tech....",
-      "source": "7NEWS Australia",
-      "date": "2026-11-02",
-      "url": "https://7news.com.au/motoring/toyota-to-build-waymo-self-driving-taxis-for-japan-uk-and-beyond-c-23107101"
     }
   ]
 }
