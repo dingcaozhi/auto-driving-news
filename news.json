@@ -1,11 +1,15 @@
 {
-  "lastUpdated": "2026-11-13 06:12:24",
-  "totalCount": 27,
+  "lastUpdated": "2026-11-14 05:56:57",
+  "totalCount": 34,
   "sources": {
     "Bilibili": 5,
-    "Gmw": 1,
-    "Smzdm": 10,
-    "21Jingji": 2,
+    "Pcauto_Cn": 1,
+    "21Jingji": 7,
+    "Smzdm": 7,
+    "Nbd_Cn": 1,
+    "Bjnews": 2,
+    "Cri_Cn": 1,
+    "Chinanews": 1,
     "The Manila Times": 5,
     "BGR": 1,
     "Forbes India": 1,
@@ -14,148 +18,204 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-13",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
       "id": "https://www.bilibili.com/video/BV1n8WL63E4i",
       "title": "【B站】无人驾驶搞笑合集",
       "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "url": "https://www.bilibili.com/video/BV1n8WL63E4i"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1BsWC6EEuT",
+      "title": "【B站】如何降落在一片云海里？自动驾驶盲降！",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-11-14",
+      "url": "https://www.bilibili.com/video/BV1BsWC6EEuT"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-11-14",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV12AWt67EWs",
+      "title": "【B站】自动驾驶确实好用",
+      "summary": "-...",
+      "source": "Bilibili",
+      "date": "2026-11-14",
+      "url": "https://www.bilibili.com/video/BV12AWt67EWs"
     },
     {
       "id": "https://www.bilibili.com/video/BV15mpR6uERu",
       "title": "【B站】兄弟们自动驾驶的九号电动车见过没？",
       "summary": "-...",
       "source": "Bilibili",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "url": "https://www.bilibili.com/video/BV15mpR6uERu"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1FaW46zE3E",
-      "title": "【B站】硬件已经堆到L4，什么时候才能买到无人驾驶？",
-      "summary": "目前所谓的“高阶辅助驾驶”处在L2-L3之间。花50万买车的用户，显然不会满足所谓的“L2.999”，在乎的是将来，看中的是厂商宣传口径中，能达到自动驾驶级别的硬件冗余。所以，目前无限堆料，理论支持L4的硬件冗余，什么时候才能兑现能力？从辅助驾驶，到无人驾驶，究竟还有多远？...",
-      "source": "Bilibili",
+      "id": "http://www.pcauto.com.cn/news/5192/51923718.html",
+      "title": "日产发布全新品牌宣言 新能源矩阵再进阶 NISMO品牌引入中国市场",
+      "summary": "日产在珠海举办NISSAN DAY，发布全新品牌宣言，推出多款新能源新车，引入NISMO，加速在华新能源转型及海外布局。...",
+      "source": "Pcauto_Cn",
       "date": "2026-11-13",
-      "url": "https://www.bilibili.com/video/BV1FaW46zE3E"
+      "url": "http://www.pcauto.com.cn/news/5192/51923718.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11BXpBgEDR",
-      "title": "【B站】合法开车玩手机！首款L3自动驾驶量产车来了",
-      "summary": "「L3有条件自动驾驶」离我们还有多远？\n试岚图泰山Ultra之前，我心里完全没底。\n试过之后，我觉得只要相关法律法规完善了\nL3应该很快就能量产推送了！\n万事俱备，只欠东风。...",
-      "source": "Bilibili",
-      "date": "2026-11-13",
-      "url": "https://www.bilibili.com/video/BV11BXpBgEDR"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-11/13/content_39099095.htm",
-      "title": "古韵今声 运河兴城——山东济宁塑造“运河之都”城市品牌",
-      "summary": "这条流淌千年的古老运河，载过明清漕船的帆影，揽过沿岸市井的烟火，如今，古老水道焕发时代新生，以智能、绿色、文韵交织的全新姿态，化作融古通今的发展动脉。山东济宁，正走出一条产业升级与文化传承双向赋能、港口建设与城市发展同频共振的转型之路。...",
-      "source": "Gmw",
-      "date": "2026-11-12",
-      "url": "https://news.gmw.cn/2026-11/13/content_39099095.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al39lzne/",
-      "title": "李彦宏把具身智能比作2016年的无人驾驶：离实用还有多远？",
-      "summary": "11月12日，百度世界2026大会开幕式上，百度创始人李彦宏给出了一个时间坐标：今天的具身智能，大约相当于无人驾驶2016年左右的发展水平。会场同时披露的另一组数字是，萝卜快跑覆盖全球28座城市，自动......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/al39lzne/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rpo67l/",
-      "title": "埃安Ray7上市限时11.47万起：入门版没有激光雷达，这1万元的差价才是选购关键",
-      "summary": "11月12日晚，广汽埃安Ray系列的首款车型Ray7正式上市，推出5款车型，官方指导价12.38万—15.38万元，上市限时价为11.47万—14.47万元。此前10月17日，该车在国家速滑馆“冰丝带......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/a5rpo67l/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqrveo9/",
-      "title": "埃安Ray7实际体验差在哪？11.47万起配华为后驱电机，激光雷达版12.47万起，智驾是广汽的",
-      "summary": "11月12日，广汽埃安旗下中大型轿车埃安Ray7正式上市，官方指导价12.38万-15.38万元，上市限时价11.47万元起。 但配置表要拆开看：限时11.47万元的入门530后驱驾趣版没有激光雷达，......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/apqrveo9/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrzmd6p/",
-      "title": "埃安Ray7限时11.47万起，5款配置怎么选最划算",
-      "summary": "11月12日晚，广汽埃安旗下中大型纯电轿车Ray7正式上市，共推出5款车型，官方指导价12.38万—15.38万元，上市限时价11.47万元起。 先说结论：对多数家庭用户，限时价13.47万元的702......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/aqrzmd6p/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzdq7gw/",
-      "title": "李彦宏用\"2016年的无人驾驶\"丈量具身智能：这个类比说对了什么，又没覆盖什么",
-      "summary": "11月12日，百度世界2026大会开幕式上，百度创始人李彦宏给出了一个类比：“今天的具身智能大约相当于2016年前后无人驾驶的发展水平”。这句话不是在踩这条赛道，也不是在捧它，而是把具身智能放进了百度自己刚走完的那条十年时间轴：2016年前后还在做演示、......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/arzdq7gw/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a704ne9g/",
-      "title": "等具身智能像Robotaxi一样能用，普通人还要等多久",
-      "summary": "把Robotaxi当作\"能用\"的尺子，答案不是一个数字，而是分层的：今天具身智能已经在少数工厂和仓库里真正上岗，但普通人能像打车一样随手用到的机器人服务，比较靠谱的预期是3到5年；至于买一台放进家里、......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/a704ne9g/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a2640r27/",
-      "title": "奔驰CEO说在中国车要“大得惊人”，深蓝董事长回应“很有共鸣”：大只是第一步",
-      "summary": "11月11日晚些时候的柏林，第20届《汽车周刊》大会上，梅赛德斯-奔驰集团CEO康林松把在华产品规划的第一条准则说得毫不含糊：产品必须完全围绕中国消费者的喜好展开，而车身尺寸是第一位的——“在中国，车......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/a2640r27/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggwq9m7/",
-      "title": "2016年无人驾驶踩过的坑，具身智能现在要避开哪些",
-      "summary": "2026年11月，“具身智能”和“资本寒冬”第一次被写进同一篇行业报道的标题。产业服务平台NE时代的统计显示，9月具身智能融资额相比8月缩水四成。 IT桔子的统计则是9月还有60起融资，10月只剩33......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/aggwq9m7/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261113/ad1c2f48e9d39e1ee531dd31a7e5f842.html",
-      "title": "“AI替代不了CEO出差”：李彦宏、杨元庆对谈AI时代的组织管理",
+      "id": "https://www.21jingji.com/article/20261114/89c2700f35b988b461001440775b705e.html",
+      "title": "“皮衣刀客”黄仁勋黯然离场 英伟达AI“魔法”能否持续？",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-12",
-      "url": "https://www.21jingji.com/article/20261113/ad1c2f48e9d39e1ee531dd31a7e5f842.html"
+      "date": "2026-11-13",
+      "url": "https://www.21jingji.com/article/20261114/89c2700f35b988b461001440775b705e.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a5rpow9k/",
-      "title": "黄仁勋辞职前马斯克已公开示好！直言能聘请老黄将是自己荣幸",
-      "summary": "快科技11月13日消息，昨日，英伟达创始人黄仁勋辞去公司总裁、CEO及董事职务的消息引发全球科技圈关注。值得注意的是，在黄仁勋宣布辞职之前，特斯拉及SpaceX创始人马斯克已经公开表达了对黄仁勋的欣赏......",
+      "id": "https://post.smzdm.com/p/am9v3onp/",
+      "title": "问界新M8 37.98万元起上市，余承东晒出鸿蒙智行矩阵：问界重回首位，华为赛力斯分工逐条讲清",
+      "summary": "11月13日，问界新M8的上市发布会在重庆赛力斯超级工厂举行，新车当天上市，售价37.98万至46.98万元。但这场发布会被讨论得最热的，其实是新车之外的东西：余承东登台，把鸿蒙智行的品牌矩阵和华为、赛力斯各自的分工逐条摊开。这是9月两家公司调整合作模式......",
       "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/a5rpow9k/"
+      "date": "2026-11-13",
+      "url": "https://post.smzdm.com/p/am9v3onp/"
     },
     {
-      "id": "https://post.smzdm.com/p/arzdqm5x/",
-      "title": "奥迪能选华为、大众免费送智驾，谁说油车只有定速巡航",
-      "summary": "上周刷到一条小红书，内容很简单：现在开油车，想换台带智驾的，预算20万出头。215条评论几乎一边倒：华为系、小鹏系、买智驾就换电车——没有一个人建议他买台带智驾的油车。“想要智驾就得换电车”，这个直觉在车友圈流传了很多年，我过去也觉得没毛病。但回头看这一......",
-      "source": "Smzdm",
-      "date": "2026-11-12",
-      "url": "https://post.smzdm.com/p/arzdqm5x/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261112/herald/524a094039b180fb7d457ca12437c5da.html",
-      "title": "福建：鼓励开发虚拟偶像、人工智能生成音乐等新形态",
+      "id": "https://www.21jingji.com/article/20261114/43ad8fbceee2149f3a67d342fbc5bd00.html",
+      "title": "安筱鹏谈《智能化生存》：追问洋流的方向，在技术狂飙时代寻找底层规律",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-12",
-      "url": "https://www.21jingji.com/article/20261112/herald/524a094039b180fb7d457ca12437c5da.html"
+      "date": "2026-11-13",
+      "url": "https://www.21jingji.com/article/20261114/43ad8fbceee2149f3a67d342fbc5bd00.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261114/0c2facaee2e0f86d2af3d8f7a4a264a6.html",
+      "title": "用好APEC红利，推动深圳外资提质升级丨潮涌亚太",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-13",
+      "url": "https://www.21jingji.com/article/20261114/0c2facaee2e0f86d2af3d8f7a4a264a6.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261114/45093d8d86ae48ae6636d1cd97edd8d9.html",
+      "title": "用好APEC红利 推动深圳外资提质升级",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-13",
+      "url": "https://www.21jingji.com/article/20261114/45093d8d86ae48ae6636d1cd97edd8d9.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261113/herald/d2326289595c9fa5eb1ef9adccf0c8fb.html",
+      "title": "跨国AI团队的创新机遇",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-13",
+      "url": "https://www.21jingji.com/article/20261113/herald/d2326289595c9fa5eb1ef9adccf0c8fb.html"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-11-13/4647525.html",
+      "title": "问界新M8上市，余承东：赛力斯投了15亿元升级了126项技术！双方合作进入新阶段：华为主导的赛力斯会参与，赛力斯主导的华为也将全面参与",
+      "summary": "问界新M8上市，余承东：赛力斯投了15亿元升级了126项技术！双方合作进入新阶段：华为主导的赛力斯会参与，赛力斯主导的华为也将全面参与...",
+      "source": "Nbd_Cn",
+      "date": "2026-11-13",
+      "url": "https://www.nbd.com.cn/articles/2026-11-13/4647525.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6z4p4lo/",
+      "title": "老领克03车主看新款：这些原厂配置省了多少改装备案麻烦",
+      "summary": "11月13日晚间，2027款领克03正式上市，限时专享价10.38万元起，03+同步推出23.98万元的限时价。这台车被讨论最多的变化，是把过去典型属于改装店的两件事——宽体和大尾翼——直接变成了“原厂自带”，官方图文和媒体解读里都写明了新增原厂宽体套件......",
+      "source": "Smzdm",
+      "date": "2026-11-13",
+      "url": "https://post.smzdm.com/p/a6z4p4lo/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7zmzdx/",
+      "title": "全新2027款领克03热血来袭：10.38万起原厂宽体上车，宽体与MRC悬架并非全系标配",
+      "summary": "11月13日一早，领克汽车官方微博预告了当天的赛道发布会，当晚2027款全新领克03家族在成都天府国际赛道正式上市。 官方指导价区间11.38万—24.98万元，限时权益价区间10.38万—23.98万元，全家族共五款车型。 这次“热血来袭”的核心逻辑，......",
+      "source": "Smzdm",
+      "date": "2026-11-13",
+      "url": "https://post.smzdm.com/p/ad7zmzdx/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak83loee/",
+      "title": "盯一天电脑、看近越来越费劲？配办公渐进还是数码型先量工位3个距离｜付款前核ADD、瞳高、同心差，别按年龄套公式",
+      "summary": "「一天八小时盯屏幕，下午三四点眼沉，晚上看远处要缓几秒才对上焦。」1这是有篇验光专栏的原话。另一篇配镜经验帖里说得更直接：「不是度数涨了，是眼睛调节力下降、提前老视了」6。两篇描述对不太上细节，但方向一致：电脑人群的麻烦往往不在看远那一档，是看近这一段开......",
+      "source": "Smzdm",
+      "date": "2026-11-13",
+      "url": "https://post.smzdm.com/p/ak83loee/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1794571130129836.html",
+      "title": "美国微软公司多款应用出现大范围故障",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-13",
+      "url": "https://www.bjnews.com.cn/detail/1794571130129836.html"
+    },
+    {
+      "id": "https://news.cri.cn/20261113/d3b17321-2c99-4c51-6302-724894a3ee8c.html",
+      "title": "美国微软公司多款应用出现大范围故障-国际在线",
+      "summary": "新华社北京11月13日电 据外媒12日报道，美国微软公司旗下微软365多项服务当日发生大范围故障，涉及电子邮件服务Outlook、人工智能助手“智能副驾驶”等，对多国政府机构、企业和个人用户造...",
+      "source": "Cri_Cn",
+      "date": "2026-11-13",
+      "url": "https://news.cri.cn/20261113/d3b17321-2c99-4c51-6302-724894a3ee8c.html"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/hr/2026/11-13/10731845.shtml",
+      "title": "在槟城百年机器行追寻南侨机工来时路",
+      "summary": "NewsData报道",
+      "source": "Chinanews",
+      "date": "2026-11-13",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-13/10731845.shtml"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261113/herald/7d1e551a26654f0236d919a310fb7d69.html",
+      "title": "广东公路“十五五”规划出炉 2030年将基本建成现代化公路交通体系",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-13",
+      "url": "https://www.21jingji.com/article/20261113/herald/7d1e551a26654f0236d919a310fb7d69.html"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1794570795129834.html",
+      "title": "SpaceX与特斯拉合并谈判据称取得进展 最快12月公布",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-13",
+      "url": "https://www.bjnews.com.cn/detail/1794570795129834.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261113/herald/16ed7c9d94bf7f2b8760077679677a3a.html",
+      "title": "智能辅助驾驶的安全题，为什么越来越难答？",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-13",
+      "url": "https://www.21jingji.com/article/20261113/herald/16ed7c9d94bf7f2b8760077679677a3a.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az87o6vn/",
+      "title": "不开特惠没单、开了赚不到钱，网约车司机的两难是怎么形成的",
+      "summary": "11月13日，中国新闻网《民生调查局》刊发对多地网约车司机的调查报道。济南司机王磊（化名）在临近晚高峰时段、没有打开“特惠车”选项的情况下，出车3.5个小时只接到一单，流水5.8元。 而开了特惠，是另......",
+      "source": "Smzdm",
+      "date": "2026-11-13",
+      "url": "https://post.smzdm.com/p/az87o6vn/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwdodxk/",
+      "title": "比亚迪新车官宣：纯电1003km，2.98秒破百，26.99万起售",
+      "summary": "11月12日，比亚迪旗下豪华品牌——腾势N8正式上市，新车共推出6款车型，纯电4款、插混2款，官方指导价26.99万至32.99万元，定位中大型五座SUV。对腾势来说，这台车把第二代刀片电池、易三方三电机、双腔空悬、天神之眼B高阶智驾、AI智能座舱DiL......",
+      "source": "Smzdm",
+      "date": "2026-11-13",
+      "url": "https://post.smzdm.com/p/awwdodxk/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwdkqp4/",
+      "title": "26.99万起，腾势N8回归宽五座",
+      "summary": "现在看家庭SUV，我经常有个疑问：一辆车非得塞进六七个座位，才算会过日子吗？平时一家三四口，后排要舒服，婴儿车要有地方放。结果为了过年可能多坐的那两个人，天天在空间上凑合，好像也不太划算。腾势N8这次就选了另一条路。11月12日上市，26.99万到32.......",
+      "source": "Smzdm",
+      "date": "2026-11-13",
+      "url": "https://post.smzdm.com/p/awwdkqp4/"
     },
     {
       "id": "https://www.manilatimes.net/2026/11/12/tmt-newswire/pr-newswire/tier-iv-and-shunan-bulk-terminal-collaborate-to-automate-transportation-using-an-autonomous-dump-truck-targeting-driverless-operations-by-the-end-of-2028/2468043",
@@ -196,38 +256,6 @@
       "source": "The Manila Times",
       "date": "2026-11-11",
       "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/tier-iv-unveils-end-to-end-autonomous-driving-adaptable-to-map-information-and-sensor-configurations/2467229"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951",
-      "title": "Senior Auto: Delivering Reliable Autonomous Heavy-Duty Transport Services Worldwide",
-      "summary": "SHANGHAI, Nov. 10, 2026 /PRNewswire/ -- Senior Auto signed a strategic cooperation framework agreement with the Eastern Partnership Business Council and Taiji Zond LLC to advance autonomous driving an...",
-      "source": "The Manila Times",
-      "date": "2026-11-10",
-      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951"
-    },
-    {
-      "id": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html",
-      "title": "What is Megaspeed? How Nvidia's cloud partner got caught up in an affair and China spying storm",
-      "summary": "Megaspeed says it specialises in providing AI computing resources and solutions across sectors such as urban governance, autonomous driving, intelligent finance, gaming and image recognition...",
-      "source": "Moneycontrol",
-      "date": "2026-11-09",
-      "url": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881",
-      "title": "WeRide to Report Third Quarter 2026 Financial Results on Friday, November 20, 2026",
-      "summary": "NEW YORK, Nov. 09, 2026 (GLOBE NEWSWIRE) -- As previously announced, WeRide Inc. ('WeRide” or the 'Company”) (NASDAQ: WRD; HKEX: 0800), a global leader in autonomous driving technology, will release i...",
-      "source": "The Manila Times",
-      "date": "2026-11-09",
-      "url": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881"
-    },
-    {
-      "id": "https://www.tribuneindia.com/news/business/byd-and-mogox-unveil-8-5-metre-right-hand-drive-level-4-autonomous-bus-at-sumw-2026/",
-      "title": "Drive Level 4 Autonomous Bus at SUMW 2026",
-      "summary": "Jointly developed model focuses on efficient adaptation and international deployment SINGAPORE, Nov. 4, 2026 /PRNewswire/ -- BYD and autonomous driving technology company MOGOX (trading as Zhidao Netw...",
-      "source": "The Tribune",
-      "date": "2026-11-05",
-      "url": "https://www.tribuneindia.com/news/business/byd-and-mogox-unveil-8-5-metre-right-hand-drive-level-4-autonomous-bus-at-sumw-2026/"
     }
   ]
 }
