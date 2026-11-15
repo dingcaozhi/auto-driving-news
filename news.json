@@ -1,15 +1,11 @@
 {
-  "lastUpdated": "2026-11-14 05:56:57",
-  "totalCount": 34,
+  "lastUpdated": "2026-11-15 05:58:39",
+  "totalCount": 26,
   "sources": {
-    "Bilibili": 5,
-    "Pcauto_Cn": 1,
-    "21Jingji": 7,
-    "Smzdm": 7,
-    "Nbd_Cn": 1,
-    "Bjnews": 2,
+    "Smzdm": 9,
+    "21Jingji": 5,
     "Cri_Cn": 1,
-    "Chinanews": 1,
+    "Nbd_Cn": 2,
     "The Manila Times": 5,
     "BGR": 1,
     "Forbes India": 1,
@@ -18,204 +14,140 @@
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1n8WL63E4i",
-      "title": "【B站】无人驾驶搞笑合集",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-11-14",
-      "url": "https://www.bilibili.com/video/BV1n8WL63E4i"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1BsWC6EEuT",
-      "title": "【B站】如何降落在一片云海里？自动驾驶盲降！",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-11-14",
-      "url": "https://www.bilibili.com/video/BV1BsWC6EEuT"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-14",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV12AWt67EWs",
-      "title": "【B站】自动驾驶确实好用",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-11-14",
-      "url": "https://www.bilibili.com/video/BV12AWt67EWs"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV15mpR6uERu",
-      "title": "【B站】兄弟们自动驾驶的九号电动车见过没？",
-      "summary": "-...",
-      "source": "Bilibili",
-      "date": "2026-11-14",
-      "url": "https://www.bilibili.com/video/BV15mpR6uERu"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5192/51923718.html",
-      "title": "日产发布全新品牌宣言 新能源矩阵再进阶 NISMO品牌引入中国市场",
-      "summary": "日产在珠海举办NISSAN DAY，发布全新品牌宣言，推出多款新能源新车，引入NISMO，加速在华新能源转型及海外布局。...",
-      "source": "Pcauto_Cn",
-      "date": "2026-11-13",
-      "url": "http://www.pcauto.com.cn/news/5192/51923718.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261114/89c2700f35b988b461001440775b705e.html",
-      "title": "“皮衣刀客”黄仁勋黯然离场 英伟达AI“魔法”能否持续？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-13",
-      "url": "https://www.21jingji.com/article/20261114/89c2700f35b988b461001440775b705e.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am9v3onp/",
-      "title": "问界新M8 37.98万元起上市，余承东晒出鸿蒙智行矩阵：问界重回首位，华为赛力斯分工逐条讲清",
-      "summary": "11月13日，问界新M8的上市发布会在重庆赛力斯超级工厂举行，新车当天上市，售价37.98万至46.98万元。但这场发布会被讨论得最热的，其实是新车之外的东西：余承东登台，把鸿蒙智行的品牌矩阵和华为、赛力斯各自的分工逐条摊开。这是9月两家公司调整合作模式......",
+      "id": "https://post.smzdm.com/p/aomqq7lr/",
+      "title": "被小米传闻选中的HWA到底是什么来头？AMG创始人的名字，就是他自己的缩写",
+      "summary": "11月14日，意大利汽车媒体Quattroruote援引不具名信源爆料，小米正与德国赛车工程公司HWA秘密合作开发一款超高性能汽车，多家知名零部件供应商也有望参与，目标是打造一台“载入史册”的新车。截......",
       "source": "Smzdm",
-      "date": "2026-11-13",
-      "url": "https://post.smzdm.com/p/am9v3onp/"
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/aomqq7lr/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261114/43ad8fbceee2149f3a67d342fbc5bd00.html",
-      "title": "安筱鹏谈《智能化生存》：追问洋流的方向，在技术狂飙时代寻找底层规律",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-13",
-      "url": "https://www.21jingji.com/article/20261114/43ad8fbceee2149f3a67d342fbc5bd00.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261114/0c2facaee2e0f86d2af3d8f7a4a264a6.html",
-      "title": "用好APEC红利，推动深圳外资提质升级丨潮涌亚太",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-13",
-      "url": "https://www.21jingji.com/article/20261114/0c2facaee2e0f86d2af3d8f7a4a264a6.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261114/45093d8d86ae48ae6636d1cd97edd8d9.html",
-      "title": "用好APEC红利 推动深圳外资提质升级",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-13",
-      "url": "https://www.21jingji.com/article/20261114/45093d8d86ae48ae6636d1cd97edd8d9.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261113/herald/d2326289595c9fa5eb1ef9adccf0c8fb.html",
-      "title": "跨国AI团队的创新机遇",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-13",
-      "url": "https://www.21jingji.com/article/20261113/herald/d2326289595c9fa5eb1ef9adccf0c8fb.html"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-11-13/4647525.html",
-      "title": "问界新M8上市，余承东：赛力斯投了15亿元升级了126项技术！双方合作进入新阶段：华为主导的赛力斯会参与，赛力斯主导的华为也将全面参与",
-      "summary": "问界新M8上市，余承东：赛力斯投了15亿元升级了126项技术！双方合作进入新阶段：华为主导的赛力斯会参与，赛力斯主导的华为也将全面参与...",
-      "source": "Nbd_Cn",
-      "date": "2026-11-13",
-      "url": "https://www.nbd.com.cn/articles/2026-11-13/4647525.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z4p4lo/",
-      "title": "老领克03车主看新款：这些原厂配置省了多少改装备案麻烦",
-      "summary": "11月13日晚间，2027款领克03正式上市，限时专享价10.38万元起，03+同步推出23.98万元的限时价。这台车被讨论最多的变化，是把过去典型属于改装店的两件事——宽体和大尾翼——直接变成了“原厂自带”，官方图文和媒体解读里都写明了新增原厂宽体套件......",
+      "id": "https://post.smzdm.com/p/aqrzzpok/",
+      "title": "王传福只是默默无言，但每年却愿在百万员工身上花数百亿送福利！",
+      "summary": "王传福曾经直接对外坦言：自己没有经营其他独立私人企业，全身心投入比亚迪！自比亚迪创办以来，他把全部精力倾注在比亚迪上，虽然比亚迪有众多子品牌和子公司，但是都属于同一体系，这份专一，让王传福把比亚迪从锂......",
       "source": "Smzdm",
-      "date": "2026-11-13",
-      "url": "https://post.smzdm.com/p/a6z4p4lo/"
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/aqrzzpok/"
     },
     {
-      "id": "https://post.smzdm.com/p/ad7zmzdx/",
-      "title": "全新2027款领克03热血来袭：10.38万起原厂宽体上车，宽体与MRC悬架并非全系标配",
-      "summary": "11月13日一早，领克汽车官方微博预告了当天的赛道发布会，当晚2027款全新领克03家族在成都天府国际赛道正式上市。 官方指导价区间11.38万—24.98万元，限时权益价区间10.38万—23.98万元，全家族共五款车型。 这次“热血来袭”的核心逻辑，......",
+      "id": "https://post.smzdm.com/p/a2644nrq/",
+      "title": "17款新车里8款是纯电，燃油车年底还值得入手吗",
+      "summary": "年底值不值得买燃油车，答案不是统一的“值”或“不值”，而取决于你的用车条件能不能同时满足三点：没有方便的家充条件、长途出行占比高、并且能在年底前锁定真实让利且名下有可报废或可转让的旧车。之所以要这么苛刻，是因为今年年底的车市供给端已经彻底偏向另一边：11......",
       "source": "Smzdm",
-      "date": "2026-11-13",
-      "url": "https://post.smzdm.com/p/ad7zmzdx/"
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/a2644nrq/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak83loee/",
-      "title": "盯一天电脑、看近越来越费劲？配办公渐进还是数码型先量工位3个距离｜付款前核ADD、瞳高、同心差，别按年龄套公式",
-      "summary": "「一天八小时盯屏幕，下午三四点眼沉，晚上看远处要缓几秒才对上焦。」1这是有篇验光专栏的原话。另一篇配镜经验帖里说得更直接：「不是度数涨了，是眼睛调节力下降、提前老视了」6。两篇描述对不太上细节，但方向一致：电脑人群的麻烦往往不在看远那一档，是看近这一段开......",
+      "id": "https://post.smzdm.com/p/az87743n/",
+      "title": "19.28万起的27款大拿M1，9座纯电商务用着够不够？",
+      "summary": "先给结论：如果把“商务用”理解为机场接送、团队通勤、旅游包车、企业班车这类营运场景，这台车是够的，甚至在19万级里绰绰有余；如果想把一台9座大车当家用或者舒适向的私用商务车，它不够——它的底子始终是一......",
       "source": "Smzdm",
-      "date": "2026-11-13",
-      "url": "https://post.smzdm.com/p/ak83loee/"
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/az87743n/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1794571130129836.html",
-      "title": "美国微软公司多款应用出现大范围故障",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-13",
-      "url": "https://www.bjnews.com.cn/detail/1794571130129836.html"
+      "id": "https://www.21jingji.com/article/20261114/herald/181feb14b904221fdebf417707374416.html",
+      "title": "“家门口”赶银发集市，广州敬老月激活银发消费",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-14",
+      "url": "https://www.21jingji.com/article/20261114/herald/181feb14b904221fdebf417707374416.html"
     },
     {
-      "id": "https://news.cri.cn/20261113/d3b17321-2c99-4c51-6302-724894a3ee8c.html",
-      "title": "美国微软公司多款应用出现大范围故障-国际在线",
-      "summary": "新华社北京11月13日电 据外媒12日报道，美国微软公司旗下微软365多项服务当日发生大范围故障，涉及电子邮件服务Outlook、人工智能助手“智能副驾驶”等，对多国政府机构、企业和个人用户造...",
+      "id": "https://www.21jingji.com/article/20261114/herald/34132447b73b68d9088c131283d1ab08.html",
+      "title": "汽车芯片再次告急，这次是晶圆厂不想生产了",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-14",
+      "url": "https://www.21jingji.com/article/20261114/herald/34132447b73b68d9088c131283d1ab08.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggwwrkd/",
+      "title": "14日至18日大范围雨雪降温“分三段推进”：哪些路段和出行方式最受影响",
+      "summary": "11月14日至18日，这轮冷空气给中东部带来的大范围雨雪降温不是一次性事件：雪还没下，大雾先“封路”；雪下来时，沿山和山口路段最危险；雪将尽时，东北的暴雪和大风压尾。中央气象台预计，本轮中东部将有大范围大风降温和雨雪天气，北方部分地区降雪较强。 对照已经......",
+      "source": "Smzdm",
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/aggwwrkd/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqrr4n0/",
+      "title": "「特惠车」「一口价」把司机逼到边缘，现有规则下乘客该怎么打车？",
+      "summary": "济南司机王磊临近晚高峰出车、没开特惠接单选项，在滴滴平台3.5个小时只接到一单，流水5.8元。 中国新闻网《民生调查局》11月13日发布这篇调查后，话题很快冲上热榜，“怎样才能让乘客打车实惠、司机有单可接\"当天成为知乎上的开放式讨论问题。 不过这个问题的......",
+      "source": "Smzdm",
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/apqrr4n0/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al399n4e/",
+      "title": "本周免费游戏盘点：Steam 四款周末试玩，Epic 下周送异形",
+      "summary": "2026 年 11 月 14 日周六。这个周末的看点不在「白送入库」，而在 Steam 一次放出的四款大体量作品周末试玩——太空矮人、二战坦克、城市建造、二战空战，四个题材一次凑齐，窗口统一到北京时间 11 月 17 日凌晨 2 点。Epic 这边只有一......",
+      "source": "Smzdm",
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/al399n4e/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261114/herald/9fad459233ac2c500471cd3ba0574779.html",
+      "title": "连休5天不调休，多地官宣！广东人：实名羡慕",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-14",
+      "url": "https://www.21jingji.com/article/20261114/herald/9fad459233ac2c500471cd3ba0574779.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anvmmom3/",
+      "title": "年底前买27款大拿M1，哪些限时权益真能省到钱？",
+      "summary": "想在年底前把27款大拿M1的便宜占实，先分清三档：定价里已经写死的钱、以旧换新国补里够得着的钱，以及官方只给了名头、细则还没公开的\"5重限时礼遇\"。至于购置税，今年底和明年上半年买花的钱一样，不必为\"......",
+      "source": "Smzdm",
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/anvmmom3/"
+    },
+    {
+      "id": "https://news.cri.cn/20261114/da3e7c77-96fa-4a44-9f78-e663bbd61564.html",
+      "title": "APEC朋友圈丨中国无人机如何改变智利农田",
+      "summary": "依托APEC合作平台，中国智慧农业技术远渡重洋来到智利。作为全球地形最狭长的国家，智利南北绵延4352公里，复杂地貌给农耕带来不少挑战。来自中国的无人机能够深入山区作业，不受泥泞地块限制，一定程度上破解了当地农业生产成本高、劳动力短缺的难题。一架架农用无人机，不仅重塑当地传统农耕模式，还催生“农业飞手”这一新职业，让科技发展的红利直达普通农户，为亚太共同发展注入务实力量。...",
       "source": "Cri_Cn",
-      "date": "2026-11-13",
-      "url": "https://news.cri.cn/20261113/d3b17321-2c99-4c51-6302-724894a3ee8c.html"
+      "date": "2026-11-14",
+      "url": "https://news.cri.cn/20261114/da3e7c77-96fa-4a44-9f78-e663bbd61564.html"
     },
     {
-      "id": "https://www.chinanews.com.cn/hr/2026/11-13/10731845.shtml",
-      "title": "在槟城百年机器行追寻南侨机工来时路",
-      "summary": "NewsData报道",
-      "source": "Chinanews",
-      "date": "2026-11-13",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-13/10731845.shtml"
+      "id": "https://www.nbd.com.cn/articles/2026-11-14/4647855.html",
+      "title": "英伟达回应CEO继任者传闻；2026年版国家基本医保药品目录发布；比亚迪辟谣；中国商飞自研电动商用飞机，有人驾驶首飞成功丨每经晚参",
+      "summary": "英伟达回应CEO继任者传闻；2026年版国家基本医保药品目录发布；比亚迪辟谣；中国商飞自研电动商用飞机，有人驾驶首飞成功丨每经晚参...",
+      "source": "Nbd_Cn",
+      "date": "2026-11-14",
+      "url": "https://www.nbd.com.cn/articles/2026-11-14/4647855.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20261113/herald/7d1e551a26654f0236d919a310fb7d69.html",
-      "title": "广东公路“十五五”规划出炉 2030年将基本建成现代化公路交通体系",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-13",
-      "url": "https://www.21jingji.com/article/20261113/herald/7d1e551a26654f0236d919a310fb7d69.html"
+      "id": "https://www.nbd.com.cn/articles/2026-11-14/4647848.html",
+      "title": "英伟达回应CEO继任者传闻；2026年版国家基本医保药品目录发布；中国商飞自研电动商用飞机，完成首次有人驾驶智能飞行；比亚迪辟谣丨每经晚参",
+      "summary": "英伟达回应CEO继任者传闻；2026年版国家基本医保药品目录发布；中国商飞自研电动商用飞机，完成首次有人驾驶智能飞行；比亚迪辟谣丨每经晚参...",
+      "source": "Nbd_Cn",
+      "date": "2026-11-14",
+      "url": "https://www.nbd.com.cn/articles/2026-11-14/4647848.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1794570795129834.html",
-      "title": "SpaceX与特斯拉合并谈判据称取得进展 最快12月公布",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-13",
-      "url": "https://www.bjnews.com.cn/detail/1794570795129834.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261113/herald/16ed7c9d94bf7f2b8760077679677a3a.html",
-      "title": "智能辅助驾驶的安全题，为什么越来越难答？",
+      "id": "https://www.21jingji.com/article/20261114/herald/2edd1fc64cc92f0fa7100cb8a48d111a.html",
+      "title": "工业AI跨过商业化验证阶段！中控技术创始人褚健：未来要培养万名用户工程师",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-13",
-      "url": "https://www.21jingji.com/article/20261113/herald/16ed7c9d94bf7f2b8760077679677a3a.html"
+      "date": "2026-11-14",
+      "url": "https://www.21jingji.com/article/20261114/herald/2edd1fc64cc92f0fa7100cb8a48d111a.html"
     },
     {
-      "id": "https://post.smzdm.com/p/az87o6vn/",
-      "title": "不开特惠没单、开了赚不到钱，网约车司机的两难是怎么形成的",
-      "summary": "11月13日，中国新闻网《民生调查局》刊发对多地网约车司机的调查报道。济南司机王磊（化名）在临近晚高峰时段、没有打开“特惠车”选项的情况下，出车3.5个小时只接到一单，流水5.8元。 而开了特惠，是另......",
-      "source": "Smzdm",
-      "date": "2026-11-13",
-      "url": "https://post.smzdm.com/p/az87o6vn/"
+      "id": "https://www.21jingji.com/article/20261114/herald/18eeb1dbd993cef90ac442c419514dbd.html",
+      "title": "中国无人机如何改变智利农田",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-14",
+      "url": "https://www.21jingji.com/article/20261114/herald/18eeb1dbd993cef90ac442c419514dbd.html"
     },
     {
-      "id": "https://post.smzdm.com/p/awwdodxk/",
-      "title": "比亚迪新车官宣：纯电1003km，2.98秒破百，26.99万起售",
-      "summary": "11月12日，比亚迪旗下豪华品牌——腾势N8正式上市，新车共推出6款车型，纯电4款、插混2款，官方指导价26.99万至32.99万元，定位中大型五座SUV。对腾势来说，这台车把第二代刀片电池、易三方三电机、双腔空悬、天神之眼B高阶智驾、AI智能座舱DiL......",
+      "id": "https://post.smzdm.com/p/aggww6rw/",
+      "title": "2027款大拿8.88万元起上市：“加配不加价”，快充、540km续航和滴滴接单权益一次给齐",
+      "summary": "11月13日晚，长沙滨江文化园在夜市烟火里办了一场\"车展\"：景德镇鸡排哥、波仔炒粉等美食摊主齐聚打卡，市集里的改装车样式眼花缭乱。 这就是第二届上汽大通创富大会，2027款大拿系列在现场完成全球上市，官方的概括是\"加配不加价，全系8.88万元起\"，上市期......",
       "source": "Smzdm",
-      "date": "2026-11-13",
-      "url": "https://post.smzdm.com/p/awwdodxk/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwdkqp4/",
-      "title": "26.99万起，腾势N8回归宽五座",
-      "summary": "现在看家庭SUV，我经常有个疑问：一辆车非得塞进六七个座位，才算会过日子吗？平时一家三四口，后排要舒服，婴儿车要有地方放。结果为了过年可能多坐的那两个人，天天在空间上凑合，好像也不太划算。腾势N8这次就选了另一条路。11月12日上市，26.99万到32.......",
-      "source": "Smzdm",
-      "date": "2026-11-13",
-      "url": "https://post.smzdm.com/p/awwdkqp4/"
+      "date": "2026-11-14",
+      "url": "https://post.smzdm.com/p/aggww6rw/"
     },
     {
       "id": "https://www.manilatimes.net/2026/11/12/tmt-newswire/pr-newswire/tier-iv-and-shunan-bulk-terminal-collaborate-to-automate-transportation-using-an-autonomous-dump-truck-targeting-driverless-operations-by-the-end-of-2028/2468043",
@@ -256,6 +188,38 @@
       "source": "The Manila Times",
       "date": "2026-11-11",
       "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/tier-iv-unveils-end-to-end-autonomous-driving-adaptable-to-map-information-and-sensor-configurations/2467229"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951",
+      "title": "Senior Auto: Delivering Reliable Autonomous Heavy-Duty Transport Services Worldwide",
+      "summary": "SHANGHAI, Nov. 10, 2026 /PRNewswire/ -- Senior Auto signed a strategic cooperation framework agreement with the Eastern Partnership Business Council and Taiji Zond LLC to advance autonomous driving an...",
+      "source": "The Manila Times",
+      "date": "2026-11-10",
+      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951"
+    },
+    {
+      "id": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html",
+      "title": "What is Megaspeed? How Nvidia's cloud partner got caught up in an affair and China spying storm",
+      "summary": "Megaspeed says it specialises in providing AI computing resources and solutions across sectors such as urban governance, autonomous driving, intelligent finance, gaming and image recognition...",
+      "source": "Moneycontrol",
+      "date": "2026-11-09",
+      "url": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881",
+      "title": "WeRide to Report Third Quarter 2026 Financial Results on Friday, November 20, 2026",
+      "summary": "NEW YORK, Nov. 09, 2026 (GLOBE NEWSWIRE) -- As previously announced, WeRide Inc. ('WeRide” or the 'Company”) (NASDAQ: WRD; HKEX: 0800), a global leader in autonomous driving technology, will release i...",
+      "source": "The Manila Times",
+      "date": "2026-11-09",
+      "url": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881"
+    },
+    {
+      "id": "https://www.tribuneindia.com/news/business/byd-and-mogox-unveil-8-5-metre-right-hand-drive-level-4-autonomous-bus-at-sumw-2026/",
+      "title": "Drive Level 4 Autonomous Bus at SUMW 2026",
+      "summary": "Jointly developed model focuses on efficient adaptation and international deployment SINGAPORE, Nov. 4, 2026 /PRNewswire/ -- BYD and autonomous driving technology company MOGOX (trading as Zhidao Netw...",
+      "source": "The Tribune",
+      "date": "2026-11-05",
+      "url": "https://www.tribuneindia.com/news/business/byd-and-mogox-unveil-8-5-metre-right-hand-drive-level-4-autonomous-bus-at-sumw-2026/"
     }
   ]
 }
