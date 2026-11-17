@@ -1,144 +1,155 @@
 {
-  "lastUpdated": "2026-11-16 05:58:27",
-  "totalCount": 25,
+  "lastUpdated": "2026-11-17 07:35:54",
+  "totalCount": 24,
   "sources": {
-    "Smzdm": 14,
+    "Sina_Cn": 2,
+    "21Jingji": 5,
+    "Smzdm": 6,
+    "Ithome": 1,
     "Cnblogs": 1,
-    "Pcauto_Cn": 1,
+    "CNBC TV18": 1,
+    "Firstpost": 1,
     "Business Insider": 1,
-    "The Manila Times": 5,
+    "The Manila Times": 4,
     "BGR": 1,
-    "Forbes India": 1,
-    "Moneycontrol": 1
+    "Forbes India": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/a2644doq/",
-      "title": "10种驾驶模式全原厂，2026款T01 检阅官越野配置参数",
-      "summary": "预算卡在15到20万挑硬派越野，不少购车者心里最打鼓的就是车买回来才发现这缺那少，最后还得搭进大把时间去改装店折腾。自己去拆桥加前后差速锁、改按键走线，花钱不说，年审和线路隐患也让人头疼。大家想要的是......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/a2644doq/"
+      "id": "https://news.sina.cn/2026-11-17/detail-iniyyeuv5822952.d.html?vt=4",
+      "title": "41岁男子开网约车一天遇三起剐蹭，以为是疲劳驾驶，去医院一查吓一跳：血糖严重超标！",
+      "summary": "据长江日报，41岁的网约车司机刘师傅近来频繁发生车辆剐蹭，起初以为只是疲劳驾驶。就诊前一天，他因视物模糊、眼前频繁闪光，一天接连遇上三起剐蹭，这才赶到医院就诊。检查发现，导致其发生事故的“祸首”是糖尿病视网膜病变。 刘师傅长期跑网约车，常年在外接单，作息昼夜颠...",
+      "source": "Sina_Cn",
+      "date": "2026-11-16",
+      "url": "https://news.sina.cn/2026-11-17/detail-iniyyeuv5822952.d.html?vt=4"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrzz2gx/",
-      "title": "超高分先引质疑后自首：这类AI作弊会面临什么处罚",
-      "summary": "11月15日，2026年韩国注册税务师考试排名第一的考生向警方自首，承认在考试中利用人工智能辅助作弊。 等待他的是一套三层处罚：资格证书暂停颁发，考试成绩可能被判无效并禁考五年，同时面临刑事指控。据韩......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/aqrzz2gx/"
+      "id": "https://news.sina.cn/2026-11-17/detail-iniyyeux2598986.d.html?vt=4",
+      "title": "多家A股公司回应“英伟达事件”",
+      "summary": "记者|文多 编辑|何小桃 黄胜 易启江 校对|程鹏 北京时间11月12日晚间，英伟达对外宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司现任执行副总裁兼首席财务官出任临时CEO，并继续担任CFO，直至正式继任者确定。 基于上述事件...",
+      "source": "Sina_Cn",
+      "date": "2026-11-16",
+      "url": "https://news.sina.cn/2026-11-17/detail-iniyyeux2598986.d.html?vt=4"
     },
     {
-      "id": "https://post.smzdm.com/p/awwdd494/",
-      "title": "尚界Z7T星野套装是选装还是标配？买车前要弄清这几点",
-      "summary": "星野套装既不是尚界Z7T任何在售配置的标配，也不是一台独立在售的新车——它是官方定档11月20日才正式登场的“新增”套件。余承东11月11日官宣，11月20日14:30的鸿蒙智行发布会上，享界V8正式......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/awwdd494/"
-    },
-    {
-      "id": "https://www.cnblogs.com/byjs/p/23674267",
-      "title": "物理AI、端侧AI、边缘AI 到底有什么区别？ - 边缘计算社区",
-      "summary": "一条产线上，摄像头发现产品表面的划痕，厂区服务器汇总多条产线的异常，机械臂根据检测结果调整抓取动作。 这套系统里，三个词都可能成立： 摄像头在本地识别，属于端侧AI； 厂区服务器在数据产生现场附近处理信息，属于边缘AI； 机械臂根据感知结果采取动作，并继续接收新的反馈，属于物理AI。 它们描述的不是...",
-      "source": "Cnblogs",
-      "date": "2026-11-15",
-      "url": "https://www.cnblogs.com/byjs/p/23674267"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggww79w/",
-      "title": "过河前先看水深，2026款T01 长风涉水参数解读",
-      "summary": "在20万以内的预算里挑硬派越野，如果常遇到雨季积水或者打算周末进山过水坑，原厂带涉水喉的车型总能让人多看两眼。2026款T01 长风官方指导价19.48万元起，原厂自带涉水喉，官方标注的最大涉水深度达......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/aggww79w/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anvmmln0/",
-      "title": "20万内想买方盒子代步，2026款T01 检阅官通勤挺轻松",
-      "summary": "看中方盒子造型想买来代步，选车时最拿不准的往往不是这车够不够硬派，而是周一到周五早晚高峰开着会不会累。传统硬派越野底盘高、车身大，碰上堵车或者跑长距离环线，右脚和神经一直绷着确实吃不消。在20万以内的......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/anvmmln0/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae655ek3/",
-      "title": "新款问界M8解读，37.98万起，顶配车型反而更有性价比",
-      "summary": "近日，不少小伙伴心心念念的新款问界M8终于上市了。虽说新款车型37.98万的起售价并不算便宜，但综合产品表现来说，这个价格也不是不能上。不过，面对众多版本，大家也是真的挑花了眼。新款问界M8如果按配置划分，有Max、Max+、Ultra三档，关键是还有增......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/ae655ek3/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak833gl4/",
-      "title": "上市两周，订单破1.7万辆，捷达M6怎么就卖爆了？",
-      "summary": "在2026年的今天，很少有人会相信一个合资品牌旗下的电车能上市两周，订单破万。说实话，以前我也不信，可惜被捷达M6打了脸。相信不少网友都好奇，就是这样一款纯电续航最长才555km的电车，怎么就卖爆了？下面咱们就一起看一看。捷达M6的核心优势就是产品价格低......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/ak833gl4/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rppqn8/",
-      "title": "《GTA6》雷奥奈达州惊喜盘点：六大区域、30帧的密度豪赌与预购特典",
-      "summary": "11月19日，《GTA6》正式登陆PS5和Xbox Series X|S。发售前一周，Rockstar把这款新世界的惊喜清单逐件摊开：官网\"Only in Leonida\"专页确认雷奥奈达州由罪恶城之外的六大区域组成，剧情简介写明杰森与露西亚被\"卷入横跨......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/a5rppqn8/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrzz9gx/",
-      "title": "开“智驾”躺睡被查、一家四口都在车上：哪些行为算违法，会怎么罚？",
-      "summary": "11月14日，公安部交通管理局通报了一起青岛高速险情：11月7日，一辆红色SUV在高速上行驶，驾驶人却放倒座椅躺着睡觉，车辆疑似借助“智驾”自行前进。 交警锁定该车、引导至收费站拦下，对其盲目依赖“智能辅助驾驶”的行为进行严肃批评教育，并对多项违法行为依......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/aqrzz9gx/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/anvmmr92/",
-      "title": "原厂3吨拖挂资质，探境者01 周末拖挂出游准备",
-      "summary": "周末想带家人或朋友去深山露营，普通的城市型SUV往往装不下大帐篷、炊具和户外桌椅；如果想拉一台水上摩托或者拖挂房车出门，具体挂车类型和驾照要求一定要以现行法规和车管所要求为准。在这个预算里挑选，指导价17.99万元起的探境者01，凭借硬核的柴油越野底子和......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/anvmmr92/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rppqx7/",
-      "title": "岚图纯电累计交付破10万台，2027款知音19.79万元起上市：老车主口碑和常见问题",
-      "summary": "11月13日，岚图武汉黄金工厂旗舰店里，2027款岚图知音的首台车在现场完成交付，它同时是岚图汽车累计交付的第10万台纯电车型。新车也同步上市，896线乾崑版限时权益价19.79万元起。先把口径说清楚......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/a5rppqx7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak833rvr/",
-      "title": "买车时承诺能上牌，上牌才知3C证停了：电动自行车上牌避坑，关键在三个字——查、写、快",
-      "summary": "花了数千元买了一辆电动自行车，提车时满口“能上牌”，等真去办登记，却被告知车辆对应的3C认证证书已经暂停——这不是某个人的倒霉事，而是2026年秋天在全国多地集中发生的上牌梗阻。停证的波及面比多数消费......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/ak833rvr/"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5192/51927136.html",
-      "title": "每天2.6亿公里路测 比亚迪辅助驾驶车型保有量超419万",
+      "id": "https://www.21jingji.com/article/20261117/cc013e751db5e6d392315d37cb005898.html",
+      "title": "1.1万亿元高技术出口 广东智造出海背后的金融底气",
       "summary": "NewsData报道",
-      "source": "Pcauto_Cn",
-      "date": "2026-11-15",
-      "url": "http://www.pcauto.com.cn/news/5192/51927136.html"
+      "source": "21Jingji",
+      "date": "2026-11-16",
+      "url": "https://www.21jingji.com/article/20261117/cc013e751db5e6d392315d37cb005898.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a6z44nxz/",
-      "title": "博世十年首亏：德国裁员2.2万，中国砸100亿，你家的博世还好吗",
-      "summary": "双十一刚把博世洗烘套装搬回家，转头就刷到\"博世十年首亏\"。先别慌，这笔账跟你想的不是一回事。博世确实亏了，但亏的是造车的博世，不是你家那台博世。 2025财年，博世营收910亿欧元，比上一年还微增了一......",
-      "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/a6z44nxz/"
+      "id": "https://www.21jingji.com/article/20261117/bed04ccc113878921c75ed55de43e676.html",
+      "title": "国民车勇闯中东豪华擂台 比亚迪凭什么卖贵？",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-16",
+      "url": "https://www.21jingji.com/article/20261117/bed04ccc113878921c75ed55de43e676.html"
     },
     {
-      "id": "https://post.smzdm.com/p/az87793r/",
-      "title": "东风-61列装常态参训，官方确认的升级只有这三项",
-      "summary": "11月6日，央视网军事频道报道明确：阅兵上首次亮相的新型陆基洲际导弹东风-61“已列装火箭军”。 由此冲上热榜的这条热点，按官方口径拆开，已确认的能力升级其实只有三件事：装备列装火箭军并进入常态化实战......",
+      "id": "https://www.21jingji.com/article/20261117/cdde77e9a7e0214fcd0f4187ab8132c5.html",
+      "title": "M8开启新路径，赛力斯站到问界台前",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-16",
+      "url": "https://www.21jingji.com/article/20261117/cdde77e9a7e0214fcd0f4187ab8132c5.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwdml9g/",
+      "title": "戴新渐进镜片头晕、下楼梯发飘？先分清适应账和错配账｜付款前核瞳高、通道、框高、下加光测法这4处",
+      "summary": "「刚戴上头晕、看地面晃动、下楼梯不稳」——这是2026年7月发在小红书的一条从业者帖子的原话3。11月3日知乎上一篇丹阳做验光的专栏，把反差写得更狠：“有人三天就戴顺了，有人三个月还在晕”，“参数对上了，三天；参数没对上，三个月也白搭。”1一天八小时对着......",
       "source": "Smzdm",
-      "date": "2026-11-15",
-      "url": "https://post.smzdm.com/p/az87793r/"
+      "date": "2026-11-16",
+      "url": "https://post.smzdm.com/p/awwdml9g/"
+    },
+    {
+      "id": "https://www.ithome.com/1/028/005.htm",
+      "title": "徐直军：华为早在 2009 年就启动 5G 研究，最终成为标准主要贡献者和全球最大专利持有者之一",
+      "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，2011 年，华为把公司的研究团队整...",
+      "source": "Ithome",
+      "date": "2026-11-16",
+      "url": "https://www.ithome.com/1/028/005.htm"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261117/a2931e3b378c6b71c1eb8353ba87dc9d.html",
+      "title": "21专访丨俄罗斯驻华大使莫尔古洛夫：俄转向东方战略不可逆，借APEC深化亚太合作",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-16",
+      "url": "https://www.21jingji.com/article/20261117/a2931e3b378c6b71c1eb8353ba87dc9d.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am9vo06p/",
+      "title": "马斯克会卖吗？美国改装商想接盘Cybertruck产线！特斯拉不掏钱还能收授权费",
+      "summary": "快科技11月17日消息，特斯拉宣布Cybertruck将于2027年年中停产后，美国特斯拉改装配件商Unplugged Performance（下称UP）公开提议自筹资金接手Cybertruck生产线......",
+      "source": "Smzdm",
+      "date": "2026-11-16",
+      "url": "https://post.smzdm.com/p/am9vo06p/"
+    },
+    {
+      "id": "https://www.cnblogs.com/joyce-peng/p/23686657",
+      "title": "獎一个华为手環——發自我的 CCPC 2026 荊州賽站游記 - 我就是蓬蒿人",
+      "summary": "獎一个华为手環——發自我的 CCPC 2026 荊州賽站游記 虽然仍是败类但体验很舒服的一场。 Day -1 看到另一支队伍已经到荆州旅游了，非常羡慕。 犹豫了很久要不要拖个箱子。想到之前在沈阳和西安背着沉重的书包拿着一手的袋子的经历，下定决心拖箱子。事后证明我的决定还是很对的，有箱子就是方便很多啊...",
+      "source": "Cnblogs",
+      "date": "2026-11-16",
+      "url": "https://www.cnblogs.com/joyce-peng/p/23686657"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03zvpl0/",
+      "title": "在深圳街头真的随处能碰到机器人？都在哪些场景干活",
+      "summary": "先给结论：能碰到，但\"随处\"得打个折扣。11月16日上午，走进深圳龙岗机器人街区的中外媒体参访团看到，近60台人形机器人组成\"APEC\"字样，机器人现场制作冰淇淋、冲咖啡、弹钢琴、表演武术。 这条街区......",
+      "source": "Smzdm",
+      "date": "2026-11-16",
+      "url": "https://post.smzdm.com/p/a03zvpl0/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/am9volr4/",
+      "title": "奔驰、奥迪扎堆往外跑！特斯拉反手砸30亿欧元扩建德国工厂",
+      "summary": "快科技11月17日消息，据路透社报道，特斯拉日前宣布将投资30亿欧元（约合33.1亿美元）扩建位于德国柏林近郊格吕海德的超级工厂，新建一座生产设施用于生产Cybercab无人驾驶出租车，目标产能高达1......",
+      "source": "Smzdm",
+      "date": "2026-11-16",
+      "url": "https://post.smzdm.com/p/am9volr4/"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261116/herald/177a9744daee55008d021fa82c8ee1c8.html",
+      "title": "四川新能源汽车及动力电池产业链前三季度营收超5000亿元",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-16",
+      "url": "https://www.21jingji.com/article/20261116/herald/177a9744daee55008d021fa82c8ee1c8.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7zolxz/",
+      "title": "9.99万起的捷途环游者EV，5款配置怎么选不花冤枉钱",
+      "summary": "11月16日，\"以旅行见世界\"2026捷途全球旅行+大会上，捷途品牌首款纯电方盒子SUV环游者EV正式开启预售，共推出5款车型，预售抢先价9.99万-14.59万元。先说结论：这5个版本真正的区别只有......",
+      "source": "Smzdm",
+      "date": "2026-11-16",
+      "url": "https://post.smzdm.com/p/ad7zolxz/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomqg6pm/",
+      "title": "40万级家用SUV，问界新M8和理想、蔚来、极氪怎么选？核心差异在三处",
+      "summary": "问界新M8与同级竞品的核心差异，其实落在三件事上：智能驾驶硬件做成了全系统一标准，增程与纯电双动力可选而竞品多数只给一条腿，以及它是华为与赛力斯合作模式调整后的首款车型。理想在用促销维持走量，蔚来ES......",
+      "source": "Smzdm",
+      "date": "2026-11-16",
+      "url": "https://post.smzdm.com/p/aomqg6pm/"
+    },
+    {
+      "id": "https://www.cnbctv18.com/technology/can-mapless-autonomous-vehicles-finally-make-self-driving-transport-more-practical-20034727.htm",
+      "title": "Can mapless autonomous vehicles finally make self",
+      "summary": "NTT Mobility will test mapless self-driving buses on public roads in Japan from February 2027, using AI technology to reduce costs and deploy transport....",
+      "source": "CNBC TV18",
+      "date": "2026-11-16",
+      "url": "https://www.cnbctv18.com/technology/can-mapless-autonomous-vehicles-finally-make-self-driving-transport-more-practical-20034727.htm"
+    },
+    {
+      "id": "https://www.firstpost.com/tech/teslas-cybercab-goes-up-for-personal-sale-but-owners-must-pay-299-monthly-14060182.html",
+      "title": "Tesla's Cybercab goes up for personal sale, but owners must pay $299 monthly",
+      "summary": "Tesla appears to be opening up its steering-wheel-free Cybercab to individual buyers, with invitations now going out to select customers. The vehicle carries a $29,990 price tag, but owners must also ...",
+      "source": "Firstpost",
+      "date": "2026-11-16",
+      "url": "https://www.firstpost.com/tech/teslas-cybercab-goes-up-for-personal-sale-but-owners-must-pay-299-monthly-14060182.html"
     },
     {
       "id": "https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11",
@@ -195,22 +206,6 @@
       "source": "The Manila Times",
       "date": "2026-11-10",
       "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951"
-    },
-    {
-      "id": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html",
-      "title": "What is Megaspeed? How Nvidia's cloud partner got caught up in an affair and China spying storm",
-      "summary": "Megaspeed says it specialises in providing AI computing resources and solutions across sectors such as urban governance, autonomous driving, intelligent finance, gaming and image recognition...",
-      "source": "Moneycontrol",
-      "date": "2026-11-09",
-      "url": "https://www.moneycontrol.com/news/business/what-is-megaspeed-how-nvidia-s-cloud-partner-got-caught-up-in-an-affair-and-china-spying-storm-14075473.html"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881",
-      "title": "WeRide to Report Third Quarter 2026 Financial Results on Friday, November 20, 2026",
-      "summary": "NEW YORK, Nov. 09, 2026 (GLOBE NEWSWIRE) -- As previously announced, WeRide Inc. ('WeRide” or the 'Company”) (NASDAQ: WRD; HKEX: 0800), a global leader in autonomous driving technology, will release i...",
-      "source": "The Manila Times",
-      "date": "2026-11-09",
-      "url": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881"
     }
   ]
 }
