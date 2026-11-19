@@ -1,148 +1,249 @@
 {
-  "lastUpdated": "2026-11-18 06:58:40",
-  "totalCount": 25,
+  "lastUpdated": "2026-11-19 06:59:05",
+  "totalCount": 40,
   "sources": {
-    "Smzdm": 8,
+    "Bilibili": 5,
+    "Smm_Cn": 1,
+    "Sina_Cn": 1,
+    "Smzdm": 7,
+    "21Jingji": 3,
     "Bjnews": 3,
-    "A199It": 1,
-    "21Jingji": 2,
-    "Investing_Cn": 1,
-    "Jiemian": 1,
+    "Eeo": 1,
+    "Cision": 1,
+    "Solidot_Org": 1,
+    "Firstpost": 2,
+    "MarketScreener": 1,
+    "Los Angeles Times": 1,
+    "CBS News": 1,
     "CNBC TV18": 1,
-    "Firstpost": 1,
+    "PerthNow": 1,
+    "The Verge": 1,
+    "SlashGear": 1,
     "Business Insider": 1,
-    "The Manila Times": 4,
+    "News18": 1,
+    "Free Press Journal": 1,
+    "The Manila Times": 1,
     "BGR": 1,
-    "Forbes India": 1
+    "The Straits Times": 1,
+    "The Economic Times": 1,
+    "TechRadar": 1
   },
   "news": [
     {
-      "id": "https://post.smzdm.com/p/avgd9ng9/",
-      "title": "变色镜车内不变色、室内有底色？先分「触发条件」和「褪色时间」两笔账｜配镜前核这3处",
-      "summary": "关于变色镜片，我见过的高频吐槽就两种。一种是褪色问题：“从太阳底下走进地铁、进商场，镜片半天褪色不回来，眼前一片昏昏暗暗的，走路都费劲”1；另一种更直接：“变色镜片室外接触紫外线才会变色”，而且\"在车内不会变色\"4。前一句问的是速度，后一句问的是触发条件......",
+      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
+      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-11-19",
+      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV1Eusr6yE2S",
+      "title": "【B站】聊几个话题，英伟达，腾讯阿里，L3自动驾驶",
+      "summary": "准备内容花了点时间，时效性不强，明天再看也可以的...",
+      "source": "Bilibili",
+      "date": "2026-11-19",
+      "url": "https://www.bilibili.com/video/BV1Eusr6yE2S"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV182GnzRERu",
+      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
+      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
+      "source": "Bilibili",
+      "date": "2026-11-19",
+      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
+      "summary": "B站视频",
+      "source": "Bilibili",
+      "date": "2026-11-19",
+      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
+    },
+    {
+      "id": "https://www.bilibili.com/video/BV16nsP6rEv2",
+      "title": "【B站】辅助驾驶进阶 续航有升级 试驾新款极狐阿尔法S5",
+      "summary": "新款阿尔法S5迎来两大核心升级，首次搭载激光雷达、换装华为辅助驾驶方案，续航门槛提升至650km......",
+      "source": "Bilibili",
+      "date": "2026-11-19",
+      "url": "https://www.bilibili.com/video/BV16nsP6rEv2"
+    },
+    {
+      "id": "https://news.smm.cn/news/YSIICI4IBAAUBVXXJQMSHOCH2KGPUMTGPNGHS5Y",
+      "title": "约41标吨！韶关市大宝山资源综合利用有限公司钨精矿（白钨）竞价公告",
+      "summary": "NewsData报道",
+      "source": "Smm_Cn",
+      "date": "2026-11-18",
+      "url": "https://news.smm.cn/news/YSIICI4IBAAUBVXXJQMSHOCH2KGPUMTGPNGHS5Y"
+    },
+    {
+      "id": "https://news.sina.cn/2026-11-19/detail-inizesyv1417902.d.html?vt=4",
+      "title": "“生死存亡”，腾讯算账",
+      "summary": "“现在进行的智能革命如果不投入拥抱，就是被颠覆。这是一个生死存亡的问题。”近日腾讯董事会主席兼CEO马化腾与核心高管在全体员工线上对话时，谈及不少有关挑战相关问题。 11月18日腾讯发布的2026年三季度财报，给公司面临的危与机算了笔账。三季度腾讯收入约207...",
+      "source": "Sina_Cn",
+      "date": "2026-11-18",
+      "url": "https://news.sina.cn/2026-11-19/detail-inizesyv1417902.d.html?vt=4"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03zwz2r/",
+      "title": "充电不到3小时穿越欧洲：宝马i3这条新纪录，靠的不是400千瓦",
+      "summary": "2026年11月，一台标准量产状态的新世代宝马 i3 50 xDrive 在欧洲泛欧挑战（Paneuropeana）中创造了新的长途续航与高效率充电纪录。这次挑战从挪威马格尔岛的北角出发，抵达西班牙安达卢西亚的塔里法，穿越8个国家、途经高速与乡间公路，总......",
       "source": "Smzdm",
-      "date": "2026-11-17",
-      "url": "https://post.smzdm.com/p/avgd9ng9/"
+      "date": "2026-11-18",
+      "url": "https://post.smzdm.com/p/a03zwz2r/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1794909811129843.html",
-      "title": "买特斯拉二手车，哪个平台的车源更靠谱？先把“跟车不跟人”的质保权益核清",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-17",
-      "url": "https://www.bjnews.com.cn/detail/1794909811129843.html"
-    },
-    {
-      "id": "http://www.199it.com/archives/1840666.html",
-      "title": "尼尔森：移除AM/FM收音机对汽车制造商而言是一场冒险",
-      "summary": "近年来，汽车仪表盘已实现数字化升级，配备了简洁的触摸屏、订阅制应用以及先进的智能手机集成功能。然而，随着汽车原始设备制造商（OEM）为了追求视觉吸引力而决定保留或剔除哪些功能，传统的AM/FM收音机是否依然不可或缺？...",
-      "source": "A199It",
-      "date": "2026-11-17",
-      "url": "http://www.199it.com/archives/1840666.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z4zele/",
-      "title": "大汉19天卖4000台，可竞品连谁被它抢走客户都说不清",
-      "summary": "这周比亚迪大汉最热闹的新闻，是成了2026年深圳APEC会议的官方指定用车，各平台都在转。但让我熬夜翻完资料的，是比亚迪自己公布的另外两个数字：上市19天卖了4000多台，拿下10月D级轿车销量第一；还有一个，女性车主占到36%。前一个数字不算炸裂，19......",
-      "source": "Smzdm",
-      "date": "2026-11-17",
-      "url": "https://post.smzdm.com/p/a6z4zele/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rpr4q3/",
-      "title": "RE/100 和 MG 差在哪，1/100 该买哪个",
-      "summary": "11月17日11点，万代PB（Premium Bandai，官网限定预订）开了 RE/100 高达Mk-III 8号机的再版预订，4400日元，2027年6月发货。同一天同一批，PB还放了两台MG的Z高达3号机，7590日元，外加一台2860日元的HG ......",
-      "source": "Smzdm",
-      "date": "2026-11-17",
-      "url": "https://post.smzdm.com/p/a5rpr4q3/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrzr2nx/",
-      "title": "一次改款投入高达15亿，问界M8的成功并非偶然",
-      "summary": "大家都知道，新能源汽车的更新迭代速度很快，因此很多品牌旗下车型的升级改款看上去像是一个笑话，几个简单功能的升级也标榜自己是换代产品。这次新款问界M8的改款再次给对手上了一课，他们搜集了用户提出的100......",
-      "source": "Smzdm",
-      "date": "2026-11-17",
-      "url": "https://post.smzdm.com/p/aqrzr2nx/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrzr27p/",
-      "title": "纳米布的“精灵圈”：裸土圆环活到75年，科学家吵了50多年",
-      "summary": "在无人机画面里，阿拉善旱区的草原上戳着一个个\"秃圈\"：环上的灌木枝繁叶茂，圈内寸草不生。同样的图案，在非洲的纳米布沙漠躺得更久——一只裸土圆环最长能\"活\"75年，而\"圈是谁画的\"，人类吵了50多年。2......",
-      "source": "Smzdm",
-      "date": "2026-11-17",
-      "url": "https://post.smzdm.com/p/aqrzr27p/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arzdz767/",
-      "title": "三十万级的大六座理想i8，专为奶爸设计？",
-      "summary": "写在前面三十万出头想买台纯电大六座SUV，纠结的人真不少。这个价位选车，痛点也集中：想要三排都能坐成年人，又怕车太大不好开；想要空悬、高阶智驾这些硬配置，配置单一看往往又得往上加预算；家里有老人孩子，......",
-      "source": "Smzdm",
-      "date": "2026-11-17",
-      "url": "https://post.smzdm.com/p/arzdz767/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rprqn8/",
-      "title": "比亚迪新车官宣：11月24日正式上市，纯电续航850km",
-      "summary": "11月17日消息，比亚迪官方目前透露了新车第三代唐的上市时间，11月24日就将正式上市。该车是纯电大五座车型，没有混动版本，11月13日的时候就举办了预售发布会，会和大唐EV组成唐家族双旗舰，两款车型定位分工还是挺清晰的，需要7座选大唐EV，追求大空间五......",
-      "source": "Smzdm",
-      "date": "2026-11-17",
-      "url": "https://post.smzdm.com/p/a5rprqn8/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261117/herald/424898c75bf627bde9d984ab073c31a4.html",
-      "title": "热财经｜8省市抢跑6G，广东凭什么？",
+      "id": "https://www.21jingji.com/article/20261119/50c57d07254b8e6593edf008e1dd6824.html",
+      "title": "英特尔、小米退出，纳芯微4.87亿元押注一家未盈利标的",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-17",
-      "url": "https://www.21jingji.com/article/20261117/herald/424898c75bf627bde9d984ab073c31a4.html"
+      "date": "2026-11-18",
+      "url": "https://www.21jingji.com/article/20261119/50c57d07254b8e6593edf008e1dd6824.html"
     },
     {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3672982",
-      "title": "Kodiak AI出席Stephens年会：无人驾驶卡车商业化进程提速",
-      "summary": "NewsData报道",
-      "source": "Investing_Cn",
-      "date": "2026-11-17",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3672982"
-    },
-    {
-      "id": "https://www.jiemian.com/article/15340821.html",
-      "title": "被党内对手指控受贿，蒙古国总统宣布辞职",
-      "summary": "NewsData报道",
-      "source": "Jiemian",
-      "date": "2026-11-17",
-      "url": "https://www.jiemian.com/article/15340821.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1794883812129373.html",
-      "title": "纳芯微宣布收购隔空智能，补齐射频版图，深化智能驾驶与终端布局",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-17",
-      "url": "https://www.bjnews.com.cn/detail/1794883812129373.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1794907244169220.html",
-      "title": "安徽“拆墙让路”老人女儿：网上质疑不实，已上交房屋图纸盼澄清",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-17",
-      "url": "https://www.bjnews.com.cn/detail/1794907244169220.html"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261117/herald/8ff53ee2e1783b31b66967c6cf8fa927.html",
-      "title": "中国汽车市场发展风向标：广州车展27日举行，首发新车115台",
+      "id": "https://www.21jingji.com/article/20261119/68e78ecea7ba3bd4ea35999b69f1b9be.html",
+      "title": "长鑫业绩会划重点：长协锁定确定性需求 对四季度营收保持信心",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-17",
-      "url": "https://www.21jingji.com/article/20261117/herald/8ff53ee2e1783b31b66967c6cf8fa927.html"
+      "date": "2026-11-18",
+      "url": "https://www.21jingji.com/article/20261119/68e78ecea7ba3bd4ea35999b69f1b9be.html"
     },
     {
-      "id": "https://post.smzdm.com/p/ak83o978/",
-      "title": "李沐新身份：出任硅谷初创Aimotion联创兼CTO，去产业里造世界模型",
-      "summary": "作者｜蒸蒸**｜zz@pingwest.com近日，总部位于硅谷的 Aimotion 宣布，知名 AI 科学家李沐出任公司联合创始人兼 CTO，主导下一代产业级 AI 技术体系建设。李沐将继续担任 B......",
+      "id": "https://www.bjnews.com.cn/detail/1794992783129458.html",
+      "title": "小螺号｜不再靠翻跟头出圈！人形机器人迎来统一评价语言",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-18",
+      "url": "https://www.bjnews.com.cn/detail/1794992783129458.html"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261119/cdcce473b09fa891bf8ab1e0f80ec1ce.html",
+      "title": "APEC大使访谈：亚太如何寻找合作新支点？",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-18",
+      "url": "https://www.21jingji.com/article/20261119/cdcce473b09fa891bf8ab1e0f80ec1ce.html"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/1119/1096540.shtml",
+      "title": "菱势累计销量突破10万辆 五菱新能源走完第一个五年周期",
+      "summary": "NewsData报道",
+      "source": "Eeo",
+      "date": "2026-11-18",
+      "url": "http://www.eeo.com.cn/2026/1119/1096540.shtml"
+    },
+    {
+      "id": "https://www.prnewswire.com/news-releases/xian-gei-hai-zi-men-2026-nian-los-angeles-auto-show-rang-qin-zi-huan-le-jia-su-qi-cheng--816005568.html",
+      "title": "献给孩子们：2026 年 LOS ANGELES AUTO SHOW，让亲子欢乐加速启程",
+      "summary": "从开幕当天 Blippi 和 Meekah 的特别亮相，到飞梭赛车、可爱狗狗、儿童专属冒险、赛车模拟器、游戏、收藏品及创意体验，2026 年 Los Angeles Auto Show 将带来连续 10 天价格亲民的亲子乐趣。所有活动均包含在门票费用内，未满 6 岁儿童免费入场。 洛杉矶2026年11月18日 /美通社/ -- 由 Chevron with Techron® 赞助的 Los Ang...",
+      "source": "Cision",
+      "date": "2026-11-18",
+      "url": "https://www.prnewswire.com/news-releases/xian-gei-hai-zi-men-2026-nian-los-angeles-auto-show-rang-qin-zi-huan-le-jia-su-qi-cheng--816005568.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a3m48xg5/",
+      "title": "原厂红白涂装+越野配置，烈马大海道版比自己改省在哪",
+      "summary": "11月18日，2027款福特烈马实车亮相，大海道版与荒地版两款特别车型同台。真正的看点在红身白顶之下：据实车报道，大海道版把35英寸轮胎、FOX氮气减震、可断开防倾杆这套越野改装圈的“标准三件套”全部......",
       "source": "Smzdm",
+      "date": "2026-11-18",
+      "url": "https://post.smzdm.com/p/a3m48xg5/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1795001841129634.html",
+      "title": "视频丨无人驾驶的河面“扫地机器人”已在北京城区规模化上岗",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-18",
+      "url": "https://www.bjnews.com.cn/detail/1795001841129634.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7zkm4p/",
+      "title": "拆顶棚敞篷+850mm涉水，烈马大海道版能覆盖哪些越野场景",
+      "summary": "11月18日，2027款福特烈马实车亮相，本次实拍包含大海道版与荒地版两款车型。新增的大海道版，最直观的变化是顶棚支持拆卸，车辆可以切换成敞篷状态。先把结论说清楚：拆顶棚和涉水叠在一起的这套硬件，覆盖......",
+      "source": "Smzdm",
+      "date": "2026-11-18",
+      "url": "https://post.smzdm.com/p/ad7zkm4p/"
+    },
+    {
+      "id": "https://www.solidot.org/story?sid=85926",
+      "title": "特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元",
+      "summary": "特斯拉宣布以 3 万美元向特选客户出售无人驾驶汽车 Cybercab，然后每月必须支付 299 美元否则汽车不会启动。Cybercab 类似 Waymo 旗下的无人驾驶出租车，没有方向盘也没有刹车踏板，但不同的是 Waymo 的汽车提供的网约车服务，而特斯拉计划将其提供给少许客户。分析师认为这类似花 3 万美元买下一个特许经营权。特斯拉称，如果 Cybercab 车主未能按时足额缴纳费用，汽车会停...",
+      "source": "Solidot_Org",
+      "date": "2026-11-18",
+      "url": "https://www.solidot.org/story?sid=85926"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwd8z64/",
+      "title": "零跑D系OTA全面开推：苹果钥匙并非全系可用，这些日常变化更值得用",
+      "summary": "11月18日，零跑汽车宣布D系车型（D19、D99）新一轮OTA即日起在全国陆续推送。官方把这次升级拆成语音交互、数字钥匙、导航出行、辅助驾驶、智能座舱、舒适便利、安全与隐私七大板块，苹果数字钥匙是其中最出圈的一项，而真正影响日常用车的，是语音、导航补能......",
+      "source": "Smzdm",
+      "date": "2026-11-18",
+      "url": "https://post.smzdm.com/p/awwd8z64/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgdlxl7/",
+      "title": "为什么不喜欢摩托车：一些记忆碎片",
+      "summary": "省流版：因为田间地头摔倒过、秋冬之交被雨水淋过，所以对摩托车没有好感。初中时候骑的就是这种125摩托给老婆买了小三轮之后，老婆为了防止不能骑小三轮，专门考了D照（4600元给老婆孩子买的宝宝巴士（小三轮）_电动车_什么值得买），有了D照之后，她一直跃跃欲......",
+      "source": "Smzdm",
+      "date": "2026-11-18",
+      "url": "https://post.smzdm.com/p/avgdlxl7/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1794989478168646.html",
+      "title": "对话上汽大众傅强：研发提速不能降低验证底线",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-18",
+      "url": "https://www.bjnews.com.cn/detail/1794989478168646.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7z75vz/",
+      "title": "这个时代，需要比亚迪，更需要王传福",
+      "summary": "这个时代，需要比亚迪，更需要王传福导言：从王传福、董明珠、张雪三个人身上，看见中国实业同一种底色一次调研途中，王传福遇到一场婚礼。他没有让人清场，也没有从正门走过，而是带着随行的人绕到侧门，安静地离开......",
+      "source": "Smzdm",
+      "date": "2026-11-18",
+      "url": "https://post.smzdm.com/p/ad7z75vz/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomq2vd7/",
+      "title": "第2000台徐工新能源挖掘机交付：800度电池 四枪快充1.5小时充满",
+      "summary": "快科技11月18日消息，徐工全球首条新能源挖掘机智能装配线正式投产。同日，徐工第2000台新能源挖掘机完成交付，交付机型为纯电动挖掘机XE380EV。这条产线设在徐工挖掘机械智能制造基地，将工业机理模......",
+      "source": "Smzdm",
+      "date": "2026-11-18",
+      "url": "https://post.smzdm.com/p/aomq2vd7/"
+    },
+    {
+      "id": "https://www.firstpost.com/tech/waymo-suspends-freeway-rides-across-us-after-california-imposes-safety-restrictions-14060986.html",
+      "title": "Waymo suspends freeway rides across US after California imposes safety restrictions",
+      "summary": "Waymo has temporarily withdrawn its robotaxis from freeways across all 15 US markets after California regulators barred the Alphabet-owned company from operating on state highways. The decision follow...",
+      "source": "Firstpost",
+      "date": "2026-11-18",
+      "url": "https://www.firstpost.com/tech/waymo-suspends-freeway-rides-across-us-after-california-imposes-safety-restrictions-14060986.html"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/uber-momenta-start-free-trials-for-robotaxi-services-in-munich-ce785eddd98bf62c",
+      "title": "Uber, Momenta Start Free Trials for Robotaxi Services in Munich",
+      "summary": "By Jiahui Huang Ride-hailing company Uber Technologies and Chinese autonomous-driving company Momenta have begun trial operations for robotaxi services in Munich, bringing the companies closer to......",
+      "source": "MarketScreener",
+      "date": "2026-11-18",
+      "url": "https://www.marketscreener.com/news/uber-momenta-start-free-trials-for-robotaxi-services-in-munich-ce785eddd98bf62c"
+    },
+    {
+      "id": "https://www.latimes.com/business/story/2026-11-17/california-dmv-bars-waymo-from-driving-on-freeways",
+      "title": "California DMV bars Waymo from driving on freeways",
+      "summary": "Waymo's autonomous taxis can no longer operate on California's freeways due to an order from the state Department of Motor Vehicles....",
+      "source": "Los Angeles Times",
+      "date": "2026-11-18",
+      "url": "https://www.latimes.com/business/story/2026-11-17/california-dmv-bars-waymo-from-driving-on-freeways"
+    },
+    {
+      "id": "https://www.cbsnews.com/losangeles/news/waymo-robotaxis-california-dmv-freeways-autonomous-vehicles/",
+      "title": "California DMV blocks Waymo robotaxis from freeways after construction zone incidents",
+      "summary": "California's Department of Motor Vehicles has blocked Waymo autonomous vehicles from operating on state freeways following incidents involving the robotaxis driving through construction zones....",
+      "source": "CBS News",
       "date": "2026-11-17",
-      "url": "https://post.smzdm.com/p/ak83o978/"
+      "url": "https://www.cbsnews.com/losangeles/news/waymo-robotaxis-california-dmv-freeways-autonomous-vehicles/"
     },
     {
       "id": "https://www.cnbctv18.com/technology/can-mapless-autonomous-vehicles-finally-make-self-driving-transport-more-practical-20034727.htm",
@@ -161,60 +262,12 @@
       "url": "https://www.firstpost.com/tech/teslas-cybercab-goes-up-for-personal-sale-but-owners-must-pay-299-monthly-14060182.html"
     },
     {
-      "id": "https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11",
-      "title": "Making Autonomous War Robots Has Challenges Self-Driving Cars Don't",
-      "summary": "A chaotic battlefield is very different to city streets, so companies making war robots have to design for a lack of roads and rules and amid chaos....",
-      "source": "Business Insider",
-      "date": "2026-11-15",
-      "url": "https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/12/tmt-newswire/pr-newswire/tier-iv-and-shunan-bulk-terminal-collaborate-to-automate-transportation-using-an-autonomous-dump-truck-targeting-driverless-operations-by-the-end-of-2028/2468043",
-      "title": "TIER IV and Shunan Bulk Terminal collaborate to automate transportation using an autonomous dump truck, targeting driverless operations by the end of 2028",
-      "summary": "**media[1303834]**TOKYO, Nov. 12, 2026 /PRNewswire/ -- TIER IV, Inc., the pioneering force behind open-source software for autonomous driving, and Shunan Bulk Terminal Co., Ltd., a bulk cargo handling...",
-      "source": "The Manila Times",
-      "date": "2026-11-12",
-      "url": "https://www.manilatimes.net/2026/11/12/tmt-newswire/pr-newswire/tier-iv-and-shunan-bulk-terminal-collaborate-to-automate-transportation-using-an-autonomous-dump-truck-targeting-driverless-operations-by-the-end-of-2028/2468043"
-    },
-    {
-      "id": "https://www.bgr.com/2308666/south-korea-arrest-tesla-drivers-using-fsd-mod/",
-      "title": "South Korea Is Cracking Down On Tesla Users Using This Dangerous Mod",
-      "summary": "A Dutch developer made a program on GitHub that unlocks FSD in regions where autonomous driving isn't legal yet, and South Korea has arrested 80 users of it....",
-      "source": "BGR",
-      "date": "2026-11-11",
-      "url": "https://www.bgr.com/2308666/south-korea-arrest-tesla-drivers-using-fsd-mod/"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/metalenz-acquires-pxe-imaging-expanding-its-perception-platform-to-bring-new-insights-to-ai/2467521",
-      "title": "Metalenz Acquires PxE Imaging, Expanding Its Perception Platform to Bring New Insights to AI",
-      "summary": "Acquisition expands Metalenz's addressable applications across NIR and visible, leverages established supply chainPxE’s method for creating color images brings 2.5x more light to the sensor while capt...",
-      "source": "The Manila Times",
-      "date": "2026-11-11",
-      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/metalenz-acquires-pxe-imaging-expanding-its-perception-platform-to-bring-new-insights-to-ai/2467521"
-    },
-    {
-      "id": "https://www.forbesindia.com/business/automobile/mercedes-bets-on-indias-autonomous-driving-future-article/3000358",
-      "title": "Mercedes bets on India's autonomous driving future",
-      "summary": "Group CTO Jörg Burzer says tech-loving Indians are keen to explore the carmaker’s innovations; wants India R&D centre to play a larger role globally in physical AI...",
-      "source": "Forbes India",
-      "date": "2026-11-11",
-      "url": "https://www.forbesindia.com/business/automobile/mercedes-bets-on-indias-autonomous-driving-future-article/3000358"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/tier-iv-unveils-end-to-end-autonomous-driving-adaptable-to-map-information-and-sensor-configurations/2467229",
-      "title": "TIER IV unveils end-to-end autonomous driving adaptable to map information and sensor configurations",
-      "summary": "**media[1302160]**Multiple open-source AI models are available with Autoware...",
-      "source": "The Manila Times",
-      "date": "2026-11-11",
-      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/tier-iv-unveils-end-to-end-autonomous-driving-adaptable-to-map-information-and-sensor-configurations/2467229"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951",
-      "title": "Senior Auto: Delivering Reliable Autonomous Heavy-Duty Transport Services Worldwide",
-      "summary": "SHANGHAI, Nov. 10, 2026 /PRNewswire/ -- Senior Auto signed a strategic cooperation framework agreement with the Eastern Partnership Business Council and Taiji Zond LLC to advance autonomous driving an...",
-      "source": "The Manila Times",
-      "date": "2026-11-10",
-      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/senior-auto-delivering-reliable-autonomous-heavy-duty-transport-services-worldwide/2465951"
+      "id": "https://www.perthnow.com.au/lifestyle/motoring/xpeng-says-chinese-customers-use-its-tesla-fsd-rival-for-most-of-their-driving-c-23171424",
+      "title": "Xpeng says Chinese customers use its Tesla FSD rival for most of their driving",
+      "summary": "Xpeng plans to bring its Tesla Full Self-Driving rival to Australia in 2027, and says it already accounts for more than half its customers’ driving distance in China....",
+      "source": "PerthNow",
+      "date": "2026-11-16",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/xpeng-says-chinese-customers-use-its-tesla-fsd-rival-for-most-of-their-driving-c-23171424"
     }
   ]
 }
