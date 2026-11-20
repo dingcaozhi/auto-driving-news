@@ -1,217 +1,156 @@
 {
-  "lastUpdated": "2026-11-19 06:59:05",
-  "totalCount": 40,
+  "lastUpdated": "2026-11-20 06:51:47",
+  "totalCount": 23,
   "sources": {
-    "Bilibili": 5,
-    "Smm_Cn": 1,
+    "Smzdm": 10,
+    "Bjnews": 2,
     "Sina_Cn": 1,
-    "Smzdm": 7,
-    "21Jingji": 3,
-    "Bjnews": 3,
-    "Eeo": 1,
-    "Cision": 1,
-    "Solidot_Org": 1,
+    "Chinanews": 1,
+    "A199It": 1,
+    "Boulder Daily Camera": 1,
+    "The Guardian": 1,
     "Firstpost": 2,
     "MarketScreener": 1,
-    "Los Angeles Times": 1,
     "CBS News": 1,
     "CNBC TV18": 1,
-    "PerthNow": 1,
-    "The Verge": 1,
-    "SlashGear": 1,
-    "Business Insider": 1,
-    "News18": 1,
-    "Free Press Journal": 1,
-    "The Manila Times": 1,
-    "BGR": 1,
-    "The Straits Times": 1,
-    "The Economic Times": 1,
-    "TechRadar": 1
+    "Business Insider": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/aomq3zdn/",
+      "title": "全球首款量产折叠方向盘开售：行车不能折、只有32.99万顶配给，明年1月才交付",
+      "summary": "11月19日晚，方程豹钛9正式上市：四驱Max版27.99万元、四驱Ultra版29.99万元、折叠智舱版32.99万元，符合置换条件可再降6000元，豹5先锋车主还能再减3万元。发布会真正的主角，是......",
+      "source": "Smzdm",
       "date": "2026-11-19",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
+      "url": "https://post.smzdm.com/p/aomq3zdn/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Eusr6yE2S",
-      "title": "【B站】聊几个话题，英伟达，腾讯阿里，L3自动驾驶",
-      "summary": "准备内容花了点时间，时效性不强，明天再看也可以的...",
-      "source": "Bilibili",
+      "id": "https://www.bjnews.com.cn/detail/1795082795129343.html",
+      "title": "智能座舱体验影响产品口碑——2026华舆奖中国典范智能座舱评选结果公布",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
       "date": "2026-11-19",
-      "url": "https://www.bilibili.com/video/BV1Eusr6yE2S"
+      "url": "https://www.bjnews.com.cn/detail/1795082795129343.html"
     },
     {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/al39k6ve/",
+      "title": "马斯克24小时中国行飞上海，提到的好消息和用户有关吗",
+      "summary": "11月19日晚，特斯拉副总裁陶琳用一条微博为马斯克的24小时中国行收尾：他专程从深圳飞到上海，与工厂员工面对面分享好消息——辅助驾驶技术进展一日千里、人形机器人快速提升各项技能，上海超级工厂的制造实力和中国团队的执行力都得到赞赏。翻译成用户视角：这三条\"......",
+      "source": "Smzdm",
       "date": "2026-11-19",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
+      "url": "https://post.smzdm.com/p/al39k6ve/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11HMD6zEjJ",
-      "title": "【B站】《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-19",
-      "url": "https://www.bilibili.com/video/BV11HMD6zEjJ"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV16nsP6rEv2",
-      "title": "【B站】辅助驾驶进阶 续航有升级 试驾新款极狐阿尔法S5",
-      "summary": "新款阿尔法S5迎来两大核心升级，首次搭载激光雷达、换装华为辅助驾驶方案，续航门槛提升至650km......",
-      "source": "Bilibili",
-      "date": "2026-11-19",
-      "url": "https://www.bilibili.com/video/BV16nsP6rEv2"
-    },
-    {
-      "id": "https://news.smm.cn/news/YSIICI4IBAAUBVXXJQMSHOCH2KGPUMTGPNGHS5Y",
-      "title": "约41标吨！韶关市大宝山资源综合利用有限公司钨精矿（白钨）竞价公告",
-      "summary": "NewsData报道",
-      "source": "Smm_Cn",
-      "date": "2026-11-18",
-      "url": "https://news.smm.cn/news/YSIICI4IBAAUBVXXJQMSHOCH2KGPUMTGPNGHS5Y"
-    },
-    {
-      "id": "https://news.sina.cn/2026-11-19/detail-inizesyv1417902.d.html?vt=4",
-      "title": "“生死存亡”，腾讯算账",
-      "summary": "“现在进行的智能革命如果不投入拥抱，就是被颠覆。这是一个生死存亡的问题。”近日腾讯董事会主席兼CEO马化腾与核心高管在全体员工线上对话时，谈及不少有关挑战相关问题。 11月18日腾讯发布的2026年三季度财报，给公司面临的危与机算了笔账。三季度腾讯收入约207...",
+      "id": "https://news.sina.cn/gn/2026-11-20/detail-iniziaft5984555.d.html?vt=4",
+      "title": "聚焦APEC｜亚太经合组织互联互通蓝图",
+      "summary": "来源：央视网 新华社深圳11月19日电 亚太经合组织互联互通蓝图 我们强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；我们以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进...",
       "source": "Sina_Cn",
-      "date": "2026-11-18",
-      "url": "https://news.sina.cn/2026-11-19/detail-inizesyv1417902.d.html?vt=4"
+      "date": "2026-11-19",
+      "url": "https://news.sina.cn/gn/2026-11-20/detail-iniziaft5984555.d.html?vt=4"
     },
     {
-      "id": "https://post.smzdm.com/p/a03zwz2r/",
-      "title": "充电不到3小时穿越欧洲：宝马i3这条新纪录，靠的不是400千瓦",
-      "summary": "2026年11月，一台标准量产状态的新世代宝马 i3 50 xDrive 在欧洲泛欧挑战（Paneuropeana）中创造了新的长途续航与高效率充电纪录。这次挑战从挪威马格尔岛的北角出发，抵达西班牙安达卢西亚的塔里法，穿越8个国家、途经高速与乡间公路，总......",
+      "id": "https://post.smzdm.com/p/ad7z0nnd/",
+      "title": "折叠方向盘收起来后，主驾休息体验到底变了多少",
+      "summary": "11月19日晚间，方程豹旗舰大六座SUV钛9正式上市，共推出3款车型，售价区间为27.99-32.99万元，能折叠收纳的方向盘只搭载在售价32.99万元的顶配折叠智舱版上。对主驾休息体验来说，折叠之后......",
       "source": "Smzdm",
-      "date": "2026-11-18",
-      "url": "https://post.smzdm.com/p/a03zwz2r/"
+      "date": "2026-11-19",
+      "url": "https://post.smzdm.com/p/ad7z0nnd/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261119/50c57d07254b8e6593edf008e1dd6824.html",
-      "title": "英特尔、小米退出，纳芯微4.87亿元押注一家未盈利标的",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-18",
-      "url": "https://www.21jingji.com/article/20261119/50c57d07254b8e6593edf008e1dd6824.html"
+      "id": "https://post.smzdm.com/p/ae652eek/",
+      "title": "多花几万选折叠智舱版，哪些人真的用得上",
+      "summary": "登上热榜的“折叠智舱版”，是方程豹11月19日夜间上市的钛9：四驱Max版27.99万元、四驱Ultra版29.99万元、折叠智舱版32.99万元，顶配比Ultra贵整整3万元，置换后三档为27.39......",
+      "source": "Smzdm",
+      "date": "2026-11-19",
+      "url": "https://post.smzdm.com/p/ae652eek/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261119/68e78ecea7ba3bd4ea35999b69f1b9be.html",
-      "title": "长鑫业绩会划重点：长协锁定确定性需求 对四季度营收保持信心",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-18",
-      "url": "https://www.21jingji.com/article/20261119/68e78ecea7ba3bd4ea35999b69f1b9be.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1794992783129458.html",
-      "title": "小螺号｜不再靠翻跟头出圈！人形机器人迎来统一评价语言",
+      "id": "https://www.bjnews.com.cn/detail/1795099865129585.html",
+      "title": "亚太经合组织互联互通蓝图",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-11-18",
-      "url": "https://www.bjnews.com.cn/detail/1794992783129458.html"
+      "date": "2026-11-19",
+      "url": "https://www.bjnews.com.cn/detail/1795099865129585.html"
     },
     {
-      "id": "https://www.21jingji.com/article/20261119/cdcce473b09fa891bf8ab1e0f80ec1ce.html",
-      "title": "APEC大使访谈：亚太如何寻找合作新支点？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-18",
-      "url": "https://www.21jingji.com/article/20261119/cdcce473b09fa891bf8ab1e0f80ec1ce.html"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/1119/1096540.shtml",
-      "title": "菱势累计销量突破10万辆 五菱新能源走完第一个五年周期",
-      "summary": "NewsData报道",
-      "source": "Eeo",
-      "date": "2026-11-18",
-      "url": "http://www.eeo.com.cn/2026/1119/1096540.shtml"
-    },
-    {
-      "id": "https://www.prnewswire.com/news-releases/xian-gei-hai-zi-men-2026-nian-los-angeles-auto-show-rang-qin-zi-huan-le-jia-su-qi-cheng--816005568.html",
-      "title": "献给孩子们：2026 年 LOS ANGELES AUTO SHOW，让亲子欢乐加速启程",
-      "summary": "从开幕当天 Blippi 和 Meekah 的特别亮相，到飞梭赛车、可爱狗狗、儿童专属冒险、赛车模拟器、游戏、收藏品及创意体验，2026 年 Los Angeles Auto Show 将带来连续 10 天价格亲民的亲子乐趣。所有活动均包含在门票费用内，未满 6 岁儿童免费入场。 洛杉矶2026年11月18日 /美通社/ -- 由 Chevron with Techron® 赞助的 Los Ang...",
-      "source": "Cision",
-      "date": "2026-11-18",
-      "url": "https://www.prnewswire.com/news-releases/xian-gei-hai-zi-men-2026-nian-los-angeles-auto-show-rang-qin-zi-huan-le-jia-su-qi-cheng--816005568.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3m48xg5/",
-      "title": "原厂红白涂装+越野配置，烈马大海道版比自己改省在哪",
-      "summary": "11月18日，2027款福特烈马实车亮相，大海道版与荒地版两款特别车型同台。真正的看点在红身白顶之下：据实车报道，大海道版把35英寸轮胎、FOX氮气减震、可断开防倾杆这套越野改装圈的“标准三件套”全部......",
+      "id": "https://post.smzdm.com/p/arzdmvmg/",
+      "title": "折叠方向盘量产落地，离高阶智驾“无方向盘座舱”还有多远",
+      "summary": "11月19日，方程豹钛9正式上市，售价27.99万元起，顶配“折叠智舱”第一次把量产折叠方向盘带进4S店。官方的说法是：方向盘可完成0°到180°大角度折叠，10秒内收纳完毕，高频启停下折叠寿命达到8......",
       "source": "Smzdm",
-      "date": "2026-11-18",
-      "url": "https://post.smzdm.com/p/a3m48xg5/"
+      "date": "2026-11-19",
+      "url": "https://post.smzdm.com/p/arzdmvmg/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1795001841129634.html",
-      "title": "视频丨无人驾驶的河面“扫地机器人”已在北京城区规模化上岗",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-18",
-      "url": "https://www.bjnews.com.cn/detail/1795001841129634.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7zkm4p/",
-      "title": "拆顶棚敞篷+850mm涉水，烈马大海道版能覆盖哪些越野场景",
-      "summary": "11月18日，2027款福特烈马实车亮相，本次实拍包含大海道版与荒地版两款车型。新增的大海道版，最直观的变化是顶棚支持拆卸，车辆可以切换成敞篷状态。先把结论说清楚：拆顶棚和涉水叠在一起的这套硬件，覆盖......",
+      "id": "https://post.smzdm.com/p/al39kw00/",
+      "title": "多花几万上折叠智舱版值不值？钛9版本差异和适配人群",
+      "summary": "11月19日，方程豹钛9正式上市，四驱Max版27.99万元、四驱Ultra版29.99万元、折叠智舱版32.99万元，置换惊喜价27.39万至32.39万元。题目里\"多花几万\"，实际要拆成两段来回答......",
       "source": "Smzdm",
-      "date": "2026-11-18",
-      "url": "https://post.smzdm.com/p/ad7zkm4p/"
+      "date": "2026-11-19",
+      "url": "https://post.smzdm.com/p/al39kw00/"
     },
     {
-      "id": "https://www.solidot.org/story?sid=85926",
-      "title": "特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元",
-      "summary": "特斯拉宣布以 3 万美元向特选客户出售无人驾驶汽车 Cybercab，然后每月必须支付 299 美元否则汽车不会启动。Cybercab 类似 Waymo 旗下的无人驾驶出租车，没有方向盘也没有刹车踏板，但不同的是 Waymo 的汽车提供的网约车服务，而特斯拉计划将其提供给少许客户。分析师认为这类似花 3 万美元买下一个特许经营权。特斯拉称，如果 Cybercab 车主未能按时足额缴纳费用，汽车会停...",
-      "source": "Solidot_Org",
-      "date": "2026-11-18",
-      "url": "https://www.solidot.org/story?sid=85926"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwd8z64/",
-      "title": "零跑D系OTA全面开推：苹果钥匙并非全系可用，这些日常变化更值得用",
-      "summary": "11月18日，零跑汽车宣布D系车型（D19、D99）新一轮OTA即日起在全国陆续推送。官方把这次升级拆成语音交互、数字钥匙、导航出行、辅助驾驶、智能座舱、舒适便利、安全与隐私七大板块，苹果数字钥匙是其中最出圈的一项，而真正影响日常用车的，是语音、导航补能......",
+      "id": "https://post.smzdm.com/p/avgd0zvm/",
+      "title": "比亚迪折叠方向盘量产上车：停车后多出25厘米，但主驾\"躺平\"有三个前提",
+      "summary": "11月19日晚间，比亚迪正式发布折叠方向盘，首搭车型是当晚上市的方程豹钛9。用户最关心的\"主驾能不能躺平休息\"，答案是接近躺平，但躺不彻底，且有三个前提：只有顶配折叠智舱版带折叠方向盘、车辆停稳后才能折叠、最大躺角是165°而不是180°。微博25厘米怎......",
       "source": "Smzdm",
-      "date": "2026-11-18",
-      "url": "https://post.smzdm.com/p/awwd8z64/"
+      "date": "2026-11-19",
+      "url": "https://post.smzdm.com/p/avgd0zvm/"
     },
     {
-      "id": "https://post.smzdm.com/p/avgdlxl7/",
-      "title": "为什么不喜欢摩托车：一些记忆碎片",
-      "summary": "省流版：因为田间地头摔倒过、秋冬之交被雨水淋过，所以对摩托车没有好感。初中时候骑的就是这种125摩托给老婆买了小三轮之后，老婆为了防止不能骑小三轮，专门考了D照（4600元给老婆孩子买的宝宝巴士（小三轮）_电动车_什么值得买），有了D照之后，她一直跃跃欲......",
+      "id": "https://post.smzdm.com/p/aqrzv9k2/",
+      "title": "折叠方向盘开车时能收吗？安全冗余和法规限制一次说清",
+      "summary": "开车时不能收。11月19日晚间，比亚迪发布年内第三个\"黑科技\"折叠智舱，核心看点就是方向盘可以折叠收纳，首搭方程豹钛9；按照官方演示口径，这套折叠方向盘\"能够边泊车边折叠，只需要10秒钟\"。折叠不是给\"边开车边撒手\"留的口子：这套动作设置了严格的行驶安全......",
       "source": "Smzdm",
-      "date": "2026-11-18",
-      "url": "https://post.smzdm.com/p/avgdlxl7/"
+      "date": "2026-11-19",
+      "url": "https://post.smzdm.com/p/aqrzv9k2/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1794989478168646.html",
-      "title": "对话上汽大众傅强：研发提速不能降低验证底线",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-18",
-      "url": "https://www.bjnews.com.cn/detail/1794989478168646.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7z75vz/",
-      "title": "这个时代，需要比亚迪，更需要王传福",
-      "summary": "这个时代，需要比亚迪，更需要王传福导言：从王传福、董明珠、张雪三个人身上，看见中国实业同一种底色一次调研途中，王传福遇到一场婚礼。他没有让人清场，也没有从正门走过，而是带着随行的人绕到侧门，安静地离开......",
+      "id": "https://post.smzdm.com/p/axkdn2o9/",
+      "title": "3万车损不要了！风筝线割车女车主放弃索赔 放飞者身份特殊",
+      "summary": "快科技11月20日消息，据报道，此前引发广泛关注的“杭州女子驾车遭风筝线割顶”事件迎来后续，经过交警全力排查和视频追溯，涉事的风筝和放风筝的人已经找到，车主余女士考虑到对方是特殊人群，决定放弃索赔。据......",
       "source": "Smzdm",
-      "date": "2026-11-18",
-      "url": "https://post.smzdm.com/p/ad7z75vz/"
+      "date": "2026-11-19",
+      "url": "https://post.smzdm.com/p/axkdn2o9/"
     },
     {
-      "id": "https://post.smzdm.com/p/aomq2vd7/",
-      "title": "第2000台徐工新能源挖掘机交付：800度电池 四枪快充1.5小时充满",
-      "summary": "快科技11月18日消息，徐工全球首条新能源挖掘机智能装配线正式投产。同日，徐工第2000台新能源挖掘机完成交付，交付机型为纯电动挖掘机XE380EV。这条产线设在徐工挖掘机械智能制造基地，将工业机理模......",
+      "id": "https://post.smzdm.com/p/a95432x0/",
+      "title": "折叠方向盘首搭方程豹钛9，普通比亚迪车主以后能用上吗？",
+      "summary": "11月19日晚间，比亚迪正式发布折叠方向盘，首搭车型是当晚上市的方程豹钛9。标题里的问题可以直接给出答案：现有车辆无法后装这套方向盘，眼下只有购买32.99万元的钛9折叠智舱版才能体验到它；它未来会不会铺到比亚迪的王朝、海洋车型上，官方尚未公布，真正的门......",
       "source": "Smzdm",
+      "date": "2026-11-19",
+      "url": "https://post.smzdm.com/p/a95432x0/"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml",
+      "title": "（深圳APEC）亚太经合组织互联互通蓝图发布",
+      "summary": "中新社深圳11月19日电 亚太经合组织互联互通蓝图19日发布。蓝图强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。...",
+      "source": "Chinanews",
+      "date": "2026-11-19",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml"
+    },
+    {
+      "id": "http://www.199it.com/archives/1847350.html",
+      "title": "CMR：2026年第二季度印度电动汽车同比增长102%",
+      "summary": "根据CyberMedia Research（CMR）发布的2026年第二季度乘用车市场报告，印度电动汽车（EPV）市场在2026年第二季度表现突出，同比增长102%，显著超越整体乘用车市场的26%增速。...",
+      "source": "A199It",
+      "date": "2026-11-19",
+      "url": "http://www.199it.com/archives/1847350.html"
+    },
+    {
+      "id": "https://www.dailycamera.com/2026/11/19/waymo-driverless-vehicles-expansion-tickets/",
+      "title": "In Denver, Waymo soon will be joined by self-driving trucks, vehicles",
+      "summary": "Denver will soon have more autonomous vehicles on its roads as Waymo expands -- despite some friction on the roads -- and other self-driving cars enter the market....",
+      "source": "Boulder Daily Camera",
+      "date": "2026-11-19",
+      "url": "https://www.dailycamera.com/2026/11/19/waymo-driverless-vehicles-expansion-tickets/"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+      "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+      "summary": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways...",
+      "source": "The Guardian",
       "date": "2026-11-18",
-      "url": "https://post.smzdm.com/p/aomq2vd7/"
+      "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"
     },
     {
       "id": "https://www.firstpost.com/tech/waymo-suspends-freeway-rides-across-us-after-california-imposes-safety-restrictions-14060986.html",
@@ -228,14 +167,6 @@
       "source": "MarketScreener",
       "date": "2026-11-18",
       "url": "https://www.marketscreener.com/news/uber-momenta-start-free-trials-for-robotaxi-services-in-munich-ce785eddd98bf62c"
-    },
-    {
-      "id": "https://www.latimes.com/business/story/2026-11-17/california-dmv-bars-waymo-from-driving-on-freeways",
-      "title": "California DMV bars Waymo from driving on freeways",
-      "summary": "Waymo's autonomous taxis can no longer operate on California's freeways due to an order from the state Department of Motor Vehicles....",
-      "source": "Los Angeles Times",
-      "date": "2026-11-18",
-      "url": "https://www.latimes.com/business/story/2026-11-17/california-dmv-bars-waymo-from-driving-on-freeways"
     },
     {
       "id": "https://www.cbsnews.com/losangeles/news/waymo-robotaxis-california-dmv-freeways-autonomous-vehicles/",
@@ -262,12 +193,12 @@
       "url": "https://www.firstpost.com/tech/teslas-cybercab-goes-up-for-personal-sale-but-owners-must-pay-299-monthly-14060182.html"
     },
     {
-      "id": "https://www.perthnow.com.au/lifestyle/motoring/xpeng-says-chinese-customers-use-its-tesla-fsd-rival-for-most-of-their-driving-c-23171424",
-      "title": "Xpeng says Chinese customers use its Tesla FSD rival for most of their driving",
-      "summary": "Xpeng plans to bring its Tesla Full Self-Driving rival to Australia in 2027, and says it already accounts for more than half its customers’ driving distance in China....",
-      "source": "PerthNow",
-      "date": "2026-11-16",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/xpeng-says-chinese-customers-use-its-tesla-fsd-rival-for-most-of-their-driving-c-23171424"
+      "id": "https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11",
+      "title": "Making Autonomous War Robots Has Challenges Self-Driving Cars Don't",
+      "summary": "A chaotic battlefield is very different to city streets, so companies making war robots have to design for a lack of roads and rules and amid chaos....",
+      "source": "Business Insider",
+      "date": "2026-11-15",
+      "url": "https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11"
     }
   ]
 }
