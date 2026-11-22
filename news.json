@@ -1,189 +1,208 @@
 {
-  "lastUpdated": "2026-11-21 06:46:21",
-  "totalCount": 30,
+  "lastUpdated": "2026-11-22 06:17:22",
+  "totalCount": 39,
   "sources": {
     "Bilibili": 5,
-    "Sina_Cn": 1,
-    "Smzdm": 10,
-    "Bjnews": 4,
-    "21Jingji": 1,
+    "Smzdm": 11,
+    "Forbeschina": 1,
+    "21Jingji": 2,
+    "Ithome": 1,
+    "Rfi_Fr": 1,
+    "EUROPE SAYS": 1,
     "The Tribune": 1,
     "ANI (Asian News International)": 1,
+    "The Korea Times": 1,
     "Boulder Daily Camera": 1,
     "The Guardian": 1,
-    "Firstpost": 2,
+    "Firstpost": 1,
     "MarketScreener": 1,
     "CBS News": 1,
-    "CNBC TV18": 1
+    "CNBC TV18": 1,
+    "PerthNow": 1,
+    "The Verge": 1,
+    "SlashGear": 1,
+    "News18": 1,
+    "Free Press Journal": 1,
+    "BGR": 1,
+    "The Straits Times": 1,
+    "The Economic Times": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1H4ypzFEVd",
-      "title": "【B站】余承东：L3自动驾驶来了以后 开车是可以睡觉的，别睡死过去就行",
-      "summary": "B站视频",
+      "id": "https://www.bilibili.com/video/BV1EQs86jE2V",
+      "title": "【B站】【GTA6优化教程】下车辆不熄火/自动驾驶/驾车射击 游戏设置推荐 特殊玩法小技巧 游戏体验 保姆级讲解",
+      "summary": "【GTA6优化教程】\n游戏设置推荐 \n改善游戏体验 \n特殊玩法小技巧 \n保姆级讲解~...",
       "source": "Bilibili",
-      "date": "2026-11-21",
-      "url": "https://www.bilibili.com/video/BV1H4ypzFEVd"
+      "date": "2026-11-22",
+      "url": "https://www.bilibili.com/video/BV1EQs86jE2V"
     },
     {
       "id": "https://www.bilibili.com/video/BV13osx64EhN",
       "title": "【B站】【GTA6】自动驾驶开启方法",
       "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "url": "https://www.bilibili.com/video/BV13osx64EhN"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1iosa6DEpg",
-      "title": "【B站】一期看懂自动驾驶L0-L5",
-      "summary": "L0到L5分别代表了什么？\nL4比L3更简单？\n车企为什么会先给出L4的落地计划？\nL1、L2又是什么？现阶段该怎么选？\n一起看懂自动驾驶和消费者到底有什么关系。\n欢迎点赞关注评论转发，感谢支持。...",
+      "id": "https://www.bilibili.com/video/BV1sGy8zQE6n",
+      "title": "【B站】【采风】L3自动驾驶开车可以睡觉引争议",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-11-21",
-      "url": "https://www.bilibili.com/video/BV1iosa6DEpg"
+      "date": "2026-11-22",
+      "url": "https://www.bilibili.com/video/BV1sGy8zQE6n"
     },
     {
-      "id": "https://www.bilibili.com/video/BV11JyszrEAM",
-      "title": "【B站】余承东澄清L3自动驾驶开车可睡觉，开发布会还是谨慎发言",
-      "summary": "有人会说，人家说的就是未来L3可以睡觉，听不懂是你的问题。那我我真得说一嘴，即使未来L3功能合规开放，其法定要求仍是驾驶员 “具备接管能力、及时响应接管请求”。我睡觉属于丧失接管能力的行为，违反L3的使用规则，若因未及时接管引发事故，驾驶员仍需承担相应责任，并非完全由车企兜底。开发布会还是小心谨慎为...",
+      "id": "https://www.bilibili.com/video/BV1CFyYztEQJ",
+      "title": "【B站】儿童自动驾驶车，全网打工人眼红",
+      "summary": "B站视频",
       "source": "Bilibili",
-      "date": "2026-11-21",
-      "url": "https://www.bilibili.com/video/BV11JyszrEAM"
+      "date": "2026-11-22",
+      "url": "https://www.bilibili.com/video/BV1CFyYztEQJ"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1LMsq6fEZW",
-      "title": "【B站】华为余承东：L3 自动驾驶来了以后开车是可以睡觉的，别睡死过去就行",
-      "summary": "HUAWEI.com\n 11 月 20 日，在今日的鸿蒙智行享界 V8 及星芒品牌发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东介绍，享界 V8 率先开启全国首个 120km/h L3 自动驾驶跨城高速路测。\n\n\n\n余承东介绍，享界 V8 Ultra 与 Ultra+ 版本...",
+      "id": "https://www.bilibili.com/video/BV1V8ytzaETr",
+      "title": "【B站】GTA6汽车还能自动驾驶？怎么开？",
+      "summary": "B站视频",
       "source": "Bilibili",
+      "date": "2026-11-22",
+      "url": "https://www.bilibili.com/video/BV1V8ytzaETr"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrzlw5v/",
+      "title": "奥迪Q9首秀在即，国产全尺寸SUV用户要不要等它",
+      "summary": "11月21日，一汽奥迪官宣：11月27日开幕的2026广州车展上，奥迪首款大型豪华全尺寸SUV——Q9将完成中国首秀。这台车其实早在今年7月29日就已全球首发，按一汽奥迪销售公司执行副总经理郭永峰此前确认的口径，将以进口形式在2027年初正式引入国内销售......",
+      "source": "Smzdm",
       "date": "2026-11-21",
-      "url": "https://www.bilibili.com/video/BV1LMsq6fEZW"
+      "url": "https://post.smzdm.com/p/aqrzlw5v/"
     },
     {
-      "id": "https://news.sina.cn/2026-11-21/detail-inizmfew3857386.d.html?vt=4",
-      "title": "洗车店工人清洗半挂车罐体时中毒，1人倒下2人施救，3人全部遇难！调查报告公布",
-      "summary": "2026年3月29日19时许，江西赣州龙南市临胜洗车店工作人员在对河南省南乐县顺泰物流有限公司所属车牌号豫J1L12挂的罐式半挂车罐体进行清洗作业时，发生一起中毒窒息事故，造成3人死亡。 近日，江西省赣州市应急管理局网站公布《赣州龙南临胜洗车店“3·29”较大...",
-      "source": "Sina_Cn",
-      "date": "2026-11-20",
-      "url": "https://news.sina.cn/2026-11-21/detail-inizmfew3857386.d.html?vt=4"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3m4z7pn/",
-      "title": "理想辅助驾驶自己倒车让行，OTA 9.2推送后，车主分成两拨",
-      "summary": "这周理想车友群里传得最多的，是一段窄路会车的视频。单行线，两头都堵着，正常司机的做法要么原地等，要么找地方挪。这台车挂R挡往后倒了一下，借右侧空间让出通道，对面车过去，它再挂D走人。发视频的影总Tim......",
+      "id": "https://post.smzdm.com/p/ad7zr7oz/",
+      "title": "没人在意的实话，10万左右的方盒子SUV好看，但缺点也很明显",
+      "summary": "今天老同事来电话，让我帮忙劝一劝他儿子不要买方盒子SUV。不过，经过我和他儿子的友好沟通，他儿子已经准备提车了，老同事直言我是叛徒。说实话，方盒子SUV方方正正的造型、个性化的大灯，再加上外挂小书包和宽体轮眉，谁看了不心动？而且过去这类产品往往不便宜，如......",
       "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/a3m4z7pn/"
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/ad7zr7oz/"
     },
     {
-      "id": "https://post.smzdm.com/p/a826d007/",
-      "title": "享界V8正式上市31.98万起：增程还是纯电？真正要纠结的只有两款",
-      "summary": "11月20日，享界V8正式上市，7款车型把增程、纯电两套动力一起摆上价格表，售价31.98万-42.98万元，下定至高可享93000元购车权益，上市当天即开启首批交付。先把这道选择题的答案放在最前面：家里能装充电桩、用车以市区通勤和可规划的长途为主，优先......",
-      "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/a826d007/"
+      "id": "https://forbeschina.com/business/72413",
+      "title": "估值近百亿跻身独角兽，具身大脑公司原力无限获数千万元Pre-B轮融资",
+      "summary": "11月19日，具身大脑企业原力无限宣布完成数千万元Pre-B轮融资，杭州资本作为杭州市属国有资本投资运营平台独家出资。据悉，本轮融资将重点用于具身大脑AtomBrain研发、真实场景深耕及产业化落地。这是公司三个月内完成的第四轮融资，8月完成A轮及A+轮融资，10月获浙创投近亿元投资，11月杭州资本入局。公司目前估值接近百亿元，跻身独角兽行列。 原力无限2023年8月成立于杭州，核心产品为可兼容多...",
+      "source": "Forbeschina",
+      "date": "2026-11-21",
+      "url": "https://forbeschina.com/business/72413"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1795184349129241.html",
-      "title": "买奔驰二手车，哪个平台的车源靠谱？",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-20",
-      "url": "https://www.bjnews.com.cn/detail/1795184349129241.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/az879e0n/",
-      "title": "享界V8开启全国交付：31.98万元起发布即交车，最抢眼的L3智驾还锁在硬件里",
-      "summary": "11月20日，鸿蒙智行首款家庭智慧旗舰MPV享界V8正式上市，共推出7款车型，售价区间31.98万—42.98万元，提供增程、纯电双动力，并在上市当天开启全国交付。交车环节被直接安排进了上市当天：余承......",
-      "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/az879e0n/"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261121/3faaf612771bdf3dd085f2b10b6a92d1.html",
-      "title": "21专访丨清华大学苏世民书院院长、人工智能国际治理研究院院长薛澜：AI治理是全球公共产品",
+      "id": "https://www.21jingji.com/article/20261121/herald/9fe7b99e100c95aae2c24903058009ae.html",
+      "title": "广州一路段实施临时交通管制，持续至2027年1月3日",
       "summary": "NewsData报道",
       "source": "21Jingji",
-      "date": "2026-11-20",
-      "url": "https://www.21jingji.com/article/20261121/3faaf612771bdf3dd085f2b10b6a92d1.html"
+      "date": "2026-11-21",
+      "url": "https://www.21jingji.com/article/20261121/herald/9fe7b99e100c95aae2c24903058009ae.html"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1795180647168704.html",
-      "title": "未排查施工路段积水隐患居民摔伤，物业公司被判承担部分赔偿责任",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-20",
-      "url": "https://www.bjnews.com.cn/detail/1795180647168704.html"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1795165185129941.html",
-      "title": "科技文化双向奔赴，北京“十五五”打造科技赋能文化标杆应用场景",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-20",
-      "url": "https://www.bjnews.com.cn/detail/1795165185129941.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ak83rgkk/",
-      "title": "享界V8上市2小时大定2216台，31.98万起买家用MPV值不值",
-      "summary": "11月20日，鸿蒙智行旗下主打家庭的旗舰MPV享界V8正式上市，官方售价31.98万—42.98万元，共推出7款车型、提供纯电与增程双动力，上市当天开启交付，发布两小时后大定突破2216台。\"值不值\"......",
+      "id": "https://post.smzdm.com/p/axkdr6d3/",
+      "title": "本田新一代冠道发布，设计彻底换新，第五代混动才是大招",
+      "summary": "时隔八年，本田冠道终于迎来彻底换代，新车的量产版本预计会在广州车展上正式首发。全新冠道同样使用分离式前大灯设计，上层的LED日行灯灯组做得非常锐利，也没有简单采用一条灯带，而是由三段式灯组组成，非常有机甲感。日行灯周围是层次显著的暗光镀铬饰条，给这套科技......",
       "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/ak83rgkk/"
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/axkdr6d3/"
     },
     {
-      "id": "https://post.smzdm.com/p/apqre357/",
-      "title": "享界V8上市即交付，现在下定能拿到哪些购车权益",
-      "summary": "11月20日，鸿蒙智行享界品牌的首款家庭智慧旗舰MPV享界V8正式上市，售价31.98万至42.98万元，发布会当天北京就完成首批交付。最受关注的下定权益，官方口径很明确：2027年1月4日前下定，可......",
+      "id": "https://post.smzdm.com/p/awwdlqwm/",
+      "title": "27.99万元起，方程豹用硬实力颠覆“9系SUV”行规",
+      "summary": "2026年11月19日晚间，比亚迪方程豹品牌旗舰车型钛9正式上市。新车共推出四驱Max版、四驱Ultra版和折叠智舱版三款车型，指导价分别为27.99万元、29.99万元和32.99万元，此外，官方还......",
       "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/apqre357/"
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/awwdlqwm/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1795190973189751.html",
-      "title": "科技文化双向奔赴 北京“十五五”打造科技赋能文化标杆应用场景",
-      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-11-20",
-      "url": "https://www.bjnews.com.cn/detail/1795190973189751.html"
+      "id": "https://www.ithome.com/1/030/505.htm",
+      "title": "亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元",
+      "summary": "IT之家 11 月 21 日消息，当地时间 20 日，据《华尔街日报》报道，亚马逊对纽约市的一项劳工法案《配送保护法》（又称第 518 号提案）发起了反击。该法案将强制企业直接雇佣送货人员，而不是外包给第三方承包商。 不仅如此，亚马逊通过弹出窗口警告客户：如果该法案最终成为法律，每笔订单的配送费用或将涨价 5 美元（IT之家注：现汇率约合 33.5 元人民币）。 该法案将改变亚马逊配送司机的实际雇...",
+      "source": "Ithome",
+      "date": "2026-11-21",
+      "url": "https://www.ithome.com/1/030/505.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/ae658zeq/",
-      "title": "小鹏P7+车主退车成功：6次还是2次之争，暴露退车的真正门槛",
-      "summary": "山东济南车主贺女士的小鹏P7+在购车一年内先后出现胎压传感器等多项故障、反复进厂维修；对维修过的次数，她主张6次，小鹏方面认可的是2次。经媒体介入报道，双方于11月19日就退车问题达成一致，贺女士成功......",
+      "id": "https://post.smzdm.com/p/aggw2oxw/",
+      "title": "方程豹钛9三个版本差在哪，27.99万起选哪款更合适",
+      "summary": "11月19日，方程豹钛9正式上市，三个版本：四驱Max版27.99万元、四驱Ultra版29.99万元、折叠智舱版32.99万元，符合条件的置换惊喜价27.39万元起。在讨论怎么选之前，先纠正一个流传......",
       "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/ae658zeq/"
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/aggw2oxw/"
     },
     {
-      "id": "https://post.smzdm.com/p/axkd8rr3/",
-      "title": "方程豹折叠方向盘：开车时能折吗？哪些场景真能用",
-      "summary": "11月19日晚，方程豹钛9上市，把比亚迪宣称“全球首发量产”的折叠方向盘带进了交付环节：方向盘支持0°—180°折叠，10秒内收进仪表台、与台面齐平。演示视频刷屏的同时，被问得最多的问题是：开着开着它......",
+      "id": "https://post.smzdm.com/p/aggw2orw/",
+      "title": "30万级配折叠方向盘和线控转向，开起来和普通车有何不同",
+      "summary": "11月19日，方程豹钛9正式上市，售价27.99万起，共三个版本：Max 27.99万、Ultra 29.99万，顶配的折叠智舱版32.99万。折叠方向盘和线控转向都集中在这一个版本上，而钛9也是比亚......",
       "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/axkd8rr3/"
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/aggw2orw/"
     },
     {
-      "id": "https://post.smzdm.com/p/al39zooe/",
-      "title": "方程豹折叠方向盘引质疑：有什么用、安不安全、合不合规？",
-      "summary": "11月19日晚，比亚迪把折叠智舱随方程豹钛9一起发布，宣传视频里，方向盘在10秒内收进仪表台，主驾驶位随之空出一块完整的休息空间，这项全球首发量产的设计迅速收获一波质疑。争议聚成三类：想不出使用场景、......",
+      "id": "https://post.smzdm.com/p/anvmg54p/",
+      "title": "AI服务器抢光PCB产能，普通电子产品会被挤单吗",
+      "summary": "先说结论：普通电子产品没有被全面断供，\"挤单\"主要表现为更贵和等得更久。 AI服务器争抢的不是所有电路板，而是高多层板和少数稀缺上游材料；小家电、基础消费电子使用的4到6层板目前货源依然充足。真正的断......",
       "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/al39zooe/"
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/anvmg54p/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak83rgrr/",
-      "title": "享界V8上市即交付，首批车主能拿到哪些服务？",
-      "summary": "11月20日，鸿蒙智行享界V8正式上市，定位家庭智慧旗舰MPV，指导价31.98万—42.98万元，提供增程与纯电两种动力。“上市即交付”当天就落了地：当晚享界V8在北京完成首批交付，余承东与北汽集团......",
-      "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/ak83rgrr/"
+      "id": "https://www.21jingji.com/article/20261121/herald/dcf3fe25ab002acb3d98cb8c39de68fb.html",
+      "title": "太“卷”了，洗脚盆都上车了？",
+      "summary": "NewsData报道",
+      "source": "21Jingji",
+      "date": "2026-11-21",
+      "url": "https://www.21jingji.com/article/20261121/herald/dcf3fe25ab002acb3d98cb8c39de68fb.html"
     },
     {
-      "id": "https://post.smzdm.com/p/avgdkz2p/",
-      "title": "享界V8只有L2辅助驾驶，哪些智驾功能暂时用不了？",
-      "summary": "11月20日，鸿蒙智行旗下首款家庭智慧旗舰MPV享界V8正式上市，售价31.98万至42.98万元，提供增程、纯电两种动力，上市即开启交付。但发布会台上讲的是\"L3来了开车可以睡觉\"的未来，实际交到用......",
+      "id": "https://post.smzdm.com/p/a3m4wrd7/",
+      "title": "钛9起售27.99万：刷屏的折叠方向盘，其实要32.99万才有",
+      "summary": "11月19日，方程豹在杭州发布钛9，四驱Max版27.99万元、四驱Ultra版29.99万元、折叠智舱版32.99万元，置换惊喜价27.39万元起。这是方程豹钛系列第一台9系旗舰，也是比亚迪2026年的收官之作。发布前，\"30万起售\"的传闻在网上传了一......",
       "source": "Smzdm",
-      "date": "2026-11-20",
-      "url": "https://post.smzdm.com/p/avgdkz2p/"
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/a3m4wrd7/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkdrdqw/",
+      "title": "零跑称2027是产品大年，现在买现款还是等新车？",
+      "summary": "11月20日晚的三季度业绩电话会上，零跑汽车CFO李腾飞给出了明年产品节奏的官方口径：2027年是零跑的产品大年，D系列与C系列都会有重磅产品推出，B系列与A系列也会有大改款的产品推出。这些新车是真实存在的计划，但目前没有时间表，也没有价格。所以对\"现在......",
+      "source": "Smzdm",
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/axkdrdqw/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ae65z57z/",
+      "title": "PCB短缺或持续到2028年：这次“缺芯式”缺货会重演吗",
+      "summary": "11月18日，总部位于美国的全球电子协会（Global Electronics Association）向全行业发布供应链警报：全球电子产业正面临印刷电路板（PCB）的严重短缺，被形容为一场堪比2021年芯片危机的危机。协会给出的时间线很明确：供应瓶颈至......",
+      "source": "Smzdm",
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/ae65z57z/"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261121-apec%E5%B3%B0%E4%BC%9A%E4%B8%8B%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%B7%B1%E5%9C%B3-%E4%B8%96%E7%95%8C%E7%9C%8B%E5%88%B0%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%9F%8E%EF%BC%8C%E4%BB%A5%E5%8F%8A%E9%95%9C%E5%A4%B4%E5%A4%96%E7%9A%84%E5%85%A8%E5%9F%8E%E7%AE%A1%E5%88%B6",
+      "title": "APEC峰会下的两个深圳：世界看到的未来之城，以及镜头外的全城管制",
+      "summary": "亚太经济合作会议领袖峰会，11月18日到19日在深圳举行。这次峰会强调开放与创新，深圳用AI翻译、智慧交通等科技，向世界展现一座未来之城。然而，在会议期间，全市禁鸣喇叭、无人机禁飞，严格实施分区交通管制。有的市民因此放假或居家办公，也有不少人照常上班，在网路上自嘲是「深圳牛马」。世界看到的深圳，和深圳人这几天过的日子，呈现出同一座城市的不同面貌。...",
+      "source": "Rfi_Fr",
+      "date": "2026-11-21",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261121-apec%E5%B3%B0%E4%BC%9A%E4%B8%8B%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%B7%B1%E5%9C%B3-%E4%B8%96%E7%95%8C%E7%9C%8B%E5%88%B0%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%9F%8E%EF%BC%8C%E4%BB%A5%E5%8F%8A%E9%95%9C%E5%A4%B4%E5%A4%96%E7%9A%84%E5%85%A8%E5%9F%8E%E7%AE%A1%E5%88%B6"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aqrzlk3v/",
+      "title": "27.48万起！尚界Z7T星野套装版上市，100度电+华为ADS5！",
+      "summary": "鸿蒙智行旗下的尚界在11月20日推出了尚界Z7T的星野套装版，该车型分为两个版本，上市价格分别如下。Max+ 星野套装版——27.48万元；Ultra 星野套装版——31.98万元。据悉，星野套装版主......",
+      "source": "Smzdm",
+      "date": "2026-11-21",
+      "url": "https://post.smzdm.com/p/aqrzlk3v/"
+    },
+    {
+      "id": "https://www.europesays.com/3389505/",
+      "title": "Free rides, real data: Maltese island’s autonomous bus pilot puts the public in the driver’s seat",
+      "summary": "The metaCCAZE project has launched Gozo’s first self-driving bus service, offering free public rides while researchers collect passenger feedback to shape the...",
+      "source": "EUROPE SAYS",
+      "date": "2026-11-21",
+      "url": "https://www.europesays.com/3389505/"
     },
     {
       "id": "https://www.tribuneindia.com/news/business/beyond-a-media-tour-vinfasts-v-creator-all-star-summit-2026-brings-global-technology-leaders-together-to-debate-the-future-of-mobility/",
@@ -200,6 +219,14 @@
       "source": "ANI (Asian News International)",
       "date": "2026-11-20",
       "url": "https://www.aninews.in/news/business/beyond-a-media-tour-vinfasts-v-creator-all-star-summit-2026-brings-global-technology-leaders-together-to-debate-the-future-of-mobility20261120102124/"
+    },
+    {
+      "id": "https://www.koreatimes.co.kr/business/companies/20261120/korean-authority-rejects-request-for-full-self-driving-for-china-made-teslas",
+      "title": "Korean authority rejects request for full self",
+      "summary": "Transportation regulators on Friday rejected Tesla’s request to allow its China-made vehicles to use full self-driving (FSD) technology in Korea, c......",
+      "source": "The Korea Times",
+      "date": "2026-11-20",
+      "url": "https://www.koreatimes.co.kr/business/companies/20261120/korean-authority-rejects-request-for-full-self-driving-for-china-made-teslas"
     },
     {
       "id": "https://www.dailycamera.com/2026/11/19/waymo-driverless-vehicles-expansion-tickets/",
@@ -240,22 +267,6 @@
       "source": "CBS News",
       "date": "2026-11-17",
       "url": "https://www.cbsnews.com/losangeles/news/waymo-robotaxis-california-dmv-freeways-autonomous-vehicles/"
-    },
-    {
-      "id": "https://www.cnbctv18.com/technology/can-mapless-autonomous-vehicles-finally-make-self-driving-transport-more-practical-20034727.htm",
-      "title": "Can mapless autonomous vehicles finally make self",
-      "summary": "NTT Mobility will test mapless self-driving buses on public roads in Japan from February 2027, using AI technology to reduce costs and deploy transport....",
-      "source": "CNBC TV18",
-      "date": "2026-11-16",
-      "url": "https://www.cnbctv18.com/technology/can-mapless-autonomous-vehicles-finally-make-self-driving-transport-more-practical-20034727.htm"
-    },
-    {
-      "id": "https://www.firstpost.com/tech/teslas-cybercab-goes-up-for-personal-sale-but-owners-must-pay-299-monthly-14060182.html",
-      "title": "Tesla's Cybercab goes up for personal sale, but owners must pay $299 monthly",
-      "summary": "Tesla appears to be opening up its steering-wheel-free Cybercab to individual buyers, with invitations now going out to select customers. The vehicle carries a $29,990 price tag, but owners must also ...",
-      "source": "Firstpost",
-      "date": "2026-11-16",
-      "url": "https://www.firstpost.com/tech/teslas-cybercab-goes-up-for-personal-sale-but-owners-must-pay-299-monthly-14060182.html"
     }
   ]
 }
