@@ -1,200 +1,172 @@
 {
-  "lastUpdated": "2026-11-22 06:17:22",
-  "totalCount": 39,
+  "lastUpdated": "2026-11-23 07:08:21",
+  "totalCount": 28,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 11,
-    "Forbeschina": 1,
-    "21Jingji": 2,
-    "Ithome": 1,
-    "Rfi_Fr": 1,
+    "Smzdm": 16,
+    "Gmw": 1,
+    "Bjnews": 2,
     "EUROPE SAYS": 1,
     "The Tribune": 1,
     "ANI (Asian News International)": 1,
-    "The Korea Times": 1,
     "Boulder Daily Camera": 1,
     "The Guardian": 1,
     "Firstpost": 1,
     "MarketScreener": 1,
     "CBS News": 1,
-    "CNBC TV18": 1,
-    "PerthNow": 1,
-    "The Verge": 1,
-    "SlashGear": 1,
-    "News18": 1,
-    "Free Press Journal": 1,
-    "BGR": 1,
-    "The Straits Times": 1,
-    "The Economic Times": 1
+    "CNBC TV18": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1EQs86jE2V",
-      "title": "【B站】【GTA6优化教程】下车辆不熄火/自动驾驶/驾车射击 游戏设置推荐 特殊玩法小技巧 游戏体验 保姆级讲解",
-      "summary": "【GTA6优化教程】\n游戏设置推荐 \n改善游戏体验 \n特殊玩法小技巧 \n保姆级讲解~...",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/a95429p7/",
+      "title": "FSD v15更新后，装自行车架还能正常用吗？",
+      "summary": "答案是可以——而且\"装了自行车架也能开FSD\"本身就是这次V15更新写进日志的新功能之一。FSD V15官方更新日志里，\"自行车架\"一条单独成段：启用自行车架模式后，当安装自行车架或类似拖钩配件时，您现在可以激活 FSD 监督版。11月22日，特斯拉宣布......",
+      "source": "Smzdm",
       "date": "2026-11-22",
-      "url": "https://www.bilibili.com/video/BV1EQs86jE2V"
+      "url": "https://post.smzdm.com/p/a95429p7/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV13osx64EhN",
-      "title": "【B站】【GTA6】自动驾驶开启方法",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/ae65edm4/",
+      "title": "FSD V15的25倍安全提升，实际开起来有哪些变化？",
+      "summary": "北京时间 11 月 22 日，特斯拉宣布开始推送 FSD V15，向美国早期体验计划（EAP）成员发出首批版本，并宣称本次更新把安全关键场景的处理能力提升到了 25 倍。这次推送的版本是 FSD（Supervised）v15.0.1，软件编号 2026.......",
+      "source": "Smzdm",
       "date": "2026-11-22",
-      "url": "https://www.bilibili.com/video/BV13osx64EhN"
+      "url": "https://post.smzdm.com/p/ae65edm4/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1sGy8zQE6n",
-      "title": "【B站】【采风】L3自动驾驶开车可以睡觉引争议",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/ae65ekwm/",
+      "title": "特斯拉FSD V15开推：“25倍”是什么口径，新界面到底改变了什么",
+      "summary": "北京时间11月22日（当地时间11月21日），特斯拉正式启动FSD V15监督版推送，首批面向美国市场早期体验计划（EAP）成员。马斯克表示，更大范围的全量推送预计安排在12月。每日经济新闻新浪科技知......",
+      "source": "Smzdm",
       "date": "2026-11-22",
-      "url": "https://www.bilibili.com/video/BV1sGy8zQE6n"
+      "url": "https://post.smzdm.com/p/ae65ekwm/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1CFyYztEQJ",
-      "title": "【B站】儿童自动驾驶车，全网打工人眼红",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/a3m4vg5r/",
+      "title": "特斯拉FSD V15开推：哪些车主能先用上？先看三道门槛",
+      "summary": "美东时间11月21日、北京时间11月22日，特斯拉正式启动FSD（监督版）V15推送，首批只向早期体验计划（EAP）成员开放。\"哪些车主能先用上\"的答案可以一次说清：已加入EAP计划、身处美国市场、车......",
+      "source": "Smzdm",
       "date": "2026-11-22",
-      "url": "https://www.bilibili.com/video/BV1CFyYztEQJ"
+      "url": "https://post.smzdm.com/p/a3m4vg5r/"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1V8ytzaETr",
-      "title": "【B站】GTA6汽车还能自动驾驶？怎么开？",
-      "summary": "B站视频",
-      "source": "Bilibili",
+      "id": "https://post.smzdm.com/p/apqr3zr0/",
+      "title": "广州摩电新规落地，记3分才是持合证骑手最该疼的",
+      "summary": "广州摩电新规落地，记3分才是持合证骑手最该疼的广州摩电新规落地，摩托车的罚则变了：闯禁行除罚款200元外，新增记分，按现行全国统一记分口径，违反禁令标志一次记3分；新加的第三十五条还写明了，多次驶入禁......",
+      "source": "Smzdm",
       "date": "2026-11-22",
-      "url": "https://www.bilibili.com/video/BV1V8ytzaETr"
+      "url": "https://post.smzdm.com/p/apqr3zr0/"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrzlw5v/",
-      "title": "奥迪Q9首秀在即，国产全尺寸SUV用户要不要等它",
-      "summary": "11月21日，一汽奥迪官宣：11月27日开幕的2026广州车展上，奥迪首款大型豪华全尺寸SUV——Q9将完成中国首秀。这台车其实早在今年7月29日就已全球首发，按一汽奥迪销售公司执行副总经理郭永峰此前确认的口径，将以进口形式在2027年初正式引入国内销售......",
+      "id": "https://post.smzdm.com/p/a264954q/",
+      "title": "张雪拍回的53号冠军赛车，到底是台什么车？",
+      "summary": "张雪拍回的53号冠军赛车，到底是台什么车？先纠正最容易被误读的地方：张雪花300万元拍回的这台\"53号冠军赛车\"不是汽车，而是一台摩托车——重庆厂商张雪机车（ZXMOTO）的820RR，确切说是它的W......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/aqrzlw5v/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/a264954q/"
     },
     {
-      "id": "https://post.smzdm.com/p/ad7zr7oz/",
-      "title": "没人在意的实话，10万左右的方盒子SUV好看，但缺点也很明显",
-      "summary": "今天老同事来电话，让我帮忙劝一劝他儿子不要买方盒子SUV。不过，经过我和他儿子的友好沟通，他儿子已经准备提车了，老同事直言我是叛徒。说实话，方盒子SUV方方正正的造型、个性化的大灯，再加上外挂小书包和宽体轮眉，谁看了不心动？而且过去这类产品往往不便宜，如......",
+      "id": "https://post.smzdm.com/p/ae65ek0k/",
+      "title": "ET5、EC6明年不改款，现在买会不会很快过时？",
+      "summary": "如果你打算长期使用这台车，它不会很快过时；真正需要权衡的不是代际差，而是折旧成本。11月22日的蔚来用户面对面活动上，李斌透露，新款ET5T和ES6将于明年上半年陆续交付，而ET5和EC6明年没有改款......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/ad7zr7oz/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/ae65ek0k/"
     },
     {
-      "id": "https://forbeschina.com/business/72413",
-      "title": "估值近百亿跻身独角兽，具身大脑公司原力无限获数千万元Pre-B轮融资",
-      "summary": "11月19日，具身大脑企业原力无限宣布完成数千万元Pre-B轮融资，杭州资本作为杭州市属国有资本投资运营平台独家出资。据悉，本轮融资将重点用于具身大脑AtomBrain研发、真实场景深耕及产业化落地。这是公司三个月内完成的第四轮融资，8月完成A轮及A+轮融资，10月获浙创投近亿元投资，11月杭州资本入局。公司目前估值接近百亿元，跻身独角兽行列。 原力无限2023年8月成立于杭州，核心产品为可兼容多...",
-      "source": "Forbeschina",
-      "date": "2026-11-21",
-      "url": "https://forbeschina.com/business/72413"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261121/herald/9fe7b99e100c95aae2c24903058009ae.html",
-      "title": "广州一路段实施临时交通管制，持续至2027年1月3日",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-21",
-      "url": "https://www.21jingji.com/article/20261121/herald/9fe7b99e100c95aae2c24903058009ae.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/axkdr6d3/",
-      "title": "本田新一代冠道发布，设计彻底换新，第五代混动才是大招",
-      "summary": "时隔八年，本田冠道终于迎来彻底换代，新车的量产版本预计会在广州车展上正式首发。全新冠道同样使用分离式前大灯设计，上层的LED日行灯灯组做得非常锐利，也没有简单采用一条灯带，而是由三段式灯组组成，非常有机甲感。日行灯周围是层次显著的暗光镀铬饰条，给这套科技......",
+      "id": "https://post.smzdm.com/p/aomq8ol7/",
+      "title": "纯电续航640km！零跑新车官宣：11月27日正式上市",
+      "summary": "11月22日消息，全新零跑Lafa5上市时间已经被确定，将会在11月27日广州车展正式上市。该车是10万级后置后驱纯电宽体两厢智能轿跑，虽然价格不高，但官方对这台新车还挺有信心的，宣称有超过40项升级......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/axkdr6d3/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/aomq8ol7/"
     },
     {
-      "id": "https://post.smzdm.com/p/awwdlqwm/",
-      "title": "27.99万元起，方程豹用硬实力颠覆“9系SUV”行规",
-      "summary": "2026年11月19日晚间，比亚迪方程豹品牌旗舰车型钛9正式上市。新车共推出四驱Max版、四驱Ultra版和折叠智舱版三款车型，指导价分别为27.99万元、29.99万元和32.99万元，此外，官方还......",
+      "id": "https://post.smzdm.com/p/a26495w2/",
+      "title": "车长5.31米！奥迪新车官宣：11月27日正式发布",
+      "summary": "11月22日消息，奥迪官方宣布将参加11月27日广州车展，并且会发布新车奥迪Q9。这台车来头很大，是奥迪历史首款全尺寸旗舰SUV，启用了全新数字命名“9”，高于此前的Q7和Q8，包含标准版Q9加性能版......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/awwdlqwm/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/a26495w2/"
     },
     {
-      "id": "https://www.ithome.com/1/030/505.htm",
-      "title": "亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元",
-      "summary": "IT之家 11 月 21 日消息，当地时间 20 日，据《华尔街日报》报道，亚马逊对纽约市的一项劳工法案《配送保护法》（又称第 518 号提案）发起了反击。该法案将强制企业直接雇佣送货人员，而不是外包给第三方承包商。 不仅如此，亚马逊通过弹出窗口警告客户：如果该法案最终成为法律，每笔订单的配送费用或将涨价 5 美元（IT之家注：现汇率约合 33.5 元人民币）。 该法案将改变亚马逊配送司机的实际雇...",
-      "source": "Ithome",
-      "date": "2026-11-21",
-      "url": "https://www.ithome.com/1/030/505.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggw2oxw/",
-      "title": "方程豹钛9三个版本差在哪，27.99万起选哪款更合适",
-      "summary": "11月19日，方程豹钛9正式上市，三个版本：四驱Max版27.99万元、四驱Ultra版29.99万元、折叠智舱版32.99万元，符合条件的置换惊喜价27.39万元起。在讨论怎么选之前，先纠正一个流传......",
+      "id": "https://post.smzdm.com/p/a2649m6d/",
+      "title": "吉利新车官宣：11月22日，即将发布",
+      "summary": "11月22日消息，吉利官宣新车吉利银河M8即将发布，预售发布会进入倒计时。官方还公布了新车底盘配置，将全系标配CDC双叉臂。该车是吉利银河首款旗舰大五座插混SUV，和此前的银河M9属于同源车型，车身尺......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/aggw2oxw/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/a2649m6d/"
     },
     {
-      "id": "https://post.smzdm.com/p/aggw2orw/",
-      "title": "30万级配折叠方向盘和线控转向，开起来和普通车有何不同",
-      "summary": "11月19日，方程豹钛9正式上市，售价27.99万起，共三个版本：Max 27.99万、Ultra 29.99万，顶配的折叠智舱版32.99万。折叠方向盘和线控转向都集中在这一个版本上，而钛9也是比亚......",
+      "id": "https://news.gmw.cn/2026-11/23/content_39114133.htm",
+      "title": "云南丽江玉龙纳西族自治县：雪山文旅兴 丹青引客来",
+      "summary": "清晨，云南丽江玉龙雪山还裹在薄雾里，蓝月谷的水面像一面镜子，映着雪山倒影。云杉坪索道起点，一排排电瓶观光车整齐排列，驾驶员正忙着招呼游客上下车。这条接驳线串联起雪山与草甸，也串起了火热的旅游业。...",
+      "source": "Gmw",
+      "date": "2026-11-22",
+      "url": "https://news.gmw.cn/2026-11/23/content_39114133.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arzdv0dq/",
+      "title": "张雪300万拍下自己的冠军赛车：拍出500万的复刻版能秒空，冠军真车为何停在250万",
+      "summary": "11月22日晚，珠海国际赛车场的张雪机车·京东WSBK嘉年华现场，WSBK 53号原版夺冠赛车被搬上拍卖台。竞价迟迟停在预期之下，临近落槌，张雪自己出价300万元把这台车拍了回去，自嘲“反正我脸皮厚”......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/aggw2orw/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/arzdv0dq/"
     },
     {
-      "id": "https://post.smzdm.com/p/anvmg54p/",
-      "title": "AI服务器抢光PCB产能，普通电子产品会被挤单吗",
-      "summary": "先说结论：普通电子产品没有被全面断供，\"挤单\"主要表现为更贵和等得更久。 AI服务器争抢的不是所有电路板，而是高多层板和少数稀缺上游材料；小家电、基础消费电子使用的4到6层板目前货源依然充足。真正的断......",
+      "id": "https://post.smzdm.com/p/al39wp8g/",
+      "title": "张雪300万拍回冠军赛车，这笔钱最后去哪了？",
+      "summary": "11月22日晚，珠海国际赛车场的“张雪机车·京东WSBK嘉年华”现场，那台WSBK 53号原版冠军赛车落槌在300万元——拍下它的人就是张雪自己。按现场官宣，这笔钱将全额注入“小车手培育专项基金”，专......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/anvmg54p/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/al39wp8g/"
     },
     {
-      "id": "https://www.21jingji.com/article/20261121/herald/dcf3fe25ab002acb3d98cb8c39de68fb.html",
-      "title": "太“卷”了，洗脚盆都上车了？",
-      "summary": "NewsData报道",
-      "source": "21Jingji",
-      "date": "2026-11-21",
-      "url": "https://www.21jingji.com/article/20261121/herald/dcf3fe25ab002acb3d98cb8c39de68fb.html"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a3m4wrd7/",
-      "title": "钛9起售27.99万：刷屏的折叠方向盘，其实要32.99万才有",
-      "summary": "11月19日，方程豹在杭州发布钛9，四驱Max版27.99万元、四驱Ultra版29.99万元、折叠智舱版32.99万元，置换惊喜价27.39万元起。这是方程豹钛系列第一台9系旗舰，也是比亚迪2026年的收官之作。发布前，\"30万起售\"的传闻在网上传了一......",
+      "id": "https://post.smzdm.com/p/avgdz7r4/",
+      "title": "张雪300万拍回夺冠赛车：那条500万的线，是4月复刻车定下的",
+      "summary": "11月22日下午5点半，\"德比斯赛车-53号整车套装\"在张雪机车直播间开拍，套装含主赛车、冠军奖杯和圈速奖牌，起拍价50万元。直播间10万+网友围观，车迷出价到250万元后无人跟价，张雪最终出价300......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/a3m4wrd7/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/avgdz7r4/"
     },
     {
-      "id": "https://post.smzdm.com/p/axkdrdqw/",
-      "title": "零跑称2027是产品大年，现在买现款还是等新车？",
-      "summary": "11月20日晚的三季度业绩电话会上，零跑汽车CFO李腾飞给出了明年产品节奏的官方口径：2027年是零跑的产品大年，D系列与C系列都会有重磅产品推出，B系列与A系列也会有大改款的产品推出。这些新车是真实存在的计划，但目前没有时间表，也没有价格。所以对\"现在......",
+      "id": "https://post.smzdm.com/p/ak83gm5r/",
+      "title": "蔚来5566改款拆分：两台明年换代、两台继续卖现款，四款车怎么选",
+      "summary": "11月22日，蔚来创始人、董事长兼CEO李斌把拖了一年的问题拆开：新款ET5T和ES6将于明年上半年陆续交付，ET5和EC6明年没有改款计划。他不更新小车的理由说得很直白：还是有很多人喜欢小一点的车，......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/axkdrdqw/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/ak83gm5r/"
     },
     {
-      "id": "https://post.smzdm.com/p/ae65z57z/",
-      "title": "PCB短缺或持续到2028年：这次“缺芯式”缺货会重演吗",
-      "summary": "11月18日，总部位于美国的全球电子协会（Global Electronics Association）向全行业发布供应链警报：全球电子产业正面临印刷电路板（PCB）的严重短缺，被形容为一场堪比2021年芯片危机的危机。协会给出的时间线很明确：供应瓶颈至......",
+      "id": "https://www.bjnews.com.cn/detail/1795354668129028.html",
+      "title": "折叠方向盘的分量，不止在那10秒",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-22",
+      "url": "https://www.bjnews.com.cn/detail/1795354668129028.html"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a704zrqo/",
+      "title": "走起颜值路线了！比亚迪全新一代汉新款配色曝光：车长超5米",
+      "summary": "快科技11月22日消息，近期，一组比亚迪全新一代汉的实车照片流出，还是刚下生产线的。前脸也不再是龙颜美学了，开始走颜值路线了。外观设计上，车头线条饱满圆润，搭配贯穿式大灯，车头顶部还装有激光雷达硬件，......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/ae65z57z/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/a704zrqo/"
     },
     {
-      "id": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261121-apec%E5%B3%B0%E4%BC%9A%E4%B8%8B%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%B7%B1%E5%9C%B3-%E4%B8%96%E7%95%8C%E7%9C%8B%E5%88%B0%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%9F%8E%EF%BC%8C%E4%BB%A5%E5%8F%8A%E9%95%9C%E5%A4%B4%E5%A4%96%E7%9A%84%E5%85%A8%E5%9F%8E%E7%AE%A1%E5%88%B6",
-      "title": "APEC峰会下的两个深圳：世界看到的未来之城，以及镜头外的全城管制",
-      "summary": "亚太经济合作会议领袖峰会，11月18日到19日在深圳举行。这次峰会强调开放与创新，深圳用AI翻译、智慧交通等科技，向世界展现一座未来之城。然而，在会议期间，全市禁鸣喇叭、无人机禁飞，严格实施分区交通管制。有的市民因此放假或居家办公，也有不少人照常上班，在网路上自嘲是「深圳牛马」。世界看到的深圳，和深圳人这几天过的日子，呈现出同一座城市的不同面貌。...",
-      "source": "Rfi_Fr",
-      "date": "2026-11-21",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261121-apec%E5%B3%B0%E4%BC%9A%E4%B8%8B%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%B7%B1%E5%9C%B3-%E4%B8%96%E7%95%8C%E7%9C%8B%E5%88%B0%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%9F%8E%EF%BC%8C%E4%BB%A5%E5%8F%8A%E9%95%9C%E5%A4%B4%E5%A4%96%E7%9A%84%E5%85%A8%E5%9F%8E%E7%AE%A1%E5%88%B6"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrzlk3v/",
-      "title": "27.48万起！尚界Z7T星野套装版上市，100度电+华为ADS5！",
-      "summary": "鸿蒙智行旗下的尚界在11月20日推出了尚界Z7T的星野套装版，该车型分为两个版本，上市价格分别如下。Max+ 星野套装版——27.48万元；Ultra 星野套装版——31.98万元。据悉，星野套装版主......",
+      "id": "https://post.smzdm.com/p/axkd2p42/",
+      "title": "AI证明黎曼猜想获社区确认，邓煜“不能放弃思考给AI当狗”的警告为何翻红",
+      "summary": "今天冲上热榜的词条“人不能放弃思考给AI当狗”，出自菲尔兹奖得主、芝加哥大学数学系教授邓煜之口。这句话来自他10月25日在《知识分子》与《赛先生》联合举办的“AI与数学论坛”上发表的线上主旨演讲。词条......",
       "source": "Smzdm",
-      "date": "2026-11-21",
-      "url": "https://post.smzdm.com/p/aqrzlk3v/"
+      "date": "2026-11-22",
+      "url": "https://post.smzdm.com/p/axkd2p42/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1795325878129822.html",
+      "title": "8系价格9系配置，家用MPV爆款有了标准答案",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-11-22",
+      "url": "https://www.bjnews.com.cn/detail/1795325878129822.html"
     },
     {
       "id": "https://www.europesays.com/3389505/",
@@ -219,14 +191,6 @@
       "source": "ANI (Asian News International)",
       "date": "2026-11-20",
       "url": "https://www.aninews.in/news/business/beyond-a-media-tour-vinfasts-v-creator-all-star-summit-2026-brings-global-technology-leaders-together-to-debate-the-future-of-mobility20261120102124/"
-    },
-    {
-      "id": "https://www.koreatimes.co.kr/business/companies/20261120/korean-authority-rejects-request-for-full-self-driving-for-china-made-teslas",
-      "title": "Korean authority rejects request for full self",
-      "summary": "Transportation regulators on Friday rejected Tesla’s request to allow its China-made vehicles to use full self-driving (FSD) technology in Korea, c......",
-      "source": "The Korea Times",
-      "date": "2026-11-20",
-      "url": "https://www.koreatimes.co.kr/business/companies/20261120/korean-authority-rejects-request-for-full-self-driving-for-china-made-teslas"
     },
     {
       "id": "https://www.dailycamera.com/2026/11/19/waymo-driverless-vehicles-expansion-tickets/",
@@ -267,6 +231,14 @@
       "source": "CBS News",
       "date": "2026-11-17",
       "url": "https://www.cbsnews.com/losangeles/news/waymo-robotaxis-california-dmv-freeways-autonomous-vehicles/"
+    },
+    {
+      "id": "https://www.cnbctv18.com/technology/can-mapless-autonomous-vehicles-finally-make-self-driving-transport-more-practical-20034727.htm",
+      "title": "Can mapless autonomous vehicles finally make self",
+      "summary": "NTT Mobility will test mapless self-driving buses on public roads in Japan from February 2027, using AI technology to reduce costs and deploy transport....",
+      "source": "CNBC TV18",
+      "date": "2026-11-16",
+      "url": "https://www.cnbctv18.com/technology/can-mapless-autonomous-vehicles-finally-make-self-driving-transport-more-practical-20034727.htm"
     }
   ]
 }
