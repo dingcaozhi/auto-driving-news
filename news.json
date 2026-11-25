@@ -1,12 +1,15 @@
 {
-  "lastUpdated": "2026-11-24 09:32:31",
-  "totalCount": 33,
+  "lastUpdated": "2026-11-25 08:03:10",
+  "totalCount": 24,
   "sources": {
-    "Bilibili": 5,
-    "Smzdm": 14,
+    "News_Baidu": 2,
     "Bjnews": 2,
-    "Fx168News": 1,
     "Gmw": 2,
+    "Imobile": 1,
+    "Investing_Cn": 1,
+    "Smzdm": 3,
+    "Pcauto_Cn": 4,
+    "TechStartups.com": 1,
     "EUROPE SAYS": 1,
     "The Tribune": 1,
     "ANI (Asian News International)": 1,
@@ -14,201 +17,136 @@
     "The Guardian": 1,
     "Firstpost": 1,
     "MarketScreener": 1,
-    "CBS News": 1,
-    "CNBC TV18": 1
+    "CBS News": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1EQs86jE2V",
-      "title": "【B站】【GTA6优化教程】下车辆不熄火/自动驾驶/驾车射击 游戏设置推荐 特殊玩法小技巧 游戏体验 保姆级讲解",
-      "summary": "【GTA6优化教程】\n游戏设置推荐 \n改善游戏体验 \n特殊玩法小技巧 \n保姆级讲解~...",
-      "source": "Bilibili",
+      "id": "http://baijiahao.baidu.com/s?id=1880048117132633028",
+      "title": "央地协同发力 6G产业布局加速铺开",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
       "date": "2026-11-24",
-      "url": "https://www.bilibili.com/video/BV1EQs86jE2V"
+      "url": "http://baijiahao.baidu.com/s?id=1880048117132633028"
     },
     {
-      "id": "https://www.bilibili.com/video/BV1Q2hw6qEPy",
-      "title": "【B站】用特斯拉满血FSD连续自动驾驶24小时会发生什么？",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-24",
-      "url": "https://www.bilibili.com/video/BV1Q2hw6qEPy"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV13osx64EhN",
-      "title": "【B站】【GTA6】自动驾驶开启方法",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-24",
-      "url": "https://www.bilibili.com/video/BV13osx64EhN"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV18mypzyEHo",
-      "title": "【B站】DIY自动跟随电动露营车最终章",
-      "summary": "自动跟随？太简单了要玩就玩自动驾驶...",
-      "source": "Bilibili",
-      "date": "2026-11-24",
-      "url": "https://www.bilibili.com/video/BV18mypzyEHo"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-11-24",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwd4xvm/",
-      "title": "官方在讲时延，老车主在要名单，蔚来世界模型3代快发布了",
-      "summary": "蔚来官方这周确认了：11月25日的NIO IN 2026上，正式发布蔚来世界模型NWM的最新版本3.0。这次官方主打的词不是模型能模拟多少场景，是\"系统级低时延\"。原话讲得很直白——时延决定车能不能及时处理突发情况，也决定用户敢不敢放心用。我觉得这个方向......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/awwd4xvm/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/al396qe0/",
-      "title": "坐高铁觉得又快又稳，背后哪些技术是我们自己的？",
-      "summary": "坐高铁时，“又快又稳”其实是一门综合考试：跑得快、跑得顺、还要停得住。这三道题现在都有了明确归属——路基与轨道板、动车组车体与制动、列控系统，都是中国自主研发的核心技术。最硬的注脚就在眼前：CR450动车组样车圆满完成整车型式试验和运用考核，我国由此在世......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/al396qe0/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03zn770/",
-      "title": "近9成澎程是家庭用车，空间和功能真能满足全家出行？",
-      "summary": "11月23日，小米汽车发布“小米澎程首批车主用车报告”，其中最受关注的一个数字是：87.8%的澎程为家庭用户，相当于每10台就有近9台承担家庭用车角色。把这近9成的“家庭”身份拆开看，再对照空间和功能配置本身，标题里的问题其实可以给出一个分层的回答：这台......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/a03zn770/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a7045805/",
-      "title": "变色镜片下单前先核这3处｜车内不变色、室内褪色慢、底色褪不净，付镜片钱前查完",
-      "summary": "有张小红书帖子讲自己的变色近视镜，原话是\"褪不干净，和普通镜片比起来始终有一层色\"，最后落了一句\"能不买就不买吧\"。变色镜片的宣传演示都很神奇：室内一副近视镜，出门自动变墨镜。但吐槽帖从冬天一直更新到深秋，主角都是同一批人——每天要进出地铁、写字楼、地下......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/a7045805/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a954wev7/",
-      "title": "脑机接口手术首次有了政府指导价，普通瘫痪患者离做上手术还差什么？",
-      "summary": "11月23日，央视新闻发布了一段瘫痪患者的康复记录：因车祸瘫痪的小董2024年在上海接受脑机接口植入手术后，术后仅9天就能轻松拿起、举起木球。同一周，2026脑机接口大会在北京昌平举办，中国信通院在会上发布的行业报告显示，2026年全球脑机接口企业数量从......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/a954wev7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomqzol9/",
-      "title": "高铁列控系统升级，为什么能让买票坐车更容易准点",
-      "summary": "11月25日0时起，全国普速旅客列车、货物列车等将正式启用新车次。这是10月启动的全国铁路车次编排改革落地的第一批调整，同步升级的还有信号软件和信息系统、12306的查询与提示功能，以及支撑这一切的“行车大脑”——列车运行控制系统。这个离旅客颇远的词之所......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/aomqzol9/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03zn7e9/",
-      "title": "冬天除雾，冷风热风不是二选一",
-      "summary": "这周热搜又刷了一轮“冬季车窗起雾正确除雾方法”，我把这个话题下的高赞笔记翻了个遍：一条交警讲解视频拿了4400赞、5000收藏；有个武汉车主吐槽，14度的雨夜，车里一坐人，前挡的雾气疯长。评论区照例是......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/a03zn7e9/"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1795436708129664.html",
-      "title": "10亿级订单落地，岚图汽车如何把中国高端MPV卖向全球？",
+      "id": "https://www.bjnews.com.cn/detail/1795513177129202.html",
+      "title": "北京近视手术全飞秒怎么选择医院？一条决策主线与结论清单",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-11-23",
-      "url": "https://www.bjnews.com.cn/detail/1795436708129664.html"
+      "date": "2026-11-24",
+      "url": "https://www.bjnews.com.cn/detail/1795513177129202.html"
     },
     {
-      "id": "https://post.smzdm.com/p/a4q4org7/",
-      "title": "从追赶到领跑，中国高铁哪些核心技术真正握在自己手里",
-      "summary": "中国高铁的核心技术账本，在2026年11月有了最新一笔：CR450动车组样车圆满完成整车型式试验和运用考核，我国由此在世界上率先构建起时速400公里高速列车技术体系。把这份“考卷”拆开看，今天高铁真正握在自己手里的，是五块硬骨头：列控系统、牵引系统、制动......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/a4q4org7/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am9vq7lz/",
-      "title": "脑机接口治瘫痪，现在能帮患者做到哪些事？",
-      "summary": "本周，Neuralink在其X账号发布了一段视频：一名失去双臂功能的瘫痪患者，靠植入芯片在刚发售的《GTA6》里驾驶快艇、操控水上飞机、完成徒手格斗。手术前，他玩游戏的方式是嘴含一根触控棍去戳iPad。几乎同一周，11月21日的2026脑机接口大会上，国......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/am9vq7lz/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggwlx2w/",
-      "title": "5万公里高铁网跑遍多种地形，安全和准点靠什么托底",
-      "summary": "2025年12月26日，随着西延高铁开通运营，中国高铁营业里程突破5万公里；到2025年底，全国铁路营业里程达到16.5万公里。这张从97%的城区人口50万以上城市穿过的网络，跑过戈壁风区、高寒冻土、跨海海峡和黄土沟壑，日均开行动车组近万列。近一年过去，......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/aggwlx2w/"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rp4n9k/",
-      "title": "时速提到400公里，高铁安全靠哪些核心技术托底？",
-      "summary": "11月13日，中车集团总工程师于跃斌宣布：CR450动车组已完成60万公里运用考核，进入定型阶段。这辆试验时速450公里、计划商业运营时速400公里的高铁，走到了载客运营的门槛前。十天之前，国家发改委......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/a5rp4n9k/"
-    },
-    {
-      "id": "https://www.fx168news.com/article/%E8%8B%B1%E4%BC%9F%E8%BE%BE-1118643",
-      "title": "黄仁勋回归，英伟达为何离不开这位创始人？-FX168",
-      "summary": "英伟达董事会11月23日宣布，黄仁勋正式恢复总裁兼CEO职务，距离其辞职仅过去11天。这场戏剧性的人事反转，再次凸显了黄仁勋对英伟达的重要性。从GPU技术路线到CUDA软件生态，从AI芯片布局到全球产业链建设，黄仁勋始终是公司战略的核心推动者。其回归有助于稳定员工、客户和投资者信心，但也暴露出英伟达对创始人的高度依赖。面对AI行业竞争加剧、全球芯片出口管制和企业治理挑战，英伟达未来需要解决的不仅是...",
-      "source": "Fx168News",
-      "date": "2026-11-23",
-      "url": "https://www.fx168news.com/article/%E8%8B%B1%E4%BC%9F%E8%BE%BE-1118643"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a6z4xo7n/",
-      "title": "长城发布新车：11月23日正式上市，顶配16.38万元",
-      "summary": "11月23日消息，长城旗下新车长城欧拉7和旅行版正式上市，起步价11.98万比之前很多人预估的更低。该车属于欧拉品牌车型，定位中型纯电车，可以看作闪电猫换代更名，不过新车是一车双形态，除了轿跑版本之外，还有一个旅行瓦罐版本，两个版本的价格都不算贵，而且首......",
-      "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/a6z4xo7n/"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-11/23/content_39116327.htm",
-      "title": "从“靠经验”到“靠数据” 鄂托克旗解锁现代农牧业发展新模式 | 走一线 改文风",
-      "summary": "走进鄂托克旗牧云养殖专业合作社智能化控制中心，电子大屏实时刷新圈舍温度、羊群位置、采食动态等关键数据。依托智慧牧场建设，推进畜牧业精细化、智能化、集约化发展，加快农牧业数字化转型，节约人力成本、提升养殖效益，助力农牧民稳收增收。...",
+      "id": "https://news.gmw.cn/2026-11/25/content_39119640.htm",
+      "title": "“我们在深圳看到了什么”—— APEC参会来宾眼中的“奇迹之城”",
+      "summary": "APEC深圳会议让全世界的目光聚焦“奇迹之城”。2000余位政商界代表、近2000名外国媒体记者以及来自世界各地的游客汇聚于此。从超市到商圈、从公园到工厂、从会场到新闻中心……客人们的足迹遍布深圳。...",
       "source": "Gmw",
-      "date": "2026-11-23",
-      "url": "https://news.gmw.cn/2026-11/23/content_39116327.htm"
+      "date": "2026-11-24",
+      "url": "https://news.gmw.cn/2026-11/25/content_39119640.htm"
     },
     {
-      "id": "https://post.smzdm.com/p/a3m47g4d/",
-      "title": "方程S参数表给得挺足，但闪充站离你家多远，才决定你用不用得上",
-      "summary": "方程S从九月中上市到现在，社区里围绕它的争论就没停过。知乎上「方程S和小米SU7怎么选」这个问题，一条回答十来天冲到三十多万浏览、九十多条评论；小红书的对比帖下面，高赞评论说得也直接——「这次我选方程S」，紧接着就有人回「小米好看，但方程豹便宜」。二十万......",
+      "id": "https://news.gmw.cn/2026-11/25/content_39119703.htm",
+      "title": "中外联合飞行乘组，出征！",
+      "summary": "11月24日上午，酒泉卫星发射中心，神舟二十四号载人飞行任务新闻发布会举行。中国载人航天工程新闻发言人张静波介绍任务情况。发布会后，汤洪波、武毅、穆罕默德·齐尚·阿里3名航天员在问天阁与中外媒体记者见面，这个将创造多个“首次”的中外联合飞行乘组正式亮相。...",
+      "source": "Gmw",
+      "date": "2026-11-24",
+      "url": "https://news.gmw.cn/2026-11/25/content_39119703.htm"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/1124/236197.shtml",
+      "title": "现车充足上市即交付 第三代唐满配起步18.79万-21.99万元",
+      "summary": "11月24日，比亚迪王朝8系大五座科技旗舰SUV——第三代唐正式上市，共推出730KM后驱尊贵型、850KM后驱激光尊荣型、850KM后驱激光旗舰型三个款型，售价18.79万至21.99万元。其中，850KM后驱激光旗舰型可加2万元选装四驱线控选装包...",
+      "source": "Imobile",
+      "date": "2026-11-24",
+      "url": "http://news.imobile.com.cn/articles/2026/1124/236197.shtml"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3684519",
+      "title": "Waymo召回约4,500辆自动驾驶出租车，此前发生11起误入封闭车道事故",
+      "summary": "NewsData报道",
+      "source": "Investing_Cn",
+      "date": "2026-11-24",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3684519"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a4q4zwzw/",
+      "title": "全球最大Robotaxi玩家栽在交警手上！Waymo在美召回4488辆自动驾驶汽车",
+      "summary": "快科技11月24日消息，美国国家公路交通安全管理局（NHTSA）公布的召回信息显示，Waymo将召回4488辆搭载第五代和第六代自动驾驶系统的汽车，涉及软件版本早于2026年9月17日更新的车辆。而召......",
       "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/a3m47g4d/"
+      "date": "2026-11-24",
+      "url": "https://post.smzdm.com/p/a4q4zwzw/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1795433421129603.html",
-      "title": "南昌站预赛决赛冠军“双包揽”！文远知行成中国智驾大赛“九冠王”",
+      "id": "http://www.pcauto.com.cn/news/5194/51947546.html",
+      "title": "长途出差行政轿车怎么选？全新红旗H9、奥迪A6L、宝马5系长轴距三款车对比",
+      "summary": "对于经常跨城出差、需要兼顾商务接待与长途驾乘的用户，行政轿车关系到一路的乘坐舒适、驾驶从容与用车成本。...",
+      "source": "Pcauto_Cn",
+      "date": "2026-11-24",
+      "url": "http://www.pcauto.com.cn/news/5194/51947546.html"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5194/51947549.html",
+      "title": "车险理赔服务的四类判断项：快赔条件、网点承接、人伤对接与适配场景",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-11-24",
+      "url": "http://www.pcauto.com.cn/news/5194/51947549.html"
+    },
+    {
+      "id": "http://www.pcauto.com.cn/news/5194/51947551.html",
+      "title": "补能/底盘/座舱/空间：20 万级纯电轿车的体验拆解",
+      "summary": "NewsData报道",
+      "source": "Pcauto_Cn",
+      "date": "2026-11-24",
+      "url": "http://www.pcauto.com.cn/news/5194/51947551.html"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1879802011010952683",
+      "title": "轿车停在派出所门口，双闪了8分钟，辅警发现车内女子..",
+      "summary": "NewsData报道",
+      "source": "News_Baidu",
+      "date": "2026-11-24",
+      "url": "http://baijiahao.baidu.com/s?id=1879802011010952683"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03zl7vw/",
+      "title": "线控底盘没有机械硬连接，开着到底安不安全？新国标把失效后怎么停写成了八条",
+      "summary": "11月24日晚间，比亚迪第三代唐EV正式上市，售价18.79万至21.99万元，旗舰版可再加2万元选装四驱线控包，车内的转向与制动都改用电信号控制。方向盘与车轮之间，那根存在了一百多年的钢轴被直接撤掉......",
+      "source": "Smzdm",
+      "date": "2026-11-24",
+      "url": "https://post.smzdm.com/p/a03zl7vw/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1795512413169328.html",
+      "title": "“天宫”将迎首位外籍航天员，巴铁友谊超越地球引力|新京报专栏",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-11-23",
-      "url": "https://www.bjnews.com.cn/detail/1795433421129603.html"
+      "date": "2026-11-24",
+      "url": "https://www.bjnews.com.cn/detail/1795512413169328.html"
     },
     {
-      "id": "https://news.gmw.cn/2026-11/24/content_39116409.htm",
-      "title": "【光明时评】新技术赋能社会治理前景广阔",
-      "summary": "2026年世界互联网大会乌镇峰会开幕式主旨演讲聚焦“数智鸿沟”的公平之治，提出一个关乎全人类共同福祉的时代课题：如何让技术进步的成果真正为全社会共享，确保新技术成为造福世界的公共产品。...",
-      "source": "Gmw",
-      "date": "2026-11-23",
-      "url": "https://news.gmw.cn/2026-11/24/content_39116409.htm"
+      "id": "http://www.pcauto.com.cn/news/5194/51947552.html",
+      "title": "大众 ID. ERA 5X 与海狮05怎么选：纯电与插混之间的一道选择题",
+      "summary": "海狮05是比亚迪海洋网今年关注度较高的车系，纯电版海狮05EV指导价11.99万至14.59万元插混版海狮05DM-i指导价9.79万至13.99万元...",
+      "source": "Pcauto_Cn",
+      "date": "2026-11-24",
+      "url": "http://www.pcauto.com.cn/news/5194/51947552.html"
     },
     {
-      "id": "https://post.smzdm.com/p/aggwlxvd/",
-      "title": "小鹏智驾在巴黎开放公众试乘，“首”是真的，“世界第一”还为时过早",
-      "summary": "小鹏把辅助驾驶开进了巴黎。11月20日到28日，巴黎17区一家门店，没搭展台，也没划封闭演示区，试乘一组30分钟，跑的全是巴黎真实的市区道路。11月23日，小鹏官宣图灵AI智驾（NGP）在欧洲开放公众......",
+      "id": "https://post.smzdm.com/p/a5rp2ko8/",
+      "title": "8.99万起， 一台车顶三台，捷途环游者EV上市！",
+      "summary": "把“通勤车、露营车、性能车”塞进了一台方盒子里，11月24日，捷途环游者EV正式上市，官方指导价8.99万元至12.59万元，同时推出十四重购车权益。作为捷途品牌首款纯电车型，这台定位“全球多面新方盒”的新车没有走单一路线，而是把时尚通勤、旅行露营与赛级......",
       "source": "Smzdm",
-      "date": "2026-11-23",
-      "url": "https://post.smzdm.com/p/aggwlxvd/"
+      "date": "2026-11-24",
+      "url": "https://post.smzdm.com/p/a5rp2ko8/"
+    },
+    {
+      "id": "https://techstartups.com/2026/11/24/south-korean-ai-startup-whereable-ai-raises-2-26m-to-bring-autonomous-driving-to-industrial-sites/",
+      "title": "South Korean AI startup whereable.ai raises $2.26M to bring autonomous driving to industrial sites",
+      "summary": "Autonomous driving has largely been associated with robotaxis and self-driving cars, but a South Korean AI startup sees an opportunity in places far removed from public roads: shipyards, airports, and...",
+      "source": "TechStartups.com",
+      "date": "2026-11-24",
+      "url": "https://techstartups.com/2026/11/24/south-korean-ai-startup-whereable-ai-raises-2-26m-to-bring-autonomous-driving-to-industrial-sites/"
     },
     {
       "id": "https://www.europesays.com/3389505/",
@@ -257,6 +195,22 @@
       "source": "Firstpost",
       "date": "2026-11-18",
       "url": "https://www.firstpost.com/tech/waymo-suspends-freeway-rides-across-us-after-california-imposes-safety-restrictions-14060986.html"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/uber-momenta-start-free-trials-for-robotaxi-services-in-munich-ce785eddd98bf62c",
+      "title": "Uber, Momenta Start Free Trials for Robotaxi Services in Munich",
+      "summary": "By Jiahui Huang Ride-hailing company Uber Technologies and Chinese autonomous-driving company Momenta have begun trial operations for robotaxi services in Munich, bringing the companies closer to......",
+      "source": "MarketScreener",
+      "date": "2026-11-18",
+      "url": "https://www.marketscreener.com/news/uber-momenta-start-free-trials-for-robotaxi-services-in-munich-ce785eddd98bf62c"
+    },
+    {
+      "id": "https://www.cbsnews.com/losangeles/news/waymo-robotaxis-california-dmv-freeways-autonomous-vehicles/",
+      "title": "California DMV blocks Waymo robotaxis from freeways after construction zone incidents",
+      "summary": "California's Department of Motor Vehicles has blocked Waymo autonomous vehicles from operating on state freeways following incidents involving the robotaxis driving through construction zones....",
+      "source": "CBS News",
+      "date": "2026-11-17",
+      "url": "https://www.cbsnews.com/losangeles/news/waymo-robotaxis-california-dmv-freeways-autonomous-vehicles/"
     }
   ]
 }
