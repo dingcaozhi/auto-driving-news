@@ -1,12 +1,10 @@
 {
-  "lastUpdated": "2026-11-27 07:55:18",
-  "totalCount": 31,
+  "lastUpdated": "2026-11-28 07:24:51",
+  "totalCount": 28,
   "sources": {
-    "Bilibili": 5,
-    "Gmw": 4,
-    "Smzdm": 10,
-    "Eeo": 1,
+    "Smzdm": 16,
     "Bjnews": 1,
+    "Gmw": 1,
     "The Verge": 1,
     "NDTV Profit": 1,
     "The Manila Times": 1,
@@ -14,178 +12,154 @@
     "EUROPE SAYS": 1,
     "The Tribune": 1,
     "ANI (Asian News International)": 1,
-    "Boulder Daily Camera": 1,
     "The Guardian": 1,
-    "Firstpost": 1
+    "Firstpost": 1,
+    "MarketScreener": 1
   },
   "news": [
     {
-      "id": "https://www.bilibili.com/video/BV1EQs86jE2V",
-      "title": "【B站】【GTA6优化教程】下车辆不熄火/自动驾驶/驾车射击 游戏设置推荐 特殊玩法小技巧 游戏体验 保姆级讲解",
-      "summary": "【GTA6优化教程】\n游戏设置推荐 \n改善游戏体验 \n特殊玩法小技巧 \n保姆级讲解~...",
-      "source": "Bilibili",
-      "date": "2026-11-27",
-      "url": "https://www.bilibili.com/video/BV1EQs86jE2V"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV13osx64EhN",
-      "title": "【B站】【GTA6】自动驾驶开启方法",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-27",
-      "url": "https://www.bilibili.com/video/BV13osx64EhN"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1drK6zMEu9",
-      "title": "【B站】死亡搁浅2 如和开启自动驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-27",
-      "url": "https://www.bilibili.com/video/BV1drK6zMEu9"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV1Tg17zbERW",
-      "title": "【B站】华为智驾新品牌发布-星驰！华为乾崑智驾主打自动驾驶，星驰辅助驾驶",
-      "summary": "B站视频",
-      "source": "Bilibili",
-      "date": "2026-11-27",
-      "url": "https://www.bilibili.com/video/BV1Tg17zbERW"
-    },
-    {
-      "id": "https://www.bilibili.com/video/BV182GnzRERu",
-      "title": "【B站】【无人驾驶入门到精通！】清华大佬13集精讲，绝对通俗易懂！（感知实战、视觉定位、预测系统、路径规划、控制理论、强化学习）",
-      "summary": "白嫖课程资料+100G入门到进阶AI资源包+论文指导+kaggle组队/就业指导+技术问题答疑\n关注微信公众号：AI技术星球 发送：977 领取\n1、超详细AI学习路线\n2、OpenCV、Pytorch、YOLO等框架教程\n3、AI快速入门视频教程合集（Python基础、数学基础、NLP）附源码课件...",
-      "source": "Bilibili",
-      "date": "2026-11-27",
-      "url": "https://www.bilibili.com/video/BV182GnzRERu"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-11/27/content_39124641.htm",
-      "title": "智能体法律主体地位的挑战与出路",
-      "summary": "人工智能体（AI Agent）是在大语言模型的基础上，扩展出环境感知、自主规划与行动能力的产物，标志着人工智能从语言推理迈向行动。当下智能体的自主推理和行动能力，已经强大到足以使其成为人类法律行为中的一个重要辅助环节。...",
-      "source": "Gmw",
-      "date": "2026-11-26",
-      "url": "https://news.gmw.cn/2026-11/27/content_39124641.htm"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-11/27/content_39124609.htm",
-      "title": "内蒙古首座4F级国际机场投运",
-      "summary": "据了解，呼和浩特盛乐国际机场航站楼建筑面积32万平方米，建有2条间距2公里、可独立运行的远距平行跑道；共设130个停机位，其中包含近机位64个、远机位66个，预留有宽体机专属停机位，专门适配大型国际航班。...",
-      "source": "Gmw",
-      "date": "2026-11-26",
-      "url": "https://news.gmw.cn/2026-11/27/content_39124609.htm"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-11/27/content_39124559.htm",
-      "title": "作名词单用时，“骑”字宜读古音",
-      "summary": "NewsData报道",
-      "source": "Gmw",
-      "date": "2026-11-26",
-      "url": "https://news.gmw.cn/2026-11/27/content_39124559.htm"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-11/27/content_39124577.htm",
-      "title": "【光明时评】发展自动驾驶技术，治理须跟上",
-      "summary": "2026年深圳APEC会议期间，深圳街头的自动驾驶车辆成为展示我国科创活力的生动窗口。自动驾驶作为人工智能与实体经济深度融合的重要领域，也是推动传统实体经济转型升级的新兴科技力量。当前，自动驾驶正处于由测试验证迈向规模化应用的关键阶段。如何以高水平治理打通技术落地堵点、促进自动驾驶高质量发展，成为抢占智能时代发展主动权的重要课题。...",
-      "source": "Gmw",
-      "date": "2026-11-26",
-      "url": "https://news.gmw.cn/2026-11/27/content_39124577.htm"
-    },
-    {
-      "id": "https://post.smzdm.com/p/awwm3p6k/",
-      "title": "星驰与乾崑智驾“技术同源”：华为新品牌共享了什么，又拆开了什么",
-      "summary": "11月26日晚间，在广州举办的2026华为乾崑生态大会上，华为公司高级副总裁、引望公司CEO靳玉志正式发布辅助驾驶新品牌\"星驰\"，寓意星耀千家、驰骋万里。星驰与乾崑智驾关系的官方表述同时钉死：两者共享同一套技术底座，遵从同一套研发流程与车规级质量管理体系......",
+      "id": "https://post.smzdm.com/p/az8zlmdp/",
+      "title": "小米世界模型2.0实时渲染逼近实拍，对智驾安全有啥用？",
+      "summary": "11月27日，小米汽车正式发布世界模型2.0，把多视角视频生成、物理交互建模、三维场景重建和动作建模接进同一套架构。官方演示把SR路面渲染、世界模型生成画面与车载摄像头实拍三屏对照，中间生成的车外视角被认为已经接近实拍。有数码博主则把演示中随手可旋转、低......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/awwm3p6k/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/az8zlmdp/"
     },
     {
-      "id": "https://post.smzdm.com/p/awwd4l7k/",
-      "title": "200多商务座拉萨直达日喀则，500多住进全世界海拔最高希尔顿套房",
-      "summary": "上一篇写到在拉萨待了4天，天天CityWalk。关于前面的西藏旅程，见下面3篇文章：接下来，我坐了火车去日喀则。有朋友可能会问，从拉萨自驾到日喀则不好吗？反正后面也要接着走219为什么还要坐火车？一方面少开300公里是300公里，日喀则也有可以异地提车还......",
+      "id": "https://post.smzdm.com/p/anv5e48p/",
+      "title": "小米世界模型同时支持车和机器人，普通人能感知到什么变化？",
+      "summary": "11月27日的广州车展上，小米在同一天做了两件事：上午发布小米HAD最新版本Xiaomi HyperOS 1.20，宣布小米澎程全系即日起开启全量推送。下午公布小米汽车世界模型2.0（Xiaomi Auto World Model 2.0）的技术细节，官......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/awwd4l7k/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/anv5e48p/"
     },
     {
-      "id": "https://post.smzdm.com/p/arzl92l7/",
-      "title": "10-15万级车也能搭华为同源智驾？星驰和乾崑差在哪",
-      "summary": "11月26日，2026华为乾崑生态大会在广州举行，华为公司高级副总裁、引望公司CEO靳玉志发布了辅助驾驶新品牌“星驰”。官方定位很明确：乾崑智驾ADS历经5代演进，未来主要面向L3及以上自动驾驶；星驰则专注L2级辅助驾驶。知乎知乎所谓“同源”，指向的是底......",
+      "id": "https://post.smzdm.com/p/aomgk437/",
+      "title": "小米世界模型2.0的“现实版GTA”预览，车主能用到吗？",
+      "summary": "小米把世界模型2.0的生成画面放出来，看起来确实像 GTA：鸟瞰的路口、排队等灯的车辆、随视角平移的街景，像是渲染出来的开放世界。但先说结论——这段\"现实版GTA\"是云端训练与仿真系统的产物，车主没法直接把它开上车；真正能用的，是同一天发布的车端版本：H......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/arzl92l7/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/aomgk437/"
     },
     {
-      "id": "https://post.smzdm.com/p/axk6wpk9/",
-      "title": "华为星驰辅助驾驶落地，哪些品牌车型明年会先搭载",
-      "summary": "11月26日晚间，华为乾崑生态大会在广州举行，华为公司高级副总裁、引望公司CEO靳玉志发布辅助驾驶新品牌\"星驰\"，预计明年将有超过10款搭载它的新车量产上市，首批合作车企为深蓝汽车、上汽通用五菱、北汽极狐、东风奕派、广汽传祺。首搭车型已经有了确切答案：全......",
+      "id": "https://post.smzdm.com/p/a03v59m9/",
+      "title": "标配空悬+后轮转向，全新H9开着真像D级车？",
+      "summary": "11月27日，2026广州车展开幕首日，全新红旗H9正式上市，推出豪华MAX、尊贵Ultra、旗舰Ultra、四驱旗舰Ultimate四款车型，售价32.98万—41.98万元，全系为2.0T插电混动。选题里的核心疑问——空悬和后轮转向都标配了，开起来是......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/axk6wpk9/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/a03v59m9/"
     },
     {
-      "id": "https://post.smzdm.com/p/a6z5mqzo/",
-      "title": "华为发布辅助驾驶新品牌“星驰”：专注L2，和高阶智驾比能覆盖哪些场景",
-      "summary": "2026年11月26日晚，广州华为乾崑生态大会上，华为公司高级副总裁、引望公司CEO靳玉志发布了引望全新辅助驾驶品牌“星驰”，引望给出的答案是：专注L2辅助驾驶。官方同时明确，与乾崑智驾技术同源，预计明年有超过10款搭载星驰辅助驾驶的新车上市。这次发布没......",
+      "id": "https://post.smzdm.com/p/ad7o5pld/",
+      "title": "小米世界模型2.0“实时渲染”上热搜：AI生成的SR画面，车载指标仍未披露",
+      "summary": "2026年11月27日17时，官方微博“小米技术”发布“小米汽车世界模型2.0”，同时公开技术报告与项目主页，在前代基础上把多视角视频生成、物理交互建模、三维场景重建与动作建模连接起来。把它送上热搜的却不是各项基准分数，而是一段演示：车载SR画面（辅助驾......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/a6z5mqzo/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/ad7o5pld/"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/1127/1104583.shtml",
-      "title": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账",
-      "summary": "在李斌看来，汽车产品是AI进入物理世界的重要载体，汽车企业自身也需要成为AI原生组织，让AI真正进入企业的经营过程。成为AI原生组织是下一阶段竞争与变革的关键。...",
-      "source": "Eeo",
-      "date": "2026-11-26",
-      "url": "http://www.eeo.com.cn/2026/1127/1104583.shtml"
+      "id": "https://post.smzdm.com/p/a6z562nz/",
+      "title": "MG官宣停产燃油车：上月燃油车只卖了642台，这次All in其实没那么疼",
+      "summary": "11月27日的2026广州车展上，上汽MG正式官宣：自2027年1月1日起，面向中国大陆市场停产燃油车，全面All in新能源。公告的精确措辞是\"停产在售版本纯燃油车型\"，边界同时划了三条：停的只限中国大陆市场，海外市场不受影响，现有燃油车用户的售后维保......",
+      "source": "Smzdm",
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/a6z562nz/"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1795684466129627.html",
-      "title": "绿智无界，装备美好未来，徐工2026宝马展盛大开幕",
+      "id": "https://post.smzdm.com/p/apqw74ew/",
+      "title": "仰望鼎曜亮相后，国产超豪华行政轿车靠什么和传统豪华旗舰竞争",
+      "summary": "2026年11月7日，比亚迪旗下仰望品牌在阿联酋阿布扎比全球首发超豪华行政旗舰轿车鼎曜（英文名ALTIOR），同步推出行政版与山河鼎韵限量版。这也是仰望首次以完整品牌形象在海外举行全球发布会。二十天后，11月27日启幕的广州车展上，鼎曜山河鼎韵限量版在仰......",
+      "source": "Smzdm",
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/apqw74ew/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8op0rr/",
+      "title": "仰望鼎曜广州车展首秀：不用弯腰入座、一键隐私，行政旗舰的礼宾设计改变了哪些实际体验",
+      "summary": "11月27日，2026广州国际车展开幕，仰望鼎曜迎来国内首次亮相，山河鼎韵限量版同步实车全球首秀。界面新闻知乎这台车早在11月7日就已在阿联酋阿布扎比完成全球首发。仰望总经理胡晓庆在车展期间确认：山河鼎韵限量版国内定价208万元，海外售价远高于国内，定金......",
+      "source": "Smzdm",
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/ak8op0rr/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5r0mz9x/",
+      "title": "戴渐进镜片看电脑要抬头找角度？先量2个距离再定通道｜付镜片钱前，这2个数字和一句话记得说",
+      "summary": "很多人第一次配渐进，都会撞上这个落差。知乎用户「合肥配镜研究」11月18日的帖子里，替办公人群问得很直白：「明明验光的时候看得很清楚，为什么眼镜配好以后，看电脑需要抬头，看手机要找角度，有时候走路还会觉得晕？」1 我翻了一圈这个月的验光师帖，答案大概率不......",
+      "source": "Smzdm",
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/a5r0mz9x/"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1795790986168828.html",
+      "title": "合资车企广州车展集体“换脑”又“换身”",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-11-26",
-      "url": "https://www.bjnews.com.cn/detail/1795684466129627.html"
+      "date": "2026-11-27",
+      "url": "https://www.bjnews.com.cn/detail/1795790986168828.html"
     },
     {
-      "id": "https://post.smzdm.com/p/aggomr07/",
-      "title": "《GTA6》如果是个恐怖游戏？这一周的玩家会回答：不用如果",
-      "summary": "GTA6已于11月19日正式发售。首日战报同样夸张：R星官宣其零售销售额37.9亿美元、预售3250万份。但发售第一周，社区里最热的话题不是主线剧情，而是\"恐怖游戏\"：夜间公路上的白衣女鬼、从下水道里掏出\"手指\"的美女邻居、用狙瞄NPC招来的白发狂徒……......",
+      "id": "https://post.smzdm.com/p/ak8op0w8/",
+      "title": "32.98万起的全新红旗H9上市：核心硬件全系同款，买哪款最划算？",
+      "summary": "11月27日，全新红旗H9在2026广州车展正式上市，共推出豪华MAX、尊贵Ultra、旗舰Ultra、四驱旗舰Ultimate四款车型，官方指导价32.98万元至41.98万元。上市价与11月7日开启预售时公布的预售先享价完全一致，四个版本一个没变。选......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/aggomr07/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/ak8op0w8/"
     },
     {
-      "id": "https://post.smzdm.com/p/aggomrm7/",
-      "title": "玩GTA6总被突然吓到？这些恐怖内容可以避开吗",
-      "summary": "《GTA6》于2026年11月19日登陆PlayStation 5与XBOX Series X|S。然而发售一周内，各平台刷屏最多的不是主线强弱，而是玩家喊\"被吓到了\"。深夜公路上出现的女鬼和大脚怪这类恐怖内容确实真实存在。凌晨打猎时的鬼爬车、深海里的怪......",
+      "id": "https://post.smzdm.com/p/az8zlmvp/",
+      "title": "李斌说「买小鹏要趁早」，这句只有一半是真话，另一半在Max那一万差价里",
+      "summary": "11月26日，蔚来科技日结束后的采访里，李斌丢下一句立刻刷屏的话：\"买小鹏要趁早。\"他还补了一句，说很高兴看到越来越多公司，包括小鹏，选择订阅这门生意。乍一听这是对手的调侃。我琢磨了两天，觉得这句话一半是事实陈述——事实的部分，跟要不要买小鹏没关系，跟一......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/aggomrm7/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/az8zlmvp/"
     },
     {
-      "id": "https://post.smzdm.com/p/a26qwn87/",
-      "title": "18.79万起的第三代唐，省出来的空间真能说服老唐车主吗？",
-      "summary": "先说我的结论：这套 “砍掉七座、把空间全部还给二排” 的思路，能打动一部分老唐车主，但它绝对不是面向所有老车主的升级答案，本质是一次明确的路线取舍。不少老唐（唐 DM、唐 EV、唐 L）车主当初选它，很大一个理由就是可选七座。大家心里都清楚，唐的第三排属......",
+      "id": "https://post.smzdm.com/p/a3mrk9r5/",
+      "title": "标配智驾的新世代i3，能应对哪些国内日常路况",
+      "summary": "在2026广州车展上，新世代宝马i3正式上市，30L、40L、50L三款车型全国统一价24.99万至31.99万元，明年1月起开启交付。宝马把近40项高价值配置纳入全系标配，智能驾驶辅助也进了入门车型......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/a26qwn87/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/a3mrk9r5/"
     },
     {
-      "id": "https://post.smzdm.com/p/a4q6e9gw/",
-      "title": "华为乾崑发布新品牌「星驰」！携手宁德时代，换电时代要来了？",
-      "summary": "华为终于要把智驾往下放了。今晚华为乾崑生态大会，公布了一堆新计划和生态新进展。最大亮点不是ADS 5，而是一个新品牌：“星驰”官宣。该品牌与乾崑智驾技术同源，主打大众化辅助驾驶体验，预计2027年将有......",
+      "id": "https://post.smzdm.com/p/a82wknwq/",
+      "title": "24.99万起的新世代i3，近40项标配里哪些是真有用的配置",
+      "summary": "11月27日，2026广州车展上，专为中国市场打造的新世代首款国产轿车——新世代BMW i3正式上市并开启订购，全国统一价30L为24.99万元、40L为27.99万元、50L为31.99万元，官方主......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/a4q6e9gw/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/a82wknwq/"
     },
     {
-      "id": "https://post.smzdm.com/p/ak8on0rr/",
-      "title": "交通锥加鸡蛋！美国男子30次霸凌Waymo无人车 自动驾驶只能原地挨打",
-      "summary": "快科技11月26日消息，据Electrek报道，近日，美国科罗拉多州丹佛市出现了一名专门针对Waymo无人驾驶出租车的男子。该男子多次使用交通锥围堵Waymo无人驾驶出租车，并向车辆投掷鸡蛋，类似事件......",
+      "id": "https://news.gmw.cn/2026-11/28/content_39126630.htm",
+      "title": "醉驾后辅助驾驶系统报警，算自动投案吗？",
+      "summary": "科技进步是为了让出行更安全舒适便利，而不是给违法行为“托底”。即便有了辅助驾驶系统，驾驶人始终是道路交通安全的第一责任人，行驶过程中仍需时刻保持清醒、随时接管车辆。辅助驾驶系统的参与不能替代驾驶人的法律责任，不会改变醉酒驾驶的违法本质。...",
+      "source": "Gmw",
+      "date": "2026-11-27",
+      "url": "https://news.gmw.cn/2026-11/28/content_39126630.htm"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03v590w/",
+      "title": "2027款XT5限时21.59万起，这个价格能买到什么水平",
+      "summary": "11月27日，广州车展上，2027款凯迪拉克XT5正式上市：4款车型，官方指导价23.59万至32.59万元，限时权益价21.59万至30.59万元。这个起售价意味着，传统豪华品牌的中型SUV第一次把门槛压进22万元区间，而随车动作是官方所说的41项调整......",
       "source": "Smzdm",
-      "date": "2026-11-26",
-      "url": "https://post.smzdm.com/p/ak8on0rr/"
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/a03v590w/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aggon6qd/",
+      "title": "苹果最贵iPad曝光：折叠内屏19~20英寸，时间表滑向2029年",
+      "summary": "彭博社记者马克·古尔曼在最新一期 Power On 播客节目里透露，苹果内部正在推进代号 Project J312 的巨型可折叠 iPad，展开后内屏尺寸达到 19~20 英寸，上市后售价预计介于 3,000 美元至 5,000 美元（约合 20,025......",
+      "source": "Smzdm",
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/aggon6qd/"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a6z5620o/",
+      "title": "从“加钱买蜂鸟版”到全系标配，新XT5的日常驾驶和老款差在哪",
+      "summary": "11月27日，2027款凯迪拉克XT5在广州车展正式上市，共推出4款车型、限时权益价21.59万元起，并在“豪华大满配”之上带来41项升级；官方明确表示，新车保留备受好评的蜂鸟底盘黄金三件套。往前看，这套底盘第一次出现在XT5车系上还是2022年的蜂鸟版......",
+      "source": "Smzdm",
+      "date": "2026-11-27",
+      "url": "https://post.smzdm.com/p/a6z5620o/"
     },
     {
       "id": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
@@ -244,20 +218,28 @@
       "url": "https://www.aninews.in/news/business/beyond-a-media-tour-vinfasts-v-creator-all-star-summit-2026-brings-global-technology-leaders-together-to-debate-the-future-of-mobility20261120102124/"
     },
     {
-      "id": "https://www.dailycamera.com/2026/11/19/waymo-driverless-vehicles-expansion-tickets/",
-      "title": "In Denver, Waymo soon will be joined by self-driving trucks, vehicles",
-      "summary": "Denver will soon have more autonomous vehicles on its roads as Waymo expands -- despite some friction on the roads -- and other self-driving cars enter the market....",
-      "source": "Boulder Daily Camera",
-      "date": "2026-11-19",
-      "url": "https://www.dailycamera.com/2026/11/19/waymo-driverless-vehicles-expansion-tickets/"
-    },
-    {
       "id": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
       "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
       "summary": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways...",
       "source": "The Guardian",
       "date": "2026-11-18",
       "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"
+    },
+    {
+      "id": "https://www.firstpost.com/tech/waymo-suspends-freeway-rides-across-us-after-california-imposes-safety-restrictions-14060986.html",
+      "title": "Waymo suspends freeway rides across US after California imposes safety restrictions",
+      "summary": "Waymo has temporarily withdrawn its robotaxis from freeways across all 15 US markets after California regulators barred the Alphabet-owned company from operating on state highways. The decision follow...",
+      "source": "Firstpost",
+      "date": "2026-11-18",
+      "url": "https://www.firstpost.com/tech/waymo-suspends-freeway-rides-across-us-after-california-imposes-safety-restrictions-14060986.html"
+    },
+    {
+      "id": "https://www.marketscreener.com/news/uber-momenta-start-free-trials-for-robotaxi-services-in-munich-ce785eddd98bf62c",
+      "title": "Uber, Momenta Start Free Trials for Robotaxi Services in Munich",
+      "summary": "By Jiahui Huang Ride-hailing company Uber Technologies and Chinese autonomous-driving company Momenta have begun trial operations for robotaxi services in Munich, bringing the companies closer to......",
+      "source": "MarketScreener",
+      "date": "2026-11-18",
+      "url": "https://www.marketscreener.com/news/uber-momenta-start-free-trials-for-robotaxi-services-in-munich-ce785eddd98bf62c"
     }
   ]
 }
